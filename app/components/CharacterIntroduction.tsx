@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { Character } from '@/lib/types';
 
 interface CharacterIntroductionProps {
@@ -30,16 +30,23 @@ export default function CharacterIntroduction({
   onComplete,
 }: CharacterIntroductionProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [isLastCard, setIsLastCard] = useState(false);
 
-  useEffect(() => {
-    setIsLastCard(currentIndex === characters.length);
+  // Derive isLastCard directly instead of using useEffect
+  const isLastCard = currentIndex === characters.length;
+  const currentChar = isLastCard ? null : characters[currentIndex];
+  const progress = isLastCard ? 100 : ((currentIndex + 1) / characters.length) * 100;
+
+  const handleNext = useCallback(() => {
+    if (currentIndex < characters.length) {
+      setCurrentIndex(currentIndex + 1);
+    }
   }, [currentIndex, characters.length]);
 
-  const currentChar = isLastCard ? null : characters[currentIndex];
-  const progress = isLastCard
-    ? 100
-    : ((currentIndex + 1) / characters.length) * 100;
+  const handlePrevious = useCallback(() => {
+    if (currentIndex > 0) {
+      setCurrentIndex(currentIndex - 1);
+    }
+  }, [currentIndex]);
 
   useEffect(() => {
     const handleKeyboard = (e: KeyboardEvent) => {
@@ -50,19 +57,7 @@ export default function CharacterIntroduction({
 
     window.addEventListener('keydown', handleKeyboard);
     return () => window.removeEventListener('keydown', handleKeyboard);
-  }, [currentIndex, isLastCard]);
-
-  const handleNext = () => {
-    if (currentIndex < characters.length) {
-      setCurrentIndex(currentIndex + 1);
-    }
-  };
-
-  const handlePrevious = () => {
-    if (currentIndex > 0) {
-      setCurrentIndex(currentIndex - 1);
-    }
-  };
+  }, [handleNext, handlePrevious, isLastCard, onComplete]);
 
   const getToneInfo = (tone: number) => {
     return TONE_COLORS[tone as keyof typeof TONE_COLORS] || TONE_COLORS[5];
@@ -87,19 +82,16 @@ export default function CharacterIntroduction({
           <div className="text-center mb-8">
             <div className="text-6xl mb-4">🎓</div>
             <h3 className="text-xl font-semibold text-gray-700 mb-4">
-              You've learned all {characters.length} characters!
+              You&apos;ve learned all {characters.length} characters!
             </h3>
           </div>
 
           {/* Summary List */}
           <div className="mb-8">
-            <p className="text-gray-600 font-medium mb-3">You've seen:</p>
+            <p className="text-gray-600 font-medium mb-3">You&apos;ve seen:</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
               {characters.map((char) => (
-                <div
-                  key={char.id}
-                  className="flex items-center gap-3 p-2 bg-gray-50 rounded"
-                >
+                <div key={char.id} className="flex items-center gap-3 p-2 bg-gray-50 rounded">
                   <span className="text-2xl font-serif">{char.character}</span>
                   <span className="text-sm text-gray-600">
                     ({char.pinyin}) - {char.meaning}
@@ -159,43 +151,29 @@ export default function CharacterIntroduction({
               style={{ width: `${progress}%` }}
             />
           </div>
-          <div className="text-right text-sm text-gray-500 mt-1">
-            {Math.round(progress)}%
-          </div>
+          <div className="text-right text-sm text-gray-500 mt-1">{Math.round(progress)}%</div>
         </div>
 
         {/* Character Display */}
         <div className="text-center mb-8">
-          <div className="text-9xl font-serif mb-4 leading-none">
-            {currentChar.character}
-          </div>
+          <div className="text-9xl font-serif mb-4 leading-none">{currentChar.character}</div>
 
-          <div className="text-3xl text-gray-700 mb-2">
-            ({currentChar.pinyin})
-          </div>
+          <div className="text-3xl text-gray-700 mb-2">({currentChar.pinyin})</div>
 
           <div className={`text-xl font-semibold ${toneInfo.color} mb-1`}>
             Tone: {toneInfo.symbol} {formatToneOrdinal(currentChar.tone)}
           </div>
 
-          <div className="text-sm text-gray-500 mb-4">
-            {toneInfo.label}
-          </div>
+          <div className="text-sm text-gray-500 mb-4">{toneInfo.label}</div>
 
-          <div className="text-2xl font-medium text-gray-800">
-            Meaning: {currentChar.meaning}
-          </div>
+          <div className="text-2xl font-medium text-gray-800">Meaning: {currentChar.meaning}</div>
         </div>
 
         {/* Story Box */}
         <div className="mb-6">
           <div className="bg-amber-50 border-2 border-amber-200 rounded-lg p-6">
-            <h3 className="text-lg font-semibold text-gray-700 mb-3">
-              📖 Story:
-            </h3>
-            <p className="text-gray-800 text-lg leading-relaxed">
-              {currentChar.story}
-            </p>
+            <h3 className="text-lg font-semibold text-gray-700 mb-3">📖 Story:</h3>
+            <p className="text-gray-800 text-lg leading-relaxed">{currentChar.story}</p>
           </div>
         </div>
 
@@ -238,9 +216,7 @@ export default function CharacterIntroduction({
         </div>
 
         {/* Keyboard Hints */}
-        <p className="text-center text-xs text-gray-400 mt-4">
-          Use ← → arrow keys to navigate
-        </p>
+        <p className="text-center text-xs text-gray-400 mt-4">Use ← → arrow keys to navigate</p>
       </div>
     </div>
   );

@@ -4,7 +4,7 @@
     {
       "id": 2808,
       "character": "鴻",
-      "pinyin": "hong",
+      "pinyin": "hóng",
       "tone": 2,
       "meaning": "swan",
       "story": "\"HUNG?\" the Yangtze bird questions curiously - a swan, elegant waterfowl?",
@@ -13,7 +13,7 @@
     {
       "id": 2809,
       "character": "鴿",
-      "pinyin": "ge",
+      "pinyin": "gē",
       "tone": 1,
       "meaning": "pigeon",
       "story": "\"GUH!\" the bird sings cheerfully - a pigeon, dove, and messenger!",
@@ -22,7 +22,7 @@
     {
       "id": 2810,
       "character": "鶴",
-      "pinyin": "he",
+      "pinyin": "hè",
       "tone": 4,
       "meaning": "crane",
       "story": "\"HUH!\" the bird commands sharply - a crane, stork standing tall!",
@@ -31,7 +31,7 @@
     {
       "id": 2811,
       "character": "鶯",
-      "pinyin": "ying",
+      "pinyin": "yīng",
       "tone": 1,
       "meaning": "oriole",
       "story": "\"YING!\" the firehouse bird sings cheerfully - an oriole, singing and yellow!",
@@ -40,7 +40,7 @@
     {
       "id": 2812,
       "character": "鵲",
-      "pinyin": "que",
+      "pinyin": "què",
       "tone": 4,
       "meaning": "magpie",
       "story": "\"CHWEH!\" the times past bird commands sharply - a magpie, chattering and black and white!",
@@ -49,7 +49,7 @@
     {
       "id": 2813,
       "character": "鷗",
-      "pinyin": "ou",
+      "pinyin": "ōu",
       "tone": 1,
       "meaning": "gull",
       "story": "\"OH!\" the region bird sings cheerfully - a gull, seabird on the coast!",
@@ -58,7 +58,7 @@
     {
       "id": 2814,
       "character": "鴉",
-      "pinyin": "ya",
+      "pinyin": "yā",
       "tone": 1,
       "meaning": "raven",
       "story": "\"YAH!\" the tusk bird sings cheerfully - a raven, crow in literary form!",
@@ -67,7 +67,7 @@
     {
       "id": 2815,
       "character": "鵝",
-      "pinyin": "e",
+      "pinyin": "é",
       "tone": 2,
       "meaning": "goose",
       "story": "\"UH?\" the bird questions curiously - a goose, waterfowl in the velvet room?",
@@ -76,7 +76,7 @@
     {
       "id": 2816,
       "character": "烏",
-      "pinyin": "wu",
+      "pinyin": "wū",
       "tone": 1,
       "meaning": "crow",
       "story": "\"WOO!\" the bird sings cheerfully though the top stroke is missing - a crow, black raven!",
@@ -85,7 +85,7 @@
     {
       "id": 2817,
       "character": "嗚",
-      "pinyin": "wu",
+      "pinyin": "wū",
       "tone": 1,
       "meaning": "zoom-zoom",
       "story": "\"WOO!\" the mouth and crow sing cheerfully - zoom-zoom, sound onomatopoeia!",
@@ -94,7 +94,7 @@
     {
       "id": 2818,
       "character": "搗",
-      "pinyin": "dao",
+      "pinyin": "dǎo",
       "tone": 3,
       "meaning": "pound with a pestle",
       "story": "The fingers bend down drooping to pound with a pestle and crush - those hooligans cause trouble!",
@@ -103,7 +103,7 @@
     {
       "id": 2819,
       "character": "寓",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "residence",
       "story": "\"YOO!\" the house commands sharply - a residence, dwelling, and abode!",
@@ -112,7 +112,7 @@
     {
       "id": 2820,
       "character": "愚",
-      "pinyin": "yu",
+      "pinyin": "yú",
       "tone": 2,
       "meaning": "pea-brained",
       "story": "\"YOO?\" the heart questions curiously - is he pea-brained, foolish, and stupid?",
@@ -121,7 +121,7 @@
     {
       "id": 2821,
       "character": "偶",
-      "pinyin": "ou",
+      "pinyin": "ǒu",
       "tone": 3,
       "meaning": "by chance",
       "story": "The person bends down drooping - by chance, coincidental, and accidental.",
@@ -130,7 +130,7 @@
     {
       "id": 2822,
       "character": "厲",
-      "pinyin": "li",
+      "pinyin": "lì",
       "tone": 4,
       "meaning": "stern",
       "story": "\"LEE!\" he commands sharply - stern, severe, and strict!",
@@ -139,7 +139,7 @@
     {
       "id": 2823,
       "character": "勵",
-      "pinyin": "li",
+      "pinyin": "lì",
       "tone": 4,
       "meaning": "encourage",
       "story": "\"LEE!\" the stern power commands sharply - to encourage, inspire, and motivate!",
@@ -148,7 +148,7 @@
     {
       "id": 2824,
       "character": "鋼",
-      "pinyin": "gang",
+      "pinyin": "gāng",
       "tone": 1,
       "meaning": "steel",
       "story": "\"GAHNG!\" the metal sings cheerfully - steel, iron alloy!",
@@ -157,7 +157,7 @@
     {
       "id": 2825,
       "character": "崗",
-      "pinyin": "gang",
+      "pinyin": "gǎng",
       "tone": 3,
       "meaning": "hillock",
       "story": "The mountain ridge of hill bends down drooping - a hillock, mound for burial in Yiling.",
@@ -166,7 +166,7 @@
     {
       "id": 2826,
       "character": "綱",
-      "pinyin": "gang",
+      "pinyin": "gāng",
       "tone": 1,
       "meaning": "guidelines",
       "story": "\"GAHNG!\" the thread and ridge sing cheerfully - guidelines, outline, and principles!",
@@ -175,7 +175,7 @@
     {
       "id": 2827,
       "character": "逆",
-      "pinyin": "ni",
+      "pinyin": "nì",
       "tone": 4,
       "meaning": "go against",
       "story": "\"NEE!\" the road commands sharply - to go against, oppose, and reverse the turning!",
@@ -184,7 +184,7 @@
     {
       "id": 2828,
       "character": "溯",
-      "pinyin": "su",
+      "pinyin": "sù",
       "tone": 4,
       "meaning": "go upstream",
       "story": "\"SOO!\" the water, mountain goat, and moon command sharply - to go upstream and trace back!",
@@ -193,7 +193,7 @@
     {
       "id": 2829,
       "character": "塑",
-      "pinyin": "su",
+      "pinyin": "sù",
       "tone": 4,
       "meaning": "plastic",
       "story": "\"SOO!\" the soil commands sharply - plastic, synthetic to mold!",
@@ -202,7 +202,7 @@
     {
       "id": 2830,
       "character": "缸",
-      "pinyin": "gang",
+      "pinyin": "gāng",
       "tone": 1,
       "meaning": "vat",
       "story": "\"GAHNG!\" it sings cheerfully - a vat, vessel, and container!",
@@ -211,7 +211,7 @@
     {
       "id": 2831,
       "character": "罐",
-      "pinyin": "guan",
+      "pinyin": "guàn",
       "tone": 4,
       "meaning": "jar",
       "story": "\"GWAN!\" the tin can and stork command sharply - a jar, pot, and bottle!",
@@ -220,7 +220,7 @@
     {
       "id": 2832,
       "character": "鬱",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "depressed",
       "story": "\"YOO!\" the tin can, woods, sitting, rooster tail, crown, and Epsom salts command sharply - depressed, gloomy, and melancholy!",
@@ -229,7 +229,7 @@
     {
       "id": 2833,
       "character": "鹽",
-      "pinyin": "yan",
+      "pinyin": "yán",
       "tone": 2,
       "meaning": "salt",
       "story": "\"YEN?\" the supervise and salt shaker question curiously - salt, mineral for seasoning and necessities?",
@@ -238,7 +238,7 @@
     {
       "id": 2834,
       "character": "鹹",
-      "pinyin": "xian",
+      "pinyin": "xián",
       "tone": 2,
       "meaning": "salty",
       "story": "\"SHYEN?\" the salt shaker and everybody question curiously - salty, savory, and briny?",
@@ -247,7 +247,7 @@
     {
       "id": 2835,
       "character": "掏",
-      "pinyin": "tao",
+      "pinyin": "tāo",
       "tone": 1,
       "meaning": "draw out",
       "story": "\"TAO!\" the fingers and canteen sing cheerfully - to draw out, dig, and extract money!",
@@ -256,7 +256,7 @@
     {
       "id": 2836,
       "character": "淘",
-      "pinyin": "tao",
+      "pinyin": "táo",
       "tone": 2,
       "meaning": "wash in a container",
       "story": "\"TAO?\" the water and canteen question curiously - to wash in a container, eliminate the humans?",
@@ -265,7 +265,7 @@
     {
       "id": 2837,
       "character": "陶",
-      "pinyin": "tao",
+      "pinyin": "táo",
       "tone": 2,
       "meaning": "pottery",
       "story": "\"TAO?\" the pinnacle and canteen question curiously - pottery, ceramic, and clay?",
@@ -274,7 +274,7 @@
     {
       "id": 2838,
       "character": "謠",
-      "pinyin": "yao",
+      "pinyin": "yáo",
       "tone": 2,
       "meaning": "rumor",
       "story": "\"YAO?\" the words question curiously - a rumor, gossip that's fabricated?",
@@ -283,7 +283,7 @@
     {
       "id": 2839,
       "character": "冤",
-      "pinyin": "yuan",
+      "pinyin": "yuān",
       "tone": 1,
       "meaning": "injustice",
       "story": "\"YWEN!\" the crown and rabbit sing cheerfully despite injustice - wronged and accused!",
@@ -292,7 +292,7 @@
     {
       "id": 2840,
       "character": "饞",
-      "pinyin": "chan",
+      "pinyin": "chán",
       "tone": 2,
       "meaning": "gluttonous",
       "story": "\"CHAN?\" the food, bound up, mouth, and bunny rabbit question curiously - gluttonous, greedy, and hungry?",
@@ -301,7 +301,7 @@
     {
       "id": 2841,
       "character": "挽",
-      "pinyin": "wan",
+      "pinyin": "wǎn",
       "tone": 3,
       "meaning": "tow",
       "story": "The fingers and hare bend down drooping - to tow, pull, and drag.",
@@ -310,7 +310,7 @@
     {
       "id": 2842,
       "character": "勉",
-      "pinyin": "mian",
+      "pinyin": "miǎn",
       "tone": 3,
       "meaning": "strive",
       "story": "The muscle bends down drooping - to strive, endeavor, and persevere.",
@@ -319,7 +319,7 @@
     {
       "id": 2843,
       "character": "橡",
-      "pinyin": "xiang",
+      "pinyin": "xiàng",
       "tone": 4,
       "meaning": "rubber tree",
       "story": "\"SHYAHNG!\" the tree and elephant command sharply - rubber tree, latex, and oak!",
@@ -328,7 +328,7 @@
     {
       "id": 2844,
       "character": "豫",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "pleased",
       "story": "\"YOO!\" bestow and elephant command sharply - pleased, happy but hesitate!",
@@ -337,7 +337,7 @@
     {
       "id": 2845,
       "character": "騰",
-      "pinyin": "teng",
+      "pinyin": "téng",
       "tone": 2,
       "meaning": "take flight",
       "story": "\"TUNG?\" the horse questions curiously - to take flight, soar, and rise?",
@@ -346,7 +346,7 @@
     {
       "id": 2846,
       "character": "碼",
-      "pinyin": "ma",
+      "pinyin": "mǎ",
       "tone": 3,
       "meaning": "numeral",
       "story": "The stone bends down drooping - a numeral, number, and digit.",

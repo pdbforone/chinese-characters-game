@@ -4,7 +4,7 @@
     {
       "id": 514,
       "character": "困",
-      "pinyin": "kun",
+      "pinyin": "kùn",
       "tone": 4,
       "meaning": "trapped",
       "story": "Trapped tree in box commands \"Koon!\" sharply stuck!",
@@ -13,7 +13,7 @@
     {
       "id": 515,
       "character": "固",
-      "pinyin": "gu",
+      "pinyin": "gù",
       "tone": 4,
       "meaning": "solid",
       "story": "Solid trap ancient yells \"Goo!\" sharply firm!",
@@ -22,7 +22,7 @@
     {
       "id": 516,
       "character": "國",
-      "pinyin": "guo",
+      "pinyin": "guó",
       "tone": 2,
       "meaning": "Country",
       "story": "A country enclosure solid questions \"Gwoh? Which nation?\" curiously!",
@@ -31,7 +31,7 @@
     {
       "id": 517,
       "character": "圓",
-      "pinyin": "yuan",
+      "pinyin": "yuán",
       "tone": 2,
       "meaning": "round",
       "story": "Round enclosure employee questions \"Yuan? Is it circular?\" curiously!",
@@ -40,7 +40,7 @@
     {
       "id": 518,
       "character": "因",
-      "pinyin": "yin",
+      "pinyin": "yīn",
       "tone": 1,
       "meaning": "a Cause",
       "story": "A cause big enclosure sings \"Yin!\" cheerfully reason!",
@@ -49,7 +49,7 @@
     {
       "id": 519,
       "character": "園",
-      "pinyin": "yuan",
+      "pinyin": "yuán",
       "tone": 2,
       "meaning": "Park",
       "story": "A park enclosure soil questions \"Yuan? Nice garden?\" curiously!",
@@ -58,7 +58,7 @@
     {
       "id": 520,
       "character": "回",
-      "pinyin": "hui",
+      "pinyin": "huí",
       "tone": 2,
       "meaning": "to return",
       "story": "To return enclosure questions \"Hway? Back?\" curiously!",
@@ -67,7 +67,7 @@
     {
       "id": 521,
       "character": "迴",
-      "pinyin": "hui",
+      "pinyin": "huí",
       "tone": 2,
       "meaning": "to revolve",
       "story": "To revolve walk return questions \"Hway? Spinning?\" curiously!",
@@ -76,7 +76,7 @@
     {
       "id": 522,
       "character": "圖",
-      "pinyin": "tu",
+      "pinyin": "tú",
       "tone": 2,
       "meaning": "Picture",
       "story": "A picture enclosure winter questions \"Too? What image?\" curiously!",
@@ -85,7 +85,7 @@
     {
       "id": 523,
       "character": "店",
-      "pinyin": "dian",
+      "pinyin": "diàn",
       "tone": 4,
       "meaning": "a Store",
       "story": "A store building divination commands \"Dian!\" sharply shopping!",
@@ -94,7 +94,7 @@
     {
       "id": 524,
       "character": "庫",
-      "pinyin": "ku",
+      "pinyin": "kù",
       "tone": 4,
       "meaning": "Warehouse",
       "story": "A warehouse building vehicle yells \"Koo!\" sharply storing!",
@@ -103,7 +103,7 @@
     {
       "id": 525,
       "character": "褲",
-      "pinyin": "ku",
+      "pinyin": "kù",
       "tone": 4,
       "meaning": "Trousers",
       "story": "Trousers clothes warehouse command \"Koo!\" sharply pants!",
@@ -112,7 +112,7 @@
     {
       "id": 526,
       "character": "廠",
-      "pinyin": "chang",
+      "pinyin": "chǎng",
       "tone": 3,
       "meaning": "Factory",
       "story": "A factory cliff wide bends down drooping saying \"Chang\"!",
@@ -121,7 +121,7 @@
     {
       "id": 527,
       "character": "床",
-      "pinyin": "chuang",
+      "pinyin": "chuáng",
       "tone": 2,
       "meaning": "Bed",
       "story": "A bed cliff tree questions \"Chwang? Sleep here?\" curiously!",
@@ -130,7 +130,7 @@
     {
       "id": 528,
       "character": "麻",
-      "pinyin": "ma",
+      "pinyin": "má",
       "tone": 2,
       "meaning": "Hemp",
       "story": "Hemp plant under roof questions \"Ma? Rough?\" curiously!",
@@ -139,7 +139,7 @@
     {
       "id": 529,
       "character": "心",
-      "pinyin": "xin",
+      "pinyin": "xīn",
       "tone": 1,
       "meaning": "Heart",
       "story": "A heart beats cheerfully singing \"Shin!\" high!",
@@ -148,7 +148,7 @@
     {
       "id": 530,
       "character": "忘",
-      "pinyin": "wang",
+      "pinyin": "wàng",
       "tone": 4,
       "meaning": "to forget",
       "story": "To forget deceased heart commands \"Wang!\" sharply forgotten!",
@@ -157,7 +157,7 @@
     {
       "id": 531,
       "character": "忍",
-      "pinyin": "ren",
+      "pinyin": "rěn",
       "tone": 3,
       "meaning": "to endure",
       "story": "To endure blade heart bends down drooping saying \"Ren\"!",
@@ -166,7 +166,7 @@
     {
       "id": 532,
       "character": "認",
-      "pinyin": "ren",
+      "pinyin": "rèn",
       "tone": 4,
       "meaning": "to recognize",
       "story": "To recognize words endure yells \"Ren!\" sharply knowing!",
@@ -175,7 +175,7 @@
     {
       "id": 533,
       "character": "志",
-      "pinyin": "zhi",
+      "pinyin": "zhì",
       "tone": 4,
       "meaning": "Aspiration",
       "story": "Aspiration samurai heart commands \"Zhi!\" sharply determined!",
@@ -184,7 +184,7 @@
     {
       "id": 534,
       "character": "誌",
-      "pinyin": "zhi",
+      "pinyin": "zhì",
       "tone": 4,
       "meaning": "Annals",
       "story": "Annals words aspiration yell \"Zhi!\" sharply recording!",
@@ -193,7 +193,7 @@
     {
       "id": 535,
       "character": "思",
-      "pinyin": "si",
+      "pinyin": "sī",
       "tone": 1,
       "meaning": "to consider",
       "story": "To consider field heart sings \"Si!\" cheerfully thinking!",
@@ -202,7 +202,7 @@
     {
       "id": 536,
       "character": "意",
-      "pinyin": "yi",
+      "pinyin": "yì",
       "tone": 4,
       "meaning": "Idea",
       "story": "An idea sound heart commands \"Yi!\" sharply conceiving!",
@@ -211,7 +211,7 @@
     {
       "id": 537,
       "character": "想",
-      "pinyin": "xiang",
+      "pinyin": "xiǎng",
       "tone": 3,
       "meaning": "to think",
       "story": "To think tree idea bends down drooping saying \"Shyang\"!",
@@ -220,7 +220,7 @@
     {
       "id": 538,
       "character": "息",
-      "pinyin": "xi",
+      "pinyin": "xí",
       "tone": 2,
       "meaning": "Breath",
       "story": "Breath self heart questions \"Shi? Breathing?\" curiously!",
@@ -229,7 +229,7 @@
     {
       "id": 539,
       "character": "恐",
-      "pinyin": "kong",
+      "pinyin": "kǒng",
       "tone": 3,
       "meaning": "to fear",
       "story": "To fear work inch heart bends down drooping saying \"Kong\"!",
@@ -238,7 +238,7 @@
     {
       "id": 540,
       "character": "感",
-      "pinyin": "gan",
+      "pinyin": "gǎn",
       "tone": 3,
       "meaning": "to feel",
       "story": "To feel everybody heart bends down drooping saying \"Gan\"!",
@@ -247,7 +247,7 @@
     {
       "id": 541,
       "character": "憾",
-      "pinyin": "han",
+      "pinyin": "hàn",
       "tone": 4,
       "meaning": "a Regret",
       "story": "A regret heart feel commands \"Han!\" sharply regretting!",
@@ -256,7 +256,7 @@
     {
       "id": 542,
       "character": "憂",
-      "pinyin": "you",
+      "pinyin": "yōu",
       "tone": 1,
       "meaning": "worried",
       "story": "Worried head heart sings \"Yo!\" sadly high!",
@@ -265,7 +265,7 @@
     {
       "id": 543,
       "character": "怕",
-      "pinyin": "pa",
+      "pinyin": "pà",
       "tone": 4,
       "meaning": "to dread",
       "story": "To dread heart white commands \"Pa!\" sharply scared!",
@@ -274,7 +274,7 @@
     {
       "id": 544,
       "character": "忙",
-      "pinyin": "mang",
+      "pinyin": "máng",
       "tone": 2,
       "meaning": "busy",
       "story": "Busy heart deceased questions \"Mang? Too much?\" curiously!",
@@ -283,7 +283,7 @@
     {
       "id": 545,
       "character": "慣",
-      "pinyin": "guan",
+      "pinyin": "guàn",
       "tone": 4,
       "meaning": "accustomed to",
       "story": "Accustomed to heart pierce yells \"Gwan!\" sharply used to!",
@@ -292,7 +292,7 @@
     {
       "id": 546,
       "character": "懷",
-      "pinyin": "huai",
+      "pinyin": "huái",
       "tone": 2,
       "meaning": "to cherish",
       "story": "To cherish heart bad questions \"Hwai? Care for?\" curiously!",
@@ -301,7 +301,7 @@
     {
       "id": 547,
       "character": "必",
-      "pinyin": "bi",
+      "pinyin": "bì",
       "tone": 4,
       "meaning": "certainly",
       "story": "Certainly heart pierced commands \"Bee!\" sharply must!",

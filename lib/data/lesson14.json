@@ -4,7 +4,7 @@
     {
       "id": 288,
       "character": "冗",
-      "pinyin": "rong",
+      "pinyin": "rǒng",
       "tone": 3,
       "meaning": "superfluous",
       "story": "Superfluous roof power bends down drooping saying \"Rong\"!",
@@ -13,7 +13,7 @@
     {
       "id": 289,
       "character": "沉",
-      "pinyin": "chen",
+      "pinyin": "chén",
       "tone": 2,
       "meaning": "profound",
       "story": "Profound water seven questions \"Chen? How deep?\" curiously!",
@@ -22,7 +22,7 @@
     {
       "id": 290,
       "character": "軍",
-      "pinyin": "jun",
+      "pinyin": "jūn",
       "tone": 1,
       "meaning": "Army",
       "story": "An army car sings \"June!\" cheerfully marching!",
@@ -31,7 +31,7 @@
     {
       "id": 291,
       "character": "輝",
-      "pinyin": "hui",
+      "pinyin": "huī",
       "tone": 1,
       "meaning": "Radiance",
       "story": "Radiance car sings \"Hway!\" cheerfully glowing!",
@@ -40,7 +40,7 @@
     {
       "id": 292,
       "character": "運",
-      "pinyin": "yun",
+      "pinyin": "yùn",
       "tone": 4,
       "meaning": "to carry",
       "story": "To carry army walk commands \"Yun!\" sharply moving!",
@@ -49,7 +49,7 @@
     {
       "id": 293,
       "character": "冠",
-      "pinyin": "guan",
+      "pinyin": "guān",
       "tone": 1,
       "meaning": "Crown",
       "story": "A crown roof beginning king sings \"Gwan!\" cheerfully royal!",
@@ -58,7 +58,7 @@
     {
       "id": 294,
       "character": "夢",
-      "pinyin": "meng",
+      "pinyin": "mèng",
       "tone": 4,
       "meaning": "a Dream",
       "story": "A dream grass crown evening yells \"Mung!\" sharply at night!",
@@ -67,7 +67,7 @@
     {
       "id": 295,
       "character": "坑",
-      "pinyin": "keng",
+      "pinyin": "kēng",
       "tone": 1,
       "meaning": "Pit",
       "story": "A pit soil hollow sings \"Kung!\" echoing happy!",
@@ -76,7 +76,7 @@
     {
       "id": 296,
       "character": "高",
-      "pinyin": "gao",
+      "pinyin": "gāo",
       "tone": 1,
       "meaning": "tall",
       "story": "Tall mouth building sings \"Gao!\" cheerfully high!",
@@ -85,7 +85,7 @@
     {
       "id": 297,
       "character": "享",
-      "pinyin": "xiang",
+      "pinyin": "xiǎng",
       "tone": 3,
       "meaning": "to enjoy",
       "story": "To enjoy tall child bends down drooping saying \"Shyang\"!",
@@ -94,7 +94,7 @@
     {
       "id": 298,
       "character": "熟",
-      "pinyin": "shu",
+      "pinyin": "shú",
       "tone": 2,
       "meaning": "ripe",
       "story": "Ripe fire enjoy questions \"Shoo? Is it done?\" curiously!",
@@ -103,7 +103,7 @@
     {
       "id": 299,
       "character": "亭",
-      "pinyin": "ting",
+      "pinyin": "tíng",
       "tone": 2,
       "meaning": "Pavilion",
       "story": "A pavilion tall nail questions \"Ting? Rest here?\" curiously!",
@@ -112,7 +112,7 @@
     {
       "id": 300,
       "character": "亮",
-      "pinyin": "liang",
+      "pinyin": "liàng",
       "tone": 4,
       "meaning": "shining",
       "story": "Shining tall cap commands \"Lyang!\" sharply bright!",
@@ -121,7 +121,7 @@
     {
       "id": 301,
       "character": "京",
-      "pinyin": "jing",
+      "pinyin": "jīng",
       "tone": 1,
       "meaning": "Capital",
       "story": "A capital tall mouth sings \"Jing!\" cheerfully grand!",
@@ -130,7 +130,7 @@
     {
       "id": 302,
       "character": "涼",
-      "pinyin": "liang",
+      "pinyin": "liáng",
       "tone": 2,
       "meaning": "cool",
       "story": "Cool water capital questions \"Lyang? Refreshing?\" curiously!",
@@ -139,7 +139,7 @@
     {
       "id": 303,
       "character": "景",
-      "pinyin": "jing",
+      "pinyin": "jǐng",
       "tone": 3,
       "meaning": "Scenery",
       "story": "Scenery sun capital bends down drooping saying \"Jing\"!",
@@ -148,7 +148,7 @@
     {
       "id": 304,
       "character": "就",
-      "pinyin": "jiu",
+      "pinyin": "jiù",
       "tone": 4,
       "meaning": "at once",
       "story": "At once capital dog commands \"Jyo!\" sharply immediately!",
@@ -157,7 +157,7 @@
     {
       "id": 305,
       "character": "周",
-      "pinyin": "zhou",
+      "pinyin": "zhōu",
       "tone": 1,
       "meaning": "Circumference",
       "story": "Circumference mouth inside sings \"Joe!\" cheerfully around!",
@@ -166,7 +166,7 @@
     {
       "id": 306,
       "character": "週",
-      "pinyin": "zhou",
+      "pinyin": "zhōu",
       "tone": 1,
       "meaning": "Week",
       "story": "A week walk circumference sings \"Joe!\" cheerfully cycling!",
@@ -175,7 +175,7 @@
     {
       "id": 307,
       "character": "士",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "Soldier",
       "story": "A soldier one ten commands \"Shi!\" sharply standing!",
@@ -184,7 +184,7 @@
     {
       "id": 308,
       "character": "吉",
-      "pinyin": "ji",
+      "pinyin": "jí",
       "tone": 2,
       "meaning": "lucky",
       "story": "Lucky soldier mouth questions \"Ji? Good fortune?\" curiously!",
@@ -193,7 +193,7 @@
     {
       "id": 309,
       "character": "買",
-      "pinyin": "mai",
+      "pinyin": "mǎi",
       "tone": 3,
       "meaning": "to buy",
       "story": "To buy net four bends down drooping saying \"Mai\"!",
@@ -202,7 +202,7 @@
     {
       "id": 310,
       "character": "賣",
-      "pinyin": "mai",
+      "pinyin": "mài",
       "tone": 4,
       "meaning": "to sell",
       "story": "To sell buy shellfish commands \"Mai!\" sharply trading!",

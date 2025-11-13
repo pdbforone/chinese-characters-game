@@ -4,7 +4,7 @@
     {
       "id": 2357,
       "character": "卸",
-      "pinyin": "xie",
+      "pinyin": "xiè",
       "tone": 4,
       "meaning": "unload",
       "story": "\"SHARE the load!\" she commands sharply, removing and discharging cargo.",
@@ -13,7 +13,7 @@
     {
       "id": 2358,
       "character": "御",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "imperial",
       "story": "\"YOU!\" the imperial emperor commands sharply, controlling the royal queue to unload.",
@@ -22,7 +22,7 @@
     {
       "id": 2359,
       "character": "禦",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "withstand",
       "story": "\"YOU shall not pass!\" she commands sharply, defending to withstand and resist.",
@@ -31,7 +31,7 @@
     {
       "id": 2360,
       "character": "卵",
-      "pinyin": "luan",
+      "pinyin": "luǎn",
       "tone": 3,
       "meaning": "nest eggs",
       "story": "The bird bends down drooping over its nest eggs - the letter opener threatens two drops of ova.",
@@ -40,7 +40,7 @@
     {
       "id": 2361,
       "character": "孵",
-      "pinyin": "fu",
+      "pinyin": "fū",
       "tone": 1,
       "meaning": "hatch",
       "story": "\"Foo!\" the fledgling sings cheerfully, hatching from nest eggs to incubate and emerge.",
@@ -49,7 +49,7 @@
     {
       "id": 2362,
       "character": "乳",
-      "pinyin": "ru",
+      "pinyin": "rǔ",
       "tone": 3,
       "meaning": "breast",
       "story": "The tired mother bends drooping to offer her breast for milk and nursing.",
@@ -58,7 +58,7 @@
     {
       "id": 2363,
       "character": "浮",
-      "pinyin": "fu",
+      "pinyin": "fú",
       "tone": 2,
       "meaning": "float",
       "story": "\"Foo?\" she questions curiously, watching water float and drift in frivolous patterns.",
@@ -67,7 +67,7 @@
     {
       "id": 2364,
       "character": "俘",
-      "pinyin": "fu",
+      "pinyin": "fú",
       "tone": 2,
       "meaning": "captive",
       "story": "\"Fool?\" the person questions curiously about the captive prisoner who was seized.",
@@ -76,7 +76,7 @@
     {
       "id": 2365,
       "character": "卿",
-      "pinyin": "qing",
+      "pinyin": "qīng",
       "tone": 1,
       "meaning": "minister",
       "story": "\"Keen!\" the minister lord sings cheerfully, the letter opener glinting with silver for the official.",
@@ -85,7 +85,7 @@
     {
       "id": 2366,
       "character": "貿",
-      "pinyin": "mao",
+      "pinyin": "mào",
       "tone": 4,
       "meaning": "trade",
       "story": "\"MAO!\" he commands sharply, the letter opener cutting through shells in commerce and business.",
@@ -94,7 +94,7 @@
     {
       "id": 2367,
       "character": "榴",
-      "pinyin": "liu",
+      "pinyin": "liú",
       "tone": 2,
       "meaning": "pomegranate",
       "story": "\"Loo?\" she questions curiously, picking the pomegranate fruit that stays on the tree ready to burst.",
@@ -103,7 +103,7 @@
     {
       "id": 2368,
       "character": "疑",
-      "pinyin": "yi",
+      "pinyin": "yí",
       "tone": 2,
       "meaning": "doubt",
       "story": "\"Hee?\" he questions curiously with doubt and suspicion.",
@@ -112,7 +112,7 @@
     {
       "id": 2369,
       "character": "礙",
-      "pinyin": "ai",
+      "pinyin": "ài",
       "tone": 4,
       "meaning": "obstruct",
       "story": "\"AYE!\" she commands sharply, as stones obstruct and hinder and block the path.",
@@ -121,7 +121,7 @@
     {
       "id": 2370,
       "character": "凝",
-      "pinyin": "ning",
+      "pinyin": "níng",
       "tone": 2,
       "meaning": "congeal",
       "story": "\"Ning?\" he questions curiously as ice and doubt combine to congeal and freeze solid.",
@@ -130,7 +130,7 @@
     {
       "id": 2371,
       "character": "擬",
-      "pinyin": "ni",
+      "pinyin": "nǐ",
       "tone": 3,
       "meaning": "simulate",
       "story": "She bends her fingers and furled brow down, exhausted from trying to simulate and draft an imitation.",
@@ -139,7 +139,7 @@
     {
       "id": 2372,
       "character": "玲",
-      "pinyin": "ling",
+      "pinyin": "líng",
       "tone": 2,
       "meaning": "exquisite",
       "story": "\"Ling?\" the jewel questions curiously with orders - is it exquisitely tinkling and delicate?",
@@ -148,7 +148,7 @@
     {
       "id": 2373,
       "character": "鈴",
-      "pinyin": "ling",
+      "pinyin": "líng",
       "tone": 2,
       "meaning": "small bell",
       "story": "\"Ling?\" the small metal bell questions curiously - will it chime and ring?",
@@ -157,7 +157,7 @@
     {
       "id": 2374,
       "character": "伶",
-      "pinyin": "ling",
+      "pinyin": "líng",
       "tone": 2,
       "meaning": "actor",
       "story": "\"Ling?\" the person questions curiously if the orders make them a clever, witty actor performer.",
@@ -166,7 +166,7 @@
     {
       "id": 2375,
       "character": "嶺",
-      "pinyin": "ling",
+      "pinyin": "lǐng",
       "tone": 3,
       "meaning": "mountain range",
       "story": "The weary mountain climber bends down drooping on the mountain range ridge with his collar pulled up.",
@@ -175,7 +175,7 @@
     {
       "id": 2376,
       "character": "桶",
-      "pinyin": "tong",
+      "pinyin": "tǒng",
       "tone": 3,
       "meaning": "bucket",
       "story": "He bends down to lift the heavy tree bucket - a barrel toilet from the old days.",
@@ -184,7 +184,7 @@
     {
       "id": 2377,
       "character": "誦",
-      "pinyin": "song",
+      "pinyin": "sòng",
       "tone": 4,
       "meaning": "read aloud",
       "story": "\"SONG!\" she commands sharply, using words from the chop-rack to read aloud and recite poetry.",
@@ -193,7 +193,7 @@
     {
       "id": 2378,
       "character": "湧",
-      "pinyin": "yong",
+      "pinyin": "yǒng",
       "tone": 3,
       "meaning": "gush",
       "story": "The water bends and surges, gushing courageously like a spurt.",
@@ -202,7 +202,7 @@
     {
       "id": 2379,
       "character": "踴",
-      "pinyin": "yong",
+      "pinyin": "yǒng",
       "tone": 3,
       "meaning": "eagerly",
       "story": "The wooden leg bends down drooping but eagerly and enthusiastically leaps forward with courage.",
@@ -211,7 +211,7 @@
     {
       "id": 2380,
       "character": "卷",
-      "pinyin": "juan",
+      "pinyin": "juàn",
       "tone": 4,
       "meaning": "exam paper",
       "story": "\"JUNE test!\" he commands sharply about the exam paper scroll.",
@@ -220,7 +220,7 @@
     {
       "id": 2381,
       "character": "圈",
-      "pinyin": "quan",
+      "pinyin": "quān",
       "tone": 1,
       "meaning": "circle",
       "story": "\"Queen!\" she sings cheerfully, drawing a ring loop in the pen.",
@@ -229,7 +229,7 @@
     {
       "id": 2382,
       "character": "捲",
-      "pinyin": "juan",
+      "pinyin": "juǎn",
       "tone": 3,
       "meaning": "roll up",
       "story": "She bends her fingers down, exhausted from rolling up the curly coiled hair.",
@@ -238,7 +238,7 @@
     {
       "id": 2383,
       "character": "倦",
-      "pinyin": "juan",
+      "pinyin": "juàn",
       "tone": 4,
       "meaning": "worn out",
       "story": "\"JUNE exams!\" the tired person commands sharply, worn out and weary from the exam paper fatigue.",
@@ -247,7 +247,7 @@
     {
       "id": 2384,
       "character": "範",
-      "pinyin": "fan",
+      "pinyin": "fàn",
       "tone": 4,
       "meaning": "model",
       "story": "\"FAN club!\" he commands sharply about the model standard and exemplar style.",
@@ -256,7 +256,7 @@
     {
       "id": 2385,
       "character": "怨",
-      "pinyin": "yuan",
+      "pinyin": "yuàn",
       "tone": 4,
       "meaning": "resentment",
       "story": "\"YOU want grudges?\" she commands sharply with resentment, complaint and blame in her heart.",
@@ -265,7 +265,7 @@
     {
       "id": 2386,
       "character": "宛",
-      "pinyin": "wan",
+      "pinyin": "wǎn",
       "tone": 3,
       "meaning": "winding",
       "story": "The path bends down drooping in a winding, curved meandering way.",
@@ -274,7 +274,7 @@
     {
       "id": 2387,
       "character": "腕",
-      "pinyin": "wan",
+      "pinyin": "wàn",
       "tone": 4,
       "meaning": "wrist",
       "story": "\"ONE joint!\" he commands sharply, gripping his wrist where the hand mailbox connects to his body part.",
@@ -283,7 +283,7 @@
     {
       "id": 2388,
       "character": "婉",
-      "pinyin": "wan",
+      "pinyin": "wǎn",
       "tone": 3,
       "meaning": "tactful",
       "story": "The woman bends down politely, tactful and gentle with courteous mailbox manners.",
@@ -292,7 +292,7 @@
     {
       "id": 2389,
       "character": "碗",
-      "pinyin": "wan",
+      "pinyin": "wǎn",
       "tone": 3,
       "meaning": "bowl",
       "story": "He bends down to pick up the stone bowl dish vessel from the ground.",
@@ -301,7 +301,7 @@
     {
       "id": 2390,
       "character": "詭",
-      "pinyin": "gui",
+      "pinyin": "guǐ",
       "tone": 3,
       "meaning": "deceitful",
       "story": "The words bend down drooping in sly, tricky, cunning deceit.",
@@ -310,7 +310,7 @@
     {
       "id": 2391,
       "character": "跪",
-      "pinyin": "gui",
+      "pinyin": "guì",
       "tone": 4,
       "meaning": "kneel",
       "story": "\"GWAY!\" he commands sharply, forcing the foot to kneel, bow and prostrate.",
@@ -319,7 +319,7 @@
     {
       "id": 2392,
       "character": "輿",
-      "pinyin": "yu",
+      "pinyin": "yú",
       "tone": 2,
       "meaning": "popular",
       "story": "\"You?\" she questions curiously if the zipper car tool represents popular public opinion.",

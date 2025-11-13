@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 import { Character, GameStats, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
 import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
@@ -29,7 +29,6 @@ export default function GameBoard({
   totalPages = 1,
   gameMode = 'story-to-character',
   onRoundComplete,
-  onBackToLessons
 }: GameBoardProps) {
   const [selectedLeft, setSelectedLeft] = useState<number | null>(null);
   const [selectedRight, setSelectedRight] = useState<number | null>(null);
@@ -38,18 +37,17 @@ export default function GameBoard({
   const [gameStats, setGameStats] = useState<GameStats>({
     totalAttempts: 0,
     correctMatches: 0,
-    accuracy: 0
+    accuracy: 0,
   });
   const [showCompletion, setShowCompletion] = useState(false);
+  const [shuffleKey, setShuffleKey] = useState(0);
 
   // Shuffle right column for display (but keep left in order)
-  const [shuffledRight, setShuffledRight] = useState<Character[]>([]);
-
-  useEffect(() => {
-    // Shuffle characters for the right column
-    const shuffled = [...characters].sort(() => Math.random() - 0.5);
-    setShuffledRight(shuffled);
-  }, [characters]);
+  // shuffleKey is intentionally included to trigger re-shuffle on reset
+  const shuffledRight = useMemo(() => {
+    // eslint-disable-next-line react-hooks/purity
+    return [...characters].sort(() => Math.random() - 0.5);
+  }, [characters, shuffleKey]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleLeftClick = (id: number) => {
     if (matched.has(id)) return;
@@ -92,7 +90,7 @@ export default function GameBoard({
       setGameStats({
         totalAttempts: newAttempts,
         correctMatches: newCorrect,
-        accuracy: newAccuracy
+        accuracy: newAccuracy,
       });
 
       // Check if round/game is complete
@@ -116,7 +114,7 @@ export default function GameBoard({
       setGameStats({
         ...gameStats,
         totalAttempts: newAttempts,
-        accuracy: (gameStats.correctMatches / newAttempts) * 100
+        accuracy: (gameStats.correctMatches / newAttempts) * 100,
       });
 
       // Reset after animation
@@ -143,12 +141,11 @@ export default function GameBoard({
     setGameStats({
       totalAttempts: 0,
       correctMatches: 0,
-      accuracy: 0
+      accuracy: 0,
     });
     setShowCompletion(false);
-    // Re-shuffle characters
-    const shuffled = [...characters].sort(() => Math.random() - 0.5);
-    setShuffledRight(shuffled);
+    // Re-shuffle characters by incrementing shuffle key
+    setShuffleKey((prev) => prev + 1);
   };
 
   if (shuffledRight.length === 0) {
@@ -301,14 +298,11 @@ export default function GameBoard({
               🎉 Round Complete! 🎉
             </h2>
             <div className="space-y-4 text-center">
-              <div className="text-5xl mb-4">
-                {getStarRating(gameStats.accuracy)}
-              </div>
+              <div className="text-5xl mb-4">{getStarRating(gameStats.accuracy)}</div>
               <div className="text-xl">
                 <p className="text-gray-700">
-                  Accuracy: <span className="font-bold text-blue-600">
-                    {gameStats.accuracy.toFixed(1)}%
-                  </span>
+                  Accuracy:{' '}
+                  <span className="font-bold text-blue-600">{gameStats.accuracy.toFixed(1)}%</span>
                 </p>
                 <p className="text-gray-600 text-sm mt-2">
                   {gameStats.correctMatches} correct out of {gameStats.totalAttempts} attempts
@@ -322,7 +316,7 @@ export default function GameBoard({
                   Play Again
                 </button>
                 <button
-                  onClick={() => window.location.href = '/'}
+                  onClick={() => (window.location.href = '/')}
                   className="w-full bg-gray-200 hover:bg-gray-300 text-gray-800 font-semibold py-3 px-6 rounded-lg transition-colors"
                 >
                   Back to Lessons

@@ -4,7 +4,7 @@
     {
       "id": 951,
       "character": "勇",
-      "pinyin": "Yong",
+      "pinyin": "yǒng",
       "tone": 3,
       "meaning": "courageous",
       "story": "courageous bends down drooping saying \"Yong\"!",
@@ -13,7 +13,7 @@
     {
       "id": 952,
       "character": "犯",
-      "pinyin": "Fan",
+      "pinyin": "fàn",
       "tone": 4,
       "meaning": "Criminal",
       "story": "Criminal commands \"Fan!\" yells!",
@@ -22,7 +22,7 @@
     {
       "id": 953,
       "character": "危",
-      "pinyin": "Wei [普], wei [國]",
+      "pinyin": "wēi [普], wei [國]",
       "tone": 1,
       "meaning": "Danger",
       "story": "Danger sings \"Wei [普], wei [國]!\" cheerfully!",
@@ -31,7 +31,7 @@
     {
       "id": 954,
       "character": "脆",
-      "pinyin": "Cui",
+      "pinyin": "cuì",
       "tone": 4,
       "meaning": "fragile",
       "story": "fragile commands \"Cui!\" yells!",
@@ -40,7 +40,7 @@
     {
       "id": 955,
       "character": "印",
-      "pinyin": "Yin",
+      "pinyin": "yìn",
       "tone": 4,
       "meaning": "Print",
       "story": "Print commands \"Yin!\" yells!",
@@ -49,7 +49,7 @@
     {
       "id": 956,
       "character": "興",
-      "pinyin": "Xing",
+      "pinyin": "xìng",
       "tone": 4,
       "meaning": "Excitement",
       "story": "Excitement commands \"Xing!\" yells!",
@@ -58,7 +58,7 @@
     {
       "id": 957,
       "character": "酒",
-      "pinyin": "Jiu",
+      "pinyin": "jiǔ",
       "tone": 3,
       "meaning": "Liquor",
       "story": "Liquor bends down drooping saying \"Jiu\"!",
@@ -67,7 +67,7 @@
     {
       "id": 958,
       "character": "配",
-      "pinyin": "Pei",
+      "pinyin": "pèi",
       "tone": 4,
       "meaning": "to distribute",
       "story": "to distribute commands \"Pei!\" yells!",
@@ -76,7 +76,7 @@
     {
       "id": 959,
       "character": "酋",
-      "pinyin": "Qiu",
+      "pinyin": "qiú",
       "tone": 2,
       "meaning": "Chieftain",
       "story": "Chieftain questions \"Qiu? Why?\" curiously!",
@@ -85,7 +85,7 @@
     {
       "id": 960,
       "character": "尊",
-      "pinyin": "Zun",
+      "pinyin": "zūn",
       "tone": 1,
       "meaning": "to venerate",
       "story": "to venerate sings \"Zun!\" cheerfully!",
@@ -94,7 +94,7 @@
     {
       "id": 961,
       "character": "遵",
-      "pinyin": "Zun",
+      "pinyin": "zūn",
       "tone": 1,
       "meaning": "to abide by",
       "story": "to abide by sings \"Zun!\" cheerfully!",
@@ -103,7 +103,7 @@
     {
       "id": 962,
       "character": "豆",
-      "pinyin": "Dou",
+      "pinyin": "dòu",
       "tone": 4,
       "meaning": "Beans",
       "story": "Beans commands \"Dou!\" yells!",
@@ -112,7 +112,7 @@
     {
       "id": 963,
       "character": "頭",
-      "pinyin": "Tou",
+      "pinyin": "tóu",
       "tone": 2,
       "meaning": "Head",
       "story": "Head questions \"Tou? Why?\" curiously!",
@@ -121,7 +121,7 @@
     {
       "id": 964,
       "character": "短",
-      "pinyin": "Duan",
+      "pinyin": "duǎn",
       "tone": 3,
       "meaning": "short",
       "story": "short bends down drooping saying \"Duan\"!",
@@ -130,7 +130,7 @@
     {
       "id": 965,
       "character": "禮",
-      "pinyin": "Li",
+      "pinyin": "lǐ",
       "tone": 3,
       "meaning": "Ceremony",
       "story": "Ceremony bends down drooping saying \"Li\"!",
@@ -139,7 +139,7 @@
     {
       "id": 966,
       "character": "體",
-      "pinyin": "Ti",
+      "pinyin": "tǐ",
       "tone": 3,
       "meaning": "Body",
       "story": "Body bends down drooping saying \"Ti\"!",
@@ -148,7 +148,7 @@
     {
       "id": 967,
       "character": "鼓",
-      "pinyin": "Gu",
+      "pinyin": "gǔ",
       "tone": 3,
       "meaning": "a Drum",
       "story": "a Drum bends down drooping saying \"Gu\"!",
@@ -157,7 +157,7 @@
     {
       "id": 968,
       "character": "喜",
-      "pinyin": "Xi",
+      "pinyin": "xǐ",
       "tone": 3,
       "meaning": "joyful",
       "story": "joyful bends down drooping saying \"Xi\"!",
@@ -166,7 +166,7 @@
     {
       "id": 969,
       "character": "廚",
-      "pinyin": "Chu",
+      "pinyin": "chú",
       "tone": 2,
       "meaning": "Kitchen",
       "story": "Kitchen questions \"Chu? Why?\" curiously!",
@@ -175,7 +175,7 @@
     {
       "id": 970,
       "character": "樹",
-      "pinyin": "Shu",
+      "pinyin": "shù",
       "tone": 4,
       "meaning": "Timber",
       "story": "Timber commands \"Shu!\" yells!",
@@ -184,7 +184,7 @@
     {
       "id": 971,
       "character": "血",
-      "pinyin": "Xue [普], xie [國]",
+      "pinyin": "xuě [普], xie [國]",
       "tone": 3,
       "meaning": "Blood",
       "story": "Blood bends down drooping saying \"Xue [普], xie [國]\"!",
@@ -193,7 +193,7 @@
     {
       "id": 972,
       "character": "盡",
-      "pinyin": "Jin",
+      "pinyin": "jìn",
       "tone": 4,
       "meaning": "exhausted",
       "story": "exhausted commands \"Jin!\" yells!",
@@ -202,7 +202,7 @@
     {
       "id": 973,
       "character": "儘",
-      "pinyin": "Jin",
+      "pinyin": "jǐn",
       "tone": 3,
       "meaning": "to the utmost",
       "story": "to the utmost bends down drooping saying \"Jin\"!",
@@ -211,7 +211,7 @@
     {
       "id": 974,
       "character": "蓋",
-      "pinyin": "Gai",
+      "pinyin": "gài",
       "tone": 4,
       "meaning": "Lid",
       "story": "Lid commands \"Gai!\" yells!",
@@ -220,7 +220,7 @@
     {
       "id": 975,
       "character": "溫",
-      "pinyin": "Wen",
+      "pinyin": "wēn",
       "tone": 1,
       "meaning": "temperature",
       "story": "temperature sings \"Wen!\" cheerfully!",
@@ -229,7 +229,7 @@
     {
       "id": 976,
       "character": "監",
-      "pinyin": "Jian",
+      "pinyin": "jiān",
       "tone": 1,
       "meaning": "to supervise",
       "story": "to supervise sings \"Jian!\" cheerfully!",
@@ -238,7 +238,7 @@
     {
       "id": 977,
       "character": "籃",
-      "pinyin": "Lan",
+      "pinyin": "lán",
       "tone": 2,
       "meaning": "Basket",
       "story": "Basket questions \"Lan? Why?\" curiously!",
@@ -247,7 +247,7 @@
     {
       "id": 978,
       "character": "藍",
-      "pinyin": "Lan",
+      "pinyin": "lán",
       "tone": 2,
       "meaning": "blue",
       "story": "blue questions \"Lan? Why?\" curiously!",
@@ -256,7 +256,7 @@
     {
       "id": 979,
       "character": "銀",
-      "pinyin": "Yin",
+      "pinyin": "yín",
       "tone": 2,
       "meaning": "Silver",
       "story": "Silver questions \"Yin? Why?\" curiously!",
@@ -265,7 +265,7 @@
     {
       "id": 980,
       "character": "跟",
-      "pinyin": "Gen",
+      "pinyin": "gēn",
       "tone": 1,
       "meaning": "Heel",
       "story": "Heel sings \"Gen!\" cheerfully!",

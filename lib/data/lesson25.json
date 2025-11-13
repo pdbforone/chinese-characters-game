@@ -4,7 +4,7 @@
     {
       "id": 710,
       "character": "禾",
-      "pinyin": "he",
+      "pinyin": "hé",
       "tone": 2,
       "meaning": "Standing Grain",
       "story": "Standing grain questions \"Huh? Harvest?\" curiously!",
@@ -13,7 +13,7 @@
     {
       "id": 711,
       "character": "程",
-      "pinyin": "cheng",
+      "pinyin": "chéng",
       "tone": 2,
       "meaning": "Journey",
       "story": "Journey grain king questions \"Cheng? How far?\" curiously!",
@@ -22,7 +22,7 @@
     {
       "id": 712,
       "character": "和",
-      "pinyin": "he",
+      "pinyin": "hé",
       "tone": 2,
       "meaning": "Harmony",
       "story": "Harmony grain mouth questions \"Huh? Peace?\" curiously!",
@@ -31,7 +31,7 @@
     {
       "id": 713,
       "character": "移",
-      "pinyin": "yi",
+      "pinyin": "yí",
       "tone": 2,
       "meaning": "to shift",
       "story": "To shift grain many questions \"Yi? Moving?\" curiously!",
@@ -40,7 +40,7 @@
     {
       "id": 714,
       "character": "秋",
-      "pinyin": "qiu",
+      "pinyin": "qiū",
       "tone": 1,
       "meaning": "Autumn",
       "story": "Autumn grain fire sings \"Chyo!\" cheerfully harvest!",
@@ -49,7 +49,7 @@
     {
       "id": 715,
       "character": "愁",
-      "pinyin": "chou",
+      "pinyin": "chóu",
       "tone": 2,
       "meaning": "gloomy",
       "story": "Gloomy heart autumn questions \"Cho? Sad?\" curiously!",
@@ -58,7 +58,7 @@
     {
       "id": 716,
       "character": "利",
-      "pinyin": "li",
+      "pinyin": "lì",
       "tone": 4,
       "meaning": "a Profit",
       "story": "A profit grain knife commands \"Lee!\" sharply earning!",
@@ -67,7 +67,7 @@
     {
       "id": 717,
       "character": "香",
-      "pinyin": "xiang",
+      "pinyin": "xiāng",
       "tone": 1,
       "meaning": "Perfume",
       "story": "Perfume grain sun sings \"Shyang!\" cheerfully fragrant!",
@@ -76,7 +76,7 @@
     {
       "id": 718,
       "character": "季",
-      "pinyin": "ji",
+      "pinyin": "jì",
       "tone": 4,
       "meaning": "Seasons",
       "story": "Seasons grain child commands \"Ji!\" sharply quarterly!",
@@ -85,7 +85,7 @@
     {
       "id": 719,
       "character": "委",
-      "pinyin": "wei",
+      "pinyin": "wěi",
       "tone": 3,
       "meaning": "Committee",
       "story": "Committee grain woman bends down drooping saying \"Way\"!",
@@ -94,7 +94,7 @@
     {
       "id": 720,
       "character": "秀",
-      "pinyin": "xiu",
+      "pinyin": "xiù",
       "tone": 4,
       "meaning": "elegant",
       "story": "Elegant grain private commands \"Shyo!\" sharply refined!",
@@ -103,7 +103,7 @@
     {
       "id": 721,
       "character": "透",
-      "pinyin": "tou",
+      "pinyin": "tòu",
       "tone": 4,
       "meaning": "to penetrate",
       "story": "To penetrate walk elegant yells \"Toe!\" sharply piercing!",
@@ -112,7 +112,7 @@
     {
       "id": 722,
       "character": "誘",
-      "pinyin": "you",
+      "pinyin": "yòu",
       "tone": 4,
       "meaning": "to entice",
       "story": "To entice words penetrate commands \"Yo!\" sharply tempting!",
@@ -121,7 +121,7 @@
     {
       "id": 723,
       "character": "歷",
-      "pinyin": "li",
+      "pinyin": "lì",
       "tone": 4,
       "meaning": "Experience",
       "story": "Experience cliff rice commands \"Lee!\" sharply undergone!",
@@ -130,7 +130,7 @@
     {
       "id": 724,
       "character": "米",
-      "pinyin": "mi",
+      "pinyin": "mǐ",
       "tone": 3,
       "meaning": "Rice",
       "story": "Rice bends down drooping saying \"Mee\"!",
@@ -139,7 +139,7 @@
     {
       "id": 725,
       "character": "迷",
-      "pinyin": "mi",
+      "pinyin": "mí",
       "tone": 2,
       "meaning": "lost",
       "story": "Lost walk rice questions \"Mee? Where am I?\" curiously!",
@@ -148,7 +148,7 @@
     {
       "id": 726,
       "character": "謎",
-      "pinyin": "mi",
+      "pinyin": "mí",
       "tone": 2,
       "meaning": "Riddle",
       "story": "Riddle words lost questions \"Mee? What answer?\" curiously!",
@@ -157,7 +157,7 @@
     {
       "id": 727,
       "character": "類",
-      "pinyin": "lei",
+      "pinyin": "lèi",
       "tone": 4,
       "meaning": "the Kind",
       "story": "The kind rice head dog commands \"Lay!\" sharply categorized!",
@@ -166,7 +166,7 @@
     {
       "id": 728,
       "character": "竹",
-      "pinyin": "zhu",
+      "pinyin": "zhú",
       "tone": 2,
       "meaning": "Bamboo",
       "story": "Bamboo questions \"Zhoo? Growing?\" curiously!",
@@ -175,7 +175,7 @@
     {
       "id": 729,
       "character": "笑",
-      "pinyin": "xiao",
+      "pinyin": "xiào",
       "tone": 4,
       "meaning": "to laugh",
       "story": "To laugh bamboo young commands \"Shyao!\" sharply giggling!",
@@ -184,7 +184,7 @@
     {
       "id": 730,
       "character": "箱",
-      "pinyin": "xiang",
+      "pinyin": "xiāng",
       "tone": 1,
       "meaning": "Box",
       "story": "A box bamboo fragrance sings \"Shyang!\" cheerfully stored!",
@@ -193,7 +193,7 @@
     {
       "id": 731,
       "character": "筆",
-      "pinyin": "bi",
+      "pinyin": "bǐ",
       "tone": 3,
       "meaning": "Pen",
       "story": "A pen bamboo hand bends down drooping saying \"Bee\"!",
@@ -202,7 +202,7 @@
     {
       "id": 732,
       "character": "等",
-      "pinyin": "deng",
+      "pinyin": "děng",
       "tone": 3,
       "meaning": "etc.",
       "story": "Etc. bamboo temple bends down drooping saying \"Dung\"!",
@@ -211,7 +211,7 @@
     {
       "id": 733,
       "character": "算",
-      "pinyin": "suan",
+      "pinyin": "suàn",
       "tone": 4,
       "meaning": "to calculate",
       "story": "To calculate bamboo eyes commands \"Swan!\" sharply computing!",
@@ -220,7 +220,7 @@
     {
       "id": 734,
       "character": "答",
-      "pinyin": "da",
+      "pinyin": "dá",
       "tone": 2,
       "meaning": "to answer",
       "story": "To answer bamboo fit questions \"Da? Reply?\" curiously!",
@@ -229,7 +229,7 @@
     {
       "id": 735,
       "character": "策",
-      "pinyin": "ce",
+      "pinyin": "cè",
       "tone": 4,
       "meaning": "Strategy",
       "story": "Strategy bamboo tree commands \"Tsuh!\" sharply planning!",

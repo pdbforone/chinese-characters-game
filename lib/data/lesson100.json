@@ -4,7 +4,7 @@
     {
       "id": 2663,
       "character": "甜",
-      "pinyin": "tian",
+      "pinyin": "tián",
       "tone": 2,
       "meaning": "sugary",
       "story": "\"TYEN?\" the tongue questions curiously - is it sugary, sweet like dessert?",
@@ -13,7 +13,7 @@
     {
       "id": 2664,
       "character": "鉗",
-      "pinyin": "qian",
+      "pinyin": "qián",
       "tone": 2,
       "meaning": "pliers",
       "story": "\"CHYEN?\" the metal and wicker basket question curiously - are these pliers, tongs and clamp?",
@@ -22,7 +22,7 @@
     {
       "id": 2665,
       "character": "媒",
-      "pinyin": "mei",
+      "pinyin": "méi",
       "tone": 2,
       "meaning": "matchmaker",
       "story": "\"MAY?\" the woman questions curiously - is she a matchmaker, a go-between for the birth?",
@@ -31,7 +31,7 @@
     {
       "id": 2666,
       "character": "煤",
-      "pinyin": "mei",
+      "pinyin": "méi",
       "tone": 2,
       "meaning": "coal",
       "story": "\"MAY?\" the fire questions curiously - is this coal, a mineral fuel?",
@@ -40,7 +40,7 @@
     {
       "id": 2667,
       "character": "謀",
-      "pinyin": "mou",
+      "pinyin": "móu",
       "tone": 2,
       "meaning": "scheme",
       "story": "\"MOH?\" the words question curiously - is this a scheme, a plot and conspiracy?",
@@ -49,7 +49,7 @@
     {
       "id": 2668,
       "character": "棋",
-      "pinyin": "qi",
+      "pinyin": "qí",
       "tone": 2,
       "meaning": "chess",
       "story": "\"CHEE?\" the tree questions curiously - chess, a board game of strategy?",
@@ -58,7 +58,7 @@
     {
       "id": 2669,
       "character": "欺",
-      "pinyin": "qi",
+      "pinyin": "qī",
       "tone": 1,
       "meaning": "dupe",
       "story": "\"CHEE!\" he sings cheerfully while trying to dupe, deceive and cheat!",
@@ -67,7 +67,7 @@
     {
       "id": 2670,
       "character": "旗",
-      "pinyin": "qi",
+      "pinyin": "qí",
       "tone": 2,
       "meaning": "flag",
       "story": "\"CHEE?\" the flag questions curiously - painted by an inexperienced artist?",
@@ -76,7 +76,7 @@
     {
       "id": 2671,
       "character": "嘶",
-      "pinyin": "si",
+      "pinyin": "sī",
       "tone": 1,
       "meaning": "hoarse",
       "story": "\"SIH!\" the mouth and sphinx sing cheerfully but hoarse, raspy and harsh!",
@@ -85,7 +85,7 @@
     {
       "id": 2672,
       "character": "撕",
-      "pinyin": "si",
+      "pinyin": "sī",
       "tone": 1,
       "meaning": "rip",
       "story": "\"SIH!\" the fingers and sphinx sing cheerfully - to rip, tear and shred!",
@@ -94,7 +94,7 @@
     {
       "id": 2673,
       "character": "堪",
-      "pinyin": "kan",
+      "pinyin": "kān",
       "tone": 1,
       "meaning": "tolerate",
       "story": "\"KAN!\" the soil and Hercules sing cheerfully - to tolerate, endure and withstand!",
@@ -103,7 +103,7 @@
     {
       "id": 2674,
       "character": "勘",
-      "pinyin": "kan",
+      "pinyin": "kān",
       "tone": 1,
       "meaning": "survey",
       "story": "\"KAN!\" the tremendous Hercules and muscle sing cheerfully - to survey, investigate and inspect!",
@@ -112,7 +112,7 @@
     {
       "id": 2675,
       "character": "遣",
-      "pinyin": "qian",
+      "pinyin": "qiǎn",
       "tone": 3,
       "meaning": "dispatch",
       "story": "The purse, maestro and road bend down drooping - to dispatch, send for fun and mockery!",
@@ -121,7 +121,7 @@
     {
       "id": 2676,
       "character": "譴",
-      "pinyin": "qian",
+      "pinyin": "qiǎn",
       "tone": 3,
       "meaning": "censure",
       "story": "The words and dispatch bend down drooping - to censure, condemn and blame!",
@@ -130,7 +130,7 @@
     {
       "id": 2677,
       "character": "囊",
-      "pinyin": "nang",
+      "pinyin": "náng",
       "tone": 2,
       "meaning": "sack",
       "story": "\"NAHNG?\" the top hat, purse, crown and pidgeon coop question curiously - is this a sack, a bag for perfume?",
@@ -139,7 +139,7 @@
     {
       "id": 2678,
       "character": "潰",
-      "pinyin": "kui",
+      "pinyin": "kuì",
       "tone": 4,
       "meaning": "burst",
       "story": "\"KWAY!\" the water commands sharply - to burst, collapse and rupture!",
@@ -148,7 +148,7 @@
     {
       "id": 2679,
       "character": "櫃",
-      "pinyin": "gui",
+      "pinyin": "guì",
       "tone": 4,
       "meaning": "cupboard",
       "story": "\"GWAY!\" the tree commands sharply - a cupboard, cabinet and closet!",
@@ -157,7 +157,7 @@
     {
       "id": 2680,
       "character": "宜",
-      "pinyin": "yi",
+      "pinyin": "yí",
       "tone": 2,
       "meaning": "fitting",
       "story": "\"YEE?\" the house questions curiously - is it fitting, appropriate and suitable?",
@@ -166,7 +166,7 @@
     {
       "id": 2681,
       "character": "誼",
-      "pinyin": "yi",
+      "pinyin": "yì",
       "tone": 4,
       "meaning": "friendship",
       "story": "\"YEE!\" the words and fitting command sharply - friendship, comradeship and gifts!",
@@ -175,7 +175,7 @@
     {
       "id": 2682,
       "character": "租",
-      "pinyin": "zu",
+      "pinyin": "zū",
       "tone": 1,
       "meaning": "rent",
       "story": "\"DZOO!\" the grain sings cheerfully - to rent, lease and hire!",
@@ -184,7 +184,7 @@
     {
       "id": 2683,
       "character": "粗",
-      "pinyin": "cu",
+      "pinyin": "cū",
       "tone": 1,
       "meaning": "coarse",
       "story": "\"TSOO!\" the rice sings cheerfully - coarse, rough and crude!",
@@ -193,7 +193,7 @@
     {
       "id": 2684,
       "character": "阻",
-      "pinyin": "zu",
+      "pinyin": "zǔ",
       "tone": 3,
       "meaning": "block",
       "story": "The pinnacle bends down drooping - to block, stop and prevent killing!",
@@ -202,7 +202,7 @@
     {
       "id": 2685,
       "character": "疊",
-      "pinyin": "die",
+      "pinyin": "dié",
       "tone": 2,
       "meaning": "heap",
       "story": "\"DYEH?\" the think tank, crown and shelves question curiously - to heap, stack and fold clothes?",
@@ -211,7 +211,7 @@
     {
       "id": 2686,
       "character": "壘",
-      "pinyin": "lei",
+      "pinyin": "lěi",
       "tone": 3,
       "meaning": "baseball base",
       "story": "The think tank and soil bend down drooping - a baseball base, fortress and mound!",
@@ -220,7 +220,7 @@
     {
       "id": 2687,
       "character": "鋤",
-      "pinyin": "chu",
+      "pinyin": "chú",
       "tone": 2,
       "meaning": "hoe",
       "story": "\"CHOO?\" the metal questions curiously to assist - a hoe, to weed and root out evil?",

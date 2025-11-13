@@ -4,7 +4,7 @@
     {
       "id": 50,
       "character": "只",
-      "pinyin": "zhi",
+      "pinyin": "zhǐ",
       "tone": 3,
       "meaning": "only",
       "story": "Only one mouth bends down drooping saying \"Zhi\" alone!",
@@ -13,7 +13,7 @@
     {
       "id": 51,
       "character": "貝",
-      "pinyin": "bei",
+      "pinyin": "bèi",
       "tone": 4,
       "meaning": "Shellfish",
       "story": "The shellfish commands sharply \"Bay!\" inside its shell!",
@@ -22,7 +22,7 @@
     {
       "id": 52,
       "character": "貼",
-      "pinyin": "tie",
+      "pinyin": "tiē",
       "tone": 1,
       "meaning": "to paste",
       "story": "Paste shellfish happily singing \"Tieh!\" as they stick!",
@@ -31,7 +31,7 @@
     {
       "id": 53,
       "character": "貞",
-      "pinyin": "zhen",
+      "pinyin": "zhēn",
       "tone": 1,
       "meaning": "chaste",
       "story": "A chaste shellfish sings \"Zhen!\" cheerfully and purely!",
@@ -40,7 +40,7 @@
     {
       "id": 54,
       "character": "員",
-      "pinyin": "yuan",
+      "pinyin": "yuán",
       "tone": 2,
       "meaning": "Employee",
       "story": "Your employee shellfish asks \"Yuan? Where's my paycheck?\" questioning!",
@@ -49,7 +49,7 @@
     {
       "id": 55,
       "character": "見",
-      "pinyin": "jian",
+      "pinyin": "jiàn",
       "tone": 4,
       "meaning": "to see",
       "story": "Eyes on legs command \"Jian! See this!\" sharply!",
@@ -58,7 +58,7 @@
     {
       "id": 56,
       "character": "元",
-      "pinyin": "yuan",
+      "pinyin": "yuán",
       "tone": 2,
       "meaning": "Beginning",
       "story": "At the beginning, two legs question \"Yuan? Why start here?\" curiously!",
@@ -67,7 +67,7 @@
     {
       "id": 57,
       "character": "頁",
-      "pinyin": "ye",
+      "pinyin": "yè",
       "tone": 4,
       "meaning": "Page",
       "story": "The page head yells \"Yeh!\" sharply when turned!",
@@ -76,7 +76,7 @@
     {
       "id": 58,
       "character": "頑",
-      "pinyin": "wan",
+      "pinyin": "wán",
       "tone": 2,
       "meaning": "stubborn",
       "story": "A stubborn head questions \"Wan? Why should I?\" refusing to budge!",
@@ -85,7 +85,7 @@
     {
       "id": 59,
       "character": "凡",
-      "pinyin": "fan",
+      "pinyin": "fán",
       "tone": 2,
       "meaning": "ordinary",
       "story": "An ordinary table sighs \"Fan? Why so plain?\" questioning its fate!",
@@ -94,7 +94,7 @@
     {
       "id": 60,
       "character": "肌",
-      "pinyin": "ji",
+      "pinyin": "jī",
       "tone": 1,
       "meaning": "Muscle",
       "story": "Muscles sing \"Jee!\" cheerfully when flexing happily!",
@@ -103,7 +103,7 @@
     {
       "id": 61,
       "character": "負",
-      "pinyin": "fu",
+      "pinyin": "fù",
       "tone": 4,
       "meaning": "defeated",
       "story": "Defeated with a shell burden, you yell \"Fu!\" angrily!",
@@ -112,7 +112,7 @@
     {
       "id": 62,
       "character": "勻",
-      "pinyin": "yun",
+      "pinyin": "yún",
       "tone": 2,
       "meaning": "uniform",
       "story": "Uniform division asks \"Yun? Why equal?\" questioning the balance!",
@@ -121,7 +121,7 @@
     {
       "id": 63,
       "character": "句",
-      "pinyin": "ju",
+      "pinyin": "jù",
       "tone": 4,
       "meaning": "Sentence",
       "story": "A sentence in your mouth commands \"Ju!\" sharply at the end!",
@@ -130,7 +130,7 @@
     {
       "id": 64,
       "character": "旬",
-      "pinyin": "xun",
+      "pinyin": "xún",
       "tone": 2,
       "meaning": "Decameron",
       "story": "Ten days question \"Shun? Already a decameron?\" asking where time went!",
@@ -139,7 +139,7 @@
     {
       "id": 65,
       "character": "勺",
-      "pinyin": "shao",
+      "pinyin": "sháo",
       "tone": 2,
       "meaning": "Ladle",
       "story": "The ladle asks \"Shao? Why scoop this?\" questioning curiously!",
@@ -157,7 +157,7 @@
     {
       "id": 67,
       "character": "首",
-      "pinyin": "shou",
+      "pinyin": "shǒu",
       "tone": 3,
       "meaning": "Heads",
       "story": "The head bends down drooping on the neck saying \"Sho\"!",

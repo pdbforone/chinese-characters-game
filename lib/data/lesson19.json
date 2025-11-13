@@ -4,7 +4,7 @@
     {
       "id": 447,
       "character": "賠",
-      "pinyin": "pei",
+      "pinyin": "péi",
       "tone": 2,
       "meaning": "to compensate",
       "story": "To compensate shellfish stand questions \"Pay? How much?\" curiously!",
@@ -13,7 +13,7 @@
     {
       "id": 448,
       "character": "培",
-      "pinyin": "pei",
+      "pinyin": "péi",
       "tone": 2,
       "meaning": "to cultivate",
       "story": "To cultivate soil stand questions \"Pay? How grow?\" curiously!",
@@ -22,7 +22,7 @@
     {
       "id": 449,
       "character": "音",
-      "pinyin": "yin",
+      "pinyin": "yīn",
       "tone": 1,
       "meaning": "Sound",
       "story": "Sound standing sun sings \"Yin!\" cheerfully audible!",
@@ -31,7 +31,7 @@
     {
       "id": 450,
       "character": "暗",
-      "pinyin": "an",
+      "pinyin": "àn",
       "tone": 4,
       "meaning": "dark",
       "story": "Dark sun sound commands \"An!\" sharply hidden!",
@@ -40,7 +40,7 @@
     {
       "id": 451,
       "character": "韻",
-      "pinyin": "yun",
+      "pinyin": "yùn",
       "tone": 4,
       "meaning": "Rhyme",
       "story": "A rhyme sound commands \"Yun!\" sharply poetic!",
@@ -49,7 +49,7 @@
     {
       "id": 452,
       "character": "識",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "Knowledge",
       "story": "Knowledge words sound yells \"Shi!\" sharply knowing!",
@@ -58,7 +58,7 @@
     {
       "id": 453,
       "character": "幟",
-      "pinyin": "zhi",
+      "pinyin": "zhì",
       "tone": 4,
       "meaning": "Streamer",
       "story": "A streamer towel sound commands \"Zhi!\" sharply waving!",
@@ -67,7 +67,7 @@
     {
       "id": 454,
       "character": "竟",
-      "pinyin": "jing",
+      "pinyin": "jìng",
       "tone": 4,
       "meaning": "unexpectedly",
       "story": "Unexpectedly sound child yells \"Jing!\" sharply surprising!",
@@ -76,7 +76,7 @@
     {
       "id": 455,
       "character": "鏡",
-      "pinyin": "jing",
+      "pinyin": "jìng",
       "tone": 4,
       "meaning": "Mirror",
       "story": "A mirror gold unexpectedly commands \"Jing!\" sharply reflecting!",
@@ -85,7 +85,7 @@
     {
       "id": 456,
       "character": "境",
-      "pinyin": "jing",
+      "pinyin": "jìng",
       "tone": 4,
       "meaning": "Boundary",
       "story": "A boundary earth unexpectedly yells \"Jing!\" sharply bordering!",
@@ -94,7 +94,7 @@
     {
       "id": 457,
       "character": "亡",
-      "pinyin": "wang",
+      "pinyin": "wáng",
       "tone": 2,
       "meaning": "deceased",
       "story": "Deceased person gone questions \"Wang? Where died?\" curiously!",
@@ -103,7 +103,7 @@
     {
       "id": 458,
       "character": "盲",
-      "pinyin": "mang",
+      "pinyin": "máng",
       "tone": 2,
       "meaning": "blind",
       "story": "Blind eye deceased questions \"Mang? Can't see?\" curiously!",
@@ -112,7 +112,7 @@
     {
       "id": 459,
       "character": "妄",
-      "pinyin": "wang",
+      "pinyin": "wàng",
       "tone": 4,
       "meaning": "absurd",
       "story": "Absurd woman deceased commands \"Wang!\" sharply crazy!",
@@ -121,7 +121,7 @@
     {
       "id": 460,
       "character": "望",
-      "pinyin": "wang",
+      "pinyin": "wàng",
       "tone": 4,
       "meaning": "to expect",
       "story": "To expect absurd moon yells \"Wang!\" sharply hoping!",
@@ -130,7 +130,7 @@
     {
       "id": 461,
       "character": "方",
-      "pinyin": "fang",
+      "pinyin": "fāng",
       "tone": 1,
       "meaning": "Direction",
       "story": "Direction square sings \"Fang!\" cheerfully pointing!",
@@ -139,7 +139,7 @@
     {
       "id": 462,
       "character": "妨",
-      "pinyin": "fang",
+      "pinyin": "fáng",
       "tone": 2,
       "meaning": "to hinder",
       "story": "To hinder woman direction questions \"Fang? Block?\" curiously!",
@@ -148,7 +148,7 @@
     {
       "id": 463,
       "character": "放",
-      "pinyin": "fang",
+      "pinyin": "fàng",
       "tone": 4,
       "meaning": "to release",
       "story": "To release direction strike commands \"Fang!\" sharply freeing!",
@@ -157,7 +157,7 @@
     {
       "id": 464,
       "character": "激",
-      "pinyin": "ji",
+      "pinyin": "jī",
       "tone": 1,
       "meaning": "to excite",
       "story": "To excite white direction water sings \"Ji!\" cheerfully energized!",
@@ -166,7 +166,7 @@
     {
       "id": 465,
       "character": "於",
-      "pinyin": "yu",
+      "pinyin": "yú",
       "tone": 2,
       "meaning": "[all-purpose preposition]",
       "story": "At place with direction questions \"Yu? Where?\" curiously!",
@@ -175,7 +175,7 @@
     {
       "id": 466,
       "character": "旁",
-      "pinyin": "pang",
+      "pinyin": "páng",
       "tone": 2,
       "meaning": "Side",
       "story": "Side stand direction questions \"Pang? Which side?\" curiously!",
@@ -184,7 +184,7 @@
     {
       "id": 467,
       "character": "兌",
-      "pinyin": "dui",
+      "pinyin": "duì",
       "tone": 4,
       "meaning": "to convert",
       "story": "To convert person mouth commands \"Dway!\" sharply exchanging!",
@@ -193,7 +193,7 @@
     {
       "id": 468,
       "character": "脫",
-      "pinyin": "tuo",
+      "pinyin": "tuō",
       "tone": 1,
       "meaning": "to undress",
       "story": "To undress flesh convert sings \"Twoh!\" cheerfully removing!",
@@ -202,7 +202,7 @@
     {
       "id": 469,
       "character": "說",
-      "pinyin": "shuo",
+      "pinyin": "shuō",
       "tone": 1,
       "meaning": "to speak",
       "story": "To speak words convert sings \"Shwoh!\" cheerfully talking!",
@@ -211,7 +211,7 @@
     {
       "id": 470,
       "character": "曾",
-      "pinyin": "ceng",
+      "pinyin": "céng",
       "tone": 2,
       "meaning": "formerly",
       "story": "Formerly day bend questions \"Tseng? Long ago?\" curiously!",
@@ -220,7 +220,7 @@
     {
       "id": 471,
       "character": "增",
-      "pinyin": "zeng",
+      "pinyin": "zēng",
       "tone": 1,
       "meaning": "to increase",
       "story": "To increase earth formerly sings \"Zeng!\" cheerfully growing!",
@@ -229,7 +229,7 @@
     {
       "id": 472,
       "character": "贈",
-      "pinyin": "zeng",
+      "pinyin": "zèng",
       "tone": 4,
       "meaning": "to make a present of",
       "story": "To make a present of shellfish increase commands \"Zeng!\" sharply gifting!",
@@ -238,7 +238,7 @@
     {
       "id": 473,
       "character": "東",
-      "pinyin": "dong",
+      "pinyin": "dōng",
       "tone": 1,
       "meaning": "East",
       "story": "East tree bag sings \"Dong!\" cheerfully rising!",
@@ -247,7 +247,7 @@
     {
       "id": 474,
       "character": "棟",
-      "pinyin": "dong",
+      "pinyin": "dòng",
       "tone": 4,
       "meaning": "Building",
       "story": "Building tree east commands \"Dong!\" sharply constructed!",
@@ -256,7 +256,7 @@
     {
       "id": 475,
       "character": "凍",
-      "pinyin": "dong",
+      "pinyin": "dòng",
       "tone": 4,
       "meaning": "to freeze",
       "story": "To freeze ice east yells \"Dong!\" sharply frozen!",

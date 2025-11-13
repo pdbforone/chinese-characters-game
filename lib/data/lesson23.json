@@ -4,7 +4,7 @@
     {
       "id": 634,
       "character": "山",
-      "pinyin": "shan",
+      "pinyin": "shān",
       "tone": 1,
       "meaning": "Mountain",
       "story": "Mountains rise cheerfully singing \"Shan!\" high and proud!",
@@ -13,7 +13,7 @@
     {
       "id": 635,
       "character": "出",
-      "pinyin": "chu",
+      "pinyin": "chū",
       "tone": 1,
       "meaning": "to exit",
       "story": "To exit mountain sings \"Choo!\" cheerfully emerging!",
@@ -22,7 +22,7 @@
     {
       "id": 636,
       "character": "擊",
-      "pinyin": "ji",
+      "pinyin": "jí",
       "tone": 2,
       "meaning": "to beat",
       "story": "To beat hand car questions \"Ji? Strike?\" curiously!",
@@ -31,7 +31,7 @@
     {
       "id": 637,
       "character": "密",
-      "pinyin": "mi",
+      "pinyin": "mì",
       "tone": 4,
       "meaning": "secret",
       "story": "Secret mountain needle commands \"Mee!\" sharply hidden!",
@@ -40,7 +40,7 @@
     {
       "id": 638,
       "character": "入",
-      "pinyin": "ru",
+      "pinyin": "rù",
       "tone": 4,
       "meaning": "to enter",
       "story": "To enter down commands \"Roo!\" sharply going in!",
@@ -49,7 +49,7 @@
     {
       "id": 639,
       "character": "內",
-      "pinyin": "nei",
+      "pinyin": "nèi",
       "tone": 4,
       "meaning": "internal",
       "story": "Internal person enter yells \"Nay!\" sharply inside!",
@@ -67,7 +67,7 @@
     {
       "id": 641,
       "character": "分",
-      "pinyin": "fen",
+      "pinyin": "fēn",
       "tone": 1,
       "meaning": "Part",
       "story": "A part divides cheerfully singing \"Fen!\" high!",
@@ -76,7 +76,7 @@
     {
       "id": 642,
       "character": "貧",
-      "pinyin": "pin",
+      "pinyin": "pín",
       "tone": 2,
       "meaning": "impoverished",
       "story": "Impoverished part shellfish questions \"Pin? So poor?\" curiously!",
@@ -85,7 +85,7 @@
     {
       "id": 643,
       "character": "公",
-      "pinyin": "gong",
+      "pinyin": "gōng",
       "tone": 1,
       "meaning": "public",
       "story": "Public person divide sings \"Gong!\" cheerfully shared!",
@@ -94,7 +94,7 @@
     {
       "id": 644,
       "character": "松",
-      "pinyin": "song",
+      "pinyin": "sōng",
       "tone": 1,
       "meaning": "Pine Tree",
       "story": "Pine tree public sings \"Song!\" cheerfully evergreen!",
@@ -103,7 +103,7 @@
     {
       "id": 645,
       "character": "谷",
-      "pinyin": "gu",
+      "pinyin": "gǔ",
       "tone": 3,
       "meaning": "Valley",
       "story": "Valley mouth bends down drooping saying \"Goo\"!",
@@ -112,7 +112,7 @@
     {
       "id": 646,
       "character": "浴",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "to bathe",
       "story": "To bathe water valley commands \"Yu!\" sharply washing!",
@@ -121,7 +121,7 @@
     {
       "id": 647,
       "character": "欲",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "to desire",
       "story": "To desire valley lack yells \"Yu!\" sharply wanting!",
@@ -130,7 +130,7 @@
     {
       "id": 648,
       "character": "慾",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "the Lust",
       "story": "The lust heart desire commands \"Yu!\" sharply craving!",
@@ -139,7 +139,7 @@
     {
       "id": 649,
       "character": "容",
-      "pinyin": "rong",
+      "pinyin": "róng",
       "tone": 2,
       "meaning": "to contain",
       "story": "To contain roof valley questions \"Rong? Fit inside?\" curiously!",
@@ -148,7 +148,7 @@
     {
       "id": 650,
       "character": "溶",
-      "pinyin": "rong",
+      "pinyin": "róng",
       "tone": 2,
       "meaning": "to dissolve",
       "story": "To dissolve water contain questions \"Rong? Melting?\" curiously!",

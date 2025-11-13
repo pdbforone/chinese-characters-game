@@ -4,7 +4,7 @@
     {
       "id": 333,
       "character": "式",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "Style",
       "story": "A style work arrow commands \"Shi!\" sharply fashioned!",
@@ -13,7 +13,7 @@
     {
       "id": 334,
       "character": "試",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "Test",
       "story": "A test words style yells \"Shi!\" sharply examining!",
@@ -22,7 +22,7 @@
     {
       "id": 335,
       "character": "戈",
-      "pinyin": "ge",
+      "pinyin": "gē",
       "tone": 1,
       "meaning": "Halberd",
       "story": "A halberd spear sings \"Guh!\" cheerfully sharp!",
@@ -31,7 +31,7 @@
     {
       "id": 336,
       "character": "或",
-      "pinyin": "huo",
+      "pinyin": "huò",
       "tone": 4,
       "meaning": "or",
       "story": "Or one mouth halberd commands \"Huo!\" sharply choosing!",
@@ -40,7 +40,7 @@
     {
       "id": 337,
       "character": "賊",
-      "pinyin": "zei",
+      "pinyin": "zéi",
       "tone": 2,
       "meaning": "Burglar",
       "story": "A burglar shellfish ten halberds questions \"Zay? Stealing what?\" curiously!",
@@ -49,7 +49,7 @@
     {
       "id": 338,
       "character": "載",
-      "pinyin": "zai",
+      "pinyin": "zài",
       "tone": 4,
       "meaning": "laden",
       "story": "Laden car halberds commands \"Zai!\" sharply carrying!",
@@ -58,7 +58,7 @@
     {
       "id": 339,
       "character": "鐵",
-      "pinyin": "tie",
+      "pinyin": "tiě",
       "tone": 3,
       "meaning": "Iron",
       "story": "Iron gold lost bends down drooping saying \"Tieh\"!",
@@ -67,7 +67,7 @@
     {
       "id": 340,
       "character": "茂",
-      "pinyin": "mao",
+      "pinyin": "mào",
       "tone": 4,
       "meaning": "lush",
       "story": "Lush grass halberds command \"Mao!\" sharply overgrown!",
@@ -76,7 +76,7 @@
     {
       "id": 341,
       "character": "成",
-      "pinyin": "cheng",
+      "pinyin": "chéng",
       "tone": 2,
       "meaning": "to turn into",
       "story": "To turn into halberds question \"Cheng? What become?\" curiously!",
@@ -85,7 +85,7 @@
     {
       "id": 342,
       "character": "城",
-      "pinyin": "cheng",
+      "pinyin": "chéng",
       "tone": 2,
       "meaning": "City",
       "story": "A city earth turn into questions \"Cheng? How big?\" curiously!",
@@ -94,7 +94,7 @@
     {
       "id": 343,
       "character": "誠",
-      "pinyin": "cheng",
+      "pinyin": "chéng",
       "tone": 2,
       "meaning": "sincere",
       "story": "Sincere words turn into questions \"Cheng? Really true?\" curiously!",
@@ -103,7 +103,7 @@
     {
       "id": 344,
       "character": "威",
-      "pinyin": "wei",
+      "pinyin": "wēi",
       "tone": 1,
       "meaning": "Might",
       "story": "Might woman halberds sing \"Way!\" cheerfully powerful!",
@@ -112,7 +112,7 @@
     {
       "id": 345,
       "character": "滅",
-      "pinyin": "mie",
+      "pinyin": "miè",
       "tone": 4,
       "meaning": "to destroy",
       "story": "To destroy fire halberds command \"Mieh!\" sharply extinguishing!",
@@ -121,7 +121,7 @@
     {
       "id": 346,
       "character": "咸",
-      "pinyin": "xian",
+      "pinyin": "xián",
       "tone": 2,
       "meaning": "everybody",
       "story": "Everybody halberds mouth questions \"Shian? All here?\" curiously!",
@@ -130,7 +130,7 @@
     {
       "id": 347,
       "character": "減",
-      "pinyin": "jian",
+      "pinyin": "jiǎn",
       "tone": 3,
       "meaning": "to reduce",
       "story": "To reduce water everybody bends down drooping saying \"Jian\"!",
@@ -139,7 +139,7 @@
     {
       "id": 348,
       "character": "單",
-      "pinyin": "dan",
+      "pinyin": "dān",
       "tone": 1,
       "meaning": "a List",
       "story": "A list two halberds sing \"Dan!\" cheerfully simple!",
@@ -148,7 +148,7 @@
     {
       "id": 349,
       "character": "戰",
-      "pinyin": "zhan",
+      "pinyin": "zhàn",
       "tone": 4,
       "meaning": "War",
       "story": "War list halberds command \"Zhan!\" sharply fighting!",
@@ -157,7 +157,7 @@
     {
       "id": 350,
       "character": "錢",
-      "pinyin": "qian",
+      "pinyin": "qián",
       "tone": 2,
       "meaning": "Coin",
       "story": "Coin gold list questions \"Chian? How much?\" curiously!",
@@ -166,7 +166,7 @@
     {
       "id": 351,
       "character": "淺",
-      "pinyin": "qian",
+      "pinyin": "qiǎn",
       "tone": 3,
       "meaning": "shallow",
       "story": "Shallow water list bends down drooping saying \"Chian\"!",
@@ -175,7 +175,7 @@
     {
       "id": 352,
       "character": "賤",
-      "pinyin": "jian",
+      "pinyin": "jiàn",
       "tone": 4,
       "meaning": "cheap",
       "story": "Cheap shellfish war yells \"Jian!\" sharply worthless!",

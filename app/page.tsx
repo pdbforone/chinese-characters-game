@@ -108,6 +108,26 @@ export default function Home() {
           </div>
         </div>
 
+        {/* Pinyin Primer */}
+        <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-2xl p-6 mb-8 border-2 border-indigo-200">
+          <div className="flex items-start gap-4">
+            <div className="text-4xl">🗣️</div>
+            <div>
+              <h3 className="font-bold text-indigo-700 mb-2">New to Pinyin?</h3>
+              <p className="text-gray-700 text-sm leading-relaxed mb-2">
+                This course assumes basic familiarity with{' '}
+                <span className="font-semibold text-indigo-700">pīnyīn</span> (the romanization
+                system for Chinese). If you&apos;re new to pinyin, we recommend studying the tone
+                system and pronunciation basics before starting.
+              </p>
+              <p className="text-gray-600 text-xs">
+                💡 Each character displays its pinyin with tone marks (e.g., yī, èr, sān) to help
+                you learn pronunciation alongside the mnemonic stories.
+              </p>
+            </div>
+          </div>
+        </div>
+
         {/* Lessons Grid */}
         <div className="mb-6">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">Choose Your Lesson</h2>
