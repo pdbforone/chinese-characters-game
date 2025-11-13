@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Character, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
 import { playRoundCompleteSound, playLevelUnlockSound } from '@/lib/sounds';
@@ -22,118 +22,118 @@ export default function MultiRoundGame({
   onBackToLessons,
   onReview,
 }: MultiRoundGameProps) {
-  const CHARACTERS_PER_ROUND = 6;
-  const totalRounds = Math.ceil(characters.length / CHARACTERS_PER_ROUND);
+  const CHARACTERS_PER_PAGE = 6;
+  const totalPages = Math.ceil(characters.length / CHARACTERS_PER_PAGE);
 
-  const [currentRound, setCurrentRound] = useState(0);
-  const [gameMode, setGameMode] = useState<GameMode>('story-to-character');
+  // Round = difficulty level (1, 2, or 3)
+  // Page = which set of 6 characters (0, 1, 2, etc.)
+  const [currentRound, setCurrentRound] = useState(1); // 1, 2, or 3
+  const [currentPage, setCurrentPage] = useState(0);
   const [roundScores, setRoundScores] = useState<{ accuracy: number; score: number }[]>([]);
-  const [showRoundTransition, setShowRoundTransition] = useState(false);
+  const [showTransition, setShowTransition] = useState(false);
 
-  const getRoundCharacters = () => {
-    const start = currentRound * CHARACTERS_PER_ROUND;
-    const end = start + CHARACTERS_PER_ROUND;
+  const getPageCharacters = () => {
+    const start = currentPage * CHARACTERS_PER_PAGE;
+    const end = start + CHARACTERS_PER_PAGE;
     return characters.slice(start, end);
   };
 
-  const handleRoundComplete = (accuracy: number, score: number) => {
+  const getGameMode = (): GameMode => {
+    if (currentRound === 1) return 'story-to-character';
+    if (currentRound === 2) return 'character-to-story';
+    return 'character-to-pinyin';
+  };
+
+  const handlePageComplete = (accuracy: number, score: number) => {
     const newScores = [...roundScores, { accuracy, score }];
     setRoundScores(newScores);
 
-    // Play round complete sound
     playRoundCompleteSound();
 
-    // Check if all rounds are complete
-    if (currentRound + 1 >= totalRounds) {
-      // All rounds done for this mode
-      handleModeComplete(newScores);
+    // Check if all pages are complete for this round
+    if (currentPage + 1 >= totalPages) {
+      // All pages done for this difficulty round
+      handleRoundComplete(newScores);
     } else {
-      // More rounds in this mode
-      setShowRoundTransition(true);
+      // More pages in this round
+      setShowTransition(true);
     }
   };
 
-  const handleModeComplete = (scores: { accuracy: number; score: number }[]) => {
-    // Calculate overall stats for this mode
+  const handleRoundComplete = (scores: { accuracy: number; score: number }[]) => {
+    // Calculate overall stats for this round
     const avgAccuracy = scores.reduce((sum, s) => sum + s.accuracy, 0) / scores.length;
     const totalScore = scores.reduce((sum, s) => sum + s.score, 0);
 
     // Save progress
     saveGameScore(lessonNumber, totalScore, avgAccuracy);
 
-    // Check if we should advance to next difficulty
-    if (gameMode === 'story-to-character' && avgAccuracy >= 70) {
-      // Advance to character-to-story mode
+    // Check if we should advance to next round (difficulty level)
+    if (currentRound < 3 && avgAccuracy >= 70) {
+      // Advance to next difficulty
       playLevelUnlockSound();
-      setGameMode('character-to-story');
-      setCurrentRound(0);
+      setCurrentRound(currentRound + 1);
+      setCurrentPage(0);
       setRoundScores([]);
-      setShowRoundTransition(true);
-    } else if (gameMode === 'character-to-story' && avgAccuracy >= 70) {
-      // Advance to character-to-pinyin mode
-      playLevelUnlockSound();
-      setGameMode('character-to-pinyin');
-      setCurrentRound(0);
-      setRoundScores([]);
-      setShowRoundTransition(true);
-    } else {
-      // All modes complete or failed to advance
+      setShowTransition(true);
+    } else if (currentRound === 3) {
+      // All 3 rounds complete!
       onComplete();
+    } else {
+      // Failed to advance - restart current round
+      setCurrentPage(0);
+      setRoundScores([]);
+      setShowTransition(true);
     }
   };
 
   const handleContinue = () => {
-    setShowRoundTransition(false);
-    setCurrentRound(currentRound + 1);
+    setShowTransition(false);
+    setCurrentPage(currentPage + 1);
   };
 
-  const getModeName = (mode: GameMode): string => {
-    switch (mode) {
-      case 'story-to-character':
-        return 'Story → Character';
-      case 'character-to-story':
-        return 'Character → Story';
-      case 'character-to-pinyin':
-        return 'Character → Pinyin';
-    }
+  const getRoundName = (): string => {
+    if (currentRound === 1) return 'Round 1: Story → Character';
+    if (currentRound === 2) return 'Round 2: Character → Story';
+    return 'Round 3: Character → Pinyin';
   };
 
-  const getModeDescription = (mode: GameMode): string => {
-    switch (mode) {
-      case 'story-to-character':
-        return 'Match stories to characters';
-      case 'character-to-story':
-        return 'Match characters to their stories';
-      case 'character-to-pinyin':
-        return 'Match characters to their pronunciation';
-    }
+  const getRoundDescription = (): string => {
+    if (currentRound === 1) return 'Match stories to characters (pinyin & meaning shown)';
+    if (currentRound === 2) return 'Match characters to stories (only pinyin shown)';
+    return 'Match characters to pinyin (no hints!)';
   };
 
-  if (showRoundTransition) {
-    const isNewMode = currentRound === 0;
+  if (showTransition) {
+    const isNewRound = currentPage === 0;
     const lastScore = roundScores[roundScores.length - 1];
 
     return (
       <div className="min-h-screen flex items-center justify-center p-4 bg-gradient-to-br from-blue-50 to-indigo-100">
         <div className="bg-white rounded-lg shadow-2xl p-8 max-w-md w-full">
-          {isNewMode ? (
+          {isNewRound ? (
             <>
               <div className="text-center mb-6">
-                <div className="text-5xl mb-4">🎉</div>
+                <div className="text-5xl mb-4">
+                  {currentRound === 1 ? '📚' : currentRound === 2 ? '🎯' : '🏆'}
+                </div>
                 <h2 className="text-2xl font-bold text-gray-800 mb-2">
-                  New Challenge Unlocked!
+                  {currentRound > 1 ? 'New Challenge Unlocked!' : 'Ready to Begin!'}
                 </h2>
                 <p className="text-gray-600">
-                  You're ready for the next difficulty level
+                  {currentRound > 1 ? "You're ready for increased difficulty" : 'Let\'s start learning!'}
                 </p>
               </div>
 
               <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-4 mb-6">
                 <h3 className="font-semibold text-gray-800 mb-1">
-                  {getModeName(gameMode)}
+                  {getRoundName()}
                 </h3>
                 <p className="text-sm text-gray-600">
-                  {getModeDescription(gameMode)}
+                  {getRoundDescription()}
+                </p>
+                <p className="text-xs text-gray-500 mt-2">
+                  {totalPages} pages • {characters.length} characters total
                 </p>
               </div>
 
@@ -141,7 +141,7 @@ export default function MultiRoundGame({
                 onClick={handleContinue}
                 className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors"
               >
-                Start Challenge →
+                Start Round {currentRound} →
               </button>
             </>
           ) : (
@@ -149,7 +149,7 @@ export default function MultiRoundGame({
               <div className="text-center mb-6">
                 <div className="text-5xl mb-4">✓</div>
                 <h2 className="text-2xl font-bold text-gray-800 mb-2">
-                  Round Complete!
+                  Page Complete!
                 </h2>
                 <div className="text-lg text-gray-600">
                   Accuracy: <span className="font-bold text-blue-600">
@@ -160,13 +160,13 @@ export default function MultiRoundGame({
 
               <div className="mb-6">
                 <div className="flex justify-between text-sm text-gray-600 mb-2">
-                  <span>Progress</span>
-                  <span>Round {currentRound + 1} of {totalRounds}</span>
+                  <span>{getRoundName()}</span>
+                  <span>Page {currentPage + 1} of {totalPages}</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-3">
                   <div
                     className="bg-blue-600 h-full rounded-full transition-all duration-500"
-                    style={{ width: `${((currentRound + 1) / totalRounds) * 100}%` }}
+                    style={{ width: `${((currentPage + 1) / totalPages) * 100}%` }}
                   />
                 </div>
               </div>
@@ -175,7 +175,7 @@ export default function MultiRoundGame({
                 onClick={handleContinue}
                 className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors"
               >
-                Next Round →
+                Next Page →
               </button>
             </>
           )}
@@ -208,12 +208,13 @@ export default function MultiRoundGame({
       </div>
 
       <GameBoard
-        characters={getRoundCharacters()}
+        characters={getPageCharacters()}
         lesson={lessonNumber}
-        round={currentRound + 1}
-        totalRounds={totalRounds}
-        gameMode={gameMode}
-        onRoundComplete={handleRoundComplete}
+        round={currentRound}
+        page={currentPage + 1}
+        totalPages={totalPages}
+        gameMode={getGameMode()}
+        onRoundComplete={handlePageComplete}
         onBackToLessons={onBackToLessons}
       />
     </div>

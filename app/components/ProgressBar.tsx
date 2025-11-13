@@ -5,9 +5,18 @@ interface ProgressBarProps {
   total: number;
   lesson: number;
   round: number;
+  page?: number;
+  totalPages?: number;
 }
 
-export default function ProgressBar({ current, total, lesson, round }: ProgressBarProps) {
+export default function ProgressBar({
+  current,
+  total,
+  lesson,
+  round,
+  page = 1,
+  totalPages = 1
+}: ProgressBarProps) {
   const percentage = (current / total) * 100;
 
   return (
@@ -15,6 +24,7 @@ export default function ProgressBar({ current, total, lesson, round }: ProgressB
       <div className="flex justify-between items-center mb-2">
         <h2 className="text-xl font-bold text-gray-800">
           RTH Lesson {lesson} - Round {round}
+          {totalPages > 1 && <span className="text-base text-gray-600 ml-2">(Page {page} of {totalPages})</span>}
         </h2>
         <span className="text-sm font-medium text-gray-600">
           {current}/{total} matched
