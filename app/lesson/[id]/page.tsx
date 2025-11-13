@@ -15,6 +15,7 @@ export default function LessonPage() {
   const router = useRouter();
   const lessonId = parseInt(params.id as string);
 
+  // Load lesson data dynamically
   const lessonData = getLessonData(lessonId);
 
   const [phase, setPhase] = useState<Phase>('loading');
@@ -24,9 +25,6 @@ export default function LessonPage() {
     bestScore: 0,
     bestAccuracy: 0,
   });
-
-  // Load lesson data dynamically
-  const lessonData = getLessonData(lessonId);
 
   useEffect(() => {
     // Load progress from localStorage
