@@ -44,11 +44,15 @@ export default function GameBoard({
 
   // Shuffle right column for display (but keep left in order)
   // Use useMemo to avoid setState in effect
-  const shuffledRight = useMemo(() => {
-    // Shuffling is intentionally impure - we want randomness each time characters change
-    // eslint-disable-next-line react-hooks/purity
-    return [...characters].sort(() => Math.random() - 0.5);
-  }, [characters, shuffleKey]);
+  // shuffleKey is intentionally included to trigger re-shuffle on resetGame
+  const shuffledRight = useMemo(
+    () => {
+      // Shuffling is intentionally impure - we want randomness each time characters change
+      return [...characters].sort(() => Math.random() - 0.5);
+    },
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [characters, shuffleKey]
+  );
 
   const handleLeftClick = (id: number) => {
     if (matched.has(id)) return;
