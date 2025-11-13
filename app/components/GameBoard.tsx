@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Character, GameStats } from '@/lib/types';
+import { saveGameScore } from '@/lib/storage';
 import StoryCard from './StoryCard';
 import CharacterCard from './CharacterCard';
 import ProgressBar from './ProgressBar';
@@ -77,6 +78,9 @@ export default function GameBoard({ characters, lesson, round }: GameBoardProps)
 
       // Check if game is complete
       if (newMatched.size === characters.length) {
+        // Save score to localStorage
+        const finalScore = newCorrect * 100; // 100 points per correct match
+        saveGameScore(lesson, finalScore, newAccuracy);
         setTimeout(() => setShowCompletion(true), 500);
       }
     } else {
