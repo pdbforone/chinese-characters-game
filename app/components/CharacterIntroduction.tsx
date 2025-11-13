@@ -25,12 +25,14 @@ export default function CharacterIntroduction({
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLastCard, setIsLastCard] = useState(false);
 
-  const currentChar = characters[currentIndex];
-  const progress = ((currentIndex + 1) / characters.length) * 100;
-
   useEffect(() => {
     setIsLastCard(currentIndex === characters.length);
   }, [currentIndex, characters.length]);
+
+  const currentChar = isLastCard ? null : characters[currentIndex];
+  const progress = isLastCard
+    ? 100
+    : ((currentIndex + 1) / characters.length) * 100;
 
   useEffect(() => {
     const handleKeyboard = (e: KeyboardEvent) => {
@@ -124,7 +126,11 @@ export default function CharacterIntroduction({
     );
   }
 
-  // Character Card
+  // Character Card - Guard against null currentChar
+  if (!currentChar) {
+    return null; // Safety check, should not happen due to isLastCard check above
+  }
+
   const toneInfo = getToneInfo(currentChar.tone);
 
   return (
