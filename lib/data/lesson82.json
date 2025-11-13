@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 2063,
+      "character": "揭",
+      "pinyin": "jie",
+      "tone": 1,
+      "meaning": "reveal",
+      "story": "Reveal fingers siesta sings \"Jyeh!\" cheerfully - uncover expose hat!",
+      "primitives": []
+    },
+    {
+      "id": 2064,
       "character": "淫",
       "pinyin": "yin",
       "tone": 2,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2064,
+      "id": 2065,
       "character": "挺",
       "pinyin": "ting",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 2065,
+      "id": 2066,
       "character": "瓦",
       "pinyin": "wa",
       "tone": 3,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 2066,
+      "id": 2067,
       "character": "瓷",
       "pinyin": "ci",
       "tone": 2,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 2067,
+      "id": 2068,
       "character": "瓶",
       "pinyin": "ping",
       "tone": 2,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 2068,
+      "id": 2069,
       "character": "鋁",
       "pinyin": "lü",
       "tone": 3,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 2069,
+      "id": 2070,
       "character": "宮",
       "pinyin": "gong",
       "tone": 1,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2070,
+      "id": 2071,
       "character": "瑩",
       "pinyin": "ying",
       "tone": 2,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2071,
+      "id": 2072,
       "character": "螢",
       "pinyin": "ying",
       "tone": 2,
@@ -83,21 +92,12 @@
       "primitives": []
     },
     {
-      "id": 2072,
+      "id": 2073,
       "character": "撈",
       "pinyin": "lao",
       "tone": 1,
       "meaning": "scoop up",
       "story": "Scoop up hand door sings \"Lao!\" cheerfully - dip out fortune!",
-      "primitives": []
-    },
-    {
-      "id": 2073,
-      "character": "煥",
-      "pinyin": "huan",
-      "tone": 4,
-      "meaning": "glowing",
-      "story": "Glowing fire sled dogs commands sharply \"Hwahn!\" - radiant brilliant!",
       "primitives": []
     }
   ]

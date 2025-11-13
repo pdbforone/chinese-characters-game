@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1507,
+      "character": "囂",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "hubbub",
+      "story": "Hubbub mouths enclosure sings \"Shyao!\" cheerfully - noisy clamor!",
+      "primitives": []
+    },
+    {
+      "id": 1508,
       "character": "顛",
       "pinyin": "dian",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1508,
+      "id": 1509,
       "character": "叨",
       "pinyin": "dao",
       "tone": 1,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1509,
+      "id": 1510,
       "character": "刮",
       "pinyin": "gua",
       "tone": 1,
@@ -29,21 +38,12 @@
       "primitives": []
     },
     {
-      "id": 1510,
+      "id": 1511,
       "character": "盯",
       "pinyin": "ding",
       "tone": 1,
       "meaning": "stare at",
       "story": "Stare at eye nail sings \"Ding!\" cheerfully - gazing fixedly!",
-      "primitives": []
-    },
-    {
-      "id": 1511,
-      "character": "呵",
-      "pinyin": "a",
-      "tone": 1,
-      "meaning": "rebuke",
-      "story": "Rebuke mouth breathe sings \"Ah!\" cheerfully - scolding!",
       "primitives": []
     }
   ]

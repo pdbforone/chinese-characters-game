@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1990,
+      "character": "筋",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "tendon",
+      "story": "Tendon bamboo muscle sings \"Jin!\" cheerfully - sinew tissue!",
+      "primitives": []
+    },
+    {
+      "id": 1991,
       "character": "伍",
       "pinyin": "wu",
       "tone": 3,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1991,
+      "id": 1992,
       "character": "仇",
       "pinyin": "chou",
       "tone": 2,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1992,
+      "id": 1993,
       "character": "倡",
       "pinyin": "chang",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1993,
+      "id": 1994,
       "character": "伯",
       "pinyin": "bo",
       "tone": 2,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1994,
+      "id": 1995,
       "character": "仲",
       "pinyin": "zhong",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1995,
+      "id": 1996,
       "character": "估",
       "pinyin": "gu",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1996,
+      "id": 1997,
       "character": "偵",
       "pinyin": "zhen",
       "tone": 1,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1997,
+      "id": 1998,
       "character": "俱",
       "pinyin": "ju",
       "tone": 4,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1998,
+      "id": 1999,
       "character": "側",
       "pinyin": "ce",
       "tone": 4,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1999,
+      "id": 2000,
       "character": "佑",
       "pinyin": "you",
       "tone": 4,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 2000,
+      "id": 2001,
       "character": "佐",
       "pinyin": "zuo",
       "tone": 3,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 2001,
+      "id": 2002,
       "character": "仔",
       "pinyin": "zi",
       "tone": 3,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 2002,
+      "id": 2003,
       "character": "俏",
       "pinyin": "qiao",
       "tone": 4,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 2003,
+      "id": 2004,
       "character": "倘",
       "pinyin": "tang",
       "tone": 3,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 2004,
+      "id": 2005,
       "character": "倚",
       "pinyin": "yi",
       "tone": 3,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 2005,
+      "id": 2006,
       "character": "佳",
       "pinyin": "jia",
       "tone": 1,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 2006,
+      "id": 2007,
       "character": "侍",
       "pinyin": "shi",
       "tone": 4,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 2007,
+      "id": 2008,
       "character": "伙",
       "pinyin": "huo",
       "tone": 3,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 2008,
+      "id": 2009,
       "character": "宿",
       "pinyin": "su",
       "tone": 4,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 2009,
+      "id": 2010,
       "character": "伏",
       "pinyin": "fu",
       "tone": 2,
@@ -182,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 2010,
+      "id": 2011,
       "character": "袱",
       "pinyin": "fu",
       "tone": 2,
@@ -191,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 2011,
+      "id": 2012,
       "character": "偷",
       "pinyin": "tou",
       "tone": 1,
@@ -200,7 +209,7 @@
       "primitives": []
     },
     {
-      "id": 2012,
+      "id": 2013,
       "character": "伐",
       "pinyin": "fa",
       "tone": 2,
@@ -209,7 +218,7 @@
       "primitives": []
     },
     {
-      "id": 2013,
+      "id": 2014,
       "character": "佩",
       "pinyin": "pei",
       "tone": 4,
@@ -218,7 +227,7 @@
       "primitives": []
     },
     {
-      "id": 2014,
+      "id": 2015,
       "character": "佈",
       "pinyin": "bu",
       "tone": 4,
@@ -227,7 +236,7 @@
       "primitives": []
     },
     {
-      "id": 2015,
+      "id": 2016,
       "character": "僑",
       "pinyin": "qiao",
       "tone": 2,
@@ -236,7 +245,7 @@
       "primitives": []
     },
     {
-      "id": 2016,
+      "id": 2017,
       "character": "億",
       "pinyin": "yi",
       "tone": 4,
@@ -245,7 +254,7 @@
       "primitives": []
     },
     {
-      "id": 2017,
+      "id": 2018,
       "character": "傾",
       "pinyin": "qing",
       "tone": 1,
@@ -254,7 +263,7 @@
       "primitives": []
     },
     {
-      "id": 2018,
+      "id": 2019,
       "character": "侮",
       "pinyin": "wu",
       "tone": 3,
@@ -263,7 +272,7 @@
       "primitives": []
     },
     {
-      "id": 2019,
+      "id": 2020,
       "character": "倍",
       "pinyin": "bei",
       "tone": 4,
@@ -272,7 +281,7 @@
       "primitives": []
     },
     {
-      "id": 2020,
+      "id": 2021,
       "character": "仿",
       "pinyin": "fang",
       "tone": 3,
@@ -281,7 +290,7 @@
       "primitives": []
     },
     {
-      "id": 2021,
+      "id": 2022,
       "character": "傲",
       "pinyin": "ao",
       "tone": 4,
@@ -290,7 +299,7 @@
       "primitives": []
     },
     {
-      "id": 2022,
+      "id": 2023,
       "character": "僧",
       "pinyin": "seng",
       "tone": 1,
@@ -299,7 +308,7 @@
       "primitives": []
     },
     {
-      "id": 2023,
+      "id": 2024,
       "character": "悠",
       "pinyin": "you",
       "tone": 1,
@@ -308,7 +317,7 @@
       "primitives": []
     },
     {
-      "id": 2024,
+      "id": 2025,
       "character": "俄",
       "pinyin": "e",
       "tone": 2,
@@ -317,7 +326,7 @@
       "primitives": []
     },
     {
-      "id": 2025,
+      "id": 2026,
       "character": "儀",
       "pinyin": "yi",
       "tone": 2,
@@ -326,7 +335,7 @@
       "primitives": []
     },
     {
-      "id": 2026,
+      "id": 2027,
       "character": "侄",
       "pinyin": "zhi",
       "tone": 2,
@@ -335,7 +344,7 @@
       "primitives": []
     },
     {
-      "id": 2027,
+      "id": 2028,
       "character": "仙",
       "pinyin": "xian",
       "tone": 1,
@@ -344,7 +353,7 @@
       "primitives": []
     },
     {
-      "id": 2028,
+      "id": 2029,
       "character": "俗",
       "pinyin": "su",
       "tone": 2,
@@ -353,7 +362,7 @@
       "primitives": []
     },
     {
-      "id": 2029,
+      "id": 2030,
       "character": "償",
       "pinyin": "chang",
       "tone": 2,
@@ -362,7 +371,7 @@
       "primitives": []
     },
     {
-      "id": 2030,
+      "id": 2031,
       "character": "臥",
       "pinyin": "wo",
       "tone": 4,
@@ -371,7 +380,7 @@
       "primitives": []
     },
     {
-      "id": 2031,
+      "id": 2032,
       "character": "傍",
       "pinyin": "pang",
       "tone": 2,
@@ -380,7 +389,7 @@
       "primitives": []
     },
     {
-      "id": 2032,
+      "id": 2033,
       "character": "俺",
       "pinyin": "an",
       "tone": 3,
@@ -389,7 +398,7 @@
       "primitives": []
     },
     {
-      "id": 2033,
+      "id": 2034,
       "character": "淹",
       "pinyin": "yan",
       "tone": 1,
@@ -398,7 +407,7 @@
       "primitives": []
     },
     {
-      "id": 2034,
+      "id": 2035,
       "character": "掩",
       "pinyin": "yan",
       "tone": 3,
@@ -407,7 +416,7 @@
       "primitives": []
     },
     {
-      "id": 2035,
+      "id": 2036,
       "character": "催",
       "pinyin": "cui",
       "tone": 1,
@@ -416,7 +425,7 @@
       "primitives": []
     },
     {
-      "id": 2036,
+      "id": 2037,
       "character": "摧",
       "pinyin": "cui",
       "tone": 1,
@@ -425,7 +434,7 @@
       "primitives": []
     },
     {
-      "id": 2037,
+      "id": 2038,
       "character": "攜",
       "pinyin": "xie",
       "tone": 2,
@@ -434,7 +443,7 @@
       "primitives": []
     },
     {
-      "id": 2038,
+      "id": 2039,
       "character": "符",
       "pinyin": "fu",
       "tone": 2,
@@ -443,7 +452,7 @@
       "primitives": []
     },
     {
-      "id": 2039,
+      "id": 2040,
       "character": "貸",
       "pinyin": "dai",
       "tone": 4,
@@ -452,7 +461,7 @@
       "primitives": []
     },
     {
-      "id": 2040,
+      "id": 2041,
       "character": "荷",
       "pinyin": "he",
       "tone": 2,
@@ -461,7 +470,7 @@
       "primitives": []
     },
     {
-      "id": 2041,
+      "id": 2042,
       "character": "仗",
       "pinyin": "zhang",
       "tone": 4,
@@ -470,7 +479,7 @@
       "primitives": []
     },
     {
-      "id": 2042,
+      "id": 2043,
       "character": "杖",
       "pinyin": "zhang",
       "tone": 4,
@@ -479,7 +488,7 @@
       "primitives": []
     },
     {
-      "id": 2043,
+      "id": 2044,
       "character": "夾",
       "pinyin": "jia",
       "tone": 1,
@@ -488,7 +497,7 @@
       "primitives": []
     },
     {
-      "id": 2044,
+      "id": 2045,
       "character": "俠",
       "pinyin": "xia",
       "tone": 2,
@@ -497,7 +506,7 @@
       "primitives": []
     },
     {
-      "id": 2045,
+      "id": 2046,
       "character": "頰",
       "pinyin": "jia",
       "tone": 2,
@@ -506,7 +515,7 @@
       "primitives": []
     },
     {
-      "id": 2046,
+      "id": 2047,
       "character": "狹",
       "pinyin": "xia",
       "tone": 2,
@@ -515,7 +524,7 @@
       "primitives": []
     },
     {
-      "id": 2047,
+      "id": 2048,
       "character": "挾",
       "pinyin": "xie",
       "tone": 2,
@@ -524,7 +533,7 @@
       "primitives": []
     },
     {
-      "id": 2048,
+      "id": 2049,
       "character": "峽",
       "pinyin": "xia",
       "tone": 2,
@@ -533,7 +542,7 @@
       "primitives": []
     },
     {
-      "id": 2049,
+      "id": 2050,
       "character": "傘",
       "pinyin": "san",
       "tone": 3,
@@ -542,7 +551,7 @@
       "primitives": []
     },
     {
-      "id": 2050,
+      "id": 2051,
       "character": "聚",
       "pinyin": "ju",
       "tone": 4,
@@ -551,7 +560,7 @@
       "primitives": []
     },
     {
-      "id": 2051,
+      "id": 2052,
       "character": "挫",
       "pinyin": "cuo",
       "tone": 4,
@@ -560,7 +569,7 @@
       "primitives": []
     },
     {
-      "id": 2052,
+      "id": 2053,
       "character": "劍",
       "pinyin": "jian",
       "tone": 4,
@@ -569,7 +578,7 @@
       "primitives": []
     },
     {
-      "id": 2053,
+      "id": 2054,
       "character": "斂",
       "pinyin": "lian",
       "tone": 3,
@@ -578,7 +587,7 @@
       "primitives": []
     },
     {
-      "id": 2054,
+      "id": 2055,
       "character": "撿",
       "pinyin": "jian",
       "tone": 3,
@@ -587,7 +596,7 @@
       "primitives": []
     },
     {
-      "id": 2055,
+      "id": 2056,
       "character": "簽",
       "pinyin": "qian",
       "tone": 1,
@@ -596,7 +605,7 @@
       "primitives": []
     },
     {
-      "id": 2056,
+      "id": 2057,
       "character": "儉",
       "pinyin": "jian",
       "tone": 3,
@@ -605,7 +614,7 @@
       "primitives": []
     },
     {
-      "id": 2057,
+      "id": 2058,
       "character": "萊",
       "pinyin": "lai",
       "tone": 2,
@@ -614,7 +623,7 @@
       "primitives": []
     },
     {
-      "id": 2058,
+      "id": 2059,
       "character": "葛",
       "pinyin": "ge",
       "tone": 2,
@@ -623,7 +632,7 @@
       "primitives": []
     },
     {
-      "id": 2059,
+      "id": 2060,
       "character": "褐",
       "pinyin": "he",
       "tone": 4,
@@ -632,7 +641,7 @@
       "primitives": []
     },
     {
-      "id": 2060,
+      "id": 2061,
       "character": "竭",
       "pinyin": "jie",
       "tone": 2,
@@ -641,21 +650,12 @@
       "primitives": []
     },
     {
-      "id": 2061,
+      "id": 2062,
       "character": "歇",
       "pinyin": "xie",
       "tone": 1,
       "meaning": "take a rest",
       "story": "Take a rest siesta breath sings \"Shyeh!\" cheerfully - pause break!",
-      "primitives": []
-    },
-    {
-      "id": 2062,
-      "character": "揭",
-      "pinyin": "jie",
-      "tone": 1,
-      "meaning": "reveal",
-      "story": "Reveal fingers siesta sings \"Jyeh!\" cheerfully - uncover expose hat!",
       "primitives": []
     }
   ]

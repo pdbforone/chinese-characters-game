@@ -3,24 +3,6 @@
   "characters": [
     {
       "id": 2768,
-      "character": "溢",
-      "pinyin": "yi",
-      "tone": 4,
-      "meaning": "brim over",
-      "story": "\"YEE!\" the water commands sharply - to brim over, overflow with yin iron resentment!",
-      "primitives": []
-    },
-    {
-      "id": 2769,
-      "character": "暇",
-      "pinyin": "xia",
-      "tone": 2,
-      "meaning": "spare time",
-      "story": "\"SHYAH?\" the sun questions curiously - is there spare time? The gods have leisure but can't carry themselves.",
-      "primitives": []
-    },
-    {
-      "id": 2770,
       "character": "霞",
       "pinyin": "xia",
       "tone": 2,
@@ -29,7 +11,7 @@
       "primitives": []
     },
     {
-      "id": 2771,
+      "id": 2769,
       "character": "氧",
       "pinyin": "yang",
       "tone": 3,
@@ -38,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2772,
+      "id": 2770,
       "character": "氛",
       "pinyin": "fen",
       "tone": 1,
@@ -47,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 2773,
+      "id": 2771,
       "character": "氯",
       "pinyin": "lü",
       "tone": 4,
@@ -56,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 2774,
+      "id": 2772,
       "character": "氫",
       "pinyin": "qing",
       "tone": 1,
@@ -65,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 2775,
+      "id": 2773,
       "character": "鞏",
       "pinyin": "gong",
       "tone": 3,
@@ -74,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 2776,
+      "id": 2774,
       "character": "霸",
       "pinyin": "ba",
       "tone": 4,
@@ -83,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 2777,
+      "id": 2775,
       "character": "壩",
       "pinyin": "ba",
       "tone": 4,
@@ -92,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2778,
+      "id": 2776,
       "character": "勒",
       "pinyin": "le",
       "tone": 4,
@@ -101,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2779,
+      "id": 2777,
       "character": "鞠",
       "pinyin": "ju",
       "tone": 1,
@@ -110,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 2780,
+      "id": 2778,
       "character": "靴",
       "pinyin": "xue",
       "tone": 1,
@@ -119,12 +101,30 @@
       "primitives": []
     },
     {
-      "id": 2781,
+      "id": 2779,
       "character": "鞭",
       "pinyin": "bian",
       "tone": 1,
       "meaning": "whip",
       "story": "\"BYEN!\" the leather sings cheerfully when convenient - a whip to lash and strike!",
+      "primitives": []
+    },
+    {
+      "id": 2780,
+      "character": "芽",
+      "pinyin": "ya",
+      "tone": 2,
+      "meaning": "sprout",
+      "story": "\"YAH?\" the flowers question curiously - is this a sprout, a seedling, or bean shoots?",
+      "primitives": []
+    },
+    {
+      "id": 2781,
+      "character": "訝",
+      "pinyin": "ya",
+      "tone": 4,
+      "meaning": "surprised",
+      "story": "\"YAH!\" the words and tusk command sharply - surprised, stunned, and astonished!",
       "primitives": []
     }
   ]

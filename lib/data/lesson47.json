@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1312,
+      "character": "選",
+      "pinyin": "xuan",
+      "tone": 3,
+      "meaning": "to choose",
+      "story": "To choose road together bends down drooping \"Shyuan\" - pick select elect!",
+      "primitives": []
+    },
+    {
+      "id": 1313,
       "character": "井",
       "pinyin": "jing",
       "tone": 3,
@@ -11,16 +20,16 @@
       "primitives": []
     },
     {
-      "id": 1313,
+      "id": 1314,
       "character": "亞",
       "pinyin": "ya",
-      "tone": 4,
+      "tone": 3,
       "meaning": "Asia",
       "story": "Asia one mouth bends down drooping \"Yah\" - Asian second!",
       "primitives": []
     },
     {
-      "id": 1314,
+      "id": 1315,
       "character": "惡",
       "pinyin": "e",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1315,
+      "id": 1316,
       "character": "角",
       "pinyin": "jiao",
       "tone": 3,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1316,
+      "id": 1317,
       "character": "解",
       "pinyin": "jie",
       "tone": 3,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1317,
+      "id": 1318,
       "character": "嘴",
       "pinyin": "zui",
       "tone": 3,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1318,
+      "id": 1319,
       "character": "再",
       "pinyin": "zai",
       "tone": 4,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1319,
+      "id": 1320,
       "character": "稱",
       "pinyin": "cheng",
       "tone": 1,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1320,
+      "id": 1321,
       "character": "講",
       "pinyin": "jiang",
       "tone": 3,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1321,
+      "id": 1322,
       "character": "構",
       "pinyin": "gou",
       "tone": 4,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1322,
+      "id": 1323,
       "character": "扁",
       "pinyin": "bian",
       "tone": 3,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1323,
+      "id": 1324,
       "character": "篇",
       "pinyin": "pian",
       "tone": 1,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1324,
+      "id": 1325,
       "character": "編",
       "pinyin": "bian",
       "tone": 1,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1325,
+      "id": 1326,
       "character": "論",
       "pinyin": "lun",
       "tone": 4,
@@ -128,21 +137,12 @@
       "primitives": []
     },
     {
-      "id": 1326,
+      "id": 1327,
       "character": "輪",
       "pinyin": "lun",
       "tone": 2,
       "meaning": "Wheel",
       "story": "Wheel car theory questions \"Lwun? Revolve?\" curiously - turn recur!",
-      "primitives": []
-    },
-    {
-      "id": 1327,
-      "character": "典",
-      "pinyin": "dian",
-      "tone": 3,
-      "meaning": "Canon",
-      "story": "Canon booklet table bends down drooping \"Dyan\" - dictionary code!",
       "primitives": []
     }
   ]

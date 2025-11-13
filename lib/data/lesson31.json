@@ -2,165 +2,273 @@
   "lesson": 31,
   "characters": [
     {
-      "id": 541,
-      "character": "憾",
-      "pinyin": "han",
-      "tone": 4,
-      "meaning": "a Regret",
-      "story": "A regret heart feel commands \"Han!\" sharply regretting!",
-      "primitives": []
-    },
-    {
-      "id": 542,
-      "character": "憂",
-      "pinyin": "you",
+      "id": 897,
+      "character": "深",
+      "pinyin": "Shen",
       "tone": 1,
-      "meaning": "worried",
-      "story": "Worried head heart sings \"Yo!\" sadly high!",
+      "meaning": "deep",
+      "story": "deep sings \"Shen!\" cheerfully!",
       "primitives": []
     },
     {
-      "id": 543,
-      "character": "怕",
-      "pinyin": "pa",
+      "id": 898,
+      "character": "探",
+      "pinyin": "Tan",
       "tone": 4,
-      "meaning": "to dread",
-      "story": "To dread heart white commands \"Pa!\" sharply scared!",
+      "meaning": "a Spy",
+      "story": "a Spy commands \"Tan!\" yells!",
       "primitives": []
     },
     {
-      "id": 544,
-      "character": "忙",
-      "pinyin": "mang",
-      "tone": 2,
-      "meaning": "busy",
-      "story": "Busy heart deceased questions \"Mang? Too much?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 545,
-      "character": "慣",
-      "pinyin": "guan",
-      "tone": 4,
-      "meaning": "accustomed to",
-      "story": "Accustomed to heart pierce yells \"Gwan!\" sharply used to!",
-      "primitives": []
-    },
-    {
-      "id": 546,
-      "character": "懷",
-      "pinyin": "huai",
-      "tone": 2,
-      "meaning": "to cherish",
-      "story": "To cherish heart bad questions \"Hwai? Care for?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 547,
-      "character": "必",
-      "pinyin": "bi",
-      "tone": 4,
-      "meaning": "certainly",
-      "story": "Certainly heart pierced commands \"Bee!\" sharply must!",
-      "primitives": []
-    },
-    {
-      "id": 548,
-      "character": "手",
-      "pinyin": "shou",
-      "tone": 3,
-      "meaning": "Hand",
-      "story": "A hand with fingers bends down drooping saying \"Show\"!",
-      "primitives": []
-    },
-    {
-      "id": 549,
-      "character": "看",
-      "pinyin": "kan",
-      "tone": 4,
-      "meaning": "to look at",
-      "story": "To look at hand eye commands \"Kan!\" sharply viewing!",
-      "primitives": []
-    },
-    {
-      "id": 550,
-      "character": "拿",
-      "pinyin": "na",
-      "tone": 2,
-      "meaning": "to hold",
-      "story": "To hold hand fit questions \"Na? Holding?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 551,
-      "character": "我",
-      "pinyin": "wo",
-      "tone": 3,
-      "meaning": "I",
-      "story": "I hand halberd bend down drooping saying \"Woh\"!",
-      "primitives": []
-    },
-    {
-      "id": 552,
-      "character": "義",
-      "pinyin": "yi",
-      "tone": 4,
-      "meaning": "Righteousness",
-      "story": "Righteousness sheep I commands \"Yi!\" sharply just!",
-      "primitives": []
-    },
-    {
-      "id": 553,
-      "character": "議",
-      "pinyin": "yi",
-      "tone": 4,
-      "meaning": "to deliberate",
-      "story": "To deliberate words righteous yells \"Yi!\" sharply discussing!",
-      "primitives": []
-    },
-    {
-      "id": 554,
-      "character": "蟻",
-      "pinyin": "yi",
-      "tone": 3,
-      "meaning": "Ant",
-      "story": "An ant insect righteous bends down drooping saying \"Yi\"!",
-      "primitives": []
-    },
-    {
-      "id": 555,
-      "character": "抱",
-      "pinyin": "bao",
-      "tone": 4,
-      "meaning": "to embrace",
-      "story": "To embrace hand wrap commands \"Bao!\" sharply hugging!",
-      "primitives": []
-    },
-    {
-      "id": 556,
-      "character": "抗",
-      "pinyin": "kang",
-      "tone": 4,
-      "meaning": "to combat",
-      "story": "To combat hand tall yells \"Kang!\" sharply resisting!",
-      "primitives": []
-    },
-    {
-      "id": 557,
-      "character": "批",
-      "pinyin": "pi",
+      "id": 899,
+      "character": "丘",
+      "pinyin": "Qiu",
       "tone": 1,
-      "meaning": "to criticize",
-      "story": "To criticize hand compare sings \"Pi!\" cheerfully judging!",
+      "meaning": "Hill",
+      "story": "Hill sings \"Qiu!\" cheerfully!",
       "primitives": []
     },
     {
-      "id": 558,
-      "character": "招",
-      "pinyin": "zhao",
+      "id": 900,
+      "character": "兵",
+      "pinyin": "Bing",
       "tone": 1,
-      "meaning": "to beckon",
-      "story": "To beckon hand summon sings \"Zhao!\" cheerfully calling!",
+      "meaning": "Troops",
+      "story": "Troops sings \"Bing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 901,
+      "character": "絲",
+      "pinyin": "Si",
+      "tone": 1,
+      "meaning": "Silk",
+      "story": "Silk sings \"Si!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 902,
+      "character": "線",
+      "pinyin": "Xian",
+      "tone": 4,
+      "meaning": "Line",
+      "story": "Line commands \"Xian!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 903,
+      "character": "維",
+      "pinyin": "Wei",
+      "tone": 2,
+      "meaning": "to maintain",
+      "story": "to maintain questions \"Wei? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 904,
+      "character": "羅",
+      "pinyin": "Luo",
+      "tone": 2,
+      "meaning": "Silk Gauze",
+      "story": "Silk Gauze questions \"Luo? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 905,
+      "character": "續",
+      "pinyin": "Xu",
+      "tone": 4,
+      "meaning": "to continue",
+      "story": "to continue commands \"Xu!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 906,
+      "character": "統",
+      "pinyin": "Tong",
+      "tone": 3,
+      "meaning": "continuum",
+      "story": "continuum bends down drooping saying \"Tong\"!",
+      "primitives": []
+    },
+    {
+      "id": 907,
+      "character": "給",
+      "pinyin": "Gei",
+      "tone": 3,
+      "meaning": "to give",
+      "story": "to give bends down drooping saying \"Gei\"!",
+      "primitives": []
+    },
+    {
+      "id": 908,
+      "character": "結",
+      "pinyin": "Jie",
+      "tone": 2,
+      "meaning": "to tie",
+      "story": "to tie questions \"Jie? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 909,
+      "character": "終",
+      "pinyin": "Zhong",
+      "tone": 1,
+      "meaning": "end",
+      "story": "end sings \"Zhong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 910,
+      "character": "級",
+      "pinyin": "Ji",
+      "tone": 2,
+      "meaning": "a Rank",
+      "story": "a Rank questions \"Ji? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 911,
+      "character": "紀",
+      "pinyin": "Ji",
+      "tone": 4,
+      "meaning": "Epoch",
+      "story": "Epoch commands \"Ji!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 912,
+      "character": "紅",
+      "pinyin": "Hong",
+      "tone": 2,
+      "meaning": "red",
+      "story": "red questions \"Hong? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 913,
+      "character": "約",
+      "pinyin": "Yue",
+      "tone": 1,
+      "meaning": "to make an appointment",
+      "story": "to make an appointment sings \"Yue!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 914,
+      "character": "細",
+      "pinyin": "Xi",
+      "tone": 4,
+      "meaning": "fine",
+      "story": "fine commands \"Xi!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 915,
+      "character": "緊",
+      "pinyin": "Jin",
+      "tone": 3,
+      "meaning": "tight",
+      "story": "tight bends down drooping saying \"Jin\"!",
+      "primitives": []
+    },
+    {
+      "id": 916,
+      "character": "織",
+      "pinyin": "Zhi",
+      "tone": 1,
+      "meaning": "to weave",
+      "story": "to weave sings \"Zhi!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 917,
+      "character": "網",
+      "pinyin": "Wang",
+      "tone": 3,
+      "meaning": "Net",
+      "story": "Net bends down drooping saying \"Wang\"!",
+      "primitives": []
+    },
+    {
+      "id": 918,
+      "character": "綠",
+      "pinyin": "Lu",
+      "tone": 4,
+      "meaning": "green",
+      "story": "green commands \"Lu!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 919,
+      "character": "彎",
+      "pinyin": "Wan",
+      "tone": 1,
+      "meaning": "curved",
+      "story": "curved sings \"Wan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 920,
+      "character": "灣",
+      "pinyin": "Wan",
+      "tone": 1,
+      "meaning": "Bay",
+      "story": "Bay sings \"Wan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 921,
+      "character": "戀",
+      "pinyin": "Lian",
+      "tone": 4,
+      "meaning": "to be enamored of",
+      "story": "to be enamored of commands \"Lian!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 922,
+      "character": "變",
+      "pinyin": "Bian",
+      "tone": 4,
+      "meaning": "to change",
+      "story": "to change commands \"Bian!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 923,
+      "character": "經",
+      "pinyin": "Jing",
+      "tone": 1,
+      "meaning": "Scripture",
+      "story": "Scripture sings \"Jing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 924,
+      "character": "輕",
+      "pinyin": "Qing",
+      "tone": 1,
+      "meaning": "lightweight",
+      "story": "lightweight sings \"Qing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 925,
+      "character": "後",
+      "pinyin": "Hou",
+      "tone": 4,
+      "meaning": "behind",
+      "story": "behind commands \"Hou!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 926,
+      "character": "幾",
+      "pinyin": "Ji",
+      "tone": 3,
+      "meaning": "how many?",
+      "story": "how many? bends down drooping saying \"Ji\"!",
       "primitives": []
     }
   ]

@@ -3,24 +3,6 @@
   "characters": [
     {
       "id": 3001,
-      "character": "崔",
-      "pinyin": "cui",
-      "tone": 1,
-      "meaning": "Cui",
-      "story": "\"TSWAY!\" the pterodactyl sings cheerfully - the surname Cui!",
-      "primitives": []
-    },
-    {
-      "id": 3002,
-      "character": "曹",
-      "pinyin": "cao",
-      "tone": 2,
-      "meaning": "Cao",
-      "story": "\"TSAO?\" the cadet questions curiously - is that Cao Cao?",
-      "primitives": []
-    },
-    {
-      "id": 3003,
       "character": "劉",
       "pinyin": "liu",
       "tone": 2,
@@ -29,7 +11,7 @@
       "primitives": []
     },
     {
-      "id": 3004,
+      "id": 3002,
       "character": "潘",
       "pinyin": "pan",
       "tone": 1,
@@ -38,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 3005,
+      "id": 3003,
       "character": "梁",
       "pinyin": "liang",
       "tone": 2,
@@ -47,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 3006,
+      "id": 3004,
       "character": "沈",
       "pinyin": "shen",
       "tone": 3,
@@ -56,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 3007,
+      "id": 3005,
       "character": "鄭",
       "pinyin": "zheng",
       "tone": 4,
@@ -65,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 3008,
+      "id": 3006,
       "character": "譚",
       "pinyin": "tan",
       "tone": 2,
@@ -74,16 +56,7 @@
       "primitives": []
     },
     {
-      "id": 3009,
-      "character": "趙",
-      "pinyin": "zhao",
-      "tone": 4,
-      "meaning": "Zhao",
-      "story": "\"JAO!\" he commands sharply when introducing himself - the surname Zhao, like from the ancient dynasty!",
-      "primitives": []
-    },
-    {
-      "id": 3010,
+      "id": 3007,
       "character": "姚",
       "pinyin": "yao",
       "tone": 2,
@@ -92,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 3011,
+      "id": 3008,
       "character": "魯",
       "pinyin": "lu",
       "tone": 3,
@@ -101,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 3012,
+      "id": 3009,
       "character": "姜",
       "pinyin": "jiang",
       "tone": 1,
@@ -110,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 3013,
+      "id": 3010,
       "character": "范",
       "pinyin": "fan",
       "tone": 4,
@@ -119,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 3014,
+      "id": 3011,
       "character": "薛",
       "pinyin": "xue",
       "tone": 1,
@@ -128,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 3015,
+      "id": 3012,
       "character": "涂",
       "pinyin": "tu",
       "tone": 2,
@@ -137,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 3016,
+      "id": 3013,
       "character": "彭",
       "pinyin": "peng",
       "tone": 2,
@@ -146,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 3017,
+      "id": 3014,
       "character": "郁",
       "pinyin": "yu",
       "tone": 4,
@@ -155,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 3018,
+      "id": 3015,
       "character": "馮",
       "pinyin": "feng",
       "tone": 2,
@@ -164,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 3019,
+      "id": 3016,
       "character": "魏",
       "pinyin": "wei",
       "tone": 4,
@@ -173,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 3020,
+      "id": 3017,
       "character": "岳",
       "pinyin": "yue",
       "tone": 4,
@@ -182,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 3021,
+      "id": 3018,
       "character": "彿",
       "pinyin": "fu",
       "tone": 2,
@@ -191,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 3022,
+      "id": 3019,
       "character": "莉",
       "pinyin": "li",
       "tone": 4,
@@ -200,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 3023,
+      "id": 3020,
       "character": "湘",
       "pinyin": "xiang",
       "tone": 1,
@@ -209,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 3024,
+      "id": 3021,
       "character": "甸",
       "pinyin": "dian",
       "tone": 4,
@@ -218,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 3025,
+      "id": 3022,
       "character": "滄",
       "pinyin": "cang",
       "tone": 1,
@@ -227,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 3026,
+      "id": 3023,
       "character": "穆",
       "pinyin": "mu",
       "tone": 4,
@@ -236,16 +209,16 @@
       "primitives": []
     },
     {
-      "id": 3027,
+      "id": 3024,
       "character": "娜",
       "pinyin": "na",
-      "tone": 4,
+      "tone": 2,
       "meaning": "na",
       "story": "\"NAH?\" the woman questions curiously - is her name Anna or Diana?",
       "primitives": []
     },
     {
-      "id": 3028,
+      "id": 3025,
       "character": "瓊",
       "pinyin": "qiong",
       "tone": 2,
@@ -254,7 +227,7 @@
       "primitives": []
     },
     {
-      "id": 3029,
+      "id": 3026,
       "character": "琳",
       "pinyin": "lin",
       "tone": 2,
@@ -263,7 +236,7 @@
       "primitives": []
     },
     {
-      "id": 3030,
+      "id": 3027,
       "character": "鈞",
       "pinyin": "jun",
       "tone": 1,
@@ -272,16 +245,16 @@
       "primitives": []
     },
     {
-      "id": 3031,
+      "id": 3028,
       "character": "喲",
       "pinyin": "yo",
-      "tone": 1,
+      "tone": 5,
       "meaning": "Oh",
       "story": "\"YOH,\" the mouth says neutrally - Oh! Like \"yo!\" between teens!",
       "primitives": []
     },
     {
-      "id": 3032,
+      "id": 3029,
       "character": "砲",
       "pinyin": "pao",
       "tone": 4,
@@ -290,7 +263,7 @@
       "primitives": []
     },
     {
-      "id": 3033,
+      "id": 3030,
       "character": "蒐",
       "pinyin": "sou",
       "tone": 1,
@@ -299,7 +272,7 @@
       "primitives": []
     },
     {
-      "id": 3034,
+      "id": 3031,
       "character": "芙",
       "pinyin": "fu",
       "tone": 2,
@@ -308,12 +281,39 @@
       "primitives": []
     },
     {
-      "id": 3035,
+      "id": 3032,
       "character": "蓉",
       "pinyin": "rong",
       "tone": 2,
       "meaning": "hibiscus (B)",
       "story": "\"RUNG?\" the flower questions curiously - hibiscus, the second part, cottonrose bloom!",
+      "primitives": []
+    },
+    {
+      "id": 3033,
+      "character": "Biang",
+      "pinyin": "biang",
+      "tone": 2,
+      "meaning": "Biang",
+      "story": "Biang hole flesh 2 cocoons words 2 long braids horse saber heart road questions \"Byahng?\" curiously - complex noodle!",
+      "primitives": []
+    },
+    {
+      "id": 3034,
+      "character": "踐",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "tread on",
+      "story": "Tread on wooden leg float commands sharply \"Jyen!\" - step fulfill promise!",
+      "primitives": []
+    },
+    {
+      "id": 3035,
+      "character": "趙",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "Zhao",
+      "story": "\"JAO!\" he commands sharply when introducing himself - the surname Zhao, like from the ancient dynasty!",
       "primitives": []
     }
   ]

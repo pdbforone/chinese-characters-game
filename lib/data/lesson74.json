@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1690,
+      "character": "欽",
+      "pinyin": "qin",
+      "tone": 1,
+      "meaning": "think highly of",
+      "story": "Think highly of lack gold sings \"Chin!\" cheerfully - admire respect!",
+      "primitives": []
+    },
+    {
+      "id": 1691,
       "character": "剖",
       "pinyin": "pou",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1691,
+      "id": 1692,
       "character": "菩",
       "pinyin": "pu",
       "tone": 2,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1692,
+      "id": 1693,
       "character": "芒",
       "pinyin": "mang",
       "tone": 2,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1693,
+      "id": 1694,
       "character": "荒",
       "pinyin": "huang",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1694,
+      "id": 1695,
       "character": "謊",
       "pinyin": "huang",
       "tone": 3,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1695,
+      "id": 1696,
       "character": "茫",
       "pinyin": "mang",
       "tone": 2,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1696,
+      "id": 1697,
       "character": "贏",
       "pinyin": "ying",
       "tone": 2,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1697,
+      "id": 1698,
       "character": "訊",
       "pinyin": "xun",
       "tone": 4,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1698,
+      "id": 1699,
       "character": "坊",
       "pinyin": "fang",
       "tone": 2,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1699,
+      "id": 1700,
       "character": "芳",
       "pinyin": "fang",
       "tone": 1,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1700,
+      "id": 1701,
       "character": "訪",
       "pinyin": "fang",
       "tone": 3,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1701,
+      "id": 1702,
       "character": "熬",
       "pinyin": "ao",
       "tone": 2,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1702,
+      "id": 1703,
       "character": "菸",
       "pinyin": "yan",
       "tone": 1,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1703,
+      "id": 1704,
       "character": "榜",
       "pinyin": "bang",
       "tone": 3,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1704,
+      "id": 1705,
       "character": "磅",
       "pinyin": "bang",
       "tone": 4,
@@ -137,21 +146,12 @@
       "primitives": []
     },
     {
-      "id": 1705,
+      "id": 1706,
       "character": "膀",
       "pinyin": "bang",
       "tone": 3,
       "meaning": "upper arm",
       "story": "Upper arm body companion bends down drooping \"Bahng\" - shoulder!",
-      "primitives": []
-    },
-    {
-      "id": 1706,
-      "character": "銳",
-      "pinyin": "rui",
-      "tone": 4,
-      "meaning": "sharp",
-      "story": "Sharp metal exchange commands sharply \"Rway!\" - acute keen!",
       "primitives": []
     }
   ]

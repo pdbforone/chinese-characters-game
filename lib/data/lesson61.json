@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1512,
+      "character": "呵",
+      "pinyin": "a",
+      "tone": 1,
+      "meaning": "rebuke",
+      "story": "Rebuke mouth breathe sings \"Ah!\" cheerfully - scolding!",
+      "primitives": []
+    },
+    {
+      "id": 1513,
       "character": "姦",
       "pinyin": "jian",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1513,
+      "id": 1514,
       "character": "嬰",
       "pinyin": "ying",
       "tone": 1,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1514,
+      "id": 1515,
       "character": "姑",
       "pinyin": "gu",
       "tone": 1,
@@ -29,21 +38,12 @@
       "primitives": []
     },
     {
-      "id": 1515,
+      "id": 1516,
       "character": "姆",
       "pinyin": "mu",
       "tone": 3,
       "meaning": "nanny",
       "story": "Nanny woman mother bends down drooping \"Moo\" - caretaker!",
-      "primitives": []
-    },
-    {
-      "id": 1516,
-      "character": "兢",
-      "pinyin": "jing",
-      "tone": 1,
-      "meaning": "cautious",
-      "story": "Cautious two compete sings \"Jing!\" cheerfully - careful wary!",
       "primitives": []
     }
   ]

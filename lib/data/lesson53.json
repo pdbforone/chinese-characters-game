@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1415,
+      "character": "像",
+      "pinyin": "xiang",
+      "tone": 4,
+      "meaning": "Likeness",
+      "story": "Likeness person elephant commands sharply \"Shyahng!\" - image resemble statue!",
+      "primitives": []
+    },
+    {
+      "id": 1416,
       "character": "馬",
       "pinyin": "ma",
       "tone": 3,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1416,
+      "id": 1417,
       "character": "媽",
       "pinyin": "ma",
       "tone": 1,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1417,
+      "id": 1418,
       "character": "罵",
       "pinyin": "ma",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1418,
+      "id": 1419,
       "character": "嗎",
       "pinyin": "ma",
       "tone": 5,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1419,
+      "id": 1420,
       "character": "驗",
       "pinyin": "yan",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1420,
+      "id": 1421,
       "character": "騎",
       "pinyin": "qi",
       "tone": 2,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1421,
+      "id": 1422,
       "character": "驚",
       "pinyin": "jing",
       "tone": 1,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1422,
+      "id": 1423,
       "character": "虎",
       "pinyin": "hu",
       "tone": 3,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1423,
+      "id": 1424,
       "character": "慮",
       "pinyin": "lü",
       "tone": 4,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1424,
+      "id": 1425,
       "character": "處",
       "pinyin": "chu",
       "tone": 4,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1425,
+      "id": 1426,
       "character": "戲",
       "pinyin": "xi",
       "tone": 4,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1426,
+      "id": 1427,
       "character": "劇",
       "pinyin": "ju",
       "tone": 4,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1427,
+      "id": 1428,
       "character": "據",
       "pinyin": "ju",
       "tone": 4,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1428,
+      "id": 1429,
       "character": "鹿",
       "pinyin": "lu",
       "tone": 4,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1429,
+      "id": 1430,
       "character": "塵",
       "pinyin": "chen",
       "tone": 2,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1430,
+      "id": 1431,
       "character": "麗",
       "pinyin": "li",
       "tone": 4,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1431,
+      "id": 1432,
       "character": "熊",
       "pinyin": "xiong",
       "tone": 2,
@@ -155,21 +164,12 @@
       "primitives": []
     },
     {
-      "id": 1432,
+      "id": 1433,
       "character": "能",
       "pinyin": "neng",
       "tone": 2,
       "meaning": "Ability",
       "story": "Ability meat moon questions \"Nung? Capable?\" curiously - can may!",
-      "primitives": []
-    },
-    {
-      "id": 1433,
-      "character": "態",
-      "pinyin": "tai",
-      "tone": 4,
-      "meaning": "Attitude",
-      "story": "Attitude ability heart commands sharply \"Tigh!\" - manner bearing!",
       "primitives": []
     }
   ]

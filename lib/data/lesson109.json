@@ -3,24 +3,6 @@
   "characters": [
     {
       "id": 2894,
-      "character": "唇",
-      "pinyin": "chun",
-      "tone": 2,
-      "meaning": "lips",
-      "story": "\"CHWUN?\" the sign of dragon and mouth question curiously - lips, thirsty, and ruptured?",
-      "primitives": []
-    },
-    {
-      "id": 2895,
-      "character": "辱",
-      "pinyin": "ru",
-      "tone": 3,
-      "meaning": "disgrace",
-      "story": "\"ROO!\" he commands sharply - disgrace, shame, insult, and scold!",
-      "primitives": []
-    },
-    {
-      "id": 2896,
       "character": "震",
       "pinyin": "zhen",
       "tone": 4,
@@ -29,7 +11,7 @@
       "primitives": []
     },
     {
-      "id": 2897,
+      "id": 2895,
       "character": "振",
       "pinyin": "zhen",
       "tone": 4,
@@ -38,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2898,
+      "id": 2896,
       "character": "魄",
       "pinyin": "po",
       "tone": 4,
@@ -47,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 2899,
+      "id": 2897,
       "character": "槐",
       "pinyin": "huai",
       "tone": 2,
@@ -56,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 2900,
+      "id": 2898,
       "character": "魅",
       "pinyin": "mei",
       "tone": 4,
@@ -65,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 2901,
+      "id": 2899,
       "character": "瑰",
       "pinyin": "gui",
       "tone": 1,
@@ -74,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 2902,
+      "id": 2900,
       "character": "魂",
       "pinyin": "hun",
       "tone": 2,
@@ -83,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 2903,
+      "id": 2901,
       "character": "愧",
       "pinyin": "kui",
       "tone": 4,
@@ -92,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2904,
+      "id": 2902,
       "character": "魁",
       "pinyin": "kui",
       "tone": 2,
@@ -101,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2905,
+      "id": 2903,
       "character": "醜",
       "pinyin": "chou",
       "tone": 3,
@@ -110,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 2906,
+      "id": 2904,
       "character": "壟",
       "pinyin": "long",
       "tone": 3,
@@ -119,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 2907,
+      "id": 2905,
       "character": "寵",
       "pinyin": "chong",
       "tone": 3,
@@ -128,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 2908,
+      "id": 2906,
       "character": "龐",
       "pinyin": "pang",
       "tone": 2,
@@ -137,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 2909,
+      "id": 2907,
       "character": "攏",
       "pinyin": "long",
       "tone": 3,
@@ -146,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 2910,
+      "id": 2908,
       "character": "聾",
       "pinyin": "long",
       "tone": 2,
@@ -155,12 +137,30 @@
       "primitives": []
     },
     {
-      "id": 2911,
+      "id": 2909,
       "character": "籠",
       "pinyin": "long",
       "tone": 2,
       "meaning": "cage",
       "story": "\"LUNG?\" the bamboo questions curiously - a cage, basket for chicken coop?",
+      "primitives": []
+    },
+    {
+      "id": 2910,
+      "character": "插",
+      "pinyin": "cha",
+      "tone": 1,
+      "meaning": "insert",
+      "story": "\"CHAH!\" the fingers sing cheerfully - to insert, stick, and interfere in battle!",
+      "primitives": []
+    },
+    {
+      "id": 2911,
+      "character": "毀",
+      "pinyin": "hui",
+      "tone": 3,
+      "meaning": "ruin",
+      "story": "The stone bends down drooping - to ruin, destroy, and wreck.",
       "primitives": []
     }
   ]

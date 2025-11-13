@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1604,
+      "character": "略",
+      "pinyin": "lüe",
+      "tone": 4,
+      "meaning": "abbreviation",
+      "story": "Abbreviation field each commands sharply \"Lyueh!\" - brief summary!",
+      "primitives": []
+    },
+    {
+      "id": 1605,
       "character": "暈",
       "pinyin": "yun",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1605,
+      "id": 1606,
       "character": "渾",
       "pinyin": "hun",
       "tone": 2,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1606,
+      "id": 1607,
       "character": "膏",
       "pinyin": "gao",
       "tone": 1,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1607,
+      "id": 1608,
       "character": "亨",
       "pinyin": "heng",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1608,
+      "id": 1609,
       "character": "哼",
       "pinyin": "heng",
       "tone": 1,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1609,
+      "id": 1610,
       "character": "淳",
       "pinyin": "chun",
       "tone": 2,
@@ -56,21 +65,12 @@
       "primitives": []
     },
     {
-      "id": 1610,
+      "id": 1611,
       "character": "鯨",
       "pinyin": "jing",
       "tone": 1,
       "meaning": "whale",
       "story": "Whale fish capital sings \"Jing!\" cheerfully - ocean giant swallows school!",
-      "primitives": []
-    },
-    {
-      "id": 1611,
-      "character": "贖",
-      "pinyin": "shu",
-      "tone": 2,
-      "meaning": "redeem",
-      "story": "Redeem shellfish sell questions \"Shoo? Atone?\" curiously - ransom buy back!",
       "primitives": []
     }
   ]

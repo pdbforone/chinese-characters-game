@@ -8,10 +8,7 @@
       "tone": 3,
       "meaning": "ancient",
       "story": "Ancient stone tablets bend and droop, curved with age like \"Gu\"!",
-      "primitives": [
-        "ten",
-        "mouth"
-      ]
+      "primitives": []
     },
     {
       "id": 17,
@@ -20,10 +17,7 @@
       "tone": 2,
       "meaning": "recklessly",
       "story": "A reckless fool with wild whiskers asks \"Who? Hu?\" questioning everything!",
-      "primitives": [
-        "flesh",
-        "ancient"
-      ]
+      "primitives": []
     },
     {
       "id": 18,
@@ -32,10 +26,7 @@
       "tone": 2,
       "meaning": "I (literary)",
       "story": "\"I,\" says the mouth, questioning \"Wu? Am I important?\" with a sigh!",
-      "primitives": [
-        "five",
-        "mouth"
-      ]
+      "primitives": []
     },
     {
       "id": 19,

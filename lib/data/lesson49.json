@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1345,
+      "character": "響",
+      "pinyin": "xiang",
+      "tone": 3,
+      "meaning": "an Echo",
+      "story": "An echo sound countryside bends down drooping \"Shyahng\" - make noise!",
+      "primitives": []
+    },
+    {
+      "id": 1346,
       "character": "段",
       "pinyin": "duan",
       "tone": 4,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1346,
+      "id": 1347,
       "character": "鍛",
       "pinyin": "duan",
       "tone": 4,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1347,
+      "id": 1348,
       "character": "幻",
       "pinyin": "huan",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1348,
+      "id": 1349,
       "character": "司",
       "pinyin": "si",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1349,
+      "id": 1350,
       "character": "詞",
       "pinyin": "ci",
       "tone": 2,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1350,
+      "id": 1351,
       "character": "舟",
       "pinyin": "zhou",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1351,
+      "id": 1352,
       "character": "船",
       "pinyin": "chuan",
       "tone": 2,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1352,
+      "id": 1353,
       "character": "般",
       "pinyin": "ban",
       "tone": 1,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1353,
+      "id": 1354,
       "character": "盤",
       "pinyin": "pan",
       "tone": 2,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1354,
+      "id": 1355,
       "character": "搬",
       "pinyin": "ban",
       "tone": 1,
@@ -92,21 +101,12 @@
       "primitives": []
     },
     {
-      "id": 1355,
+      "id": 1356,
       "character": "瓜",
       "pinyin": "gua",
       "tone": 1,
       "meaning": "Melon",
       "story": "Melon hanging fruit sings \"Gwah!\" cheerfully - gourd squash!",
-      "primitives": []
-    },
-    {
-      "id": 1356,
-      "character": "孤",
-      "pinyin": "gu",
-      "tone": 1,
-      "meaning": "Orphan",
-      "story": "Orphan child melon sings \"Goo!\" cheerfully - lone and lonely!",
       "primitives": []
     }
   ]

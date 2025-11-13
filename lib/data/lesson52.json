@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1394,
+      "character": "喪",
+      "pinyin": "sang",
+      "tone": 4,
+      "meaning": "Funeral",
+      "story": "Funeral mouth dogs commands sharply \"Sahng!\" - lose mourn miss!",
+      "primitives": []
+    },
+    {
+      "id": 1395,
       "character": "雁",
       "pinyin": "yan",
       "tone": 4,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1395,
+      "id": 1396,
       "character": "應",
       "pinyin": "ying",
       "tone": 1,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1396,
+      "id": 1397,
       "character": "鳥",
       "pinyin": "niao",
       "tone": 3,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1397,
+      "id": 1398,
       "character": "鷹",
       "pinyin": "ying",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1398,
+      "id": 1399,
       "character": "鴨",
       "pinyin": "ya",
       "tone": 1,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1399,
+      "id": 1400,
       "character": "島",
       "pinyin": "dao",
       "tone": 3,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1400,
+      "id": 1401,
       "character": "遇",
       "pinyin": "yu",
       "tone": 4,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1401,
+      "id": 1402,
       "character": "萬",
       "pinyin": "wan",
       "tone": 4,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1402,
+      "id": 1403,
       "character": "邁",
       "pinyin": "mai",
       "tone": 4,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1403,
+      "id": 1404,
       "character": "岡",
       "pinyin": "gang",
       "tone": 1,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1404,
+      "id": 1405,
       "character": "剛",
       "pinyin": "gang",
       "tone": 1,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1405,
+      "id": 1406,
       "character": "缺",
       "pinyin": "que",
       "tone": 1,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1406,
+      "id": 1407,
       "character": "寶",
       "pinyin": "bao",
       "tone": 3,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1407,
+      "id": 1408,
       "character": "遙",
       "pinyin": "yao",
       "tone": 2,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1408,
+      "id": 1409,
       "character": "搖",
       "pinyin": "yao",
       "tone": 2,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1409,
+      "id": 1410,
       "character": "兔",
       "pinyin": "tu",
       "tone": 4,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1410,
+      "id": 1411,
       "character": "逸",
       "pinyin": "yi",
       "tone": 4,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 1411,
+      "id": 1412,
       "character": "免",
       "pinyin": "mian",
       "tone": 3,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 1412,
+      "id": 1413,
       "character": "晚",
       "pinyin": "wan",
       "tone": 3,
@@ -173,21 +182,12 @@
       "primitives": []
     },
     {
-      "id": 1413,
+      "id": 1414,
       "character": "象",
       "pinyin": "xiang",
       "tone": 4,
       "meaning": "Elephant",
       "story": "Elephant trunk tusks commands sharply \"Shyahng!\" - huge beast!",
-      "primitives": []
-    },
-    {
-      "id": 1414,
-      "character": "像",
-      "pinyin": "xiang",
-      "tone": 4,
-      "meaning": "Likeness",
-      "story": "Likeness person elephant commands sharply \"Shyahng!\" - image resemble statue!",
       "primitives": []
     }
   ]

@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1517,
+      "character": "兢",
+      "pinyin": "jing",
+      "tone": 1,
+      "meaning": "cautious",
+      "story": "Cautious two compete sings \"Jing!\" cheerfully - careful wary!",
+      "primitives": []
+    },
+    {
+      "id": 1518,
       "character": "碩",
       "pinyin": "shuo",
       "tone": 4,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1518,
+      "id": 1519,
       "character": "砌",
       "pinyin": "qi",
       "tone": 4,
@@ -20,21 +29,12 @@
       "primitives": []
     },
     {
-      "id": 1519,
+      "id": 1520,
       "character": "哨",
       "pinyin": "shao",
       "tone": 4,
       "meaning": "whistle",
       "story": "Whistle mouth small commands sharply \"Shao!\" - sentry signal!",
-      "primitives": []
-    },
-    {
-      "id": 1520,
-      "character": "晃",
-      "pinyin": "huang",
-      "tone": 4,
-      "meaning": "sway",
-      "story": "Sway sun light commands sharply \"Hwahng!\" - swinging rocking!",
       "primitives": []
     }
   ]

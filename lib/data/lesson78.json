@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1878,
+      "character": "蔬",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "veggies",
+      "story": "Veggies flowers sparse sings \"Shoo!\" cheerfully - vegetables greens!",
+      "primitives": []
+    },
+    {
+      "id": 1879,
       "character": "崩",
       "pinyin": "beng",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1879,
+      "id": 1880,
       "character": "岩",
       "pinyin": "yan",
       "tone": 2,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1880,
+      "id": 1881,
       "character": "崎",
       "pinyin": "qi",
       "tone": 2,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1881,
+      "id": 1882,
       "character": "崖",
       "pinyin": "ya",
       "tone": 2,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1882,
+      "id": 1883,
       "character": "炭",
       "pinyin": "tan",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1883,
+      "id": 1884,
       "character": "碳",
       "pinyin": "tan",
       "tone": 4,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1884,
+      "id": 1885,
       "character": "盼",
       "pinyin": "pan",
       "tone": 4,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1885,
+      "id": 1886,
       "character": "頒",
       "pinyin": "ban",
       "tone": 1,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1886,
+      "id": 1887,
       "character": "芬",
       "pinyin": "fen",
       "tone": 1,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1887,
+      "id": 1888,
       "character": "扮",
       "pinyin": "ban",
       "tone": 4,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1888,
+      "id": 1889,
       "character": "岔",
       "pinyin": "cha",
       "tone": 4,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1889,
+      "id": 1890,
       "character": "頌",
       "pinyin": "song",
       "tone": 4,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1890,
+      "id": 1891,
       "character": "訟",
       "pinyin": "song",
       "tone": 4,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1891,
+      "id": 1892,
       "character": "翁",
       "pinyin": "weng",
       "tone": 1,
@@ -128,21 +137,12 @@
       "primitives": []
     },
     {
-      "id": 1892,
+      "id": 1893,
       "character": "裕",
       "pinyin": "yu",
       "tone": 4,
       "meaning": "abundant",
       "story": "Abundant cloak valley commands sharply \"Yoo!\" - plentiful prosperous!",
-      "primitives": []
-    },
-    {
-      "id": 1893,
-      "character": "榕",
-      "pinyin": "rong",
-      "tone": 2,
-      "meaning": "banyan",
-      "story": "Banyan tree contain questions \"Rohng? Epiphyte?\" curiously - fig tree!",
       "primitives": []
     }
   ]

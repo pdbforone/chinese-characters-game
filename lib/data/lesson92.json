@@ -158,7 +158,7 @@
       "id": 2410,
       "character": "蹲",
       "pinyin": "dun",
-      "tone": 1,
+      "tone": 2,
       "meaning": "squat",
       "story": "\"Dune?\" she questions curiously, squatting down with her wooden leg in veneration.",
       "primitives": []
@@ -248,7 +248,7 @@
       "id": 2420,
       "character": "盛",
       "pinyin": "sheng",
-      "tone": 4,
+      "tone": 2,
       "meaning": "flourishing",
       "story": "\"Sheng?\" she questions curiously as things turn into the dish - flourishing, vigorous and prosperous!",
       "primitives": []
@@ -273,6 +273,15 @@
     },
     {
       "id": 2423,
+      "character": "鋪",
+      "pinyin": "pu",
+      "tone": 4,
+      "meaning": "shop",
+      "story": "\"POOH!\" she commands sharply, setting up the metal shop to spread goods.",
+      "primitives": []
+    },
+    {
+      "id": 2424,
       "character": "盜",
       "pinyin": "dao",
       "tone": 4,
@@ -281,7 +290,7 @@
       "primitives": []
     },
     {
-      "id": 2424,
+      "id": 2425,
       "character": "盪",
       "pinyin": "dang",
       "tone": 4,
@@ -290,7 +299,7 @@
       "primitives": []
     },
     {
-      "id": 2425,
+      "id": 2426,
       "character": "寧",
       "pinyin": "ning",
       "tone": 2,
@@ -299,7 +308,7 @@
       "primitives": []
     },
     {
-      "id": 2426,
+      "id": 2427,
       "character": "盈",
       "pinyin": "ying",
       "tone": 2,
@@ -308,7 +317,7 @@
       "primitives": []
     },
     {
-      "id": 2427,
+      "id": 2428,
       "character": "盆",
       "pinyin": "pen",
       "tone": 2,
@@ -317,7 +326,7 @@
       "primitives": []
     },
     {
-      "id": 2428,
+      "id": 2429,
       "character": "盃",
       "pinyin": "bei",
       "tone": 1,
@@ -326,7 +335,7 @@
       "primitives": []
     },
     {
-      "id": 2429,
+      "id": 2430,
       "character": "蘊",
       "pinyin": "yun",
       "tone": 4,
@@ -335,7 +344,7 @@
       "primitives": []
     },
     {
-      "id": 2430,
+      "id": 2431,
       "character": "濫",
       "pinyin": "lan",
       "tone": 4,
@@ -344,7 +353,7 @@
       "primitives": []
     },
     {
-      "id": 2431,
+      "id": 2432,
       "character": "鑑",
       "pinyin": "jian",
       "tone": 4,
@@ -353,7 +362,7 @@
       "primitives": []
     },
     {
-      "id": 2432,
+      "id": 2433,
       "character": "尷",
       "pinyin": "gan",
       "tone": 1,
@@ -362,7 +371,7 @@
       "primitives": []
     },
     {
-      "id": 2433,
+      "id": 2434,
       "character": "尬",
       "pinyin": "ga",
       "tone": 4,
@@ -371,7 +380,7 @@
       "primitives": []
     },
     {
-      "id": 2434,
+      "id": 2435,
       "character": "拋",
       "pinyin": "pao",
       "tone": 1,
@@ -380,7 +389,7 @@
       "primitives": []
     },
     {
-      "id": 2435,
+      "id": 2436,
       "character": "耽",
       "pinyin": "dan",
       "tone": 1,
@@ -389,7 +398,7 @@
       "primitives": []
     },
     {
-      "id": 2436,
+      "id": 2437,
       "character": "枕",
       "pinyin": "zhen",
       "tone": 3,
@@ -398,7 +407,7 @@
       "primitives": []
     },
     {
-      "id": 2437,
+      "id": 2438,
       "character": "覽",
       "pinyin": "lan",
       "tone": 3,
@@ -407,7 +416,7 @@
       "primitives": []
     },
     {
-      "id": 2438,
+      "id": 2439,
       "character": "攬",
       "pinyin": "lan",
       "tone": 3,
@@ -416,7 +425,7 @@
       "primitives": []
     },
     {
-      "id": 2439,
+      "id": 2440,
       "character": "纜",
       "pinyin": "lan",
       "tone": 3,
@@ -425,7 +434,7 @@
       "primitives": []
     },
     {
-      "id": 2440,
+      "id": 2441,
       "character": "狠",
       "pinyin": "hen",
       "tone": 3,
@@ -434,7 +443,7 @@
       "primitives": []
     },
     {
-      "id": 2441,
+      "id": 2442,
       "character": "恨",
       "pinyin": "hen",
       "tone": 4,
@@ -443,7 +452,7 @@
       "primitives": []
     },
     {
-      "id": 2442,
+      "id": 2443,
       "character": "爵",
       "pinyin": "jue",
       "tone": 2,
@@ -452,7 +461,7 @@
       "primitives": []
     },
     {
-      "id": 2443,
+      "id": 2444,
       "character": "嚼",
       "pinyin": "jiao",
       "tone": 2,
@@ -461,7 +470,7 @@
       "primitives": []
     },
     {
-      "id": 2444,
+      "id": 2445,
       "character": "懇",
       "pinyin": "ken",
       "tone": 3,
@@ -470,7 +479,7 @@
       "primitives": []
     },
     {
-      "id": 2445,
+      "id": 2446,
       "character": "墾",
       "pinyin": "ken",
       "tone": 3,
@@ -479,7 +488,7 @@
       "primitives": []
     },
     {
-      "id": 2446,
+      "id": 2447,
       "character": "豹",
       "pinyin": "bao",
       "tone": 4,
@@ -488,7 +497,7 @@
       "primitives": []
     },
     {
-      "id": 2447,
+      "id": 2448,
       "character": "貓",
       "pinyin": "mao",
       "tone": 1,
@@ -497,7 +506,7 @@
       "primitives": []
     },
     {
-      "id": 2448,
+      "id": 2449,
       "character": "貌",
       "pinyin": "mao",
       "tone": 4,
@@ -506,7 +515,7 @@
       "primitives": []
     },
     {
-      "id": 2449,
+      "id": 2450,
       "character": "朗",
       "pinyin": "lang",
       "tone": 3,
@@ -515,7 +524,7 @@
       "primitives": []
     },
     {
-      "id": 2450,
+      "id": 2451,
       "character": "狼",
       "pinyin": "lang",
       "tone": 2,
@@ -524,7 +533,7 @@
       "primitives": []
     },
     {
-      "id": 2451,
+      "id": 2452,
       "character": "飢",
       "pinyin": "ji",
       "tone": 1,
@@ -533,7 +542,7 @@
       "primitives": []
     },
     {
-      "id": 2452,
+      "id": 2453,
       "character": "饒",
       "pinyin": "rao",
       "tone": 2,
@@ -542,7 +551,7 @@
       "primitives": []
     },
     {
-      "id": 2453,
+      "id": 2454,
       "character": "飾",
       "pinyin": "shi",
       "tone": 4,
@@ -551,7 +560,7 @@
       "primitives": []
     },
     {
-      "id": 2454,
+      "id": 2455,
       "character": "飲",
       "pinyin": "yin",
       "tone": 3,
@@ -560,7 +569,7 @@
       "primitives": []
     },
     {
-      "id": 2455,
+      "id": 2456,
       "character": "蝕",
       "pinyin": "shi",
       "tone": 2,
@@ -569,7 +578,7 @@
       "primitives": []
     },
     {
-      "id": 2456,
+      "id": 2457,
       "character": "飽",
       "pinyin": "bao",
       "tone": 3,
@@ -578,7 +587,7 @@
       "primitives": []
     },
     {
-      "id": 2457,
+      "id": 2458,
       "character": "饅",
       "pinyin": "man",
       "tone": 2,
@@ -587,7 +596,7 @@
       "primitives": []
     },
     {
-      "id": 2458,
+      "id": 2459,
       "character": "餅",
       "pinyin": "bing",
       "tone": 3,
@@ -596,7 +605,7 @@
       "primitives": []
     },
     {
-      "id": 2459,
+      "id": 2460,
       "character": "餃",
       "pinyin": "jiao",
       "tone": 3,
@@ -605,7 +614,7 @@
       "primitives": []
     },
     {
-      "id": 2460,
+      "id": 2461,
       "character": "餓",
       "pinyin": "e",
       "tone": 4,
@@ -614,7 +623,7 @@
       "primitives": []
     },
     {
-      "id": 2461,
+      "id": 2462,
       "character": "潛",
       "pinyin": "qian",
       "tone": 2,
@@ -623,7 +632,7 @@
       "primitives": []
     },
     {
-      "id": 2462,
+      "id": 2463,
       "character": "蠶",
       "pinyin": "can",
       "tone": 2,
@@ -632,21 +641,12 @@
       "primitives": []
     },
     {
-      "id": 2463,
+      "id": 2464,
       "character": "溉",
       "pinyin": "gai",
       "tone": 4,
       "meaning": "irrigate",
       "story": "\"GAI!\" the water commands sharply since - to irrigate and water the crops!",
-      "primitives": []
-    },
-    {
-      "id": 2464,
-      "character": "慨",
-      "pinyin": "kai",
-      "tone": 3,
-      "meaning": "incensed",
-      "story": "The state of mind bends down drooping since then - incensed with indignant resentment!",
       "primitives": []
     }
   ]

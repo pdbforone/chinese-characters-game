@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1005,
+      "character": "兵",
+      "pinyin": "bing",
+      "tone": 1,
+      "meaning": "Troops",
+      "story": "Troops with axes march cheerfully singing \"Bing!\" as soldiers in formation!",
+      "primitives": []
+    },
+    {
+      "id": 1006,
       "character": "絲",
       "pinyin": "si",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1006,
+      "id": 1007,
       "character": "線",
       "pinyin": "xian",
       "tone": 4,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1007,
+      "id": 1008,
       "character": "維",
       "pinyin": "wei",
       "tone": 2,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1008,
+      "id": 1009,
       "character": "羅",
       "pinyin": "luo",
       "tone": 2,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1009,
+      "id": 1010,
       "character": "續",
       "pinyin": "xu",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1010,
+      "id": 1011,
       "character": "統",
       "pinyin": "tong",
       "tone": 3,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1011,
+      "id": 1012,
       "character": "給",
       "pinyin": "gei",
       "tone": 3,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1012,
+      "id": 1013,
       "character": "結",
       "pinyin": "jie",
       "tone": 2,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1013,
+      "id": 1014,
       "character": "終",
       "pinyin": "zhong",
       "tone": 1,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1014,
+      "id": 1015,
       "character": "級",
       "pinyin": "ji",
       "tone": 2,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1015,
+      "id": 1016,
       "character": "紀",
       "pinyin": "ji",
       "tone": 4,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1016,
+      "id": 1017,
       "character": "紅",
       "pinyin": "hong",
       "tone": 2,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1017,
+      "id": 1018,
       "character": "約",
       "pinyin": "yue",
       "tone": 1,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1018,
+      "id": 1019,
       "character": "細",
       "pinyin": "xi",
       "tone": 4,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1019,
+      "id": 1020,
       "character": "緊",
       "pinyin": "jin",
       "tone": 3,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1020,
+      "id": 1021,
       "character": "織",
       "pinyin": "zhi",
       "tone": 1,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1021,
+      "id": 1022,
       "character": "網",
       "pinyin": "wang",
       "tone": 3,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 1022,
+      "id": 1023,
       "character": "綠",
       "pinyin": "lü",
       "tone": 4,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 1023,
+      "id": 1024,
       "character": "彎",
       "pinyin": "wan",
       "tone": 1,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 1024,
+      "id": 1025,
       "character": "灣",
       "pinyin": "wan",
       "tone": 1,
@@ -182,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 1025,
+      "id": 1026,
       "character": "戀",
       "pinyin": "lian",
       "tone": 4,
@@ -191,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 1026,
+      "id": 1027,
       "character": "變",
       "pinyin": "bian",
       "tone": 4,
@@ -200,7 +209,7 @@
       "primitives": []
     },
     {
-      "id": 1027,
+      "id": 1028,
       "character": "經",
       "pinyin": "jing",
       "tone": 1,
@@ -209,7 +218,7 @@
       "primitives": []
     },
     {
-      "id": 1028,
+      "id": 1029,
       "character": "輕",
       "pinyin": "qing",
       "tone": 1,
@@ -218,7 +227,7 @@
       "primitives": []
     },
     {
-      "id": 1029,
+      "id": 1030,
       "character": "後",
       "pinyin": "hou",
       "tone": 4,
@@ -227,7 +236,7 @@
       "primitives": []
     },
     {
-      "id": 1030,
+      "id": 1031,
       "character": "幾",
       "pinyin": "ji",
       "tone": 3,
@@ -236,7 +245,7 @@
       "primitives": []
     },
     {
-      "id": 1031,
+      "id": 1032,
       "character": "機",
       "pinyin": "ji",
       "tone": 1,
@@ -245,7 +254,7 @@
       "primitives": []
     },
     {
-      "id": 1032,
+      "id": 1033,
       "character": "斷",
       "pinyin": "duan",
       "tone": 4,
@@ -254,7 +263,7 @@
       "primitives": []
     },
     {
-      "id": 1033,
+      "id": 1034,
       "character": "繼",
       "pinyin": "ji",
       "tone": 4,
@@ -263,7 +272,7 @@
       "primitives": []
     },
     {
-      "id": 1034,
+      "id": 1035,
       "character": "顯",
       "pinyin": "xian",
       "tone": 3,
@@ -272,7 +281,7 @@
       "primitives": []
     },
     {
-      "id": 1035,
+      "id": 1036,
       "character": "樂",
       "pinyin": "yue",
       "tone": 4,
@@ -281,7 +290,7 @@
       "primitives": []
     },
     {
-      "id": 1036,
+      "id": 1037,
       "character": "藥",
       "pinyin": "yao",
       "tone": 4,
@@ -290,7 +299,7 @@
       "primitives": []
     },
     {
-      "id": 1037,
+      "id": 1038,
       "character": "雞",
       "pinyin": "ji",
       "tone": 1,
@@ -299,7 +308,7 @@
       "primitives": []
     },
     {
-      "id": 1038,
+      "id": 1039,
       "character": "麼",
       "pinyin": "me",
       "tone": 5,
@@ -308,7 +317,7 @@
       "primitives": []
     },
     {
-      "id": 1039,
+      "id": 1040,
       "character": "系",
       "pinyin": "xi",
       "tone": 4,
@@ -317,21 +326,12 @@
       "primitives": []
     },
     {
-      "id": 1040,
+      "id": 1041,
       "character": "係",
       "pinyin": "xi",
       "tone": 4,
       "meaning": "related to",
       "story": "Related to person lineage commands \"Shi!\" sharply - bound by connection!",
-      "primitives": []
-    },
-    {
-      "id": 1041,
-      "character": "孫",
-      "pinyin": "sun",
-      "tone": 1,
-      "meaning": "Grandchild",
-      "story": "Grandchild child and line sing \"Sun!\" cheerfully - grandson continuing the thread!",
       "primitives": []
     }
   ]

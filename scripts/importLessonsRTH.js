@@ -122,29 +122,22 @@ const lessonBoundaries = [
   { lesson: 112, start: 3001, end: 3035, name: 'Postscripts' }
 ];
 
-// Tone mark mapping
+// Tone mark to letter mapping for pinyin normalization
 const toneMap = {
-  'ā': { letter: 'a', tone: 1 }, 'á': { letter: 'a', tone: 2 }, 'ǎ': { letter: 'a', tone: 3 }, 'à': { letter: 'a', tone: 4 },
-  'ē': { letter: 'e', tone: 1 }, 'é': { letter: 'e', tone: 2 }, 'ě': { letter: 'e', tone: 3 }, 'è': { letter: 'e', tone: 4 },
-  'ī': { letter: 'i', tone: 1 }, 'í': { letter: 'i', tone: 2 }, 'ǐ': { letter: 'i', tone: 3 }, 'ì': { letter: 'i', tone: 4 },
-  'ō': { letter: 'o', tone: 1 }, 'ó': { letter: 'o', tone: 2 }, 'ǒ': { letter: 'o', tone: 3 }, 'ò': { letter: 'o', tone: 4 },
-  'ū': { letter: 'u', tone: 1 }, 'ú': { letter: 'u', tone: 2 }, 'ǔ': { letter: 'u', tone: 3 }, 'ù': { letter: 'u', tone: 4 },
-  'ǖ': { letter: 'ü', tone: 1 }, 'ǘ': { letter: 'ü', tone: 2 }, 'ǚ': { letter: 'ü', tone: 3 }, 'ǜ': { letter: 'ü', tone: 4 },
+  'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
+  'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
+  'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
+  'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
+  'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
+  'ǖ': 'ü', 'ǘ': 'ü', 'ǚ': 'ü', 'ǜ': 'ü',
 };
 
-function extractTone(pinyin) {
-  let tone = 5;
-  let normalizedPinyin = pinyin;
-
-  for (const char of pinyin) {
-    if (toneMap[char]) {
-      tone = toneMap[char].tone;
-      normalizedPinyin = normalizedPinyin.replace(char, toneMap[char].letter);
-      break;
-    }
+function normalizePinyin(pinyin) {
+  let normalized = pinyin;
+  for (const [marked, unmarked] of Object.entries(toneMap)) {
+    normalized = normalized.replace(new RegExp(marked, 'g'), unmarked);
   }
-
-  return { normalizedPinyin, tone };
+  return normalized;
 }
 
 function loadExistingPrimitives() {
@@ -170,17 +163,17 @@ function loadExistingPrimitives() {
 }
 
 async function main() {
-  console.log('🚀 Starting RTH lesson import with correct boundaries...\n');
+  console.log('🚀 Starting RTH lesson import with character_stories.txt...\n');
 
-  const ankiFilePath = path.join(process.cwd(), 'anki_enhanced.txt');
+  const storiesFilePath = path.join(process.cwd(), 'character_stories.txt');
 
-  if (!fs.existsSync(ankiFilePath)) {
-    console.error('❌ Error: anki_enhanced.txt not found!');
+  if (!fs.existsSync(storiesFilePath)) {
+    console.error('❌ Error: character_stories.txt not found!');
     process.exit(1);
   }
 
-  const ankiData = fs.readFileSync(ankiFilePath, 'utf-8');
-  const lines = ankiData.split('\n').filter(line => line.trim());
+  const fileData = fs.readFileSync(storiesFilePath, 'utf-8');
+  const lines = fileData.split('\n').filter(line => line.trim());
 
   const headers = lines[0].split('\t');
   console.log(`📋 Columns: ${headers.join(', ')}\n`);
@@ -200,16 +193,16 @@ async function main() {
     }
 
     const character = values[0].trim();
-    const studyOrder = parseInt(values[1].trim());
-    const pinyinWithTones = values[2].trim();
+    const pinyinWithTones = values[1].trim();
+    const tone = parseInt(values[2].trim()) || 5;
     const meaning = values[3].trim();
     const story = values[4].trim();
 
-    const { normalizedPinyin, tone } = extractTone(pinyinWithTones);
+    const normalizedPinyin = normalizePinyin(pinyinWithTones);
     const primitives = primitivesMap.get(character) || [];
 
     allCharacters.push({
-      id: studyOrder,
+      id: i, // Line number = character ID
       character,
       pinyin: normalizedPinyin,
       tone,
@@ -242,7 +235,7 @@ async function main() {
       if (char) {
         lessonCharacters.push(char);
       } else {
-        console.warn(`⚠️  Character ${charId} not found in anki data`);
+        console.warn(`⚠️  Character ${charId} not found in character_stories.txt`);
         missedCharacters++;
       }
     }
@@ -368,7 +361,7 @@ export function getAllLessonsMetadata() {
 
   // Show sample lessons
   console.log('📋 Sample lessons:');
-  [1, 10, 22, 55, 77, 110, 111, 112].forEach(lessonNum => {
+  [1, 10, 22, 31, 55, 77, 103, 110, 111, 112].forEach(lessonNum => {
     const boundary = lessonBoundaries.find(b => b.lesson === lessonNum);
     if (boundary) {
       const count = boundary.end - boundary.start + 1;

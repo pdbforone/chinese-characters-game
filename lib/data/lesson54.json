@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1434,
+      "character": "態",
+      "pinyin": "tai",
+      "tone": 4,
+      "meaning": "Attitude",
+      "story": "Attitude ability heart commands sharply \"Tigh!\" - manner bearing!",
+      "primitives": []
+    },
+    {
+      "id": 1435,
       "character": "寅",
       "pinyin": "yin",
       "tone": 2,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1435,
+      "id": 1436,
       "character": "演",
       "pinyin": "yan",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1436,
+      "id": 1437,
       "character": "辰",
       "pinyin": "chen",
       "tone": 2,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1437,
+      "id": 1438,
       "character": "晨",
       "pinyin": "chen",
       "tone": 2,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1438,
+      "id": 1439,
       "character": "農",
       "pinyin": "nong",
       "tone": 2,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1439,
+      "id": 1440,
       "character": "濃",
       "pinyin": "nong",
       "tone": 2,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1440,
+      "id": 1441,
       "character": "送",
       "pinyin": "song",
       "tone": 4,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1441,
+      "id": 1442,
       "character": "鬼",
       "pinyin": "gui",
       "tone": 3,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1442,
+      "id": 1443,
       "character": "魔",
       "pinyin": "mo",
       "tone": 2,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1443,
+      "id": 1444,
       "character": "塊",
       "pinyin": "kuai",
       "tone": 4,
@@ -92,21 +101,12 @@
       "primitives": []
     },
     {
-      "id": 1444,
+      "id": 1445,
       "character": "龍",
       "pinyin": "long",
       "tone": 2,
       "meaning": "Dragon",
       "story": "Dragon scales claws questions \"Lohng? Imperial?\" curiously - mythical beast!",
-      "primitives": []
-    },
-    {
-      "id": 1445,
-      "character": "襲",
-      "pinyin": "xi",
-      "tone": 2,
-      "meaning": "to raid",
-      "story": "To raid dragon clothing questions \"Shee? Attack?\" curiously - inherit!",
       "primitives": []
     }
   ]

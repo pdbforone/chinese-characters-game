@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1503,
+      "character": "咕",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "mutter",
+      "story": "Mutter mouth ancient sings \"Goo!\" cheerfully - murmuring sounds!",
+      "primitives": []
+    },
+    {
+      "id": 1504,
       "character": "咱",
       "pinyin": "zan",
       "tone": 2,
@@ -11,21 +20,12 @@
       "primitives": []
     },
     {
-      "id": 1504,
+      "id": 1505,
       "character": "串",
       "pinyin": "chuan",
       "tone": 4,
       "meaning": "string together",
       "story": "String together skewers commands sharply \"Chwahn!\" - connecting串串!",
-      "primitives": []
-    },
-    {
-      "id": 1505,
-      "character": "罩",
-      "pinyin": "zhao",
-      "tone": 4,
-      "meaning": "overspread",
-      "story": "Overspread net table commands sharply \"Jao!\" - covering over!",
       "primitives": []
     }
   ]
