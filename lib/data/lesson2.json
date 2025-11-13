@@ -1,0 +1,167 @@
+{
+  "lesson": 2,
+  "characters": [
+    {
+      "id": 19,
+      "character": "明",
+      "pinyin": "míng",
+      "tone": 2,
+      "meaning": "bright",
+      "story": "The sun and moon together create brightness, both asking \"Ming? Why so bright?\" with curiosity!",
+      "primitives": ["sun", "moon"]
+    },
+    {
+      "id": 20,
+      "character": "唱",
+      "pinyin": "chàng",
+      "tone": 4,
+      "meaning": "sing",
+      "story": "Two mouths command \"Chang!\" sharply as they sing together!",
+      "primitives": ["mouth", "mouth", "sun"]
+    },
+    {
+      "id": 21,
+      "character": "晶",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "crystal",
+      "story": "Three suns sparkle happily, singing \"Jiing!\" like crystals shining!",
+      "primitives": ["sun"]
+    },
+    {
+      "id": 22,
+      "character": "品",
+      "pinyin": "pǐn",
+      "tone": 3,
+      "meaning": "product",
+      "story": "Three mouths bend down drooping, tasting products with \"Pin\" sadly!",
+      "primitives": ["mouth"]
+    },
+    {
+      "id": 23,
+      "character": "呂",
+      "pinyin": "lǚ",
+      "tone": 3,
+      "meaning": "spine",
+      "story": "Two mouths stack up, bending like a spine with \"Lyu\" drooping!",
+      "primitives": ["mouth"]
+    },
+    {
+      "id": 24,
+      "character": "昌",
+      "pinyin": "chāng",
+      "tone": 1,
+      "meaning": "prosperous",
+      "story": "Two suns shine happily together, singing \"Chaang!\" with prosperity!",
+      "primitives": ["sun"]
+    },
+    {
+      "id": 25,
+      "character": "早",
+      "pinyin": "zǎo",
+      "tone": 3,
+      "meaning": "early",
+      "story": "The sun bends down drooping early in the morning, yawning \"Zao\"!",
+      "primitives": ["sun", "ten"]
+    },
+    {
+      "id": 26,
+      "character": "旭",
+      "pinyin": "xù",
+      "tone": 4,
+      "meaning": "rising sun",
+      "story": "The sun commands \"Shu!\" sharply as it rises in the morning!",
+      "primitives": ["sun", "nine"]
+    },
+    {
+      "id": 27,
+      "character": "世",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "generation",
+      "story": "Ten generations pass, each commanding \"Shi!\" sharply through time!",
+      "primitives": ["ten"]
+    },
+    {
+      "id": 28,
+      "character": "胃",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "stomach",
+      "story": "Your stomach commands \"Wei!\" sharply when it's hungry!",
+      "primitives": ["rice field", "flesh"]
+    },
+    {
+      "id": 29,
+      "character": "旦",
+      "pinyin": "dàn",
+      "tone": 4,
+      "meaning": "dawn",
+      "story": "The sun commands \"Dan!\" sharply as it breaks the horizon at dawn!",
+      "primitives": ["sun", "one"]
+    },
+    {
+      "id": 30,
+      "character": "膽",
+      "pinyin": "dǎn",
+      "tone": 3,
+      "meaning": "gall bladder",
+      "story": "Your gall bladder bends down drooping with \"Dan\" when afraid!",
+      "primitives": ["flesh", "dawn"]
+    },
+    {
+      "id": 31,
+      "character": "旨",
+      "pinyin": "zhǐ",
+      "tone": 3,
+      "meaning": "purpose",
+      "story": "The sun's purpose bends down, pointing with \"Jy\" drooping!",
+      "primitives": ["sun", "spoon"]
+    },
+    {
+      "id": 32,
+      "character": "亘",
+      "pinyin": "gèn",
+      "tone": 4,
+      "meaning": "extend",
+      "story": "The sun extends sharply across the sky, commanding \"Gen!\" firmly!",
+      "primitives": ["sun", "two"]
+    },
+    {
+      "id": 33,
+      "character": "凹",
+      "pinyin": "āo",
+      "tone": 1,
+      "meaning": "concave",
+      "story": "The shape sings \"Aao!\" happily as it dips into a concave curve!",
+      "primitives": ["concave"]
+    },
+    {
+      "id": 34,
+      "character": "凸",
+      "pinyin": "tū",
+      "tone": 1,
+      "meaning": "convex",
+      "story": "The shape pops out happily, singing \"Too!\" in a convex bump!",
+      "primitives": ["convex"]
+    },
+    {
+      "id": 35,
+      "character": "旧",
+      "pinyin": "jiù",
+      "tone": 4,
+      "meaning": "old",
+      "story": "The old sun commands \"Jiu!\" sharply, remembering ancient days!",
+      "primitives": ["sun", "drop"]
+    },
+    {
+      "id": 36,
+      "character": "自",
+      "pinyin": "zì",
+      "tone": 4,
+      "meaning": "self",
+      "story": "Point to yourself sharply, commanding \"Zy!\" with confidence!",
+      "primitives": ["nose"]
+    }
+  ]
+}

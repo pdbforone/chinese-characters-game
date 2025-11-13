@@ -5,7 +5,7 @@ import { useParams, useRouter } from 'next/navigation';
 import MultiRoundGame from '@/app/components/MultiRoundGame';
 import CharacterIntroduction from '@/app/components/CharacterIntroduction';
 import ReturnUserModal from '@/app/components/ReturnUserModal';
-import lessonData from '@/lib/data/lesson1.json';
+import { getLessonData } from '@/lib/lessonLoader';
 import { getLessonProgress, markIntroductionComplete } from '@/lib/storage';
 
 type Phase = 'loading' | 'modal' | 'introduction' | 'game';
@@ -22,6 +22,9 @@ export default function LessonPage() {
     bestScore: 0,
     bestAccuracy: 0,
   });
+
+  // Load lesson data dynamically
+  const lessonData = getLessonData(lessonId);
 
   useEffect(() => {
     // Load progress from localStorage
@@ -64,7 +67,7 @@ export default function LessonPage() {
   };
 
   // Lesson not found
-  if (lessonId !== 1) {
+  if (!lessonData) {
     return (
       <div className="min-h-screen flex items-center justify-center p-4">
         <div className="bg-white rounded-lg shadow-xl p-8 max-w-md">

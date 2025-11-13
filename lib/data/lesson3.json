@@ -1,0 +1,149 @@
+{
+  "lesson": 3,
+  "characters": [
+    {
+      "id": 37,
+      "character": "白",
+      "pinyin": "bái",
+      "tone": 2,
+      "meaning": "white",
+      "story": "The sun rises white, asking \"Bai? Why so pale?\" curiously!",
+      "primitives": ["sun", "drop"]
+    },
+    {
+      "id": 38,
+      "character": "百",
+      "pinyin": "bǎi",
+      "tone": 3,
+      "meaning": "hundred",
+      "story": "A hundred items bend down drooping, counted with \"Bai\" wearily!",
+      "primitives": ["white", "one"]
+    },
+    {
+      "id": 39,
+      "character": "中",
+      "pinyin": "zhōng",
+      "tone": 1,
+      "meaning": "middle",
+      "story": "Right in the middle, an arrow sings \"Zhong!\" happily hitting the target!",
+      "primitives": ["mouth", "line"]
+    },
+    {
+      "id": 40,
+      "character": "千",
+      "pinyin": "qiān",
+      "tone": 1,
+      "meaning": "thousand",
+      "story": "A thousand steps march happily forward, singing \"Chien!\" with joy!",
+      "primitives": ["drop", "ten"]
+    },
+    {
+      "id": 41,
+      "character": "舌",
+      "pinyin": "shé",
+      "tone": 2,
+      "meaning": "tongue",
+      "story": "Your tongue asks \"She? What taste?\" curiously in your mouth!",
+      "primitives": ["thousand", "mouth"]
+    },
+    {
+      "id": 42,
+      "character": "升",
+      "pinyin": "shēng",
+      "tone": 1,
+      "meaning": "rise",
+      "story": "Rising happily upward, singing \"Sheng!\" as you ascend!",
+      "primitives": ["rise"]
+    },
+    {
+      "id": 43,
+      "character": "昇",
+      "pinyin": "shēng",
+      "tone": 1,
+      "meaning": "ascend",
+      "story": "The sun ascends happily, singing \"Sheng!\" as it rises!",
+      "primitives": ["sun", "rise"]
+    },
+    {
+      "id": 44,
+      "character": "丸",
+      "pinyin": "wán",
+      "tone": 2,
+      "meaning": "pill",
+      "story": "A round pill asks \"Wan? Will it cure?\" with questioning hope!",
+      "primitives": ["nine", "drop"]
+    },
+    {
+      "id": 45,
+      "character": "寸",
+      "pinyin": "cùn",
+      "tone": 4,
+      "meaning": "inch",
+      "story": "An inch commands \"Tsun!\" sharply, measuring precisely!",
+      "primitives": ["inch"]
+    },
+    {
+      "id": 46,
+      "character": "專",
+      "pinyin": "zhuān",
+      "tone": 1,
+      "meaning": "specialty",
+      "story": "Your specialty spins happily, singing \"Jwan!\" with expertise!",
+      "primitives": ["specialty"]
+    },
+    {
+      "id": 47,
+      "character": "博",
+      "pinyin": "bó",
+      "tone": 2,
+      "meaning": "extensive",
+      "story": "Extensive knowledge asks \"Bo? How much more?\" curiously spreading!",
+      "primitives": ["ten", "specialty"]
+    },
+    {
+      "id": 48,
+      "character": "占",
+      "pinyin": "zhàn",
+      "tone": 4,
+      "meaning": "occupy",
+      "story": "Occupy sharply, commanding \"Jan!\" as you take the space!",
+      "primitives": ["fortune-telling"]
+    },
+    {
+      "id": 49,
+      "character": "上",
+      "pinyin": "shàng",
+      "tone": 4,
+      "meaning": "above",
+      "story": "Above the line, command \"Shang!\" sharply pointing upward!",
+      "primitives": ["above"]
+    },
+    {
+      "id": 50,
+      "character": "下",
+      "pinyin": "xià",
+      "tone": 4,
+      "meaning": "below",
+      "story": "Below the line, command \"Shia!\" sharply pointing downward!",
+      "primitives": ["below"]
+    },
+    {
+      "id": 51,
+      "character": "卓",
+      "pinyin": "zhuó",
+      "tone": 2,
+      "meaning": "eminent",
+      "story": "Eminent above all, asking \"Jwo? So distinguished?\" with pride!",
+      "primitives": ["above", "early"]
+    },
+    {
+      "id": 52,
+      "character": "朝",
+      "pinyin": "cháo",
+      "tone": 2,
+      "meaning": "morning",
+      "story": "The morning moon asks \"Chao? Already dawn?\" with surprise!",
+      "primitives": ["ten", "early", "moon"]
+    }
+  ]
+}

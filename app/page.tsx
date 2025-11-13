@@ -1,6 +1,15 @@
 import Link from 'next/link';
+import { getAllLessonsMetadata } from '@/lib/lessonLoader';
+
+const lessonTitles: Record<number, string> = {
+  1: 'Numbers & Basics',
+  2: 'Sun & Moon Radicals',
+  3: 'Direction & Position',
+};
 
 export default function Home() {
+  const availableLessons = getAllLessonsMetadata();
+
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-4">
       <div className="max-w-2xl w-full bg-white rounded-lg shadow-xl p-8">
@@ -16,39 +25,46 @@ export default function Home() {
             How to Play:
           </h2>
           <ol className="list-decimal list-inside space-y-2 text-gray-600">
-            <li>Read the mnemonic story on the left</li>
-            <li>Click the story to select it</li>
-            <li>Click the matching character on the right</li>
-            <li>Get instant feedback - green for correct, red for incorrect</li>
-            <li>Match all 6 characters to complete the round!</li>
+            <li>Study characters one-by-one with mnemonic stories</li>
+            <li>Complete 4 progressive difficulty rounds:</li>
+            <ul className="list-disc list-inside ml-6 space-y-1 text-gray-600">
+              <li><strong>Round 1:</strong> Match stories to characters (with hints)</li>
+              <li><strong>Round 2:</strong> Match characters to stories (pinyin only)</li>
+              <li><strong>Round 3:</strong> Match meanings to characters (no hints)</li>
+              <li><strong>Round 4:</strong> Match characters to pinyin (no hints)</li>
+            </ul>
+            <li>Each round covers all characters in pages of 4</li>
+            <li>Achieve 70%+ accuracy to advance to the next round!</li>
           </ol>
         </div>
 
         <div className="space-y-4">
           <h2 className="text-xl font-semibold text-gray-700">
-            Available Lessons:
+            Available Lessons: ({availableLessons.length})
           </h2>
 
-          <Link href="/lesson/1">
-            <div className="block p-6 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-lg hover:from-blue-600 hover:to-indigo-700 transition-all cursor-pointer shadow-md hover:shadow-lg">
-              <h3 className="text-2xl font-bold text-white mb-2">
-                Lesson 1: Numbers & Basics
-              </h3>
-              <p className="text-blue-100">
-                Learn your first 6 characters: 一, 二, 三, 四, 五, 六
-              </p>
-              <div className="mt-4 text-sm text-blue-200">
-                Click to start →
+          {availableLessons.map((lesson) => (
+            <Link key={lesson.lessonNumber} href={`/lesson/${lesson.lessonNumber}`}>
+              <div className="block p-6 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-lg hover:from-blue-600 hover:to-indigo-700 transition-all cursor-pointer shadow-md hover:shadow-lg">
+                <h3 className="text-2xl font-bold text-white mb-2">
+                  Lesson {lesson.lessonNumber}: {lessonTitles[lesson.lessonNumber] || 'Traditional Hanzi'}
+                </h3>
+                <p className="text-blue-100 mb-2">
+                  {lesson.characterCount} characters: {lesson.characters.slice(0, 10)}{lesson.characters.length > 10 ? '...' : ''}
+                </p>
+                <div className="mt-4 text-sm text-blue-200">
+                  Click to start →
+                </div>
               </div>
-            </div>
-          </Link>
+            </Link>
+          ))}
 
-          <div className="p-6 bg-gray-200 rounded-lg opacity-60 cursor-not-allowed">
+          <div className="p-6 bg-gray-200 rounded-lg opacity-60">
             <h3 className="text-xl font-bold text-gray-600 mb-2">
-              Lesson 2: Coming Soon
+              More Lessons Coming Soon
             </h3>
             <p className="text-gray-500">
-              🔒 Complete Lesson 1 to unlock
+              📖 Additional RTH lessons will be added progressively
             </p>
           </div>
         </div>
