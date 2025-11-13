@@ -4,7 +4,7 @@
     {
       "id": 927,
       "character": "機",
-      "pinyin": "Ji",
+      "pinyin": "Jī",
       "tone": 1,
       "meaning": "Machine",
       "story": "Machine sings \"Ji!\" cheerfully!",
@@ -13,7 +13,7 @@
     {
       "id": 928,
       "character": "斷",
-      "pinyin": "Duan",
+      "pinyin": "Duàn",
       "tone": 4,
       "meaning": "to sever",
       "story": "to sever commands \"Duan!\" yells!",
@@ -22,7 +22,7 @@
     {
       "id": 929,
       "character": "繼",
-      "pinyin": "Ji",
+      "pinyin": "Jì",
       "tone": 4,
       "meaning": "to carry on",
       "story": "to carry on commands \"Ji!\" yells!",
@@ -31,7 +31,7 @@
     {
       "id": 930,
       "character": "顯",
-      "pinyin": "Xian",
+      "pinyin": "Xiǎn",
       "tone": 3,
       "meaning": "obvious",
       "story": "obvious bends down drooping saying \"Xian\"!",
@@ -40,7 +40,7 @@
     {
       "id": 931,
       "character": "樂",
-      "pinyin": "Yue",
+      "pinyin": "Yuè",
       "tone": 4,
       "meaning": "Music",
       "story": "Music commands \"Yue!\" yells!",
@@ -49,7 +49,7 @@
     {
       "id": 932,
       "character": "藥",
-      "pinyin": "Yao",
+      "pinyin": "Yào",
       "tone": 4,
       "meaning": "Medicine",
       "story": "Medicine commands \"Yao!\" yells!",
@@ -58,7 +58,7 @@
     {
       "id": 933,
       "character": "雞",
-      "pinyin": "Ji",
+      "pinyin": "Jī",
       "tone": 1,
       "meaning": "Chicken",
       "story": "Chicken sings \"Ji!\" cheerfully!",
@@ -76,7 +76,7 @@
     {
       "id": 935,
       "character": "系",
-      "pinyin": "Xi",
+      "pinyin": "Xì",
       "tone": 4,
       "meaning": "Lineage",
       "story": "Lineage commands \"Xi!\" yells!",
@@ -85,7 +85,7 @@
     {
       "id": 936,
       "character": "係",
-      "pinyin": "Xi",
+      "pinyin": "Xì",
       "tone": 4,
       "meaning": "related to",
       "story": "related to commands \"Xi!\" yells!",
@@ -94,7 +94,7 @@
     {
       "id": 937,
       "character": "孫",
-      "pinyin": "Sun",
+      "pinyin": "Sūn",
       "tone": 1,
       "meaning": "Grandchild",
       "story": "Grandchild sings \"Sun!\" cheerfully!",
@@ -103,7 +103,7 @@
     {
       "id": 938,
       "character": "卻",
-      "pinyin": "Que",
+      "pinyin": "Què",
       "tone": 4,
       "meaning": "to withdraw (retreat, not banks)",
       "story": "to withdraw (retreat, not banks) commands \"Que!\" yells!",
@@ -112,7 +112,7 @@
     {
       "id": 939,
       "character": "腳",
-      "pinyin": "Jiao",
+      "pinyin": "Jiǎo",
       "tone": 3,
       "meaning": "Foot",
       "story": "Foot bends down drooping saying \"Jiao\"!",
@@ -121,7 +121,7 @@
     {
       "id": 940,
       "character": "服",
-      "pinyin": "Fu",
+      "pinyin": "Fú",
       "tone": 2,
       "meaning": "Apparel",
       "story": "Apparel questions \"Fu? Why?\" curiously!",
@@ -130,7 +130,7 @@
     {
       "id": 941,
       "character": "命",
-      "pinyin": "Ming",
+      "pinyin": "Mìng",
       "tone": 4,
       "meaning": "Fate",
       "story": "Fate commands \"Ming!\" yells!",
@@ -139,7 +139,7 @@
     {
       "id": 942,
       "character": "留",
-      "pinyin": "Liu",
+      "pinyin": "Liú",
       "tone": 2,
       "meaning": "to stay",
       "story": "to stay questions \"Liu? Why?\" curiously!",
@@ -148,7 +148,7 @@
     {
       "id": 943,
       "character": "溜",
-      "pinyin": "Liu",
+      "pinyin": "Liū",
       "tone": 1,
       "meaning": "to slide",
       "story": "to slide sings \"Liu!\" cheerfully!",
@@ -157,7 +157,7 @@
     {
       "id": 944,
       "character": "聊",
-      "pinyin": "Liao",
+      "pinyin": "Liáo",
       "tone": 2,
       "meaning": "to chat",
       "story": "to chat questions \"Liao? Why?\" curiously!",
@@ -166,7 +166,7 @@
     {
       "id": 945,
       "character": "柳",
-      "pinyin": "Liu",
+      "pinyin": "Liǔ",
       "tone": 3,
       "meaning": "Willow",
       "story": "Willow bends down drooping saying \"Liu\"!",
@@ -175,7 +175,7 @@
     {
       "id": 946,
       "character": "令",
-      "pinyin": "Ling",
+      "pinyin": "Lìng",
       "tone": 4,
       "meaning": "Orders",
       "story": "Orders commands \"Ling!\" yells!",
@@ -184,7 +184,7 @@
     {
       "id": 947,
       "character": "冷",
-      "pinyin": "Leng",
+      "pinyin": "Lěng",
       "tone": 3,
       "meaning": "cold",
       "story": "cold bends down drooping saying \"Leng\"!",
@@ -193,7 +193,7 @@
     {
       "id": 948,
       "character": "零",
-      "pinyin": "Ling",
+      "pinyin": "Líng",
       "tone": 2,
       "meaning": "zero",
       "story": "zero questions \"Ling? Why?\" curiously!",
@@ -202,7 +202,7 @@
     {
       "id": 949,
       "character": "領",
-      "pinyin": "Ling",
+      "pinyin": "Lǐng",
       "tone": 3,
       "meaning": "Collar",
       "story": "Collar bends down drooping saying \"Ling\"!",
@@ -211,7 +211,7 @@
     {
       "id": 950,
       "character": "通",
-      "pinyin": "Tong",
+      "pinyin": "Tōng",
       "tone": 1,
       "meaning": "to communicate",
       "story": "to communicate sings \"Tong!\" cheerfully!",

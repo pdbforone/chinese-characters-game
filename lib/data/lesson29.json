@@ -4,7 +4,7 @@
     {
       "id": 834,
       "character": "示",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "to show",
       "story": "To show altar commands \"Shi!\" sharply displaying!",
@@ -13,7 +13,7 @@
     {
       "id": 835,
       "character": "社",
-      "pinyin": "she",
+      "pinyin": "shè",
       "tone": 4,
       "meaning": "Society",
       "story": "Society show earth yells \"Shuh!\" sharply group!",
@@ -22,7 +22,7 @@
     {
       "id": 836,
       "character": "視",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "to inspect",
       "story": "To inspect show see commands \"Shi!\" sharply examining!",
@@ -31,7 +31,7 @@
     {
       "id": 837,
       "character": "福",
-      "pinyin": "fu",
+      "pinyin": "fú",
       "tone": 2,
       "meaning": "Happiness",
       "story": "Happiness show one mouth questions \"Foo? Blessed?\" curiously!",
@@ -40,7 +40,7 @@
     {
       "id": 838,
       "character": "禁",
-      "pinyin": "jin",
+      "pinyin": "jìn",
       "tone": 4,
       "meaning": "to prohibit",
       "story": "To prohibit show forest commands \"Jin!\" sharply forbidding!",
@@ -49,7 +49,7 @@
     {
       "id": 839,
       "character": "襟",
-      "pinyin": "jin",
+      "pinyin": "jīn",
       "tone": 1,
       "meaning": "Front of a Garment",
       "story": "Front of garment clothes prohibit sings \"Jeen!\" cheerfully lapel!",
@@ -58,7 +58,7 @@
     {
       "id": 840,
       "character": "宗",
-      "pinyin": "zong",
+      "pinyin": "zōng",
       "tone": 1,
       "meaning": "Religion",
       "story": "Religion roof show sings \"Zong!\" cheerfully sect!",
@@ -67,7 +67,7 @@
     {
       "id": 841,
       "character": "崇",
-      "pinyin": "chong",
+      "pinyin": "chóng",
       "tone": 2,
       "meaning": "to worship",
       "story": "To worship mountain religion questions \"Chong? Revere?\" curiously!",
@@ -76,7 +76,7 @@
     {
       "id": 842,
       "character": "祭",
-      "pinyin": "ji",
+      "pinyin": "jì",
       "tone": 4,
       "meaning": "to offer sacrifice",
       "story": "To offer sacrifice show flesh commands \"Ji!\" sharply ritual!",
@@ -85,7 +85,7 @@
     {
       "id": 843,
       "character": "察",
-      "pinyin": "cha",
+      "pinyin": "chá",
       "tone": 2,
       "meaning": "to scrutinize",
       "story": "To scrutinize sacrifice roof questions \"Cha? Examine?\" curiously!",
@@ -94,7 +94,7 @@
     {
       "id": 844,
       "character": "擦",
-      "pinyin": "ca",
+      "pinyin": "cā",
       "tone": 1,
       "meaning": "to scrub",
       "story": "To scrub hand scrutinize sings \"Tsa!\" cheerfully wiping!",
@@ -103,7 +103,7 @@
     {
       "id": 845,
       "character": "由",
-      "pinyin": "you",
+      "pinyin": "yóu",
       "tone": 2,
       "meaning": "Wherefore",
       "story": "Wherefore field questions \"Yo? Why?\" curiously!",
@@ -112,7 +112,7 @@
     {
       "id": 846,
       "character": "抽",
-      "pinyin": "chou",
+      "pinyin": "chōu",
       "tone": 1,
       "meaning": "to draw out",
       "story": "To draw out hand wherefore sings \"Cho!\" cheerfully extracting!",
@@ -121,7 +121,7 @@
     {
       "id": 847,
       "character": "油",
-      "pinyin": "you",
+      "pinyin": "yóu",
       "tone": 2,
       "meaning": "Oil",
       "story": "Oil water wherefore questions \"Yo? Lubricating?\" curiously!",
@@ -130,7 +130,7 @@
     {
       "id": 848,
       "character": "甲",
-      "pinyin": "jia",
+      "pinyin": "jiǎ",
       "tone": 3,
       "meaning": "first",
       "story": "First shell bends down drooping saying \"Jia\"!",
@@ -139,7 +139,7 @@
     {
       "id": 849,
       "character": "押",
-      "pinyin": "ya",
+      "pinyin": "yā",
       "tone": 1,
       "meaning": "to pawn",
       "story": "To pawn hand first sings \"Ya!\" cheerfully depositing!",
@@ -148,7 +148,7 @@
     {
       "id": 850,
       "character": "申",
-      "pinyin": "shen",
+      "pinyin": "shēn",
       "tone": 1,
       "meaning": "to express",
       "story": "To express day middle sings \"Shen!\" cheerfully stating!",
@@ -157,7 +157,7 @@
     {
       "id": 851,
       "character": "伸",
-      "pinyin": "shen",
+      "pinyin": "shēn",
       "tone": 1,
       "meaning": "to extend",
       "story": "To extend person express sings \"Shen!\" cheerfully stretching!",
@@ -166,7 +166,7 @@
     {
       "id": 852,
       "character": "神",
-      "pinyin": "shen",
+      "pinyin": "shén",
       "tone": 2,
       "meaning": "Gods",
       "story": "Gods show express questions \"Shen? Divine?\" curiously!",
@@ -175,7 +175,7 @@
     {
       "id": 853,
       "character": "果",
-      "pinyin": "guo",
+      "pinyin": "guǒ",
       "tone": 3,
       "meaning": "Fruit",
       "story": "Fruit field tree bends down drooping saying \"Gwoh\"!",
@@ -184,7 +184,7 @@
     {
       "id": 854,
       "character": "課",
-      "pinyin": "ke",
+      "pinyin": "kè",
       "tone": 4,
       "meaning": "Lesson",
       "story": "Lesson words fruit commands \"Kuh!\" sharply teaching!",
@@ -193,7 +193,7 @@
     {
       "id": 855,
       "character": "顆",
-      "pinyin": "ke",
+      "pinyin": "kē",
       "tone": 1,
       "meaning": "Granule",
       "story": "Granule fruit page sings \"Kuh!\" cheerfully tiny!",

@@ -4,7 +4,7 @@
     {
       "id": 1262,
       "character": "廢",
-      "pinyin": "fei",
+      "pinyin": "fèi",
       "tone": 4,
       "meaning": "to discard",
       "story": "To discard building send out commands sharply \"Fay!\" - terminate abolish!",
@@ -13,7 +13,7 @@
     {
       "id": 1263,
       "character": "形",
-      "pinyin": "xing",
+      "pinyin": "xíng",
       "tone": 2,
       "meaning": "Shape",
       "story": "Shape open hands questions \"Shing? Appearance?\" curiously - form!",
@@ -22,7 +22,7 @@
     {
       "id": 1264,
       "character": "影",
-      "pinyin": "ying",
+      "pinyin": "yǐng",
       "tone": 3,
       "meaning": "Shadow",
       "story": "Shadow shape sun bends down drooping \"Ying\" - reflection picture image!",
@@ -31,7 +31,7 @@
     {
       "id": 1265,
       "character": "彩",
-      "pinyin": "cai",
+      "pinyin": "cǎi",
       "tone": 3,
       "meaning": "Hue",
       "story": "Hue shape tree bends down drooping \"Tsigh\" - color coloring!",
@@ -40,7 +40,7 @@
     {
       "id": 1266,
       "character": "須",
-      "pinyin": "xu",
+      "pinyin": "xū",
       "tone": 1,
       "meaning": "to have to",
       "story": "To have to shape page sings \"Shyoo!\" cheerfully - must necessary ought!",
@@ -49,7 +49,7 @@
     {
       "id": 1267,
       "character": "珍",
-      "pinyin": "zhen",
+      "pinyin": "zhēn",
       "tone": 1,
       "meaning": "rare",
       "story": "Rare jewel shape sings \"Jun!\" cheerfully - precious treasure!",
@@ -58,7 +58,7 @@
     {
       "id": 1268,
       "character": "參",
-      "pinyin": "can",
+      "pinyin": "cān",
       "tone": 1,
       "meaning": "to participate",
       "story": "To participate hairs private sings \"Tsahn!\" cheerfully - join visit ginseng!",
@@ -67,7 +67,7 @@
     {
       "id": 1269,
       "character": "慘",
-      "pinyin": "can",
+      "pinyin": "cǎn",
       "tone": 3,
       "meaning": "wretched",
       "story": "Wretched heart participate bends down drooping \"Tsahn\" - miserable sad pitiful!",
@@ -76,7 +76,7 @@
     {
       "id": 1270,
       "character": "修",
-      "pinyin": "xiu",
+      "pinyin": "xiū",
       "tone": 1,
       "meaning": "to repair",
       "story": "To repair person shape sings \"Shyo!\" cheerfully - cultivate study discipline!",
@@ -85,7 +85,7 @@
     {
       "id": 1271,
       "character": "文",
-      "pinyin": "wen",
+      "pinyin": "wén",
       "tone": 2,
       "meaning": "Literature",
       "story": "Literature scholar questions \"Wuhn? Writing?\" curiously - culture sentence!",
@@ -94,7 +94,7 @@
     {
       "id": 1272,
       "character": "蚊",
-      "pinyin": "wen",
+      "pinyin": "wén",
       "tone": 2,
       "meaning": "Mosquito",
       "story": "Mosquito insect literature questions \"Wuhn? Biting?\" curiously - buzzing pest!",
@@ -103,7 +103,7 @@
     {
       "id": 1273,
       "character": "彥",
-      "pinyin": "yan",
+      "pinyin": "yàn",
       "tone": 4,
       "meaning": "erudite",
       "story": "Erudite colorful scholar commands sharply \"Yahn!\" - accomplished learned elegant lad!",
@@ -112,7 +112,7 @@
     {
       "id": 1274,
       "character": "顏",
-      "pinyin": "yan",
+      "pinyin": "yán",
       "tone": 2,
       "meaning": "Countenance",
       "story": "Countenance page erudite questions \"Yahn? Face?\" curiously - color!",
@@ -121,7 +121,7 @@
     {
       "id": 1275,
       "character": "產",
-      "pinyin": "chan",
+      "pinyin": "chǎn",
       "tone": 3,
       "meaning": "Products",
       "story": "Products cliff life bends down drooping \"Chahn\" - resources give birth!",
@@ -130,7 +130,7 @@
     {
       "id": 1276,
       "character": "率",
-      "pinyin": "shuai",
+      "pinyin": "shuài",
       "tone": 4,
       "meaning": "a Rate",
       "story": "A rate shape field commands sharply \"Shwigh!\" - ratio limit lead!",
@@ -139,7 +139,7 @@
     {
       "id": 1277,
       "character": "摔",
-      "pinyin": "shuai",
+      "pinyin": "shuāi",
       "tone": 1,
       "meaning": "to tumble",
       "story": "To tumble hand rate sings \"Shwigh!\" cheerfully - fall stumble trip!",
@@ -148,7 +148,7 @@
     {
       "id": 1278,
       "character": "央",
-      "pinyin": "yang",
+      "pinyin": "yāng",
       "tone": 1,
       "meaning": "Center",
       "story": "Center big sings \"Yahng!\" cheerfully - middle beg!",
@@ -157,7 +157,7 @@
     {
       "id": 1279,
       "character": "英",
-      "pinyin": "ying",
+      "pinyin": "yīng",
       "tone": 1,
       "meaning": "England",
       "story": "England flowers center sings \"Ying!\" cheerfully - brave Britain!",
@@ -166,7 +166,7 @@
     {
       "id": 1280,
       "character": "巴",
-      "pinyin": "ba",
+      "pinyin": "bā",
       "tone": 1,
       "meaning": "Crust",
       "story": "Crust snake mouth sings \"Bah!\" cheerfully - desire Palestine comma-design!",
@@ -175,7 +175,7 @@
     {
       "id": 1281,
       "character": "把",
-      "pinyin": "ba",
+      "pinyin": "bǎ",
       "tone": 3,
       "meaning": "to grasp",
       "story": "To grasp hand crust bends down drooping \"Bah\" - take hold of!",
@@ -184,7 +184,7 @@
     {
       "id": 1282,
       "character": "爸",
-      "pinyin": "ba",
+      "pinyin": "bà",
       "tone": 4,
       "meaning": "Papa",
       "story": "Papa father crust commands sharply \"Bah!\" - dad!",
@@ -202,7 +202,7 @@
     {
       "id": 1284,
       "character": "色",
-      "pinyin": "se",
+      "pinyin": "sè",
       "tone": 4,
       "meaning": "Color",
       "story": "Color knife snake commands sharply \"Suh!\" - look appearance hue!",

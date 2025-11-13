@@ -4,7 +4,7 @@
     {
       "id": 897,
       "character": "深",
-      "pinyin": "Shen",
+      "pinyin": "Shēn",
       "tone": 1,
       "meaning": "deep",
       "story": "deep sings \"Shen!\" cheerfully!",
@@ -13,7 +13,7 @@
     {
       "id": 898,
       "character": "探",
-      "pinyin": "Tan",
+      "pinyin": "Tàn",
       "tone": 4,
       "meaning": "a Spy",
       "story": "a Spy commands \"Tan!\" yells!",
@@ -22,7 +22,7 @@
     {
       "id": 899,
       "character": "丘",
-      "pinyin": "Qiu",
+      "pinyin": "Qiū",
       "tone": 1,
       "meaning": "Hill",
       "story": "Hill sings \"Qiu!\" cheerfully!",
@@ -31,7 +31,7 @@
     {
       "id": 900,
       "character": "兵",
-      "pinyin": "Bing",
+      "pinyin": "Bīng",
       "tone": 1,
       "meaning": "Troops",
       "story": "Troops sings \"Bing!\" cheerfully!",
@@ -40,7 +40,7 @@
     {
       "id": 901,
       "character": "絲",
-      "pinyin": "Si",
+      "pinyin": "Sī",
       "tone": 1,
       "meaning": "Silk",
       "story": "Silk sings \"Si!\" cheerfully!",
@@ -49,7 +49,7 @@
     {
       "id": 902,
       "character": "線",
-      "pinyin": "Xian",
+      "pinyin": "Xiàn",
       "tone": 4,
       "meaning": "Line",
       "story": "Line commands \"Xian!\" yells!",
@@ -58,7 +58,7 @@
     {
       "id": 903,
       "character": "維",
-      "pinyin": "Wei",
+      "pinyin": "Wéi",
       "tone": 2,
       "meaning": "to maintain",
       "story": "to maintain questions \"Wei? Why?\" curiously!",
@@ -67,7 +67,7 @@
     {
       "id": 904,
       "character": "羅",
-      "pinyin": "Luo",
+      "pinyin": "Luó",
       "tone": 2,
       "meaning": "Silk Gauze",
       "story": "Silk Gauze questions \"Luo? Why?\" curiously!",
@@ -76,7 +76,7 @@
     {
       "id": 905,
       "character": "續",
-      "pinyin": "Xu",
+      "pinyin": "Xù",
       "tone": 4,
       "meaning": "to continue",
       "story": "to continue commands \"Xu!\" yells!",
@@ -85,7 +85,7 @@
     {
       "id": 906,
       "character": "統",
-      "pinyin": "Tong",
+      "pinyin": "Tǒng",
       "tone": 3,
       "meaning": "continuum",
       "story": "continuum bends down drooping saying \"Tong\"!",
@@ -94,7 +94,7 @@
     {
       "id": 907,
       "character": "給",
-      "pinyin": "Gei",
+      "pinyin": "Gěi",
       "tone": 3,
       "meaning": "to give",
       "story": "to give bends down drooping saying \"Gei\"!",
@@ -103,7 +103,7 @@
     {
       "id": 908,
       "character": "結",
-      "pinyin": "Jie",
+      "pinyin": "Jié",
       "tone": 2,
       "meaning": "to tie",
       "story": "to tie questions \"Jie? Why?\" curiously!",
@@ -112,7 +112,7 @@
     {
       "id": 909,
       "character": "終",
-      "pinyin": "Zhong",
+      "pinyin": "Zhōng",
       "tone": 1,
       "meaning": "end",
       "story": "end sings \"Zhong!\" cheerfully!",
@@ -121,7 +121,7 @@
     {
       "id": 910,
       "character": "級",
-      "pinyin": "Ji",
+      "pinyin": "Jí",
       "tone": 2,
       "meaning": "a Rank",
       "story": "a Rank questions \"Ji? Why?\" curiously!",
@@ -130,7 +130,7 @@
     {
       "id": 911,
       "character": "紀",
-      "pinyin": "Ji",
+      "pinyin": "Jì",
       "tone": 4,
       "meaning": "Epoch",
       "story": "Epoch commands \"Ji!\" yells!",
@@ -139,7 +139,7 @@
     {
       "id": 912,
       "character": "紅",
-      "pinyin": "Hong",
+      "pinyin": "Hóng",
       "tone": 2,
       "meaning": "red",
       "story": "red questions \"Hong? Why?\" curiously!",
@@ -148,7 +148,7 @@
     {
       "id": 913,
       "character": "約",
-      "pinyin": "Yue",
+      "pinyin": "Yuē",
       "tone": 1,
       "meaning": "to make an appointment",
       "story": "to make an appointment sings \"Yue!\" cheerfully!",
@@ -157,7 +157,7 @@
     {
       "id": 914,
       "character": "細",
-      "pinyin": "Xi",
+      "pinyin": "Xì",
       "tone": 4,
       "meaning": "fine",
       "story": "fine commands \"Xi!\" yells!",
@@ -166,7 +166,7 @@
     {
       "id": 915,
       "character": "緊",
-      "pinyin": "Jin",
+      "pinyin": "Jǐn",
       "tone": 3,
       "meaning": "tight",
       "story": "tight bends down drooping saying \"Jin\"!",
@@ -175,7 +175,7 @@
     {
       "id": 916,
       "character": "織",
-      "pinyin": "Zhi",
+      "pinyin": "Zhī",
       "tone": 1,
       "meaning": "to weave",
       "story": "to weave sings \"Zhi!\" cheerfully!",
@@ -184,7 +184,7 @@
     {
       "id": 917,
       "character": "網",
-      "pinyin": "Wang",
+      "pinyin": "Wǎng",
       "tone": 3,
       "meaning": "Net",
       "story": "Net bends down drooping saying \"Wang\"!",
@@ -193,7 +193,7 @@
     {
       "id": 918,
       "character": "綠",
-      "pinyin": "Lu",
+      "pinyin": "Lù",
       "tone": 4,
       "meaning": "green",
       "story": "green commands \"Lu!\" yells!",
@@ -202,7 +202,7 @@
     {
       "id": 919,
       "character": "彎",
-      "pinyin": "Wan",
+      "pinyin": "Wān",
       "tone": 1,
       "meaning": "curved",
       "story": "curved sings \"Wan!\" cheerfully!",
@@ -211,7 +211,7 @@
     {
       "id": 920,
       "character": "灣",
-      "pinyin": "Wan",
+      "pinyin": "Wān",
       "tone": 1,
       "meaning": "Bay",
       "story": "Bay sings \"Wan!\" cheerfully!",
@@ -220,7 +220,7 @@
     {
       "id": 921,
       "character": "戀",
-      "pinyin": "Lian",
+      "pinyin": "Liàn",
       "tone": 4,
       "meaning": "to be enamored of",
       "story": "to be enamored of commands \"Lian!\" yells!",
@@ -229,7 +229,7 @@
     {
       "id": 922,
       "character": "變",
-      "pinyin": "Bian",
+      "pinyin": "Biàn",
       "tone": 4,
       "meaning": "to change",
       "story": "to change commands \"Bian!\" yells!",
@@ -238,7 +238,7 @@
     {
       "id": 923,
       "character": "經",
-      "pinyin": "Jing",
+      "pinyin": "Jīng",
       "tone": 1,
       "meaning": "Scripture",
       "story": "Scripture sings \"Jing!\" cheerfully!",
@@ -247,7 +247,7 @@
     {
       "id": 924,
       "character": "輕",
-      "pinyin": "Qing",
+      "pinyin": "Qīng",
       "tone": 1,
       "meaning": "lightweight",
       "story": "lightweight sings \"Qing!\" cheerfully!",
@@ -256,7 +256,7 @@
     {
       "id": 925,
       "character": "後",
-      "pinyin": "Hou",
+      "pinyin": "Hòu",
       "tone": 4,
       "meaning": "behind",
       "story": "behind commands \"Hou!\" yells!",
@@ -265,7 +265,7 @@
     {
       "id": 926,
       "character": "幾",
-      "pinyin": "Ji",
+      "pinyin": "Jǐ",
       "tone": 3,
       "meaning": "how many?",
       "story": "how many? bends down drooping saying \"Ji\"!",
