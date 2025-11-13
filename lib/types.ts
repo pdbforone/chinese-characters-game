@@ -26,7 +26,7 @@ export interface GameStats {
   accuracy: number;
 }
 
-export type GameMode = 'story-to-character' | 'character-to-story' | 'meaning-to-character' | 'character-to-pinyin';
+export type GameMode = 'story-to-character' | 'character-to-story' | 'character-to-pinyin';
 
 export interface RoundProgress {
   currentRound: number;

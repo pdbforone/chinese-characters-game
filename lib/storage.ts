@@ -43,11 +43,7 @@ export function markIntroductionComplete(lessonId: number): void {
   }
 }
 
-export function saveGameScore(
-  lessonId: number,
-  score: number,
-  accuracy: number
-): void {
+export function saveGameScore(lessonId: number, score: number, accuracy: number): void {
   if (typeof window === 'undefined') return;
 
   try {

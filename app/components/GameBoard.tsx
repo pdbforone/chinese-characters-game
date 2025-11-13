@@ -1,13 +1,12 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useEffect } from 'react';
 import { Character, GameStats, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
 import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
 import StoryCard from './StoryCard';
 import CharacterCard from './CharacterCard';
 import PinyinCard from './PinyinCard';
-import MeaningCard from './MeaningCard';
 import ProgressBar from './ProgressBar';
 
 interface GameBoardProps {
@@ -29,6 +28,7 @@ export default function GameBoard({
   totalPages = 1,
   gameMode = 'story-to-character',
   onRoundComplete,
+  onBackToLessons,
 }: GameBoardProps) {
   const [selectedLeft, setSelectedLeft] = useState<number | null>(null);
   const [selectedRight, setSelectedRight] = useState<number | null>(null);
@@ -40,14 +40,15 @@ export default function GameBoard({
     accuracy: 0,
   });
   const [showCompletion, setShowCompletion] = useState(false);
-  const [shuffleKey, setShuffleKey] = useState(0);
 
   // Shuffle right column for display (but keep left in order)
-  // shuffleKey is intentionally included to trigger re-shuffle on reset
-  const shuffledRight = useMemo(() => {
-    // eslint-disable-next-line react-hooks/purity
-    return [...characters].sort(() => Math.random() - 0.5);
-  }, [characters, shuffleKey]); // eslint-disable-line react-hooks/exhaustive-deps
+  const [shuffledRight, setShuffledRight] = useState<Character[]>([]);
+
+  useEffect(() => {
+    // Shuffle characters for the right column
+    const shuffled = [...characters].sort(() => Math.random() - 0.5);
+    setShuffledRight(shuffled);
+  }, [characters]);
 
   const handleLeftClick = (id: number) => {
     if (matched.has(id)) return;
@@ -144,8 +145,9 @@ export default function GameBoard({
       accuracy: 0,
     });
     setShowCompletion(false);
-    // Re-shuffle characters by incrementing shuffle key
-    setShuffleKey((prev) => prev + 1);
+    // Re-shuffle characters
+    const shuffled = [...characters].sort(() => Math.random() - 0.5);
+    setShuffledRight(shuffled);
   };
 
   if (shuffledRight.length === 0) {
@@ -159,8 +161,6 @@ export default function GameBoard({
         return 'Mnemonic Stories';
       case 'character-to-story':
         return 'Characters';
-      case 'meaning-to-character':
-        return 'Meanings';
       case 'character-to-pinyin':
         return 'Characters';
     }
@@ -172,15 +172,13 @@ export default function GameBoard({
         return 'Characters';
       case 'character-to-story':
         return 'Mnemonic Stories';
-      case 'meaning-to-character':
-        return 'Characters';
       case 'character-to-pinyin':
         return 'Pinyin';
     }
   };
 
   // Determine what to show based on round (difficulty level)
-  const showPinyin = round !== 3 && round !== 4; // Hide pinyin in rounds 3 and 4
+  const showPinyin = round !== 3; // Hide pinyin in round 3
   const showMeaning = round === 1; // Only show meaning in round 1
 
   return (
@@ -205,17 +203,6 @@ export default function GameBoard({
             if (gameMode === 'story-to-character') {
               return (
                 <StoryCard
-                  key={`left-${char.id}`}
-                  character={char}
-                  isSelected={selectedLeft === char.id}
-                  isMatched={matched.has(char.id)}
-                  isIncorrect={false}
-                  onClick={() => handleLeftClick(char.id)}
-                />
-              );
-            } else if (gameMode === 'meaning-to-character') {
-              return (
-                <MeaningCard
                   key={`left-${char.id}`}
                   character={char}
                   isSelected={selectedLeft === char.id}
@@ -249,7 +236,7 @@ export default function GameBoard({
           </h3>
           {shuffledRight.map((char) => {
             // Render right side based on game mode
-            if (gameMode === 'story-to-character' || gameMode === 'meaning-to-character') {
+            if (gameMode === 'story-to-character') {
               return (
                 <CharacterCard
                   key={`right-${char.id}`}

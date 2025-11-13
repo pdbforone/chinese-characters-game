@@ -15,7 +15,7 @@ export default function ProgressBar({
   lesson,
   round,
   page = 1,
-  totalPages = 1
+  totalPages = 1,
 }: ProgressBarProps) {
   const percentage = (current / total) * 100;
 
@@ -24,7 +24,11 @@ export default function ProgressBar({
       <div className="flex justify-between items-center mb-2">
         <h2 className="text-xl font-bold text-gray-800">
           RTH Lesson {lesson} - Round {round}
-          {totalPages > 1 && <span className="text-base text-gray-600 ml-2">(Page {page} of {totalPages})</span>}
+          {totalPages > 1 && (
+            <span className="text-base text-gray-600 ml-2">
+              (Page {page} of {totalPages})
+            </span>
+          )}
         </h2>
         <span className="text-sm font-medium text-gray-600">
           {current}/{total} matched

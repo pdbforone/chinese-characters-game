@@ -119,17 +119,35 @@ const lessonBoundaries = [
 
   // Additional sections
   { lesson: 111, start: 2979, end: 3000, name: 'Compounds' },
-  { lesson: 112, start: 3001, end: 3035, name: 'Postscripts' }
+  { lesson: 112, start: 3001, end: 3035, name: 'Postscripts' },
 ];
 
 // Tone mark to letter mapping for pinyin normalization
 const toneMap = {
-  'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
-  'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
-  'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
-  'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
-  'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
-  'ǖ': 'ü', 'ǘ': 'ü', 'ǚ': 'ü', 'ǜ': 'ü',
+  ā: 'a',
+  á: 'a',
+  ǎ: 'a',
+  à: 'a',
+  ē: 'e',
+  é: 'e',
+  ě: 'e',
+  è: 'e',
+  ī: 'i',
+  í: 'i',
+  ǐ: 'i',
+  ì: 'i',
+  ō: 'o',
+  ó: 'o',
+  ǒ: 'o',
+  ò: 'o',
+  ū: 'u',
+  ú: 'u',
+  ǔ: 'u',
+  ù: 'u',
+  ǖ: 'ü',
+  ǘ: 'ü',
+  ǚ: 'ü',
+  ǜ: 'ü',
 };
 
 function normalizePinyin(pinyin) {
@@ -173,7 +191,7 @@ async function main() {
   }
 
   const fileData = fs.readFileSync(storiesFilePath, 'utf-8');
-  const lines = fileData.split('\n').filter(line => line.trim());
+  const lines = fileData.split('\n').filter((line) => line.trim());
 
   const headers = lines[0].split('\t');
   console.log(`📋 Columns: ${headers.join(', ')}\n`);
@@ -208,7 +226,7 @@ async function main() {
       tone,
       meaning,
       story,
-      primitives
+      primitives,
     });
   }
 
@@ -216,7 +234,7 @@ async function main() {
 
   // Create a map for quick lookup
   const charMap = new Map();
-  allCharacters.forEach(char => charMap.set(char.id, char));
+  allCharacters.forEach((char) => charMap.set(char.id, char));
 
   // Generate lessons based on RTH boundaries
   const dataDir = path.join(process.cwd(), 'lib', 'data');
@@ -243,14 +261,16 @@ async function main() {
     if (lessonCharacters.length > 0) {
       const lessonData = {
         lesson: boundary.lesson,
-        characters: lessonCharacters
+        characters: lessonCharacters,
       };
 
       const filename = path.join(dataDir, `lesson${boundary.lesson}.json`);
       fs.writeFileSync(filename, JSON.stringify(lessonData, null, 2), 'utf-8');
 
       const lessonName = boundary.name ? ` (${boundary.name})` : '';
-      console.log(`✅ Lesson ${boundary.lesson}${lessonName}: ${lessonCharacters.length} characters (${boundary.start}-${boundary.end})`);
+      console.log(
+        `✅ Lesson ${boundary.lesson}${lessonName}: ${lessonCharacters.length} characters (${boundary.start}-${boundary.end})`
+      );
 
       totalCharactersProcessed += lessonCharacters.length;
     }
@@ -266,12 +286,10 @@ async function main() {
   console.log('📝 Generating lessonLoader.ts...\n');
 
   const imports = lessonBoundaries
-    .map(b => `import lesson${b.lesson} from './data/lesson${b.lesson}.json';`)
+    .map((b) => `import lesson${b.lesson} from './data/lesson${b.lesson}.json';`)
     .join('\n');
 
-  const mapping = lessonBoundaries
-    .map(b => `  ${b.lesson}: lesson${b.lesson},`)
-    .join('\n');
+  const mapping = lessonBoundaries.map((b) => `  ${b.lesson}: lesson${b.lesson},`).join('\n');
 
   const loaderContent = `${imports}
 
@@ -311,11 +329,7 @@ export function getAllLessonsMetadata() {
 }
 `;
 
-  fs.writeFileSync(
-    path.join(process.cwd(), 'lib', 'lessonLoader.ts'),
-    loaderContent,
-    'utf-8'
-  );
+  fs.writeFileSync(path.join(process.cwd(), 'lib', 'lessonLoader.ts'), loaderContent, 'utf-8');
 
   console.log('✅ Updated lib/lessonLoader.ts\n');
 
@@ -325,7 +339,7 @@ export function getAllLessonsMetadata() {
   let hasErrors = false;
   let warningCount = 0;
 
-  lessonBoundaries.forEach(boundary => {
+  lessonBoundaries.forEach((boundary) => {
     const filename = path.join(dataDir, `lesson${boundary.lesson}.json`);
     if (fs.existsSync(filename)) {
       const lessonData = JSON.parse(fs.readFileSync(filename, 'utf-8'));
@@ -339,7 +353,9 @@ export function getAllLessonsMetadata() {
           warningCount++;
         }
         if (char.tone < 1 || char.tone > 5) {
-          console.error(`❌ Lesson ${boundary.lesson}, Character ${char.character}: Invalid tone ${char.tone}`);
+          console.error(
+            `❌ Lesson ${boundary.lesson}, Character ${char.character}: Invalid tone ${char.tone}`
+          );
           hasErrors = true;
         }
       });
@@ -361,19 +377,21 @@ export function getAllLessonsMetadata() {
 
   // Show sample lessons
   console.log('📋 Sample lessons:');
-  [1, 10, 22, 31, 55, 77, 103, 110, 111, 112].forEach(lessonNum => {
-    const boundary = lessonBoundaries.find(b => b.lesson === lessonNum);
+  [1, 10, 22, 31, 55, 77, 103, 110, 111, 112].forEach((lessonNum) => {
+    const boundary = lessonBoundaries.find((b) => b.lesson === lessonNum);
     if (boundary) {
       const count = boundary.end - boundary.start + 1;
       const name = boundary.name ? ` (${boundary.name})` : '';
-      console.log(`   Lesson ${lessonNum}${name}: ${count} chars (${boundary.start}-${boundary.end})`);
+      console.log(
+        `   Lesson ${lessonNum}${name}: ${count} chars (${boundary.start}-${boundary.end})`
+      );
     }
   });
 
   console.log('\n✅ All RTH lessons imported with correct boundaries!\n');
 }
 
-main().catch(error => {
+main().catch((error) => {
   console.error('❌ Fatal error:', error);
   process.exit(1);
 });

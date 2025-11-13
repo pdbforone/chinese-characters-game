@@ -3,18 +3,54 @@ const path = require('path');
 
 // Tone mark to tone number mapping
 const toneMap = {
-  'ā': { letter: 'a', tone: 1 }, 'á': { letter: 'a', tone: 2 }, 'ǎ': { letter: 'a', tone: 3 }, 'à': { letter: 'a', tone: 4 },
-  'ē': { letter: 'e', tone: 1 }, 'é': { letter: 'e', tone: 2 }, 'ě': { letter: 'e', tone: 3 }, 'è': { letter: 'e', tone: 4 },
-  'ī': { letter: 'i', tone: 1 }, 'í': { letter: 'i', tone: 2 }, 'ǐ': { letter: 'i', tone: 3 }, 'ì': { letter: 'i', tone: 4 },
-  'ō': { letter: 'o', tone: 1 }, 'ó': { letter: 'o', tone: 2 }, 'ǒ': { letter: 'o', tone: 3 }, 'ò': { letter: 'o', tone: 4 },
-  'ū': { letter: 'u', tone: 1 }, 'ú': { letter: 'u', tone: 2 }, 'ǔ': { letter: 'u', tone: 3 }, 'ù': { letter: 'u', tone: 4 },
-  'ǖ': { letter: 'ü', tone: 1 }, 'ǘ': { letter: 'ü', tone: 2 }, 'ǚ': { letter: 'ü', tone: 3 }, 'ǜ': { letter: 'ü', tone: 4 },
-  'Ā': { letter: 'A', tone: 1 }, 'Á': { letter: 'A', tone: 2 }, 'Ǎ': { letter: 'A', tone: 3 }, 'À': { letter: 'A', tone: 4 },
-  'Ē': { letter: 'E', tone: 1 }, 'É': { letter: 'E', tone: 2 }, 'Ě': { letter: 'E', tone: 3 }, 'È': { letter: 'E', tone: 4 },
-  'Ī': { letter: 'I', tone: 1 }, 'Í': { letter: 'I', tone: 2 }, 'Ǐ': { letter: 'I', tone: 3 }, 'Ì': { letter: 'I', tone: 4 },
-  'Ō': { letter: 'O', tone: 1 }, 'Ó': { letter: 'O', tone: 2 }, 'Ǒ': { letter: 'O', tone: 3 }, 'Ò': { letter: 'O', tone: 4 },
-  'Ū': { letter: 'U', tone: 1 }, 'Ú': { letter: 'U', tone: 2 }, 'Ǔ': { letter: 'U', tone: 3 }, 'Ù': { letter: 'U', tone: 4 },
-  'Ǖ': { letter: 'Ü', tone: 1 }, 'Ǘ': { letter: 'Ü', tone: 2 }, 'Ǚ': { letter: 'Ü', tone: 3 }, 'Ǜ': { letter: 'Ü', tone: 4 },
+  ā: { letter: 'a', tone: 1 },
+  á: { letter: 'a', tone: 2 },
+  ǎ: { letter: 'a', tone: 3 },
+  à: { letter: 'a', tone: 4 },
+  ē: { letter: 'e', tone: 1 },
+  é: { letter: 'e', tone: 2 },
+  ě: { letter: 'e', tone: 3 },
+  è: { letter: 'e', tone: 4 },
+  ī: { letter: 'i', tone: 1 },
+  í: { letter: 'i', tone: 2 },
+  ǐ: { letter: 'i', tone: 3 },
+  ì: { letter: 'i', tone: 4 },
+  ō: { letter: 'o', tone: 1 },
+  ó: { letter: 'o', tone: 2 },
+  ǒ: { letter: 'o', tone: 3 },
+  ò: { letter: 'o', tone: 4 },
+  ū: { letter: 'u', tone: 1 },
+  ú: { letter: 'u', tone: 2 },
+  ǔ: { letter: 'u', tone: 3 },
+  ù: { letter: 'u', tone: 4 },
+  ǖ: { letter: 'ü', tone: 1 },
+  ǘ: { letter: 'ü', tone: 2 },
+  ǚ: { letter: 'ü', tone: 3 },
+  ǜ: { letter: 'ü', tone: 4 },
+  Ā: { letter: 'A', tone: 1 },
+  Á: { letter: 'A', tone: 2 },
+  Ǎ: { letter: 'A', tone: 3 },
+  À: { letter: 'A', tone: 4 },
+  Ē: { letter: 'E', tone: 1 },
+  É: { letter: 'E', tone: 2 },
+  Ě: { letter: 'E', tone: 3 },
+  È: { letter: 'E', tone: 4 },
+  Ī: { letter: 'I', tone: 1 },
+  Í: { letter: 'I', tone: 2 },
+  Ǐ: { letter: 'I', tone: 3 },
+  Ì: { letter: 'I', tone: 4 },
+  Ō: { letter: 'O', tone: 1 },
+  Ó: { letter: 'O', tone: 2 },
+  Ǒ: { letter: 'O', tone: 3 },
+  Ò: { letter: 'O', tone: 4 },
+  Ū: { letter: 'U', tone: 1 },
+  Ú: { letter: 'U', tone: 2 },
+  Ǔ: { letter: 'U', tone: 3 },
+  Ù: { letter: 'U', tone: 4 },
+  Ǖ: { letter: 'Ü', tone: 1 },
+  Ǘ: { letter: 'Ü', tone: 2 },
+  Ǚ: { letter: 'Ü', tone: 3 },
+  Ǜ: { letter: 'Ü', tone: 4 },
 };
 
 // Extract tone from pinyin and return normalized pinyin + tone number
@@ -69,7 +105,7 @@ async function main() {
   }
 
   const ankiData = fs.readFileSync(ankiFilePath, 'utf-8');
-  const lines = ankiData.split('\n').filter(line => line.trim());
+  const lines = ankiData.split('\n').filter((line) => line.trim());
 
   // Parse the header
   const headers = lines[0].split('\t');
@@ -109,7 +145,7 @@ async function main() {
       tone,
       meaning,
       story,
-      primitives
+      primitives,
     });
   }
 
@@ -148,15 +184,11 @@ async function main() {
 
     const lessonData = {
       lesson: lessonNum,
-      characters: characters
+      characters: characters,
     };
 
     const filename = path.join(dataDir, `lesson${lessonNum}.json`);
-    fs.writeFileSync(
-      filename,
-      JSON.stringify(lessonData, null, 2),
-      'utf-8'
-    );
+    fs.writeFileSync(filename, JSON.stringify(lessonData, null, 2), 'utf-8');
 
     console.log(`✅ Created lesson${lessonNum}.json with ${characters.length} characters`);
   }
@@ -170,12 +202,10 @@ async function main() {
   console.log('📝 Generating lessonLoader.ts...\n');
 
   const imports = lessonNumbers
-    .map(num => `import lesson${num} from './data/lesson${num}.json';`)
+    .map((num) => `import lesson${num} from './data/lesson${num}.json';`)
     .join('\n');
 
-  const mapping = lessonNumbers
-    .map(num => `  ${num}: lesson${num},`)
-    .join('\n');
+  const mapping = lessonNumbers.map((num) => `  ${num}: lesson${num},`).join('\n');
 
   const loaderContent = `${imports}
 
@@ -215,11 +245,7 @@ export function getAllLessonsMetadata() {
 }
 `;
 
-  fs.writeFileSync(
-    path.join(process.cwd(), 'lib', 'lessonLoader.ts'),
-    loaderContent,
-    'utf-8'
-  );
+  fs.writeFileSync(path.join(process.cwd(), 'lib', 'lessonLoader.ts'), loaderContent, 'utf-8');
 
   console.log('✅ Created lib/lessonLoader.ts\n');
 
@@ -229,7 +255,7 @@ export function getAllLessonsMetadata() {
   let hasErrors = false;
   let warningCount = 0;
 
-  lessonNumbers.forEach(num => {
+  lessonNumbers.forEach((num) => {
     const lesson = lessonGroups[num];
     lesson.forEach((char, idx) => {
       if (!char.character) {
@@ -265,15 +291,15 @@ export function getAllLessonsMetadata() {
   const spotCheckLessons = [
     ...lessonNumbers.slice(0, 5),
     ...(lessonNumbers.length > 10 ? ['...'] : []),
-    ...lessonNumbers.slice(-5)
+    ...lessonNumbers.slice(-5),
   ];
 
-  spotCheckLessons.forEach(num => {
+  spotCheckLessons.forEach((num) => {
     if (num === '...') {
       console.log('   ...');
     } else {
       const count = lessonGroups[num].length;
-      const chars = lessonGroups[num].map(c => c.character).join('');
+      const chars = lessonGroups[num].map((c) => c.character).join('');
       console.log(`   Lesson ${num}: ${count} chars - ${chars}`);
     }
   });
@@ -281,7 +307,7 @@ export function getAllLessonsMetadata() {
   console.log('\n✅ Ready to test! Run your game and check the lesson selection page.\n');
 }
 
-main().catch(error => {
+main().catch((error) => {
   console.error('❌ Fatal error:', error);
   process.exit(1);
 });

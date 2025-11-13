@@ -15,7 +15,7 @@ export default function MeaningCard({
   isSelected,
   isMatched,
   isIncorrect,
-  onClick
+  onClick,
 }: MeaningCardProps) {
   let borderClass = 'border-2 border-gray-300';
   let bgClass = 'bg-white hover:bg-gray-50';
@@ -47,9 +47,7 @@ export default function MeaningCard({
         flex flex-col items-center justify-center
       `}
     >
-      <div className="text-2xl font-semibold text-gray-900 mb-2">
-        {character.meaning}
-      </div>
+      <div className="text-2xl font-semibold text-gray-900 mb-2">{character.meaning}</div>
       {isMatched && (
         <div className="mt-2">
           <span className="text-green-600 text-xl">✓</span>

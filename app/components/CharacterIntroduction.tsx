@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect } from 'react';
 import { Character } from '@/lib/types';
 
 interface CharacterIntroductionProps {
@@ -17,36 +17,20 @@ const TONE_COLORS = {
   5: { color: 'text-gray-600', symbol: '·', label: 'neutral tone' },
 };
 
-// Format tone number as ordinal (1 → "1st", 2 → "2nd", etc.)
-function formatToneOrdinal(tone: number): string {
-  if (tone === 5) return ''; // Neutral tone has no number display
-  const ordinals = ['', '1st', '2nd', '3rd', '4th'];
-  return ordinals[tone] || `${tone}th`;
-}
-
 export default function CharacterIntroduction({
   characters,
   lessonNumber,
   onComplete,
 }: CharacterIntroductionProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [isLastCard, setIsLastCard] = useState(false);
 
-  // Derive isLastCard directly instead of using useEffect
-  const isLastCard = currentIndex === characters.length;
-  const currentChar = isLastCard ? null : characters[currentIndex];
-  const progress = isLastCard ? 100 : ((currentIndex + 1) / characters.length) * 100;
-
-  const handleNext = useCallback(() => {
-    if (currentIndex < characters.length) {
-      setCurrentIndex(currentIndex + 1);
-    }
+  useEffect(() => {
+    setIsLastCard(currentIndex === characters.length);
   }, [currentIndex, characters.length]);
 
-  const handlePrevious = useCallback(() => {
-    if (currentIndex > 0) {
-      setCurrentIndex(currentIndex - 1);
-    }
-  }, [currentIndex]);
+  const currentChar = isLastCard ? null : characters[currentIndex];
+  const progress = isLastCard ? 100 : ((currentIndex + 1) / characters.length) * 100;
 
   useEffect(() => {
     const handleKeyboard = (e: KeyboardEvent) => {
@@ -57,7 +41,19 @@ export default function CharacterIntroduction({
 
     window.addEventListener('keydown', handleKeyboard);
     return () => window.removeEventListener('keydown', handleKeyboard);
-  }, [handleNext, handlePrevious, isLastCard, onComplete]);
+  }, [currentIndex, isLastCard]);
+
+  const handleNext = () => {
+    if (currentIndex < characters.length) {
+      setCurrentIndex(currentIndex + 1);
+    }
+  };
+
+  const handlePrevious = () => {
+    if (currentIndex > 0) {
+      setCurrentIndex(currentIndex - 1);
+    }
+  };
 
   const getToneInfo = (tone: number) => {
     return TONE_COLORS[tone as keyof typeof TONE_COLORS] || TONE_COLORS[5];
@@ -82,13 +78,13 @@ export default function CharacterIntroduction({
           <div className="text-center mb-8">
             <div className="text-6xl mb-4">🎓</div>
             <h3 className="text-xl font-semibold text-gray-700 mb-4">
-              You&apos;ve learned all {characters.length} characters!
+              You've learned all {characters.length} characters!
             </h3>
           </div>
 
           {/* Summary List */}
           <div className="mb-8">
-            <p className="text-gray-600 font-medium mb-3">You&apos;ve seen:</p>
+            <p className="text-gray-600 font-medium mb-3">You've seen:</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
               {characters.map((char) => (
                 <div key={char.id} className="flex items-center gap-3 p-2 bg-gray-50 rounded">
@@ -161,7 +157,8 @@ export default function CharacterIntroduction({
           <div className="text-3xl text-gray-700 mb-2">({currentChar.pinyin})</div>
 
           <div className={`text-xl font-semibold ${toneInfo.color} mb-1`}>
-            Tone: {toneInfo.symbol} {formatToneOrdinal(currentChar.tone)}
+            Tone: {toneInfo.symbol} {currentChar.tone}
+            {currentChar.tone === 5 ? '' : 'th'}
           </div>
 
           <div className="text-sm text-gray-500 mb-4">{toneInfo.label}</div>

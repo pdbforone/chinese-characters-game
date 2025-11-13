@@ -19,7 +19,7 @@ export default function CharacterCard({
   isIncorrect,
   onClick,
   showPinyin = true,
-  showMeaning = true
+  showMeaning = true,
 }: CharacterCardProps) {
   let borderClass = 'border-2 border-gray-300';
   let bgClass = 'bg-white hover:bg-gray-50';
@@ -51,17 +51,11 @@ export default function CharacterCard({
         flex flex-col items-center justify-center
       `}
     >
-      <div className="text-6xl mb-2 font-serif text-gray-900">
-        {character.character}
-      </div>
+      <div className="text-6xl mb-2 font-serif text-gray-900">{character.character}</div>
       {(showPinyin || showMeaning) && (
         <div className="text-sm text-center">
-          {showPinyin && (
-            <div className="font-medium text-gray-700">{character.pinyin}</div>
-          )}
-          {showMeaning && (
-            <div className="text-gray-600">{character.meaning}</div>
-          )}
+          {showPinyin && <div className="font-medium text-gray-700">{character.pinyin}</div>}
+          {showMeaning && <div className="text-gray-600">{character.meaning}</div>}
         </div>
       )}
       {isMatched && (

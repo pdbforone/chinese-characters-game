@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import MultiRoundGame from '@/app/components/MultiRoundGame';
 import CharacterIntroduction from '@/app/components/CharacterIntroduction';
@@ -15,17 +15,30 @@ export default function LessonPage() {
   const router = useRouter();
   const lessonId = parseInt(params.id as string);
 
-  // Load lesson data dynamically
   const lessonData = getLessonData(lessonId);
 
-  // Load progress using useState with lazy initializer (no useEffect needed)
-  const [progress, setProgress] = useState(() => getLessonProgress(lessonId));
-  const [phase, setPhase] = useState<Phase>(() =>
-    progress.introductionCompleted ? 'modal' : 'introduction'
-  );
+  const [phase, setPhase] = useState<Phase>('loading');
+  const [progress, setProgress] = useState({
+    introductionCompleted: false,
+    gamesPlayed: 0,
+    bestScore: 0,
+    bestAccuracy: 0,
+  });
 
-  // Note: When lessonId changes in the URL, the entire page component remounts
-  // due to Next.js dynamic routing, so we don't need useEffect to handle that
+  useEffect(() => {
+    // Load progress from localStorage
+    const savedProgress = getLessonProgress(lessonId);
+    setProgress(savedProgress);
+
+    // Determine which phase to show
+    if (!savedProgress.introductionCompleted) {
+      // First time - go straight to introduction
+      setPhase('introduction');
+    } else {
+      // Returning user - show modal
+      setPhase('modal');
+    }
+  }, [lessonId]);
 
   const handleIntroductionComplete = () => {
     markIntroductionComplete(lessonId);

@@ -22,11 +22,13 @@ Traditional Chinese character learning often relies on rote memorization—traci
 ## ✨ Features
 
 ### 📚 Complete RTH Curriculum
+
 - **112 lessons** covering the full traditional Chinese character set
 - **3,035 characters** with pronunciation, meaning, stories, and visual primitives
 - Characters organized by learning progression (simple → complex)
 
 ### 🎮 4-Round Learning System
+
 1. **Round 1: Story → Character** — Match mnemonic stories to characters (with hints)
 2. **Round 2: Character → Story** — Match characters to stories (pinyin only)
 3. **Round 3: Meaning → Character** — Match English meanings to characters (no hints)
@@ -35,18 +37,21 @@ Traditional Chinese character learning often relies on rote memorization—traci
 Each round increases cognitive difficulty, mirroring how memory moves from recognition → recall → mastery.
 
 ### 🧠 Study Phase
+
 - **Interactive character cards** with large, clear typography
 - **Tone visualization** with color coding and arrow symbols (→ ↗ ↘↗ ↘)
 - **Primitive/radical breakdown** to understand character structure
 - **Keyboard navigation** (arrow keys) for fluid learning
 
 ### 📊 Progress Tracking
+
 - **Per-lesson statistics**: Games played, best accuracy, best score
 - **Star ratings** based on performance (1-5 stars)
 - **Returning user modal** showing your progress and offering choice: Review or Play
 - **All data stored locally** (localStorage) — no server, no sync, no privacy concerns
 
 ### 🎵 Audio Feedback
+
 - **Correct match**: Pleasant ascending tone (800 → 1000 Hz)
 - **Incorrect match**: Gentle error buzz (200 Hz)
 - **Page complete**: Ascending arpeggio (C-E-G)
@@ -54,11 +59,13 @@ Each round increases cognitive difficulty, mirroring how memory moves from recog
 - **Mutable toggle** with persistence (localStorage)
 
 ### ♿ Accessibility
+
 - **Keyboard navigation**: Arrow keys, Enter, Tab, Escape
 - **High contrast UI**: WCAG AA compliant
 - **Graceful degradation**: Works without sound, JavaScript-first with progressive enhancement
 
 ### 🚀 Performance
+
 - **Static site generation**: Instant page loads
 - **Offline-capable**: All lesson data bundled at build time
 - **No external dependencies** for core functionality (no CDNs, no tracking scripts)
@@ -187,7 +194,7 @@ chinese-characters-game/
    - Write tests for new features
    - Ensure accessibility (keyboard nav, ARIA labels)
 5. **Submit a PR**:
-   - Describe *why* the change is needed
+   - Describe _why_ the change is needed
    - Reference any related issues
    - Ensure all tests pass
 
@@ -198,6 +205,7 @@ chinese-characters-game/
 We're building a comprehensive test suite to ensure quality:
 
 ### Test Coverage Goals
+
 - **Unit tests**: 80%+ coverage (pure functions, utilities)
 - **Component tests**: All interactive components tested
 - **E2E tests**: Critical user journeys validated
@@ -223,6 +231,7 @@ npm run test:coverage
 ## 🛣️ Roadmap
 
 ### Phase 1: Foundation (Current)
+
 - [x] Core learning flow (introduction → 4 rounds)
 - [x] Complete lesson data (112 lessons, 3,035 characters)
 - [x] localStorage progress tracking
@@ -235,6 +244,7 @@ npm run test:coverage
 - [ ] CI/CD pipeline (GitHub Actions)
 
 ### Phase 2: Polish
+
 - [ ] Enhanced accessibility (ARIA live regions, screen reader optimization)
 - [ ] React Error Boundaries for graceful error handling
 - [ ] Performance optimization (lazy-load lessons, code splitting)
@@ -242,6 +252,7 @@ npm run test:coverage
 - [ ] Data validation script (ensure all 3,035 characters are complete)
 
 ### Phase 3: Enhancement
+
 - [ ] Spaced repetition scheduling (remind users to review weak characters)
 - [ ] Achievement system (badges, milestones, streaks)
 - [ ] Character filtering by primitive/radical
@@ -250,6 +261,7 @@ npm run test:coverage
 - [ ] Difficulty customization (2-round mode, 6-round mode)
 
 ### Phase 4: Scale
+
 - [ ] PWA (Progressive Web App) support for offline + installable
 - [ ] Optional cloud sync (cross-device progress)
 - [ ] Learning analytics dashboard (identify weak characters)
@@ -262,6 +274,7 @@ npm run test:coverage
 ## 🤝 Contributing
 
 We welcome contributions! Whether you're:
+
 - Fixing a typo in lesson data
 - Adding a new feature
 - Improving accessibility
@@ -276,7 +289,7 @@ We welcome contributions! Whether you're:
 2. **Read [CLAUDE.md](./CLAUDE.md)**: Understand the philosophy
 3. **Fork and branch**: Create a feature branch from `main`
 4. **Write tests**: Cover new functionality
-5. **Document decisions**: Explain *why* in comments/commits
+5. **Document decisions**: Explain _why_ in comments/commits
 6. **Submit a PR**: Link to the issue, describe changes clearly
 
 ### Code Standards
@@ -300,11 +313,13 @@ We welcome contributions! Whether you're:
 ## 🙏 Acknowledgments
 
 ### Remember These Hanzi (RTH)
+
 This application implements the pedagogical methodology developed by the RTH community. The mnemonic stories and character data are derived from the RTH system, which has helped thousands of learners master Chinese characters through story-based memory encoding.
 
 **Learn more**: [Remember These Hanzi](https://www.youtube.com/watch?v=troxvPRmZm8) (methodology overview)
 
 ### Built With
+
 - [Next.js](https://nextjs.org/) — The React framework for production
 - [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
 - [TypeScript](https://www.typescriptlang.org/) — Type safety for JavaScript
@@ -341,4 +356,4 @@ If this project helped you learn Chinese characters, consider starring the repo!
 
 **Built with care. Designed for learning. Optimized for memory.**
 
-*让学习变得简单而有趣 (Make learning simple and joyful)*
+_让学习变得简单而有趣 (Make learning simple and joyful)_

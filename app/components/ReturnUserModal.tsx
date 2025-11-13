@@ -11,7 +11,7 @@ interface ReturnUserModalProps {
 
 export default function ReturnUserModal({
   lessonNumber,
-  bestScore: _bestScore,  
+  bestScore,
   bestAccuracy,
   gamesPlayed,
   onReview,

@@ -15,7 +15,7 @@ export default function PinyinCard({
   isSelected,
   isMatched,
   isIncorrect,
-  onClick
+  onClick,
 }: PinyinCardProps) {
   let borderClass = 'border-2 border-gray-300';
   let bgClass = 'bg-white hover:bg-gray-50';
@@ -47,9 +47,7 @@ export default function PinyinCard({
         flex flex-col items-center justify-center
       `}
     >
-      <div className="text-4xl font-semibold text-gray-900 mb-2">
-        {character.pinyin}
-      </div>
+      <div className="text-4xl font-semibold text-gray-900 mb-2">{character.pinyin}</div>
       {isMatched && (
         <div className="mt-2">
           <span className="text-green-600 text-xl">✓</span>

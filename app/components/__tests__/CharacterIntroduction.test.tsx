@@ -29,11 +29,7 @@ describe('CharacterIntroduction', () => {
   it('renders the first character correctly', () => {
     const onComplete = vi.fn();
     render(
-      <CharacterIntroduction
-        characters={mockCharacters}
-        lessonNumber={1}
-        onComplete={onComplete}
-      />
+      <CharacterIntroduction characters={mockCharacters} lessonNumber={1} onComplete={onComplete} />
     );
 
     // Check that the character is displayed (will appear in main display and primitives)
@@ -53,11 +49,7 @@ describe('CharacterIntroduction', () => {
   it('displays tone ordinals correctly', () => {
     const onComplete = vi.fn();
     render(
-      <CharacterIntroduction
-        characters={mockCharacters}
-        lessonNumber={1}
-        onComplete={onComplete}
-      />
+      <CharacterIntroduction characters={mockCharacters} lessonNumber={1} onComplete={onComplete} />
     );
 
     // Should show "4th" for tone 4 (appears in tone display and label)
@@ -68,11 +60,7 @@ describe('CharacterIntroduction', () => {
   it('shows progress indicator', () => {
     const onComplete = vi.fn();
     render(
-      <CharacterIntroduction
-        characters={mockCharacters}
-        lessonNumber={1}
-        onComplete={onComplete}
-      />
+      <CharacterIntroduction characters={mockCharacters} lessonNumber={1} onComplete={onComplete} />
     );
 
     // Check progress text
@@ -82,11 +70,7 @@ describe('CharacterIntroduction', () => {
   it('displays lesson number in header', () => {
     const onComplete = vi.fn();
     render(
-      <CharacterIntroduction
-        characters={mockCharacters}
-        lessonNumber={1}
-        onComplete={onComplete}
-      />
+      <CharacterIntroduction characters={mockCharacters} lessonNumber={1} onComplete={onComplete} />
     );
 
     expect(screen.getByText(/RTH Lesson 1/i)).toBeInTheDocument();
@@ -95,11 +79,7 @@ describe('CharacterIntroduction', () => {
   it('renders navigation buttons', () => {
     const onComplete = vi.fn();
     render(
-      <CharacterIntroduction
-        characters={mockCharacters}
-        lessonNumber={1}
-        onComplete={onComplete}
-      />
+      <CharacterIntroduction characters={mockCharacters} lessonNumber={1} onComplete={onComplete} />
     );
 
     // Previous button should be disabled on first character
@@ -114,11 +94,7 @@ describe('CharacterIntroduction', () => {
   it('shows skip to game option', () => {
     const onComplete = vi.fn();
     render(
-      <CharacterIntroduction
-        characters={mockCharacters}
-        lessonNumber={1}
-        onComplete={onComplete}
-      />
+      <CharacterIntroduction characters={mockCharacters} lessonNumber={1} onComplete={onComplete} />
     );
 
     expect(screen.getByText(/Skip to Matching Game/i)).toBeInTheDocument();

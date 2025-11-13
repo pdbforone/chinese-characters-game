@@ -1,6 +1,6 @@
 # CLAUDE.md — The Foundation of Excellence
 
-> *"Elegance is achieved not when there's nothing left to add, but when there's nothing left to take away."*
+> _"Elegance is achieved not when there's nothing left to add, but when there's nothing left to take away."_
 > — Antoine de Saint-Exupéry
 
 This document is the **philosophical foundation** of the Chinese Characters Learning Game. It articulates the vision, principles, and patterns that guide every line of code. If you're building on this project—whether human or AI—read this first.
@@ -36,11 +36,12 @@ We implement the **Remember These Hanzi (RTH)** methodology, which recognizes th
 
 ### Why This Matters
 
-Learning Chinese characters is often taught as rote memorization. Students trace shapes thousands of times without understanding *why* a character means what it means.
+Learning Chinese characters is often taught as rote memorization. Students trace shapes thousands of times without understanding _why_ a character means what it means.
 
 The RTH method transforms this:
+
 - **From:** "This shape means 'tree' because I memorized it"
-- **To:** "This shape means 'tree' because it *looks* like a tree, and the story connects it to the sound 'mù'"
+- **To:** "This shape means 'tree' because it _looks_ like a tree, and the story connects it to the sound 'mù'"
 
 We're not building software to replace teachers. We're building software to **amplify human memory** through thoughtful pedagogy.
 
@@ -92,9 +93,9 @@ Errors should never break the learning experience.
 
 ### 6. **Code as Craft**
 
-Every function, every component, every abstraction should feel *inevitable*.
+Every function, every component, every abstraction should feel _inevitable_.
 
-- **Naming is precise:** `getToneInfo()` not `processTone()` — names describe *what*, not *how*
+- **Naming is precise:** `getToneInfo()` not `processTone()` — names describe _what_, not _how_
 - **No magic numbers:** `const ACCURACY_THRESHOLD = 0.7` not `if (score > 0.7)`
 - **Single Responsibility:** Components do one thing exceptionally well
 
@@ -143,7 +144,7 @@ We chose **Tailwind CSS** because:
 2. **Consistency:** Design tokens (colors, spacing) enforced through config
 3. **Performance:** PurgeCSS removes unused styles automatically
 4. **Responsive by default:** Mobile-first breakpoints (`md:`, `lg:`) are standard
-5. **Readability:** Class names describe *what* they do (`text-center`, `flex`, `gap-4`)
+5. **Readability:** Class names describe _what_ they do (`text-center`, `flex`, `gap-4`)
 
 ---
 
@@ -154,24 +155,28 @@ We chose **Tailwind CSS** because:
 This is the **heart** of the application. The sequence is carefully designed to match how memory works:
 
 #### **Round 1: Story → Character** (Recognition + Full Context)
+
 - **Left side:** Mnemonic stories
 - **Right side:** Characters with pinyin + meaning hints
 - **Cognitive load:** Low (all information visible)
 - **Goal:** Build initial associations between story and visual form
 
 #### **Round 2: Character → Story** (Recall + Partial Context)
+
 - **Left side:** Characters with pinyin only
 - **Right side:** Scrambled stories
 - **Cognitive load:** Medium (must recall meaning from pinyin)
 - **Goal:** Test if learner can recognize character and remember its story
 
 #### **Round 3: Meaning → Character** (Pure Visual Recall)
+
 - **Left side:** English meanings
 - **Right side:** Characters (no hints)
 - **Cognitive load:** High (must produce visual form from meaning)
 - **Goal:** Test if learner can map meaning → character without scaffolding
 
 #### **Round 4: Character → Pinyin** (Pronunciation Mastery)
+
 - **Left side:** Characters
 - **Right side:** Pinyin romanization
 - **Cognitive load:** High (must recall pronunciation)
@@ -180,11 +185,13 @@ This is the **heart** of the application. The sequence is carefully designed to 
 ### Why 70% Accuracy?
 
 Research on mastery learning suggests:
+
 - **<60%:** Not enough retention—learner is guessing
 - **70-80%:** Sweet spot—learner has partial mastery, ready for next challenge
 - **>90%:** May be over-rehearsed—learner could advance sooner
 
 We chose **70%** as the threshold to balance:
+
 - **Confidence:** Learner feels successful (not frustrated)
 - **Challenge:** Still room to improve (not bored)
 - **Efficiency:** Don't over-drill what's already learned
@@ -192,11 +199,13 @@ We chose **70%** as the threshold to balance:
 ### Why 4 Characters Per Page?
 
 Cognitive psychology research (Miller's Law, Cowan's research) shows:
+
 - **Working memory capacity:** ~3-5 items
 - **Chunking:** Breaking content into small groups improves retention
 - **Fatigue prevention:** Small pages = frequent wins = sustained motivation
 
 **4 characters per page** balances:
+
 - **Cognitive load:** Manageable for beginners
 - **Progress visibility:** Frequent page transitions = sense of momentum
 - **Engagement:** Short feedback loops keep users in flow state
@@ -234,6 +243,7 @@ Cognitive psychology research (Miller's Law, Cowan's research) shows:
 ### TypeScript Conventions
 
 1. **Interfaces over Types** (for data models)
+
    ```typescript
    // ✅ Good
    export interface Character {
@@ -250,10 +260,11 @@ Cognitive psychology research (Miller's Law, Cowan's research) shows:
    export type Character = {
      id: number;
      // ...
-   }
+   };
    ```
 
 2. **Explicit return types on exported functions**
+
    ```typescript
    // ✅ Good
    export function getLessonProgress(lessonId: number): LessonProgress {
@@ -282,11 +293,14 @@ Cognitive psychology research (Miller's Law, Cowan's research) shows:
    - Keep Server Components for static content (lesson lists, character display)
 
 2. **Hooks at the top level**
+
    ```typescript
    // ✅ Good
    export default function GameBoard() {
      const [state, setState] = useState(initialState);
-     useEffect(() => { /* ... */ }, [deps]);
+     useEffect(() => {
+       /* ... */
+     }, [deps]);
      // ...
    }
    ```
@@ -337,12 +351,14 @@ Cognitive psychology research (Miller's Law, Cowan's research) shows:
 ### What to Test
 
 **DO test:**
+
 - ✅ User-facing behavior (clicks, navigation, feedback)
 - ✅ Edge cases (0 characters, invalid lesson IDs, localStorage failures)
 - ✅ Accessibility (keyboard navigation, ARIA labels, focus management)
 - ✅ Data integrity (all 3,035 characters have required fields)
 
 **DON'T test:**
+
 - ❌ Implementation details (state variable names, internal functions)
 - ❌ Framework behavior (React rendering, Next.js routing)
 - ❌ Third-party libraries (Tailwind CSS classes)
@@ -350,6 +366,7 @@ Cognitive psychology research (Miller's Law, Cowan's research) shows:
 ### Quality Gates
 
 Every commit must pass:
+
 1. **TypeScript compilation** (`npm run build`)
 2. **ESLint** (no errors, warnings allowed)
 3. **Prettier** (auto-format on commit)
@@ -371,12 +388,14 @@ Every commit must pass:
 ### Keyboard Navigation
 
 **Every interactive element must be keyboard-accessible:**
+
 - **Arrow keys:** Navigate character cards, game selections
 - **Enter:** Confirm selection, advance to next screen
 - **Escape:** Cancel modal, return to previous screen
 - **Tab:** Focus next interactive element
 
 **Implementation:**
+
 ```typescript
 useEffect(() => {
   const handleKeyboard = (e: KeyboardEvent) => {
@@ -393,6 +412,7 @@ useEffect(() => {
 ### Screen Reader Support
 
 **Use semantic HTML and ARIA labels:**
+
 ```tsx
 <button
   aria-label="Match story to character 木 (mù)"
@@ -409,16 +429,19 @@ useEffect(() => {
 ### Color Contrast
 
 **All text must meet WCAG AA standards:**
+
 - **Large text (≥18pt):** 3:1 contrast ratio
 - **Normal text:** 4.5:1 contrast ratio
 
 **Use Tailwind's color system for consistency:**
+
 - `text-gray-800` on `bg-white` ✅
 - `text-blue-400` on `bg-blue-500` ❌
 
 ### Sound as Enhancement, Not Requirement
 
 **Sound should enrich but not block:**
+
 - Visual feedback (green highlight, red shake) always present
 - Sound effects complement but don't replace visual cues
 - Sound toggle persists in localStorage
@@ -432,27 +455,33 @@ useEffect(() => {
 **Current:** ~2MB (all 112 lessons bundled)
 
 **Future optimization:**
+
 - Lazy-load lessons on demand: `const lesson = await import(`@/lib/data/lesson${id}.json`)`
 - Target: <500KB initial bundle, <50KB per lesson
 
 ### Rendering Performance
 
 **Guidelines:**
+
 1. **Memoize expensive calculations:**
+
    ```typescript
    const shuffledCards = useMemo(() => shuffle(cards), [cards]);
    ```
 
 2. **Avoid unnecessary re-renders:**
+
    ```typescript
-   const handleClick = useCallback(() => { /* ... */ }, [deps]);
+   const handleClick = useCallback(() => {
+     /* ... */
+   }, [deps]);
    ```
 
 3. **Use keys for list items:**
    ```tsx
-   {characters.map(char => (
-     <CharacterCard key={char.id} character={char} />
-   ))}
+   {
+     characters.map((char) => <CharacterCard key={char.id} character={char} />);
+   }
    ```
 
 ### Lighthouse Scores (Target)
@@ -485,6 +514,7 @@ Every character in `lib/data/lesson*.json` must have:
 ### Data Validation (Future)
 
 Create `scripts/validate-lessons.ts` to check:
+
 - ✅ All 112 lessons present
 - ✅ All characters have non-empty fields
 - ✅ All tone values in range 1-5
@@ -500,6 +530,7 @@ If you're an AI assistant working on this codebase, follow these principles:
 ### 1. **Read Before Writing**
 
 Always read existing code before making changes. Understand:
+
 - What patterns already exist?
 - Why was it done this way?
 - What might break if I change this?
@@ -507,6 +538,7 @@ Always read existing code before making changes. Understand:
 ### 2. **Honor the Pedagogy**
 
 The 4-round progression is foundational. Changes to game mechanics must:
+
 - Preserve the pedagogical intent
 - Be backed by learning science research
 - Be tested with real users
@@ -514,6 +546,7 @@ The 4-round progression is foundational. Changes to game mechanics must:
 ### 3. **Test Everything**
 
 Never commit code without tests. For every feature:
+
 1. Write the test first (TDD)
 2. Implement the feature
 3. Verify the test passes
@@ -521,7 +554,8 @@ Never commit code without tests. For every feature:
 
 ### 4. **Document Decisions**
 
-When making non-obvious choices, document *why*:
+When making non-obvious choices, document _why_:
+
 ```typescript
 // We use 70% accuracy threshold based on mastery learning research
 // (Bloom, 1968; Guskey, 2010). Lower thresholds lead to frustration,
@@ -532,6 +566,7 @@ const ACCURACY_THRESHOLD = 0.7;
 ### 5. **Preserve Simplicity**
 
 Before adding a dependency, ask:
+
 - Can we build this in 50 lines ourselves?
 - Will this dependency still be maintained in 2 years?
 - Does it align with our principles (privacy, offline-first)?
@@ -539,12 +574,14 @@ Before adding a dependency, ask:
 ### 6. **Ask When Uncertain**
 
 When facing multiple valid approaches, ask the user:
+
 - "Should we optimize for bundle size or developer experience?"
 - "Should we add analytics or stay privacy-first?"
 
 ### 7. **Think in Systems**
 
 A change to `GameBoard.tsx` might affect:
+
 - `MultiRoundGame.tsx` (parent component)
 - `storage.ts` (progress tracking)
 - Tests in `GameBoard.test.tsx`
@@ -560,6 +597,7 @@ This codebase is **not just functional code**—it's a **pedagogical artifact**.
 Every component, every function, every line exists to serve a single purpose: **help learners remember Chinese characters through story-based memory encoding**.
 
 When you build on this project, ask yourself:
+
 - Does this change make learning easier?
 - Does this honor the user's privacy and trust?
 - Does this code feel inevitable—like it couldn't be written any other way?
@@ -576,4 +614,4 @@ If no, step back and reconsider.
 
 ---
 
-*This document is a living artifact. As the project evolves, so should this philosophy. Keep it current. Keep it true.*
+_This document is a living artifact. As the project evolves, so should this philosophy. Keep it current. Keep it true._

@@ -15,7 +15,7 @@ export default function StoryCard({
   isSelected,
   isMatched,
   isIncorrect,
-  onClick
+  onClick,
 }: StoryCardProps) {
   let borderClass = 'border-2 border-gray-300';
   let bgClass = 'bg-white hover:bg-gray-50';
@@ -47,9 +47,7 @@ export default function StoryCard({
         flex flex-col justify-center
       `}
     >
-      <p className="text-gray-800 text-sm leading-relaxed">
-        {character.story}
-      </p>
+      <p className="text-gray-800 text-sm leading-relaxed">{character.story}</p>
       {isMatched && (
         <div className="mt-2 flex justify-end">
           <span className="text-green-600 text-xl">✓</span>

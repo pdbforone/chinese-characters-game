@@ -8,9 +8,7 @@
       "tone": 1,
       "meaning": "one",
       "story": "A single happy line sings \"Yeeee!\" at number one!",
-      "primitives": [
-        "horizontal line"
-      ]
+      "primitives": ["horizontal line"]
     },
     {
       "id": 2,
@@ -19,9 +17,7 @@
       "tone": 4,
       "meaning": "two",
       "story": "Two angry lines yell \"ERR!\" when you make a mistake!",
-      "primitives": [
-        "horizontal line"
-      ]
+      "primitives": ["horizontal line"]
     },
     {
       "id": 3,
@@ -30,9 +26,7 @@
       "tone": 1,
       "meaning": "three",
       "story": "Three cheerful lines sing \"Saaaan-shine\" together!",
-      "primitives": [
-        "horizontal line"
-      ]
+      "primitives": ["horizontal line"]
     },
     {
       "id": 4,
@@ -41,10 +35,7 @@
       "tone": 4,
       "meaning": "four",
       "story": "Inside the box, your four items command \"See this!\" sharply!",
-      "primitives": [
-        "box",
-        "items"
-      ]
+      "primitives": ["box", "items"]
     },
     {
       "id": 5,
@@ -53,9 +44,7 @@
       "tone": 3,
       "meaning": "five",
       "story": "Five fingers bend down drooping as you say \"Woo\" sadly!",
-      "primitives": [
-        "fingers"
-      ]
+      "primitives": ["fingers"]
     },
     {
       "id": 6,
@@ -64,10 +53,7 @@
       "tone": 4,
       "meaning": "six",
       "story": "A lid over eight yells \"Leo!\" for six sharp reasons!",
-      "primitives": [
-        "lid",
-        "eight"
-      ]
+      "primitives": ["lid", "eight"]
     },
     {
       "id": 7,
@@ -76,9 +62,7 @@
       "tone": 1,
       "meaning": "seven",
       "story": "Seven slashes happily high in the sky, singing \"Chee!\"",
-      "primitives": [
-        "slash"
-      ]
+      "primitives": ["slash"]
     },
     {
       "id": 8,
@@ -87,9 +71,7 @@
       "tone": 1,
       "meaning": "eight",
       "story": "Eight paths split cheerfully as you sing \"Baaaa!\"",
-      "primitives": [
-        "split paths"
-      ]
+      "primitives": ["split paths"]
     },
     {
       "id": 9,
@@ -98,9 +80,7 @@
       "tone": 3,
       "meaning": "nine",
       "story": "Nine hooks bend and dip down, curving like \"Jiu\" bends!",
-      "primitives": [
-        "hook"
-      ]
+      "primitives": ["hook"]
     },
     {
       "id": 10,
@@ -109,9 +89,7 @@
       "tone": 2,
       "meaning": "ten",
       "story": "A cross at ten keeps asking \"Shi? Why ten?\" curiously!",
-      "primitives": [
-        "cross"
-      ]
+      "primitives": ["cross"]
     },
     {
       "id": 11,
@@ -120,9 +98,7 @@
       "tone": 3,
       "meaning": "Mouth",
       "story": "Your mouth bends down drooping when you say \"Ko\" with a frown!",
-      "primitives": [
-        "mouth"
-      ]
+      "primitives": ["mouth"]
     },
     {
       "id": 12,
@@ -131,9 +107,7 @@
       "tone": 4,
       "meaning": "Day",
       "story": "The sun yells \"REE!\" sharply to wake you each day!",
-      "primitives": [
-        "sun"
-      ]
+      "primitives": ["sun"]
     },
     {
       "id": 13,
@@ -142,9 +116,7 @@
       "tone": 4,
       "meaning": "Month",
       "story": "The moon commands \"Yue!\" sharply each month it appears!",
-      "primitives": [
-        "moon"
-      ]
+      "primitives": ["moon"]
     },
     {
       "id": 14,
@@ -153,9 +125,7 @@
       "tone": 2,
       "meaning": "Rice Field",
       "story": "In the rice field, farmers ask \"Tian? Why so muddy?\" curiously!",
-      "primitives": [
-        "rice field"
-      ]
+      "primitives": ["rice field"]
     },
     {
       "id": 15,
@@ -164,9 +134,7 @@
       "tone": 4,
       "meaning": "Eye",
       "story": "Your eye angrily yells \"MOO!\" when dust gets in it!",
-      "primitives": [
-        "eye"
-      ]
+      "primitives": ["eye"]
     }
   ]
 }
