@@ -17,6 +17,13 @@ const TONE_COLORS = {
   5: { color: 'text-gray-600', symbol: '·', label: 'neutral tone' },
 };
 
+// Format tone number as ordinal (1 → "1st", 2 → "2nd", etc.)
+function formatToneOrdinal(tone: number): string {
+  if (tone === 5) return ''; // Neutral tone has no number display
+  const ordinals = ['', '1st', '2nd', '3rd', '4th'];
+  return ordinals[tone] || `${tone}th`;
+}
+
 export default function CharacterIntroduction({
   characters,
   lessonNumber,
@@ -168,8 +175,7 @@ export default function CharacterIntroduction({
           </div>
 
           <div className={`text-xl font-semibold ${toneInfo.color} mb-1`}>
-            Tone: {toneInfo.symbol} {currentChar.tone}
-            {currentChar.tone === 5 ? '' : 'th'}
+            Tone: {toneInfo.symbol} {formatToneOrdinal(currentChar.tone)}
           </div>
 
           <div className="text-sm text-gray-500 mb-4">

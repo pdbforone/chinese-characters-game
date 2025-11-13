@@ -1,0 +1,35 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# Build output
+.next
+out
+dist
+build
+
+# Test coverage
+coverage
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# Lesson data (large JSON files, may have specific formatting)
+lib/data/lesson*.json
+
+# Config files with specific formatting
+tsconfig.json
+next.config.js
+tailwind.config.ts
+
+# Git
+.git
+
+# Playwright
+playwright-report
+test-results
