@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { Character, GameStats, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
+import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
 import StoryCard from './StoryCard';
 import CharacterCard from './CharacterCard';
 import PinyinCard from './PinyinCard';
@@ -74,6 +75,8 @@ export default function GameBoard({
 
     if (leftId === rightId) {
       // Correct match!
+      playCorrectSound();
+
       const newMatched = new Set(matched);
       newMatched.add(leftId);
       setMatched(newMatched);
@@ -104,6 +107,8 @@ export default function GameBoard({
       }
     } else {
       // Incorrect match
+      playIncorrectSound();
+
       setIncorrect(rightId);
       setGameStats({
         ...gameStats,

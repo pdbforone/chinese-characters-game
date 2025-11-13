@@ -3,7 +3,9 @@
 import { useState, useEffect } from 'react';
 import { Character, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
+import { playRoundCompleteSound, playLevelUnlockSound } from '@/lib/sounds';
 import GameBoard from './GameBoard';
+import SoundToggle from './SoundToggle';
 
 interface MultiRoundGameProps {
   characters: Character[];
@@ -38,6 +40,9 @@ export default function MultiRoundGame({
     const newScores = [...roundScores, { accuracy, score }];
     setRoundScores(newScores);
 
+    // Play round complete sound
+    playRoundCompleteSound();
+
     // Check if all rounds are complete
     if (currentRound + 1 >= totalRounds) {
       // All rounds done for this mode
@@ -59,12 +64,14 @@ export default function MultiRoundGame({
     // Check if we should advance to next difficulty
     if (gameMode === 'story-to-character' && avgAccuracy >= 70) {
       // Advance to character-to-story mode
+      playLevelUnlockSound();
       setGameMode('character-to-story');
       setCurrentRound(0);
       setRoundScores([]);
       setShowRoundTransition(true);
     } else if (gameMode === 'character-to-story' && avgAccuracy >= 70) {
       // Advance to character-to-pinyin mode
+      playLevelUnlockSound();
       setGameMode('character-to-pinyin');
       setCurrentRound(0);
       setRoundScores([]);
@@ -187,14 +194,17 @@ export default function MultiRoundGame({
         >
           ← Back to Lessons
         </button>
-        {onReview && (
-          <button
-            onClick={onReview}
-            className="text-amber-600 hover:text-amber-800 font-medium flex items-center gap-2"
-          >
-            📖 Review Characters
-          </button>
-        )}
+        <div className="flex items-center gap-4">
+          <SoundToggle />
+          {onReview && (
+            <button
+              onClick={onReview}
+              className="text-amber-600 hover:text-amber-800 font-medium flex items-center gap-2"
+            >
+              📖 Review Characters
+            </button>
+          )}
+        </div>
       </div>
 
       <GameBoard
