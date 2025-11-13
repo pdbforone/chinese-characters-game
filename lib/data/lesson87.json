@@ -4,7 +4,7 @@
     {
       "id": 2203,
       "character": "歪",
-      "pinyin": "wai",
+      "pinyin": "wāi",
       "tone": 1,
       "meaning": "askew",
       "story": "Askew not correct sings \"Wigh!\" cheerfully - crooked tilted uneven!",
@@ -13,7 +13,7 @@
     {
       "id": 2204,
       "character": "矯",
-      "pinyin": "jiao",
+      "pinyin": "jiǎo",
       "tone": 3,
       "meaning": "rectify",
       "story": "Rectify dart angel bends down drooping \"Jyao\" - correct pretentious!",
@@ -22,7 +22,7 @@
     {
       "id": 2205,
       "character": "矮",
-      "pinyin": "ai",
+      "pinyin": "ǎi",
       "tone": 3,
       "meaning": "short of stature",
       "story": "Short of stature dart committee bends down drooping \"Igh\" - low not confident!",
@@ -31,7 +31,7 @@
     {
       "id": 2206,
       "character": "唉",
-      "pinyin": "ai",
+      "pinyin": "āi",
       "tone": 1,
       "meaning": "sigh--ay-ay",
       "story": "Sigh ay-ay mouth crossbow sings \"Igh!\" cheerfully - regretful exclamation!",
@@ -40,7 +40,7 @@
     {
       "id": 2207,
       "character": "埃",
-      "pinyin": "ai",
+      "pinyin": "āi",
       "tone": 1,
       "meaning": "fine dust",
       "story": "Fine dust soil crossbow sings \"Igh!\" cheerfully - particles!",
@@ -49,7 +49,7 @@
     {
       "id": 2208,
       "character": "挨",
-      "pinyin": "ai",
+      "pinyin": "ái",
       "tone": 2,
       "meaning": "suffer",
       "story": "Suffer fingers crossbow questions \"Igh? Beaten?\" curiously - endure beaten!",
@@ -58,7 +58,7 @@
     {
       "id": 2209,
       "character": "簇",
-      "pinyin": "cu",
+      "pinyin": "cù",
       "tone": 4,
       "meaning": "cluster",
       "story": "Cluster bamboo tribe commands sharply \"Tsoo!\" - bunch group!",
@@ -67,7 +67,7 @@
     {
       "id": 2210,
       "character": "茅",
-      "pinyin": "mao",
+      "pinyin": "máo",
       "tone": 2,
       "meaning": "thatch",
       "story": "Thatch flowers spear questions \"Mao? Straw?\" curiously - grass bushes pee!",
@@ -76,7 +76,7 @@
     {
       "id": 2211,
       "character": "橘",
-      "pinyin": "ju",
+      "pinyin": "jú",
       "tone": 2,
       "meaning": "tangerine",
       "story": "Tangerine tree spear helmet legs mouth questions \"Jyoo? Citrus?\" curiously - orange fruit!",
@@ -85,7 +85,7 @@
     {
       "id": 2212,
       "character": "舒",
-      "pinyin": "shu",
+      "pinyin": "shū",
       "tone": 1,
       "meaning": "relax",
       "story": "Relax give tongue sings \"Shoo!\" cheerfully - comfortable at ease!",
@@ -94,7 +94,7 @@
     {
       "id": 2213,
       "character": "弘",
-      "pinyin": "hong",
+      "pinyin": "hóng",
       "tone": 2,
       "meaning": "noble",
       "story": "Noble bow elbow questions \"Hohng? Grand?\" curiously - great magnificent!",
@@ -103,7 +103,7 @@
     {
       "id": 2214,
       "character": "夷",
-      "pinyin": "yi",
+      "pinyin": "yí",
       "tone": 2,
       "meaning": "barbarian",
       "story": "Barbarian one bow questions \"Yee? Savage?\" curiously - foreigner!",
@@ -112,7 +112,7 @@
     {
       "id": 2215,
       "character": "姨",
-      "pinyin": "yi",
+      "pinyin": "yí",
       "tone": 2,
       "meaning": "maternal aunt",
       "story": "Maternal aunt woman barbarian questions \"Yee? Mother's sister?\" curiously - auntie!",
@@ -121,7 +121,7 @@
     {
       "id": 2216,
       "character": "疆",
-      "pinyin": "jiang",
+      "pinyin": "jiāng",
       "tone": 1,
       "meaning": "dividing line",
       "story": "Dividing line bow soil family feud sings \"Jyahng!\" cheerfully - border boundary!",
@@ -130,7 +130,7 @@
     {
       "id": 2217,
       "character": "僵",
-      "pinyin": "jiang",
+      "pinyin": "jiāng",
       "tone": 1,
       "meaning": "stiff",
       "story": "Stiff person family feud sings \"Jyahng!\" cheerfully - rigid frozen limbs!",
@@ -139,7 +139,7 @@
     {
       "id": 2218,
       "character": "薑",
-      "pinyin": "jiang",
+      "pinyin": "jiāng",
       "tone": 1,
       "meaning": "ginger",
       "story": "Ginger flowers family feud sings \"Jyahng!\" cheerfully - spicy root soup!",
@@ -148,7 +148,7 @@
     {
       "id": 2219,
       "character": "粥",
-      "pinyin": "zhou",
+      "pinyin": "zhōu",
       "tone": 1,
       "meaning": "porridge",
       "story": "Porridge rice bent弓 sings \"Joh!\" cheerfully - rice soup monks little!",
@@ -157,7 +157,7 @@
     {
       "id": 2220,
       "character": "沸",
-      "pinyin": "fei",
+      "pinyin": "fèi",
       "tone": 4,
       "meaning": "bring to a boil",
       "story": "Bring to a boil water dollar sign commands sharply \"Fay!\" - bubble blood boiling!",
@@ -166,7 +166,7 @@
     {
       "id": 2221,
       "character": "拂",
-      "pinyin": "fu",
+      "pinyin": "fú",
       "tone": 2,
       "meaning": "caress",
       "story": "Caress fingers dollar sign questions \"Foo? Stroke?\" curiously - brush embrace hug!",
@@ -175,7 +175,7 @@
     {
       "id": 2222,
       "character": "剃",
-      "pinyin": "ti",
+      "pinyin": "tì",
       "tone": 4,
       "meaning": "shave",
       "story": "Shave younger brother knife commands sharply \"Tee!\" - cut hair razor!",
@@ -184,7 +184,7 @@
     {
       "id": 2223,
       "character": "涕",
-      "pinyin": "ti",
+      "pinyin": "tì",
       "tone": 4,
       "meaning": "snot",
       "story": "Snot water little brother commands sharply \"Tee!\" - nose mucus tears!",
@@ -193,7 +193,7 @@
     {
       "id": 2224,
       "character": "梯",
-      "pinyin": "ti",
+      "pinyin": "tī",
       "tone": 1,
       "meaning": "ladder",
       "story": "Ladder tree younger brother sings \"Tee!\" cheerfully - stairs steps!",
@@ -202,7 +202,7 @@
     {
       "id": 2225,
       "character": "朽",
-      "pinyin": "xiu",
+      "pinyin": "xiǔ",
       "tone": 3,
       "meaning": "decayed",
       "story": "Decayed tree third bends down drooping \"Shyo\" - rotten crumbling can't carve!",
@@ -211,7 +211,7 @@
     {
       "id": 2226,
       "character": "聘",
-      "pinyin": "pin",
+      "pinyin": "pìn",
       "tone": 4,
       "meaning": "employ",
       "story": "Employ ear sprout snare commands sharply \"Pin!\" - hire appoint letter!",
@@ -220,7 +220,7 @@
     {
       "id": 2227,
       "character": "犧",
-      "pinyin": "xi",
+      "pinyin": "xī",
       "tone": 1,
       "meaning": "sacrifice",
       "story": "Sacrifice cow drama sings \"Shee!\" cheerfully - give up chess piece!",

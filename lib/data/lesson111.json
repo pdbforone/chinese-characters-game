@@ -4,7 +4,7 @@
     {
       "id": 2979,
       "character": "蜘",
-      "pinyin": "zhi",
+      "pinyin": "zhī",
       "tone": 1,
       "meaning": "spider (front)",
       "story": "\"JIH!\" the insect sings cheerfully - the front part of the spider character.",
@@ -13,7 +13,7 @@
     {
       "id": 2980,
       "character": "蛛",
-      "pinyin": "zhu",
+      "pinyin": "zhū",
       "tone": 1,
       "meaning": "spider (back)",
       "story": "\"JOO!\" the insect sings cheerfully - the back part of the spider character.",
@@ -22,7 +22,7 @@
     {
       "id": 2981,
       "character": "駱",
-      "pinyin": "luo",
+      "pinyin": "luò",
       "tone": 4,
       "meaning": "camel (front)",
       "story": "\"LWOH!\" each horse commands sharply - the front part of the camel character.",
@@ -31,7 +31,7 @@
     {
       "id": 2982,
       "character": "駝",
-      "pinyin": "tuo",
+      "pinyin": "tuó",
       "tone": 2,
       "meaning": "camel (back)",
       "story": "\"TWOH?\" it questions curiously like a horse - the back part of the camel character.",
@@ -40,7 +40,7 @@
     {
       "id": 2983,
       "character": "蜻",
-      "pinyin": "qing",
+      "pinyin": "qīng",
       "tone": 1,
       "meaning": "dragonfly (front)",
       "story": "\"CHING!\" the blue insect sings cheerfully - the front part of the dragonfly character through a telescope.",
@@ -49,7 +49,7 @@
     {
       "id": 2984,
       "character": "蜓",
-      "pinyin": "ting",
+      "pinyin": "tíng",
       "tone": 2,
       "meaning": "dragonfly (back)",
       "story": "\"TING?\" the insect questions curiously at the royal court - the back part of the dragonfly character.",
@@ -58,7 +58,7 @@
     {
       "id": 2985,
       "character": "鳳",
-      "pinyin": "feng",
+      "pinyin": "fèng",
       "tone": 4,
       "meaning": "male phoenix",
       "story": "\"FUNG!\" the wind commands sharply as the male phoenix bird soars past the ceiling!",
@@ -67,7 +67,7 @@
     {
       "id": 2986,
       "character": "凰",
-      "pinyin": "huang",
+      "pinyin": "huáng",
       "tone": 2,
       "meaning": "female phoenix",
       "story": "\"HWAHNG?\" the wind questions curiously about the female phoenix emperor.",
@@ -76,7 +76,7 @@
     {
       "id": 2987,
       "character": "橄",
-      "pinyin": "gan",
+      "pinyin": "gǎn",
       "tone": 3,
       "meaning": "olive (A)",
       "story": "The brave tree bends down drooping - the first part of the olive character.",
@@ -85,7 +85,7 @@
     {
       "id": 2988,
       "character": "欖",
-      "pinyin": "lan",
+      "pinyin": "lǎn",
       "tone": 3,
       "meaning": "olive (B)",
       "story": "The tree and magnifying glass bend down drooping - the second part of the olive character.",
@@ -94,7 +94,7 @@
     {
       "id": 2989,
       "character": "玻",
-      "pinyin": "bo",
+      "pinyin": "bō",
       "tone": 1,
       "meaning": "glass (front)",
       "story": "\"BWO!\" the jewel covering sings cheerfully - the front part of the glass character.",
@@ -103,7 +103,7 @@
     {
       "id": 2990,
       "character": "璃",
-      "pinyin": "li",
+      "pinyin": "lí",
       "tone": 2,
       "meaning": "glass (back)",
       "story": "\"LEE?\" the jewel questions curiously like Fagin - the back part of the glass character.",
@@ -112,7 +112,7 @@
     {
       "id": 2991,
       "character": "咖",
-      "pinyin": "ka",
+      "pinyin": "kā",
       "tone": 1,
       "meaning": "coffee (first)",
       "story": "\"KAH!\" the mouth sings cheerfully - the first drop of the coffee character.",
@@ -121,7 +121,7 @@
     {
       "id": 2992,
       "character": "啡",
-      "pinyin": "fei",
+      "pinyin": "fēi",
       "tone": 1,
       "meaning": "coffee (last)",
       "story": "\"FAY!\" the mouth sings cheerfully - the last drop of the coffee character.",
@@ -130,7 +130,7 @@
     {
       "id": 2993,
       "character": "葡",
-      "pinyin": "pu",
+      "pinyin": "pú",
       "tone": 2,
       "meaning": "grapes (A)",
       "story": "\"POO?\" the flowers question curiously, bound up with dog tags - the first part of grapes.",
@@ -139,7 +139,7 @@
     {
       "id": 2994,
       "character": "萄",
-      "pinyin": "tao",
+      "pinyin": "táo",
       "tone": 2,
       "meaning": "grapes (B)",
       "story": "\"TAO?\" the flowers and canteen question curiously - the second part of grapes.",
@@ -148,7 +148,7 @@
     {
       "id": 2995,
       "character": "吩",
-      "pinyin": "fen",
+      "pinyin": "fēn",
       "tone": 1,
       "meaning": "in-(struct)",
       "story": "\"FEN!\" the mouth sings cheerfully - the first part of instruct.",
@@ -157,7 +157,7 @@
     {
       "id": 2996,
       "character": "咐",
-      "pinyin": "fu",
+      "pinyin": "fù",
       "tone": 4,
       "meaning": "(in)-struct",
       "story": "\"FOO!\" the mouth commands sharply - I should have instructed you to stand by!",
@@ -166,7 +166,7 @@
     {
       "id": 2997,
       "character": "乒",
-      "pinyin": "ping",
+      "pinyin": "pīng",
       "tone": 1,
       "meaning": "ping",
       "story": "\"PING!\" the left-legged troop sings cheerfully - ping in ping-pong!",
@@ -175,7 +175,7 @@
     {
       "id": 2998,
       "character": "乓",
-      "pinyin": "pang",
+      "pinyin": "pāng",
       "tone": 1,
       "meaning": "pong",
       "story": "\"PAHNG!\" it sings cheerfully - pong in ping-pong!",
@@ -184,7 +184,7 @@
     {
       "id": 2999,
       "character": "崔",
-      "pinyin": "cui",
+      "pinyin": "cuī",
       "tone": 1,
       "meaning": "Cui",
       "story": "\"TSWAY!\" the pterodactyl sings cheerfully - the surname Cui!",
@@ -193,7 +193,7 @@
     {
       "id": 3000,
       "character": "曹",
-      "pinyin": "cao",
+      "pinyin": "cáo",
       "tone": 2,
       "meaning": "Cao",
       "story": "\"TSAO?\" the cadet questions curiously - is that Cao Cao?",

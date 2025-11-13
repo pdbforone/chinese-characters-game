@@ -4,7 +4,7 @@
     {
       "id": 548,
       "character": "手",
-      "pinyin": "shou",
+      "pinyin": "shǒu",
       "tone": 3,
       "meaning": "Hand",
       "story": "A hand with fingers bends down drooping saying \"Show\"!",
@@ -13,7 +13,7 @@
     {
       "id": 549,
       "character": "看",
-      "pinyin": "kan",
+      "pinyin": "kàn",
       "tone": 4,
       "meaning": "to look at",
       "story": "To look at hand eye commands \"Kan!\" sharply viewing!",
@@ -22,7 +22,7 @@
     {
       "id": 550,
       "character": "拿",
-      "pinyin": "na",
+      "pinyin": "ná",
       "tone": 2,
       "meaning": "to hold",
       "story": "To hold hand fit questions \"Na? Holding?\" curiously!",
@@ -31,7 +31,7 @@
     {
       "id": 551,
       "character": "我",
-      "pinyin": "wo",
+      "pinyin": "wǒ",
       "tone": 3,
       "meaning": "I",
       "story": "I hand halberd bend down drooping saying \"Woh\"!",
@@ -40,7 +40,7 @@
     {
       "id": 552,
       "character": "義",
-      "pinyin": "yi",
+      "pinyin": "yì",
       "tone": 4,
       "meaning": "Righteousness",
       "story": "Righteousness sheep I commands \"Yi!\" sharply just!",
@@ -49,7 +49,7 @@
     {
       "id": 553,
       "character": "議",
-      "pinyin": "yi",
+      "pinyin": "yì",
       "tone": 4,
       "meaning": "to deliberate",
       "story": "To deliberate words righteous yells \"Yi!\" sharply discussing!",
@@ -58,7 +58,7 @@
     {
       "id": 554,
       "character": "蟻",
-      "pinyin": "yi",
+      "pinyin": "yǐ",
       "tone": 3,
       "meaning": "Ant",
       "story": "An ant insect righteous bends down drooping saying \"Yi\"!",
@@ -67,7 +67,7 @@
     {
       "id": 555,
       "character": "抱",
-      "pinyin": "bao",
+      "pinyin": "bào",
       "tone": 4,
       "meaning": "to embrace",
       "story": "To embrace hand wrap commands \"Bao!\" sharply hugging!",
@@ -76,7 +76,7 @@
     {
       "id": 556,
       "character": "抗",
-      "pinyin": "kang",
+      "pinyin": "kàng",
       "tone": 4,
       "meaning": "to combat",
       "story": "To combat hand tall yells \"Kang!\" sharply resisting!",
@@ -85,7 +85,7 @@
     {
       "id": 557,
       "character": "批",
-      "pinyin": "pi",
+      "pinyin": "pī",
       "tone": 1,
       "meaning": "to criticize",
       "story": "To criticize hand compare sings \"Pi!\" cheerfully judging!",
@@ -94,7 +94,7 @@
     {
       "id": 558,
       "character": "招",
-      "pinyin": "zhao",
+      "pinyin": "zhāo",
       "tone": 1,
       "meaning": "to beckon",
       "story": "To beckon hand summon sings \"Zhao!\" cheerfully calling!",
@@ -103,7 +103,7 @@
     {
       "id": 559,
       "character": "打",
-      "pinyin": "da",
+      "pinyin": "dǎ",
       "tone": 3,
       "meaning": "to strike",
       "story": "To strike hand nail bends down drooping saying \"Da\"!",
@@ -112,7 +112,7 @@
     {
       "id": 560,
       "character": "指",
-      "pinyin": "zhi",
+      "pinyin": "zhǐ",
       "tone": 3,
       "meaning": "Finger",
       "story": "Finger hand purpose bends down drooping saying \"Zhi\"!",
@@ -121,7 +121,7 @@
     {
       "id": 561,
       "character": "持",
-      "pinyin": "chi",
+      "pinyin": "chí",
       "tone": 2,
       "meaning": "to support",
       "story": "To support hand temple questions \"Chi? Holding?\" curiously!",
@@ -130,7 +130,7 @@
     {
       "id": 562,
       "character": "括",
-      "pinyin": "kuo",
+      "pinyin": "kuò",
       "tone": 4,
       "meaning": "to include",
       "story": "To include hand tongue commands \"Kwoh!\" sharply enclosing!",
@@ -139,7 +139,7 @@
     {
       "id": 563,
       "character": "提",
-      "pinyin": "ti",
+      "pinyin": "tí",
       "tone": 2,
       "meaning": "to bring up",
       "story": "To bring up hand right questions \"Ti? Lift?\" curiously!",
@@ -148,7 +148,7 @@
     {
       "id": 564,
       "character": "揮",
-      "pinyin": "hui",
+      "pinyin": "huī",
       "tone": 1,
       "meaning": "to brandish",
       "story": "To brandish hand army sings \"Hway!\" cheerfully waving!",
@@ -157,7 +157,7 @@
     {
       "id": 565,
       "character": "推",
-      "pinyin": "tui",
+      "pinyin": "tuī",
       "tone": 1,
       "meaning": "to push",
       "story": "To push hand bird sings \"Tway!\" cheerfully shoving!",
@@ -166,7 +166,7 @@
     {
       "id": 566,
       "character": "接",
-      "pinyin": "jie",
+      "pinyin": "jiē",
       "tone": 1,
       "meaning": "to welcome",
       "story": "To welcome hand woman sings \"Jieh!\" cheerfully receiving!",
@@ -175,7 +175,7 @@
     {
       "id": 567,
       "character": "掛",
-      "pinyin": "gua",
+      "pinyin": "guà",
       "tone": 4,
       "meaning": "to hang",
       "story": "Hang hand earth divination commands \"Gwa!\" sharply suspended!",
@@ -184,7 +184,7 @@
     {
       "id": 568,
       "character": "按",
-      "pinyin": "an",
+      "pinyin": "àn",
       "tone": 4,
       "meaning": "to press down on",
       "story": "To press down on hand case yells \"An!\" sharply pushing!",
@@ -193,7 +193,7 @@
     {
       "id": 569,
       "character": "掉",
-      "pinyin": "diao",
+      "pinyin": "diào",
       "tone": 4,
       "meaning": "to drop",
       "story": "To drop hand luck commands \"Diao!\" sharply falling!",
@@ -202,7 +202,7 @@
     {
       "id": 570,
       "character": "拉",
-      "pinyin": "la",
+      "pinyin": "lā",
       "tone": 1,
       "meaning": "to pull",
       "story": "To pull hand stand sings \"La!\" cheerfully dragging!",
@@ -220,7 +220,7 @@
     {
       "id": 572,
       "character": "找",
-      "pinyin": "zhao",
+      "pinyin": "zhǎo",
       "tone": 3,
       "meaning": "to look for",
       "story": "To look for hand dagger bends down drooping saying \"Zhao\"!",
@@ -229,7 +229,7 @@
     {
       "id": 573,
       "character": "研",
-      "pinyin": "yan",
+      "pinyin": "yán",
       "tone": 2,
       "meaning": "to grind away",
       "story": "To grind away stone open questions \"Yan? Polishing?\" curiously!",
@@ -238,7 +238,7 @@
     {
       "id": 574,
       "character": "弄",
-      "pinyin": "nong",
+      "pinyin": "nòng",
       "tone": 4,
       "meaning": "to play with",
       "story": "To play with king jewel commands \"Nong!\" sharply tinkering!",
@@ -247,7 +247,7 @@
     {
       "id": 575,
       "character": "鼻",
-      "pinyin": "bi",
+      "pinyin": "bí",
       "tone": 2,
       "meaning": "Nose",
       "story": "A nose self field questions \"Bee? Smelling?\" curiously!",
@@ -256,7 +256,7 @@
     {
       "id": 576,
       "character": "刑",
-      "pinyin": "xing",
+      "pinyin": "xíng",
       "tone": 2,
       "meaning": "Punishment",
       "story": "Punishment knife open questions \"Shing? Penalty?\" curiously!",
@@ -265,7 +265,7 @@
     {
       "id": 577,
       "character": "型",
-      "pinyin": "xing",
+      "pinyin": "xíng",
       "tone": 2,
       "meaning": "mold",
       "story": "Mold punishment earth questions \"Shing? Shape?\" curiously!",
@@ -274,7 +274,7 @@
     {
       "id": 578,
       "character": "才",
-      "pinyin": "cai",
+      "pinyin": "cái",
       "tone": 2,
       "meaning": "Genius",
       "story": "Genius young sprout questions \"Tsai? Talented?\" curiously!",
@@ -283,7 +283,7 @@
     {
       "id": 579,
       "character": "財",
-      "pinyin": "cai",
+      "pinyin": "cái",
       "tone": 2,
       "meaning": "Riches",
       "story": "Riches shellfish genius question \"Tsai? How much?\" curiously!",
@@ -292,7 +292,7 @@
     {
       "id": 580,
       "character": "存",
-      "pinyin": "cun",
+      "pinyin": "cún",
       "tone": 2,
       "meaning": "to deposit",
       "story": "To deposit genius child questions \"Tsun? Saving?\" curiously!",
@@ -301,7 +301,7 @@
     {
       "id": 581,
       "character": "在",
-      "pinyin": "zai",
+      "pinyin": "zài",
       "tone": 4,
       "meaning": "at",
       "story": "At genius earth commands \"Zai!\" sharply located!",
@@ -310,7 +310,7 @@
     {
       "id": 582,
       "character": "乃",
-      "pinyin": "nai",
+      "pinyin": "nǎi",
       "tone": 3,
       "meaning": "only then",
       "story": "Only then bent bends down drooping saying \"Nai\"!",
@@ -319,7 +319,7 @@
     {
       "id": 583,
       "character": "奶",
-      "pinyin": "nai",
+      "pinyin": "nǎi",
       "tone": 3,
       "meaning": "Milk",
       "story": "Milk woman only then bends down drooping saying \"Nai\"!",
@@ -328,7 +328,7 @@
     {
       "id": 584,
       "character": "及",
-      "pinyin": "ji",
+      "pinyin": "jí",
       "tone": 2,
       "meaning": "to catch up with",
       "story": "To catch up with person reach questions \"Ji? Fast enough?\" curiously!",
@@ -337,7 +337,7 @@
     {
       "id": 585,
       "character": "吸",
-      "pinyin": "xi",
+      "pinyin": "xī",
       "tone": 1,
       "meaning": "to inhale",
       "story": "To inhale mouth reach sings \"Shi!\" cheerfully breathing!",
@@ -346,7 +346,7 @@
     {
       "id": 586,
       "character": "史",
-      "pinyin": "shi",
+      "pinyin": "shǐ",
       "tone": 3,
       "meaning": "History",
       "story": "History hand mouth bends down drooping saying \"Shi\"!",
@@ -355,7 +355,7 @@
     {
       "id": 587,
       "character": "更",
-      "pinyin": "geng",
+      "pinyin": "gèng",
       "tone": 4,
       "meaning": "even more",
       "story": "Even more sun history commands \"Geng!\" sharply further!",
@@ -364,7 +364,7 @@
     {
       "id": 588,
       "character": "硬",
-      "pinyin": "ying",
+      "pinyin": "yìng",
       "tone": 4,
       "meaning": "hard (like material)",
       "story": "Hard stone more yells \"Ying!\" sharply firm!",
@@ -373,7 +373,7 @@
     {
       "id": 589,
       "character": "又",
-      "pinyin": "you",
+      "pinyin": "yòu",
       "tone": 4,
       "meaning": "again",
       "story": "Again hand commands \"Yo!\" sharply repeating!",
@@ -382,7 +382,7 @@
     {
       "id": 590,
       "character": "友",
-      "pinyin": "you",
+      "pinyin": "yǒu",
       "tone": 3,
       "meaning": "Friend",
       "story": "A friend again hand bends down drooping saying \"Yo\"!",
@@ -391,7 +391,7 @@
     {
       "id": 591,
       "character": "雙",
-      "pinyin": "shuang",
+      "pinyin": "shuāng",
       "tone": 1,
       "meaning": "Pair",
       "story": "A pair two birds sing \"Shwang!\" cheerfully matching!",
@@ -400,7 +400,7 @@
     {
       "id": 592,
       "character": "隻",
-      "pinyin": "zhi",
+      "pinyin": "zhī",
       "tone": 1,
       "meaning": "One of a Pair",
       "story": "One of a pair bird sings \"Zhi!\" cheerfully single!",
@@ -409,7 +409,7 @@
     {
       "id": 593,
       "character": "護",
-      "pinyin": "hu",
+      "pinyin": "hù",
       "tone": 4,
       "meaning": "to protect",
       "story": "To protect words pair commands \"Hoo!\" sharply guarding!",
@@ -418,7 +418,7 @@
     {
       "id": 594,
       "character": "獲",
-      "pinyin": "huo",
+      "pinyin": "huò",
       "tone": 4,
       "meaning": "to seize",
       "story": "To seize dog grass bird yells \"Hwoh!\" sharply catching!",
@@ -427,7 +427,7 @@
     {
       "id": 595,
       "character": "觀",
-      "pinyin": "guan",
+      "pinyin": "guān",
       "tone": 1,
       "meaning": "to observe",
       "story": "To observe again see sings \"Gwan!\" cheerfully watching!",
@@ -436,7 +436,7 @@
     {
       "id": 596,
       "character": "歡",
-      "pinyin": "huan",
+      "pinyin": "huān",
       "tone": 1,
       "meaning": "joyous",
       "story": "Joyous again lack sings \"Hwan!\" cheerfully happy!",
@@ -445,7 +445,7 @@
     {
       "id": 597,
       "character": "投",
-      "pinyin": "tou",
+      "pinyin": "tóu",
       "tone": 2,
       "meaning": "to throw",
       "story": "To throw hand reach questions \"Toe? Tossing?\" curiously!",
@@ -454,7 +454,7 @@
     {
       "id": 598,
       "character": "沒",
-      "pinyin": "mei",
+      "pinyin": "méi",
       "tone": 2,
       "meaning": "to not have",
       "story": "To not have water reach questions \"May? None?\" curiously!",
@@ -463,7 +463,7 @@
     {
       "id": 599,
       "character": "設",
-      "pinyin": "she",
+      "pinyin": "shè",
       "tone": 4,
       "meaning": "to establish",
       "story": "To establish words reach yells \"Shuh!\" sharply founding!",
@@ -472,7 +472,7 @@
     {
       "id": 600,
       "character": "股",
-      "pinyin": "gu",
+      "pinyin": "gǔ",
       "tone": 3,
       "meaning": "Thigh",
       "story": "A thigh flesh ancient bends down drooping saying \"Goo\"!",
@@ -481,7 +481,7 @@
     {
       "id": 601,
       "character": "支",
-      "pinyin": "zhi",
+      "pinyin": "zhī",
       "tone": 1,
       "meaning": "Offshoot",
       "story": "An offshoot branch sings \"Zhi!\" cheerfully dividing!",
@@ -490,7 +490,7 @@
     {
       "id": 602,
       "character": "技",
-      "pinyin": "ji",
+      "pinyin": "jì",
       "tone": 4,
       "meaning": "Skill",
       "story": "Skill hand branch commands \"Ji!\" sharply able!",
@@ -499,7 +499,7 @@
     {
       "id": 603,
       "character": "枝",
-      "pinyin": "zhi",
+      "pinyin": "zhī",
       "tone": 1,
       "meaning": "Branch",
       "story": "Branch tree offshoot sings \"Zhi!\" cheerfully extending!",
@@ -508,7 +508,7 @@
     {
       "id": 604,
       "character": "叔",
-      "pinyin": "shu",
+      "pinyin": "shú",
       "tone": 2,
       "meaning": "(Paternal Older) Uncle",
       "story": "Uncle small hand questions \"Shoo? Uncle?\" curiously!",
@@ -517,7 +517,7 @@
     {
       "id": 605,
       "character": "督",
-      "pinyin": "du",
+      "pinyin": "dū",
       "tone": 1,
       "meaning": "Superintend",
       "story": "Superintend uncle eye sings \"Doo!\" cheerfully supervising!",
@@ -526,7 +526,7 @@
     {
       "id": 606,
       "character": "寂",
-      "pinyin": "ji",
+      "pinyin": "jí",
       "tone": 2,
       "meaning": "lonely",
       "story": "Lonely house uncle questions \"Ji? Alone?\" curiously!",
@@ -535,7 +535,7 @@
     {
       "id": 607,
       "character": "反",
-      "pinyin": "fan",
+      "pinyin": "fǎn",
       "tone": 3,
       "meaning": "against",
       "story": "Against cliff hand bends down drooping saying \"Fan\"!",
@@ -544,7 +544,7 @@
     {
       "id": 608,
       "character": "板",
-      "pinyin": "ban",
+      "pinyin": "bǎn",
       "tone": 3,
       "meaning": "Plank",
       "story": "A plank tree against bends down drooping saying \"Ban\"!",
@@ -553,7 +553,7 @@
     {
       "id": 609,
       "character": "返",
-      "pinyin": "fan",
+      "pinyin": "fǎn",
       "tone": 3,
       "meaning": "to go back",
       "story": "To go back walk against bends down drooping saying \"Fan\"!",
@@ -562,7 +562,7 @@
     {
       "id": 610,
       "character": "派",
-      "pinyin": "pai",
+      "pinyin": "pài",
       "tone": 4,
       "meaning": "Faction",
       "story": "A faction water against commands \"Pai!\" sharply grouping!",
@@ -571,7 +571,7 @@
     {
       "id": 611,
       "character": "脈",
-      "pinyin": "mai",
+      "pinyin": "mài",
       "tone": 4,
       "meaning": "Blood Vessels",
       "story": "Blood vessels flesh against yell \"Mai!\" sharply flowing!",
@@ -580,7 +580,7 @@
     {
       "id": 612,
       "character": "爪",
-      "pinyin": "zhao",
+      "pinyin": "zhǎo",
       "tone": 3,
       "meaning": "a Claw",
       "story": "A claw bends down drooping saying \"Zhao\"!",
@@ -589,7 +589,7 @@
     {
       "id": 613,
       "character": "抓",
-      "pinyin": "zhua",
+      "pinyin": "zhuā",
       "tone": 1,
       "meaning": "to grab",
       "story": "To grab hand claw sings \"Zhwa!\" cheerfully catching!",
@@ -598,7 +598,7 @@
     {
       "id": 614,
       "character": "采",
-      "pinyin": "cai",
+      "pinyin": "cǎi",
       "tone": 3,
       "meaning": "to pluck",
       "story": "To pluck claw tree bends down drooping saying \"Tsai\"!",
@@ -607,7 +607,7 @@
     {
       "id": 615,
       "character": "採",
-      "pinyin": "cai",
+      "pinyin": "cǎi",
       "tone": 3,
       "meaning": "to pick",
       "story": "To pick hand pluck bends down drooping saying \"Tsai\"!",
@@ -616,7 +616,7 @@
     {
       "id": 616,
       "character": "菜",
-      "pinyin": "cai",
+      "pinyin": "cài",
       "tone": 4,
       "meaning": "Vegetable",
       "story": "Vegetable grass pick commands \"Tsai!\" sharply growing!",
@@ -625,7 +625,7 @@
     {
       "id": 617,
       "character": "受",
-      "pinyin": "shou",
+      "pinyin": "shòu",
       "tone": 4,
       "meaning": "to accept",
       "story": "To accept claw hand commands \"Show!\" sharply receiving!",
@@ -634,7 +634,7 @@
     {
       "id": 618,
       "character": "授",
-      "pinyin": "shou",
+      "pinyin": "shòu",
       "tone": 4,
       "meaning": "to confer",
       "story": "To confer hand accept yells \"Show!\" sharply granting!",
@@ -643,7 +643,7 @@
     {
       "id": 619,
       "character": "愛",
-      "pinyin": "ai",
+      "pinyin": "ài",
       "tone": 4,
       "meaning": "Love",
       "story": "Love claw heart foot commands \"Eye!\" sharply caring!",
@@ -652,7 +652,7 @@
     {
       "id": 620,
       "character": "雄",
-      "pinyin": "xiong",
+      "pinyin": "xióng",
       "tone": 2,
       "meaning": "grand",
       "story": "A grand bird questions \"Shyong? Majestic?\" curiously!",
@@ -661,7 +661,7 @@
     {
       "id": 621,
       "character": "台",
-      "pinyin": "tai",
+      "pinyin": "tái",
       "tone": 2,
       "meaning": "Platform",
       "story": "A platform mouth sings \"Tai?\" cheerfully questioning!",
@@ -670,7 +670,7 @@
     {
       "id": 622,
       "character": "治",
-      "pinyin": "zhi",
+      "pinyin": "zhì",
       "tone": 4,
       "meaning": "to govern",
       "story": "To govern water platform commands \"Zhi!\" sharply ruling!",
@@ -679,7 +679,7 @@
     {
       "id": 623,
       "character": "始",
-      "pinyin": "shi",
+      "pinyin": "shǐ",
       "tone": 3,
       "meaning": "to commence",
       "story": "To commence woman platform bends down drooping saying \"Shi\"!",
@@ -688,7 +688,7 @@
     {
       "id": 624,
       "character": "去",
-      "pinyin": "qu",
+      "pinyin": "qù",
       "tone": 4,
       "meaning": "to go",
       "story": "To go private earth commands \"Chu!\" sharply leaving!",
@@ -697,7 +697,7 @@
     {
       "id": 625,
       "character": "法",
-      "pinyin": "fa",
+      "pinyin": "fǎ",
       "tone": 3,
       "meaning": "Method",
       "story": "Method water go bends down drooping saying \"Fa\"!",
@@ -706,7 +706,7 @@
     {
       "id": 626,
       "character": "至",
-      "pinyin": "zhi",
+      "pinyin": "zhì",
       "tone": 4,
       "meaning": "until",
       "story": "Until arrow earth commands \"Zhi!\" sharply arriving!",
@@ -715,7 +715,7 @@
     {
       "id": 627,
       "character": "室",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "Room",
       "story": "A room house until yells \"Shi!\" sharply enclosed!",
@@ -724,7 +724,7 @@
     {
       "id": 628,
       "character": "到",
-      "pinyin": "dao",
+      "pinyin": "dào",
       "tone": 4,
       "meaning": "to arrive",
       "story": "To arrive until knife commands \"Dao!\" sharply reaching!",
@@ -733,7 +733,7 @@
     {
       "id": 629,
       "character": "互",
-      "pinyin": "hu",
+      "pinyin": "hù",
       "tone": 4,
       "meaning": "mutual",
       "story": "Mutual together commands \"Hoo!\" sharply reciprocal!",
@@ -742,7 +742,7 @@
     {
       "id": 630,
       "character": "充",
-      "pinyin": "chong",
+      "pinyin": "chōng",
       "tone": 1,
       "meaning": "sufficient",
       "story": "Sufficient child sings \"Chong!\" cheerfully full!",
@@ -751,7 +751,7 @@
     {
       "id": 631,
       "character": "育",
-      "pinyin": "yu",
+      "pinyin": "yù",
       "tone": 4,
       "meaning": "Education",
       "story": "Education roof moon flesh yells \"Yu!\" sharply teaching!",
@@ -760,7 +760,7 @@
     {
       "id": 632,
       "character": "流",
-      "pinyin": "liu",
+      "pinyin": "liú",
       "tone": 2,
       "meaning": "to flow",
       "story": "To flow water education questions \"Lyo? Flowing?\" curiously!",
@@ -769,7 +769,7 @@
     {
       "id": 633,
       "character": "梳",
-      "pinyin": "shu",
+      "pinyin": "shū",
       "tone": 1,
       "meaning": "Comb",
       "story": "A comb tree flow sings \"Shoo!\" cheerfully grooming!",

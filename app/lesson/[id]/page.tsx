@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import MultiRoundGame from '@/app/components/MultiRoundGame';
 import CharacterIntroduction from '@/app/components/CharacterIntroduction';
@@ -18,28 +18,14 @@ export default function LessonPage() {
   // Load lesson data dynamically
   const lessonData = getLessonData(lessonId);
 
-  const [phase, setPhase] = useState<Phase>('loading');
-  const [progress, setProgress] = useState({
-    introductionCompleted: false,
-    gamesPlayed: 0,
-    bestScore: 0,
-    bestAccuracy: 0,
-  });
+  // Load progress using useState with lazy initializer (no useEffect needed)
+  const [progress, setProgress] = useState(() => getLessonProgress(lessonId));
+  const [phase, setPhase] = useState<Phase>(() =>
+    progress.introductionCompleted ? 'modal' : 'introduction'
+  );
 
-  useEffect(() => {
-    // Load progress from localStorage
-    const savedProgress = getLessonProgress(lessonId);
-    setProgress(savedProgress);
-
-    // Determine which phase to show
-    if (!savedProgress.introductionCompleted) {
-      // First time - go straight to introduction
-      setPhase('introduction');
-    } else {
-      // Returning user - show modal
-      setPhase('modal');
-    }
-  }, [lessonId]);
+  // Note: When lessonId changes in the URL, the entire page component remounts
+  // due to Next.js dynamic routing, so we don't need useEffect to handle that
 
   const handleIntroductionComplete = () => {
     markIntroductionComplete(lessonId);
@@ -71,12 +57,8 @@ export default function LessonPage() {
     return (
       <div className="min-h-screen flex items-center justify-center p-4">
         <div className="bg-white rounded-lg shadow-xl p-8 max-w-md">
-          <h1 className="text-2xl font-bold mb-4 text-gray-800">
-            Lesson Not Found
-          </h1>
-          <p className="text-gray-600 mb-6">
-            Lesson {lessonId} is not available yet.
-          </p>
+          <h1 className="text-2xl font-bold mb-4 text-gray-800">Lesson Not Found</h1>
+          <p className="text-gray-600 mb-6">Lesson {lessonId} is not available yet.</p>
           <button
             onClick={handleBackToHome}
             className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors"

@@ -1,13 +1,20 @@
 // Sound utility using Web Audio API for game feedback sounds
 
+// Type definition for browser compatibility
+interface WindowWithWebkit extends Window {
+  webkitAudioContext?: typeof AudioContext;
+}
+
 class SoundManager {
   private audioContext: AudioContext | null = null;
   private isMuted: boolean = false;
 
   constructor() {
     if (typeof window !== 'undefined') {
-      // Initialize AudioContext
-      this.audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+      // Initialize AudioContext with webkit fallback
+      const AudioContextClass =
+        window.AudioContext || (window as WindowWithWebkit).webkitAudioContext;
+      this.audioContext = AudioContextClass ? new AudioContextClass() : null;
       // Load mute preference from localStorage
       const savedMute = localStorage.getItem('rth_sounds_muted');
       this.isMuted = savedMute === 'true';
@@ -16,7 +23,9 @@ class SoundManager {
 
   private getContext(): AudioContext | null {
     if (!this.audioContext && typeof window !== 'undefined') {
-      this.audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+      const AudioContextClass =
+        window.AudioContext || (window as WindowWithWebkit).webkitAudioContext;
+      this.audioContext = AudioContextClass ? new AudioContextClass() : null;
     }
     return this.audioContext;
   }
@@ -97,7 +106,7 @@ class SoundManager {
       oscillator.connect(gainNode);
       gainNode.connect(ctx.destination);
 
-      const startTime = ctx.currentTime + (index * 0.15);
+      const startTime = ctx.currentTime + index * 0.15;
       oscillator.frequency.setValueAtTime(freq, startTime);
 
       gainNode.gain.setValueAtTime(0.2, startTime);
@@ -116,7 +125,7 @@ class SoundManager {
     if (!ctx) return;
 
     // Play triumphant fanfare
-    const notes = [523.25, 659.25, 783.99, 1046.50]; // C, E, G, C
+    const notes = [523.25, 659.25, 783.99, 1046.5]; // C, E, G, C
 
     notes.forEach((freq, index) => {
       const oscillator = ctx.createOscillator();
@@ -125,7 +134,7 @@ class SoundManager {
       oscillator.connect(gainNode);
       gainNode.connect(ctx.destination);
 
-      const startTime = ctx.currentTime + (index * 0.1);
+      const startTime = ctx.currentTime + index * 0.1;
       oscillator.frequency.setValueAtTime(freq, startTime);
 
       gainNode.gain.setValueAtTime(0.25, startTime);

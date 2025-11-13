@@ -4,7 +4,7 @@
     {
       "id": 1990,
       "character": "筋",
-      "pinyin": "jin",
+      "pinyin": "jīn",
       "tone": 1,
       "meaning": "tendon",
       "story": "Tendon bamboo muscle sings \"Jin!\" cheerfully - sinew tissue!",
@@ -13,7 +13,7 @@
     {
       "id": 1991,
       "character": "伍",
-      "pinyin": "wu",
+      "pinyin": "wǔ",
       "tone": 3,
       "meaning": "V",
       "story": "V person five bends down drooping \"Woo\" - squad troops!",
@@ -22,7 +22,7 @@
     {
       "id": 1992,
       "character": "仇",
-      "pinyin": "chou",
+      "pinyin": "chóu",
       "tone": 2,
       "meaning": "animosity",
       "story": "Animosity person nine questions \"Choh? Enmity?\" curiously - hatred revenge!",
@@ -31,7 +31,7 @@
     {
       "id": 1993,
       "character": "倡",
-      "pinyin": "chang",
+      "pinyin": "chàng",
       "tone": 4,
       "meaning": "start",
       "story": "Start person prosperous commands sharply \"Chahng!\" - commence initiate!",
@@ -40,7 +40,7 @@
     {
       "id": 1994,
       "character": "伯",
-      "pinyin": "bo",
+      "pinyin": "bó",
       "tone": 2,
       "meaning": "father's older brother",
       "story": "Father's older brother person white questions \"Bwo? Uncle?\" curiously - paternal elder!",
@@ -49,7 +49,7 @@
     {
       "id": 1995,
       "character": "仲",
-      "pinyin": "zhong",
+      "pinyin": "zhòng",
       "tone": 4,
       "meaning": "mid—",
       "story": "Mid— person middle commands sharply \"Johng!\" - second intermediate!",
@@ -58,7 +58,7 @@
     {
       "id": 1996,
       "character": "估",
-      "pinyin": "gu",
+      "pinyin": "gū",
       "tone": 1,
       "meaning": "estimate",
       "story": "Estimate person ancient sings \"Goo!\" cheerfully - appraise predict!",
@@ -67,7 +67,7 @@
     {
       "id": 1997,
       "character": "偵",
-      "pinyin": "zhen",
+      "pinyin": "zhēn",
       "tone": 1,
       "meaning": "detect",
       "story": "Detect person chaste sings \"Jun!\" cheerfully - investigate spy!",
@@ -76,7 +76,7 @@
     {
       "id": 1998,
       "character": "俱",
-      "pinyin": "ju",
+      "pinyin": "jù",
       "tone": 4,
       "meaning": "altogether",
       "story": "Altogether person tool commands sharply \"Jyoo!\" - entirely born with!",
@@ -85,7 +85,7 @@
     {
       "id": 1999,
       "character": "側",
-      "pinyin": "ce",
+      "pinyin": "cè",
       "tone": 4,
       "meaning": "lateral",
       "story": "Lateral person rule commands sharply \"Tsuh!\" - side flank!",
@@ -94,7 +94,7 @@
     {
       "id": 2000,
       "character": "佑",
-      "pinyin": "you",
+      "pinyin": "yòu",
       "tone": 4,
       "meaning": "bless",
       "story": "Bless person right commands sharply \"Yoh!\" - protect divine favor Heaven bless Japan!",
@@ -103,7 +103,7 @@
     {
       "id": 2001,
       "character": "佐",
-      "pinyin": "zuo",
+      "pinyin": "zuǒ",
       "tone": 3,
       "meaning": "assistant",
       "story": "Assistant person left bends down drooping \"Dzwoh\" - aide Sasuke!",
@@ -112,7 +112,7 @@
     {
       "id": 2002,
       "character": "仔",
-      "pinyin": "zi",
+      "pinyin": "zǐ",
       "tone": 3,
       "meaning": "meticulous",
       "story": "Meticulous person child bends down drooping \"Dzir\" - careful detailed!",
@@ -121,7 +121,7 @@
     {
       "id": 2003,
       "character": "俏",
-      "pinyin": "qiao",
+      "pinyin": "qiào",
       "tone": 4,
       "meaning": "comely",
       "story": "Comely person candle commands sharply \"Chyao!\" - pretty attractive!",
@@ -130,7 +130,7 @@
     {
       "id": 2004,
       "character": "倘",
-      "pinyin": "tang",
+      "pinyin": "tǎng",
       "tone": 3,
       "meaning": "if",
       "story": "If person esteem bends down drooping \"Tahng\" - suppose in case!",
@@ -139,7 +139,7 @@
     {
       "id": 2005,
       "character": "倚",
-      "pinyin": "yi",
+      "pinyin": "yǐ",
       "tone": 3,
       "meaning": "count on",
       "story": "Count on person strange bends down drooping \"Yee\" - rely lean on impartial!",
@@ -148,7 +148,7 @@
     {
       "id": 2006,
       "character": "佳",
-      "pinyin": "jia",
+      "pinyin": "jiā",
       "tone": 1,
       "meaning": "superb",
       "story": "Superb person turkey sings \"Jyah!\" cheerfully - excellent fine!",
@@ -157,7 +157,7 @@
     {
       "id": 2007,
       "character": "侍",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "serve",
       "story": "Serve person buddhist temple commands sharply \"Shir!\" - attend wait on!",
@@ -166,7 +166,7 @@
     {
       "id": 2008,
       "character": "伙",
-      "pinyin": "huo",
+      "pinyin": "huǒ",
       "tone": 3,
       "meaning": "mate",
       "story": "Mate person fire bends down drooping \"Hwoh\" - partner companion!",
@@ -175,7 +175,7 @@
     {
       "id": 2009,
       "character": "宿",
-      "pinyin": "su",
+      "pinyin": "sù",
       "tone": 4,
       "meaning": "stay overnight",
       "story": "Stay overnight house hundred Chinese inches commands sharply \"Soo!\" - lodge reside!",
@@ -184,7 +184,7 @@
     {
       "id": 2010,
       "character": "伏",
-      "pinyin": "fu",
+      "pinyin": "fú",
       "tone": 2,
       "meaning": "bend over",
       "story": "Bend over person dog questions \"Foo? Prostrate?\" curiously - lie down!",
@@ -193,7 +193,7 @@
     {
       "id": 2011,
       "character": "袱",
-      "pinyin": "fu",
+      "pinyin": "fú",
       "tone": 2,
       "meaning": "wrapping cloth",
       "story": "Wrapping cloth clothing bend over questions \"Foo? Bundle?\" curiously - package!",
@@ -202,7 +202,7 @@
     {
       "id": 2012,
       "character": "偷",
-      "pinyin": "tou",
+      "pinyin": "tōu",
       "tone": 1,
       "meaning": "steal",
       "story": "Steal person lose sings \"Toh!\" cheerfully - rob pilfer!",
@@ -211,7 +211,7 @@
     {
       "id": 2013,
       "character": "伐",
-      "pinyin": "fa",
+      "pinyin": "fá",
       "tone": 2,
       "meaning": "fell",
       "story": "Fell person fiesta questions \"Fah? Cut tree?\" curiously - chop attack!",
@@ -220,7 +220,7 @@
     {
       "id": 2014,
       "character": "佩",
-      "pinyin": "pei",
+      "pinyin": "pèi",
       "tone": 4,
       "meaning": "wear at the waist",
       "story": "Wear at the waist person esteem commands sharply \"Pay!\" - adorn admire!",
@@ -229,7 +229,7 @@
     {
       "id": 2015,
       "character": "佈",
-      "pinyin": "bu",
+      "pinyin": "bù",
       "tone": 4,
       "meaning": "announce",
       "story": "Announce person towel commands sharply \"Boo!\" - proclaim spread!",
@@ -238,7 +238,7 @@
     {
       "id": 2016,
       "character": "僑",
-      "pinyin": "qiao",
+      "pinyin": "qiáo",
       "tone": 2,
       "meaning": "live abroad",
       "story": "Live abroad person angel questions \"Chyao? Expatriate?\" curiously - overseas!",
@@ -247,7 +247,7 @@
     {
       "id": 2017,
       "character": "億",
-      "pinyin": "yi",
+      "pinyin": "yì",
       "tone": 4,
       "meaning": "one hundred million",
       "story": "One hundred million person thought commands sharply \"Yee!\" - huge number!",
@@ -256,7 +256,7 @@
     {
       "id": 2018,
       "character": "傾",
-      "pinyin": "qing",
+      "pinyin": "qīng",
       "tone": 1,
       "meaning": "incline",
       "story": "Incline person head sings \"Ching!\" cheerfully - lean pour!",
@@ -265,7 +265,7 @@
     {
       "id": 2019,
       "character": "侮",
-      "pinyin": "wu",
+      "pinyin": "wǔ",
       "tone": 3,
       "meaning": "insult",
       "story": "Insult person mother bends down drooping \"Woo\" - humiliate offend!",
@@ -274,7 +274,7 @@
     {
       "id": 2020,
       "character": "倍",
-      "pinyin": "bei",
+      "pinyin": "bèi",
       "tone": 4,
       "meaning": "times-multiplier",
       "story": "Times-multiplier person muzzle commands sharply \"Bay!\" - double fold!",
@@ -283,7 +283,7 @@
     {
       "id": 2021,
       "character": "仿",
-      "pinyin": "fang",
+      "pinyin": "fǎng",
       "tone": 3,
       "meaning": "mimic",
       "story": "Mimic person direction bends down drooping \"Fahng\" - imitate copy!",
@@ -292,7 +292,7 @@
     {
       "id": 2022,
       "character": "傲",
-      "pinyin": "ao",
+      "pinyin": "ào",
       "tone": 4,
       "meaning": "haughty",
       "story": "Haughty person proud commands sharply \"Ao!\" - arrogant disdainful!",
@@ -301,7 +301,7 @@
     {
       "id": 2023,
       "character": "僧",
-      "pinyin": "seng",
+      "pinyin": "sēng",
       "tone": 1,
       "meaning": "Buddhist monk",
       "story": "Buddhist monk person increase sings \"Sung!\" cheerfully - monk too many monks not enough porridge!",
@@ -310,7 +310,7 @@
     {
       "id": 2024,
       "character": "悠",
-      "pinyin": "you",
+      "pinyin": "yōu",
       "tone": 1,
       "meaning": "without haste",
       "story": "Without haste heart walking stick sings \"Yoh!\" cheerfully - leisurely unhurried!",
@@ -319,7 +319,7 @@
     {
       "id": 2025,
       "character": "俄",
-      "pinyin": "e",
+      "pinyin": "é",
       "tone": 2,
       "meaning": "Russia",
       "story": "Russia person ego questions \"Uh? Soviet?\" curiously - Slavic nation!",
@@ -328,7 +328,7 @@
     {
       "id": 2026,
       "character": "儀",
-      "pinyin": "yi",
+      "pinyin": "yí",
       "tone": 2,
       "meaning": "rite",
       "story": "Rite person righteousness questions \"Yee? Ceremony?\" curiously - ritual Lan Jingyi!",
@@ -337,7 +337,7 @@
     {
       "id": 2027,
       "character": "侄",
-      "pinyin": "zhi",
+      "pinyin": "zhí",
       "tone": 2,
       "meaning": "nephew",
       "story": "Nephew person reaching out questions \"Jir? Brother's son?\" curiously - crazy since childhood!",
@@ -346,7 +346,7 @@
     {
       "id": 2028,
       "character": "仙",
-      "pinyin": "xian",
+      "pinyin": "xiān",
       "tone": 1,
       "meaning": "immortal",
       "story": "Immortal person mountain sings \"Shyan!\" cheerfully - celestial divine being!",
@@ -355,7 +355,7 @@
     {
       "id": 2029,
       "character": "俗",
-      "pinyin": "su",
+      "pinyin": "sú",
       "tone": 2,
       "meaning": "custom",
       "story": "Custom person valley questions \"Soo? Tradition?\" curiously - folk practice!",
@@ -364,7 +364,7 @@
     {
       "id": 2030,
       "character": "償",
-      "pinyin": "chang",
+      "pinyin": "cháng",
       "tone": 2,
       "meaning": "repay",
       "story": "Repay person esteem questions \"Chahng? Compensate?\" curiously - repay with death!",
@@ -373,7 +373,7 @@
     {
       "id": 2031,
       "character": "臥",
-      "pinyin": "wo",
+      "pinyin": "wò",
       "tone": 4,
       "meaning": "for sleeping",
       "story": "For sleeping lying down commands sharply \"Woh!\" - recline bedroom!",
@@ -382,7 +382,7 @@
     {
       "id": 2032,
       "character": "傍",
-      "pinyin": "pang",
+      "pinyin": "páng",
       "tone": 2,
       "meaning": "close to",
       "story": "Close to person compass questions \"Pahng? Near?\" curiously - nightfall!",
@@ -391,7 +391,7 @@
     {
       "id": 2033,
       "character": "俺",
-      "pinyin": "an",
+      "pinyin": "ǎn",
       "tone": 3,
       "meaning": "we (exclusive)",
       "story": "We exclusive person hang glider bends down drooping \"Ahn\" - I northern dialect!",
@@ -400,7 +400,7 @@
     {
       "id": 2034,
       "character": "淹",
-      "pinyin": "yan",
+      "pinyin": "yān",
       "tone": 1,
       "meaning": "inundate",
       "story": "Inundate water hang glider sings \"Yan!\" cheerfully - flood drown!",
@@ -409,7 +409,7 @@
     {
       "id": 2035,
       "character": "掩",
-      "pinyin": "yan",
+      "pinyin": "yǎn",
       "tone": 3,
       "meaning": "conceal",
       "story": "Conceal fingers hang glider bends down drooping \"Yahn\" - cover hide protect!",
@@ -418,7 +418,7 @@
     {
       "id": 2036,
       "character": "催",
-      "pinyin": "cui",
+      "pinyin": "cuī",
       "tone": 1,
       "meaning": "prod",
       "story": "Prod person cliff sings \"Tsway!\" cheerfully - urge hasten!",
@@ -427,7 +427,7 @@
     {
       "id": 2037,
       "character": "摧",
-      "pinyin": "cui",
+      "pinyin": "cuī",
       "tone": 1,
       "meaning": "wreck",
       "story": "Wreck fingers pterodactyl sings \"Tsway!\" cheerfully - destroy demolish!",
@@ -436,7 +436,7 @@
     {
       "id": 2038,
       "character": "攜",
-      "pinyin": "xie",
+      "pinyin": "xié",
       "tone": 2,
       "meaning": "take along",
       "story": "Take along wreck hood animal legs mouth questions \"Shyeh? Bring?\" curiously - carry!",
@@ -445,7 +445,7 @@
     {
       "id": 2039,
       "character": "符",
-      "pinyin": "fu",
+      "pinyin": "fú",
       "tone": 2,
       "meaning": "symbol",
       "story": "Symbol bamboo payment questions \"Foo? Sign?\" curiously - talisman token!",
@@ -454,7 +454,7 @@
     {
       "id": 2040,
       "character": "貸",
-      "pinyin": "dai",
+      "pinyin": "dài",
       "tone": 4,
       "meaning": "loan",
       "story": "Loan substitute for shells commands sharply \"Digh!\" - lend borrow!",
@@ -463,7 +463,7 @@
     {
       "id": 2041,
       "character": "荷",
-      "pinyin": "he",
+      "pinyin": "hé",
       "tone": 2,
       "meaning": "Holland",
       "story": "Holland flowers what questions \"Huh? Lotus?\" curiously - Netherlands carry!",
@@ -472,7 +472,7 @@
     {
       "id": 2042,
       "character": "仗",
-      "pinyin": "zhang",
+      "pinyin": "zhàng",
       "tone": 4,
       "meaning": "battle",
       "story": "Battle person ten commands sharply \"Jahng!\" - fight war!",
@@ -481,7 +481,7 @@
     {
       "id": 2043,
       "character": "杖",
-      "pinyin": "zhang",
+      "pinyin": "zhàng",
       "tone": 4,
       "meaning": "cane",
       "story": "Cane tree 100 Chinese inches commands sharply \"Jahng!\" - walking stick staff!",
@@ -490,7 +490,7 @@
     {
       "id": 2044,
       "character": "夾",
-      "pinyin": "jia",
+      "pinyin": "jiā",
       "tone": 1,
       "meaning": "press from both sides",
       "story": "Press from both sides two people one sings \"Jyah!\" cheerfully - squeeze pinch!",
@@ -499,7 +499,7 @@
     {
       "id": 2045,
       "character": "俠",
-      "pinyin": "xia",
+      "pinyin": "xiá",
       "tone": 2,
       "meaning": "chivalrous person",
       "story": "Chivalrous person press both sides questions \"Shyah? Hero?\" curiously - knight warrior!",
@@ -508,7 +508,7 @@
     {
       "id": 2046,
       "character": "頰",
-      "pinyin": "jia",
+      "pinyin": "jiá",
       "tone": 2,
       "meaning": "cheek",
       "story": "Cheek press from both sides head questions \"Jyah? Face?\" curiously - twisted face flowing!",
@@ -517,7 +517,7 @@
     {
       "id": 2047,
       "character": "狹",
-      "pinyin": "xia",
+      "pinyin": "xiá",
       "tone": 2,
       "meaning": "narrow",
       "story": "Narrow pack of wild dogs press both sides questions \"Shyah? Tight?\" curiously - confined!",
@@ -526,7 +526,7 @@
     {
       "id": 2048,
       "character": "挾",
-      "pinyin": "xie",
+      "pinyin": "xié",
       "tone": 2,
       "meaning": "coerce",
       "story": "Coerce hand press both sides questions \"Shyeh? Force?\" curiously - compel threaten!",
@@ -535,7 +535,7 @@
     {
       "id": 2049,
       "character": "峽",
-      "pinyin": "xia",
+      "pinyin": "xiá",
       "tone": 2,
       "meaning": "gorge",
       "story": "Gorge mountain press both sides questions \"Shyah? Canyon?\" curiously - ravine valley!",
@@ -544,7 +544,7 @@
     {
       "id": 2050,
       "character": "傘",
-      "pinyin": "san",
+      "pinyin": "sǎn",
       "tone": 3,
       "meaning": "umbrella",
       "story": "Umbrella person people bends down drooping \"Sahn\" - rain cover parasol!",
@@ -553,7 +553,7 @@
     {
       "id": 2051,
       "character": "聚",
-      "pinyin": "ju",
+      "pinyin": "jù",
       "tone": 4,
       "meaning": "assemble",
       "story": "Assemble take ear commands sharply \"Jyoo!\" - gather superheroes unite!",
@@ -562,7 +562,7 @@
     {
       "id": 2052,
       "character": "挫",
-      "pinyin": "cuo",
+      "pinyin": "cuò",
       "tone": 4,
       "meaning": "frustrate",
       "story": "Frustrate fingers sit commands sharply \"Tswoh!\" - thwart defeat destroy bones!",
@@ -571,7 +571,7 @@
     {
       "id": 2053,
       "character": "劍",
-      "pinyin": "jian",
+      "pinyin": "jiàn",
       "tone": 4,
       "meaning": "saber",
       "story": "Saber assemble sword commands sharply \"Jyan!\" - blade weapon!",
@@ -580,7 +580,7 @@
     {
       "id": 2054,
       "character": "斂",
-      "pinyin": "lian",
+      "pinyin": "liǎn",
       "tone": 3,
       "meaning": "restrain",
       "story": "Restrain debate taskmaster bends down drooping \"Lyan\" - control tighten collect!",
@@ -589,7 +589,7 @@
     {
       "id": 2055,
       "character": "撿",
-      "pinyin": "jian",
+      "pinyin": "jiǎn",
       "tone": 3,
       "meaning": "pick up",
       "story": "Pick up hand restrain bends down drooping \"Jyan\" - gather find!",
@@ -598,7 +598,7 @@
     {
       "id": 2056,
       "character": "簽",
-      "pinyin": "qian",
+      "pinyin": "qiān",
       "tone": 1,
       "meaning": "sign",
       "story": "Sign bamboo assemble sings \"Chyan!\" cheerfully - autograph signature!",
@@ -607,7 +607,7 @@
     {
       "id": 2057,
       "character": "儉",
-      "pinyin": "jian",
+      "pinyin": "jiǎn",
       "tone": 3,
       "meaning": "thrifty",
       "story": "Thrifty person sign bends down drooping \"Jyan\" - frugal economical!",
@@ -616,7 +616,7 @@
     {
       "id": 2058,
       "character": "萊",
-      "pinyin": "lai",
+      "pinyin": "lái",
       "tone": 2,
       "meaning": "lambsquarters",
       "story": "Lambsquarters flowers come questions \"Ligh? Pigweed?\" curiously - edible plant!",
@@ -625,7 +625,7 @@
     {
       "id": 2059,
       "character": "葛",
-      "pinyin": "ge",
+      "pinyin": "gé",
       "tone": 2,
       "meaning": "kudzu",
       "story": "Kudzu flowers siesta questions \"Guh? Vine?\" curiously - climbing plant!",
@@ -634,7 +634,7 @@
     {
       "id": 2060,
       "character": "褐",
-      "pinyin": "he",
+      "pinyin": "hè",
       "tone": 4,
       "meaning": "brown",
       "story": "Brown clothing siesta commands sharply \"Huh!\" - dark color!",
@@ -643,7 +643,7 @@
     {
       "id": 2061,
       "character": "竭",
-      "pinyin": "jie",
+      "pinyin": "jié",
       "tone": 2,
       "meaning": "use up",
       "story": "Use up stand siesta questions \"Jyeh? Exhaust?\" curiously - deplete!",
@@ -652,7 +652,7 @@
     {
       "id": 2062,
       "character": "歇",
-      "pinyin": "xie",
+      "pinyin": "xiē",
       "tone": 1,
       "meaning": "take a rest",
       "story": "Take a rest siesta breath sings \"Shyeh!\" cheerfully - pause break!",
