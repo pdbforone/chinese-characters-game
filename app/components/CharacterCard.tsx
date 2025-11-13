@@ -8,6 +8,7 @@ interface CharacterCardProps {
   isMatched: boolean;
   isIncorrect: boolean;
   onClick: () => void;
+  hideDetails?: boolean; // Hide pinyin and meaning for harder difficulty
 }
 
 export default function CharacterCard({
@@ -15,7 +16,8 @@ export default function CharacterCard({
   isSelected,
   isMatched,
   isIncorrect,
-  onClick
+  onClick,
+  hideDetails = false
 }: CharacterCardProps) {
   let borderClass = 'border-2 border-gray-300';
   let bgClass = 'bg-white hover:bg-gray-50';
@@ -50,10 +52,12 @@ export default function CharacterCard({
       <div className="text-6xl mb-2 font-serif text-gray-900">
         {character.character}
       </div>
-      <div className="text-sm text-center">
-        <div className="font-medium text-gray-700">{character.pinyin}</div>
-        <div className="text-gray-600">{character.meaning}</div>
-      </div>
+      {!hideDetails && (
+        <div className="text-sm text-center">
+          <div className="font-medium text-gray-700">{character.pinyin}</div>
+          <div className="text-gray-600">{character.meaning}</div>
+        </div>
+      )}
       {isMatched && (
         <div className="mt-2">
           <span className="text-green-600 text-xl">✓</span>
