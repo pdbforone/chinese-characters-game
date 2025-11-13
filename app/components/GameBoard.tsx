@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 import { Character, GameStats, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
 import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
@@ -28,7 +28,7 @@ export default function GameBoard({
   totalPages = 1,
   gameMode = 'story-to-character',
   onRoundComplete,
-  onBackToLessons,
+  onBackToLessons: _onBackToLessons,
 }: GameBoardProps) {
   const [selectedLeft, setSelectedLeft] = useState<number | null>(null);
   const [selectedRight, setSelectedRight] = useState<number | null>(null);
@@ -40,15 +40,15 @@ export default function GameBoard({
     accuracy: 0,
   });
   const [showCompletion, setShowCompletion] = useState(false);
+  const [shuffleKey, setShuffleKey] = useState(0);
 
   // Shuffle right column for display (but keep left in order)
-  const [shuffledRight, setShuffledRight] = useState<Character[]>([]);
-
-  useEffect(() => {
-    // Shuffle characters for the right column
-    const shuffled = [...characters].sort(() => Math.random() - 0.5);
-    setShuffledRight(shuffled);
-  }, [characters]);
+  // Use useMemo to avoid setState in effect
+  const shuffledRight = useMemo(() => {
+    // Shuffling is intentionally impure - we want randomness each time characters change
+    // eslint-disable-next-line react-hooks/purity
+    return [...characters].sort(() => Math.random() - 0.5);
+  }, [characters, shuffleKey]);
 
   const handleLeftClick = (id: number) => {
     if (matched.has(id)) return;
@@ -145,9 +145,8 @@ export default function GameBoard({
       accuracy: 0,
     });
     setShowCompletion(false);
-    // Re-shuffle characters
-    const shuffled = [...characters].sort(() => Math.random() - 0.5);
-    setShuffledRight(shuffled);
+    // Trigger a new shuffle by incrementing the shuffle key
+    setShuffleKey((k) => k + 1);
   };
 
   if (shuffledRight.length === 0) {

@@ -1,16 +1,14 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { getSoundManager } from '@/lib/sounds';
 
 export default function SoundToggle() {
-  const [isMuted, setIsMuted] = useState(false);
-
-  useEffect(() => {
-    // Get initial mute state from sound manager
+  // Get initial mute state using useState with lazy initializer (no useEffect needed)
+  const [isMuted, setIsMuted] = useState(() => {
     const soundManager = getSoundManager();
-    setIsMuted(soundManager.isSoundMuted());
-  }, []);
+    return soundManager.isSoundMuted();
+  });
 
   const toggleMute = () => {
     const soundManager = getSoundManager();
