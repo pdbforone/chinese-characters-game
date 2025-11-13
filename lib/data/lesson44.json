@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1262,
+      "character": "廢",
+      "pinyin": "fei",
+      "tone": 4,
+      "meaning": "to discard",
+      "story": "To discard building send out commands sharply \"Fay!\" - terminate abolish!",
+      "primitives": []
+    },
+    {
+      "id": 1263,
       "character": "形",
       "pinyin": "xing",
       "tone": 2,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1263,
+      "id": 1264,
       "character": "影",
       "pinyin": "ying",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1264,
+      "id": 1265,
       "character": "彩",
       "pinyin": "cai",
       "tone": 3,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1265,
+      "id": 1266,
       "character": "須",
       "pinyin": "xu",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1266,
+      "id": 1267,
       "character": "珍",
       "pinyin": "zhen",
       "tone": 1,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1267,
+      "id": 1268,
       "character": "參",
       "pinyin": "can",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1268,
+      "id": 1269,
       "character": "慘",
       "pinyin": "can",
       "tone": 3,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1269,
+      "id": 1270,
       "character": "修",
       "pinyin": "xiu",
       "tone": 1,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1270,
+      "id": 1271,
       "character": "文",
       "pinyin": "wen",
       "tone": 2,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1271,
+      "id": 1272,
       "character": "蚊",
       "pinyin": "wen",
       "tone": 2,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1272,
+      "id": 1273,
       "character": "彥",
       "pinyin": "yan",
       "tone": 4,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1273,
+      "id": 1274,
       "character": "顏",
       "pinyin": "yan",
       "tone": 2,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1274,
+      "id": 1275,
       "character": "產",
       "pinyin": "chan",
       "tone": 3,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1275,
+      "id": 1276,
       "character": "率",
       "pinyin": "shuai",
       "tone": 4,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1276,
+      "id": 1277,
       "character": "摔",
       "pinyin": "shuai",
       "tone": 1,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1277,
+      "id": 1278,
       "character": "央",
       "pinyin": "yang",
       "tone": 1,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1278,
+      "id": 1279,
       "character": "英",
       "pinyin": "ying",
       "tone": 1,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 1279,
+      "id": 1280,
       "character": "巴",
       "pinyin": "ba",
       "tone": 1,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 1280,
+      "id": 1281,
       "character": "把",
       "pinyin": "ba",
       "tone": 3,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 1281,
+      "id": 1282,
       "character": "爸",
       "pinyin": "ba",
       "tone": 4,
@@ -182,30 +191,21 @@
       "primitives": []
     },
     {
-      "id": 1282,
+      "id": 1283,
       "character": "吧",
       "pinyin": "ba",
-      "tone": 1,
+      "tone": 5,
       "meaning": "Bar",
       "story": "Bar mouth crust says \"bah\" neutrally - onomatopoeia for bar!",
       "primitives": []
     },
     {
-      "id": 1283,
+      "id": 1284,
       "character": "色",
       "pinyin": "se",
       "tone": 4,
       "meaning": "Color",
       "story": "Color knife snake commands sharply \"Suh!\" - look appearance hue!",
-      "primitives": []
-    },
-    {
-      "id": 1284,
-      "character": "絕",
-      "pinyin": "jue",
-      "tone": 2,
-      "meaning": "to discontinue",
-      "story": "To discontinue thread color questions \"Jyueh? Break off?\" curiously - extinct!",
       "primitives": []
     }
   ]

@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1302,
+      "character": "助",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "to assist",
+      "story": "To assist moreover power commands sharply \"Joo!\" - help!",
+      "primitives": []
+    },
+    {
+      "id": 1303,
       "character": "並",
       "pinyin": "bing",
       "tone": 4,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1303,
+      "id": 1304,
       "character": "普",
       "pinyin": "pu",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1304,
+      "id": 1305,
       "character": "業",
       "pinyin": "ye",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1305,
+      "id": 1306,
       "character": "對",
       "pinyin": "dui",
       "tone": 4,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1306,
+      "id": 1307,
       "character": "共",
       "pinyin": "gong",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1307,
+      "id": 1308,
       "character": "供",
       "pinyin": "gong",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1308,
+      "id": 1309,
       "character": "異",
       "pinyin": "yi",
       "tone": 4,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1309,
+      "id": 1310,
       "character": "巷",
       "pinyin": "xiang",
       "tone": 4,
@@ -74,21 +83,12 @@
       "primitives": []
     },
     {
-      "id": 1310,
+      "id": 1311,
       "character": "港",
       "pinyin": "gang",
       "tone": 3,
       "meaning": "Port",
       "story": "Port water lane bends down drooping \"Gahng\" - harbor Hong Kong!",
-      "primitives": []
-    },
-    {
-      "id": 1311,
-      "character": "選",
-      "pinyin": "xuan",
-      "tone": 3,
-      "meaning": "to choose",
-      "story": "To choose road together bends down drooping \"Shyuan\" - pick select elect!",
       "primitives": []
     }
   ]

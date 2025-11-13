@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1534,
+      "character": "澆",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "sprinkle",
+      "story": "Sprinkle water proud sings \"Jyao!\" cheerfully - pour water on!",
+      "primitives": []
+    },
+    {
+      "id": 1535,
       "character": "哩",
       "pinyin": "li",
       "tone": 3,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1535,
+      "id": 1536,
       "character": "鯉",
       "pinyin": "li",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1536,
+      "id": 1537,
       "character": "嘿",
       "pinyin": "hei",
       "tone": 1,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1537,
+      "id": 1538,
       "character": "丹",
       "pinyin": "dan",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1538,
+      "id": 1539,
       "character": "喧",
       "pinyin": "xuan",
       "tone": 1,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1539,
+      "id": 1540,
       "character": "賓",
       "pinyin": "bin",
       "tone": 1,
@@ -56,21 +65,12 @@
       "primitives": []
     },
     {
-      "id": 1540,
+      "id": 1541,
       "character": "濱",
       "pinyin": "bin",
       "tone": 1,
       "meaning": "water's edge",
       "story": "Water's edge water visitor sings \"Bin!\" cheerfully - shore bank!",
-      "primitives": []
-    },
-    {
-      "id": 1541,
-      "character": "寡",
-      "pinyin": "gua",
-      "tone": 3,
-      "meaning": "widowed",
-      "story": "Widowed house divide bends down drooping \"Gwah\" - alone bereaved!",
       "primitives": []
     }
   ]

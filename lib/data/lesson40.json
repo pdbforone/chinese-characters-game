@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1186,
+      "character": "睡",
+      "pinyin": "shui",
+      "tone": 4,
+      "meaning": "to sleep",
+      "story": "To sleep eye droop commands sharply \"Shway!\" - drowsy rest!",
+      "primitives": []
+    },
+    {
+      "id": 1187,
       "character": "今",
       "pinyin": "jin",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1187,
+      "id": 1188,
       "character": "含",
       "pinyin": "han",
       "tone": 2,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1188,
+      "id": 1189,
       "character": "念",
       "pinyin": "nian",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1189,
+      "id": 1190,
       "character": "陰",
       "pinyin": "yin",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1190,
+      "id": 1191,
       "character": "蔭",
       "pinyin": "yin",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1191,
+      "id": 1192,
       "character": "西",
       "pinyin": "xi",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1192,
+      "id": 1193,
       "character": "要",
       "pinyin": "yao",
       "tone": 4,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1193,
+      "id": 1194,
       "character": "腰",
       "pinyin": "yao",
       "tone": 1,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1194,
+      "id": 1195,
       "character": "票",
       "pinyin": "piao",
       "tone": 4,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1195,
+      "id": 1196,
       "character": "漂",
       "pinyin": "piao",
       "tone": 4,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1196,
+      "id": 1197,
       "character": "標",
       "pinyin": "biao",
       "tone": 1,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1197,
+      "id": 1198,
       "character": "賈",
       "pinyin": "gu",
       "tone": 3,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1198,
+      "id": 1199,
       "character": "價",
       "pinyin": "jia",
       "tone": 4,
@@ -119,21 +128,12 @@
       "primitives": []
     },
     {
-      "id": 1199,
+      "id": 1200,
       "character": "煙",
       "pinyin": "yan",
-      "tone": 1,
+      "tone": 5,
       "meaning": "the Smoke",
       "story": "The smoke fire west says \"Yan\" neutrally - cigarette tobacco rising!",
-      "primitives": []
-    },
-    {
-      "id": 1200,
-      "character": "南",
-      "pinyin": "nan",
-      "tone": 2,
-      "meaning": "South",
-      "story": "South ten questions \"Nahn? Direction?\" curiously - southern southward!",
       "primitives": []
     }
   ]

@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1201,
+      "character": "南",
+      "pinyin": "nan",
+      "tone": 2,
+      "meaning": "South",
+      "story": "South ten questions \"Nahn? Direction?\" curiously - southern southward!",
+      "primitives": []
+    },
+    {
+      "id": 1202,
       "character": "門",
       "pinyin": "men",
       "tone": 2,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1202,
+      "id": 1203,
       "character": "們",
       "pinyin": "men",
       "tone": 5,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1203,
+      "id": 1204,
       "character": "閒",
       "pinyin": "xian",
       "tone": 2,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1204,
+      "id": 1205,
       "character": "問",
       "pinyin": "wen",
       "tone": 4,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1205,
+      "id": 1206,
       "character": "間",
       "pinyin": "jian",
       "tone": 1,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1206,
+      "id": 1207,
       "character": "簡",
       "pinyin": "jian",
       "tone": 3,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1207,
+      "id": 1208,
       "character": "開",
       "pinyin": "kai",
       "tone": 1,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1208,
+      "id": 1209,
       "character": "聞",
       "pinyin": "wen",
       "tone": 2,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1209,
+      "id": 1210,
       "character": "倉",
       "pinyin": "cang",
       "tone": 1,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1210,
+      "id": 1211,
       "character": "槍",
       "pinyin": "qiang",
       "tone": 1,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1211,
+      "id": 1212,
       "character": "創",
       "pinyin": "chuang",
       "tone": 4,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1212,
+      "id": 1213,
       "character": "非",
       "pinyin": "fei",
       "tone": 1,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1213,
+      "id": 1214,
       "character": "排",
       "pinyin": "pai",
       "tone": 2,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1214,
+      "id": 1215,
       "character": "罪",
       "pinyin": "zui",
       "tone": 4,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1215,
+      "id": 1216,
       "character": "靠",
       "pinyin": "kao",
       "tone": 4,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1216,
+      "id": 1217,
       "character": "侯",
       "pinyin": "hou",
       "tone": 2,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1217,
+      "id": 1218,
       "character": "候",
       "pinyin": "hou",
       "tone": 4,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 1218,
+      "id": 1219,
       "character": "決",
       "pinyin": "jue",
       "tone": 2,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 1219,
+      "id": 1220,
       "character": "快",
       "pinyin": "kuai",
       "tone": 4,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 1220,
+      "id": 1221,
       "character": "筷",
       "pinyin": "kuai",
       "tone": 4,
@@ -182,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 1221,
+      "id": 1222,
       "character": "韋",
       "pinyin": "wei",
       "tone": 2,
@@ -191,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 1222,
+      "id": 1223,
       "character": "圍",
       "pinyin": "wei",
       "tone": 2,
@@ -200,21 +209,12 @@
       "primitives": []
     },
     {
-      "id": 1223,
+      "id": 1224,
       "character": "偉",
       "pinyin": "wei",
       "tone": 3,
       "meaning": "great",
       "story": "Great person hide bends down drooping \"Way\" - big and admirable!",
-      "primitives": []
-    },
-    {
-      "id": 1224,
-      "character": "衛",
-      "pinyin": "wei",
-      "tone": 4,
-      "meaning": "to defend",
-      "story": "To defend march hide commands sharply \"Way!\" - guard protect defense!",
       "primitives": []
     }
   ]

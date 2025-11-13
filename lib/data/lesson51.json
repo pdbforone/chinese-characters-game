@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1374,
+      "character": "蒸",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "to steam",
+      "story": "To steam flowers undertake sings \"Jung!\" cheerfully - cooking vapor!",
+      "primitives": []
+    },
+    {
+      "id": 1375,
       "character": "牙",
       "pinyin": "ya",
       "tone": 2,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1375,
+      "id": 1376,
       "character": "穿",
       "pinyin": "chuan",
       "tone": 1,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1376,
+      "id": 1377,
       "character": "呀",
       "pinyin": "ya",
       "tone": 5,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1377,
+      "id": 1378,
       "character": "釋",
       "pinyin": "shi",
       "tone": 4,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1378,
+      "id": 1379,
       "character": "番",
       "pinyin": "fan",
       "tone": 1,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1379,
+      "id": 1380,
       "character": "翻",
       "pinyin": "fan",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1380,
+      "id": 1381,
       "character": "播",
       "pinyin": "bo",
       "tone": 1,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1381,
+      "id": 1382,
       "character": "毛",
       "pinyin": "mao",
       "tone": 2,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1382,
+      "id": 1383,
       "character": "尾",
       "pinyin": "wei",
       "tone": 3,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1383,
+      "id": 1384,
       "character": "宅",
       "pinyin": "zhai",
       "tone": 2,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1384,
+      "id": 1385,
       "character": "託",
       "pinyin": "tuo",
       "tone": 1,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1385,
+      "id": 1386,
       "character": "為",
       "pinyin": "wei",
       "tone": 4,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1386,
+      "id": 1387,
       "character": "偽",
       "pinyin": "wei",
       "tone": 3,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1387,
+      "id": 1388,
       "character": "長",
       "pinyin": "chang",
       "tone": 2,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1388,
+      "id": 1389,
       "character": "張",
       "pinyin": "zhang",
       "tone": 1,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1389,
+      "id": 1390,
       "character": "漲",
       "pinyin": "zhang",
       "tone": 4,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1390,
+      "id": 1391,
       "character": "套",
       "pinyin": "tao",
       "tone": 4,
@@ -155,30 +164,21 @@
       "primitives": []
     },
     {
-      "id": 1391,
+      "id": 1392,
       "character": "髮",
       "pinyin": "fa",
-      "tone": 4,
+      "tone": 3,
       "meaning": "Hair of the Head",
       "story": "Hair of the head friend long bends down drooping \"Fah\" - scalp hair!",
       "primitives": []
     },
     {
-      "id": 1392,
+      "id": 1393,
       "character": "展",
       "pinyin": "zhan",
       "tone": 3,
       "meaning": "to unfold",
       "story": "To unfold body clothes bends down drooping \"Jahn\" - spread out postpone!",
-      "primitives": []
-    },
-    {
-      "id": 1393,
-      "character": "喪",
-      "pinyin": "sang",
-      "tone": 4,
-      "meaning": "Funeral",
-      "story": "Funeral mouth dogs commands sharply \"Sahng!\" - lose mourn miss!",
       "primitives": []
     }
   ]

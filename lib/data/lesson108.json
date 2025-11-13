@@ -3,24 +3,6 @@
   "characters": [
     {
       "id": 2847,
-      "character": "騰",
-      "pinyin": "teng",
-      "tone": 2,
-      "meaning": "take flight",
-      "story": "\"TUNG?\" the horse questions curiously - to take flight, soar, and rise?",
-      "primitives": []
-    },
-    {
-      "id": 2848,
-      "character": "碼",
-      "pinyin": "ma",
-      "tone": 3,
-      "meaning": "numeral",
-      "story": "The stone bends down drooping - a numeral, number, and digit.",
-      "primitives": []
-    },
-    {
-      "id": 2849,
       "character": "馴",
       "pinyin": "xun",
       "tone": 2,
@@ -29,7 +11,7 @@
       "primitives": []
     },
     {
-      "id": 2850,
+      "id": 2848,
       "character": "瑪",
       "pinyin": "ma",
       "tone": 3,
@@ -38,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2851,
+      "id": 2849,
       "character": "駐",
       "pinyin": "zhu",
       "tone": 4,
@@ -47,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 2852,
+      "id": 2850,
       "character": "驕",
       "pinyin": "jiao",
       "tone": 1,
@@ -56,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 2853,
+      "id": 2851,
       "character": "馳",
       "pinyin": "chi",
       "tone": 2,
@@ -65,16 +47,16 @@
       "primitives": []
     },
     {
-      "id": 2854,
+      "id": 2852,
       "character": "螞",
       "pinyin": "ma",
-      "tone": 3,
+      "tone": 4,
       "meaning": "leech-hopper",
       "story": "\"MAH!\" the insect and horse command sharply - leech-hopper, ant, and grasshopper - black!",
       "primitives": []
     },
     {
-      "id": 2855,
+      "id": 2853,
       "character": "憑",
       "pinyin": "ping",
       "tone": 2,
@@ -83,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 2856,
+      "id": 2854,
       "character": "駛",
       "pinyin": "shi",
       "tone": 3,
@@ -92,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2857,
+      "id": 2855,
       "character": "騷",
       "pinyin": "sao",
       "tone": 1,
@@ -101,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2858,
+      "id": 2856,
       "character": "駕",
       "pinyin": "jia",
       "tone": 4,
@@ -110,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 2859,
+      "id": 2857,
       "character": "騾",
       "pinyin": "luo",
       "tone": 2,
@@ -119,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 2860,
+      "id": 2858,
       "character": "駁",
       "pinyin": "bo",
       "tone": 2,
@@ -128,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 2861,
+      "id": 2859,
       "character": "闖",
       "pinyin": "chuang",
       "tone": 3,
@@ -137,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 2862,
+      "id": 2860,
       "character": "驅",
       "pinyin": "qu",
       "tone": 1,
@@ -146,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 2863,
+      "id": 2861,
       "character": "騙",
       "pinyin": "pian",
       "tone": 4,
@@ -155,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 2864,
+      "id": 2862,
       "character": "驟",
       "pinyin": "zhou",
       "tone": 4,
@@ -164,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 2865,
+      "id": 2863,
       "character": "遞",
       "pinyin": "di",
       "tone": 4,
@@ -173,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 2866,
+      "id": 2864,
       "character": "虜",
       "pinyin": "lu",
       "tone": 3,
@@ -182,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 2867,
+      "id": 2865,
       "character": "虐",
       "pinyin": "nüe",
       "tone": 4,
@@ -191,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 2868,
+      "id": 2866,
       "character": "膚",
       "pinyin": "fu",
       "tone": 1,
@@ -200,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 2869,
+      "id": 2867,
       "character": "盧",
       "pinyin": "lu",
       "tone": 2,
@@ -209,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 2870,
+      "id": 2868,
       "character": "爐",
       "pinyin": "lu",
       "tone": 2,
@@ -218,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 2871,
+      "id": 2869,
       "character": "蘆",
       "pinyin": "lu",
       "tone": 2,
@@ -227,7 +209,7 @@
       "primitives": []
     },
     {
-      "id": 2872,
+      "id": 2870,
       "character": "驢",
       "pinyin": "lü",
       "tone": 2,
@@ -236,7 +218,7 @@
       "primitives": []
     },
     {
-      "id": 2873,
+      "id": 2871,
       "character": "虧",
       "pinyin": "kui",
       "tone": 1,
@@ -245,7 +227,7 @@
       "primitives": []
     },
     {
-      "id": 2874,
+      "id": 2872,
       "character": "污",
       "pinyin": "wu",
       "tone": 1,
@@ -254,7 +236,7 @@
       "primitives": []
     },
     {
-      "id": 2875,
+      "id": 2873,
       "character": "愕",
       "pinyin": "e",
       "tone": 4,
@@ -263,7 +245,7 @@
       "primitives": []
     },
     {
-      "id": 2876,
+      "id": 2874,
       "character": "誇",
       "pinyin": "kua",
       "tone": 1,
@@ -272,7 +254,7 @@
       "primitives": []
     },
     {
-      "id": 2877,
+      "id": 2875,
       "character": "垮",
       "pinyin": "kua",
       "tone": 3,
@@ -281,7 +263,7 @@
       "primitives": []
     },
     {
-      "id": 2878,
+      "id": 2876,
       "character": "跨",
       "pinyin": "kua",
       "tone": 4,
@@ -290,7 +272,7 @@
       "primitives": []
     },
     {
-      "id": 2879,
+      "id": 2877,
       "character": "獻",
       "pinyin": "xian",
       "tone": 4,
@@ -299,7 +281,7 @@
       "primitives": []
     },
     {
-      "id": 2880,
+      "id": 2878,
       "character": "融",
       "pinyin": "rong",
       "tone": 2,
@@ -308,7 +290,7 @@
       "primitives": []
     },
     {
-      "id": 2881,
+      "id": 2879,
       "character": "隔",
       "pinyin": "ge",
       "tone": 2,
@@ -317,7 +299,7 @@
       "primitives": []
     },
     {
-      "id": 2882,
+      "id": 2880,
       "character": "濾",
       "pinyin": "lü",
       "tone": 4,
@@ -326,7 +308,7 @@
       "primitives": []
     },
     {
-      "id": 2883,
+      "id": 2881,
       "character": "慶",
       "pinyin": "qing",
       "tone": 4,
@@ -335,7 +317,7 @@
       "primitives": []
     },
     {
-      "id": 2884,
+      "id": 2882,
       "character": "薦",
       "pinyin": "jian",
       "tone": 4,
@@ -344,7 +326,7 @@
       "primitives": []
     },
     {
-      "id": 2885,
+      "id": 2883,
       "character": "傑",
       "pinyin": "jie",
       "tone": 2,
@@ -353,7 +335,7 @@
       "primitives": []
     },
     {
-      "id": 2886,
+      "id": 2884,
       "character": "瞬",
       "pinyin": "shun",
       "tone": 4,
@@ -362,7 +344,7 @@
       "primitives": []
     },
     {
-      "id": 2887,
+      "id": 2885,
       "character": "麟",
       "pinyin": "lin",
       "tone": 2,
@@ -371,7 +353,7 @@
       "primitives": []
     },
     {
-      "id": 2888,
+      "id": 2886,
       "character": "憐",
       "pinyin": "lian",
       "tone": 2,
@@ -380,7 +362,7 @@
       "primitives": []
     },
     {
-      "id": 2889,
+      "id": 2887,
       "character": "鄰",
       "pinyin": "lin",
       "tone": 2,
@@ -389,7 +371,7 @@
       "primitives": []
     },
     {
-      "id": 2890,
+      "id": 2888,
       "character": "曬",
       "pinyin": "shai",
       "tone": 4,
@@ -398,7 +380,7 @@
       "primitives": []
     },
     {
-      "id": 2891,
+      "id": 2889,
       "character": "灑",
       "pinyin": "sa",
       "tone": 3,
@@ -407,21 +389,39 @@
       "primitives": []
     },
     {
-      "id": 2892,
+      "id": 2890,
       "character": "罷",
       "pinyin": "ba",
-      "tone": 4,
+      "tone": 5,
       "meaning": "cease",
       "story": "\"BAH,\" he says neutrally - to cease, stop, and quit.",
       "primitives": []
     },
     {
-      "id": 2893,
+      "id": 2891,
       "character": "擺",
       "pinyin": "bai",
       "tone": 3,
       "meaning": "put in order",
       "story": "The fingers bend down drooping - to put in order, arrange, and display.",
+      "primitives": []
+    },
+    {
+      "id": 2892,
+      "character": "唇",
+      "pinyin": "chun",
+      "tone": 2,
+      "meaning": "lips",
+      "story": "\"CHWUN?\" the sign of dragon and mouth question curiously - lips, thirsty, and ruptured?",
+      "primitives": []
+    },
+    {
+      "id": 2893,
+      "character": "辱",
+      "pinyin": "ru",
+      "tone": 4,
+      "meaning": "disgrace",
+      "story": "\"ROO!\" he commands sharply - disgrace, shame, insult, and scold!",
       "primitives": []
     }
   ]

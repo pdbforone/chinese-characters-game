@@ -3,24 +3,6 @@
   "characters": [
     {
       "id": 2748,
-      "character": "緞",
-      "pinyin": "duan",
-      "tone": 4,
-      "meaning": "satin",
-      "story": "\"DWAN!\" the thread commands sharply - satin, silk ribbon for her hair!",
-      "primitives": []
-    },
-    {
-      "id": 2749,
-      "character": "刁",
-      "pinyin": "diao",
-      "tone": 1,
-      "meaning": "wily",
-      "story": "\"DYAO!\" the clothes hanger drops and sings cheerfully - wily, cunning, and difficult!",
-      "primitives": []
-    },
-    {
-      "id": 2750,
       "character": "叼",
       "pinyin": "diao",
       "tone": 1,
@@ -29,7 +11,7 @@
       "primitives": []
     },
     {
-      "id": 2751,
+      "id": 2749,
       "character": "殷",
       "pinyin": "yin",
       "tone": 1,
@@ -38,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2752,
+      "id": 2750,
       "character": "壽",
       "pinyin": "shou",
       "tone": 4,
@@ -47,16 +29,16 @@
       "primitives": []
     },
     {
-      "id": 2753,
+      "id": 2751,
       "character": "濤",
       "pinyin": "tao",
-      "tone": 1,
+      "tone": 2,
       "meaning": "large waves",
       "story": "\"TAO?\" the water and long grey beard question curiously - are those large waves surging in the ocean?",
       "primitives": []
     },
     {
-      "id": 2754,
+      "id": 2752,
       "character": "鑄",
       "pinyin": "zhu",
       "tone": 4,
@@ -65,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 2755,
+      "id": 2753,
       "character": "禱",
       "pinyin": "dao",
       "tone": 3,
@@ -74,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 2756,
+      "id": 2754,
       "character": "籌",
       "pinyin": "chou",
       "tone": 2,
@@ -83,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 2757,
+      "id": 2755,
       "character": "伺",
       "pinyin": "ci",
       "tone": 4,
@@ -92,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2758,
+      "id": 2756,
       "character": "飼",
       "pinyin": "si",
       "tone": 4,
@@ -101,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2759,
+      "id": 2757,
       "character": "舶",
       "pinyin": "bo",
       "tone": 2,
@@ -110,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 2760,
+      "id": 2758,
       "character": "航",
       "pinyin": "hang",
       "tone": 2,
@@ -119,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 2761,
+      "id": 2759,
       "character": "艇",
       "pinyin": "ting",
       "tone": 3,
@@ -128,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 2762,
+      "id": 2760,
       "character": "艦",
       "pinyin": "jian",
       "tone": 4,
@@ -137,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 2763,
+      "id": 2761,
       "character": "艙",
       "pinyin": "cang",
       "tone": 1,
@@ -146,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 2764,
+      "id": 2762,
       "character": "沿",
       "pinyin": "yan",
       "tone": 2,
@@ -155,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 2765,
+      "id": 2763,
       "character": "鉛",
       "pinyin": "qian",
       "tone": 1,
@@ -164,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 2766,
+      "id": 2764,
       "character": "狐",
       "pinyin": "hu",
       "tone": 2,
@@ -173,12 +155,30 @@
       "primitives": []
     },
     {
-      "id": 2767,
+      "id": 2765,
       "character": "瓣",
       "pinyin": "ban",
       "tone": 4,
       "meaning": "petal",
       "story": "\"BAN!\" the two chili peppers and melon command sharply - a petal, flower part used in bean sauce!",
+      "primitives": []
+    },
+    {
+      "id": 2766,
+      "character": "溢",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "brim over",
+      "story": "\"YEE!\" the water commands sharply - to brim over, overflow with yin iron resentment!",
+      "primitives": []
+    },
+    {
+      "id": 2767,
+      "character": "暇",
+      "pinyin": "xia",
+      "tone": 2,
+      "meaning": "spare time",
+      "story": "\"SHYAH?\" the sun questions curiously - is there spare time? The gods have leisure but can't carry themselves.",
       "primitives": []
     }
   ]

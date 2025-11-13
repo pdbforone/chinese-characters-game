@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1542,
+      "character": "寡",
+      "pinyin": "gua",
+      "tone": 3,
+      "meaning": "widowed",
+      "story": "Widowed house divide bends down drooping \"Gwah\" - alone bereaved!",
+      "primitives": []
+    },
+    {
+      "id": 1543,
       "character": "棚",
       "pinyin": "peng",
       "tone": 2,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1543,
+      "id": 1544,
       "character": "柏",
       "pinyin": "bai",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1544,
+      "id": 1545,
       "character": "槓",
       "pinyin": "gang",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1545,
+      "id": 1546,
       "character": "朵",
       "pinyin": "duo",
       "tone": 3,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1546,
+      "id": 1547,
       "character": "杜",
       "pinyin": "du",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1547,
+      "id": 1548,
       "character": "桂",
       "pinyin": "gui",
       "tone": 4,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1548,
+      "id": 1549,
       "character": "椅",
       "pinyin": "yi",
       "tone": 3,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1549,
+      "id": 1550,
       "character": "杰",
       "pinyin": "jie",
       "tone": 2,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1550,
+      "id": 1551,
       "character": "櫻",
       "pinyin": "ying",
       "tone": 1,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1551,
+      "id": 1552,
       "character": "梢",
       "pinyin": "shao",
       "tone": 1,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1552,
+      "id": 1553,
       "character": "桐",
       "pinyin": "tong",
       "tone": 2,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1553,
+      "id": 1554,
       "character": "宋",
       "pinyin": "song",
       "tone": 4,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1554,
+      "id": 1555,
       "character": "淋",
       "pinyin": "lin",
       "tone": 2,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1555,
+      "id": 1556,
       "character": "焚",
       "pinyin": "fen",
       "tone": 2,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1556,
+      "id": 1557,
       "character": "昧",
       "pinyin": "mei",
       "tone": 4,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1557,
+      "id": 1558,
       "character": "朱",
       "pinyin": "zhu",
       "tone": 1,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1558,
+      "id": 1559,
       "character": "株",
       "pinyin": "zhu",
       "tone": 1,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 1559,
+      "id": 1560,
       "character": "樑",
       "pinyin": "liang",
       "tone": 2,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 1560,
+      "id": 1561,
       "character": "碟",
       "pinyin": "die",
       "tone": 2,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 1561,
+      "id": 1562,
       "character": "萌",
       "pinyin": "meng",
       "tone": 2,
@@ -182,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 1562,
+      "id": 1563,
       "character": "苛",
       "pinyin": "ke",
       "tone": 1,
@@ -191,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 1563,
+      "id": 1564,
       "character": "膜",
       "pinyin": "mo",
       "tone": 2,
@@ -200,21 +209,12 @@
       "primitives": []
     },
     {
-      "id": 1564,
+      "id": 1565,
       "character": "寞",
       "pinyin": "mo",
       "tone": 4,
       "meaning": "solitary",
       "story": "Solitary house membrane commands sharply \"Mwo!\" - lonely desolate!",
-      "primitives": []
-    },
-    {
-      "id": 1565,
-      "character": "暮",
-      "pinyin": "mu",
-      "tone": 4,
-      "meaning": "sunset",
-      "story": "Sunset graveyard sun commands sharply \"Moo!\" - dusk evening!",
       "primitives": []
     }
   ]

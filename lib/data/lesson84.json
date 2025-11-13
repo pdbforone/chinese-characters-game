@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 2099,
+      "character": "扇",
+      "pinyin": "shan",
+      "tone": 4,
+      "meaning": "fan",
+      "story": "Fan door wings commands sharply \"Shahn!\" - cooling device electric breeze!",
+      "primitives": []
+    },
+    {
+      "id": 2100,
       "character": "奈",
       "pinyin": "nai",
       "tone": 4,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2100,
+      "id": 2101,
       "character": "款",
       "pinyin": "kuan",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 2101,
+      "id": 2102,
       "character": "祟",
       "pinyin": "sui",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 2102,
+      "id": 2103,
       "character": "祝",
       "pinyin": "zhu",
       "tone": 4,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 2103,
+      "id": 2104,
       "character": "祥",
       "pinyin": "xiang",
       "tone": 2,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 2104,
+      "id": 2105,
       "character": "祕",
       "pinyin": "mi",
       "tone": 4,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 2105,
+      "id": 2106,
       "character": "慰",
       "pinyin": "wei",
       "tone": 4,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2106,
+      "id": 2107,
       "character": "蔚",
       "pinyin": "wei",
       "tone": 4,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2107,
+      "id": 2108,
       "character": "蒜",
       "pinyin": "suan",
       "tone": 4,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 2108,
+      "id": 2109,
       "character": "棕",
       "pinyin": "zong",
       "tone": 1,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 2109,
+      "id": 2110,
       "character": "宙",
       "pinyin": "zhou",
       "tone": 4,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 2110,
+      "id": 2111,
       "character": "軸",
       "pinyin": "zhou",
       "tone": 2,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 2111,
+      "id": 2112,
       "character": "袖",
       "pinyin": "xiu",
       "tone": 4,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 2112,
+      "id": 2113,
       "character": "笛",
       "pinyin": "di",
       "tone": 2,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 2113,
+      "id": 2114,
       "character": "坤",
       "pinyin": "kun",
       "tone": 1,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 2114,
+      "id": 2115,
       "character": "呻",
       "pinyin": "shen",
       "tone": 1,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 2115,
+      "id": 2116,
       "character": "暢",
       "pinyin": "chang",
       "tone": 4,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 2116,
+      "id": 2117,
       "character": "夥",
       "pinyin": "huo",
       "tone": 3,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 2117,
+      "id": 2118,
       "character": "巢",
       "pinyin": "chao",
       "tone": 2,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 2118,
+      "id": 2119,
       "character": "棵",
       "pinyin": "ke",
       "tone": 1,
@@ -182,21 +191,12 @@
       "primitives": []
     },
     {
-      "id": 2119,
+      "id": 2120,
       "character": "裸",
       "pinyin": "luo",
       "tone": 3,
       "meaning": "naked",
       "story": "Naked clothing fruit bends down drooping \"Lwoh\" - bare exposed!",
-      "primitives": []
-    },
-    {
-      "id": 2120,
-      "character": "裹",
-      "pinyin": "guo",
-      "tone": 3,
-      "meaning": "envelop",
-      "story": "Envelop top hat scarf fruit bends down drooping \"Gwoh\" - wrap bundle!",
       "primitives": []
     }
   ]

@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 2572,
+      "character": "緯",
+      "pinyin": "wei",
+      "tone": 3,
+      "meaning": "latitude",
+      "story": "The thread and locket bend down drooping - the latitude, a parallel line!",
+      "primitives": []
+    },
+    {
+      "id": 2573,
       "character": "竿",
       "pinyin": "gan",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2573,
+      "id": 2574,
       "character": "罕",
       "pinyin": "han",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 2574,
+      "id": 2575,
       "character": "軒",
       "pinyin": "xuan",
       "tone": 1,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 2575,
+      "id": 2576,
       "character": "肝",
       "pinyin": "gan",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 2576,
+      "id": 2577,
       "character": "刊",
       "pinyin": "kan",
       "tone": 1,
@@ -47,16 +56,16 @@
       "primitives": []
     },
     {
-      "id": 2577,
+      "id": 2578,
       "character": "汗",
       "pinyin": "han",
-      "tone": 4,
+      "tone": 2,
       "meaning": "sweat",
       "story": "\"HAN?\" the water questions curiously after the offend - is this sweat, perspiration on the hair?",
       "primitives": []
     },
     {
-      "id": 2578,
+      "id": 2579,
       "character": "桿",
       "pinyin": "gan",
       "tone": 3,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2579,
+      "id": 2580,
       "character": "悍",
       "pinyin": "han",
       "tone": 4,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2580,
+      "id": 2581,
       "character": "徐",
       "pinyin": "xu",
       "tone": 2,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 2581,
+      "id": 2582,
       "character": "敘",
       "pinyin": "xu",
       "tone": 4,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 2582,
+      "id": 2583,
       "character": "塗",
       "pinyin": "tu",
       "tone": 2,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 2583,
+      "id": 2584,
       "character": "斜",
       "pinyin": "xie",
       "tone": 2,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 2584,
+      "id": 2585,
       "character": "喇",
       "pinyin": "la",
       "tone": 3,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 2585,
+      "id": 2586,
       "character": "嗽",
       "pinyin": "sou",
       "tone": 4,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 2586,
+      "id": 2587,
       "character": "賴",
       "pinyin": "lai",
       "tone": 4,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 2587,
+      "id": 2588,
       "character": "懶",
       "pinyin": "lan",
       "tone": 3,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 2588,
+      "id": 2589,
       "character": "嫩",
       "pinyin": "nen",
       "tone": 4,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 2589,
+      "id": 2590,
       "character": "煉",
       "pinyin": "lian",
       "tone": 4,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 2590,
+      "id": 2591,
       "character": "鍊",
       "pinyin": "lian",
       "tone": 4,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 2591,
+      "id": 2592,
       "character": "腫",
       "pinyin": "zhong",
       "tone": 3,
@@ -182,21 +191,12 @@
       "primitives": []
     },
     {
-      "id": 2592,
+      "id": 2593,
       "character": "董",
       "pinyin": "dong",
       "tone": 3,
       "meaning": "director",
       "story": "The flowers and heavy bend down drooping - the director, supervisor and manager!",
-      "primitives": []
-    },
-    {
-      "id": 2593,
-      "character": "鍾",
-      "pinyin": "zhong",
-      "tone": 1,
-      "meaning": "draw together",
-      "story": "\"JUNG!\" the metal and heavy sing cheerfully - to draw together, concentrate and focus!",
       "primitives": []
     }
   ]

@@ -2,165 +2,219 @@
   "lesson": 32,
   "characters": [
     {
-      "id": 559,
-      "character": "打",
-      "pinyin": "da",
+      "id": 927,
+      "character": "機",
+      "pinyin": "Ji",
+      "tone": 1,
+      "meaning": "Machine",
+      "story": "Machine sings \"Ji!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 928,
+      "character": "斷",
+      "pinyin": "Duan",
+      "tone": 4,
+      "meaning": "to sever",
+      "story": "to sever commands \"Duan!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 929,
+      "character": "繼",
+      "pinyin": "Ji",
+      "tone": 4,
+      "meaning": "to carry on",
+      "story": "to carry on commands \"Ji!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 930,
+      "character": "顯",
+      "pinyin": "Xian",
       "tone": 3,
-      "meaning": "to strike",
-      "story": "To strike hand nail bends down drooping saying \"Da\"!",
+      "meaning": "obvious",
+      "story": "obvious bends down drooping saying \"Xian\"!",
       "primitives": []
     },
     {
-      "id": 560,
-      "character": "指",
-      "pinyin": "zhi",
-      "tone": 3,
-      "meaning": "Finger",
-      "story": "Finger hand purpose bends down drooping saying \"Zhi\"!",
-      "primitives": []
-    },
-    {
-      "id": 561,
-      "character": "持",
-      "pinyin": "chi",
-      "tone": 2,
-      "meaning": "to support",
-      "story": "To support hand temple questions \"Chi? Holding?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 562,
-      "character": "括",
-      "pinyin": "kuo",
+      "id": 931,
+      "character": "樂",
+      "pinyin": "Yue",
       "tone": 4,
-      "meaning": "to include",
-      "story": "To include hand tongue commands \"Kwoh!\" sharply enclosing!",
+      "meaning": "Music",
+      "story": "Music commands \"Yue!\" yells!",
       "primitives": []
     },
     {
-      "id": 563,
-      "character": "提",
-      "pinyin": "ti",
-      "tone": 2,
-      "meaning": "to bring up",
-      "story": "To bring up hand right questions \"Ti? Lift?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 564,
-      "character": "揮",
-      "pinyin": "hui",
-      "tone": 1,
-      "meaning": "to brandish",
-      "story": "To brandish hand army sings \"Hway!\" cheerfully waving!",
-      "primitives": []
-    },
-    {
-      "id": 565,
-      "character": "推",
-      "pinyin": "tui",
-      "tone": 1,
-      "meaning": "to push",
-      "story": "To push hand bird sings \"Tway!\" cheerfully shoving!",
-      "primitives": []
-    },
-    {
-      "id": 566,
-      "character": "接",
-      "pinyin": "jie",
-      "tone": 1,
-      "meaning": "to welcome",
-      "story": "To welcome hand woman sings \"Jieh!\" cheerfully receiving!",
-      "primitives": []
-    },
-    {
-      "id": 567,
-      "character": "掛",
-      "pinyin": "gua",
+      "id": 932,
+      "character": "藥",
+      "pinyin": "Yao",
       "tone": 4,
-      "meaning": "to hang",
-      "story": "Hang hand earth divination commands \"Gwa!\" sharply suspended!",
+      "meaning": "Medicine",
+      "story": "Medicine commands \"Yao!\" yells!",
       "primitives": []
     },
     {
-      "id": 568,
-      "character": "按",
-      "pinyin": "an",
-      "tone": 4,
-      "meaning": "to press down on",
-      "story": "To press down on hand case yells \"An!\" sharply pushing!",
-      "primitives": []
-    },
-    {
-      "id": 569,
-      "character": "掉",
-      "pinyin": "diao",
-      "tone": 4,
-      "meaning": "to drop",
-      "story": "To drop hand luck commands \"Diao!\" sharply falling!",
-      "primitives": []
-    },
-    {
-      "id": 570,
-      "character": "拉",
-      "pinyin": "la",
+      "id": 933,
+      "character": "雞",
+      "pinyin": "Ji",
       "tone": 1,
-      "meaning": "to pull",
-      "story": "To pull hand stand sings \"La!\" cheerfully dragging!",
+      "meaning": "Chicken",
+      "story": "Chicken sings \"Ji!\" cheerfully!",
       "primitives": []
     },
     {
-      "id": 571,
-      "character": "啦",
-      "pinyin": "la",
+      "id": 934,
+      "character": "麼",
+      "pinyin": "Me",
       "tone": 5,
-      "meaning": "!!",
-      "story": "\"La!\" mouth pull says \"la\" neutrally exclaiming!",
+      "meaning": "[interrogative suffix]; [pause marker]",
+      "story": "[interrogative suffix]; [pause marker] says \"Me\" neutrally!",
       "primitives": []
     },
     {
-      "id": 572,
-      "character": "找",
-      "pinyin": "zhao",
-      "tone": 3,
-      "meaning": "to look for",
-      "story": "To look for hand dagger bends down drooping saying \"Zhao\"!",
-      "primitives": []
-    },
-    {
-      "id": 573,
-      "character": "研",
-      "pinyin": "yan",
-      "tone": 2,
-      "meaning": "to grind away",
-      "story": "To grind away stone open questions \"Yan? Polishing?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 574,
-      "character": "弄",
-      "pinyin": "nong",
+      "id": 935,
+      "character": "系",
+      "pinyin": "Xi",
       "tone": 4,
-      "meaning": "to play with",
-      "story": "To play with king jewel commands \"Nong!\" sharply tinkering!",
+      "meaning": "Lineage",
+      "story": "Lineage commands \"Xi!\" yells!",
       "primitives": []
     },
     {
-      "id": 575,
-      "character": "鼻",
-      "pinyin": "bi",
-      "tone": 2,
-      "meaning": "Nose",
-      "story": "A nose self field questions \"Bee? Smelling?\" curiously!",
+      "id": 936,
+      "character": "係",
+      "pinyin": "Xi",
+      "tone": 4,
+      "meaning": "related to",
+      "story": "related to commands \"Xi!\" yells!",
       "primitives": []
     },
     {
-      "id": 576,
-      "character": "刑",
-      "pinyin": "xing",
+      "id": 937,
+      "character": "孫",
+      "pinyin": "Sun",
+      "tone": 1,
+      "meaning": "Grandchild",
+      "story": "Grandchild sings \"Sun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 938,
+      "character": "卻",
+      "pinyin": "Que",
+      "tone": 4,
+      "meaning": "to withdraw (retreat, not banks)",
+      "story": "to withdraw (retreat, not banks) commands \"Que!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 939,
+      "character": "腳",
+      "pinyin": "Jiao",
+      "tone": 3,
+      "meaning": "Foot",
+      "story": "Foot bends down drooping saying \"Jiao\"!",
+      "primitives": []
+    },
+    {
+      "id": 940,
+      "character": "服",
+      "pinyin": "Fu",
       "tone": 2,
-      "meaning": "Punishment",
-      "story": "Punishment knife open questions \"Shing? Penalty?\" curiously!",
+      "meaning": "Apparel",
+      "story": "Apparel questions \"Fu? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 941,
+      "character": "命",
+      "pinyin": "Ming",
+      "tone": 4,
+      "meaning": "Fate",
+      "story": "Fate commands \"Ming!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 942,
+      "character": "留",
+      "pinyin": "Liu",
+      "tone": 2,
+      "meaning": "to stay",
+      "story": "to stay questions \"Liu? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 943,
+      "character": "溜",
+      "pinyin": "Liu",
+      "tone": 1,
+      "meaning": "to slide",
+      "story": "to slide sings \"Liu!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 944,
+      "character": "聊",
+      "pinyin": "Liao",
+      "tone": 2,
+      "meaning": "to chat",
+      "story": "to chat questions \"Liao? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 945,
+      "character": "柳",
+      "pinyin": "Liu",
+      "tone": 3,
+      "meaning": "Willow",
+      "story": "Willow bends down drooping saying \"Liu\"!",
+      "primitives": []
+    },
+    {
+      "id": 946,
+      "character": "令",
+      "pinyin": "Ling",
+      "tone": 4,
+      "meaning": "Orders",
+      "story": "Orders commands \"Ling!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 947,
+      "character": "冷",
+      "pinyin": "Leng",
+      "tone": 3,
+      "meaning": "cold",
+      "story": "cold bends down drooping saying \"Leng\"!",
+      "primitives": []
+    },
+    {
+      "id": 948,
+      "character": "零",
+      "pinyin": "Ling",
+      "tone": 2,
+      "meaning": "zero",
+      "story": "zero questions \"Ling? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 949,
+      "character": "領",
+      "pinyin": "Ling",
+      "tone": 3,
+      "meaning": "Collar",
+      "story": "Collar bends down drooping saying \"Ling\"!",
+      "primitives": []
+    },
+    {
+      "id": 950,
+      "character": "通",
+      "pinyin": "Tong",
+      "tone": 1,
+      "meaning": "to communicate",
+      "story": "to communicate sings \"Tong!\" cheerfully!",
       "primitives": []
     }
   ]

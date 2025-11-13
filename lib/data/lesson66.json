@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1566,
+      "character": "暮",
+      "pinyin": "mu",
+      "tone": 4,
+      "meaning": "sunset",
+      "story": "Sunset graveyard sun commands sharply \"Moo!\" - dusk evening!",
+      "primitives": []
+    },
+    {
+      "id": 1567,
       "character": "燃",
       "pinyin": "ran",
       "tone": 2,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1567,
+      "id": 1568,
       "character": "咒",
       "pinyin": "zhou",
       "tone": 4,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1568,
+      "id": 1569,
       "character": "獸",
       "pinyin": "shou",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1569,
+      "id": 1570,
       "character": "狸",
       "pinyin": "li",
       "tone": 2,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1570,
+      "id": 1571,
       "character": "嗅",
       "pinyin": "xiu",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1571,
+      "id": 1572,
       "character": "牡",
       "pinyin": "mu",
       "tone": 3,
@@ -56,21 +65,12 @@
       "primitives": []
     },
     {
-      "id": 1572,
+      "id": 1573,
       "character": "牢",
       "pinyin": "lao",
       "tone": 2,
       "meaning": "jail",
       "story": "Jail cow roof questions \"Lao? Prison?\" curiously - cage cell!",
-      "primitives": []
-    },
-    {
-      "id": 1573,
-      "character": "贊",
-      "pinyin": "zan",
-      "tone": 4,
-      "meaning": "succor",
-      "story": "Succor two shellfish commands sharply \"Dzahn!\" - support praise!",
       "primitives": []
     }
   ]

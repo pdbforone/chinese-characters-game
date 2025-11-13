@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1629,
+      "character": "讚",
+      "pinyin": "zan",
+      "tone": 4,
+      "meaning": "praise",
+      "story": "Praise words two shellfish commands sharply \"Dzahn!\" - compliment likes!",
+      "primitives": []
+    },
+    {
+      "id": 1630,
       "character": "貳",
       "pinyin": "er",
       "tone": 4,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1630,
+      "id": 1631,
       "character": "膩",
       "pinyin": "ni",
       "tone": 4,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1631,
+      "id": 1632,
       "character": "洩",
       "pinyin": "xie",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1632,
+      "id": 1633,
       "character": "划",
       "pinyin": "hua",
       "tone": 2,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1633,
+      "id": 1634,
       "character": "嘎",
       "pinyin": "ga",
       "tone": 2,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1634,
+      "id": 1635,
       "character": "域",
       "pinyin": "yu",
       "tone": 4,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1635,
+      "id": 1636,
       "character": "栽",
       "pinyin": "zai",
       "tone": 1,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1636,
+      "id": 1637,
       "character": "戚",
       "pinyin": "qi",
       "tone": 1,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1637,
+      "id": 1638,
       "character": "蔑",
       "pinyin": "mie",
       "tone": 4,
@@ -83,21 +92,12 @@
       "primitives": []
     },
     {
-      "id": 1638,
+      "id": 1639,
       "character": "喊",
       "pinyin": "han",
       "tone": 3,
       "meaning": "yell",
       "story": "Yell mouth salty bends down drooping \"Hahn\" - shout cry out!",
-      "primitives": []
-    },
-    {
-      "id": 1639,
-      "character": "濺",
-      "pinyin": "jian",
-      "tone": 4,
-      "meaning": "splatter",
-      "story": "Splatter water see commands sharply \"Jyan!\" - splash spatter!",
       "primitives": []
     }
   ]

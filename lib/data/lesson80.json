@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1941,
+      "character": "銜",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "title",
+      "story": "Title metal boulevard questions \"Shyan? Rank?\" curiously - hold in mouth!",
+      "primitives": []
+    },
+    {
+      "id": 1942,
       "character": "禿",
       "pinyin": "tu",
       "tone": 1,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1942,
+      "id": 1943,
       "character": "頹",
       "pinyin": "tui",
       "tone": 2,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1943,
+      "id": 1944,
       "character": "秒",
       "pinyin": "miao",
       "tone": 3,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1944,
+      "id": 1945,
       "character": "稍",
       "pinyin": "shao",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1945,
+      "id": 1946,
       "character": "穌",
       "pinyin": "su",
       "tone": 1,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1946,
+      "id": 1947,
       "character": "蘇",
       "pinyin": "su",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1947,
+      "id": 1948,
       "character": "萎",
       "pinyin": "wei",
       "tone": 1,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1948,
+      "id": 1949,
       "character": "黏",
       "pinyin": "nian",
       "tone": 2,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1949,
+      "id": 1950,
       "character": "黎",
       "pinyin": "li",
       "tone": 2,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1950,
+      "id": 1951,
       "character": "漆",
       "pinyin": "qi",
       "tone": 1,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1951,
+      "id": 1952,
       "character": "膝",
       "pinyin": "xi",
       "tone": 1,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1952,
+      "id": 1953,
       "character": "稠",
       "pinyin": "chou",
       "tone": 2,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1953,
+      "id": 1954,
       "character": "稿",
       "pinyin": "gao",
       "tone": 3,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1954,
+      "id": 1955,
       "character": "穎",
       "pinyin": "ying",
       "tone": 3,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1955,
+      "id": 1956,
       "character": "稅",
       "pinyin": "shui",
       "tone": 4,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1956,
+      "id": 1957,
       "character": "稼",
       "pinyin": "jia",
       "tone": 4,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1957,
+      "id": 1958,
       "character": "菌",
       "pinyin": "jun",
       "tone": 1,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 1958,
+      "id": 1959,
       "character": "稚",
       "pinyin": "zhi",
       "tone": 4,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 1959,
+      "id": 1960,
       "character": "穫",
       "pinyin": "huo",
       "tone": 4,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 1960,
+      "id": 1961,
       "character": "私",
       "pinyin": "si",
       "tone": 1,
@@ -182,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 1961,
+      "id": 1962,
       "character": "秩",
       "pinyin": "zhi",
       "tone": 4,
@@ -191,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 1962,
+      "id": 1963,
       "character": "殼",
       "pinyin": "ke",
       "tone": 2,
@@ -200,7 +209,7 @@
       "primitives": []
     },
     {
-      "id": 1963,
+      "id": 1964,
       "character": "穀",
       "pinyin": "gu",
       "tone": 3,
@@ -209,7 +218,7 @@
       "primitives": []
     },
     {
-      "id": 1964,
+      "id": 1965,
       "character": "鍬",
       "pinyin": "qiao",
       "tone": 1,
@@ -218,7 +227,7 @@
       "primitives": []
     },
     {
-      "id": 1965,
+      "id": 1966,
       "character": "揪",
       "pinyin": "jiu",
       "tone": 1,
@@ -227,7 +236,7 @@
       "primitives": []
     },
     {
-      "id": 1966,
+      "id": 1967,
       "character": "梨",
       "pinyin": "li",
       "tone": 2,
@@ -236,7 +245,7 @@
       "primitives": []
     },
     {
-      "id": 1967,
+      "id": 1968,
       "character": "犁",
       "pinyin": "li",
       "tone": 2,
@@ -245,7 +254,7 @@
       "primitives": []
     },
     {
-      "id": 1968,
+      "id": 1969,
       "character": "曆",
       "pinyin": "li",
       "tone": 4,
@@ -254,7 +263,7 @@
       "primitives": []
     },
     {
-      "id": 1969,
+      "id": 1970,
       "character": "糕",
       "pinyin": "gao",
       "tone": 1,
@@ -263,7 +272,7 @@
       "primitives": []
     },
     {
-      "id": 1970,
+      "id": 1971,
       "character": "糊",
       "pinyin": "hu",
       "tone": 2,
@@ -272,7 +281,7 @@
       "primitives": []
     },
     {
-      "id": 1971,
+      "id": 1972,
       "character": "粘",
       "pinyin": "nian",
       "tone": 2,
@@ -281,7 +290,7 @@
       "primitives": []
     },
     {
-      "id": 1972,
+      "id": 1973,
       "character": "糧",
       "pinyin": "liang",
       "tone": 2,
@@ -290,7 +299,7 @@
       "primitives": []
     },
     {
-      "id": 1973,
+      "id": 1974,
       "character": "菊",
       "pinyin": "ju",
       "tone": 2,
@@ -299,7 +308,7 @@
       "primitives": []
     },
     {
-      "id": 1974,
+      "id": 1975,
       "character": "糙",
       "pinyin": "cao",
       "tone": 1,
@@ -308,7 +317,7 @@
       "primitives": []
     },
     {
-      "id": 1975,
+      "id": 1976,
       "character": "粒",
       "pinyin": "li",
       "tone": 4,
@@ -317,7 +326,7 @@
       "primitives": []
     },
     {
-      "id": 1976,
+      "id": 1977,
       "character": "燦",
       "pinyin": "can",
       "tone": 4,
@@ -326,7 +335,7 @@
       "primitives": []
     },
     {
-      "id": 1977,
+      "id": 1978,
       "character": "粉",
       "pinyin": "fen",
       "tone": 3,
@@ -335,7 +344,7 @@
       "primitives": []
     },
     {
-      "id": 1978,
+      "id": 1979,
       "character": "瞇",
       "pinyin": "mi",
       "tone": 1,
@@ -344,7 +353,7 @@
       "primitives": []
     },
     {
-      "id": 1979,
+      "id": 1980,
       "character": "幣",
       "pinyin": "bi",
       "tone": 4,
@@ -353,7 +362,7 @@
       "primitives": []
     },
     {
-      "id": 1980,
+      "id": 1981,
       "character": "斃",
       "pinyin": "bi",
       "tone": 4,
@@ -362,7 +371,7 @@
       "primitives": []
     },
     {
-      "id": 1981,
+      "id": 1982,
       "character": "蔽",
       "pinyin": "bi",
       "tone": 4,
@@ -371,7 +380,7 @@
       "primitives": []
     },
     {
-      "id": 1982,
+      "id": 1983,
       "character": "撇",
       "pinyin": "pie",
       "tone": 1,
@@ -380,7 +389,7 @@
       "primitives": []
     },
     {
-      "id": 1983,
+      "id": 1984,
       "character": "弊",
       "pinyin": "bi",
       "tone": 4,
@@ -389,7 +398,7 @@
       "primitives": []
     },
     {
-      "id": 1984,
+      "id": 1985,
       "character": "筍",
       "pinyin": "sun",
       "tone": 3,
@@ -398,7 +407,7 @@
       "primitives": []
     },
     {
-      "id": 1985,
+      "id": 1986,
       "character": "筒",
       "pinyin": "tong",
       "tone": 3,
@@ -407,7 +416,7 @@
       "primitives": []
     },
     {
-      "id": 1986,
+      "id": 1987,
       "character": "築",
       "pinyin": "zhu",
       "tone": 2,
@@ -416,7 +425,7 @@
       "primitives": []
     },
     {
-      "id": 1987,
+      "id": 1988,
       "character": "笨",
       "pinyin": "ben",
       "tone": 4,
@@ -425,21 +434,12 @@
       "primitives": []
     },
     {
-      "id": 1988,
+      "id": 1989,
       "character": "箭",
       "pinyin": "jian",
       "tone": 4,
       "meaning": "arrow",
       "story": "Arrow bamboo in front commands sharply \"Jyan!\" - projectile shoot!",
-      "primitives": []
-    },
-    {
-      "id": 1989,
-      "character": "筋",
-      "pinyin": "jin",
-      "tone": 1,
-      "meaning": "tendon",
-      "story": "Tendon bamboo muscle sings \"Jin!\" cheerfully - sinew tissue!",
       "primitives": []
     }
   ]

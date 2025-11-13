@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1640,
+      "character": "濺",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "splatter",
+      "story": "Splatter water see commands sharply \"Jyan!\" - splash spatter!",
+      "primitives": []
+    },
+    {
+      "id": 1641,
       "character": "址",
       "pinyin": "zhi",
       "tone": 3,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1641,
+      "id": 1642,
       "character": "澀",
       "pinyin": "se",
       "tone": 4,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1642,
+      "id": 1643,
       "character": "蘋",
       "pinyin": "ping",
       "tone": 2,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1643,
+      "id": 1644,
       "character": "赴",
       "pinyin": "fu",
       "tone": 4,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1644,
+      "id": 1645,
       "character": "趟",
       "pinyin": "tang",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1645,
+      "id": 1646,
       "character": "堤",
       "pinyin": "ti",
       "tone": 2,
@@ -56,21 +65,12 @@
       "primitives": []
     },
     {
-      "id": 1646,
+      "id": 1647,
       "character": "鍵",
       "pinyin": "jian",
       "tone": 4,
       "meaning": "keyboard keys",
       "story": "Keyboard keys metal build commands sharply \"Jyan!\" - buttons typing!",
-      "primitives": []
-    },
-    {
-      "id": 1647,
-      "character": "婿",
-      "pinyin": "xu",
-      "tone": 4,
-      "meaning": "son-in-law",
-      "story": "Son-in-law woman zoo moon commands sharply \"Shyoo!\" - golden turtle husband!",
       "primitives": []
     }
   ]

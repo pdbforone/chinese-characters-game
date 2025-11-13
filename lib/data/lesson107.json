@@ -3,24 +3,6 @@
   "characters": [
     {
       "id": 2808,
-      "character": "鵬",
-      "pinyin": "peng",
-      "tone": 2,
-      "meaning": "roc",
-      "story": "\"PUNG?\" the companion bird questions curiously - a roc, giant and mythical?",
-      "primitives": []
-    },
-    {
-      "id": 2809,
-      "character": "鳴",
-      "pinyin": "ming",
-      "tone": 2,
-      "meaning": "twitter",
-      "story": "\"MING?\" the bird questions curiously - to twitter and chirp like Naruto?",
-      "primitives": []
-    },
-    {
-      "id": 2810,
       "character": "鴻",
       "pinyin": "hong",
       "tone": 2,
@@ -29,7 +11,7 @@
       "primitives": []
     },
     {
-      "id": 2811,
+      "id": 2809,
       "character": "鴿",
       "pinyin": "ge",
       "tone": 1,
@@ -38,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2812,
+      "id": 2810,
       "character": "鶴",
       "pinyin": "he",
       "tone": 4,
@@ -47,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 2813,
+      "id": 2811,
       "character": "鶯",
       "pinyin": "ying",
       "tone": 1,
@@ -56,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 2814,
+      "id": 2812,
       "character": "鵲",
       "pinyin": "que",
       "tone": 4,
@@ -65,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 2815,
+      "id": 2813,
       "character": "鷗",
       "pinyin": "ou",
       "tone": 1,
@@ -74,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 2816,
+      "id": 2814,
       "character": "鴉",
       "pinyin": "ya",
       "tone": 1,
@@ -83,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 2817,
+      "id": 2815,
       "character": "鵝",
       "pinyin": "e",
       "tone": 2,
@@ -92,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2818,
+      "id": 2816,
       "character": "烏",
       "pinyin": "wu",
       "tone": 1,
@@ -101,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2819,
+      "id": 2817,
       "character": "嗚",
       "pinyin": "wu",
       "tone": 1,
@@ -110,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 2820,
+      "id": 2818,
       "character": "搗",
       "pinyin": "dao",
       "tone": 3,
@@ -119,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 2821,
+      "id": 2819,
       "character": "寓",
       "pinyin": "yu",
       "tone": 4,
@@ -128,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 2822,
+      "id": 2820,
       "character": "愚",
       "pinyin": "yu",
       "tone": 2,
@@ -137,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 2823,
+      "id": 2821,
       "character": "偶",
       "pinyin": "ou",
       "tone": 3,
@@ -146,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 2824,
+      "id": 2822,
       "character": "厲",
       "pinyin": "li",
       "tone": 4,
@@ -155,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 2825,
+      "id": 2823,
       "character": "勵",
       "pinyin": "li",
       "tone": 4,
@@ -164,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 2826,
+      "id": 2824,
       "character": "鋼",
       "pinyin": "gang",
       "tone": 1,
@@ -173,16 +155,16 @@
       "primitives": []
     },
     {
-      "id": 2827,
+      "id": 2825,
       "character": "崗",
       "pinyin": "gang",
-      "tone": 1,
+      "tone": 3,
       "meaning": "hillock",
       "story": "The mountain ridge of hill bends down drooping - a hillock, mound for burial in Yiling.",
       "primitives": []
     },
     {
-      "id": 2828,
+      "id": 2826,
       "character": "綱",
       "pinyin": "gang",
       "tone": 1,
@@ -191,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 2829,
+      "id": 2827,
       "character": "逆",
       "pinyin": "ni",
       "tone": 4,
@@ -200,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 2830,
+      "id": 2828,
       "character": "溯",
       "pinyin": "su",
       "tone": 4,
@@ -209,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 2831,
+      "id": 2829,
       "character": "塑",
       "pinyin": "su",
       "tone": 4,
@@ -218,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 2832,
+      "id": 2830,
       "character": "缸",
       "pinyin": "gang",
       "tone": 1,
@@ -227,7 +209,7 @@
       "primitives": []
     },
     {
-      "id": 2833,
+      "id": 2831,
       "character": "罐",
       "pinyin": "guan",
       "tone": 4,
@@ -236,7 +218,7 @@
       "primitives": []
     },
     {
-      "id": 2834,
+      "id": 2832,
       "character": "鬱",
       "pinyin": "yu",
       "tone": 4,
@@ -245,7 +227,7 @@
       "primitives": []
     },
     {
-      "id": 2835,
+      "id": 2833,
       "character": "鹽",
       "pinyin": "yan",
       "tone": 2,
@@ -254,7 +236,7 @@
       "primitives": []
     },
     {
-      "id": 2836,
+      "id": 2834,
       "character": "鹹",
       "pinyin": "xian",
       "tone": 2,
@@ -263,7 +245,7 @@
       "primitives": []
     },
     {
-      "id": 2837,
+      "id": 2835,
       "character": "掏",
       "pinyin": "tao",
       "tone": 1,
@@ -272,7 +254,7 @@
       "primitives": []
     },
     {
-      "id": 2838,
+      "id": 2836,
       "character": "淘",
       "pinyin": "tao",
       "tone": 2,
@@ -281,7 +263,7 @@
       "primitives": []
     },
     {
-      "id": 2839,
+      "id": 2837,
       "character": "陶",
       "pinyin": "tao",
       "tone": 2,
@@ -290,7 +272,7 @@
       "primitives": []
     },
     {
-      "id": 2840,
+      "id": 2838,
       "character": "謠",
       "pinyin": "yao",
       "tone": 2,
@@ -299,7 +281,7 @@
       "primitives": []
     },
     {
-      "id": 2841,
+      "id": 2839,
       "character": "冤",
       "pinyin": "yuan",
       "tone": 1,
@@ -308,7 +290,7 @@
       "primitives": []
     },
     {
-      "id": 2842,
+      "id": 2840,
       "character": "饞",
       "pinyin": "chan",
       "tone": 2,
@@ -317,7 +299,7 @@
       "primitives": []
     },
     {
-      "id": 2843,
+      "id": 2841,
       "character": "挽",
       "pinyin": "wan",
       "tone": 3,
@@ -326,7 +308,7 @@
       "primitives": []
     },
     {
-      "id": 2844,
+      "id": 2842,
       "character": "勉",
       "pinyin": "mian",
       "tone": 3,
@@ -335,7 +317,7 @@
       "primitives": []
     },
     {
-      "id": 2845,
+      "id": 2843,
       "character": "橡",
       "pinyin": "xiang",
       "tone": 4,
@@ -344,12 +326,30 @@
       "primitives": []
     },
     {
-      "id": 2846,
+      "id": 2844,
       "character": "豫",
       "pinyin": "yu",
       "tone": 4,
       "meaning": "pleased",
       "story": "\"YOO!\" bestow and elephant command sharply - pleased, happy but hesitate!",
+      "primitives": []
+    },
+    {
+      "id": 2845,
+      "character": "騰",
+      "pinyin": "teng",
+      "tone": 2,
+      "meaning": "take flight",
+      "story": "\"TUNG?\" the horse questions curiously - to take flight, soar, and rise?",
+      "primitives": []
+    },
+    {
+      "id": 2846,
+      "character": "碼",
+      "pinyin": "ma",
+      "tone": 3,
+      "meaning": "numeral",
+      "story": "The stone bends down drooping - a numeral, number, and digit.",
       "primitives": []
     }
   ]

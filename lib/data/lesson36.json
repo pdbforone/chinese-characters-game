@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1042,
+      "character": "孫",
+      "pinyin": "sun",
+      "tone": 1,
+      "meaning": "Grandchild",
+      "story": "Grandchild child and line sing \"Sun!\" cheerfully - grandson continuing the thread!",
+      "primitives": []
+    },
+    {
+      "id": 1043,
       "character": "卻",
       "pinyin": "que",
       "tone": 4,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1043,
+      "id": 1044,
       "character": "腳",
       "pinyin": "jiao",
       "tone": 3,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1044,
+      "id": 1045,
       "character": "服",
       "pinyin": "fu",
       "tone": 2,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1045,
+      "id": 1046,
       "character": "命",
       "pinyin": "ming",
       "tone": 4,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1046,
+      "id": 1047,
       "character": "留",
       "pinyin": "liu",
       "tone": 2,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1047,
+      "id": 1048,
       "character": "溜",
       "pinyin": "liu",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1048,
+      "id": 1049,
       "character": "聊",
       "pinyin": "liao",
       "tone": 2,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1049,
+      "id": 1050,
       "character": "柳",
       "pinyin": "liu",
       "tone": 3,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1050,
+      "id": 1051,
       "character": "令",
       "pinyin": "ling",
       "tone": 4,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1051,
+      "id": 1052,
       "character": "冷",
       "pinyin": "leng",
       "tone": 3,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1052,
+      "id": 1053,
       "character": "零",
       "pinyin": "ling",
       "tone": 2,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1053,
+      "id": 1054,
       "character": "領",
       "pinyin": "ling",
       "tone": 3,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1054,
+      "id": 1055,
       "character": "通",
       "pinyin": "tong",
       "tone": 1,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1055,
+      "id": 1056,
       "character": "勇",
       "pinyin": "yong",
       "tone": 3,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1056,
+      "id": 1057,
       "character": "犯",
       "pinyin": "fan",
       "tone": 4,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1057,
+      "id": 1058,
       "character": "危",
       "pinyin": "wei",
       "tone": 1,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1058,
+      "id": 1059,
       "character": "脆",
       "pinyin": "cui",
       "tone": 4,
@@ -155,21 +164,12 @@
       "primitives": []
     },
     {
-      "id": 1059,
+      "id": 1060,
       "character": "印",
       "pinyin": "yin",
       "tone": 4,
       "meaning": "Print",
       "story": "Print with hand seal commands \"Yin!\" sharply - stamp marking India's mark!",
-      "primitives": []
-    },
-    {
-      "id": 1060,
-      "character": "興",
-      "pinyin": "xing",
-      "tone": 4,
-      "meaning": "Excitement",
-      "story": "Excitement rises as hands lift high, commanding \"Shing!\" sharply - thriving with interest!",
       "primitives": []
     }
   ]

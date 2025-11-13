@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1574,
+      "character": "贊",
+      "pinyin": "zan",
+      "tone": 4,
+      "meaning": "succor",
+      "story": "Succor two shellfish commands sharply \"Dzahn!\" - support praise!",
+      "primitives": []
+    },
+    {
+      "id": 1575,
       "character": "舍",
       "pinyin": "she",
       "tone": 4,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1575,
+      "id": 1576,
       "character": "啥",
       "pinyin": "sha",
       "tone": 2,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1576,
+      "id": 1577,
       "character": "洽",
       "pinyin": "qia",
       "tone": 4,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1577,
+      "id": 1578,
       "character": "旺",
       "pinyin": "wang",
       "tone": 4,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1578,
+      "id": 1579,
       "character": "碧",
       "pinyin": "bi",
       "tone": 4,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1579,
+      "id": 1580,
       "character": "汪",
       "pinyin": "wang",
       "tone": 1,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1580,
+      "id": 1581,
       "character": "枉",
       "pinyin": "wang",
       "tone": 3,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1581,
+      "id": 1582,
       "character": "珠",
       "pinyin": "zhu",
       "tone": 1,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1582,
+      "id": 1583,
       "character": "噩",
       "pinyin": "e",
       "tone": 4,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1583,
+      "id": 1584,
       "character": "鱷",
       "pinyin": "e",
       "tone": 4,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1584,
+      "id": 1585,
       "character": "鬥",
       "pinyin": "dou",
       "tone": 4,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1585,
+      "id": 1586,
       "character": "栓",
       "pinyin": "shuan",
       "tone": 1,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1586,
+      "id": 1587,
       "character": "柱",
       "pinyin": "zhu",
       "tone": 4,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1587,
+      "id": 1588,
       "character": "鉤",
       "pinyin": "gou",
       "tone": 1,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1588,
+      "id": 1589,
       "character": "鈔",
       "pinyin": "chao",
       "tone": 1,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1589,
+      "id": 1590,
       "character": "銷",
       "pinyin": "xiao",
       "tone": 1,
@@ -146,21 +155,12 @@
       "primitives": []
     },
     {
-      "id": 1590,
+      "id": 1591,
       "character": "鎖",
       "pinyin": "suo",
       "tone": 3,
       "meaning": "lock",
       "story": "Lock metal small bends down drooping \"Swoh\" - secure key!",
-      "primitives": []
-    },
-    {
-      "id": 1591,
-      "character": "鑽",
-      "pinyin": "zuan",
-      "tone": 1,
-      "meaning": "drill",
-      "story": "Drill metal lifesaver sings \"Dzwahn!\" cheerfully - bore penetrate machine!",
       "primitives": []
     }
   ]

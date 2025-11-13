@@ -3,6 +3,15 @@
   "characters": [
     {
       "id": 1149,
+      "character": "賽",
+      "pinyin": "sai",
+      "tone": 4,
+      "meaning": "Competition",
+      "story": "Competition shellfish frigid commands \"Sai!\" sharply - match to compete!",
+      "primitives": []
+    },
+    {
+      "id": 1150,
       "character": "毒",
       "pinyin": "du",
       "tone": 2,
@@ -11,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 1150,
+      "id": 1151,
       "character": "素",
       "pinyin": "su",
       "tone": 4,
@@ -20,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 1151,
+      "id": 1152,
       "character": "青",
       "pinyin": "qing",
       "tone": 1,
@@ -29,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 1152,
+      "id": 1153,
       "character": "精",
       "pinyin": "jing",
       "tone": 1,
@@ -38,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 1153,
+      "id": 1154,
       "character": "請",
       "pinyin": "qing",
       "tone": 3,
@@ -47,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 1154,
+      "id": 1155,
       "character": "情",
       "pinyin": "qing",
       "tone": 2,
@@ -56,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 1155,
+      "id": 1156,
       "character": "睛",
       "pinyin": "jing",
       "tone": 1,
@@ -65,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 1156,
+      "id": 1157,
       "character": "清",
       "pinyin": "qing",
       "tone": 1,
@@ -74,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 1157,
+      "id": 1158,
       "character": "靜",
       "pinyin": "jing",
       "tone": 4,
@@ -83,7 +92,7 @@
       "primitives": []
     },
     {
-      "id": 1158,
+      "id": 1159,
       "character": "責",
       "pinyin": "ze",
       "tone": 2,
@@ -92,7 +101,7 @@
       "primitives": []
     },
     {
-      "id": 1159,
+      "id": 1160,
       "character": "績",
       "pinyin": "ji",
       "tone": 4,
@@ -101,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 1160,
+      "id": 1161,
       "character": "積",
       "pinyin": "ji",
       "tone": 1,
@@ -110,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 1161,
+      "id": 1162,
       "character": "表",
       "pinyin": "biao",
       "tone": 3,
@@ -119,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 1162,
+      "id": 1163,
       "character": "錶",
       "pinyin": "biao",
       "tone": 3,
@@ -128,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 1163,
+      "id": 1164,
       "character": "生",
       "pinyin": "sheng",
       "tone": 1,
@@ -137,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 1164,
+      "id": 1165,
       "character": "星",
       "pinyin": "xing",
       "tone": 1,
@@ -146,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 1165,
+      "id": 1166,
       "character": "姓",
       "pinyin": "xing",
       "tone": 4,
@@ -155,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 1166,
+      "id": 1167,
       "character": "性",
       "pinyin": "xing",
       "tone": 4,
@@ -164,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 1167,
+      "id": 1168,
       "character": "害",
       "pinyin": "hai",
       "tone": 4,
@@ -173,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 1168,
+      "id": 1169,
       "character": "割",
       "pinyin": "ge",
       "tone": 1,
@@ -182,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 1169,
+      "id": 1170,
       "character": "慧",
       "pinyin": "hui",
       "tone": 4,
@@ -191,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 1170,
+      "id": 1171,
       "character": "豐",
       "pinyin": "feng",
       "tone": 1,
@@ -200,7 +209,7 @@
       "primitives": []
     },
     {
-      "id": 1171,
+      "id": 1172,
       "character": "春",
       "pinyin": "chun",
       "tone": 1,
@@ -209,7 +218,7 @@
       "primitives": []
     },
     {
-      "id": 1172,
+      "id": 1173,
       "character": "泰",
       "pinyin": "tai",
       "tone": 4,
@@ -218,7 +227,7 @@
       "primitives": []
     },
     {
-      "id": 1173,
+      "id": 1174,
       "character": "奉",
       "pinyin": "feng",
       "tone": 4,
@@ -227,7 +236,7 @@
       "primitives": []
     },
     {
-      "id": 1174,
+      "id": 1175,
       "character": "棒",
       "pinyin": "bang",
       "tone": 4,
@@ -236,7 +245,7 @@
       "primitives": []
     },
     {
-      "id": 1175,
+      "id": 1176,
       "character": "勤",
       "pinyin": "qin",
       "tone": 2,
@@ -245,7 +254,7 @@
       "primitives": []
     },
     {
-      "id": 1176,
+      "id": 1177,
       "character": "謹",
       "pinyin": "jin",
       "tone": 3,
@@ -254,7 +263,7 @@
       "primitives": []
     },
     {
-      "id": 1177,
+      "id": 1178,
       "character": "僅",
       "pinyin": "jin",
       "tone": 3,
@@ -263,7 +272,7 @@
       "primitives": []
     },
     {
-      "id": 1178,
+      "id": 1179,
       "character": "漢",
       "pinyin": "han",
       "tone": 4,
@@ -272,7 +281,7 @@
       "primitives": []
     },
     {
-      "id": 1179,
+      "id": 1180,
       "character": "難",
       "pinyin": "nan",
       "tone": 2,
@@ -281,16 +290,16 @@
       "primitives": []
     },
     {
-      "id": 1180,
+      "id": 1181,
       "character": "攤",
       "pinyin": "tan",
-      "tone": 1,
+      "tone": 5,
       "meaning": "Vendor's Stand",
       "story": "Vendor's stand hand cliff says \"Tahn\" neutrally - spread out stall!",
       "primitives": []
     },
     {
-      "id": 1181,
+      "id": 1182,
       "character": "華",
       "pinyin": "hua",
       "tone": 2,
@@ -299,7 +308,7 @@
       "primitives": []
     },
     {
-      "id": 1182,
+      "id": 1183,
       "character": "嘩",
       "pinyin": "hua",
       "tone": 2,
@@ -308,7 +317,7 @@
       "primitives": []
     },
     {
-      "id": 1183,
+      "id": 1184,
       "character": "垂",
       "pinyin": "chui",
       "tone": 2,
@@ -317,21 +326,12 @@
       "primitives": []
     },
     {
-      "id": 1184,
+      "id": 1185,
       "character": "錘",
       "pinyin": "chui",
       "tone": 2,
       "meaning": "Hammer",
       "story": "Hammer metal droop questions \"Chway? Spindle?\" curiously - pounding tool!",
-      "primitives": []
-    },
-    {
-      "id": 1185,
-      "character": "睡",
-      "pinyin": "shui",
-      "tone": 4,
-      "meaning": "to sleep",
-      "story": "To sleep eye droop commands sharply \"Shway!\" - drowsy rest!",
       "primitives": []
     }
   ]

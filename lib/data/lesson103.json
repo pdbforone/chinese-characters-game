@@ -2,7 +2,7 @@
   "lesson": 103,
   "characters": [
     {
-      "id": 2724,
+      "id": 2722,
       "character": "哺",
       "pinyin": "bu",
       "tone": 3,
@@ -11,7 +11,7 @@
       "primitives": []
     },
     {
-      "id": 2725,
+      "id": 2723,
       "character": "鋪",
       "pinyin": "pu",
       "tone": 4,
@@ -20,7 +20,7 @@
       "primitives": []
     },
     {
-      "id": 2726,
+      "id": 2724,
       "character": "輔",
       "pinyin": "fu",
       "tone": 3,
@@ -29,7 +29,7 @@
       "primitives": []
     },
     {
-      "id": 2727,
+      "id": 2725,
       "character": "捕",
       "pinyin": "bu",
       "tone": 3,
@@ -38,7 +38,7 @@
       "primitives": []
     },
     {
-      "id": 2728,
+      "id": 2726,
       "character": "敷",
       "pinyin": "fu",
       "tone": 1,
@@ -47,7 +47,7 @@
       "primitives": []
     },
     {
-      "id": 2729,
+      "id": 2727,
       "character": "浦",
       "pinyin": "pu",
       "tone": 3,
@@ -56,7 +56,7 @@
       "primitives": []
     },
     {
-      "id": 2730,
+      "id": 2728,
       "character": "蒲",
       "pinyin": "pu",
       "tone": 2,
@@ -65,7 +65,7 @@
       "primitives": []
     },
     {
-      "id": 2731,
+      "id": 2729,
       "character": "薄",
       "pinyin": "bo",
       "tone": 2,
@@ -74,7 +74,7 @@
       "primitives": []
     },
     {
-      "id": 2732,
+      "id": 2730,
       "character": "簿",
       "pinyin": "bu",
       "tone": 4,
@@ -83,7 +83,7 @@
       "primitives": []
     },
     {
-      "id": 2733,
+      "id": 2731,
       "character": "傅",
       "pinyin": "fu",
       "tone": 4,
@@ -92,16 +92,16 @@
       "primitives": []
     },
     {
-      "id": 2734,
+      "id": 2732,
       "character": "縛",
       "pinyin": "fu",
-      "tone": 4,
+      "tone": 2,
       "meaning": "bind fast",
       "story": "\"FOO?\" the thread questions curiously - should we bind fast with the net, tying up the immortals?",
       "primitives": []
     },
     {
-      "id": 2735,
+      "id": 2733,
       "character": "郭",
       "pinyin": "guo",
       "tone": 1,
@@ -110,7 +110,7 @@
       "primitives": []
     },
     {
-      "id": 2736,
+      "id": 2734,
       "character": "廓",
       "pinyin": "kuo",
       "tone": 4,
@@ -119,7 +119,7 @@
       "primitives": []
     },
     {
-      "id": 2737,
+      "id": 2735,
       "character": "鄙",
       "pinyin": "bi",
       "tone": 3,
@@ -128,7 +128,7 @@
       "primitives": []
     },
     {
-      "id": 2738,
+      "id": 2736,
       "character": "耶",
       "pinyin": "ye",
       "tone": 1,
@@ -137,7 +137,7 @@
       "primitives": []
     },
     {
-      "id": 2739,
+      "id": 2737,
       "character": "爺",
       "pinyin": "ye",
       "tone": 2,
@@ -146,7 +146,7 @@
       "primitives": []
     },
     {
-      "id": 2740,
+      "id": 2738,
       "character": "郊",
       "pinyin": "jiao",
       "tone": 1,
@@ -155,7 +155,7 @@
       "primitives": []
     },
     {
-      "id": 2741,
+      "id": 2739,
       "character": "邦",
       "pinyin": "bang",
       "tone": 1,
@@ -164,7 +164,7 @@
       "primitives": []
     },
     {
-      "id": 2742,
+      "id": 2740,
       "character": "綁",
       "pinyin": "bang",
       "tone": 3,
@@ -173,7 +173,7 @@
       "primitives": []
     },
     {
-      "id": 2743,
+      "id": 2741,
       "character": "郵",
       "pinyin": "you",
       "tone": 2,
@@ -182,7 +182,7 @@
       "primitives": []
     },
     {
-      "id": 2744,
+      "id": 2742,
       "character": "鄧",
       "pinyin": "deng",
       "tone": 4,
@@ -191,7 +191,7 @@
       "primitives": []
     },
     {
-      "id": 2745,
+      "id": 2743,
       "character": "擲",
       "pinyin": "zhi",
       "tone": 4,
@@ -200,7 +200,7 @@
       "primitives": []
     },
     {
-      "id": 2746,
+      "id": 2744,
       "character": "廊",
       "pinyin": "lang",
       "tone": 2,
@@ -209,12 +209,30 @@
       "primitives": []
     },
     {
-      "id": 2747,
+      "id": 2745,
       "character": "擁",
       "pinyin": "yong",
       "tone": 1,
       "meaning": "hug",
       "story": "\"YUNG!\" the fingers sing cheerfully to hug, embrace, and hold tight!",
+      "primitives": []
+    },
+    {
+      "id": 2746,
+      "character": "緞",
+      "pinyin": "duan",
+      "tone": 4,
+      "meaning": "satin",
+      "story": "\"DWAN!\" the thread commands sharply - satin, silk ribbon for her hair!",
+      "primitives": []
+    },
+    {
+      "id": 2747,
+      "character": "刁",
+      "pinyin": "diao",
+      "tone": 1,
+      "meaning": "wily",
+      "story": "\"DYAO!\" the clothes hanger drops and sings cheerfully - wily, cunning, and difficult!",
       "primitives": []
     }
   ]
