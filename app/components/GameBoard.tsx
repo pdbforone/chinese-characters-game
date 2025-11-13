@@ -213,6 +213,7 @@ export default function GameBoard({
                   isMatched={matched.has(char.id)}
                   isIncorrect={false}
                   onClick={() => handleLeftClick(char.id)}
+                  hideDetails={gameMode === 'character-to-pinyin'}
                 />
               );
             }
