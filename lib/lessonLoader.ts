@@ -280,6 +280,11 @@ export function getAllLessonsMetadata() {
       lessonNumber: lessonNum,
       characterCount: lesson.characters.length,
       characters: lesson.characters.map((c) => c.character).join(', '),
+      // Include first few characters with pinyin for preview
+      preview: lesson.characters.slice(0, 4).map((c) => ({
+        character: c.character,
+        pinyin: c.pinyin,
+      })),
     };
   });
 }
