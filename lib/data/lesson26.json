@@ -1,0 +1,518 @@
+{
+  "lesson": 26,
+  "characters": [
+    {
+      "id": 736,
+      "character": "人",
+      "pinyin": "ren",
+      "tone": 2,
+      "meaning": "Person",
+      "story": "A person questions \"Ren? Who?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 737,
+      "character": "囚",
+      "pinyin": "qiu",
+      "tone": 2,
+      "meaning": "Prisoner",
+      "story": "A prisoner person trapped questions \"Chyo? Release?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 738,
+      "character": "份",
+      "pinyin": "fen",
+      "tone": 4,
+      "meaning": "Portion",
+      "story": "Portion person part commands \"Fen!\" sharply shared!",
+      "primitives": []
+    },
+    {
+      "id": 739,
+      "character": "佔",
+      "pinyin": "zhan",
+      "tone": 4,
+      "meaning": "to occupy",
+      "story": "To occupy person divine yells \"Zhan!\" sharply possessing!",
+      "primitives": []
+    },
+    {
+      "id": 740,
+      "character": "傢",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "Furniture",
+      "story": "Furniture person house sings \"Jia!\" cheerfully furnished!",
+      "primitives": []
+    },
+    {
+      "id": 741,
+      "character": "你",
+      "pinyin": "ni",
+      "tone": 3,
+      "meaning": "you",
+      "story": "You person small bends down drooping saying \"Nee\"!",
+      "primitives": []
+    },
+    {
+      "id": 742,
+      "character": "您",
+      "pinyin": "nin",
+      "tone": 2,
+      "meaning": "you (respectful)",
+      "story": "You respectful person heart questions \"Nin? Sir?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 743,
+      "character": "什",
+      "pinyin": "shen",
+      "tone": 2,
+      "meaning": "what?",
+      "story": "What person ten questions \"Shen? Which?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 744,
+      "character": "條",
+      "pinyin": "tiao",
+      "tone": 2,
+      "meaning": "a Strip",
+      "story": "A strip person long questions \"Tiao? Thin piece?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 745,
+      "character": "值",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "Value",
+      "story": "Value person straight questions \"Zhi? Worth?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 746,
+      "character": "做",
+      "pinyin": "zuo",
+      "tone": 4,
+      "meaning": "to make",
+      "story": "To make person ancient commands \"Zwoh!\" sharply creating!",
+      "primitives": []
+    },
+    {
+      "id": 747,
+      "character": "但",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "however",
+      "story": "However person once yells \"Dan!\" sharply yet!",
+      "primitives": []
+    },
+    {
+      "id": 748,
+      "character": "住",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "to dwell",
+      "story": "To dwell person master commands \"Zhoo!\" sharply residing!",
+      "primitives": []
+    },
+    {
+      "id": 749,
+      "character": "位",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "Position",
+      "story": "Position person stand yells \"Way!\" sharply ranked!",
+      "primitives": []
+    },
+    {
+      "id": 750,
+      "character": "件",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "Piece",
+      "story": "Piece person cow commands \"Jian!\" sharply item!",
+      "primitives": []
+    },
+    {
+      "id": 751,
+      "character": "仍",
+      "pinyin": "reng",
+      "tone": 2,
+      "meaning": "still",
+      "story": "Still person dagger questions \"Reng? Yet?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 752,
+      "character": "他",
+      "pinyin": "ta",
+      "tone": 1,
+      "meaning": "he",
+      "story": "He person also sings \"Ta!\" cheerfully him!",
+      "primitives": []
+    },
+    {
+      "id": 753,
+      "character": "休",
+      "pinyin": "xiu",
+      "tone": 1,
+      "meaning": "to rest",
+      "story": "To rest person tree sings \"Shyo!\" cheerfully relaxing!",
+      "primitives": []
+    },
+    {
+      "id": 754,
+      "character": "信",
+      "pinyin": "xin",
+      "tone": 4,
+      "meaning": "Faith",
+      "story": "Faith person words commands \"Shin!\" sharply believing!",
+      "primitives": []
+    },
+    {
+      "id": 755,
+      "character": "依",
+      "pinyin": "yi",
+      "tone": 1,
+      "meaning": "to depend on",
+      "story": "To depend on person clothes sings \"Yi!\" cheerfully relying!",
+      "primitives": []
+    },
+    {
+      "id": 756,
+      "character": "例",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "Example",
+      "story": "Example person stand yells \"Lee!\" sharply instance!",
+      "primitives": []
+    },
+    {
+      "id": 757,
+      "character": "個",
+      "pinyin": "ge",
+      "tone": 4,
+      "meaning": "individual",
+      "story": "Individual person solid commands \"Guh!\" sharply single!",
+      "primitives": []
+    },
+    {
+      "id": 758,
+      "character": "健",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "healthy",
+      "story": "Healthy person build yells \"Jian!\" sharply strong!",
+      "primitives": []
+    },
+    {
+      "id": 759,
+      "character": "停",
+      "pinyin": "ting",
+      "tone": 2,
+      "meaning": "to halt",
+      "story": "To halt person pavilion questions \"Ting? Stop?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 760,
+      "character": "倒",
+      "pinyin": "dao",
+      "tone": 3,
+      "meaning": "upside down",
+      "story": "Upside down person arrive bends down drooping saying \"Dao\"!",
+      "primitives": []
+    },
+    {
+      "id": 761,
+      "character": "仁",
+      "pinyin": "ren",
+      "tone": 2,
+      "meaning": "Benevolence",
+      "story": "Benevolence person two questions \"Ren? Kind?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 762,
+      "character": "優",
+      "pinyin": "you",
+      "tone": 1,
+      "meaning": "excellent",
+      "story": "Excellent person worried sings \"Yo!\" cheerfully superior!",
+      "primitives": []
+    },
+    {
+      "id": 763,
+      "character": "傷",
+      "pinyin": "shang",
+      "tone": 1,
+      "meaning": "a Wound",
+      "story": "A wound person trade sings \"Shang!\" painfully high!",
+      "primitives": []
+    },
+    {
+      "id": 764,
+      "character": "保",
+      "pinyin": "bao",
+      "tone": 3,
+      "meaning": "to safeguard",
+      "story": "To safeguard person protect bends down drooping saying \"Bao\"!",
+      "primitives": []
+    },
+    {
+      "id": 765,
+      "character": "堡",
+      "pinyin": "bao",
+      "tone": 3,
+      "meaning": "Fort",
+      "story": "A fort earth safeguard bends down drooping saying \"Bao\"!",
+      "primitives": []
+    },
+    {
+      "id": 766,
+      "character": "付",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "to pay",
+      "story": "To pay person hand commands \"Foo!\" sharply giving!",
+      "primitives": []
+    },
+    {
+      "id": 767,
+      "character": "府",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "Government Office",
+      "story": "Government office building pay bends down drooping saying \"Foo\"!",
+      "primitives": []
+    },
+    {
+      "id": 768,
+      "character": "俯",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "to bow one's head",
+      "story": "To bow person office bends down drooping saying \"Foo\"!",
+      "primitives": []
+    },
+    {
+      "id": 769,
+      "character": "代",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "to substitute for",
+      "story": "To substitute person weapon commands \"Dai!\" sharply replacing!",
+      "primitives": []
+    },
+    {
+      "id": 770,
+      "character": "袋",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "Bag",
+      "story": "A bag clothes substitute yells \"Dai!\" sharply holding!",
+      "primitives": []
+    },
+    {
+      "id": 771,
+      "character": "化",
+      "pinyin": "hua",
+      "tone": 4,
+      "meaning": "to transform",
+      "story": "To transform person change commands \"Hwa!\" sharply morphing!",
+      "primitives": []
+    },
+    {
+      "id": 772,
+      "character": "花",
+      "pinyin": "hua",
+      "tone": 1,
+      "meaning": "Flower",
+      "story": "Flower grass transform sings \"Hwa!\" cheerfully blooming!",
+      "primitives": []
+    },
+    {
+      "id": 773,
+      "character": "貨",
+      "pinyin": "huo",
+      "tone": 4,
+      "meaning": "Commodities",
+      "story": "Commodities transform shellfish commands \"Hwoh!\" sharply trading!",
+      "primitives": []
+    },
+    {
+      "id": 774,
+      "character": "何",
+      "pinyin": "he",
+      "tone": 2,
+      "meaning": "what/which/who/where/why?",
+      "story": "What person mouth questions \"Huh? Who where?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 775,
+      "character": "便",
+      "pinyin": "bian",
+      "tone": 4,
+      "meaning": "convenient",
+      "story": "Convenient person change commands \"Bian!\" sharply handy!",
+      "primitives": []
+    },
+    {
+      "id": 776,
+      "character": "丈",
+      "pinyin": "zhang",
+      "tone": 4,
+      "meaning": "100 Chinese Inches",
+      "story": "100 Chinese inches commands \"Zhang!\" sharply measuring!",
+      "primitives": []
+    },
+    {
+      "id": 777,
+      "character": "使",
+      "pinyin": "shi",
+      "tone": 3,
+      "meaning": "to use",
+      "story": "To use person officer bends down drooping saying \"Shi\"!",
+      "primitives": []
+    },
+    {
+      "id": 778,
+      "character": "久",
+      "pinyin": "jiu",
+      "tone": 3,
+      "meaning": "long time",
+      "story": "Long time person bend down drooping saying \"Jyo\"!",
+      "primitives": []
+    },
+    {
+      "id": 779,
+      "character": "畝",
+      "pinyin": "mu",
+      "tone": 3,
+      "meaning": "Chinese Acre",
+      "story": "Chinese acre field long time bends down drooping saying \"Moo\"!",
+      "primitives": []
+    },
+    {
+      "id": 780,
+      "character": "丙",
+      "pinyin": "bing",
+      "tone": 3,
+      "meaning": "third",
+      "story": "Third one inside bends down drooping saying \"Bing\"!",
+      "primitives": []
+    },
+    {
+      "id": 781,
+      "character": "柄",
+      "pinyin": "bing",
+      "tone": 3,
+      "meaning": "a Handle",
+      "story": "A handle tree third bends down drooping saying \"Bing\"!",
+      "primitives": []
+    },
+    {
+      "id": 782,
+      "character": "肉",
+      "pinyin": "rou",
+      "tone": 4,
+      "meaning": "Meat",
+      "story": "Meat person inside commands \"Ro!\" sharply meaty!",
+      "primitives": []
+    },
+    {
+      "id": 783,
+      "character": "腐",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "rotten",
+      "story": "Rotten meat office bends down drooping saying \"Foo\"!",
+      "primitives": []
+    },
+    {
+      "id": 784,
+      "character": "眾",
+      "pinyin": "zhong",
+      "tone": 4,
+      "meaning": "Multitude",
+      "story": "Multitude three people yell \"Zhong!\" sharply many!",
+      "primitives": []
+    },
+    {
+      "id": 785,
+      "character": "坐",
+      "pinyin": "zuo",
+      "tone": 4,
+      "meaning": "to sit",
+      "story": "To sit two people earth commands \"Zwoh!\" sharply seated!",
+      "primitives": []
+    },
+    {
+      "id": 786,
+      "character": "座",
+      "pinyin": "zuo",
+      "tone": 4,
+      "meaning": "Seat",
+      "story": "A seat building sit yells \"Zwoh!\" sharply positioned!",
+      "primitives": []
+    },
+    {
+      "id": 787,
+      "character": "檢",
+      "pinyin": "jian",
+      "tone": 3,
+      "meaning": "to examine",
+      "story": "To examine tree check bends down drooping saying \"Jian\"!",
+      "primitives": []
+    },
+    {
+      "id": 788,
+      "character": "臉",
+      "pinyin": "lian",
+      "tone": 3,
+      "meaning": "a Face",
+      "story": "A face flesh check bends down drooping saying \"Lian\"!",
+      "primitives": []
+    },
+    {
+      "id": 789,
+      "character": "來",
+      "pinyin": "lai",
+      "tone": 2,
+      "meaning": "to come",
+      "story": "To come wheat questions \"Lai? Arriving?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 790,
+      "character": "麥",
+      "pinyin": "mai",
+      "tone": 4,
+      "meaning": "Wheat",
+      "story": "Wheat walking grain commands \"Mai!\" sharply growing!",
+      "primitives": []
+    },
+    {
+      "id": 791,
+      "character": "喝",
+      "pinyin": "he",
+      "tone": 1,
+      "meaning": "to drink",
+      "story": "To drink mouth wheat sings \"Huh!\" cheerfully gulping!",
+      "primitives": []
+    },
+    {
+      "id": 792,
+      "character": "渴",
+      "pinyin": "ke",
+      "tone": 3,
+      "meaning": "thirsty",
+      "story": "Thirsty water drink bends down drooping saying \"Kuh\"!",
+      "primitives": []
+    }
+  ]
+}

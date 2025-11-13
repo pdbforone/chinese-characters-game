@@ -1,0 +1,158 @@
+{
+  "lesson": 45,
+  "characters": [
+    {
+      "id": 1285,
+      "character": "甘",
+      "pinyin": "gan",
+      "tone": 1,
+      "meaning": "sweet",
+      "story": "Sweet tongue says \"Gahn!\" cheerfully - Qinghai sugary!",
+      "primitives": []
+    },
+    {
+      "id": 1286,
+      "character": "某",
+      "pinyin": "mou",
+      "tone": 3,
+      "meaning": "such and such",
+      "story": "Such and such sweet tree bends down drooping \"Moh\" - so-and-so!",
+      "primitives": []
+    },
+    {
+      "id": 1287,
+      "character": "其",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "his-hers-its-theirs",
+      "story": "His-hers-its-theirs tool questions \"Chee? Whose?\" curiously - that!",
+      "primitives": []
+    },
+    {
+      "id": 1288,
+      "character": "期",
+      "pinyin": "qi",
+      "tone": 1,
+      "meaning": "Period of Time",
+      "story": "Period of time tool moon sings \"Chee!\" cheerfully - phase stage term!",
+      "primitives": []
+    },
+    {
+      "id": 1289,
+      "character": "基",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "Base",
+      "story": "Base dirt tool sings \"Jee!\" cheerfully - foundation fundamentals!",
+      "primitives": []
+    },
+    {
+      "id": 1290,
+      "character": "斯",
+      "pinyin": "si",
+      "tone": 1,
+      "meaning": "Sphinx",
+      "story": "Sphinx tool axe sings \"Suh!\" cheerfully - this such emphasis!",
+      "primitives": []
+    },
+    {
+      "id": 1291,
+      "character": "甚",
+      "pinyin": "shen",
+      "tone": 4,
+      "meaning": "tremendously",
+      "story": "Tremendously sweet tool commands sharply \"Shun!\" - very extremely!",
+      "primitives": []
+    },
+    {
+      "id": 1292,
+      "character": "貴",
+      "pinyin": "gui",
+      "tone": 4,
+      "meaning": "expensive",
+      "story": "Expensive tool shellfish commands sharply \"Gway!\" - precious noble!",
+      "primitives": []
+    },
+    {
+      "id": 1293,
+      "character": "遺",
+      "pinyin": "yi",
+      "tone": 2,
+      "meaning": "to bequeath",
+      "story": "To bequeath road expensive questions \"Yee? Lost?\" curiously - leave behind!",
+      "primitives": []
+    },
+    {
+      "id": 1294,
+      "character": "舞",
+      "pinyin": "wu",
+      "tone": 3,
+      "meaning": "Dance",
+      "story": "Dance feet sunset bends down drooping \"Woo\" - to dance!",
+      "primitives": []
+    },
+    {
+      "id": 1295,
+      "character": "無",
+      "pinyin": "wu",
+      "tone": 2,
+      "meaning": "nothing",
+      "story": "Nothing dance fire questions \"Woo? Lacking?\" curiously - none nothingness un—!",
+      "primitives": []
+    },
+    {
+      "id": 1296,
+      "character": "撫",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "to comfort",
+      "story": "To comfort hand nothing bends down drooping \"Foo\" - caress petting!",
+      "primitives": []
+    },
+    {
+      "id": 1297,
+      "character": "且",
+      "pinyin": "qie",
+      "tone": 3,
+      "meaning": "moreover",
+      "story": "Moreover table bends down drooping \"Chyeh\" - further and also!",
+      "primitives": []
+    },
+    {
+      "id": 1298,
+      "character": "姐",
+      "pinyin": "jie",
+      "tone": 3,
+      "meaning": "Older Sister",
+      "story": "Older sister woman moreover bends down drooping \"Jyeh\" - young miss!",
+      "primitives": []
+    },
+    {
+      "id": 1299,
+      "character": "組",
+      "pinyin": "zu",
+      "tone": 3,
+      "meaning": "Group",
+      "story": "Group thread moreover bends down drooping \"Dzoo\" - form compose organize association!",
+      "primitives": []
+    },
+    {
+      "id": 1300,
+      "character": "祖",
+      "pinyin": "zu",
+      "tone": 3,
+      "meaning": "Ancestor",
+      "story": "Ancestor altar moreover bends down drooping \"Dzoo\" - forefather!",
+      "primitives": []
+    },
+    {
+      "id": 1301,
+      "character": "助",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "to assist",
+      "story": "To assist moreover power commands sharply \"Joo!\" - help!",
+      "primitives": []
+    }
+  ]
+}

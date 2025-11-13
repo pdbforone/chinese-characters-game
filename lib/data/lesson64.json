@@ -1,0 +1,77 @@
+{
+  "lesson": 64,
+  "characters": [
+    {
+      "id": 1534,
+      "character": "哩",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "mile",
+      "story": "Mile mouth inside bends down drooping \"Lee\" - distance measure!",
+      "primitives": []
+    },
+    {
+      "id": 1535,
+      "character": "鯉",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "carp",
+      "story": "Carp fish inside bends down drooping \"Lee\" - koi fish!",
+      "primitives": []
+    },
+    {
+      "id": 1536,
+      "character": "嘿",
+      "pinyin": "hei",
+      "tone": 1,
+      "meaning": "Hey!",
+      "story": "Hey mouth black sings \"Hay!\" cheerfully - exclamation!",
+      "primitives": []
+    },
+    {
+      "id": 1537,
+      "character": "丹",
+      "pinyin": "dan",
+      "tone": 1,
+      "meaning": "cinnabar red",
+      "story": "Cinnabar red pellet sings \"Dahn!\" cheerfully - vermillion!",
+      "primitives": []
+    },
+    {
+      "id": 1538,
+      "character": "喧",
+      "pinyin": "xuan",
+      "tone": 1,
+      "meaning": "boisterous",
+      "story": "Boisterous mouth proclaim sings \"Shyuan!\" cheerfully - loud clamorous!",
+      "primitives": []
+    },
+    {
+      "id": 1539,
+      "character": "賓",
+      "pinyin": "bin",
+      "tone": 1,
+      "meaning": "visitor",
+      "story": "Visitor roof shellfish sings \"Bin!\" cheerfully - guest!",
+      "primitives": []
+    },
+    {
+      "id": 1540,
+      "character": "濱",
+      "pinyin": "bin",
+      "tone": 1,
+      "meaning": "water's edge",
+      "story": "Water's edge water visitor sings \"Bin!\" cheerfully - shore bank!",
+      "primitives": []
+    },
+    {
+      "id": 1541,
+      "character": "寡",
+      "pinyin": "gua",
+      "tone": 3,
+      "meaning": "widowed",
+      "story": "Widowed house divide bends down drooping \"Gwah\" - alone bereaved!",
+      "primitives": []
+    }
+  ]
+}

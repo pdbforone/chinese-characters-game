@@ -1,0 +1,167 @@
+{
+  "lesson": 3,
+  "characters": [
+    {
+      "id": 32,
+      "character": "自",
+      "pinyin": "zi",
+      "tone": 4,
+      "meaning": "oneself",
+      "story": "A nose points to oneself, yelling \"Zi!\" sharply with pride!",
+      "primitives": []
+    },
+    {
+      "id": 33,
+      "character": "白",
+      "pinyin": "bai",
+      "tone": 2,
+      "meaning": "white",
+      "story": "The white sun asks \"Bai? Why so bright?\" questioning curiously!",
+      "primitives": []
+    },
+    {
+      "id": 34,
+      "character": "百",
+      "pinyin": "bai",
+      "tone": 3,
+      "meaning": "hundred",
+      "story": "A hundred bends down drooping under one white sun saying \"Bai\"!",
+      "primitives": []
+    },
+    {
+      "id": 35,
+      "character": "皂",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "Soap",
+      "story": "Soap commands \"Zao!\" sharply to clean everything white!",
+      "primitives": []
+    },
+    {
+      "id": 36,
+      "character": "中",
+      "pinyin": "zhong",
+      "tone": 1,
+      "meaning": "Middle",
+      "story": "An arrow happily sings \"Zhong!\" straight through the middle target!",
+      "primitives": []
+    },
+    {
+      "id": 37,
+      "character": "千",
+      "pinyin": "qian",
+      "tone": 1,
+      "meaning": "thousand",
+      "story": "A thousand people sing \"Chian!\" cheerfully marching together!",
+      "primitives": []
+    },
+    {
+      "id": 38,
+      "character": "舌",
+      "pinyin": "she",
+      "tone": 2,
+      "meaning": "Tongue",
+      "story": "Your tongue in your mouth asks \"She? Why taste this?\" questioning!",
+      "primitives": []
+    },
+    {
+      "id": 39,
+      "character": "升",
+      "pinyin": "sheng",
+      "tone": 1,
+      "meaning": "Liter",
+      "story": "A liter rises up cheerfully singing \"Sheng!\" to the top!",
+      "primitives": []
+    },
+    {
+      "id": 40,
+      "character": "昇",
+      "pinyin": "sheng",
+      "tone": 1,
+      "meaning": "to rise up",
+      "story": "The sun rises high, happily singing \"Sheng!\" at dawn!",
+      "primitives": []
+    },
+    {
+      "id": 41,
+      "character": "丸",
+      "pinyin": "wan",
+      "tone": 2,
+      "meaning": "Pill",
+      "story": "A round pill asks \"Wan? Why swallow me?\" questioning curiously!",
+      "primitives": []
+    },
+    {
+      "id": 42,
+      "character": "卜",
+      "pinyin": "bu",
+      "tone": 3,
+      "meaning": "Divination",
+      "story": "The divination stick bends down drooping as it says \"Bu\"!",
+      "primitives": []
+    },
+    {
+      "id": 43,
+      "character": "占",
+      "pinyin": "zhan",
+      "tone": 4,
+      "meaning": "to tell fortunes",
+      "story": "Your mouth commands the divination sharply \"Zhan! Tell my fortune!\"",
+      "primitives": []
+    },
+    {
+      "id": 44,
+      "character": "上",
+      "pinyin": "shang",
+      "tone": 4,
+      "meaning": "above",
+      "story": "Above the line, an arrow yells \"Shang!\" pointing up sharply!",
+      "primitives": []
+    },
+    {
+      "id": 45,
+      "character": "下",
+      "pinyin": "xia",
+      "tone": 4,
+      "meaning": "below",
+      "story": "Below the line, an arrow commands \"Xia!\" pointing down sharply!",
+      "primitives": []
+    },
+    {
+      "id": 46,
+      "character": "卡",
+      "pinyin": "ka",
+      "tone": 3,
+      "meaning": "Card",
+      "story": "A card bends and dips between above and below saying \"Ka\"!",
+      "primitives": []
+    },
+    {
+      "id": 47,
+      "character": "卓",
+      "pinyin": "zhuo",
+      "tone": 2,
+      "meaning": "eminent",
+      "story": "An eminent person stands above, questioning \"Zhuo? Am I tall enough?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 48,
+      "character": "朝",
+      "pinyin": "chao",
+      "tone": 2,
+      "meaning": "Dynasty",
+      "story": "The dynasty sun and moon question \"Chao? Why our reign?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 49,
+      "character": "嘲",
+      "pinyin": "chao",
+      "tone": 2,
+      "meaning": "to ridicule",
+      "story": "The mouth ridicules, questioning \"Chao? You call that a dynasty?\" mockingly!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "lesson": 87,
+  "characters": [
+    {
+      "id": 2203,
+      "character": "矯",
+      "pinyin": "jiao",
+      "tone": 3,
+      "meaning": "rectify",
+      "story": "Rectify dart angel bends down drooping \"Jyao\" - correct pretentious!",
+      "primitives": []
+    },
+    {
+      "id": 2204,
+      "character": "矮",
+      "pinyin": "ai",
+      "tone": 3,
+      "meaning": "short of stature",
+      "story": "Short of stature dart committee bends down drooping \"Igh\" - low not confident!",
+      "primitives": []
+    },
+    {
+      "id": 2205,
+      "character": "唉",
+      "pinyin": "ai",
+      "tone": 1,
+      "meaning": "sigh--ay-ay",
+      "story": "Sigh ay-ay mouth crossbow sings \"Igh!\" cheerfully - regretful exclamation!",
+      "primitives": []
+    },
+    {
+      "id": 2206,
+      "character": "埃",
+      "pinyin": "ai",
+      "tone": 1,
+      "meaning": "fine dust",
+      "story": "Fine dust soil crossbow sings \"Igh!\" cheerfully - particles!",
+      "primitives": []
+    },
+    {
+      "id": 2207,
+      "character": "挨",
+      "pinyin": "ai",
+      "tone": 1,
+      "meaning": "suffer",
+      "story": "Suffer fingers crossbow questions \"Igh? Beaten?\" curiously - endure beaten!",
+      "primitives": []
+    },
+    {
+      "id": 2208,
+      "character": "簇",
+      "pinyin": "cu",
+      "tone": 4,
+      "meaning": "cluster",
+      "story": "Cluster bamboo tribe commands sharply \"Tsoo!\" - bunch group!",
+      "primitives": []
+    },
+    {
+      "id": 2209,
+      "character": "茅",
+      "pinyin": "mao",
+      "tone": 2,
+      "meaning": "thatch",
+      "story": "Thatch flowers spear questions \"Mao? Straw?\" curiously - grass bushes pee!",
+      "primitives": []
+    },
+    {
+      "id": 2210,
+      "character": "橘",
+      "pinyin": "ju",
+      "tone": 2,
+      "meaning": "tangerine",
+      "story": "Tangerine tree spear helmet legs mouth questions \"Jyoo? Citrus?\" curiously - orange fruit!",
+      "primitives": []
+    },
+    {
+      "id": 2211,
+      "character": "舒",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "relax",
+      "story": "Relax give tongue sings \"Shoo!\" cheerfully - comfortable at ease!",
+      "primitives": []
+    },
+    {
+      "id": 2212,
+      "character": "弘",
+      "pinyin": "hong",
+      "tone": 2,
+      "meaning": "noble",
+      "story": "Noble bow elbow questions \"Hohng? Grand?\" curiously - great magnificent!",
+      "primitives": []
+    },
+    {
+      "id": 2213,
+      "character": "夷",
+      "pinyin": "yi",
+      "tone": 2,
+      "meaning": "barbarian",
+      "story": "Barbarian one bow questions \"Yee? Savage?\" curiously - foreigner!",
+      "primitives": []
+    },
+    {
+      "id": 2214,
+      "character": "姨",
+      "pinyin": "yi",
+      "tone": 2,
+      "meaning": "maternal aunt",
+      "story": "Maternal aunt woman barbarian questions \"Yee? Mother's sister?\" curiously - auntie!",
+      "primitives": []
+    },
+    {
+      "id": 2215,
+      "character": "疆",
+      "pinyin": "jiang",
+      "tone": 1,
+      "meaning": "dividing line",
+      "story": "Dividing line bow soil family feud sings \"Jyahng!\" cheerfully - border boundary!",
+      "primitives": []
+    },
+    {
+      "id": 2216,
+      "character": "僵",
+      "pinyin": "jiang",
+      "tone": 1,
+      "meaning": "stiff",
+      "story": "Stiff person family feud sings \"Jyahng!\" cheerfully - rigid frozen limbs!",
+      "primitives": []
+    },
+    {
+      "id": 2217,
+      "character": "薑",
+      "pinyin": "jiang",
+      "tone": 1,
+      "meaning": "ginger",
+      "story": "Ginger flowers family feud sings \"Jyahng!\" cheerfully - spicy root soup!",
+      "primitives": []
+    },
+    {
+      "id": 2218,
+      "character": "粥",
+      "pinyin": "zhou",
+      "tone": 1,
+      "meaning": "porridge",
+      "story": "Porridge rice bent弓 sings \"Joh!\" cheerfully - rice soup monks little!",
+      "primitives": []
+    },
+    {
+      "id": 2219,
+      "character": "沸",
+      "pinyin": "fei",
+      "tone": 4,
+      "meaning": "bring to a boil",
+      "story": "Bring to a boil water dollar sign commands sharply \"Fay!\" - bubble blood boiling!",
+      "primitives": []
+    },
+    {
+      "id": 2220,
+      "character": "拂",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "caress",
+      "story": "Caress fingers dollar sign questions \"Foo? Stroke?\" curiously - brush embrace hug!",
+      "primitives": []
+    },
+    {
+      "id": 2221,
+      "character": "剃",
+      "pinyin": "ti",
+      "tone": 4,
+      "meaning": "shave",
+      "story": "Shave younger brother knife commands sharply \"Tee!\" - cut hair razor!",
+      "primitives": []
+    },
+    {
+      "id": 2222,
+      "character": "涕",
+      "pinyin": "ti",
+      "tone": 4,
+      "meaning": "snot",
+      "story": "Snot water little brother commands sharply \"Tee!\" - nose mucus tears!",
+      "primitives": []
+    },
+    {
+      "id": 2223,
+      "character": "梯",
+      "pinyin": "ti",
+      "tone": 1,
+      "meaning": "ladder",
+      "story": "Ladder tree younger brother sings \"Tee!\" cheerfully - stairs steps!",
+      "primitives": []
+    },
+    {
+      "id": 2224,
+      "character": "朽",
+      "pinyin": "xiu",
+      "tone": 3,
+      "meaning": "decayed",
+      "story": "Decayed tree third bends down drooping \"Shyo\" - rotten crumbling can't carve!",
+      "primitives": []
+    },
+    {
+      "id": 2225,
+      "character": "聘",
+      "pinyin": "pin",
+      "tone": 4,
+      "meaning": "employ",
+      "story": "Employ ear sprout snare commands sharply \"Pin!\" - hire appoint letter!",
+      "primitives": []
+    },
+    {
+      "id": 2226,
+      "character": "犧",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "sacrifice",
+      "story": "Sacrifice cow drama sings \"Shee!\" cheerfully - give up chess piece!",
+      "primitives": []
+    },
+    {
+      "id": 2227,
+      "character": "姊",
+      "pinyin": "zi",
+      "tone": 3,
+      "meaning": "elder sister",
+      "story": "Elder sister woman snare drag genie bends down drooping \"Dzir\" - older female sibling!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "lesson": 17,
+  "characters": [
+    {
+      "id": 353,
+      "character": "止",
+      "pinyin": "zhi",
+      "tone": 3,
+      "meaning": "to stop",
+      "story": "To stop foot bends down drooping saying \"Zhi\"!",
+      "primitives": []
+    },
+    {
+      "id": 354,
+      "character": "步",
+      "pinyin": "bu",
+      "tone": 4,
+      "meaning": "Footstep",
+      "story": "Footsteps stop little commands \"Boo!\" sharply walking!",
+      "primitives": []
+    },
+    {
+      "id": 355,
+      "character": "涉",
+      "pinyin": "she",
+      "tone": 4,
+      "meaning": "to ford",
+      "story": "To ford water steps commands \"Shuh!\" sharply crossing!",
+      "primitives": []
+    },
+    {
+      "id": 356,
+      "character": "頻",
+      "pinyin": "pin",
+      "tone": 2,
+      "meaning": "repeatedly",
+      "story": "Repeatedly steps page questions \"Pin? Again?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 357,
+      "character": "肯",
+      "pinyin": "ken",
+      "tone": 3,
+      "meaning": "to agree",
+      "story": "To agree stop flesh bends down drooping saying \"Ken\"!",
+      "primitives": []
+    },
+    {
+      "id": 358,
+      "character": "企",
+      "pinyin": "qi",
+      "tone": 3,
+      "meaning": "to look forward to",
+      "story": "To look forward to person stop bends down drooping saying \"Chi\"!",
+      "primitives": []
+    },
+    {
+      "id": 359,
+      "character": "歲",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "Years of Age",
+      "story": "Years of age stop halberds small commands \"Sway!\" sharply aging!",
+      "primitives": []
+    },
+    {
+      "id": 360,
+      "character": "武",
+      "pinyin": "wu",
+      "tone": 3,
+      "meaning": "military",
+      "story": "Military stop halberds bend down drooping saying \"Woo\"!",
+      "primitives": []
+    },
+    {
+      "id": 361,
+      "character": "賦",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "Levy",
+      "story": "A levy martial shellfish commands \"Foo!\" sharply taxing!",
+      "primitives": []
+    },
+    {
+      "id": 362,
+      "character": "正",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "correct",
+      "story": "Correct stop one commands \"Zheng!\" sharply right!",
+      "primitives": []
+    },
+    {
+      "id": 363,
+      "character": "政",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "Politics",
+      "story": "Politics correct strike yells \"Zheng!\" sharply governing!",
+      "primitives": []
+    },
+    {
+      "id": 364,
+      "character": "定",
+      "pinyin": "ding",
+      "tone": 4,
+      "meaning": "to settle on",
+      "story": "To settle on house correct commands \"Ding!\" sharply deciding!",
+      "primitives": []
+    },
+    {
+      "id": 365,
+      "character": "走",
+      "pinyin": "zou",
+      "tone": 3,
+      "meaning": "to walk",
+      "story": "To walk earth stop bends down drooping saying \"Zo\"!",
+      "primitives": []
+    },
+    {
+      "id": 366,
+      "character": "超",
+      "pinyin": "chao",
+      "tone": 1,
+      "meaning": "to transcend",
+      "story": "To transcend walk summon sings \"Chao!\" cheerfully exceeding!",
+      "primitives": []
+    },
+    {
+      "id": 367,
+      "character": "越",
+      "pinyin": "yue",
+      "tone": 4,
+      "meaning": "to surpass",
+      "story": "To surpass walk halberds commands \"Yueh!\" sharply beyond!",
+      "primitives": []
+    },
+    {
+      "id": 368,
+      "character": "是",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "to be",
+      "story": "To be sun correct yells \"Shi!\" sharply existing!",
+      "primitives": []
+    },
+    {
+      "id": 369,
+      "character": "題",
+      "pinyin": "ti",
+      "tone": 2,
+      "meaning": "Topic",
+      "story": "A topic yes page questions \"Ti? What about?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 370,
+      "character": "建",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "to build",
+      "story": "To build brush walk commands \"Jian!\" sharply constructing!",
+      "primitives": []
+    },
+    {
+      "id": 371,
+      "character": "延",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "to prolong",
+      "story": "To prolong walk correct questions \"Yan? How long?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 372,
+      "character": "誕",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "Nativity",
+      "story": "Nativity words prolong commands \"Dan!\" sharply birth!",
+      "primitives": []
+    },
+    {
+      "id": 373,
+      "character": "楚",
+      "pinyin": "chu",
+      "tone": 3,
+      "meaning": "clear",
+      "story": "Clear tree define bends down drooping saying \"Choo\"!",
+      "primitives": []
+    },
+    {
+      "id": 374,
+      "character": "礎",
+      "pinyin": "chu",
+      "tone": 3,
+      "meaning": "Foundation",
+      "story": "Foundation stone clear bends down drooping saying \"Choo\"!",
+      "primitives": []
+    }
+  ]
+}

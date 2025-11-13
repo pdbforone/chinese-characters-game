@@ -1,0 +1,320 @@
+{
+  "lesson": 112,
+  "characters": [
+    {
+      "id": 3001,
+      "character": "崔",
+      "pinyin": "cui",
+      "tone": 1,
+      "meaning": "Cui",
+      "story": "\"TSWAY!\" the pterodactyl sings cheerfully - the surname Cui!",
+      "primitives": []
+    },
+    {
+      "id": 3002,
+      "character": "曹",
+      "pinyin": "cao",
+      "tone": 2,
+      "meaning": "Cao",
+      "story": "\"TSAO?\" the cadet questions curiously - is that Cao Cao?",
+      "primitives": []
+    },
+    {
+      "id": 3003,
+      "character": "劉",
+      "pinyin": "liu",
+      "tone": 2,
+      "meaning": "Liu",
+      "story": "\"LYOH?\" he questions curiously - the surname Liu?",
+      "primitives": []
+    },
+    {
+      "id": 3004,
+      "character": "潘",
+      "pinyin": "pan",
+      "tone": 1,
+      "meaning": "Pan",
+      "story": "\"PAN!\" the water sings cheerfully as Pan gives it a try!",
+      "primitives": []
+    },
+    {
+      "id": 3005,
+      "character": "梁",
+      "pinyin": "liang",
+      "tone": 2,
+      "meaning": "Liang",
+      "story": "\"LYAHNG?\" the water, blade, drop and tree question curiously - was Liang Qichao good or bad?",
+      "primitives": []
+    },
+    {
+      "id": 3006,
+      "character": "沈",
+      "pinyin": "shen",
+      "tone": 3,
+      "meaning": "Shen",
+      "story": "The water bends down drooping - the silent surname Shen.",
+      "primitives": []
+    },
+    {
+      "id": 3007,
+      "character": "鄭",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "Zheng",
+      "story": "\"JUNG!\" the city walls command sharply - the surname Zheng!",
+      "primitives": []
+    },
+    {
+      "id": 3008,
+      "character": "譚",
+      "pinyin": "tan",
+      "tone": 2,
+      "meaning": "Tam",
+      "story": "\"TAN?\" the words question curiously - the surname Tam?",
+      "primitives": []
+    },
+    {
+      "id": 3009,
+      "character": "趙",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "Zhao",
+      "story": "\"JAO!\" he commands sharply when introducing himself - the surname Zhao, like from the ancient dynasty!",
+      "primitives": []
+    },
+    {
+      "id": 3010,
+      "character": "姚",
+      "pinyin": "yao",
+      "tone": 2,
+      "meaning": "Yao",
+      "story": "\"YAO?\" the woman questions curiously - the surname Yao?",
+      "primitives": []
+    },
+    {
+      "id": 3011,
+      "character": "魯",
+      "pinyin": "lu",
+      "tone": 3,
+      "meaning": "Lu",
+      "story": "It bends down drooping - the surname Lu.",
+      "primitives": []
+    },
+    {
+      "id": 3012,
+      "character": "姜",
+      "pinyin": "jiang",
+      "tone": 1,
+      "meaning": "Jiang",
+      "story": "\"JYAHNG!\" the woman sings cheerfully - the surname Jiang!",
+      "primitives": []
+    },
+    {
+      "id": 3013,
+      "character": "范",
+      "pinyin": "fan",
+      "tone": 4,
+      "meaning": "Fan",
+      "story": "\"FAN!\" it commands sharply - the surname Fan!",
+      "primitives": []
+    },
+    {
+      "id": 3014,
+      "character": "薛",
+      "pinyin": "xue",
+      "tone": 1,
+      "meaning": "Xue",
+      "story": "\"SHWEH!\" the flowers sing cheerfully - the surname Xue!",
+      "primitives": []
+    },
+    {
+      "id": 3015,
+      "character": "涂",
+      "pinyin": "tu",
+      "tone": 2,
+      "meaning": "Tu",
+      "story": "\"TOO?\" the water questions curiously - the surname Tu?",
+      "primitives": []
+    },
+    {
+      "id": 3016,
+      "character": "彭",
+      "pinyin": "peng",
+      "tone": 2,
+      "meaning": "Peng",
+      "story": "\"PUNG?\" it questions curiously - the surname Peng?",
+      "primitives": []
+    },
+    {
+      "id": 3017,
+      "character": "郁",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "Yu",
+      "story": "\"YOO!\" the city walls command sharply - the surname Yu!",
+      "primitives": []
+    },
+    {
+      "id": 3018,
+      "character": "馮",
+      "pinyin": "feng",
+      "tone": 2,
+      "meaning": "Feng",
+      "story": "\"FUNG?\" the horse questions curiously - the surname Feng?",
+      "primitives": []
+    },
+    {
+      "id": 3019,
+      "character": "魏",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "Wei",
+      "story": "\"WAY!\" it commands sharply - the surname Wei!",
+      "primitives": []
+    },
+    {
+      "id": 3020,
+      "character": "岳",
+      "pinyin": "yue",
+      "tone": 4,
+      "meaning": "Yue",
+      "story": "\"YWEH!\" the mountain commands sharply - the surname Yue!",
+      "primitives": []
+    },
+    {
+      "id": 3021,
+      "character": "彿",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "as though",
+      "story": "\"FOO?\" it questions curiously - as though it were real.",
+      "primitives": []
+    },
+    {
+      "id": 3022,
+      "character": "莉",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "jasmine",
+      "story": "\"LEE!\" the flowers command sharply - jasmine blossoms!",
+      "primitives": []
+    },
+    {
+      "id": 3023,
+      "character": "湘",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "Hunan",
+      "story": "\"SHYAHNG!\" the water sings cheerfully through Hunan Province!",
+      "primitives": []
+    },
+    {
+      "id": 3024,
+      "character": "甸",
+      "pinyin": "dian",
+      "tone": 4,
+      "meaning": "outlying areas",
+      "story": "\"DYEN!\" the field commands sharply across the outlying areas of the province!",
+      "primitives": []
+    },
+    {
+      "id": 3025,
+      "character": "滄",
+      "pinyin": "cang",
+      "tone": 1,
+      "meaning": "dark blue",
+      "story": "\"TSAHNG!\" the water sings cheerfully in dark blue waves across the sea!",
+      "primitives": []
+    },
+    {
+      "id": 3026,
+      "character": "穆",
+      "pinyin": "mu",
+      "tone": 4,
+      "meaning": "reverent",
+      "story": "\"MOO!\" the grain commands sharply with reverent respect in the solemn ceremony!",
+      "primitives": []
+    },
+    {
+      "id": 3027,
+      "character": "娜",
+      "pinyin": "na",
+      "tone": 4,
+      "meaning": "na",
+      "story": "\"NAH?\" the woman questions curiously - is her name Anna or Diana?",
+      "primitives": []
+    },
+    {
+      "id": 3028,
+      "character": "瓊",
+      "pinyin": "qiong",
+      "tone": 2,
+      "meaning": "fine jade",
+      "story": "\"CHYUNG?\" the jewel questions curiously - is this fine jade or green jade?",
+      "primitives": []
+    },
+    {
+      "id": 3029,
+      "character": "琳",
+      "pinyin": "lin",
+      "tone": 2,
+      "meaning": "gem",
+      "story": "\"LIN?\" the jewel questions curiously - a beautiful gem often used in girls' names.",
+      "primitives": []
+    },
+    {
+      "id": 3030,
+      "character": "鈞",
+      "pinyin": "jun",
+      "tone": 1,
+      "meaning": "30 catties",
+      "story": "\"JYOON!\" the metal sings cheerfully - thirty catties, about 15 kg, often in boys' names!",
+      "primitives": []
+    },
+    {
+      "id": 3031,
+      "character": "喲",
+      "pinyin": "yo",
+      "tone": 1,
+      "meaning": "Oh",
+      "story": "\"YOH,\" the mouth says neutrally - Oh! Like \"yo!\" between teens!",
+      "primitives": []
+    },
+    {
+      "id": 3032,
+      "character": "砲",
+      "pinyin": "pao",
+      "tone": 4,
+      "meaning": "cannon",
+      "story": "\"PAO!\" the stone commands sharply - a cannon firing artillery!",
+      "primitives": []
+    },
+    {
+      "id": 3033,
+      "character": "蒐",
+      "pinyin": "sou",
+      "tone": 1,
+      "meaning": "search for",
+      "story": "\"SOH!\" the flowers sing cheerfully as we search for them - to seek and find!",
+      "primitives": []
+    },
+    {
+      "id": 3034,
+      "character": "芙",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "hibiscus (A)",
+      "story": "\"FOO?\" the flower questions curiously - hibiscus, the first part, like a lotus flower.",
+      "primitives": []
+    },
+    {
+      "id": 3035,
+      "character": "蓉",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "hibiscus (B)",
+      "story": "\"RUNG?\" the flower questions curiously - hibiscus, the second part, cottonrose bloom!",
+      "primitives": []
+    }
+  ]
+}

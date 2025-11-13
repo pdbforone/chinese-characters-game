@@ -1,0 +1,203 @@
+{
+  "lesson": 15,
+  "characters": [
+    {
+      "id": 311,
+      "character": "書",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "Book",
+      "story": "A book hand speaks cheerfully singing \"Shoo!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 312,
+      "character": "畫",
+      "pinyin": "hua",
+      "tone": 4,
+      "meaning": "a Drawing",
+      "story": "A drawing field commands \"Hwa!\" sharply with lines!",
+      "primitives": []
+    },
+    {
+      "id": 313,
+      "character": "劃",
+      "pinyin": "hua",
+      "tone": 2,
+      "meaning": "to scratch",
+      "story": "To scratch drawing power questions \"Hwa? Where cut?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 314,
+      "character": "攻",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "to attack",
+      "story": "To attack work strike sings \"Gong!\" cheerfully hitting!",
+      "primitives": []
+    },
+    {
+      "id": 315,
+      "character": "敗",
+      "pinyin": "bai",
+      "tone": 4,
+      "meaning": "to fail",
+      "story": "To fail shellfish struck yells \"Bai!\" sharply defeated!",
+      "primitives": []
+    },
+    {
+      "id": 316,
+      "character": "故",
+      "pinyin": "gu",
+      "tone": 4,
+      "meaning": "deliberately",
+      "story": "Deliberately ancient strike commands \"Goo!\" sharply on purpose!",
+      "primitives": []
+    },
+    {
+      "id": 317,
+      "character": "救",
+      "pinyin": "jiu",
+      "tone": 4,
+      "meaning": "to rescue",
+      "story": "To rescue demand strike yells \"Jyo!\" sharply saving!",
+      "primitives": []
+    },
+    {
+      "id": 318,
+      "character": "敬",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "to revere",
+      "story": "To revere strike alarm commands \"Jing!\" sharply respecting!",
+      "primitives": []
+    },
+    {
+      "id": 319,
+      "character": "敞",
+      "pinyin": "chang",
+      "tone": 3,
+      "meaning": "spacious",
+      "story": "Spacious high strike bends down drooping saying \"Chang\"!",
+      "primitives": []
+    },
+    {
+      "id": 320,
+      "character": "言",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "to say",
+      "story": "To say words question \"Yan? What speak?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 321,
+      "character": "警",
+      "pinyin": "jing",
+      "tone": 3,
+      "meaning": "Police",
+      "story": "Police revere words bend down drooping saying \"Jing\"!",
+      "primitives": []
+    },
+    {
+      "id": 322,
+      "character": "計",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "a Plan",
+      "story": "A plan words ten commands \"Ji!\" sharply plotting!",
+      "primitives": []
+    },
+    {
+      "id": 323,
+      "character": "獄",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "Prison",
+      "story": "Prison dog words言 dog命令 yells \"Yu!\" sharply locked!",
+      "primitives": []
+    },
+    {
+      "id": 324,
+      "character": "討",
+      "pinyin": "tao",
+      "tone": 3,
+      "meaning": "to condemn",
+      "story": "To condemn words with inch bends down drooping saying \"Tao\"!",
+      "primitives": []
+    },
+    {
+      "id": 325,
+      "character": "訓",
+      "pinyin": "xun",
+      "tone": 4,
+      "meaning": "Instruction",
+      "story": "Instruction words in river commands \"Shun!\" sharply teaching!",
+      "primitives": []
+    },
+    {
+      "id": 326,
+      "character": "話",
+      "pinyin": "hua",
+      "tone": 4,
+      "meaning": "the talk",
+      "story": "The talk words tongue commands \"Hwa!\" sharply speaking!",
+      "primitives": []
+    },
+    {
+      "id": 327,
+      "character": "詩",
+      "pinyin": "shi",
+      "tone": 1,
+      "meaning": "Poem",
+      "story": "A poem words at temple sings \"Shi!\" cheerfully rhyming!",
+      "primitives": []
+    },
+    {
+      "id": 328,
+      "character": "語",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "Language",
+      "story": "Language words I bend down drooping saying \"Yu\"!",
+      "primitives": []
+    },
+    {
+      "id": 329,
+      "character": "讀",
+      "pinyin": "du",
+      "tone": 2,
+      "meaning": "to read",
+      "story": "To read words sell questions \"Doo? What says?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 330,
+      "character": "調",
+      "pinyin": "diao",
+      "tone": 4,
+      "meaning": "Tune",
+      "story": "A tune words week commands \"Diao!\" sharply singing!",
+      "primitives": []
+    },
+    {
+      "id": 331,
+      "character": "談",
+      "pinyin": "tan",
+      "tone": 2,
+      "meaning": "to discuss",
+      "story": "To discuss words flame questions \"Tan? What topic?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 332,
+      "character": "這",
+      "pinyin": "zhe",
+      "tone": 4,
+      "meaning": "this",
+      "story": "This walk words commands \"Zhuh!\" sharply pointing!",
+      "primitives": []
+    }
+  ]
+}

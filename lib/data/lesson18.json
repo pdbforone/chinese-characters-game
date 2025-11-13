@@ -1,0 +1,653 @@
+{
+  "lesson": 18,
+  "characters": [
+    {
+      "id": 375,
+      "character": "衣",
+      "pinyin": "yi",
+      "tone": 1,
+      "meaning": "Clothing",
+      "story": "Clothing covers cheerfully singing \"Yee!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 376,
+      "character": "裡",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "inside",
+      "story": "Inside clothing li bends down drooping saying \"Lee\"!",
+      "primitives": []
+    },
+    {
+      "id": 377,
+      "character": "哀",
+      "pinyin": "ai",
+      "tone": 1,
+      "meaning": "Grief",
+      "story": "Grief mouth clothes sings \"Eye!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 378,
+      "character": "袁",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "Yuan",
+      "story": "Yuan clothes begin questions \"Yuan? Who's that?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 379,
+      "character": "遠",
+      "pinyin": "yuan",
+      "tone": 3,
+      "meaning": "distant",
+      "story": "Distant walk Yuan bends down drooping saying \"Yuan\"!",
+      "primitives": []
+    },
+    {
+      "id": 380,
+      "character": "壞",
+      "pinyin": "huai",
+      "tone": 4,
+      "meaning": "bad",
+      "story": "Bad earth Yuan commands \"Hwai!\" sharply broken!",
+      "primitives": []
+    },
+    {
+      "id": 381,
+      "character": "初",
+      "pinyin": "chu",
+      "tone": 1,
+      "meaning": "elementary",
+      "story": "Elementary clothes knife sings \"Choo!\" cheerfully starting!",
+      "primitives": []
+    },
+    {
+      "id": 382,
+      "character": "巾",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "Towel",
+      "story": "A towel hangs cheerfully singing \"Jeen!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 383,
+      "character": "布",
+      "pinyin": "bu",
+      "tone": 4,
+      "meaning": "Cloth",
+      "story": "Cloth hangs down commanding \"Boo!\" sharply spread!",
+      "primitives": []
+    },
+    {
+      "id": 384,
+      "character": "帽",
+      "pinyin": "mao",
+      "tone": 4,
+      "meaning": "Hat",
+      "story": "A hat towel eye commands \"Mao!\" sharply on head!",
+      "primitives": []
+    },
+    {
+      "id": 385,
+      "character": "幕",
+      "pinyin": "mu",
+      "tone": 4,
+      "meaning": "Curtain",
+      "story": "A curtain towel nobody yells \"Moo!\" sharply hanging!",
+      "primitives": []
+    },
+    {
+      "id": 386,
+      "character": "棉",
+      "pinyin": "mian",
+      "tone": 2,
+      "meaning": "Cotton",
+      "story": "Cotton tree towel questions \"Mian? Is it soft?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 387,
+      "character": "幫",
+      "pinyin": "bang",
+      "tone": 1,
+      "meaning": "to help",
+      "story": "To help towel city sings \"Bang!\" cheerfully assisting!",
+      "primitives": []
+    },
+    {
+      "id": 388,
+      "character": "市",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Market",
+      "story": "A market towel above commands \"Shi!\" sharply trading!",
+      "primitives": []
+    },
+    {
+      "id": 389,
+      "character": "肺",
+      "pinyin": "fei",
+      "tone": 4,
+      "meaning": "Lungs",
+      "story": "Lungs flesh market yell \"Fay!\" sharply breathing!",
+      "primitives": []
+    },
+    {
+      "id": 390,
+      "character": "帶",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "Sash",
+      "story": "A sash towel world commands \"Dai!\" sharply wrapping!",
+      "primitives": []
+    },
+    {
+      "id": 391,
+      "character": "滯",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "stagnant",
+      "story": "Stagnant water sash yells \"Zhi!\" sharply stuck!",
+      "primitives": []
+    },
+    {
+      "id": 392,
+      "character": "刺",
+      "pinyin": "ci",
+      "tone": 4,
+      "meaning": "Thorn",
+      "story": "A thorn tree bundle commands \"Tsih!\" sharply piercing!",
+      "primitives": []
+    },
+    {
+      "id": 393,
+      "character": "制",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "System",
+      "story": "A system cow knife commands \"Zhi!\" sharply regulating!",
+      "primitives": []
+    },
+    {
+      "id": 394,
+      "character": "製",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "to manufacture",
+      "story": "To manufacture clothes system yells \"Zhi!\" sharply making!",
+      "primitives": []
+    },
+    {
+      "id": 395,
+      "character": "云",
+      "pinyin": "yun",
+      "tone": 2,
+      "meaning": "to utter",
+      "story": "To utter two clouds question \"Yun? What say?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 396,
+      "character": "雨",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "the Rain",
+      "story": "The rain drops bend down drooping saying \"Yu\"!",
+      "primitives": []
+    },
+    {
+      "id": 397,
+      "character": "雲",
+      "pinyin": "yun",
+      "tone": 2,
+      "meaning": "Cloud",
+      "story": "A cloud rain uttering questions \"Yun? Why float?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 398,
+      "character": "雷",
+      "pinyin": "lei",
+      "tone": 2,
+      "meaning": "Thunder",
+      "story": "Thunder rain field questions \"Lay? Why boom?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 399,
+      "character": "電",
+      "pinyin": "dian",
+      "tone": 4,
+      "meaning": "Electricity",
+      "story": "Electricity rain utter commands \"Dian!\" sharply shocking!",
+      "primitives": []
+    },
+    {
+      "id": 400,
+      "character": "霜",
+      "pinyin": "shuang",
+      "tone": 1,
+      "meaning": "Frost",
+      "story": "Frost rain tree sings \"Shwang!\" cheerfully freezing!",
+      "primitives": []
+    },
+    {
+      "id": 401,
+      "character": "冰",
+      "pinyin": "bing",
+      "tone": 1,
+      "meaning": "Ice",
+      "story": "Ice water sings \"Bing!\" cheerfully freezing!",
+      "primitives": []
+    },
+    {
+      "id": 402,
+      "character": "冬",
+      "pinyin": "dong",
+      "tone": 1,
+      "meaning": "Winter",
+      "story": "Winter ice sings \"Dong!\" cheerfully cold!",
+      "primitives": []
+    },
+    {
+      "id": 403,
+      "character": "天",
+      "pinyin": "tian",
+      "tone": 1,
+      "meaning": "Heavens",
+      "story": "Heaven big person sings \"Tian!\" happily high!",
+      "primitives": []
+    },
+    {
+      "id": 404,
+      "character": "夭",
+      "pinyin": "yao",
+      "tone": 1,
+      "meaning": "to die young",
+      "story": "To die young with bent big sings \"Yao!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 405,
+      "character": "喬",
+      "pinyin": "qiao",
+      "tone": 2,
+      "meaning": "to pretend",
+      "story": "To pretend tall heaven questions \"Chiao? Is it high?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 406,
+      "character": "橋",
+      "pinyin": "qiao",
+      "tone": 2,
+      "meaning": "Bridge",
+      "story": "A bridge tree pretend questions \"Chiao? Can it cross?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 407,
+      "character": "嬌",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "attractive",
+      "story": "An attractive woman pretending sings \"Jiao!\" cheerfully charming!",
+      "primitives": []
+    },
+    {
+      "id": 408,
+      "character": "立",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "standing up",
+      "story": "Standing up straight commands \"Lee!\" sharply erect!",
+      "primitives": []
+    },
+    {
+      "id": 409,
+      "character": "泣",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "to weep",
+      "story": "To weep water standing yells \"Chi!\" sharply crying!",
+      "primitives": []
+    },
+    {
+      "id": 410,
+      "character": "站",
+      "pinyin": "zhan",
+      "tone": 4,
+      "meaning": "Station",
+      "story": "A station standing firm commands \"Zhan!\" sharply stopping!",
+      "primitives": []
+    },
+    {
+      "id": 411,
+      "character": "章",
+      "pinyin": "zhang",
+      "tone": 1,
+      "meaning": "Chapter",
+      "story": "A chapter standing ten days sings \"Zhang!\" cheerfully written!",
+      "primitives": []
+    },
+    {
+      "id": 412,
+      "character": "競",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "to compete",
+      "story": "To compete stand brothers command \"Jing!\" sharply racing!",
+      "primitives": []
+    },
+    {
+      "id": 413,
+      "character": "帝",
+      "pinyin": "di",
+      "tone": 4,
+      "meaning": "Sovereign",
+      "story": "A sovereign standing towel commands \"Dee!\" sharply ruling!",
+      "primitives": []
+    },
+    {
+      "id": 414,
+      "character": "童",
+      "pinyin": "tong",
+      "tone": 2,
+      "meaning": "Juvenile",
+      "story": "A juvenile standing heavy questions \"Tong? Still young?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 415,
+      "character": "鐘",
+      "pinyin": "zhong",
+      "tone": 1,
+      "meaning": "Bell",
+      "story": "A bell gold juvenile sings \"Zhong!\" cheerfully ringing!",
+      "primitives": []
+    },
+    {
+      "id": 416,
+      "character": "商",
+      "pinyin": "shang",
+      "tone": 1,
+      "meaning": "Salesman",
+      "story": "A salesman stands high mouth sings \"Shang!\" cheerfully selling!",
+      "primitives": []
+    },
+    {
+      "id": 417,
+      "character": "適",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "suitable",
+      "story": "Suitable walk salesman commands \"Shi!\" sharply fitting!",
+      "primitives": []
+    },
+    {
+      "id": 418,
+      "character": "敵",
+      "pinyin": "di",
+      "tone": 2,
+      "meaning": "Enemy",
+      "story": "An enemy salesman struck questions \"Di? Fight?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 419,
+      "character": "匕",
+      "pinyin": "bi",
+      "tone": 3,
+      "meaning": "Ancient Spoon",
+      "story": "An ancient spoon bends down drooping saying \"Bee\"!",
+      "primitives": []
+    },
+    {
+      "id": 420,
+      "character": "北",
+      "pinyin": "bei",
+      "tone": 3,
+      "meaning": "North",
+      "story": "North spoons bend down drooping saying \"Bay\"!",
+      "primitives": []
+    },
+    {
+      "id": 421,
+      "character": "背",
+      "pinyin": "bei",
+      "tone": 4,
+      "meaning": "Back",
+      "story": "Back north flesh commands \"Bay!\" sharply behind!",
+      "primitives": []
+    },
+    {
+      "id": 422,
+      "character": "比",
+      "pinyin": "bi",
+      "tone": 3,
+      "meaning": "to compare",
+      "story": "To compare two spoons bend down drooping saying \"Bee\"!",
+      "primitives": []
+    },
+    {
+      "id": 423,
+      "character": "昆",
+      "pinyin": "kun",
+      "tone": 1,
+      "meaning": "Descendants",
+      "story": "Descendants sun compare sing \"Koon!\" cheerfully many!",
+      "primitives": []
+    },
+    {
+      "id": 424,
+      "character": "混",
+      "pinyin": "hun",
+      "tone": 4,
+      "meaning": "to mix",
+      "story": "To mix water descendants yells \"Hoon!\" sharply blending!",
+      "primitives": []
+    },
+    {
+      "id": 425,
+      "character": "皆",
+      "pinyin": "jie",
+      "tone": 1,
+      "meaning": "all",
+      "story": "All compare white sings \"Jieh!\" cheerfully everyone!",
+      "primitives": []
+    },
+    {
+      "id": 426,
+      "character": "此",
+      "pinyin": "ci",
+      "tone": 3,
+      "meaning": "this",
+      "story": "This stop spoon bends down drooping saying \"Tsih\"!",
+      "primitives": []
+    },
+    {
+      "id": 427,
+      "character": "些",
+      "pinyin": "xie",
+      "tone": 1,
+      "meaning": "somewhat",
+      "story": "Somewhat this two sings \"Shieh!\" cheerfully some!",
+      "primitives": []
+    },
+    {
+      "id": 428,
+      "character": "它",
+      "pinyin": "tuo",
+      "tone": 1,
+      "meaning": "it",
+      "story": "It roof spoon sings \"Twoh!\" cheerfully neutral!",
+      "primitives": []
+    },
+    {
+      "id": 429,
+      "character": "旨",
+      "pinyin": "zhi",
+      "tone": 3,
+      "meaning": "Purpose",
+      "story": "Purpose sun spoon bends down drooping saying \"Zhi\"!",
+      "primitives": []
+    },
+    {
+      "id": 430,
+      "character": "脂",
+      "pinyin": "zhi",
+      "tone": 1,
+      "meaning": "Grease",
+      "story": "Grease flesh purpose sings \"Zhi!\" cheerfully fatty!",
+      "primitives": []
+    },
+    {
+      "id": 431,
+      "character": "每",
+      "pinyin": "mei",
+      "tone": 3,
+      "meaning": "every",
+      "story": "Every mother top bends down drooping saying \"May\"!",
+      "primitives": []
+    },
+    {
+      "id": 432,
+      "character": "梅",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "Small Plum",
+      "story": "Small plum tree every questions \"May? Ripe?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 433,
+      "character": "海",
+      "pinyin": "hai",
+      "tone": 3,
+      "meaning": "Sea",
+      "story": "Sea water every bends down drooping saying \"Hai\"!",
+      "primitives": []
+    },
+    {
+      "id": 434,
+      "character": "乞",
+      "pinyin": "qi",
+      "tone": 3,
+      "meaning": "to beg",
+      "story": "To beg bent person bends down drooping saying \"Chi\"!",
+      "primitives": []
+    },
+    {
+      "id": 435,
+      "character": "吃",
+      "pinyin": "chi",
+      "tone": 1,
+      "meaning": "to eat",
+      "story": "To eat mouth beg sings \"Chi!\" cheerfully consuming!",
+      "primitives": []
+    },
+    {
+      "id": 436,
+      "character": "乾",
+      "pinyin": "gan",
+      "tone": 1,
+      "meaning": "dry",
+      "story": "Dry sunrise sings \"Gan!\" cheerfully arid!",
+      "primitives": []
+    },
+    {
+      "id": 437,
+      "character": "複",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "to duplicate",
+      "story": "To duplicate clothes dry commands \"Foo!\" sharply repeating!",
+      "primitives": []
+    },
+    {
+      "id": 438,
+      "character": "腹",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "Abdomen",
+      "story": "Abdomen flesh duplicate yells \"Foo!\" sharply belly!",
+      "primitives": []
+    },
+    {
+      "id": 439,
+      "character": "欠",
+      "pinyin": "qian",
+      "tone": 4,
+      "meaning": "to lack",
+      "story": "To lack person commands \"Chian!\" sharply missing!",
+      "primitives": []
+    },
+    {
+      "id": 440,
+      "character": "吹",
+      "pinyin": "chui",
+      "tone": 1,
+      "meaning": "to blow",
+      "story": "To blow mouth lack sings \"Chway!\" cheerfully puffing!",
+      "primitives": []
+    },
+    {
+      "id": 441,
+      "character": "歌",
+      "pinyin": "ge",
+      "tone": 1,
+      "meaning": "Song",
+      "story": "A song lack big mouth sings \"Guh!\" cheerfully loud!",
+      "primitives": []
+    },
+    {
+      "id": 442,
+      "character": "軟",
+      "pinyin": "ruan",
+      "tone": 3,
+      "meaning": "soft",
+      "story": "Soft car lack bends down drooping saying \"Ruan\"!",
+      "primitives": []
+    },
+    {
+      "id": 443,
+      "character": "次",
+      "pinyin": "ci",
+      "tone": 4,
+      "meaning": "next",
+      "story": "Next ice commands \"Tsih!\" sharply second!",
+      "primitives": []
+    },
+    {
+      "id": 444,
+      "character": "資",
+      "pinyin": "zi",
+      "tone": 1,
+      "meaning": "Assets",
+      "story": "Assets next shellfish sing \"Zi!\" cheerfully wealthy!",
+      "primitives": []
+    },
+    {
+      "id": 445,
+      "character": "姿",
+      "pinyin": "zi",
+      "tone": 1,
+      "meaning": "Looks",
+      "story": "Looks woman next sing \"Zi!\" cheerfully pretty!",
+      "primitives": []
+    },
+    {
+      "id": 446,
+      "character": "諮",
+      "pinyin": "zi",
+      "tone": 1,
+      "meaning": "to consult with",
+      "story": "To consult words next sing \"Zi!\" cheerfully asking!",
+      "primitives": []
+    }
+  ]
+}

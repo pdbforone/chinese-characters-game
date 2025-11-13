@@ -1,0 +1,374 @@
+{
+  "lesson": 30,
+  "characters": [
+    {
+      "id": 856,
+      "character": "斤",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "a Catty",
+      "story": "A catty ax sings \"Jeen!\" cheerfully weighing!",
+      "primitives": []
+    },
+    {
+      "id": 857,
+      "character": "所",
+      "pinyin": "suo",
+      "tone": 3,
+      "meaning": "a Place",
+      "story": "A place door ax bends down drooping saying \"Swoh\"!",
+      "primitives": []
+    },
+    {
+      "id": 858,
+      "character": "近",
+      "pinyin": "jin",
+      "tone": 4,
+      "meaning": "near",
+      "story": "Near walk ax commands \"Jin!\" sharply close!",
+      "primitives": []
+    },
+    {
+      "id": 859,
+      "character": "斬",
+      "pinyin": "zhan",
+      "tone": 3,
+      "meaning": "hew",
+      "story": "Hew car ax bends down drooping saying \"Zhan\"!",
+      "primitives": []
+    },
+    {
+      "id": 860,
+      "character": "暫",
+      "pinyin": "zhan",
+      "tone": 4,
+      "meaning": "temporary",
+      "story": "Temporary sun hew commands \"Zhan!\" sharply brief!",
+      "primitives": []
+    },
+    {
+      "id": 861,
+      "character": "漸",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "gradually",
+      "story": "Gradually water temporary yells \"Jian!\" sharply slowly!",
+      "primitives": []
+    },
+    {
+      "id": 862,
+      "character": "質",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "Quality",
+      "story": "Quality ax shellfish questions \"Zhi? Grade?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 863,
+      "character": "斥",
+      "pinyin": "chi",
+      "tone": 4,
+      "meaning": "to reprimand",
+      "story": "To reprimand dot ax commands \"Chi!\" sharply scolding!",
+      "primitives": []
+    },
+    {
+      "id": 864,
+      "character": "訴",
+      "pinyin": "su",
+      "tone": 4,
+      "meaning": "to accuse",
+      "story": "To accuse words reprimand yells \"Soo!\" sharply charging!",
+      "primitives": []
+    },
+    {
+      "id": 865,
+      "character": "乍",
+      "pinyin": "zha",
+      "tone": 4,
+      "meaning": "for the first time",
+      "story": "For the first time commands \"Zha!\" sharply initially!",
+      "primitives": []
+    },
+    {
+      "id": 866,
+      "character": "怎",
+      "pinyin": "zen",
+      "tone": 3,
+      "meaning": "how?",
+      "story": "How for first time heart bends down drooping saying \"Zen\"!",
+      "primitives": []
+    },
+    {
+      "id": 867,
+      "character": "昨",
+      "pinyin": "zuo",
+      "tone": 2,
+      "meaning": "Yesterday",
+      "story": "Yesterday sun first time questions \"Zwoh? Past?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 868,
+      "character": "作",
+      "pinyin": "zuo",
+      "tone": 4,
+      "meaning": "to do",
+      "story": "To do person first time commands \"Zwoh!\" sharply making!",
+      "primitives": []
+    },
+    {
+      "id": 869,
+      "character": "雪",
+      "pinyin": "xue",
+      "tone": 3,
+      "meaning": "the Snow",
+      "story": "The snow rain broom bends down drooping saying \"Shueh\"!",
+      "primitives": []
+    },
+    {
+      "id": 870,
+      "character": "急",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "anxious",
+      "story": "Anxious reach heart questions \"Ji? Worried?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 871,
+      "character": "尋",
+      "pinyin": "xun",
+      "tone": 2,
+      "meaning": "to seek",
+      "story": "To seek roof claw inch questions \"Shun? Looking for?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 872,
+      "character": "婦",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "Married Woman",
+      "story": "Married woman woman broom commands \"Foo!\" sharply wife!",
+      "primitives": []
+    },
+    {
+      "id": 873,
+      "character": "掃",
+      "pinyin": "sao",
+      "tone": 3,
+      "meaning": "to sweep",
+      "story": "To sweep hand broom bends down drooping saying \"Sao\"!",
+      "primitives": []
+    },
+    {
+      "id": 874,
+      "character": "錄",
+      "pinyin": "lu",
+      "tone": 4,
+      "meaning": "to record",
+      "story": "To record gold broom commands \"Loo!\" sharply documenting!",
+      "primitives": []
+    },
+    {
+      "id": 875,
+      "character": "碌",
+      "pinyin": "lu",
+      "tone": 4,
+      "meaning": "commonplace",
+      "story": "Commonplace stone record yells \"Loo!\" sharply ordinary!",
+      "primitives": []
+    },
+    {
+      "id": 876,
+      "character": "爭",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "to contend",
+      "story": "To contend claw hand sings \"Zheng!\" cheerfully fighting!",
+      "primitives": []
+    },
+    {
+      "id": 877,
+      "character": "淨",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "clean",
+      "story": "Clean water contend commands \"Jing!\" sharply purified!",
+      "primitives": []
+    },
+    {
+      "id": 878,
+      "character": "事",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Matter",
+      "story": "Matter hand one commands \"Shi!\" sharply affair!",
+      "primitives": []
+    },
+    {
+      "id": 879,
+      "character": "唐",
+      "pinyin": "tang",
+      "tone": 2,
+      "meaning": "Tang",
+      "story": "Tang wide mouth questions \"Tang? Dynasty?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 880,
+      "character": "糖",
+      "pinyin": "tang",
+      "tone": 2,
+      "meaning": "Sugar",
+      "story": "Sugar rice Tang questions \"Tang? Sweet?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 881,
+      "character": "康",
+      "pinyin": "kang",
+      "tone": 1,
+      "meaning": "hale",
+      "story": "Hale roof grain sings \"Kang!\" cheerfully healthy!",
+      "primitives": []
+    },
+    {
+      "id": 882,
+      "character": "尹",
+      "pinyin": "yin",
+      "tone": 3,
+      "meaning": "Overseer",
+      "story": "Overseer hand bends down drooping saying \"Yin\"!",
+      "primitives": []
+    },
+    {
+      "id": 883,
+      "character": "伊",
+      "pinyin": "yi",
+      "tone": 1,
+      "meaning": "Queen Elizabeth",
+      "story": "Queen Elizabeth person overseer sings \"Yi!\" cheerfully regal!",
+      "primitives": []
+    },
+    {
+      "id": 884,
+      "character": "君",
+      "pinyin": "jun",
+      "tone": 1,
+      "meaning": "Monarch",
+      "story": "Monarch mouth overseer sings \"June!\" cheerfully ruling!",
+      "primitives": []
+    },
+    {
+      "id": 885,
+      "character": "裙",
+      "pinyin": "qun",
+      "tone": 2,
+      "meaning": "Skirt",
+      "story": "Skirt clothes monarch questions \"Chun? Dress?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 886,
+      "character": "群",
+      "pinyin": "qun",
+      "tone": 2,
+      "meaning": "Crowd",
+      "story": "Crowd sheep monarch questions \"Chun? Many?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 887,
+      "character": "而",
+      "pinyin": "er",
+      "tone": 2,
+      "meaning": "and",
+      "story": "And beard questions \"Er? Also?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 888,
+      "character": "需",
+      "pinyin": "xu",
+      "tone": 1,
+      "meaning": "to need",
+      "story": "To need rain and sings \"Shyu!\" cheerfully requiring!",
+      "primitives": []
+    },
+    {
+      "id": 889,
+      "character": "儒",
+      "pinyin": "ru",
+      "tone": 2,
+      "meaning": "Confucian",
+      "story": "Confucian person need questions \"Roo? Scholar?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 890,
+      "character": "瑞",
+      "pinyin": "rui",
+      "tone": 4,
+      "meaning": "auspicious",
+      "story": "Auspicious jade mountain commands \"Rway!\" sharply lucky!",
+      "primitives": []
+    },
+    {
+      "id": 891,
+      "character": "端",
+      "pinyin": "duan",
+      "tone": 1,
+      "meaning": "upright",
+      "story": "Upright stand mountain sings \"Dwan!\" cheerfully proper!",
+      "primitives": []
+    },
+    {
+      "id": 892,
+      "character": "曲",
+      "pinyin": "qu",
+      "tone": 1,
+      "meaning": "bent",
+      "story": "Bent sings \"Chu!\" cheerfully curved!",
+      "primitives": []
+    },
+    {
+      "id": 893,
+      "character": "斗",
+      "pinyin": "dou",
+      "tone": 3,
+      "meaning": "Big Dipper",
+      "story": "Big dipper ten bends down drooping saying \"Doe\"!",
+      "primitives": []
+    },
+    {
+      "id": 894,
+      "character": "料",
+      "pinyin": "liao",
+      "tone": 4,
+      "meaning": "Material",
+      "story": "Material rice dipper commands \"Liao!\" sharply stuff!",
+      "primitives": []
+    },
+    {
+      "id": 895,
+      "character": "科",
+      "pinyin": "ke",
+      "tone": 1,
+      "meaning": "Academic Discipline",
+      "story": "Academic discipline grain dipper sings \"Kuh!\" cheerfully field!",
+      "primitives": []
+    },
+    {
+      "id": 896,
+      "character": "用",
+      "pinyin": "yong",
+      "tone": 4,
+      "meaning": "to utilize",
+      "story": "To utilize door commands \"Yong!\" sharply using!",
+      "primitives": []
+    }
+  ]
+}

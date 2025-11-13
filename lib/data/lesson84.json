@@ -1,0 +1,203 @@
+{
+  "lesson": 84,
+  "characters": [
+    {
+      "id": 2099,
+      "character": "奈",
+      "pinyin": "nai",
+      "tone": 4,
+      "meaning": "can't help but",
+      "story": "Can't help but St. Bernard altar commands sharply \"Nigh!\" - helpless inevitably!",
+      "primitives": []
+    },
+    {
+      "id": 2100,
+      "character": "款",
+      "pinyin": "kuan",
+      "tone": 3,
+      "meaning": "funds",
+      "story": "Funds samurai shellfish bends down drooping \"Kwahn\" - money terms!",
+      "primitives": []
+    },
+    {
+      "id": 2101,
+      "character": "祟",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "evil spirit",
+      "story": "Evil spirit altar mountain commands sharply \"Sway!\" - demon malevolent cultivators exorcise!",
+      "primitives": []
+    },
+    {
+      "id": 2102,
+      "character": "祝",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "wish well",
+      "story": "Wish well altar brother commands sharply \"Joo!\" - bless congratulate!",
+      "primitives": []
+    },
+    {
+      "id": 2103,
+      "character": "祥",
+      "pinyin": "xiang",
+      "tone": 2,
+      "meaning": "propitious",
+      "story": "Propitious altar piggy bank questions \"Shyahng? Auspicious?\" curiously - lucky fortunate!",
+      "primitives": []
+    },
+    {
+      "id": 2104,
+      "character": "祕",
+      "pinyin": "mi",
+      "tone": 4,
+      "meaning": "confidential",
+      "story": "Confidential altar certainly commands sharply \"Mee!\" - secret private!",
+      "primitives": []
+    },
+    {
+      "id": 2105,
+      "character": "慰",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "console",
+      "story": "Console Cardinal Richelieu heart commands sharply \"Way!\" - comfort solace!",
+      "primitives": []
+    },
+    {
+      "id": 2106,
+      "character": "蔚",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "luxuriant",
+      "story": "Luxuriant flowers Cardinal Richelieu commands sharply \"Way!\" - flourishing dense!",
+      "primitives": []
+    },
+    {
+      "id": 2107,
+      "character": "蒜",
+      "pinyin": "suan",
+      "tone": 4,
+      "meaning": "garlic",
+      "story": "Garlic flowers calculate commands sharply \"Swahn!\" - pungent bulb!",
+      "primitives": []
+    },
+    {
+      "id": 2108,
+      "character": "棕",
+      "pinyin": "zong",
+      "tone": 1,
+      "meaning": "palm tree",
+      "story": "Palm tree tree three religions sings \"Dzohng!\" cheerfully - tropical tree!",
+      "primitives": []
+    },
+    {
+      "id": 2109,
+      "character": "宙",
+      "pinyin": "zhou",
+      "tone": 4,
+      "meaning": "universe",
+      "story": "Universe house stretch commands sharply \"Joh!\" - cosmos space-time!",
+      "primitives": []
+    },
+    {
+      "id": 2110,
+      "character": "軸",
+      "pinyin": "zhou",
+      "tone": 2,
+      "meaning": "axle",
+      "story": "Axle car stretch questions \"Joh? Pivot?\" curiously - shaft spindle!",
+      "primitives": []
+    },
+    {
+      "id": 2111,
+      "character": "袖",
+      "pinyin": "xiu",
+      "tone": 4,
+      "meaning": "sleeve",
+      "story": "Sleeve clothing stretch commands sharply \"Shyo!\" - arm covering leader!",
+      "primitives": []
+    },
+    {
+      "id": 2112,
+      "character": "笛",
+      "pinyin": "di",
+      "tone": 2,
+      "meaning": "flute",
+      "story": "Flute bamboo由 questions \"Dee? Whistle?\" curiously - wind instrument honking!",
+      "primitives": []
+    },
+    {
+      "id": 2113,
+      "character": "坤",
+      "pinyin": "kun",
+      "tone": 1,
+      "meaning": "female",
+      "story": "Female soil monkey sings \"Kwun!\" cheerfully - earth feminine!",
+      "primitives": []
+    },
+    {
+      "id": 2114,
+      "character": "呻",
+      "pinyin": "shen",
+      "tone": 1,
+      "meaning": "groan",
+      "story": "Groan mouth request sings \"Shun!\" cheerfully - moan anguish!",
+      "primitives": []
+    },
+    {
+      "id": 2115,
+      "character": "暢",
+      "pinyin": "chang",
+      "tone": 4,
+      "meaning": "smooth",
+      "story": "Smooth sun apply commands sharply \"Chahng!\" - unobstructed flowing!",
+      "primitives": []
+    },
+    {
+      "id": 2116,
+      "character": "夥",
+      "pinyin": "huo",
+      "tone": 3,
+      "meaning": "partnership",
+      "story": "Partnership fruit fire bends down drooping \"Hwoh\" - companion fellow!",
+      "primitives": []
+    },
+    {
+      "id": 2117,
+      "character": "巢",
+      "pinyin": "chao",
+      "tone": 2,
+      "meaning": "nest",
+      "story": "Nest tree fruit questions \"Chao? Lair?\" curiously - bird home den!",
+      "primitives": []
+    },
+    {
+      "id": 2118,
+      "character": "棵",
+      "pinyin": "ke",
+      "tone": 1,
+      "meaning": "flora",
+      "story": "Flora tree fruit sings \"Kuh!\" cheerfully - measure word tree!",
+      "primitives": []
+    },
+    {
+      "id": 2119,
+      "character": "裸",
+      "pinyin": "luo",
+      "tone": 3,
+      "meaning": "naked",
+      "story": "Naked clothing fruit bends down drooping \"Lwoh\" - bare exposed!",
+      "primitives": []
+    },
+    {
+      "id": 2120,
+      "character": "裹",
+      "pinyin": "guo",
+      "tone": 3,
+      "meaning": "envelop",
+      "story": "Envelop top hat scarf fruit bends down drooping \"Gwoh\" - wrap bundle!",
+      "primitives": []
+    }
+  ]
+}

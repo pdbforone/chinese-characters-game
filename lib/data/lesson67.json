@@ -1,0 +1,167 @@
+{
+  "lesson": 67,
+  "characters": [
+    {
+      "id": 1574,
+      "character": "舍",
+      "pinyin": "she",
+      "tone": 4,
+      "meaning": "abode",
+      "story": "Abode roof tongue commands sharply \"Shuh!\" - dwelling house!",
+      "primitives": []
+    },
+    {
+      "id": 1575,
+      "character": "啥",
+      "pinyin": "sha",
+      "tone": 2,
+      "meaning": "wha?",
+      "story": "Wha mouth abode questions \"Shah? What?\" curiously - huh?",
+      "primitives": []
+    },
+    {
+      "id": 1576,
+      "character": "洽",
+      "pinyin": "qia",
+      "tone": 4,
+      "meaning": "in agreement",
+      "story": "In agreement water fit commands sharply \"Chyah!\" - harmonious accord!",
+      "primitives": []
+    },
+    {
+      "id": 1577,
+      "character": "旺",
+      "pinyin": "wang",
+      "tone": 4,
+      "meaning": "thriving",
+      "story": "Thriving sun king commands sharply \"Wahng!\" - prosperous flourishing!",
+      "primitives": []
+    },
+    {
+      "id": 1578,
+      "character": "碧",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "green jade",
+      "story": "Green jade jewel dove stone commands sharply \"Bee!\" - azure fine jade!",
+      "primitives": []
+    },
+    {
+      "id": 1579,
+      "character": "汪",
+      "pinyin": "wang",
+      "tone": 1,
+      "meaning": "tearful",
+      "story": "Tearful water king sings \"Wahng!\" cheerfully - brimming eyes!",
+      "primitives": []
+    },
+    {
+      "id": 1580,
+      "character": "枉",
+      "pinyin": "wang",
+      "tone": 3,
+      "meaning": "crooked",
+      "story": "Crooked tree king bends down drooping \"Wahng\" - bent unjust!",
+      "primitives": []
+    },
+    {
+      "id": 1581,
+      "character": "珠",
+      "pinyin": "zhu",
+      "tone": 1,
+      "meaning": "pearl",
+      "story": "Pearl jewel vermillion sings \"Joo!\" cheerfully - bead gem!",
+      "primitives": []
+    },
+    {
+      "id": 1582,
+      "character": "噩",
+      "pinyin": "e",
+      "tone": 4,
+      "meaning": "shocking",
+      "story": "Shocking mouths oppose commands sharply \"Uh!\" - nightmare calamity!",
+      "primitives": []
+    },
+    {
+      "id": 1583,
+      "character": "鱷",
+      "pinyin": "e",
+      "tone": 4,
+      "meaning": "crocodile",
+      "story": "Crocodile fish shocking commands sharply \"Uh!\" - reptile predator!",
+      "primitives": []
+    },
+    {
+      "id": 1584,
+      "character": "鬥",
+      "pinyin": "dou",
+      "tone": 4,
+      "meaning": "fight",
+      "story": "Fight two hands commands sharply \"Doh!\" - combat struggle!",
+      "primitives": []
+    },
+    {
+      "id": 1585,
+      "character": "栓",
+      "pinyin": "shuan",
+      "tone": 1,
+      "meaning": "plug",
+      "story": "Plug tree all sings \"Shwahn!\" cheerfully - stopper cork!",
+      "primitives": []
+    },
+    {
+      "id": 1586,
+      "character": "柱",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "pillar",
+      "story": "Pillar tree master commands sharply \"Joo!\" - column post!",
+      "primitives": []
+    },
+    {
+      "id": 1587,
+      "character": "鉤",
+      "pinyin": "gou",
+      "tone": 1,
+      "meaning": "hook",
+      "story": "Hook metal sentence sings \"Goh!\" cheerfully - curved catch!",
+      "primitives": []
+    },
+    {
+      "id": 1588,
+      "character": "鈔",
+      "pinyin": "chao",
+      "tone": 1,
+      "meaning": "paper money",
+      "story": "Paper money metal few sings \"Chao!\" cheerfully - banknote currency!",
+      "primitives": []
+    },
+    {
+      "id": 1589,
+      "character": "銷",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "put up for sale",
+      "story": "Put up for sale metal whistle sings \"Shyao!\" cheerfully - sell market!",
+      "primitives": []
+    },
+    {
+      "id": 1590,
+      "character": "鎖",
+      "pinyin": "suo",
+      "tone": 3,
+      "meaning": "lock",
+      "story": "Lock metal small bends down drooping \"Swoh\" - secure key!",
+      "primitives": []
+    },
+    {
+      "id": 1591,
+      "character": "鑽",
+      "pinyin": "zuan",
+      "tone": 1,
+      "meaning": "drill",
+      "story": "Drill metal lifesaver sings \"Dzwahn!\" cheerfully - bore penetrate machine!",
+      "primitives": []
+    }
+  ]
+}

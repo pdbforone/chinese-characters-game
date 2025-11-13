@@ -1,0 +1,77 @@
+{
+  "lesson": 95,
+  "characters": [
+    {
+      "id": 2537,
+      "character": "吟",
+      "pinyin": "yin",
+      "tone": 2,
+      "meaning": "recite",
+      "story": "\"Yin?\" the mouth and clock question curiously - will you recite and chant poetry?",
+      "primitives": []
+    },
+    {
+      "id": 2538,
+      "character": "貪",
+      "pinyin": "tan",
+      "tone": 1,
+      "meaning": "greedy",
+      "story": "\"TAN!\" the shells sing cheerfully - being greedy, to covet and desire!",
+      "primitives": []
+    },
+    {
+      "id": 2539,
+      "character": "琴",
+      "pinyin": "qin",
+      "tone": 2,
+      "meaning": "stringed instrument",
+      "story": "\"Chin?\" the jewels question curiously - is it a stringed instrument, a zither for music?",
+      "primitives": []
+    },
+    {
+      "id": 2540,
+      "character": "栗",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "chestnut",
+      "story": "\"LEE!\" the old west tree commands sharply - the chestnut nut and kernel!",
+      "primitives": []
+    },
+    {
+      "id": 2541,
+      "character": "潭",
+      "pinyin": "tan",
+      "tone": 2,
+      "meaning": "deep pool",
+      "story": "\"Tan?\" the water and sunflower question curiously in the old west - is this a deep pool, a frigid cave for rabbits?",
+      "primitives": []
+    },
+    {
+      "id": 2542,
+      "character": "遷",
+      "pinyin": "qian",
+      "tone": 1,
+      "meaning": "resituate",
+      "story": "\"CHYEN!\" the road sings cheerfully - time to resituate, relocate to Taiwan!",
+      "primitives": []
+    },
+    {
+      "id": 2543,
+      "character": "覆",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "overturn",
+      "story": "\"FOO!\" he commands sharply - to overturn, topple and reverse!",
+      "primitives": []
+    },
+    {
+      "id": 2544,
+      "character": "飄",
+      "pinyin": "piao",
+      "tone": 1,
+      "meaning": "flutter",
+      "story": "\"PYAO!\" the food sings cheerfully - to flutter, float and drift!",
+      "primitives": []
+    }
+  ]
+}

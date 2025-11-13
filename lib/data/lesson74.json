@@ -1,0 +1,158 @@
+{
+  "lesson": 74,
+  "characters": [
+    {
+      "id": 1690,
+      "character": "剖",
+      "pinyin": "pou",
+      "tone": 1,
+      "meaning": "cut open",
+      "story": "Cut open divide sword sings \"Poh!\" cheerfully - dissect split!",
+      "primitives": []
+    },
+    {
+      "id": 1691,
+      "character": "菩",
+      "pinyin": "pu",
+      "tone": 2,
+      "meaning": "bodhisattva",
+      "story": "Bodhisattva flowers muzzle questions \"Poo? Enlightened?\" curiously - Buddha face scorpion heart!",
+      "primitives": []
+    },
+    {
+      "id": 1692,
+      "character": "芒",
+      "pinyin": "mang",
+      "tone": 2,
+      "meaning": "mango",
+      "story": "Mango flowers lose questions \"Mahng? Fruit?\" curiously - tropical!",
+      "primitives": []
+    },
+    {
+      "id": 1693,
+      "character": "荒",
+      "pinyin": "huang",
+      "tone": 1,
+      "meaning": "wasteland",
+      "story": "Wasteland flowers river sings \"Hwahng!\" cheerfully - desolate barren!",
+      "primitives": []
+    },
+    {
+      "id": 1694,
+      "character": "謊",
+      "pinyin": "huang",
+      "tone": 3,
+      "meaning": "lie",
+      "story": "Lie words wasteland bends down drooping \"Hwahng\" - falsehood untruth!",
+      "primitives": []
+    },
+    {
+      "id": 1695,
+      "character": "茫",
+      "pinyin": "mang",
+      "tone": 2,
+      "meaning": "boundless",
+      "story": "Boundless mango water questions \"Mahng? Vast?\" curiously - limitless sea of people!",
+      "primitives": []
+    },
+    {
+      "id": 1696,
+      "character": "贏",
+      "pinyin": "ying",
+      "tone": 2,
+      "meaning": "win",
+      "story": "Win die shellfish questions \"Ying? Victory?\" curiously - triumph prevail!",
+      "primitives": []
+    },
+    {
+      "id": 1697,
+      "character": "訊",
+      "pinyin": "xun",
+      "tone": 4,
+      "meaning": "interrogate",
+      "story": "Interrogate words follow commands sharply \"Shyoon!\" - question investigate!",
+      "primitives": []
+    },
+    {
+      "id": 1698,
+      "character": "坊",
+      "pinyin": "fang",
+      "tone": 2,
+      "meaning": "workshop",
+      "story": "Workshop soil compass questions \"Fahng? Workplace?\" curiously - mill studio!",
+      "primitives": []
+    },
+    {
+      "id": 1699,
+      "character": "芳",
+      "pinyin": "fang",
+      "tone": 1,
+      "meaning": "aromatic",
+      "story": "Aromatic flowers square sings \"Fahng!\" cheerfully - fragrant sweet!",
+      "primitives": []
+    },
+    {
+      "id": 1700,
+      "character": "訪",
+      "pinyin": "fang",
+      "tone": 3,
+      "meaning": "call on",
+      "story": "Call on words square bends down drooping \"Fahng\" - pay visit!",
+      "primitives": []
+    },
+    {
+      "id": 1701,
+      "character": "熬",
+      "pinyin": "ao",
+      "tone": 2,
+      "meaning": "stew",
+      "story": "Stew turkey cooking fire questions \"Ao? Simmer?\" curiously - boil endure!",
+      "primitives": []
+    },
+    {
+      "id": 1702,
+      "character": "菸",
+      "pinyin": "yan",
+      "tone": 1,
+      "meaning": "tobacco",
+      "story": "Tobacco flowers all-purpose preposition sings \"Yan!\" cheerfully - cigarette smoke!",
+      "primitives": []
+    },
+    {
+      "id": 1703,
+      "character": "榜",
+      "pinyin": "bang",
+      "tone": 3,
+      "meaning": "roster",
+      "story": "Roster tree companion bends down drooping \"Bahng\" - list announcement!",
+      "primitives": []
+    },
+    {
+      "id": 1704,
+      "character": "磅",
+      "pinyin": "bang",
+      "tone": 4,
+      "meaning": "pound",
+      "story": "Pound Magellan stone commands sharply \"Bahng!\" - weight measure!",
+      "primitives": []
+    },
+    {
+      "id": 1705,
+      "character": "膀",
+      "pinyin": "bang",
+      "tone": 3,
+      "meaning": "upper arm",
+      "story": "Upper arm body companion bends down drooping \"Bahng\" - shoulder!",
+      "primitives": []
+    },
+    {
+      "id": 1706,
+      "character": "銳",
+      "pinyin": "rui",
+      "tone": 4,
+      "meaning": "sharp",
+      "story": "Sharp metal exchange commands sharply \"Rway!\" - acute keen!",
+      "primitives": []
+    }
+  ]
+}

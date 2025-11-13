@@ -1,0 +1,347 @@
+{
+  "lesson": 20,
+  "characters": [
+    {
+      "id": 476,
+      "character": "也",
+      "pinyin": "ye",
+      "tone": 3,
+      "meaning": "also",
+      "story": "Also curved bends down drooping saying \"Yeh\"!",
+      "primitives": []
+    },
+    {
+      "id": 477,
+      "character": "她",
+      "pinyin": "ta",
+      "tone": 1,
+      "meaning": "she",
+      "story": "She woman also sings \"Ta!\" cheerfully feminine!",
+      "primitives": []
+    },
+    {
+      "id": 478,
+      "character": "地",
+      "pinyin": "di",
+      "tone": 4,
+      "meaning": "Ground",
+      "story": "Ground earth also commands \"Dee!\" sharply below!",
+      "primitives": []
+    },
+    {
+      "id": 479,
+      "character": "池",
+      "pinyin": "chi",
+      "tone": 2,
+      "meaning": "Pond",
+      "story": "A pond water also questions \"Chi? Deep?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 480,
+      "character": "蟲",
+      "pinyin": "chong",
+      "tone": 2,
+      "meaning": "Insects",
+      "story": "Insects crawling question \"Chong? Where going?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 481,
+      "character": "蛇",
+      "pinyin": "she",
+      "tone": 2,
+      "meaning": "Serpent",
+      "story": "A serpent insect also questions \"Shuh? Slithering?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 482,
+      "character": "蛋",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "Egg",
+      "story": "An egg insect finished commands \"Dan!\" sharply hatching!",
+      "primitives": []
+    },
+    {
+      "id": 483,
+      "character": "風",
+      "pinyin": "feng",
+      "tone": 1,
+      "meaning": "the Wind",
+      "story": "The wind insect sings \"Fung!\" cheerfully blowing!",
+      "primitives": []
+    },
+    {
+      "id": 484,
+      "character": "諷",
+      "pinyin": "feng",
+      "tone": 3,
+      "meaning": "to mock",
+      "story": "To mock words wind bend down drooping saying \"Fung\"!",
+      "primitives": []
+    },
+    {
+      "id": 485,
+      "character": "己",
+      "pinyin": "ji",
+      "tone": 3,
+      "meaning": "self",
+      "story": "Self bent bends down drooping saying \"Ji\"!",
+      "primitives": []
+    },
+    {
+      "id": 486,
+      "character": "改",
+      "pinyin": "gai",
+      "tone": 3,
+      "meaning": "to alter",
+      "story": "To alter self strike bends down drooping saying \"Gai\"!",
+      "primitives": []
+    },
+    {
+      "id": 487,
+      "character": "記",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "to remember",
+      "story": "To remember words self yells \"Ji!\" sharply noting!",
+      "primitives": []
+    },
+    {
+      "id": 488,
+      "character": "已",
+      "pinyin": "yi",
+      "tone": 3,
+      "meaning": "already",
+      "story": "Already self bent bends down drooping saying \"Yi\"!",
+      "primitives": []
+    },
+    {
+      "id": 489,
+      "character": "包",
+      "pinyin": "bao",
+      "tone": 1,
+      "meaning": "to wrap",
+      "story": "To wrap self kneeling sings \"Bao!\" cheerfully enclosing!",
+      "primitives": []
+    },
+    {
+      "id": 490,
+      "character": "泡",
+      "pinyin": "pao",
+      "tone": 4,
+      "meaning": "Bubbles",
+      "story": "Bubbles water wrap command \"Pao!\" sharply foaming!",
+      "primitives": []
+    },
+    {
+      "id": 491,
+      "character": "起",
+      "pinyin": "qi",
+      "tone": 3,
+      "meaning": "to begin",
+      "story": "To begin walk self bends down drooping saying \"Chi\"!",
+      "primitives": []
+    },
+    {
+      "id": 492,
+      "character": "家",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "House",
+      "story": "A house roof pig sings \"Jia!\" cheerfully dwelling!",
+      "primitives": []
+    },
+    {
+      "id": 493,
+      "character": "場",
+      "pinyin": "chang",
+      "tone": 3,
+      "meaning": "Site",
+      "story": "A site earth house bends down drooping saying \"Chang\"!",
+      "primitives": []
+    },
+    {
+      "id": 494,
+      "character": "湯",
+      "pinyin": "tang",
+      "tone": 1,
+      "meaning": "Soup",
+      "story": "Soup water site sings \"Tang!\" cheerfully hot!",
+      "primitives": []
+    },
+    {
+      "id": 495,
+      "character": "羊",
+      "pinyin": "yang",
+      "tone": 2,
+      "meaning": "Sheep",
+      "story": "A sheep with horns questions \"Yang? Baaa?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 496,
+      "character": "美",
+      "pinyin": "mei",
+      "tone": 3,
+      "meaning": "beautiful",
+      "story": "Beautiful big sheep bends down drooping saying \"May\"!",
+      "primitives": []
+    },
+    {
+      "id": 497,
+      "character": "洋",
+      "pinyin": "yang",
+      "tone": 2,
+      "meaning": "Ocean",
+      "story": "Ocean water sheep questions \"Yang? How vast?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 498,
+      "character": "鮮",
+      "pinyin": "xian",
+      "tone": 1,
+      "meaning": "fresh",
+      "story": "Fresh fish sheep sings \"Shian!\" cheerfully new!",
+      "primitives": []
+    },
+    {
+      "id": 499,
+      "character": "達",
+      "pinyin": "da",
+      "tone": 2,
+      "meaning": "to reach",
+      "story": "To reach sheep walk questions \"Da? There yet?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 500,
+      "character": "樣",
+      "pinyin": "yang",
+      "tone": 4,
+      "meaning": "Appearance",
+      "story": "Appearance tree sheep commands \"Yang!\" sharply looking!",
+      "primitives": []
+    },
+    {
+      "id": 501,
+      "character": "差",
+      "pinyin": "cha",
+      "tone": 4,
+      "meaning": "to fall short of",
+      "story": "To fall short sheep work yells \"Cha!\" sharply lacking!",
+      "primitives": []
+    },
+    {
+      "id": 502,
+      "character": "集",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "to gather",
+      "story": "To gather tree birds questions \"Ji? All here?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 503,
+      "character": "進",
+      "pinyin": "jin",
+      "tone": 4,
+      "meaning": "to advance",
+      "story": "To advance walk birds commands \"Jin!\" sharply forward!",
+      "primitives": []
+    },
+    {
+      "id": 504,
+      "character": "準",
+      "pinyin": "zhun",
+      "tone": 3,
+      "meaning": "Standard",
+      "story": "Standard water birds bend down drooping saying \"Zhun\"!",
+      "primitives": []
+    },
+    {
+      "id": 505,
+      "character": "誰",
+      "pinyin": "shui2",
+      "tone": 5,
+      "meaning": "who?",
+      "story": "Who speaks birds questions \"Shway? Who is it?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 506,
+      "character": "售",
+      "pinyin": "shou",
+      "tone": 4,
+      "meaning": "to vend",
+      "story": "To vend bird mouth commands \"Show!\" sharply selling!",
+      "primitives": []
+    },
+    {
+      "id": 507,
+      "character": "雖",
+      "pinyin": "sui",
+      "tone": 1,
+      "meaning": "although",
+      "story": "Although insect birds sings \"Sway!\" cheerfully conceding!",
+      "primitives": []
+    },
+    {
+      "id": 508,
+      "character": "確",
+      "pinyin": "que",
+      "tone": 4,
+      "meaning": "reliable",
+      "story": "Reliable stone birds commands \"Chueh!\" sharply certain!",
+      "primitives": []
+    },
+    {
+      "id": 509,
+      "character": "午",
+      "pinyin": "wu",
+      "tone": 3,
+      "meaning": "Noon",
+      "story": "Noon at midday bends down drooping saying \"Woo\"!",
+      "primitives": []
+    },
+    {
+      "id": 510,
+      "character": "許",
+      "pinyin": "xu",
+      "tone": 3,
+      "meaning": "to permit",
+      "story": "To permit words noon bend down drooping saying \"Shu\"!",
+      "primitives": []
+    },
+    {
+      "id": 511,
+      "character": "羽",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "Feathers",
+      "story": "Feathers bend down drooping saying \"Yu\"!",
+      "primitives": []
+    },
+    {
+      "id": 512,
+      "character": "習",
+      "pinyin": "xi",
+      "tone": 2,
+      "meaning": "to learn",
+      "story": "To learn feathers white questions \"Shi? How practice?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 513,
+      "character": "翔",
+      "pinyin": "xiang",
+      "tone": 2,
+      "meaning": "to soar",
+      "story": "To soar feathers sheep questions \"Shyang? Flying?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

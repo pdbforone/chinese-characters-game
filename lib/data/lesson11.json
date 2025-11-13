@@ -1,0 +1,167 @@
+{
+  "lesson": 11,
+  "characters": [
+    {
+      "id": 223,
+      "character": "兆",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "Portent",
+      "story": "A portent divination commands \"Zhao!\" sharply foretelling!",
+      "primitives": []
+    },
+    {
+      "id": 224,
+      "character": "桃",
+      "pinyin": "tao",
+      "tone": 2,
+      "meaning": "peach",
+      "story": "A peach tree portent questions \"Tao? When ripe?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 225,
+      "character": "犬",
+      "pinyin": "quan",
+      "tone": 3,
+      "meaning": "Pooch",
+      "story": "A pooch dog bends down drooping saying \"Chuan\"!",
+      "primitives": []
+    },
+    {
+      "id": 226,
+      "character": "尤",
+      "pinyin": "you",
+      "tone": 2,
+      "meaning": "remarkable",
+      "story": "Remarkable outstanding person questions \"Yo? Really?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 227,
+      "character": "默",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "silence",
+      "story": "Silence of black dog commands \"Mwoh!\" sharply quiet!",
+      "primitives": []
+    },
+    {
+      "id": 228,
+      "character": "然",
+      "pinyin": "ran",
+      "tone": 2,
+      "meaning": "sort of thing",
+      "story": "Sort of thing with flesh fire questions \"Ran? Is it so?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 229,
+      "character": "哭",
+      "pinyin": "ku",
+      "tone": 1,
+      "meaning": "to cry",
+      "story": "To cry with two dogs mouth sings \"Koo!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 230,
+      "character": "器",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "Utensil",
+      "story": "A utensil of four dogs and one mouth yells \"Chi!\" sharply used!",
+      "primitives": []
+    },
+    {
+      "id": 231,
+      "character": "臭",
+      "pinyin": "chou",
+      "tone": 4,
+      "meaning": "stinking",
+      "story": "Stinking nose and dog command \"Cho!\" sharply smelly!",
+      "primitives": []
+    },
+    {
+      "id": 232,
+      "character": "狗",
+      "pinyin": "gou",
+      "tone": 3,
+      "meaning": "Dog",
+      "story": "A dog pooch bends down drooping saying \"Go\"!",
+      "primitives": []
+    },
+    {
+      "id": 233,
+      "character": "厭",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "to detest",
+      "story": "To detest detested dog cliff yells \"Yan!\" sharply hating!",
+      "primitives": []
+    },
+    {
+      "id": 234,
+      "character": "壓",
+      "pinyin": "ya",
+      "tone": 1,
+      "meaning": "pressure",
+      "story": "Pressure of cliff dog singing \"Ya!\" happily squashing!",
+      "primitives": []
+    },
+    {
+      "id": 235,
+      "character": "牛",
+      "pinyin": "niu",
+      "tone": 2,
+      "meaning": "Cow",
+      "story": "A cow with horns questions \"Nyo? Moo?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 236,
+      "character": "特",
+      "pinyin": "te",
+      "tone": 4,
+      "meaning": "special",
+      "story": "A special cow at temple commands \"Tuh!\" sharply unique!",
+      "primitives": []
+    },
+    {
+      "id": 237,
+      "character": "告",
+      "pinyin": "gao",
+      "tone": 4,
+      "meaning": "to declare",
+      "story": "To declare with cow mouth yells \"Gao!\" sharply announcing!",
+      "primitives": []
+    },
+    {
+      "id": 238,
+      "character": "浩",
+      "pinyin": "hao",
+      "tone": 4,
+      "meaning": "vast",
+      "story": "Vast water told commands \"Hao!\" sharply expanding!",
+      "primitives": []
+    },
+    {
+      "id": 239,
+      "character": "先",
+      "pinyin": "xian",
+      "tone": 1,
+      "meaning": "before",
+      "story": "Before legs sing \"Shian!\" cheerfully ahead!",
+      "primitives": []
+    },
+    {
+      "id": 240,
+      "character": "洗",
+      "pinyin": "xi",
+      "tone": 3,
+      "meaning": "to wash",
+      "story": "To wash before water bends down drooping saying \"Shee\"!",
+      "primitives": []
+    }
+  ]
+}

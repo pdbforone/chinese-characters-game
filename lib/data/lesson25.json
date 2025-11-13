@@ -1,0 +1,239 @@
+{
+  "lesson": 25,
+  "characters": [
+    {
+      "id": 710,
+      "character": "禾",
+      "pinyin": "he",
+      "tone": 2,
+      "meaning": "Standing Grain",
+      "story": "Standing grain questions \"Huh? Harvest?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 711,
+      "character": "程",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "Journey",
+      "story": "Journey grain king questions \"Cheng? How far?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 712,
+      "character": "和",
+      "pinyin": "he",
+      "tone": 2,
+      "meaning": "Harmony",
+      "story": "Harmony grain mouth questions \"Huh? Peace?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 713,
+      "character": "移",
+      "pinyin": "yi",
+      "tone": 2,
+      "meaning": "to shift",
+      "story": "To shift grain many questions \"Yi? Moving?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 714,
+      "character": "秋",
+      "pinyin": "qiu",
+      "tone": 1,
+      "meaning": "Autumn",
+      "story": "Autumn grain fire sings \"Chyo!\" cheerfully harvest!",
+      "primitives": []
+    },
+    {
+      "id": 715,
+      "character": "愁",
+      "pinyin": "chou",
+      "tone": 2,
+      "meaning": "gloomy",
+      "story": "Gloomy heart autumn questions \"Cho? Sad?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 716,
+      "character": "利",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "a Profit",
+      "story": "A profit grain knife commands \"Lee!\" sharply earning!",
+      "primitives": []
+    },
+    {
+      "id": 717,
+      "character": "香",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "Perfume",
+      "story": "Perfume grain sun sings \"Shyang!\" cheerfully fragrant!",
+      "primitives": []
+    },
+    {
+      "id": 718,
+      "character": "季",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "Seasons",
+      "story": "Seasons grain child commands \"Ji!\" sharply quarterly!",
+      "primitives": []
+    },
+    {
+      "id": 719,
+      "character": "委",
+      "pinyin": "wei",
+      "tone": 3,
+      "meaning": "Committee",
+      "story": "Committee grain woman bends down drooping saying \"Way\"!",
+      "primitives": []
+    },
+    {
+      "id": 720,
+      "character": "秀",
+      "pinyin": "xiu",
+      "tone": 4,
+      "meaning": "elegant",
+      "story": "Elegant grain private commands \"Shyo!\" sharply refined!",
+      "primitives": []
+    },
+    {
+      "id": 721,
+      "character": "透",
+      "pinyin": "tou",
+      "tone": 4,
+      "meaning": "to penetrate",
+      "story": "To penetrate walk elegant yells \"Toe!\" sharply piercing!",
+      "primitives": []
+    },
+    {
+      "id": 722,
+      "character": "誘",
+      "pinyin": "you",
+      "tone": 4,
+      "meaning": "to entice",
+      "story": "To entice words penetrate commands \"Yo!\" sharply tempting!",
+      "primitives": []
+    },
+    {
+      "id": 723,
+      "character": "歷",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "Experience",
+      "story": "Experience cliff rice commands \"Lee!\" sharply undergone!",
+      "primitives": []
+    },
+    {
+      "id": 724,
+      "character": "米",
+      "pinyin": "mi",
+      "tone": 3,
+      "meaning": "Rice",
+      "story": "Rice bends down drooping saying \"Mee\"!",
+      "primitives": []
+    },
+    {
+      "id": 725,
+      "character": "迷",
+      "pinyin": "mi",
+      "tone": 2,
+      "meaning": "lost",
+      "story": "Lost walk rice questions \"Mee? Where am I?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 726,
+      "character": "謎",
+      "pinyin": "mi",
+      "tone": 2,
+      "meaning": "Riddle",
+      "story": "Riddle words lost questions \"Mee? What answer?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 727,
+      "character": "類",
+      "pinyin": "lei",
+      "tone": 4,
+      "meaning": "the Kind",
+      "story": "The kind rice head dog commands \"Lay!\" sharply categorized!",
+      "primitives": []
+    },
+    {
+      "id": 728,
+      "character": "竹",
+      "pinyin": "zhu",
+      "tone": 2,
+      "meaning": "Bamboo",
+      "story": "Bamboo questions \"Zhoo? Growing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 729,
+      "character": "笑",
+      "pinyin": "xiao",
+      "tone": 4,
+      "meaning": "to laugh",
+      "story": "To laugh bamboo young commands \"Shyao!\" sharply giggling!",
+      "primitives": []
+    },
+    {
+      "id": 730,
+      "character": "箱",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "Box",
+      "story": "A box bamboo fragrance sings \"Shyang!\" cheerfully stored!",
+      "primitives": []
+    },
+    {
+      "id": 731,
+      "character": "筆",
+      "pinyin": "bi",
+      "tone": 3,
+      "meaning": "Pen",
+      "story": "A pen bamboo hand bends down drooping saying \"Bee\"!",
+      "primitives": []
+    },
+    {
+      "id": 732,
+      "character": "等",
+      "pinyin": "deng",
+      "tone": 3,
+      "meaning": "etc.",
+      "story": "Etc. bamboo temple bends down drooping saying \"Dung\"!",
+      "primitives": []
+    },
+    {
+      "id": 733,
+      "character": "算",
+      "pinyin": "suan",
+      "tone": 4,
+      "meaning": "to calculate",
+      "story": "To calculate bamboo eyes commands \"Swan!\" sharply computing!",
+      "primitives": []
+    },
+    {
+      "id": 734,
+      "character": "答",
+      "pinyin": "da",
+      "tone": 2,
+      "meaning": "to answer",
+      "story": "To answer bamboo fit questions \"Da? Reply?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 735,
+      "character": "策",
+      "pinyin": "ce",
+      "tone": 4,
+      "meaning": "Strategy",
+      "story": "Strategy bamboo tree commands \"Tsuh!\" sharply planning!",
+      "primitives": []
+    }
+  ]
+}

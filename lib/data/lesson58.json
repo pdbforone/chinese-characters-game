@@ -1,0 +1,32 @@
+{
+  "lesson": 58,
+  "characters": [
+    {
+      "id": 1503,
+      "character": "咱",
+      "pinyin": "zan",
+      "tone": 2,
+      "meaning": "we (inclusive)",
+      "story": "We inclusive mouth own questions \"Dzahn? Together?\" curiously - us all!",
+      "primitives": []
+    },
+    {
+      "id": 1504,
+      "character": "串",
+      "pinyin": "chuan",
+      "tone": 4,
+      "meaning": "string together",
+      "story": "String together skewers commands sharply \"Chwahn!\" - connecting串串!",
+      "primitives": []
+    },
+    {
+      "id": 1505,
+      "character": "罩",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "overspread",
+      "story": "Overspread net table commands sharply \"Jao!\" - covering over!",
+      "primitives": []
+    }
+  ]
+}

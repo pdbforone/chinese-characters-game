@@ -1,0 +1,158 @@
+{
+  "lesson": 23,
+  "characters": [
+    {
+      "id": 634,
+      "character": "山",
+      "pinyin": "shan",
+      "tone": 1,
+      "meaning": "Mountain",
+      "story": "Mountains rise cheerfully singing \"Shan!\" high and proud!",
+      "primitives": []
+    },
+    {
+      "id": 635,
+      "character": "出",
+      "pinyin": "chu",
+      "tone": 1,
+      "meaning": "to exit",
+      "story": "To exit mountain sings \"Choo!\" cheerfully emerging!",
+      "primitives": []
+    },
+    {
+      "id": 636,
+      "character": "擊",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "to beat",
+      "story": "To beat hand car questions \"Ji? Strike?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 637,
+      "character": "密",
+      "pinyin": "mi",
+      "tone": 4,
+      "meaning": "secret",
+      "story": "Secret mountain needle commands \"Mee!\" sharply hidden!",
+      "primitives": []
+    },
+    {
+      "id": 638,
+      "character": "入",
+      "pinyin": "ru",
+      "tone": 4,
+      "meaning": "to enter",
+      "story": "To enter down commands \"Roo!\" sharply going in!",
+      "primitives": []
+    },
+    {
+      "id": 639,
+      "character": "內",
+      "pinyin": "nei",
+      "tone": 4,
+      "meaning": "internal",
+      "story": "Internal person enter yells \"Nay!\" sharply inside!",
+      "primitives": []
+    },
+    {
+      "id": 640,
+      "character": "吶",
+      "pinyin": "na",
+      "tone": 4,
+      "meaning": "to holler",
+      "story": "To holler mouth internal says \"na\" neutrally shouting!",
+      "primitives": []
+    },
+    {
+      "id": 641,
+      "character": "分",
+      "pinyin": "fen",
+      "tone": 1,
+      "meaning": "Part",
+      "story": "A part divides cheerfully singing \"Fen!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 642,
+      "character": "貧",
+      "pinyin": "pin",
+      "tone": 2,
+      "meaning": "impoverished",
+      "story": "Impoverished part shellfish questions \"Pin? So poor?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 643,
+      "character": "公",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "public",
+      "story": "Public person divide sings \"Gong!\" cheerfully shared!",
+      "primitives": []
+    },
+    {
+      "id": 644,
+      "character": "松",
+      "pinyin": "song",
+      "tone": 1,
+      "meaning": "Pine Tree",
+      "story": "Pine tree public sings \"Song!\" cheerfully evergreen!",
+      "primitives": []
+    },
+    {
+      "id": 645,
+      "character": "谷",
+      "pinyin": "gu",
+      "tone": 3,
+      "meaning": "Valley",
+      "story": "Valley mouth bends down drooping saying \"Goo\"!",
+      "primitives": []
+    },
+    {
+      "id": 646,
+      "character": "浴",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "to bathe",
+      "story": "To bathe water valley commands \"Yu!\" sharply washing!",
+      "primitives": []
+    },
+    {
+      "id": 647,
+      "character": "欲",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "to desire",
+      "story": "To desire valley lack yells \"Yu!\" sharply wanting!",
+      "primitives": []
+    },
+    {
+      "id": 648,
+      "character": "慾",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "the Lust",
+      "story": "The lust heart desire commands \"Yu!\" sharply craving!",
+      "primitives": []
+    },
+    {
+      "id": 649,
+      "character": "容",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "to contain",
+      "story": "To contain roof valley questions \"Rong? Fit inside?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 650,
+      "character": "溶",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "to dissolve",
+      "story": "To dissolve water contain questions \"Rong? Melting?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

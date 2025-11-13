@@ -1,9 +1,12 @@
 import Link from 'next/link';
+import { getAllLessonsMetadata } from '@/lib/lessonLoader';
 
 export default function Home() {
+  const lessons = getAllLessonsMetadata();
+
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-4">
-      <div className="max-w-2xl w-full bg-white rounded-lg shadow-xl p-8">
+      <div className="max-w-4xl w-full bg-white rounded-lg shadow-xl p-8">
         <h1 className="text-4xl font-bold text-center mb-4 text-gray-800">
           汉字 Learning Game
         </h1>
@@ -20,37 +23,36 @@ export default function Home() {
             <li>Click the story to select it</li>
             <li>Click the matching character on the right</li>
             <li>Get instant feedback - green for correct, red for incorrect</li>
-            <li>Match all 6 characters to complete the round!</li>
+            <li>Match all characters to complete the round!</li>
           </ol>
         </div>
 
-        <div className="space-y-4">
-          <h2 className="text-xl font-semibold text-gray-700">
-            Available Lessons:
+        <div className="mb-6">
+          <h2 className="text-xl font-semibold text-gray-700 mb-2">
+            Available Lessons: {lessons.length}
           </h2>
+          <p className="text-gray-600 text-sm">
+            {lessons.reduce((sum, l) => sum + l.characterCount, 0)} total characters to learn
+          </p>
+        </div>
 
-          <Link href="/lesson/1">
-            <div className="block p-6 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-lg hover:from-blue-600 hover:to-indigo-700 transition-all cursor-pointer shadow-md hover:shadow-lg">
-              <h3 className="text-2xl font-bold text-white mb-2">
-                Lesson 1: Numbers & Basics
-              </h3>
-              <p className="text-blue-100">
-                Learn your first 6 characters: 一, 二, 三, 四, 五, 六
-              </p>
-              <div className="mt-4 text-sm text-blue-200">
-                Click to start →
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-h-[500px] overflow-y-auto pr-2">
+          {lessons.map((lesson) => (
+            <Link key={lesson.lesson} href={`/lesson/${lesson.lesson}`}>
+              <div className="block p-4 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-lg hover:from-blue-600 hover:to-indigo-700 transition-all cursor-pointer shadow-md hover:shadow-lg">
+                <h3 className="text-lg font-bold text-white mb-2">
+                  Lesson {lesson.lesson}
+                </h3>
+                <p className="text-blue-100 text-sm mb-2">
+                  {lesson.characterCount} characters
+                </p>
+                <p className="text-white text-xl">
+                  {lesson.characters.slice(0, 6).join(' ')}
+                  {lesson.characters.length > 6 ? ' ...' : ''}
+                </p>
               </div>
-            </div>
-          </Link>
-
-          <div className="p-6 bg-gray-200 rounded-lg opacity-60 cursor-not-allowed">
-            <h3 className="text-xl font-bold text-gray-600 mb-2">
-              Lesson 2: Coming Soon
-            </h3>
-            <p className="text-gray-500">
-              🔒 Complete Lesson 1 to unlock
-            </p>
-          </div>
+            </Link>
+          ))}
         </div>
 
         <div className="mt-8 p-4 bg-blue-50 rounded-lg border border-blue-200">

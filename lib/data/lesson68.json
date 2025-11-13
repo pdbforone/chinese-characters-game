@@ -1,0 +1,113 @@
+{
+  "lesson": 68,
+  "characters": [
+    {
+      "id": 1592,
+      "character": "迫",
+      "pinyin": "po",
+      "tone": 4,
+      "meaning": "compel",
+      "story": "Compel road white commands sharply \"Pwoh!\" - force urge!",
+      "primitives": []
+    },
+    {
+      "id": 1593,
+      "character": "逼",
+      "pinyin": "bi",
+      "tone": 1,
+      "meaning": "press",
+      "story": "Press road compel sings \"Bee!\" cheerfully - coerce pressure!",
+      "primitives": []
+    },
+    {
+      "id": 1594,
+      "character": "逃",
+      "pinyin": "tao",
+      "tone": 2,
+      "meaning": "escape",
+      "story": "Escape road omen questions \"Tao? Flee?\" curiously - run away!",
+      "primitives": []
+    },
+    {
+      "id": 1595,
+      "character": "逞",
+      "pinyin": "cheng",
+      "tone": 3,
+      "meaning": "flaunt",
+      "story": "Flaunt road display bends down drooping \"Chung\" - show off swagger!",
+      "primitives": []
+    },
+    {
+      "id": 1596,
+      "character": "轟",
+      "pinyin": "hong",
+      "tone": 1,
+      "meaning": "rumble",
+      "story": "Rumble three cars sing \"Hohng!\" cheerfully - boom thunder vibrate!",
+      "primitives": []
+    },
+    {
+      "id": 1597,
+      "character": "軌",
+      "pinyin": "gui",
+      "tone": 3,
+      "meaning": "rails",
+      "story": "Rails car nine bends down drooping \"Gway\" - track for trains!",
+      "primitives": []
+    },
+    {
+      "id": 1598,
+      "character": "軋",
+      "pinyin": "ya",
+      "tone": 4,
+      "meaning": "flatten",
+      "story": "Flatten car fishhook commands sharply \"Yah!\" - roll press crush!",
+      "primitives": []
+    },
+    {
+      "id": 1599,
+      "character": "輻",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "spokes",
+      "story": "Spokes car wealth questions \"Foo? Radiating?\" curiously - wheel rays!",
+      "primitives": []
+    },
+    {
+      "id": 1600,
+      "character": "煎",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "sauté",
+      "story": "Sauté in front cooking fire sings \"Jyan!\" cheerfully - frying pan!",
+      "primitives": []
+    },
+    {
+      "id": 1601,
+      "character": "喻",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "figure of speech",
+      "story": "Figure of speech mouth explain commands sharply \"Yoo!\" - metaphor analogy!",
+      "primitives": []
+    },
+    {
+      "id": 1602,
+      "character": "榆",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "elm",
+      "story": "Elm tree explain questions \"Yoo? Timber?\" curiously - hardwood tree!",
+      "primitives": []
+    },
+    {
+      "id": 1603,
+      "character": "略",
+      "pinyin": "lüe",
+      "tone": 4,
+      "meaning": "abbreviation",
+      "story": "Abbreviation field each commands sharply \"Lyueh!\" - brief summary!",
+      "primitives": []
+    }
+  ]
+}

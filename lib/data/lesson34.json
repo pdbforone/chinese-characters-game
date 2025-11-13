@@ -1,0 +1,50 @@
+{
+  "lesson": 34,
+  "characters": [
+    {
+      "id": 1000,
+      "character": "邊",
+      "pinyin": "bian",
+      "tone": 1,
+      "meaning": "Border",
+      "story": "Along the border road, your nose catches the scent, singing \"Bian!\" cheerfully as you cross the edge!",
+      "primitives": []
+    },
+    {
+      "id": 1001,
+      "character": "深",
+      "pinyin": "shen",
+      "tone": 1,
+      "meaning": "deep",
+      "story": "Deep water sings \"Shen!\" cheerfully as you dive down into the profound darkness!",
+      "primitives": []
+    },
+    {
+      "id": 1002,
+      "character": "探",
+      "pinyin": "tan",
+      "tone": 4,
+      "meaning": "a Spy",
+      "story": "A spy with hands reaching into the cave commands \"Tan!\" sharply, exploring every hidden corner!",
+      "primitives": []
+    },
+    {
+      "id": 1003,
+      "character": "丘",
+      "pinyin": "qiu",
+      "tone": 1,
+      "meaning": "Hill",
+      "story": "The hill rises like a hobbit-home, singing \"Chyo!\" cheerfully round and grassy!",
+      "primitives": []
+    },
+    {
+      "id": 1004,
+      "character": "兵",
+      "pinyin": "bing",
+      "tone": 1,
+      "meaning": "Troops",
+      "story": "Troops with axes march cheerfully singing \"Bing!\" as soldiers in formation!",
+      "primitives": []
+    }
+  ]
+}
