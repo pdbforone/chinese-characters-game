@@ -149,11 +149,18 @@ export default function Home() {
                       )}
                     </div>
 
-                    {/* Characters preview */}
-                    <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-3 mb-3 min-h-[60px] flex items-center justify-center">
-                      <p className="text-2xl font-serif text-gray-800 tracking-wider">
-                        {lesson.characters.split(', ').slice(0, 4).join(' ')}
-                      </p>
+                    {/* Characters preview with pinyin */}
+                    <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-3 mb-3 min-h-[80px] flex flex-col items-center justify-center gap-2">
+                      <div className="flex gap-3 flex-wrap justify-center">
+                        {lesson.preview.map((char, idx) => (
+                          <div key={idx} className="flex flex-col items-center">
+                            <span className="text-2xl font-serif text-gray-800">
+                              {char.character}
+                            </span>
+                            <span className="text-xs text-gray-600">{char.pinyin}</span>
+                          </div>
+                        ))}
+                      </div>
                     </div>
 
                     {/* Progress bar */}
