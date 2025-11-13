@@ -100,25 +100,14 @@ export default function LessonPage() {
   // Return user modal
   if (phase === 'modal') {
     return (
-      <>
-        <div className="min-h-screen py-8">
-          <div className="max-w-7xl mx-auto px-4 mb-6">
-            <button
-              onClick={handleBackToHome}
-              className="text-blue-600 hover:text-blue-800 font-medium flex items-center gap-2"
-            >
-              ← Back to Lessons
-            </button>
-          </div>
-
-          {/* Dimmed background showing game board */}
-          <div className="opacity-20 pointer-events-none">
-            <GameBoard
-              characters={lessonData.characters}
-              lesson={lessonId}
-              round={1}
-            />
-          </div>
+      <div className="min-h-screen flex items-center justify-center p-4 bg-gradient-to-br from-blue-50 to-indigo-100">
+        <div className="absolute top-4 left-4">
+          <button
+            onClick={handleBackToHome}
+            className="text-blue-600 hover:text-blue-800 font-medium flex items-center gap-2"
+          >
+            ← Back to Lessons
+          </button>
         </div>
 
         <ReturnUserModal
@@ -129,7 +118,7 @@ export default function LessonPage() {
           onReview={handleReviewCharacters}
           onStartGame={handleStartGame}
         />
-      </>
+      </div>
     );
   }
 
