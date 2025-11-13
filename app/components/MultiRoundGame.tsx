@@ -22,11 +22,11 @@ export default function MultiRoundGame({
   onBackToLessons,
   onReview,
 }: MultiRoundGameProps) {
-  const CHARACTERS_PER_PAGE = 6;
+  const CHARACTERS_PER_PAGE = 4;
   const totalPages = Math.ceil(characters.length / CHARACTERS_PER_PAGE);
 
   // Round = difficulty level (1, 2, or 3)
-  // Page = which set of 6 characters (0, 1, 2, etc.)
+  // Page = which set of 4 characters (0, 1, 2, etc.)
   const [currentRound, setCurrentRound] = useState(1); // 1, 2, or 3
   const [currentPage, setCurrentPage] = useState(0);
   const [roundScores, setRoundScores] = useState<{ accuracy: number; score: number }[]>([]);
