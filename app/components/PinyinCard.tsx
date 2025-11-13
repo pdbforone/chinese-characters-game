@@ -2,7 +2,7 @@
 
 import { Character } from '@/lib/types';
 
-interface CharacterCardProps {
+interface PinyinCardProps {
   character: Character;
   isSelected: boolean;
   isMatched: boolean;
@@ -10,13 +10,13 @@ interface CharacterCardProps {
   onClick: () => void;
 }
 
-export default function CharacterCard({
+export default function PinyinCard({
   character,
   isSelected,
   isMatched,
   isIncorrect,
   onClick
-}: CharacterCardProps) {
+}: PinyinCardProps) {
   let borderClass = 'border-2 border-gray-300';
   let bgClass = 'bg-white hover:bg-gray-50';
   let animationClass = '';
@@ -43,16 +43,12 @@ export default function CharacterCard({
         rounded-lg p-6 cursor-pointer
         transition-all duration-200
         ${isMatched ? 'opacity-50 cursor-not-allowed' : ''}
-        min-h-[160px]
+        min-h-[140px]
         flex flex-col items-center justify-center
       `}
     >
-      <div className="text-6xl mb-2 font-serif text-gray-900">
-        {character.character}
-      </div>
-      <div className="text-sm text-center">
-        <div className="font-medium text-gray-700">{character.pinyin}</div>
-        <div className="text-gray-600">{character.meaning}</div>
+      <div className="text-4xl font-semibold text-gray-900 mb-2">
+        {character.pinyin}
       </div>
       {isMatched && (
         <div className="mt-2">

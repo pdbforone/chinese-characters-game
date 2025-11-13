@@ -1,21 +1,35 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Character, GameStats } from '@/lib/types';
+import { Character, GameStats, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
+import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
 import StoryCard from './StoryCard';
 import CharacterCard from './CharacterCard';
+import PinyinCard from './PinyinCard';
 import ProgressBar from './ProgressBar';
 
 interface GameBoardProps {
   characters: Character[];
   lesson: number;
   round: number;
+  totalRounds?: number;
+  gameMode?: GameMode;
+  onRoundComplete?: (accuracy: number, score: number) => void;
+  onBackToLessons?: () => void;
 }
 
-export default function GameBoard({ characters, lesson, round }: GameBoardProps) {
-  const [selectedStory, setSelectedStory] = useState<number | null>(null);
-  const [selectedCharacter, setSelectedCharacter] = useState<number | null>(null);
+export default function GameBoard({
+  characters,
+  lesson,
+  round,
+  totalRounds = 1,
+  gameMode = 'story-to-character',
+  onRoundComplete,
+  onBackToLessons
+}: GameBoardProps) {
+  const [selectedLeft, setSelectedLeft] = useState<number | null>(null);
+  const [selectedRight, setSelectedRight] = useState<number | null>(null);
   const [matched, setMatched] = useState<Set<number>>(new Set());
   const [incorrect, setIncorrect] = useState<number | null>(null);
   const [gameStats, setGameStats] = useState<GameStats>({
@@ -25,47 +39,49 @@ export default function GameBoard({ characters, lesson, round }: GameBoardProps)
   });
   const [showCompletion, setShowCompletion] = useState(false);
 
-  // Shuffle characters for display (but keep stories in order)
-  const [shuffledCharacters, setShuffledCharacters] = useState<Character[]>([]);
+  // Shuffle right column for display (but keep left in order)
+  const [shuffledRight, setShuffledRight] = useState<Character[]>([]);
 
   useEffect(() => {
     // Shuffle characters for the right column
     const shuffled = [...characters].sort(() => Math.random() - 0.5);
-    setShuffledCharacters(shuffled);
+    setShuffledRight(shuffled);
   }, [characters]);
 
-  const handleStoryClick = (id: number) => {
+  const handleLeftClick = (id: number) => {
     if (matched.has(id)) return;
-    setSelectedStory(id);
+    setSelectedLeft(id);
     setIncorrect(null);
 
-    // If character already selected, check match
-    if (selectedCharacter !== null) {
-      checkMatch(id, selectedCharacter);
+    // If right already selected, check match
+    if (selectedRight !== null) {
+      checkMatch(id, selectedRight);
     }
   };
 
-  const handleCharacterClick = (id: number) => {
+  const handleRightClick = (id: number) => {
     if (matched.has(id)) return;
-    setSelectedCharacter(id);
+    setSelectedRight(id);
     setIncorrect(null);
 
-    // If story already selected, check match
-    if (selectedStory !== null) {
-      checkMatch(selectedStory, id);
+    // If left already selected, check match
+    if (selectedLeft !== null) {
+      checkMatch(selectedLeft, id);
     }
   };
 
-  const checkMatch = (storyId: number, characterId: number) => {
+  const checkMatch = (leftId: number, rightId: number) => {
     const newAttempts = gameStats.totalAttempts + 1;
 
-    if (storyId === characterId) {
+    if (leftId === rightId) {
       // Correct match!
+      playCorrectSound();
+
       const newMatched = new Set(matched);
-      newMatched.add(storyId);
+      newMatched.add(leftId);
       setMatched(newMatched);
-      setSelectedStory(null);
-      setSelectedCharacter(null);
+      setSelectedLeft(null);
+      setSelectedRight(null);
 
       const newCorrect = gameStats.correctMatches + 1;
       const newAccuracy = (newCorrect / newAttempts) * 100;
@@ -76,16 +92,24 @@ export default function GameBoard({ characters, lesson, round }: GameBoardProps)
         accuracy: newAccuracy
       });
 
-      // Check if game is complete
+      // Check if round/game is complete
       if (newMatched.size === characters.length) {
-        // Save score to localStorage
         const finalScore = newCorrect * 100; // 100 points per correct match
-        saveGameScore(lesson, finalScore, newAccuracy);
-        setTimeout(() => setShowCompletion(true), 500);
+
+        if (onRoundComplete) {
+          // Multi-round mode - call callback
+          setTimeout(() => onRoundComplete(newAccuracy, finalScore), 500);
+        } else {
+          // Single round mode - save and show completion
+          saveGameScore(lesson, finalScore, newAccuracy);
+          setTimeout(() => setShowCompletion(true), 500);
+        }
       }
     } else {
       // Incorrect match
-      setIncorrect(characterId);
+      playIncorrectSound();
+
+      setIncorrect(rightId);
       setGameStats({
         ...gameStats,
         totalAttempts: newAttempts,
@@ -94,8 +118,8 @@ export default function GameBoard({ characters, lesson, round }: GameBoardProps)
 
       // Reset after animation
       setTimeout(() => {
-        setSelectedStory(null);
-        setSelectedCharacter(null);
+        setSelectedLeft(null);
+        setSelectedRight(null);
         setIncorrect(null);
       }, 600);
     }
@@ -109,8 +133,8 @@ export default function GameBoard({ characters, lesson, round }: GameBoardProps)
   };
 
   const resetGame = () => {
-    setSelectedStory(null);
-    setSelectedCharacter(null);
+    setSelectedLeft(null);
+    setSelectedRight(null);
     setMatched(new Set());
     setIncorrect(null);
     setGameStats({
@@ -121,12 +145,35 @@ export default function GameBoard({ characters, lesson, round }: GameBoardProps)
     setShowCompletion(false);
     // Re-shuffle characters
     const shuffled = [...characters].sort(() => Math.random() - 0.5);
-    setShuffledCharacters(shuffled);
+    setShuffledRight(shuffled);
   };
 
-  if (shuffledCharacters.length === 0) {
+  if (shuffledRight.length === 0) {
     return <div className="text-center p-8">Loading...</div>;
   }
+
+  // Determine what to show on left and right based on game mode
+  const getLeftLabel = () => {
+    switch (gameMode) {
+      case 'story-to-character':
+        return 'Mnemonic Stories';
+      case 'character-to-story':
+        return 'Characters';
+      case 'character-to-pinyin':
+        return 'Characters';
+    }
+  };
+
+  const getRightLabel = () => {
+    switch (gameMode) {
+      case 'story-to-character':
+        return 'Characters';
+      case 'character-to-story':
+        return 'Mnemonic Stories';
+      case 'character-to-pinyin':
+        return 'Pinyin';
+    }
+  };
 
   return (
     <div className="max-w-7xl mx-auto p-4">
@@ -138,38 +185,83 @@ export default function GameBoard({ characters, lesson, round }: GameBoardProps)
       />
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {/* Stories Column */}
+        {/* Left Column */}
         <div className="space-y-4">
           <h3 className="text-lg font-semibold text-gray-700 mb-4 text-center md:text-left">
-            Mnemonic Stories
+            {getLeftLabel()}
           </h3>
-          {characters.map((char) => (
-            <StoryCard
-              key={`story-${char.id}`}
-              character={char}
-              isSelected={selectedStory === char.id}
-              isMatched={matched.has(char.id)}
-              isIncorrect={false}
-              onClick={() => handleStoryClick(char.id)}
-            />
-          ))}
+          {characters.map((char) => {
+            // Render left side based on game mode
+            if (gameMode === 'story-to-character') {
+              return (
+                <StoryCard
+                  key={`left-${char.id}`}
+                  character={char}
+                  isSelected={selectedLeft === char.id}
+                  isMatched={matched.has(char.id)}
+                  isIncorrect={false}
+                  onClick={() => handleLeftClick(char.id)}
+                />
+              );
+            } else {
+              // character-to-story or character-to-pinyin
+              return (
+                <CharacterCard
+                  key={`left-${char.id}`}
+                  character={char}
+                  isSelected={selectedLeft === char.id}
+                  isMatched={matched.has(char.id)}
+                  isIncorrect={false}
+                  onClick={() => handleLeftClick(char.id)}
+                />
+              );
+            }
+          })}
         </div>
 
-        {/* Characters Column */}
+        {/* Right Column */}
         <div className="space-y-4">
           <h3 className="text-lg font-semibold text-gray-700 mb-4 text-center md:text-left">
-            Characters
+            {getRightLabel()}
           </h3>
-          {shuffledCharacters.map((char) => (
-            <CharacterCard
-              key={`char-${char.id}`}
-              character={char}
-              isSelected={selectedCharacter === char.id}
-              isMatched={matched.has(char.id)}
-              isIncorrect={incorrect === char.id}
-              onClick={() => handleCharacterClick(char.id)}
-            />
-          ))}
+          {shuffledRight.map((char) => {
+            // Render right side based on game mode
+            if (gameMode === 'story-to-character') {
+              return (
+                <CharacterCard
+                  key={`right-${char.id}`}
+                  character={char}
+                  isSelected={selectedRight === char.id}
+                  isMatched={matched.has(char.id)}
+                  isIncorrect={incorrect === char.id}
+                  onClick={() => handleRightClick(char.id)}
+                />
+              );
+            } else if (gameMode === 'character-to-story') {
+              return (
+                <StoryCard
+                  key={`right-${char.id}`}
+                  character={char}
+                  isSelected={selectedRight === char.id}
+                  isMatched={matched.has(char.id)}
+                  isIncorrect={incorrect === char.id}
+                  onClick={() => handleRightClick(char.id)}
+                />
+              );
+            } else {
+              // character-to-pinyin
+              return (
+                <PinyinCard
+                  key={`right-${char.id}`}
+                  character={char}
+                  isSelected={selectedRight === char.id}
+                  isMatched={matched.has(char.id)}
+                  isIncorrect={incorrect === char.id}
+                  onClick={() => handleRightClick(char.id)}
+                />
+              );
+            }
+          })}
         </div>
       </div>
 

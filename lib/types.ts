@@ -25,3 +25,12 @@ export interface GameStats {
   correctMatches: number;
   accuracy: number;
 }
+
+export type GameMode = 'story-to-character' | 'character-to-story' | 'character-to-pinyin';
+
+export interface RoundProgress {
+  currentRound: number;
+  totalRounds: number;
+  mode: GameMode;
+  roundScores: number[];
+}

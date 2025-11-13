@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
-import GameBoard from '@/app/components/GameBoard';
+import MultiRoundGame from '@/app/components/MultiRoundGame';
 import CharacterIntroduction from '@/app/components/CharacterIntroduction';
 import ReturnUserModal from '@/app/components/ReturnUserModal';
 import lessonData from '@/lib/data/lesson1.json';
@@ -54,6 +54,13 @@ export default function LessonPage() {
 
   const handleBackToHome = () => {
     router.push('/');
+  };
+
+  const handleGameComplete = () => {
+    // Reload progress and show modal
+    const savedProgress = getLessonProgress(lessonId);
+    setProgress(savedProgress);
+    setPhase('modal');
   };
 
   // Lesson not found
@@ -150,27 +157,12 @@ export default function LessonPage() {
 
   // Game phase
   return (
-    <div className="min-h-screen py-8">
-      <div className="max-w-7xl mx-auto px-4 mb-6 flex justify-between items-center">
-        <button
-          onClick={handleBackToHome}
-          className="text-blue-600 hover:text-blue-800 font-medium flex items-center gap-2"
-        >
-          ← Back to Lessons
-        </button>
-        <button
-          onClick={handleReviewCharacters}
-          className="text-amber-600 hover:text-amber-800 font-medium flex items-center gap-2"
-        >
-          📖 Review Characters
-        </button>
-      </div>
-
-      <GameBoard
-        characters={lessonData.characters}
-        lesson={lessonId}
-        round={1}
-      />
-    </div>
+    <MultiRoundGame
+      characters={lessonData.characters}
+      lessonNumber={lessonId}
+      onComplete={handleGameComplete}
+      onBackToLessons={handleBackToHome}
+      onReview={handleReviewCharacters}
+    />
   );
 }
