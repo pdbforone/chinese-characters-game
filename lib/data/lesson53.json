@@ -1,0 +1,167 @@
+{
+  "lesson": 53,
+  "characters": [
+    {
+      "id": 1041,
+      "character": "孫",
+      "pinyin": "Sun",
+      "tone": 5,
+      "meaning": "Grandchild",
+      "story": "Grandchild sings \"Sun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1042,
+      "character": "卻",
+      "pinyin": "Que",
+      "tone": 5,
+      "meaning": "to withdraw (retreat, not banks)",
+      "story": "to withdraw (retreat, not banks) commands \"Que!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1043,
+      "character": "腳",
+      "pinyin": "Jiao",
+      "tone": 5,
+      "meaning": "Foot",
+      "story": "Foot bends down drooping saying \"Jiao\"!",
+      "primitives": []
+    },
+    {
+      "id": 1044,
+      "character": "服",
+      "pinyin": "Fu",
+      "tone": 5,
+      "meaning": "Apparel",
+      "story": "Apparel questions \"Fu? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1045,
+      "character": "命",
+      "pinyin": "Ming",
+      "tone": 5,
+      "meaning": "Fate",
+      "story": "Fate commands \"Ming!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1046,
+      "character": "留",
+      "pinyin": "Liu",
+      "tone": 5,
+      "meaning": "to stay",
+      "story": "to stay questions \"Liu? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1047,
+      "character": "溜",
+      "pinyin": "Liu",
+      "tone": 5,
+      "meaning": "to slide",
+      "story": "to slide sings \"Liu!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1048,
+      "character": "聊",
+      "pinyin": "Liao",
+      "tone": 5,
+      "meaning": "to chat",
+      "story": "to chat questions \"Liao? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1049,
+      "character": "柳",
+      "pinyin": "Liu",
+      "tone": 5,
+      "meaning": "Willow",
+      "story": "Willow bends down drooping saying \"Liu\"!",
+      "primitives": []
+    },
+    {
+      "id": 1050,
+      "character": "令",
+      "pinyin": "Ling",
+      "tone": 5,
+      "meaning": "Orders",
+      "story": "Orders commands \"Ling!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1051,
+      "character": "冷",
+      "pinyin": "Leng",
+      "tone": 5,
+      "meaning": "cold",
+      "story": "cold bends down drooping saying \"Leng\"!",
+      "primitives": []
+    },
+    {
+      "id": 1052,
+      "character": "零",
+      "pinyin": "Ling",
+      "tone": 5,
+      "meaning": "zero",
+      "story": "zero questions \"Ling? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1053,
+      "character": "領",
+      "pinyin": "Ling",
+      "tone": 5,
+      "meaning": "Collar",
+      "story": "Collar bends down drooping saying \"Ling\"!",
+      "primitives": []
+    },
+    {
+      "id": 1054,
+      "character": "通",
+      "pinyin": "Tong",
+      "tone": 5,
+      "meaning": "to communicate",
+      "story": "to communicate sings \"Tong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1055,
+      "character": "勇",
+      "pinyin": "Yong",
+      "tone": 5,
+      "meaning": "courageous",
+      "story": "courageous bends down drooping saying \"Yong\"!",
+      "primitives": []
+    },
+    {
+      "id": 1056,
+      "character": "犯",
+      "pinyin": "Fan",
+      "tone": 5,
+      "meaning": "Criminal",
+      "story": "Criminal commands \"Fan!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1057,
+      "character": "危",
+      "pinyin": "Wei [普], wei [國]",
+      "tone": 5,
+      "meaning": "Danger",
+      "story": "Danger sings \"Wei [普], wei [國]!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1058,
+      "character": "脆",
+      "pinyin": "Cui",
+      "tone": 5,
+      "meaning": "fragile",
+      "story": "fragile commands \"Cui!\" yells!",
+      "primitives": []
+    }
+  ]
+}

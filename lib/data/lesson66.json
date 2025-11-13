@@ -1,0 +1,167 @@
+{
+  "lesson": 66,
+  "characters": [
+    {
+      "id": 1170,
+      "character": "豐",
+      "pinyin": "feng",
+      "tone": 1,
+      "meaning": "plentiful",
+      "story": "Plentiful beans bend sings \"Fung!\" cheerfully - abundant and lush!",
+      "primitives": []
+    },
+    {
+      "id": 1171,
+      "character": "春",
+      "pinyin": "chun",
+      "tone": 1,
+      "meaning": "Springtime",
+      "story": "Springtime sun three people sings \"Choon!\" cheerfully - festive season!",
+      "primitives": []
+    },
+    {
+      "id": 1172,
+      "character": "泰",
+      "pinyin": "tai",
+      "tone": 4,
+      "meaning": "tranquil",
+      "story": "Tranquil water big hands commands sharply \"Tie!\" - peaceful and safe!",
+      "primitives": []
+    },
+    {
+      "id": 1173,
+      "character": "奉",
+      "pinyin": "feng",
+      "tone": 4,
+      "meaning": "to proffer",
+      "story": "To proffer hands cornstalk commands sharply \"Fung!\" - dedicate tribute!",
+      "primitives": []
+    },
+    {
+      "id": 1174,
+      "character": "棒",
+      "pinyin": "bang",
+      "tone": 4,
+      "meaning": "Cudgel",
+      "story": "Cudgel tree proffer commands sharply \"Bahng!\" - a stick or rod!",
+      "primitives": []
+    },
+    {
+      "id": 1175,
+      "character": "勤",
+      "pinyin": "qin",
+      "tone": 2,
+      "meaning": "diligent",
+      "story": "Diligent turkey taskmaster questions \"Chin? Working?\" curiously - industrious and frequent!",
+      "primitives": []
+    },
+    {
+      "id": 1176,
+      "character": "謹",
+      "pinyin": "jin",
+      "tone": 3,
+      "meaning": "careful",
+      "story": "Careful words turkey bends down drooping \"Jin\" - cautious and discreet!",
+      "primitives": []
+    },
+    {
+      "id": 1177,
+      "character": "僅",
+      "pinyin": "jin",
+      "tone": 3,
+      "meaning": "merely",
+      "story": "Merely person turkey bends down drooping \"Jin\" - barely a trifle!",
+      "primitives": []
+    },
+    {
+      "id": 1178,
+      "character": "漢",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "Han",
+      "story": "Han water sunrise commands sharply \"Hahn!\" - Chinese dynasty!",
+      "primitives": []
+    },
+    {
+      "id": 1179,
+      "character": "難",
+      "pinyin": "nan",
+      "tone": 2,
+      "meaning": "difficult",
+      "story": "Difficult turkey questions \"Nahn? Arduous?\" curiously - hard problem!",
+      "primitives": []
+    },
+    {
+      "id": 1180,
+      "character": "攤",
+      "pinyin": "tan",
+      "tone": 1,
+      "meaning": "Vendor's Stand",
+      "story": "Vendor's stand hand cliff says \"Tahn\" neutrally - spread out stall!",
+      "primitives": []
+    },
+    {
+      "id": 1181,
+      "character": "華",
+      "pinyin": "hua",
+      "tone": 2,
+      "meaning": "Splendor",
+      "story": "Splendor flowers transform questions \"Hwah? Magnificent?\" curiously - China's glory!",
+      "primitives": []
+    },
+    {
+      "id": 1182,
+      "character": "嘩",
+      "pinyin": "hua",
+      "tone": 2,
+      "meaning": "Clamor",
+      "story": "Clamor mouth splendor questions \"Hwah? Noise?\" curiously - quarreling catcalls!",
+      "primitives": []
+    },
+    {
+      "id": 1183,
+      "character": "垂",
+      "pinyin": "chui",
+      "tone": 2,
+      "meaning": "to droop",
+      "story": "To droop cliff ground questions \"Chway? Hanging?\" curiously - dangling down!",
+      "primitives": []
+    },
+    {
+      "id": 1184,
+      "character": "錘",
+      "pinyin": "chui",
+      "tone": 2,
+      "meaning": "Hammer",
+      "story": "Hammer metal droop questions \"Chway? Spindle?\" curiously - pounding tool!",
+      "primitives": []
+    },
+    {
+      "id": 1185,
+      "character": "睡",
+      "pinyin": "shui",
+      "tone": 4,
+      "meaning": "to sleep",
+      "story": "To sleep eye droop commands sharply \"Shway!\" - drowsy rest!",
+      "primitives": []
+    },
+    {
+      "id": 1186,
+      "character": "今",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "now",
+      "story": "Now umbrella sings \"Jin!\" cheerfully - today and present!",
+      "primitives": []
+    },
+    {
+      "id": 1187,
+      "character": "含",
+      "pinyin": "han",
+      "tone": 2,
+      "meaning": "to harbor",
+      "story": "To harbor mouth now questions \"Hahn? Keeping?\" curiously - to contain!",
+      "primitives": []
+    }
+  ]
+}

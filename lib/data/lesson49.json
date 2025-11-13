@@ -1,0 +1,167 @@
+{
+  "lesson": 49,
+  "characters": [
+    {
+      "id": 865,
+      "character": "乍",
+      "pinyin": "zha",
+      "tone": 4,
+      "meaning": "for the first time",
+      "story": "For the first time commands \"Zha!\" sharply initially!",
+      "primitives": []
+    },
+    {
+      "id": 866,
+      "character": "怎",
+      "pinyin": "zen",
+      "tone": 3,
+      "meaning": "how?",
+      "story": "How for first time heart bends down drooping saying \"Zen\"!",
+      "primitives": []
+    },
+    {
+      "id": 867,
+      "character": "昨",
+      "pinyin": "zuo",
+      "tone": 2,
+      "meaning": "Yesterday",
+      "story": "Yesterday sun first time questions \"Zwoh? Past?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 868,
+      "character": "作",
+      "pinyin": "zuo",
+      "tone": 4,
+      "meaning": "to do",
+      "story": "To do person first time commands \"Zwoh!\" sharply making!",
+      "primitives": []
+    },
+    {
+      "id": 869,
+      "character": "雪",
+      "pinyin": "xue",
+      "tone": 3,
+      "meaning": "the Snow",
+      "story": "The snow rain broom bends down drooping saying \"Shueh\"!",
+      "primitives": []
+    },
+    {
+      "id": 870,
+      "character": "急",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "anxious",
+      "story": "Anxious reach heart questions \"Ji? Worried?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 871,
+      "character": "尋",
+      "pinyin": "xun",
+      "tone": 2,
+      "meaning": "to seek",
+      "story": "To seek roof claw inch questions \"Shun? Looking for?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 872,
+      "character": "婦",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "Married Woman",
+      "story": "Married woman woman broom commands \"Foo!\" sharply wife!",
+      "primitives": []
+    },
+    {
+      "id": 873,
+      "character": "掃",
+      "pinyin": "sao",
+      "tone": 3,
+      "meaning": "to sweep",
+      "story": "To sweep hand broom bends down drooping saying \"Sao\"!",
+      "primitives": []
+    },
+    {
+      "id": 874,
+      "character": "錄",
+      "pinyin": "lu",
+      "tone": 4,
+      "meaning": "to record",
+      "story": "To record gold broom commands \"Loo!\" sharply documenting!",
+      "primitives": []
+    },
+    {
+      "id": 875,
+      "character": "碌",
+      "pinyin": "lu",
+      "tone": 4,
+      "meaning": "commonplace",
+      "story": "Commonplace stone record yells \"Loo!\" sharply ordinary!",
+      "primitives": []
+    },
+    {
+      "id": 876,
+      "character": "爭",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "to contend",
+      "story": "To contend claw hand sings \"Zheng!\" cheerfully fighting!",
+      "primitives": []
+    },
+    {
+      "id": 877,
+      "character": "淨",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "clean",
+      "story": "Clean water contend commands \"Jing!\" sharply purified!",
+      "primitives": []
+    },
+    {
+      "id": 878,
+      "character": "事",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Matter",
+      "story": "Matter hand one commands \"Shi!\" sharply affair!",
+      "primitives": []
+    },
+    {
+      "id": 879,
+      "character": "唐",
+      "pinyin": "tang",
+      "tone": 2,
+      "meaning": "Tang",
+      "story": "Tang wide mouth questions \"Tang? Dynasty?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 880,
+      "character": "糖",
+      "pinyin": "tang",
+      "tone": 2,
+      "meaning": "Sugar",
+      "story": "Sugar rice Tang questions \"Tang? Sweet?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 881,
+      "character": "康",
+      "pinyin": "kang",
+      "tone": 1,
+      "meaning": "hale",
+      "story": "Hale roof grain sings \"Kang!\" cheerfully healthy!",
+      "primitives": []
+    },
+    {
+      "id": 882,
+      "character": "尹",
+      "pinyin": "yin",
+      "tone": 3,
+      "meaning": "Overseer",
+      "story": "Overseer hand bends down drooping saying \"Yin\"!",
+      "primitives": []
+    }
+  ]
+}

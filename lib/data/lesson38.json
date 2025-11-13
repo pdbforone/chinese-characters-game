@@ -1,0 +1,167 @@
+{
+  "lesson": 38,
+  "characters": [
+    {
+      "id": 667,
+      "character": "取",
+      "pinyin": "qu",
+      "tone": 3,
+      "meaning": "to take",
+      "story": "To take ear hand bends down drooping saying \"Chu\"!",
+      "primitives": []
+    },
+    {
+      "id": 668,
+      "character": "趣",
+      "pinyin": "qu",
+      "tone": 4,
+      "meaning": "an Interest",
+      "story": "An interest take walk commands \"Chu!\" sharply engaging!",
+      "primitives": []
+    },
+    {
+      "id": 669,
+      "character": "最",
+      "pinyin": "zui",
+      "tone": 4,
+      "meaning": "most",
+      "story": "Most ear take sun yells \"Zway!\" sharply utmost!",
+      "primitives": []
+    },
+    {
+      "id": 670,
+      "character": "職",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "Job",
+      "story": "A job ear sound questions \"Zhi? Working?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 671,
+      "character": "聖",
+      "pinyin": "sheng",
+      "tone": 4,
+      "meaning": "holy",
+      "story": "Holy ear king commands \"Sheng!\" sharply divine!",
+      "primitives": []
+    },
+    {
+      "id": 672,
+      "character": "敢",
+      "pinyin": "gan",
+      "tone": 3,
+      "meaning": "brave",
+      "story": "Brave ear strike bends down drooping saying \"Gan\"!",
+      "primitives": []
+    },
+    {
+      "id": 673,
+      "character": "嚴",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "strict",
+      "story": "Strict brave mouth questions \"Yan? Severe?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 674,
+      "character": "曼",
+      "pinyin": "man",
+      "tone": 4,
+      "meaning": "drawn out",
+      "story": "Drawn out sun eye commands \"Man!\" sharply extended!",
+      "primitives": []
+    },
+    {
+      "id": 675,
+      "character": "慢",
+      "pinyin": "man",
+      "tone": 4,
+      "meaning": "slow",
+      "story": "Slow heart drawn out yells \"Man!\" sharply gradual!",
+      "primitives": []
+    },
+    {
+      "id": 676,
+      "character": "漫",
+      "pinyin": "man",
+      "tone": 4,
+      "meaning": "to overflow",
+      "story": "To overflow water slow commands \"Man!\" sharply flooding!",
+      "primitives": []
+    },
+    {
+      "id": 677,
+      "character": "環",
+      "pinyin": "huan",
+      "tone": 2,
+      "meaning": "a Ring",
+      "story": "A ring jade surround questions \"Hwan? Circular?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 678,
+      "character": "還",
+      "pinyin": "huan",
+      "tone": 2,
+      "meaning": "to give back",
+      "story": "To give back walk ring questions \"Hwan? Return?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 679,
+      "character": "夫",
+      "pinyin": "fu",
+      "tone": 1,
+      "meaning": "Husband",
+      "story": "Husband big questions \"Foo? My man?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 680,
+      "character": "規",
+      "pinyin": "gui",
+      "tone": 1,
+      "meaning": "Regulations",
+      "story": "Regulations see husband sings \"Gway!\" cheerfully rules!",
+      "primitives": []
+    },
+    {
+      "id": 681,
+      "character": "替",
+      "pinyin": "ti",
+      "tone": 4,
+      "meaning": "to replace",
+      "story": "To replace two husband day commands \"Ti!\" sharply substituting!",
+      "primitives": []
+    },
+    {
+      "id": 682,
+      "character": "失",
+      "pinyin": "shi",
+      "tone": 1,
+      "meaning": "to lose",
+      "story": "To lose husband hand sings \"Shi!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 683,
+      "character": "臣",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "Feudal Official",
+      "story": "Feudal official bound questions \"Chen? Serving?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 684,
+      "character": "臨",
+      "pinyin": "lin",
+      "tone": 2,
+      "meaning": "to be about to",
+      "story": "To be about to official goods questions \"Lin? Soon?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

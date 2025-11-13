@@ -1,0 +1,167 @@
+{
+  "lesson": 93,
+  "characters": [
+    {
+      "id": 1656,
+      "character": "帕",
+      "pinyin": "pa",
+      "tone": 4,
+      "meaning": "handkerchief",
+      "story": "Handkerchief towel white commands sharply \"Pah!\" - cloth wipe!",
+      "primitives": []
+    },
+    {
+      "id": 1657,
+      "character": "帖",
+      "pinyin": "tie",
+      "tone": 1,
+      "meaning": "note",
+      "story": "Note towel tell fortunes sings \"Tyeh!\" cheerfully - memo invitation!",
+      "primitives": []
+    },
+    {
+      "id": 1658,
+      "character": "帆",
+      "pinyin": "fan",
+      "tone": 1,
+      "meaning": "sail",
+      "story": "Sail towel wind questions \"Fahn? Catching breeze?\" curiously - canvas!",
+      "primitives": []
+    },
+    {
+      "id": 1659,
+      "character": "幅",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "width of cloth",
+      "story": "Width of cloth towel wealth questions \"Foo? Measure?\" curiously - dimensions!",
+      "primitives": []
+    },
+    {
+      "id": 1660,
+      "character": "錦",
+      "pinyin": "jin",
+      "tone": 3,
+      "meaning": "brocade",
+      "story": "Brocade metal white bends down drooping \"Jin\" - silk fabric!",
+      "primitives": []
+    },
+    {
+      "id": 1661,
+      "character": "沛",
+      "pinyin": "pei",
+      "tone": 4,
+      "meaning": "copious",
+      "story": "Copious water market commands sharply \"Pay!\" - abundant plentiful!",
+      "primitives": []
+    },
+    {
+      "id": 1662,
+      "character": "柿",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "persimmon",
+      "story": "Persimmon tree market commands sharply \"Shir!\" - sweet fruit!",
+      "primitives": []
+    },
+    {
+      "id": 1663,
+      "character": "鬧",
+      "pinyin": "nao",
+      "tone": 4,
+      "meaning": "stir up trouble",
+      "story": "Stir up trouble gate market commands sharply \"Nao!\" - noisy disturbance!",
+      "primitives": []
+    },
+    {
+      "id": 1664,
+      "character": "棘",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "thorn bushes",
+      "story": "Thorn bushes two thorns question \"Jee? Prickly?\" curiously - brambles!",
+      "primitives": []
+    },
+    {
+      "id": 1665,
+      "character": "棗",
+      "pinyin": "zao",
+      "tone": 3,
+      "meaning": "jujube",
+      "story": "Jujube thorns on top of thorns bends down drooping \"Dzao\" - Chinese date!",
+      "primitives": []
+    },
+    {
+      "id": 1666,
+      "character": "蕾",
+      "pinyin": "lei",
+      "tone": 3,
+      "meaning": "flower bud",
+      "story": "Flower bud flowers thunder bends down drooping \"Lay\" - unopened bloom!",
+      "primitives": []
+    },
+    {
+      "id": 1667,
+      "character": "吞",
+      "pinyin": "tun",
+      "tone": 1,
+      "meaning": "gulp down",
+      "story": "Gulp down mouth swallow sings \"Twun!\" cheerfully - devour!",
+      "primitives": []
+    },
+    {
+      "id": 1668,
+      "character": "妖",
+      "pinyin": "yao",
+      "tone": 1,
+      "meaning": "bewitching",
+      "story": "Bewitching woman die young sings \"Yao!\" cheerfully - enchanting demon!",
+      "primitives": []
+    },
+    {
+      "id": 1669,
+      "character": "沃",
+      "pinyin": "wo",
+      "tone": 4,
+      "meaning": "fertile",
+      "story": "Fertile water die young commands sharply \"Woh!\" - productive rich soil!",
+      "primitives": []
+    },
+    {
+      "id": 1670,
+      "character": "轎",
+      "pinyin": "jiao",
+      "tone": 4,
+      "meaning": "sedan chair",
+      "story": "Sedan chair car tall commands sharply \"Jyao!\" - palanquin carriage!",
+      "primitives": []
+    },
+    {
+      "id": 1671,
+      "character": "垃",
+      "pinyin": "la",
+      "tone": 1,
+      "meaning": "garbage",
+      "story": "Garbage soil pull sings \"Lah!\" cheerfully - trash rubbish!",
+      "primitives": []
+    },
+    {
+      "id": 1672,
+      "character": "啼",
+      "pinyin": "ti",
+      "tone": 2,
+      "meaning": "weep aloud",
+      "story": "Weep aloud mouth sovereign questions \"Tee? Cry?\" curiously - rooster crow wail!",
+      "primitives": []
+    },
+    {
+      "id": 1673,
+      "character": "蒂",
+      "pinyin": "di",
+      "tone": 4,
+      "meaning": "fruit stem",
+      "story": "Fruit stem flowers sovereign commands sharply \"Dee!\" - plant base clitoris!",
+      "primitives": []
+    }
+  ]
+}

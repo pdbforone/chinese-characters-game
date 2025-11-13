@@ -1,0 +1,167 @@
+{
+  "lesson": 155,
+  "characters": [
+    {
+      "id": 2775,
+      "character": "鞏",
+      "pinyin": "gong",
+      "tone": 3,
+      "meaning": "strengthen",
+      "story": "The I-beam and ordinary leather bend down drooping to strengthen, consolidate, and fortify the structure.",
+      "primitives": []
+    },
+    {
+      "id": 2776,
+      "character": "霸",
+      "pinyin": "ba",
+      "tone": 4,
+      "meaning": "tyrant",
+      "story": "\"BAH!\" the weather commands sharply - a tyrant, a despot who dominates!",
+      "primitives": []
+    },
+    {
+      "id": 2777,
+      "character": "壩",
+      "pinyin": "ba",
+      "tone": 4,
+      "meaning": "dam",
+      "story": "\"BAH!\" the soil and tyrant command sharply - building a dam, embankment, and barrier!",
+      "primitives": []
+    },
+    {
+      "id": 2778,
+      "character": "勒",
+      "pinyin": "le",
+      "tone": 4,
+      "meaning": "tighten",
+      "story": "\"LUH!\" the muscle commands sharply - to tighten, strangle, and constrict!",
+      "primitives": []
+    },
+    {
+      "id": 2779,
+      "character": "鞠",
+      "pinyin": "ju",
+      "tone": 1,
+      "meaning": "bow respectfully",
+      "story": "\"JYOO!\" the leather and rice sing cheerfully as he bows respectfully, kowtowing and saluting!",
+      "primitives": []
+    },
+    {
+      "id": 2780,
+      "character": "靴",
+      "pinyin": "xue",
+      "tone": 1,
+      "meaning": "boots",
+      "story": "\"SHWEH!\" the leather transforms and sings cheerfully - boots, shoes, and footwear!",
+      "primitives": []
+    },
+    {
+      "id": 2781,
+      "character": "鞭",
+      "pinyin": "bian",
+      "tone": 1,
+      "meaning": "whip",
+      "story": "\"BYEN!\" the leather sings cheerfully when convenient - a whip to lash and strike!",
+      "primitives": []
+    },
+    {
+      "id": 2782,
+      "character": "芽",
+      "pinyin": "ya",
+      "tone": 2,
+      "meaning": "sprout",
+      "story": "\"YAH?\" the flowers question curiously - is this a sprout, a seedling, or bean shoots?",
+      "primitives": []
+    },
+    {
+      "id": 2783,
+      "character": "訝",
+      "pinyin": "ya",
+      "tone": 4,
+      "meaning": "surprised",
+      "story": "\"YAH!\" the words and tusk command sharply - surprised, stunned, and astonished!",
+      "primitives": []
+    },
+    {
+      "id": 2784,
+      "character": "撐",
+      "pinyin": "cheng",
+      "tone": 1,
+      "meaning": "prop up",
+      "story": "\"CHUNG!\" the fingers sing cheerfully as they prop up, support, and hold the tent!",
+      "primitives": []
+    },
+    {
+      "id": 2785,
+      "character": "雅",
+      "pinyin": "ya",
+      "tone": 3,
+      "meaning": "polished",
+      "story": "The tusk and turkey bend down drooping - polished, elegant, and refined in the room before goodbye.",
+      "primitives": []
+    },
+    {
+      "id": 2786,
+      "character": "邪",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "wicked",
+      "story": "\"SHYEH?\" the tusk and city walls question curiously - is that wicked, evil with a sinister laugh?",
+      "primitives": []
+    },
+    {
+      "id": 2787,
+      "character": "奧",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "of great depth",
+      "story": "\"AO!\" the drop, helmet, and droppings command sharply - of great depth, profound, and mysterious!",
+      "primitives": []
+    },
+    {
+      "id": 2788,
+      "character": "澳",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "deep inlet",
+      "story": "\"AO!\" the water commands sharply - a deep inlet, a bay, and harbor!",
+      "primitives": []
+    },
+    {
+      "id": 2789,
+      "character": "懊",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "remorseful",
+      "story": "\"AO!\" the state of mind commands sharply about the depth - remorseful, regretful, and ashamed!",
+      "primitives": []
+    },
+    {
+      "id": 2790,
+      "character": "悉",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "be informed",
+      "story": "\"SHEE!\" the heart sings cheerfully - to be informed, to know, and to learn!",
+      "primitives": []
+    },
+    {
+      "id": 2791,
+      "character": "竊",
+      "pinyin": "qie",
+      "tone": 4,
+      "meaning": "pilfer",
+      "story": "\"CHYEH!\" the hole, droppings, magic wand, prisoner, and glass cover command sharply - to pilfer and steal like a thief!",
+      "primitives": []
+    },
+    {
+      "id": 2792,
+      "character": "審",
+      "pinyin": "shen",
+      "tone": 3,
+      "meaning": "painstaking",
+      "story": "The house bends down drooping with painstaking care - to examine with aesthetics.",
+      "primitives": []
+    }
+  ]
+}

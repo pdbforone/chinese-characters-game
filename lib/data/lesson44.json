@@ -1,0 +1,167 @@
+{
+  "lesson": 44,
+  "characters": [
+    {
+      "id": 775,
+      "character": "便",
+      "pinyin": "bian",
+      "tone": 4,
+      "meaning": "convenient",
+      "story": "Convenient person change commands \"Bian!\" sharply handy!",
+      "primitives": []
+    },
+    {
+      "id": 776,
+      "character": "丈",
+      "pinyin": "zhang",
+      "tone": 4,
+      "meaning": "100 Chinese Inches",
+      "story": "100 Chinese inches commands \"Zhang!\" sharply measuring!",
+      "primitives": []
+    },
+    {
+      "id": 777,
+      "character": "使",
+      "pinyin": "shi",
+      "tone": 3,
+      "meaning": "to use",
+      "story": "To use person officer bends down drooping saying \"Shi\"!",
+      "primitives": []
+    },
+    {
+      "id": 778,
+      "character": "久",
+      "pinyin": "jiu",
+      "tone": 3,
+      "meaning": "long time",
+      "story": "Long time person bend down drooping saying \"Jyo\"!",
+      "primitives": []
+    },
+    {
+      "id": 779,
+      "character": "畝",
+      "pinyin": "mu",
+      "tone": 3,
+      "meaning": "Chinese Acre",
+      "story": "Chinese acre field long time bends down drooping saying \"Moo\"!",
+      "primitives": []
+    },
+    {
+      "id": 780,
+      "character": "丙",
+      "pinyin": "bing",
+      "tone": 3,
+      "meaning": "third",
+      "story": "Third one inside bends down drooping saying \"Bing\"!",
+      "primitives": []
+    },
+    {
+      "id": 781,
+      "character": "柄",
+      "pinyin": "bing",
+      "tone": 3,
+      "meaning": "a Handle",
+      "story": "A handle tree third bends down drooping saying \"Bing\"!",
+      "primitives": []
+    },
+    {
+      "id": 782,
+      "character": "肉",
+      "pinyin": "rou",
+      "tone": 4,
+      "meaning": "Meat",
+      "story": "Meat person inside commands \"Ro!\" sharply meaty!",
+      "primitives": []
+    },
+    {
+      "id": 783,
+      "character": "腐",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "rotten",
+      "story": "Rotten meat office bends down drooping saying \"Foo\"!",
+      "primitives": []
+    },
+    {
+      "id": 784,
+      "character": "眾",
+      "pinyin": "zhong",
+      "tone": 4,
+      "meaning": "Multitude",
+      "story": "Multitude three people yell \"Zhong!\" sharply many!",
+      "primitives": []
+    },
+    {
+      "id": 785,
+      "character": "坐",
+      "pinyin": "zuo",
+      "tone": 4,
+      "meaning": "to sit",
+      "story": "To sit two people earth commands \"Zwoh!\" sharply seated!",
+      "primitives": []
+    },
+    {
+      "id": 786,
+      "character": "座",
+      "pinyin": "zuo",
+      "tone": 4,
+      "meaning": "Seat",
+      "story": "A seat building sit yells \"Zwoh!\" sharply positioned!",
+      "primitives": []
+    },
+    {
+      "id": 787,
+      "character": "檢",
+      "pinyin": "jian",
+      "tone": 3,
+      "meaning": "to examine",
+      "story": "To examine tree check bends down drooping saying \"Jian\"!",
+      "primitives": []
+    },
+    {
+      "id": 788,
+      "character": "臉",
+      "pinyin": "lian",
+      "tone": 3,
+      "meaning": "a Face",
+      "story": "A face flesh check bends down drooping saying \"Lian\"!",
+      "primitives": []
+    },
+    {
+      "id": 789,
+      "character": "來",
+      "pinyin": "lai",
+      "tone": 2,
+      "meaning": "to come",
+      "story": "To come wheat questions \"Lai? Arriving?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 790,
+      "character": "麥",
+      "pinyin": "mai",
+      "tone": 4,
+      "meaning": "Wheat",
+      "story": "Wheat walking grain commands \"Mai!\" sharply growing!",
+      "primitives": []
+    },
+    {
+      "id": 791,
+      "character": "喝",
+      "pinyin": "he",
+      "tone": 1,
+      "meaning": "to drink",
+      "story": "To drink mouth wheat sings \"Huh!\" cheerfully gulping!",
+      "primitives": []
+    },
+    {
+      "id": 792,
+      "character": "渴",
+      "pinyin": "ke",
+      "tone": 3,
+      "meaning": "thirsty",
+      "story": "Thirsty water drink bends down drooping saying \"Kuh\"!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 7,
+  "characters": [
+    {
+      "id": 109,
+      "character": "多",
+      "pinyin": "duo",
+      "tone": 1,
+      "meaning": "many",
+      "story": "Many evenings ask \"Duo? Why so many nights?\" questioning curiously!",
+      "primitives": []
+    },
+    {
+      "id": 110,
+      "character": "夠",
+      "pinyin": "gou",
+      "tone": 4,
+      "meaning": "enough",
+      "story": "Evening sentence commands \"Go!\" sharply when it's enough!",
+      "primitives": []
+    },
+    {
+      "id": 111,
+      "character": "外",
+      "pinyin": "wai",
+      "tone": 4,
+      "meaning": "outside",
+      "story": "Outside the evening divination yells \"Why!\" sharply beyond!",
+      "primitives": []
+    },
+    {
+      "id": 112,
+      "character": "名",
+      "pinyin": "ming",
+      "tone": 2,
+      "meaning": "a Name",
+      "story": "A name in the evening mouth questions \"Ming? Who am I?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 113,
+      "character": "厚",
+      "pinyin": "hou",
+      "tone": 4,
+      "meaning": "thick",
+      "story": "Thick cliff of day and child commands \"Ho!\" sharply and solid!",
+      "primitives": []
+    },
+    {
+      "id": 114,
+      "character": "石",
+      "pinyin": "shi",
+      "tone": 2,
+      "meaning": "stone",
+      "story": "A stone at the cliff asks \"Shi? How hard?\" questioning curiously!",
+      "primitives": []
+    },
+    {
+      "id": 115,
+      "character": "砂",
+      "pinyin": "sha",
+      "tone": 1,
+      "meaning": "Gravel",
+      "story": "Gravel stones sing \"Sha!\" cheerfully scattered few and small!",
+      "primitives": []
+    },
+    {
+      "id": 116,
+      "character": "妙",
+      "pinyin": "miao",
+      "tone": 4,
+      "meaning": "wonderful",
+      "story": "A wonderful woman commands \"Miao!\" sharply with small joy!",
+      "primitives": []
+    },
+    {
+      "id": 117,
+      "character": "肖",
+      "pinyin": "xiao",
+      "tone": 4,
+      "meaning": "to resemble",
+      "story": "To resemble small flesh yells \"Shyao!\" sharply alike!",
+      "primitives": []
+    },
+    {
+      "id": 118,
+      "character": "削",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "to peel",
+      "story": "To peel with knife singing \"Shyao!\" happily removing small bits!",
+      "primitives": []
+    },
+    {
+      "id": 119,
+      "character": "光",
+      "pinyin": "guang",
+      "tone": 1,
+      "meaning": "ray",
+      "story": "A ray of fire on legs sings \"Gwang!\" cheerfully bright!",
+      "primitives": []
+    },
+    {
+      "id": 120,
+      "character": "太",
+      "pinyin": "tai",
+      "tone": 4,
+      "meaning": "overly",
+      "story": "Overly large with a dot yells \"Tai!\" sharply too much!",
+      "primitives": []
+    },
+    {
+      "id": 121,
+      "character": "省",
+      "pinyin": "sheng",
+      "tone": 3,
+      "meaning": "to economize",
+      "story": "To economize, the eye bends down drooping, saying \"Sheng\" to save!",
+      "primitives": []
+    },
+    {
+      "id": 122,
+      "character": "奇",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "strange",
+      "story": "A strange large person questions \"Chi? Why so odd?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 123,
+      "character": "川",
+      "pinyin": "chuan",
+      "tone": 1,
+      "meaning": "Stream",
+      "story": "A stream flows cheerfully singing \"Chuan!\" in three happy channels!",
+      "primitives": []
+    },
+    {
+      "id": 124,
+      "character": "州",
+      "pinyin": "zhou",
+      "tone": 1,
+      "meaning": "a state",
+      "story": "A state with stream and dots sings \"Joe!\" cheerfully united!",
+      "primitives": []
+    },
+    {
+      "id": 125,
+      "character": "順",
+      "pinyin": "shun",
+      "tone": 4,
+      "meaning": "to obey",
+      "story": "To obey, the stream flows by the page, commanding \"Shun!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 126,
+      "character": "水",
+      "pinyin": "shui",
+      "tone": 3,
+      "meaning": "Water",
+      "story": "Water bends down drooping in streams saying \"Shway\"!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 35,
+  "characters": [
+    {
+      "id": 613,
+      "character": "抓",
+      "pinyin": "zhua",
+      "tone": 1,
+      "meaning": "to grab",
+      "story": "To grab hand claw sings \"Zhwa!\" cheerfully catching!",
+      "primitives": []
+    },
+    {
+      "id": 614,
+      "character": "采",
+      "pinyin": "cai",
+      "tone": 3,
+      "meaning": "to pluck",
+      "story": "To pluck claw tree bends down drooping saying \"Tsai\"!",
+      "primitives": []
+    },
+    {
+      "id": 615,
+      "character": "採",
+      "pinyin": "cai",
+      "tone": 3,
+      "meaning": "to pick",
+      "story": "To pick hand pluck bends down drooping saying \"Tsai\"!",
+      "primitives": []
+    },
+    {
+      "id": 616,
+      "character": "菜",
+      "pinyin": "cai",
+      "tone": 4,
+      "meaning": "Vegetable",
+      "story": "Vegetable grass pick commands \"Tsai!\" sharply growing!",
+      "primitives": []
+    },
+    {
+      "id": 617,
+      "character": "受",
+      "pinyin": "shou",
+      "tone": 4,
+      "meaning": "to accept",
+      "story": "To accept claw hand commands \"Show!\" sharply receiving!",
+      "primitives": []
+    },
+    {
+      "id": 618,
+      "character": "授",
+      "pinyin": "shou",
+      "tone": 4,
+      "meaning": "to confer",
+      "story": "To confer hand accept yells \"Show!\" sharply granting!",
+      "primitives": []
+    },
+    {
+      "id": 619,
+      "character": "愛",
+      "pinyin": "ai",
+      "tone": 4,
+      "meaning": "Love",
+      "story": "Love claw heart foot commands \"Eye!\" sharply caring!",
+      "primitives": []
+    },
+    {
+      "id": 620,
+      "character": "雄",
+      "pinyin": "xiong",
+      "tone": 2,
+      "meaning": "grand",
+      "story": "A grand bird questions \"Shyong? Majestic?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 621,
+      "character": "台",
+      "pinyin": "tai",
+      "tone": 2,
+      "meaning": "Platform",
+      "story": "A platform mouth sings \"Tai?\" cheerfully questioning!",
+      "primitives": []
+    },
+    {
+      "id": 622,
+      "character": "治",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "to govern",
+      "story": "To govern water platform commands \"Zhi!\" sharply ruling!",
+      "primitives": []
+    },
+    {
+      "id": 623,
+      "character": "始",
+      "pinyin": "shi",
+      "tone": 3,
+      "meaning": "to commence",
+      "story": "To commence woman platform bends down drooping saying \"Shi\"!",
+      "primitives": []
+    },
+    {
+      "id": 624,
+      "character": "去",
+      "pinyin": "qu",
+      "tone": 4,
+      "meaning": "to go",
+      "story": "To go private earth commands \"Chu!\" sharply leaving!",
+      "primitives": []
+    },
+    {
+      "id": 625,
+      "character": "法",
+      "pinyin": "fa",
+      "tone": 3,
+      "meaning": "Method",
+      "story": "Method water go bends down drooping saying \"Fa\"!",
+      "primitives": []
+    },
+    {
+      "id": 626,
+      "character": "至",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "until",
+      "story": "Until arrow earth commands \"Zhi!\" sharply arriving!",
+      "primitives": []
+    },
+    {
+      "id": 627,
+      "character": "室",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Room",
+      "story": "A room house until yells \"Shi!\" sharply enclosed!",
+      "primitives": []
+    },
+    {
+      "id": 628,
+      "character": "到",
+      "pinyin": "dao",
+      "tone": 4,
+      "meaning": "to arrive",
+      "story": "To arrive until knife commands \"Dao!\" sharply reaching!",
+      "primitives": []
+    },
+    {
+      "id": 629,
+      "character": "互",
+      "pinyin": "hu",
+      "tone": 4,
+      "meaning": "mutual",
+      "story": "Mutual together commands \"Hoo!\" sharply reciprocal!",
+      "primitives": []
+    },
+    {
+      "id": 630,
+      "character": "充",
+      "pinyin": "chong",
+      "tone": 1,
+      "meaning": "sufficient",
+      "story": "Sufficient child sings \"Chong!\" cheerfully full!",
+      "primitives": []
+    }
+  ]
+}

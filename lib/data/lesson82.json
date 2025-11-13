@@ -1,0 +1,167 @@
+{
+  "lesson": 82,
+  "characters": [
+    {
+      "id": 1458,
+      "character": "那",
+      "pinyin": "na",
+      "tone": 4,
+      "meaning": "that",
+      "story": "That city owe commands sharply \"Nah!\" - that one those interrogative!",
+      "primitives": []
+    },
+    {
+      "id": 1459,
+      "character": "哪",
+      "pinyin": "na",
+      "tone": 3,
+      "meaning": "which?",
+      "story": "Which mouth that bends down drooping \"Nah\" - how where!",
+      "primitives": []
+    },
+    {
+      "id": 1460,
+      "character": "巫",
+      "pinyin": "wu",
+      "tone": 1,
+      "meaning": "Witch",
+      "story": "Witch person power sings \"Woo!\" cheerfully - sorceress!",
+      "primitives": []
+    },
+    {
+      "id": 1461,
+      "character": "靈",
+      "pinyin": "ling",
+      "tone": 2,
+      "meaning": "Spirit",
+      "story": "Spirit witch rain questions \"Ling? Soul?\" curiously - spiritual world spirits!",
+      "primitives": []
+    },
+    {
+      "id": 1462,
+      "character": "縣",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "County",
+      "story": "County eye thread commands sharply \"Shyan!\" - district prefecture!",
+      "primitives": []
+    },
+    {
+      "id": 1463,
+      "character": "懸",
+      "pinyin": "xuan",
+      "tone": 2,
+      "meaning": "to suspend",
+      "story": "To suspend heart county questions \"Shyuan? Hanging?\" curiously - dangle!",
+      "primitives": []
+    },
+    {
+      "id": 1464,
+      "character": "與",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "to offer",
+      "story": "To offer table hands bends down drooping \"Yoo\" - give grant bestow!",
+      "primitives": []
+    },
+    {
+      "id": 1465,
+      "character": "舉",
+      "pinyin": "ju",
+      "tone": 3,
+      "meaning": "to lift up",
+      "story": "To lift up offer hands bends down drooping \"Jyoo\" - hold up raise cite!",
+      "primitives": []
+    },
+    {
+      "id": 1466,
+      "character": "腦",
+      "pinyin": "nao",
+      "tone": 3,
+      "meaning": "Brain",
+      "story": "Brain body fierce bends down drooping \"Nao\" - mind thinking organ!",
+      "primitives": []
+    },
+    {
+      "id": 1467,
+      "character": "惱",
+      "pinyin": "nao",
+      "tone": 3,
+      "meaning": "Annoyed",
+      "story": "Annoyed heart brain bends down drooping \"Nao\" - mad vexed trouble!",
+      "primitives": []
+    },
+    {
+      "id": 1468,
+      "character": "專",
+      "pinyin": "zhuan",
+      "tone": 1,
+      "meaning": "Specialty",
+      "story": "Specialty one turn sings \"Jwahn!\" cheerfully - specialized expert particular!",
+      "primitives": []
+    },
+    {
+      "id": 1469,
+      "character": "傳",
+      "pinyin": "chuan",
+      "tone": 2,
+      "meaning": "to spread",
+      "story": "To spread person specialty questions \"Chwahn? Infect?\" curiously - transmit conduct!",
+      "primitives": []
+    },
+    {
+      "id": 1470,
+      "character": "轉",
+      "pinyin": "zhuan",
+      "tone": 4,
+      "meaning": "to rotate",
+      "story": "To rotate car specialty commands sharply \"Jwahn!\" - revolve turn circle!",
+      "primitives": []
+    },
+    {
+      "id": 1471,
+      "character": "團",
+      "pinyin": "tuan",
+      "tone": 2,
+      "meaning": "Troupe",
+      "story": "Troupe enclosure specialty questions \"Twahn? Regiment?\" curiously - group!",
+      "primitives": []
+    },
+    {
+      "id": 1472,
+      "character": "黃",
+      "pinyin": "huang",
+      "tone": 2,
+      "meaning": "yellow",
+      "story": "Yellow fields questions \"Hwahng? Golden?\" curiously - amber color!",
+      "primitives": []
+    },
+    {
+      "id": 1473,
+      "character": "廣",
+      "pinyin": "guang",
+      "tone": 3,
+      "meaning": "extensive",
+      "story": "Extensive building yellow bends down drooping \"Gwahng\" - numerous wide spread!",
+      "primitives": []
+    },
+    {
+      "id": 1474,
+      "character": "橫",
+      "pinyin": "heng",
+      "tone": 2,
+      "meaning": "horizontal",
+      "story": "Horizontal tree yellow commands sharply \"Hung!\" - across sideways!",
+      "primitives": []
+    },
+    {
+      "id": 1475,
+      "character": "窗",
+      "pinyin": "chuang",
+      "tone": 1,
+      "meaning": "Window",
+      "story": "Window hole chimney sings \"Chwahng!\" cheerfully - shutter opening!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 100,
+  "characters": [
+    {
+      "id": 1782,
+      "character": "惹",
+      "pinyin": "re",
+      "tone": 3,
+      "meaning": "provoke",
+      "story": "Provoke flowers heart bends down drooping \"Ruh\" - irritate stir up!",
+      "primitives": []
+    },
+    {
+      "id": 1783,
+      "character": "恩",
+      "pinyin": "en",
+      "tone": 1,
+      "meaning": "kindness",
+      "story": "Kindness cause heart sings \"Un!\" cheerfully - grace favor!",
+      "primitives": []
+    },
+    {
+      "id": 1784,
+      "character": "憶",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "recall",
+      "story": "Recall heart thought commands sharply \"Yee!\" - remember reminisce!",
+      "primitives": []
+    },
+    {
+      "id": 1785,
+      "character": "媳",
+      "pinyin": "xi",
+      "tone": 2,
+      "meaning": "daughter-in-law",
+      "story": "Daughter-in-law woman breath questions \"Shee? Bride?\" curiously - son's wife!",
+      "primitives": []
+    },
+    {
+      "id": 1786,
+      "character": "熄",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "put out",
+      "story": "Put out fire breath sings \"Shee!\" cheerfully - extinguish quench!",
+      "primitives": []
+    },
+    {
+      "id": 1787,
+      "character": "瑟",
+      "pinyin": "se",
+      "tone": 4,
+      "meaning": "Chinese harp",
+      "story": "Chinese harp jewel must commands sharply \"Suh!\" - lute zither!",
+      "primitives": []
+    },
+    {
+      "id": 1788,
+      "character": "泌",
+      "pinyin": "mi",
+      "tone": 4,
+      "meaning": "secrete",
+      "story": "Secrete water certainly commands sharply \"Mee!\" - discharge exude!",
+      "primitives": []
+    },
+    {
+      "id": 1789,
+      "character": "蜜",
+      "pinyin": "mi",
+      "tone": 4,
+      "meaning": "honey",
+      "story": "Honey insect certainly commands sharply \"Mee!\" - sweet nectar!",
+      "primitives": []
+    },
+    {
+      "id": 1790,
+      "character": "摩",
+      "pinyin": "mo",
+      "tone": 2,
+      "meaning": "rub",
+      "story": "Rub hemp hand questions \"Mwo? Massage?\" curiously - touch stroke!",
+      "primitives": []
+    },
+    {
+      "id": 1791,
+      "character": "蛾",
+      "pinyin": "e",
+      "tone": 2,
+      "meaning": "moth",
+      "story": "Moth insect miser questions \"Uh? Night flier?\" curiously - winged insect!",
+      "primitives": []
+    },
+    {
+      "id": 1792,
+      "character": "扒",
+      "pinyin": "ba",
+      "tone": 1,
+      "meaning": "pick pockets",
+      "story": "Pick pockets hand eight sings \"Bah!\" cheerfully - steal thief!",
+      "primitives": []
+    },
+    {
+      "id": 1793,
+      "character": "扣",
+      "pinyin": "kou",
+      "tone": 4,
+      "meaning": "button",
+      "story": "Button hand mouth commands sharply \"Koh!\" - fasten spike!",
+      "primitives": []
+    },
+    {
+      "id": 1794,
+      "character": "捐",
+      "pinyin": "juan",
+      "tone": 1,
+      "meaning": "contribute",
+      "story": "Contribute hand bored sings \"Jwan!\" cheerfully - donate give!",
+      "primitives": []
+    },
+    {
+      "id": 1795,
+      "character": "拍",
+      "pinyin": "pai",
+      "tone": 1,
+      "meaning": "racquet",
+      "story": "Racquet hand white sings \"Pigh!\" cheerfully - pat paddle!",
+      "primitives": []
+    },
+    {
+      "id": 1796,
+      "character": "啪",
+      "pinyin": "pa",
+      "tone": 1,
+      "meaning": "clapping sound",
+      "story": "Clapping sound mouth racket sings \"Pah!\" cheerfully - smack crack!",
+      "primitives": []
+    },
+    {
+      "id": 1797,
+      "character": "損",
+      "pinyin": "sun",
+      "tone": 3,
+      "meaning": "damage",
+      "story": "Damage hand employee bends down drooping \"Swun\" - harm injure!",
+      "primitives": []
+    },
+    {
+      "id": 1798,
+      "character": "扛",
+      "pinyin": "kang",
+      "tone": 2,
+      "meaning": "carry over the shoulder",
+      "story": "Carry over the shoulder hand labor sings \"Kahng!\" cheerfully - shoulder lift!",
+      "primitives": []
+    },
+    {
+      "id": 1799,
+      "character": "扎",
+      "pinyin": "zha",
+      "tone": 1,
+      "meaning": "prick",
+      "story": "Prick hand ten sings \"Jah!\" cheerfully - stab pierce struggle!",
+      "primitives": []
+    }
+  ]
+}

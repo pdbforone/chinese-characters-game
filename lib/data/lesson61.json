@@ -1,0 +1,167 @@
+{
+  "lesson": 61,
+  "characters": [
+    {
+      "id": 1080,
+      "character": "監",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "to supervise",
+      "story": "To supervise vessel with eyes sings \"Jian!\" cheerfully watching - inspecting closely!",
+      "primitives": []
+    },
+    {
+      "id": 1081,
+      "character": "籃",
+      "pinyin": "lan",
+      "tone": 2,
+      "meaning": "Basket",
+      "story": "A basket of bamboo supervises, questioning \"Lan? What's inside?\" curiously holding goods!",
+      "primitives": []
+    },
+    {
+      "id": 1082,
+      "character": "藍",
+      "pinyin": "lan",
+      "tone": 2,
+      "meaning": "blue",
+      "story": "Blue grass basket questions \"Lan? Why this color?\" curiously like indigo!",
+      "primitives": []
+    },
+    {
+      "id": 1083,
+      "character": "銀",
+      "pinyin": "yin",
+      "tone": 2,
+      "meaning": "Silver",
+      "story": "Silver gold and good question \"Yin? Precious metal?\" curiously shining!",
+      "primitives": []
+    },
+    {
+      "id": 1084,
+      "character": "跟",
+      "pinyin": "gen",
+      "tone": 1,
+      "meaning": "Heel",
+      "story": "A heel foot following sings \"Gen!\" cheerfully accompanying behind!",
+      "primitives": []
+    },
+    {
+      "id": 1085,
+      "character": "很",
+      "pinyin": "hen",
+      "tone": 3,
+      "meaning": "very",
+      "story": "Very much heel bends down drooping saying \"Hen\" - quite and rather!",
+      "primitives": []
+    },
+    {
+      "id": 1086,
+      "character": "根",
+      "pinyin": "gen",
+      "tone": 1,
+      "meaning": "Root",
+      "story": "A root tree at heel sings \"Gen!\" cheerfully - the basis below!",
+      "primitives": []
+    },
+    {
+      "id": 1087,
+      "character": "即",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "immediately",
+      "story": "Immediately person kneeling questions \"Ji? Right now?\" curiously - at once like silver stamp!",
+      "primitives": []
+    },
+    {
+      "id": 1088,
+      "character": "節",
+      "pinyin": "jie",
+      "tone": 2,
+      "meaning": "Holiday",
+      "story": "Holiday bamboo knot questions \"Jieh? Festival time?\" curiously celebrating segments!",
+      "primitives": []
+    },
+    {
+      "id": 1089,
+      "character": "退",
+      "pinyin": "tui",
+      "tone": 4,
+      "meaning": "to retreat",
+      "story": "To retreat walking backwards commands \"Tway!\" sharply withdrawing step by step!",
+      "primitives": []
+    },
+    {
+      "id": 1090,
+      "character": "腿",
+      "pinyin": "tui",
+      "tone": 3,
+      "meaning": "Leg",
+      "story": "A leg of flesh retreating bends down drooping saying \"Tway\" - limb moving back!",
+      "primitives": []
+    },
+    {
+      "id": 1091,
+      "character": "限",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "Limit",
+      "story": "Limit cliff retreat commands \"Shian!\" sharply - boundary and bound!",
+      "primitives": []
+    },
+    {
+      "id": 1092,
+      "character": "眼",
+      "pinyin": "yan",
+      "tone": 3,
+      "meaning": "Eyelet",
+      "story": "An eyelet eye looking bends down drooping saying \"Yan\" - hole of sight opening!",
+      "primitives": []
+    },
+    {
+      "id": 1093,
+      "character": "良",
+      "pinyin": "liang",
+      "tone": 2,
+      "meaning": "high-quality",
+      "story": "High-quality roots question \"Lyang? Very good?\" curiously virtuous!",
+      "primitives": []
+    },
+    {
+      "id": 1094,
+      "character": "浪",
+      "pinyin": "lang",
+      "tone": 4,
+      "meaning": "Breakers",
+      "story": "Breakers water wander, commanding \"Lang!\" sharply - waves unrestrained!",
+      "primitives": []
+    },
+    {
+      "id": 1095,
+      "character": "娘",
+      "pinyin": "niang",
+      "tone": 2,
+      "meaning": "Mom",
+      "story": "Mom woman good questions \"Nyang? Mother dear?\" curiously - wife caring!",
+      "primitives": []
+    },
+    {
+      "id": 1096,
+      "character": "食",
+      "pinyin": "shi",
+      "tone": 2,
+      "meaning": "Food",
+      "story": "Food on person questions \"Shi? What to eat?\" curiously - animal feed!",
+      "primitives": []
+    },
+    {
+      "id": 1097,
+      "character": "飯",
+      "pinyin": "fan",
+      "tone": 4,
+      "meaning": "Meal",
+      "story": "A meal of food anti-commands \"Fan!\" sharply - cooked rice!",
+      "primitives": []
+    }
+  ]
+}

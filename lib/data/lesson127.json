@@ -1,0 +1,167 @@
+{
+  "lesson": 127,
+  "characters": [
+    {
+      "id": 2269,
+      "character": "耀",
+      "pinyin": "yao",
+      "tone": 4,
+      "meaning": "show off",
+      "story": "Show off light feathers commands sharply \"Yao!\" - glory dazzle honor!",
+      "primitives": []
+    },
+    {
+      "id": 2270,
+      "character": "猾",
+      "pinyin": "hua",
+      "tone": 2,
+      "meaning": "cunning",
+      "story": "Cunning pack wild dogs skeleton questions \"Hwah? Crafty?\" curiously - sly ruthless!",
+      "primitives": []
+    },
+    {
+      "id": 2271,
+      "character": "髓",
+      "pinyin": "sui",
+      "tone": 3,
+      "meaning": "marrow",
+      "story": "Marrow skeleton left flesh road bends down drooping \"Sway\" - bone interior!",
+      "primitives": []
+    },
+    {
+      "id": 2272,
+      "character": "髒",
+      "pinyin": "zang",
+      "tone": 1,
+      "meaning": "dirty",
+      "story": "Dirty skeleton stolen goods sings \"Dzahng!\" cheerfully - filthy unclean!",
+      "primitives": []
+    },
+    {
+      "id": 2273,
+      "character": "渦",
+      "pinyin": "wo",
+      "tone": 1,
+      "meaning": "whirlpool",
+      "story": "Whirlpool water jawbone sings \"Woh!\" cheerfully - vortex eddy!",
+      "primitives": []
+    },
+    {
+      "id": 2274,
+      "character": "鍋",
+      "pinyin": "guo",
+      "tone": 1,
+      "meaning": "pot",
+      "story": "Pot metal jawbone sings \"Gwoh!\" cheerfully - cooking vessel!",
+      "primitives": []
+    },
+    {
+      "id": 2275,
+      "character": "蝸",
+      "pinyin": "wo",
+      "tone": 1,
+      "meaning": "snail",
+      "story": "Snail insect jawbone sings \"Woh!\" cheerfully - slow mollusk!",
+      "primitives": []
+    },
+    {
+      "id": 2276,
+      "character": "禍",
+      "pinyin": "huo",
+      "tone": 4,
+      "meaning": "misfortune",
+      "story": "Misfortune altar jawbone commands sharply \"Hwoh!\" - disaster calamity!",
+      "primitives": []
+    },
+    {
+      "id": 2277,
+      "character": "陌",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "footpath",
+      "story": "Footpath pinnacle white commands sharply \"Mwo!\" - trail lane!",
+      "primitives": []
+    },
+    {
+      "id": 2278,
+      "character": "隙",
+      "pinyin": "xi",
+      "tone": 4,
+      "meaning": "rift",
+      "story": "Rift pinnacle few spring commands sharply \"Shee!\" - gap crack crevice!",
+      "primitives": []
+    },
+    {
+      "id": 2279,
+      "character": "陡",
+      "pinyin": "dou",
+      "tone": 3,
+      "meaning": "steep",
+      "story": "Steep pinnacle walk bends down drooping \"Doh\" - abrupt precipitous!",
+      "primitives": []
+    },
+    {
+      "id": 2280,
+      "character": "障",
+      "pinyin": "zhang",
+      "tone": 4,
+      "meaning": "barrier",
+      "story": "Barrier pinnacle chapter commands sharply \"Jahng!\" - obstruction golden thread shield!",
+      "primitives": []
+    },
+    {
+      "id": 2281,
+      "character": "陪",
+      "pinyin": "pei",
+      "tone": 2,
+      "meaning": "accompany",
+      "story": "Accompany pinnacle muzzle questions \"Pay? Escort?\" curiously - attend join!",
+      "primitives": []
+    },
+    {
+      "id": 2282,
+      "character": "隧",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "tunnel",
+      "story": "Tunnel pinnacle satisfy commands sharply \"Sway!\" - underground passage escape!",
+      "primitives": []
+    },
+    {
+      "id": 2283,
+      "character": "墜",
+      "pinyin": "zhui",
+      "tone": 4,
+      "meaning": "plunge",
+      "story": "Plunge soil team commands sharply \"Jway!\" - fall drop!",
+      "primitives": []
+    },
+    {
+      "id": 2284,
+      "character": "陋",
+      "pinyin": "lou",
+      "tone": 4,
+      "meaning": "undesirable",
+      "story": "Undesirable pinnacle container commands sharply \"Loh!\" - ugly shabby!",
+      "primitives": []
+    },
+    {
+      "id": 2285,
+      "character": "挖",
+      "pinyin": "wa",
+      "tone": 1,
+      "meaning": "dig",
+      "story": "Dig hand frog sings \"Wah!\" cheerfully - excavate scoop!",
+      "primitives": []
+    },
+    {
+      "id": 2286,
+      "character": "窯",
+      "pinyin": "yao",
+      "tone": 2,
+      "meaning": "kiln",
+      "story": "Kiln hole sheep cooking fire questions \"Yao? Oven?\" curiously - pottery furnace!",
+      "primitives": []
+    }
+  ]
+}

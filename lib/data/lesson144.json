@@ -1,0 +1,167 @@
+{
+  "lesson": 144,
+  "characters": [
+    {
+      "id": 2574,
+      "character": "軒",
+      "pinyin": "xuan",
+      "tone": 1,
+      "meaning": "veranda",
+      "story": "\"SHWEN!\" the car sings cheerfully - a veranda, a pavilion from the untamed!",
+      "primitives": []
+    },
+    {
+      "id": 2575,
+      "character": "肝",
+      "pinyin": "gan",
+      "tone": 1,
+      "meaning": "liver",
+      "story": "\"GAN!\" the flesh and offend sing cheerfully - the liver organ for a transplant!",
+      "primitives": []
+    },
+    {
+      "id": 2576,
+      "character": "刊",
+      "pinyin": "kan",
+      "tone": 1,
+      "meaning": "publication",
+      "story": "\"KAN!\" the clothesline and saber sing cheerfully - a publication, a periodical magazine!",
+      "primitives": []
+    },
+    {
+      "id": 2577,
+      "character": "汗",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "sweat",
+      "story": "\"HAN?\" the water questions curiously after the offend - is this sweat, perspiration on the hair?",
+      "primitives": []
+    },
+    {
+      "id": 2578,
+      "character": "桿",
+      "pinyin": "gan",
+      "tone": 3,
+      "meaning": "shaft",
+      "story": "The tree bends down drooping - the shaft, a pole and rod!",
+      "primitives": []
+    },
+    {
+      "id": 2579,
+      "character": "悍",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "bold",
+      "story": "\"HAN!\" the state of mind commands sharply during drought - bold, fierce and brave!",
+      "primitives": []
+    },
+    {
+      "id": 2580,
+      "character": "徐",
+      "pinyin": "xu",
+      "tone": 2,
+      "meaning": "slowly",
+      "story": "\"SHOO?\" the queue questions curiously - moving slowly, gradual and leisurely?",
+      "primitives": []
+    },
+    {
+      "id": 2581,
+      "character": "敘",
+      "pinyin": "xu",
+      "tone": 4,
+      "meaning": "recount",
+      "story": "\"SHOO!\" the scale and taskmaster command sharply - recount, narrate and explain about qinghe!",
+      "primitives": []
+    },
+    {
+      "id": 2582,
+      "character": "塗",
+      "pinyin": "tu",
+      "tone": 2,
+      "meaning": "smear",
+      "story": "\"TOO?\" the soil questions curiously - to smear, apply and spread?",
+      "primitives": []
+    },
+    {
+      "id": 2583,
+      "character": "斜",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "slanting",
+      "story": "\"SHYEH?\" the scale and big dipper question curiously - slanting, tilted and diagonal?",
+      "primitives": []
+    },
+    {
+      "id": 2584,
+      "character": "喇",
+      "pinyin": "la",
+      "tone": 3,
+      "meaning": "flared horn",
+      "story": "The mouth, bundle and saber bend down drooping - a flared horn, a trumpet speaker!",
+      "primitives": []
+    },
+    {
+      "id": 2585,
+      "character": "嗽",
+      "pinyin": "sou",
+      "tone": 4,
+      "meaning": "hack",
+      "story": "\"SOH!\" the mouth, bundle and yawn command sharply - to hack, cough and wheeze!",
+      "primitives": []
+    },
+    {
+      "id": 2586,
+      "character": "賴",
+      "pinyin": "lai",
+      "tone": 4,
+      "meaning": "rely on",
+      "story": "\"LAI!\" the shells command sharply - to rely on, depend and blame!",
+      "primitives": []
+    },
+    {
+      "id": 2587,
+      "character": "懶",
+      "pinyin": "lan",
+      "tone": 3,
+      "meaning": "lazy",
+      "story": "The state of mind bends down drooping - lazy, idle and sluggish!",
+      "primitives": []
+    },
+    {
+      "id": 2588,
+      "character": "嫩",
+      "pinyin": "nen",
+      "tone": 4,
+      "meaning": "tender",
+      "story": "\"NUN!\" the woman, bundle and taskmaster command sharply - tender, soft young dew grass!",
+      "primitives": []
+    },
+    {
+      "id": 2589,
+      "character": "煉",
+      "pinyin": "lian",
+      "tone": 4,
+      "meaning": "refine",
+      "story": "\"LYEN!\" the fire commands sharply - to refine, smelt and purify!",
+      "primitives": []
+    },
+    {
+      "id": 2590,
+      "character": "鍊",
+      "pinyin": "lian",
+      "tone": 4,
+      "meaning": "chain",
+      "story": "\"LYEN!\" the metal commands sharply - a chain, a link for training!",
+      "primitives": []
+    },
+    {
+      "id": 2591,
+      "character": "腫",
+      "pinyin": "zhong",
+      "tone": 3,
+      "meaning": "swollen",
+      "story": "The flesh bends down drooping - swollen, bloated and puffy!",
+      "primitives": []
+    }
+  ]
+}

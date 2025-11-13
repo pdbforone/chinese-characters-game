@@ -1,0 +1,167 @@
+{
+  "lesson": 110,
+  "characters": [
+    {
+      "id": 1962,
+      "character": "殼",
+      "pinyin": "ke",
+      "tone": 2,
+      "meaning": "shell",
+      "story": "Shell soldier crown one wind missile questions \"Kuh? Husk?\" curiously - casing!",
+      "primitives": []
+    },
+    {
+      "id": 1963,
+      "character": "穀",
+      "pinyin": "gu",
+      "tone": 3,
+      "meaning": "cereal",
+      "story": "Cereal soldier crown one wild rice missile bends down drooping \"Goo\" - grain!",
+      "primitives": []
+    },
+    {
+      "id": 1964,
+      "character": "鍬",
+      "pinyin": "qiao",
+      "tone": 1,
+      "meaning": "shovel",
+      "story": "Shovel metal autumn sings \"Chyao!\" cheerfully - digging spade!",
+      "primitives": []
+    },
+    {
+      "id": 1965,
+      "character": "揪",
+      "pinyin": "jiu",
+      "tone": 1,
+      "meaning": "hold tight",
+      "story": "Hold tight fingers autumn sings \"Jyoh!\" cheerfully - grasp collar!",
+      "primitives": []
+    },
+    {
+      "id": 1966,
+      "character": "梨",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "pear",
+      "story": "Pear tree profit questions \"Lee? Fruit?\" curiously - sweet juicy!",
+      "primitives": []
+    },
+    {
+      "id": 1967,
+      "character": "犁",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "plow",
+      "story": "Plow profit cow questions \"Lee? Till?\" curiously - farming hoe!",
+      "primitives": []
+    },
+    {
+      "id": 1968,
+      "character": "曆",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "calendar",
+      "story": "Calendar cliff sun commands sharply \"Lee!\" - dates schedule!",
+      "primitives": []
+    },
+    {
+      "id": 1969,
+      "character": "糕",
+      "pinyin": "gao",
+      "tone": 1,
+      "meaning": "cake",
+      "story": "Cake rice high sings \"Gao!\" cheerfully - pastry dessert!",
+      "primitives": []
+    },
+    {
+      "id": 1970,
+      "character": "糊",
+      "pinyin": "hu",
+      "tone": 2,
+      "meaning": "batter",
+      "story": "Batter rice old questions \"Hoo? Mix?\" curiously - paste unclear!",
+      "primitives": []
+    },
+    {
+      "id": 1971,
+      "character": "粘",
+      "pinyin": "nian",
+      "tone": 2,
+      "meaning": "glue",
+      "story": "Glue rice fortune-telling questions \"Nyan? Stick?\" curiously - adhesive bean buns!",
+      "primitives": []
+    },
+    {
+      "id": 1972,
+      "character": "糧",
+      "pinyin": "liang",
+      "tone": 2,
+      "meaning": "provisions",
+      "story": "Provisions rice good questions \"Lyahng? Food?\" curiously - cereals!",
+      "primitives": []
+    },
+    {
+      "id": 1973,
+      "character": "菊",
+      "pinyin": "ju",
+      "tone": 2,
+      "meaning": "chrysanthemum",
+      "story": "Chrysanthemum flower bound up rice questions \"Jyoo? Bloom?\" curiously - autumn flower!",
+      "primitives": []
+    },
+    {
+      "id": 1974,
+      "character": "糙",
+      "pinyin": "cao",
+      "tone": 1,
+      "meaning": "rough",
+      "story": "Rough rice create sings \"Tsao!\" cheerfully - coarse shingles!",
+      "primitives": []
+    },
+    {
+      "id": 1975,
+      "character": "粒",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "grain",
+      "story": "Grain rice stand commands sharply \"Lee!\" - particle seed!",
+      "primitives": []
+    },
+    {
+      "id": 1976,
+      "character": "燦",
+      "pinyin": "can",
+      "tone": 4,
+      "meaning": "brilliant",
+      "story": "Brilliant fire magic wand evening crotch rice commands sharply \"Tsahn!\" - radiant!",
+      "primitives": []
+    },
+    {
+      "id": 1977,
+      "character": "粉",
+      "pinyin": "fen",
+      "tone": 3,
+      "meaning": "powder",
+      "story": "Powder rice divide bends down drooping \"Fun\" - dust cosmetic!",
+      "primitives": []
+    },
+    {
+      "id": 1978,
+      "character": "瞇",
+      "pinyin": "mi",
+      "tone": 1,
+      "meaning": "squint",
+      "story": "Squint eye rice sings \"Mee!\" cheerfully - narrow eyes!",
+      "primitives": []
+    },
+    {
+      "id": 1979,
+      "character": "幣",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "currency",
+      "story": "Currency towel Shredder commands sharply \"Bee!\" - money funds!",
+      "primitives": []
+    }
+  ]
+}

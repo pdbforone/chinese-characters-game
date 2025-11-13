@@ -1,0 +1,167 @@
+{
+  "lesson": 51,
+  "characters": [
+    {
+      "id": 1005,
+      "character": "絲",
+      "pinyin": "Si",
+      "tone": 5,
+      "meaning": "Silk",
+      "story": "Silk sings \"Si!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1006,
+      "character": "線",
+      "pinyin": "Xian",
+      "tone": 5,
+      "meaning": "Line",
+      "story": "Line commands \"Xian!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1007,
+      "character": "維",
+      "pinyin": "Wei",
+      "tone": 5,
+      "meaning": "to maintain",
+      "story": "to maintain questions \"Wei? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1008,
+      "character": "羅",
+      "pinyin": "Luo",
+      "tone": 5,
+      "meaning": "Silk Gauze",
+      "story": "Silk Gauze questions \"Luo? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1009,
+      "character": "續",
+      "pinyin": "Xu",
+      "tone": 5,
+      "meaning": "to continue",
+      "story": "to continue commands \"Xu!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1010,
+      "character": "統",
+      "pinyin": "Tong",
+      "tone": 5,
+      "meaning": "continuum",
+      "story": "continuum bends down drooping saying \"Tong\"!",
+      "primitives": []
+    },
+    {
+      "id": 1011,
+      "character": "給",
+      "pinyin": "Gei",
+      "tone": 5,
+      "meaning": "to give",
+      "story": "to give bends down drooping saying \"Gei\"!",
+      "primitives": []
+    },
+    {
+      "id": 1012,
+      "character": "結",
+      "pinyin": "Jie",
+      "tone": 5,
+      "meaning": "to tie",
+      "story": "to tie questions \"Jie? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1013,
+      "character": "終",
+      "pinyin": "Zhong",
+      "tone": 5,
+      "meaning": "end",
+      "story": "end sings \"Zhong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1014,
+      "character": "級",
+      "pinyin": "Ji",
+      "tone": 5,
+      "meaning": "a Rank",
+      "story": "a Rank questions \"Ji? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1015,
+      "character": "紀",
+      "pinyin": "Ji",
+      "tone": 5,
+      "meaning": "Epoch",
+      "story": "Epoch commands \"Ji!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1016,
+      "character": "紅",
+      "pinyin": "Hong",
+      "tone": 5,
+      "meaning": "red",
+      "story": "red questions \"Hong? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1017,
+      "character": "約",
+      "pinyin": "Yue",
+      "tone": 5,
+      "meaning": "to make an appointment",
+      "story": "to make an appointment sings \"Yue!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1018,
+      "character": "細",
+      "pinyin": "Xi",
+      "tone": 5,
+      "meaning": "fine",
+      "story": "fine commands \"Xi!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1019,
+      "character": "緊",
+      "pinyin": "Jin",
+      "tone": 5,
+      "meaning": "tight",
+      "story": "tight bends down drooping saying \"Jin\"!",
+      "primitives": []
+    },
+    {
+      "id": 1020,
+      "character": "織",
+      "pinyin": "Zhi",
+      "tone": 5,
+      "meaning": "to weave",
+      "story": "to weave sings \"Zhi!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1021,
+      "character": "網",
+      "pinyin": "Wang",
+      "tone": 5,
+      "meaning": "Net",
+      "story": "Net bends down drooping saying \"Wang\"!",
+      "primitives": []
+    },
+    {
+      "id": 1022,
+      "character": "綠",
+      "pinyin": "Lu",
+      "tone": 5,
+      "meaning": "green",
+      "story": "green commands \"Lu!\" yells!",
+      "primitives": []
+    }
+  ]
+}

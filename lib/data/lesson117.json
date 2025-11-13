@@ -1,0 +1,167 @@
+{
+  "lesson": 117,
+  "characters": [
+    {
+      "id": 2088,
+      "character": "屏",
+      "pinyin": "ping",
+      "tone": 2,
+      "meaning": "folding screen",
+      "story": "Folding screen flag puzzle questions \"Ping? Partition?\" curiously - women hiding!",
+      "primitives": []
+    },
+    {
+      "id": 2089,
+      "character": "屈",
+      "pinyin": "qu",
+      "tone": 1,
+      "meaning": "knuckle under",
+      "story": "Knuckle under flag exit sings \"Chyoo!\" cheerfully - yield submit!",
+      "primitives": []
+    },
+    {
+      "id": 2090,
+      "character": "掘",
+      "pinyin": "jue",
+      "tone": 2,
+      "meaning": "excavate",
+      "story": "Excavate hand exit questions \"Jyueh? Dig?\" curiously - unearth!",
+      "primitives": []
+    },
+    {
+      "id": 2091,
+      "character": "尺",
+      "pinyin": "chi",
+      "tone": 3,
+      "meaning": "ruler",
+      "story": "Ruler flag corpse bends down drooping \"Chir\" - measuring tool!",
+      "primitives": []
+    },
+    {
+      "id": 2092,
+      "character": "眉",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "eyebrows",
+      "story": "Eyebrows flag eye questions \"May? Brow?\" curiously - forehead hair ring!",
+      "primitives": []
+    },
+    {
+      "id": 2093,
+      "character": "媚",
+      "pinyin": "mei",
+      "tone": 4,
+      "meaning": "flatter",
+      "story": "Flatter woman eyebrows commands sharply \"May!\" - charm fawn over!",
+      "primitives": []
+    },
+    {
+      "id": 2094,
+      "character": "肩",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "shoulder",
+      "story": "Shoulder door flesh sings \"Jyan!\" cheerfully - body joint arm connection!",
+      "primitives": []
+    },
+    {
+      "id": 2095,
+      "character": "妒",
+      "pinyin": "du",
+      "tone": 4,
+      "meaning": "jealous of",
+      "story": "Jealous of woman door commands sharply \"Doo!\" - envious hateful bully!",
+      "primitives": []
+    },
+    {
+      "id": 2096,
+      "character": "淚",
+      "pinyin": "lei",
+      "tone": 4,
+      "meaning": "tears",
+      "story": "Tears water door commands sharply \"Lay!\" - crying drops!",
+      "primitives": []
+    },
+    {
+      "id": 2097,
+      "character": "啓",
+      "pinyin": "qi",
+      "tone": 3,
+      "meaning": "enlighten",
+      "story": "Enlighten door taskmaster mouth bends down drooping \"Chee\" - inspire open mind!",
+      "primitives": []
+    },
+    {
+      "id": 2098,
+      "character": "扇",
+      "pinyin": "shan",
+      "tone": 4,
+      "meaning": "fan",
+      "story": "Fan door wings commands sharply \"Shahn!\" - cooling device electric breeze!",
+      "primitives": []
+    },
+    {
+      "id": 2099,
+      "character": "奈",
+      "pinyin": "nai",
+      "tone": 4,
+      "meaning": "can't help but",
+      "story": "Can't help but St. Bernard altar commands sharply \"Nigh!\" - helpless inevitably!",
+      "primitives": []
+    },
+    {
+      "id": 2100,
+      "character": "款",
+      "pinyin": "kuan",
+      "tone": 3,
+      "meaning": "funds",
+      "story": "Funds samurai shellfish bends down drooping \"Kwahn\" - money terms!",
+      "primitives": []
+    },
+    {
+      "id": 2101,
+      "character": "祟",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "evil spirit",
+      "story": "Evil spirit altar mountain commands sharply \"Sway!\" - demon malevolent cultivators exorcise!",
+      "primitives": []
+    },
+    {
+      "id": 2102,
+      "character": "祝",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "wish well",
+      "story": "Wish well altar brother commands sharply \"Joo!\" - bless congratulate!",
+      "primitives": []
+    },
+    {
+      "id": 2103,
+      "character": "祥",
+      "pinyin": "xiang",
+      "tone": 2,
+      "meaning": "propitious",
+      "story": "Propitious altar piggy bank questions \"Shyahng? Auspicious?\" curiously - lucky fortunate!",
+      "primitives": []
+    },
+    {
+      "id": 2104,
+      "character": "祕",
+      "pinyin": "mi",
+      "tone": 4,
+      "meaning": "confidential",
+      "story": "Confidential altar certainly commands sharply \"Mee!\" - secret private!",
+      "primitives": []
+    },
+    {
+      "id": 2105,
+      "character": "慰",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "console",
+      "story": "Console Cardinal Richelieu heart commands sharply \"Way!\" - comfort solace!",
+      "primitives": []
+    }
+  ]
+}

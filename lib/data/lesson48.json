@@ -1,0 +1,167 @@
+{
+  "lesson": 48,
+  "characters": [
+    {
+      "id": 847,
+      "character": "油",
+      "pinyin": "you",
+      "tone": 2,
+      "meaning": "Oil",
+      "story": "Oil water wherefore questions \"Yo? Lubricating?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 848,
+      "character": "甲",
+      "pinyin": "jia",
+      "tone": 3,
+      "meaning": "first",
+      "story": "First shell bends down drooping saying \"Jia\"!",
+      "primitives": []
+    },
+    {
+      "id": 849,
+      "character": "押",
+      "pinyin": "ya",
+      "tone": 1,
+      "meaning": "to pawn",
+      "story": "To pawn hand first sings \"Ya!\" cheerfully depositing!",
+      "primitives": []
+    },
+    {
+      "id": 850,
+      "character": "申",
+      "pinyin": "shen",
+      "tone": 1,
+      "meaning": "to express",
+      "story": "To express day middle sings \"Shen!\" cheerfully stating!",
+      "primitives": []
+    },
+    {
+      "id": 851,
+      "character": "伸",
+      "pinyin": "shen",
+      "tone": 1,
+      "meaning": "to extend",
+      "story": "To extend person express sings \"Shen!\" cheerfully stretching!",
+      "primitives": []
+    },
+    {
+      "id": 852,
+      "character": "神",
+      "pinyin": "shen",
+      "tone": 2,
+      "meaning": "Gods",
+      "story": "Gods show express questions \"Shen? Divine?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 853,
+      "character": "果",
+      "pinyin": "guo",
+      "tone": 3,
+      "meaning": "Fruit",
+      "story": "Fruit field tree bends down drooping saying \"Gwoh\"!",
+      "primitives": []
+    },
+    {
+      "id": 854,
+      "character": "課",
+      "pinyin": "ke",
+      "tone": 4,
+      "meaning": "Lesson",
+      "story": "Lesson words fruit commands \"Kuh!\" sharply teaching!",
+      "primitives": []
+    },
+    {
+      "id": 855,
+      "character": "顆",
+      "pinyin": "ke",
+      "tone": 1,
+      "meaning": "Granule",
+      "story": "Granule fruit page sings \"Kuh!\" cheerfully tiny!",
+      "primitives": []
+    },
+    {
+      "id": 856,
+      "character": "斤",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "a Catty",
+      "story": "A catty ax sings \"Jeen!\" cheerfully weighing!",
+      "primitives": []
+    },
+    {
+      "id": 857,
+      "character": "所",
+      "pinyin": "suo",
+      "tone": 3,
+      "meaning": "a Place",
+      "story": "A place door ax bends down drooping saying \"Swoh\"!",
+      "primitives": []
+    },
+    {
+      "id": 858,
+      "character": "近",
+      "pinyin": "jin",
+      "tone": 4,
+      "meaning": "near",
+      "story": "Near walk ax commands \"Jin!\" sharply close!",
+      "primitives": []
+    },
+    {
+      "id": 859,
+      "character": "斬",
+      "pinyin": "zhan",
+      "tone": 3,
+      "meaning": "hew",
+      "story": "Hew car ax bends down drooping saying \"Zhan\"!",
+      "primitives": []
+    },
+    {
+      "id": 860,
+      "character": "暫",
+      "pinyin": "zhan",
+      "tone": 4,
+      "meaning": "temporary",
+      "story": "Temporary sun hew commands \"Zhan!\" sharply brief!",
+      "primitives": []
+    },
+    {
+      "id": 861,
+      "character": "漸",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "gradually",
+      "story": "Gradually water temporary yells \"Jian!\" sharply slowly!",
+      "primitives": []
+    },
+    {
+      "id": 862,
+      "character": "質",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "Quality",
+      "story": "Quality ax shellfish questions \"Zhi? Grade?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 863,
+      "character": "斥",
+      "pinyin": "chi",
+      "tone": 4,
+      "meaning": "to reprimand",
+      "story": "To reprimand dot ax commands \"Chi!\" sharply scolding!",
+      "primitives": []
+    },
+    {
+      "id": 864,
+      "character": "訴",
+      "pinyin": "su",
+      "tone": 4,
+      "meaning": "to accuse",
+      "story": "To accuse words reprimand yells \"Soo!\" sharply charging!",
+      "primitives": []
+    }
+  ]
+}

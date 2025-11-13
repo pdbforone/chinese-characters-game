@@ -1,0 +1,167 @@
+{
+  "lesson": 112,
+  "characters": [
+    {
+      "id": 1998,
+      "character": "側",
+      "pinyin": "ce",
+      "tone": 4,
+      "meaning": "lateral",
+      "story": "Lateral person rule commands sharply \"Tsuh!\" - side flank!",
+      "primitives": []
+    },
+    {
+      "id": 1999,
+      "character": "佑",
+      "pinyin": "you",
+      "tone": 4,
+      "meaning": "bless",
+      "story": "Bless person right commands sharply \"Yoh!\" - protect divine favor Heaven bless Japan!",
+      "primitives": []
+    },
+    {
+      "id": 2000,
+      "character": "佐",
+      "pinyin": "zuo",
+      "tone": 3,
+      "meaning": "assistant",
+      "story": "Assistant person left bends down drooping \"Dzwoh\" - aide Sasuke!",
+      "primitives": []
+    },
+    {
+      "id": 2001,
+      "character": "仔",
+      "pinyin": "zi",
+      "tone": 3,
+      "meaning": "meticulous",
+      "story": "Meticulous person child bends down drooping \"Dzir\" - careful detailed!",
+      "primitives": []
+    },
+    {
+      "id": 2002,
+      "character": "俏",
+      "pinyin": "qiao",
+      "tone": 4,
+      "meaning": "comely",
+      "story": "Comely person candle commands sharply \"Chyao!\" - pretty attractive!",
+      "primitives": []
+    },
+    {
+      "id": 2003,
+      "character": "倘",
+      "pinyin": "tang",
+      "tone": 3,
+      "meaning": "if",
+      "story": "If person esteem bends down drooping \"Tahng\" - suppose in case!",
+      "primitives": []
+    },
+    {
+      "id": 2004,
+      "character": "倚",
+      "pinyin": "yi",
+      "tone": 3,
+      "meaning": "count on",
+      "story": "Count on person strange bends down drooping \"Yee\" - rely lean on impartial!",
+      "primitives": []
+    },
+    {
+      "id": 2005,
+      "character": "佳",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "superb",
+      "story": "Superb person turkey sings \"Jyah!\" cheerfully - excellent fine!",
+      "primitives": []
+    },
+    {
+      "id": 2006,
+      "character": "侍",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "serve",
+      "story": "Serve person buddhist temple commands sharply \"Shir!\" - attend wait on!",
+      "primitives": []
+    },
+    {
+      "id": 2007,
+      "character": "伙",
+      "pinyin": "huo",
+      "tone": 3,
+      "meaning": "mate",
+      "story": "Mate person fire bends down drooping \"Hwoh\" - partner companion!",
+      "primitives": []
+    },
+    {
+      "id": 2008,
+      "character": "宿",
+      "pinyin": "su",
+      "tone": 4,
+      "meaning": "stay overnight",
+      "story": "Stay overnight house hundred Chinese inches commands sharply \"Soo!\" - lodge reside!",
+      "primitives": []
+    },
+    {
+      "id": 2009,
+      "character": "伏",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "bend over",
+      "story": "Bend over person dog questions \"Foo? Prostrate?\" curiously - lie down!",
+      "primitives": []
+    },
+    {
+      "id": 2010,
+      "character": "袱",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "wrapping cloth",
+      "story": "Wrapping cloth clothing bend over questions \"Foo? Bundle?\" curiously - package!",
+      "primitives": []
+    },
+    {
+      "id": 2011,
+      "character": "偷",
+      "pinyin": "tou",
+      "tone": 1,
+      "meaning": "steal",
+      "story": "Steal person lose sings \"Toh!\" cheerfully - rob pilfer!",
+      "primitives": []
+    },
+    {
+      "id": 2012,
+      "character": "伐",
+      "pinyin": "fa",
+      "tone": 2,
+      "meaning": "fell",
+      "story": "Fell person fiesta questions \"Fah? Cut tree?\" curiously - chop attack!",
+      "primitives": []
+    },
+    {
+      "id": 2013,
+      "character": "佩",
+      "pinyin": "pei",
+      "tone": 4,
+      "meaning": "wear at the waist",
+      "story": "Wear at the waist person esteem commands sharply \"Pay!\" - adorn admire!",
+      "primitives": []
+    },
+    {
+      "id": 2014,
+      "character": "佈",
+      "pinyin": "bu",
+      "tone": 4,
+      "meaning": "announce",
+      "story": "Announce person towel commands sharply \"Boo!\" - proclaim spread!",
+      "primitives": []
+    },
+    {
+      "id": 2015,
+      "character": "僑",
+      "pinyin": "qiao",
+      "tone": 2,
+      "meaning": "live abroad",
+      "story": "Live abroad person angel questions \"Chyao? Expatriate?\" curiously - overseas!",
+      "primitives": []
+    }
+  ]
+}

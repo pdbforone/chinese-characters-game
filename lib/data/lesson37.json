@@ -1,0 +1,167 @@
+{
+  "lesson": 37,
+  "characters": [
+    {
+      "id": 649,
+      "character": "容",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "to contain",
+      "story": "To contain roof valley questions \"Rong? Fit inside?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 650,
+      "character": "溶",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "to dissolve",
+      "story": "To dissolve water contain questions \"Rong? Melting?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 651,
+      "character": "當",
+      "pinyin": "dang",
+      "tone": 1,
+      "meaning": "to work as",
+      "story": "To work as field small sings \"Dang!\" cheerfully employed!",
+      "primitives": []
+    },
+    {
+      "id": 652,
+      "character": "檔",
+      "pinyin": "dang",
+      "tone": 4,
+      "meaning": "Files",
+      "story": "Files tree work as bend down drooping saying \"Dang\"!",
+      "primitives": []
+    },
+    {
+      "id": 653,
+      "character": "黨",
+      "pinyin": "dang",
+      "tone": 3,
+      "meaning": "Political Party",
+      "story": "Political party black work as bend down drooping saying \"Dang\"!",
+      "primitives": []
+    },
+    {
+      "id": 654,
+      "character": "常",
+      "pinyin": "chang",
+      "tone": 2,
+      "meaning": "often",
+      "story": "Often towel work as questions \"Chang? Frequently?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 655,
+      "character": "堂",
+      "pinyin": "tang",
+      "tone": 2,
+      "meaning": "Main Room",
+      "story": "Main room earth often questions \"Tang? Central hall?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 656,
+      "character": "皮",
+      "pinyin": "pi",
+      "tone": 2,
+      "meaning": "Covering",
+      "story": "Covering hand claw questions \"Pi? Skin?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 657,
+      "character": "波",
+      "pinyin": "bo",
+      "tone": 1,
+      "meaning": "Waves",
+      "story": "Waves water skin sings \"Bwo!\" cheerfully rippling!",
+      "primitives": []
+    },
+    {
+      "id": 658,
+      "character": "婆",
+      "pinyin": "po",
+      "tone": 2,
+      "meaning": "Old Woman",
+      "story": "Old woman skin questions \"Pwo? Grandmother?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 659,
+      "character": "破",
+      "pinyin": "po",
+      "tone": 4,
+      "meaning": "to break",
+      "story": "To break stone skin commands \"Pwoh!\" sharply shattered!",
+      "primitives": []
+    },
+    {
+      "id": 660,
+      "character": "被",
+      "pinyin": "bei",
+      "tone": 4,
+      "meaning": "a Quilt",
+      "story": "A quilt clothes skin yells \"Bay!\" sharply covering!",
+      "primitives": []
+    },
+    {
+      "id": 661,
+      "character": "歹",
+      "pinyin": "dai",
+      "tone": 3,
+      "meaning": "malicious",
+      "story": "Malicious death bends down drooping saying \"Dai\"!",
+      "primitives": []
+    },
+    {
+      "id": 662,
+      "character": "列",
+      "pinyin": "lie",
+      "tone": 4,
+      "meaning": "to line up",
+      "story": "To line up dagger commands \"Lieh!\" sharply arrayed!",
+      "primitives": []
+    },
+    {
+      "id": 663,
+      "character": "烈",
+      "pinyin": "lie",
+      "tone": 4,
+      "meaning": "intense",
+      "story": "Intense fire line up yells \"Lieh!\" sharply fierce!",
+      "primitives": []
+    },
+    {
+      "id": 664,
+      "character": "死",
+      "pinyin": "si",
+      "tone": 3,
+      "meaning": "Death",
+      "story": "Death dagger bends down drooping saying \"Si\"!",
+      "primitives": []
+    },
+    {
+      "id": 665,
+      "character": "葬",
+      "pinyin": "zang",
+      "tone": 4,
+      "meaning": "to inter",
+      "story": "To inter grass death commands \"Zang!\" sharply burying!",
+      "primitives": []
+    },
+    {
+      "id": 666,
+      "character": "耳",
+      "pinyin": "er",
+      "tone": 3,
+      "meaning": "Ear",
+      "story": "An ear bends down drooping saying \"Er\"!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 8,
+  "characters": [
+    {
+      "id": 127,
+      "character": "永",
+      "pinyin": "yong",
+      "tone": 3,
+      "meaning": "Eternity",
+      "story": "Eternity of water bends down drooping forever saying \"Yong\"!",
+      "primitives": []
+    },
+    {
+      "id": 128,
+      "character": "求",
+      "pinyin": "qiu",
+      "tone": 2,
+      "meaning": "to request",
+      "story": "To request with water drop asks \"Chyo? May I have some?\" questioning!",
+      "primitives": []
+    },
+    {
+      "id": 129,
+      "character": "泉",
+      "pinyin": "quan",
+      "tone": 2,
+      "meaning": "a Spring",
+      "story": "A spring of white water questions \"Chuan? Where does it come from?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 130,
+      "character": "原",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "flatlands",
+      "story": "Flatlands with cliff spring and white question \"Yuan? Why so flat?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 131,
+      "character": "願",
+      "pinyin": "yuan",
+      "tone": 4,
+      "meaning": "a wish",
+      "story": "A wish from flatlands page commands \"Yuan! Grant it!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 132,
+      "character": "沖",
+      "pinyin": "chong",
+      "tone": 1,
+      "meaning": "to wash away",
+      "story": "To wash away, water sings \"Chong!\" cheerfully rinsing middle!",
+      "primitives": []
+    },
+    {
+      "id": 133,
+      "character": "泳",
+      "pinyin": "yong",
+      "tone": 3,
+      "meaning": "to swim",
+      "story": "To swim in eternal water bends down drooping saying \"Yong\"!",
+      "primitives": []
+    },
+    {
+      "id": 134,
+      "character": "洲",
+      "pinyin": "zhou",
+      "tone": 1,
+      "meaning": "Continent",
+      "story": "A continent with water and state sings \"Joe!\" cheerfully and large!",
+      "primitives": []
+    },
+    {
+      "id": 135,
+      "character": "沼",
+      "pinyin": "zhao",
+      "tone": 3,
+      "meaning": "Marsh",
+      "story": "A marsh where water bends down drooping in summoned pools saying \"Zhao\"!",
+      "primitives": []
+    },
+    {
+      "id": 136,
+      "character": "沙",
+      "pinyin": "sha",
+      "tone": 1,
+      "meaning": "Sand",
+      "story": "Sand in water sings \"Sha!\" cheerfully and few like gravel!",
+      "primitives": []
+    },
+    {
+      "id": 137,
+      "character": "江",
+      "pinyin": "jiang",
+      "tone": 1,
+      "meaning": "Yangtze",
+      "story": "The Yangtze water flows cheerfully singing \"Jiang!\" through the work!",
+      "primitives": []
+    },
+    {
+      "id": 138,
+      "character": "汁",
+      "pinyin": "zhi",
+      "tone": 1,
+      "meaning": "Juice",
+      "story": "Juice from water ten sings \"Zhi!\" happily extracted!",
+      "primitives": []
+    },
+    {
+      "id": 139,
+      "character": "潮",
+      "pinyin": "chao",
+      "tone": 2,
+      "meaning": "Tide",
+      "story": "The tide of dynasty water questions \"Chao? Why rise and fall?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 140,
+      "character": "源",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "source",
+      "story": "The source of water flatlands questions \"Yuan? Where does it begin?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 141,
+      "character": "活",
+      "pinyin": "huo",
+      "tone": 2,
+      "meaning": "lively",
+      "story": "Lively water tongue asks \"Huo? Why so active?\" questioning vibrantly!",
+      "primitives": []
+    },
+    {
+      "id": 142,
+      "character": "消",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "to extinguish",
+      "story": "To extinguish water moon sings \"Shyao!\" cheerfully fading away!",
+      "primitives": []
+    },
+    {
+      "id": 143,
+      "character": "況",
+      "pinyin": "kuang",
+      "tone": 4,
+      "meaning": "Situation",
+      "story": "The situation of water mouth yells \"Kwang!\" sharply describing!",
+      "primitives": []
+    },
+    {
+      "id": 144,
+      "character": "河",
+      "pinyin": "he",
+      "tone": 2,
+      "meaning": "river",
+      "story": "The river water questions \"Huh? Why flow here?\" curiously with mouth!",
+      "primitives": []
+    }
+  ]
+}

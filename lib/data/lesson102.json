@@ -1,0 +1,167 @@
+{
+  "lesson": 102,
+  "characters": [
+    {
+      "id": 1818,
+      "character": "揚",
+      "pinyin": "yang",
+      "tone": 2,
+      "meaning": "publicize",
+      "story": "Publicize fingers piggy bank questions \"Yahng? Spread?\" curiously - raise scatter ashes!",
+      "primitives": []
+    },
+    {
+      "id": 1819,
+      "character": "搞",
+      "pinyin": "gao",
+      "tone": 3,
+      "meaning": "engage in",
+      "story": "Engage in hand high bends down drooping \"Gao\" - do make mess!",
+      "primitives": []
+    },
+    {
+      "id": 1820,
+      "character": "撞",
+      "pinyin": "zhuang",
+      "tone": 4,
+      "meaning": "bump into",
+      "story": "Bump into hand child commands sharply \"Jwahng!\" - collide crash!",
+      "primitives": []
+    },
+    {
+      "id": 1821,
+      "character": "摘",
+      "pinyin": "zhai",
+      "tone": 1,
+      "meaning": "handpick",
+      "story": "Handpick hand suitable sings \"Jigh!\" cheerfully - pluck select!",
+      "primitives": []
+    },
+    {
+      "id": 1822,
+      "character": "捆",
+      "pinyin": "kun",
+      "tone": 3,
+      "meaning": "lash together",
+      "story": "Lash together fingers trapped bends down drooping \"Kwun\" - tie bundle fasten!",
+      "primitives": []
+    },
+    {
+      "id": 1823,
+      "character": "撼",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "joggle",
+      "story": "Joggle fingers feel commands sharply \"Hahn!\" - shake move!",
+      "primitives": []
+    },
+    {
+      "id": 1824,
+      "character": "擾",
+      "pinyin": "rao",
+      "tone": 3,
+      "meaning": "harass",
+      "story": "Harass hand trouble bends down drooping \"Rao\" - disturb bother!",
+      "primitives": []
+    },
+    {
+      "id": 1825,
+      "character": "擅",
+      "pinyin": "shan",
+      "tone": 4,
+      "meaning": "act without authority",
+      "story": "Act without authority hand list commands sharply \"Shahn!\" - unauthorized!",
+      "primitives": []
+    },
+    {
+      "id": 1826,
+      "character": "壇",
+      "pinyin": "tan",
+      "tone": 2,
+      "meaning": "altar",
+      "story": "Altar dirt cloud questions \"Tahn? Sacred?\" curiously - platform!",
+      "primitives": []
+    },
+    {
+      "id": 1827,
+      "character": "顫",
+      "pinyin": "chan",
+      "tone": 4,
+      "meaning": "tremble",
+      "story": "Tremble Mr. Hyde head commands sharply \"Chahn!\" - shake quiver!",
+      "primitives": []
+    },
+    {
+      "id": 1828,
+      "character": "莽",
+      "pinyin": "mang",
+      "tone": 3,
+      "meaning": "rude",
+      "story": "Rude flowers chihuahua two hands bends down drooping \"Mahng\" - impetuous rough!",
+      "primitives": []
+    },
+    {
+      "id": 1829,
+      "character": "戒",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "take precautions against",
+      "story": "Take precautions against two hands commands sharply \"Jyeh!\" - guard warning!",
+      "primitives": []
+    },
+    {
+      "id": 1830,
+      "character": "械",
+      "pinyin": "xie",
+      "tone": 4,
+      "meaning": "weapon",
+      "story": "Weapon tree precautions commands sharply \"Shyeh!\" - instrument arms!",
+      "primitives": []
+    },
+    {
+      "id": 1831,
+      "character": "誡",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "warn",
+      "story": "Warn words take precautions commands sharply \"Jyeh!\" - admonish caution!",
+      "primitives": []
+    },
+    {
+      "id": 1832,
+      "character": "奔",
+      "pinyin": "ben",
+      "tone": 1,
+      "meaning": "dash",
+      "story": "Dash big three sings \"Bun!\" cheerfully - run rush!",
+      "primitives": []
+    },
+    {
+      "id": 1833,
+      "character": "噴",
+      "pinyin": "pen",
+      "tone": 1,
+      "meaning": "spurt",
+      "story": "Spurt mouth local-yokel chowder sings \"Pun!\" cheerfully - spray shit!",
+      "primitives": []
+    },
+    {
+      "id": 1834,
+      "character": "墳",
+      "pinyin": "fen",
+      "tone": 2,
+      "meaning": "tomb",
+      "story": "Tomb soil local-yokel chowder questions \"Fen? Grave?\" curiously - burial mound!",
+      "primitives": []
+    },
+    {
+      "id": 1835,
+      "character": "憤",
+      "pinyin": "fen",
+      "tone": 4,
+      "meaning": "indignation",
+      "story": "Indignation heart mound commands sharply \"Fun!\" - anger resentment!",
+      "primitives": []
+    }
+  ]
+}

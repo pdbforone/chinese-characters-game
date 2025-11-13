@@ -1,0 +1,167 @@
+{
+  "lesson": 75,
+  "characters": [
+    {
+      "id": 1332,
+      "character": "低",
+      "pinyin": "di",
+      "tone": 1,
+      "meaning": "low",
+      "story": "Low person dusk sings \"Dee!\" cheerfully - beneath droop lower!",
+      "primitives": []
+    },
+    {
+      "id": 1333,
+      "character": "底",
+      "pinyin": "di",
+      "tone": 3,
+      "meaning": "Bottom",
+      "story": "Bottom building low bends down drooping \"Dee\" - base underside!",
+      "primitives": []
+    },
+    {
+      "id": 1334,
+      "character": "民",
+      "pinyin": "min",
+      "tone": 2,
+      "meaning": "People",
+      "story": "People clan questions \"Min? Citizen?\" curiously - nationality!",
+      "primitives": []
+    },
+    {
+      "id": 1335,
+      "character": "眠",
+      "pinyin": "mian",
+      "tone": 2,
+      "meaning": "the Slumber",
+      "story": "The slumber eye people questions \"Myan? Sleep?\" curiously - rest!",
+      "primitives": []
+    },
+    {
+      "id": 1336,
+      "character": "甫",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "Fu3",
+      "story": "Fu3 cloth field bends down drooping \"Foo\" - just now offspring!",
+      "primitives": []
+    },
+    {
+      "id": 1337,
+      "character": "補",
+      "pinyin": "bu",
+      "tone": 3,
+      "meaning": "to patch",
+      "story": "To patch clothing fu3 bends down drooping \"Boo\" - repair mend fix supplement!",
+      "primitives": []
+    },
+    {
+      "id": 1338,
+      "character": "博",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "knowledgeable",
+      "story": "Knowledgeable ten fu3 measure questions \"Bwo? Extensive?\" curiously - rich dr.!",
+      "primitives": []
+    },
+    {
+      "id": 1339,
+      "character": "搏",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "to wrestle",
+      "story": "To wrestle hand knowledgeable questions \"Bwo? Fight?\" curiously - combat seize!",
+      "primitives": []
+    },
+    {
+      "id": 1340,
+      "character": "都",
+      "pinyin": "du",
+      "tone": 1,
+      "meaning": "Metropolis",
+      "story": "Metropolis city knowledgeable sings \"Doh!\" cheerfully - capital!",
+      "primitives": []
+    },
+    {
+      "id": 1341,
+      "character": "部",
+      "pinyin": "bu",
+      "tone": 4,
+      "meaning": "Department",
+      "story": "Department stand city commands sharply \"Boo!\" - ministry section!",
+      "primitives": []
+    },
+    {
+      "id": 1342,
+      "character": "郎",
+      "pinyin": "lang",
+      "tone": 2,
+      "meaning": "Young Man",
+      "story": "Young man good city questions \"Lahng? Youth?\" curiously - son!",
+      "primitives": []
+    },
+    {
+      "id": 1343,
+      "character": "鄉",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "Countryside",
+      "story": "Countryside city ate sings \"Shyahng!\" cheerfully - village hometown!",
+      "primitives": []
+    },
+    {
+      "id": 1344,
+      "character": "響",
+      "pinyin": "xiang",
+      "tone": 3,
+      "meaning": "an Echo",
+      "story": "An echo sound countryside bends down drooping \"Shyahng\" - make noise!",
+      "primitives": []
+    },
+    {
+      "id": 1345,
+      "character": "段",
+      "pinyin": "duan",
+      "tone": 4,
+      "meaning": "Section",
+      "story": "Section two daggers commands sharply \"Dwahn!\" - paragraph segment grade!",
+      "primitives": []
+    },
+    {
+      "id": 1346,
+      "character": "鍛",
+      "pinyin": "duan",
+      "tone": 4,
+      "meaning": "to forge",
+      "story": "To forge metal section commands sharply \"Dwahn!\" - temper wrought!",
+      "primitives": []
+    },
+    {
+      "id": 1347,
+      "character": "幻",
+      "pinyin": "huan",
+      "tone": 4,
+      "meaning": "unreal",
+      "story": "Unreal cocoon short commands sharply \"Hwahn!\" - fantasy illusion phantasm!",
+      "primitives": []
+    },
+    {
+      "id": 1348,
+      "character": "司",
+      "pinyin": "si",
+      "tone": 1,
+      "meaning": "to take charge of",
+      "story": "To take charge of one mouth sings \"Suh!\" cheerfully - control manage director!",
+      "primitives": []
+    },
+    {
+      "id": 1349,
+      "character": "詞",
+      "pinyin": "ci",
+      "tone": 2,
+      "meaning": "Word",
+      "story": "Word say director questions \"Tsuh? Phrase?\" curiously - expression parts of speech!",
+      "primitives": []
+    }
+  ]
+}

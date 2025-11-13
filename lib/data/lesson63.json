@@ -1,0 +1,167 @@
+{
+  "lesson": 63,
+  "characters": [
+    {
+      "id": 1116,
+      "character": "離",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "to leave",
+      "story": "To leave bird departing questions \"Lee? Going away?\" curiously detaching!",
+      "primitives": []
+    },
+    {
+      "id": 1117,
+      "character": "禽",
+      "pinyin": "qin",
+      "tone": 2,
+      "meaning": "Fowl",
+      "story": "Fowl birds on person question \"Chin? What birds?\" curiously - captured fowl!",
+      "primitives": []
+    },
+    {
+      "id": 1118,
+      "character": "辛",
+      "pinyin": "xin",
+      "tone": 1,
+      "meaning": "peppery",
+      "story": "Peppery standing offends, singing \"Shin!\" bitterly - 8th stem pungent and laborious!",
+      "primitives": []
+    },
+    {
+      "id": 1119,
+      "character": "辦",
+      "pinyin": "ban",
+      "tone": 4,
+      "meaning": "to manage",
+      "story": "To manage two peppery commands \"Ban!\" sharply - handling affairs!",
+      "primitives": []
+    },
+    {
+      "id": 1120,
+      "character": "辯",
+      "pinyin": "bian",
+      "tone": 4,
+      "meaning": "to dispute",
+      "story": "To dispute words pepper commands \"Bian!\" sharply - arguing and debating!",
+      "primitives": []
+    },
+    {
+      "id": 1121,
+      "character": "壁",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "Partition",
+      "story": "Partition earth peppery commands \"Bee!\" sharply - wall as rampart!",
+      "primitives": []
+    },
+    {
+      "id": 1122,
+      "character": "避",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "to evade",
+      "story": "To evade walk partition yells \"Bee!\" sharply - fleeing and hiding!",
+      "primitives": []
+    },
+    {
+      "id": 1123,
+      "character": "新",
+      "pinyin": "xin",
+      "tone": 1,
+      "meaning": "new",
+      "story": "New standing tree ax sings \"Shin!\" cheerfully fresh and newly made!",
+      "primitives": []
+    },
+    {
+      "id": 1124,
+      "character": "薪",
+      "pinyin": "xin",
+      "tone": 1,
+      "meaning": "Fuel",
+      "story": "Fuel grass new sings \"Shin!\" cheerfully - firewood and salary burning!",
+      "primitives": []
+    },
+    {
+      "id": 1125,
+      "character": "親",
+      "pinyin": "qin",
+      "tone": 1,
+      "meaning": "Relatives",
+      "story": "Relatives stand tree see sing \"Chin!\" cheerfully - dear and intimate relations!",
+      "primitives": []
+    },
+    {
+      "id": 1126,
+      "character": "襯",
+      "pinyin": "chen",
+      "tone": 4,
+      "meaning": "Inner Garments",
+      "story": "Inner garments clothes relatives command \"Chen!\" sharply - underwear beneath!",
+      "primitives": []
+    },
+    {
+      "id": 1127,
+      "character": "幸",
+      "pinyin": "xing",
+      "tone": 4,
+      "meaning": "Good Fortune",
+      "story": "Good fortune hands bound command \"Shing!\" sharply - lucky and fortunate!",
+      "primitives": []
+    },
+    {
+      "id": 1128,
+      "character": "執",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "to clench",
+      "story": "To clench fortune hand questions \"Zhi? Grasping?\" tenaciously holding!",
+      "primitives": []
+    },
+    {
+      "id": 1129,
+      "character": "報",
+      "pinyin": "bao",
+      "tone": 4,
+      "meaning": "Newspaper",
+      "story": "Newspaper fortune strike commands \"Bao!\" sharply - announcing reports!",
+      "primitives": []
+    },
+    {
+      "id": 1130,
+      "character": "叫",
+      "pinyin": "jiao",
+      "tone": 4,
+      "meaning": "to call",
+      "story": "To call mouth compare commands \"Jiao!\" sharply - shouting orders!",
+      "primitives": []
+    },
+    {
+      "id": 1131,
+      "character": "收",
+      "pinyin": "shou",
+      "tone": 1,
+      "meaning": "to receive",
+      "story": "To receive hand again sings \"Show!\" cheerfully accepting - income collected!",
+      "primitives": []
+    },
+    {
+      "id": 1132,
+      "character": "陸",
+      "pinyin": "lu",
+      "tone": 4,
+      "meaning": "Land",
+      "story": "Land mound solid commands \"Loo!\" sharply - continental shore!",
+      "primitives": []
+    },
+    {
+      "id": 1133,
+      "character": "勢",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Force",
+      "story": "Force land strike yells \"Shi!\" sharply - powerful influence!",
+      "primitives": []
+    }
+  ]
+}

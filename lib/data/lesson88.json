@@ -1,0 +1,167 @@
+{
+  "lesson": 88,
+  "characters": [
+    {
+      "id": 1566,
+      "character": "燃",
+      "pinyin": "ran",
+      "tone": 2,
+      "meaning": "ignite",
+      "story": "Ignite fire dog questions \"Rahn? Kindle?\" curiously - burning!",
+      "primitives": []
+    },
+    {
+      "id": 1567,
+      "character": "咒",
+      "pinyin": "zhou",
+      "tone": 4,
+      "meaning": "curse",
+      "story": "Curse mouth spell commands sharply \"Joh!\" - hex jinx!",
+      "primitives": []
+    },
+    {
+      "id": 1568,
+      "character": "獸",
+      "pinyin": "shou",
+      "tone": 4,
+      "meaning": "beast",
+      "story": "Beast dog mouth commands sharply \"Shoh!\" - wild animal!",
+      "primitives": []
+    },
+    {
+      "id": 1569,
+      "character": "狸",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "raccoon dog",
+      "story": "Raccoon dog dog inside questions \"Lee? Tanuki?\" curiously - fox-like!",
+      "primitives": []
+    },
+    {
+      "id": 1570,
+      "character": "嗅",
+      "pinyin": "xiu",
+      "tone": 4,
+      "meaning": "sniff",
+      "story": "Sniff mouth stinking commands sharply \"Shyo!\" - smell scent!",
+      "primitives": []
+    },
+    {
+      "id": 1571,
+      "character": "牡",
+      "pinyin": "mu",
+      "tone": 3,
+      "meaning": "dude",
+      "story": "Dude cow soil bends down drooping \"Moo\" - male animal classifier!",
+      "primitives": []
+    },
+    {
+      "id": 1572,
+      "character": "牢",
+      "pinyin": "lao",
+      "tone": 2,
+      "meaning": "jail",
+      "story": "Jail cow roof questions \"Lao? Prison?\" curiously - cage cell!",
+      "primitives": []
+    },
+    {
+      "id": 1573,
+      "character": "贊",
+      "pinyin": "zan",
+      "tone": 4,
+      "meaning": "succor",
+      "story": "Succor two shellfish commands sharply \"Dzahn!\" - support praise!",
+      "primitives": []
+    },
+    {
+      "id": 1574,
+      "character": "舍",
+      "pinyin": "she",
+      "tone": 4,
+      "meaning": "abode",
+      "story": "Abode roof tongue commands sharply \"Shuh!\" - dwelling house!",
+      "primitives": []
+    },
+    {
+      "id": 1575,
+      "character": "啥",
+      "pinyin": "sha",
+      "tone": 2,
+      "meaning": "wha?",
+      "story": "Wha mouth abode questions \"Shah? What?\" curiously - huh?",
+      "primitives": []
+    },
+    {
+      "id": 1576,
+      "character": "洽",
+      "pinyin": "qia",
+      "tone": 4,
+      "meaning": "in agreement",
+      "story": "In agreement water fit commands sharply \"Chyah!\" - harmonious accord!",
+      "primitives": []
+    },
+    {
+      "id": 1577,
+      "character": "旺",
+      "pinyin": "wang",
+      "tone": 4,
+      "meaning": "thriving",
+      "story": "Thriving sun king commands sharply \"Wahng!\" - prosperous flourishing!",
+      "primitives": []
+    },
+    {
+      "id": 1578,
+      "character": "碧",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "green jade",
+      "story": "Green jade jewel dove stone commands sharply \"Bee!\" - azure fine jade!",
+      "primitives": []
+    },
+    {
+      "id": 1579,
+      "character": "汪",
+      "pinyin": "wang",
+      "tone": 1,
+      "meaning": "tearful",
+      "story": "Tearful water king sings \"Wahng!\" cheerfully - brimming eyes!",
+      "primitives": []
+    },
+    {
+      "id": 1580,
+      "character": "枉",
+      "pinyin": "wang",
+      "tone": 3,
+      "meaning": "crooked",
+      "story": "Crooked tree king bends down drooping \"Wahng\" - bent unjust!",
+      "primitives": []
+    },
+    {
+      "id": 1581,
+      "character": "珠",
+      "pinyin": "zhu",
+      "tone": 1,
+      "meaning": "pearl",
+      "story": "Pearl jewel vermillion sings \"Joo!\" cheerfully - bead gem!",
+      "primitives": []
+    },
+    {
+      "id": 1582,
+      "character": "噩",
+      "pinyin": "e",
+      "tone": 4,
+      "meaning": "shocking",
+      "story": "Shocking mouths oppose commands sharply \"Uh!\" - nightmare calamity!",
+      "primitives": []
+    },
+    {
+      "id": 1583,
+      "character": "鱷",
+      "pinyin": "e",
+      "tone": 4,
+      "meaning": "crocodile",
+      "story": "Crocodile fish shocking commands sharply \"Uh!\" - reptile predator!",
+      "primitives": []
+    }
+  ]
+}

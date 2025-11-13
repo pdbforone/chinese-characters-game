@@ -1,0 +1,167 @@
+{
+  "lesson": 50,
+  "characters": [
+    {
+      "id": 883,
+      "character": "伊",
+      "pinyin": "yi",
+      "tone": 1,
+      "meaning": "Queen Elizabeth",
+      "story": "Queen Elizabeth person overseer sings \"Yi!\" cheerfully regal!",
+      "primitives": []
+    },
+    {
+      "id": 884,
+      "character": "君",
+      "pinyin": "jun",
+      "tone": 1,
+      "meaning": "Monarch",
+      "story": "Monarch mouth overseer sings \"June!\" cheerfully ruling!",
+      "primitives": []
+    },
+    {
+      "id": 885,
+      "character": "裙",
+      "pinyin": "qun",
+      "tone": 2,
+      "meaning": "Skirt",
+      "story": "Skirt clothes monarch questions \"Chun? Dress?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 886,
+      "character": "群",
+      "pinyin": "qun",
+      "tone": 2,
+      "meaning": "Crowd",
+      "story": "Crowd sheep monarch questions \"Chun? Many?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 887,
+      "character": "而",
+      "pinyin": "er",
+      "tone": 2,
+      "meaning": "and",
+      "story": "And beard questions \"Er? Also?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 888,
+      "character": "需",
+      "pinyin": "xu",
+      "tone": 1,
+      "meaning": "to need",
+      "story": "To need rain and sings \"Shyu!\" cheerfully requiring!",
+      "primitives": []
+    },
+    {
+      "id": 889,
+      "character": "儒",
+      "pinyin": "ru",
+      "tone": 2,
+      "meaning": "Confucian",
+      "story": "Confucian person need questions \"Roo? Scholar?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 890,
+      "character": "瑞",
+      "pinyin": "rui",
+      "tone": 4,
+      "meaning": "auspicious",
+      "story": "Auspicious jade mountain commands \"Rway!\" sharply lucky!",
+      "primitives": []
+    },
+    {
+      "id": 891,
+      "character": "端",
+      "pinyin": "duan",
+      "tone": 1,
+      "meaning": "upright",
+      "story": "Upright stand mountain sings \"Dwan!\" cheerfully proper!",
+      "primitives": []
+    },
+    {
+      "id": 892,
+      "character": "曲",
+      "pinyin": "qu",
+      "tone": 1,
+      "meaning": "bent",
+      "story": "Bent sings \"Chu!\" cheerfully curved!",
+      "primitives": []
+    },
+    {
+      "id": 893,
+      "character": "斗",
+      "pinyin": "dou",
+      "tone": 3,
+      "meaning": "Big Dipper",
+      "story": "Big dipper ten bends down drooping saying \"Doe\"!",
+      "primitives": []
+    },
+    {
+      "id": 894,
+      "character": "料",
+      "pinyin": "liao",
+      "tone": 4,
+      "meaning": "Material",
+      "story": "Material rice dipper commands \"Liao!\" sharply stuff!",
+      "primitives": []
+    },
+    {
+      "id": 895,
+      "character": "科",
+      "pinyin": "ke",
+      "tone": 1,
+      "meaning": "Academic Discipline",
+      "story": "Academic discipline grain dipper sings \"Kuh!\" cheerfully field!",
+      "primitives": []
+    },
+    {
+      "id": 896,
+      "character": "用",
+      "pinyin": "yong",
+      "tone": 4,
+      "meaning": "to utilize",
+      "story": "To utilize door commands \"Yong!\" sharply using!",
+      "primitives": []
+    },
+    {
+      "id": 1001,
+      "character": "深",
+      "pinyin": "Shen",
+      "tone": 5,
+      "meaning": "deep",
+      "story": "deep sings \"Shen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1002,
+      "character": "探",
+      "pinyin": "Tan",
+      "tone": 5,
+      "meaning": "a Spy",
+      "story": "a Spy commands \"Tan!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1003,
+      "character": "丘",
+      "pinyin": "Qiu",
+      "tone": 5,
+      "meaning": "Hill",
+      "story": "Hill sings \"Qiu!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1004,
+      "character": "兵",
+      "pinyin": "Bing",
+      "tone": 5,
+      "meaning": "Troops",
+      "story": "Troops sings \"Bing!\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

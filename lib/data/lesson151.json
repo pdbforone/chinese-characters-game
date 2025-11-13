@@ -1,0 +1,167 @@
+{
+  "lesson": 151,
+  "characters": [
+    {
+      "id": 2701,
+      "character": "殿",
+      "pinyin": "dian",
+      "tone": 4,
+      "meaning": "ceremonial hall",
+      "story": "\"DYEN!\" the flag, together and missile command sharply - a ceremonial hall, palace and temple!",
+      "primitives": []
+    },
+    {
+      "id": 2702,
+      "character": "戴",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "have on",
+      "story": "\"DAI!\" he commands sharply - to have on, wear and don!",
+      "primitives": []
+    },
+    {
+      "id": 2703,
+      "character": "翼",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "wings",
+      "story": "\"YEE!\" the different wings command sharply - wings, feathers for the clan!",
+      "primitives": []
+    },
+    {
+      "id": 2704,
+      "character": "糞",
+      "pinyin": "fen",
+      "tone": 4,
+      "meaning": "dung",
+      "story": "\"FUN!\" the rice and different command sharply - dung, manure and fertilizer!",
+      "primitives": []
+    },
+    {
+      "id": 2705,
+      "character": "撰",
+      "pinyin": "zhuan",
+      "tone": 4,
+      "meaning": "compose",
+      "story": "\"JWAN!\" the fingers and two snakeskins and together command sharply - to compose, write and author!",
+      "primitives": []
+    },
+    {
+      "id": 2706,
+      "character": "啞",
+      "pinyin": "ya",
+      "tone": 3,
+      "meaning": "mute",
+      "story": "The mouth and asia bend down drooping - mute, silent and speechless!",
+      "primitives": []
+    },
+    {
+      "id": 2707,
+      "character": "壺",
+      "pinyin": "hu",
+      "tone": 2,
+      "meaning": "kettle",
+      "story": "\"HOO?\" the soldier, crown and asia question curiously - is this a kettle, a teapot and pot?",
+      "primitives": []
+    },
+    {
+      "id": 2708,
+      "character": "蟹",
+      "pinyin": "xie",
+      "tone": 4,
+      "meaning": "crab",
+      "story": "\"SHYEH!\" the insect commands sharply - a crab, shellfish with claws!",
+      "primitives": []
+    },
+    {
+      "id": 2709,
+      "character": "懈",
+      "pinyin": "xie",
+      "tone": 4,
+      "meaning": "lax",
+      "story": "\"SHYEH!\" the state of mind commands sharply - being lax, slack and relaxed!",
+      "primitives": []
+    },
+    {
+      "id": 2710,
+      "character": "購",
+      "pinyin": "gou",
+      "tone": 4,
+      "meaning": "purchase",
+      "story": "\"GOH!\" the shells command sharply - to purchase, buy and acquire!",
+      "primitives": []
+    },
+    {
+      "id": 2711,
+      "character": "溝",
+      "pinyin": "gou",
+      "tone": 1,
+      "meaning": "ditch",
+      "story": "\"GOH!\" the water sings cheerfully - a ditch, a trench for the generation gap!",
+      "primitives": []
+    },
+    {
+      "id": 2712,
+      "character": "鑰",
+      "pinyin": "yao",
+      "tone": 4,
+      "meaning": "key",
+      "story": "\"YAO!\" the metal commands sharply - the key to unlock and access!",
+      "primitives": []
+    },
+    {
+      "id": 2713,
+      "character": "籲",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "plead",
+      "story": "\"YOO!\" the bamboo, study group and page command sharply - to plead, appeal and beg!",
+      "primitives": []
+    },
+    {
+      "id": 2714,
+      "character": "冊",
+      "pinyin": "ce",
+      "tone": 4,
+      "meaning": "Vol",
+      "story": "\"TSUH!\" the tome commands sharply - a Vol, a book to register!",
+      "primitives": []
+    },
+    {
+      "id": 2715,
+      "character": "刪",
+      "pinyin": "shan",
+      "tone": 1,
+      "meaning": "delete",
+      "story": "\"SHAN!\" the saber sings cheerfully - to delete, remove and erase!",
+      "primitives": []
+    },
+    {
+      "id": 2716,
+      "character": "柵",
+      "pinyin": "zha",
+      "tone": 4,
+      "meaning": "palisade",
+      "story": "\"JAH!\" the tree commands sharply - a palisade, a fence of stakes!",
+      "primitives": []
+    },
+    {
+      "id": 2717,
+      "character": "珊",
+      "pinyin": "shan",
+      "tone": 1,
+      "meaning": "coral",
+      "story": "\"SHAN!\" the jewel sings cheerfully - coral, a reef and name!",
+      "primitives": []
+    },
+    {
+      "id": 2718,
+      "character": "遍",
+      "pinyin": "bian",
+      "tone": 4,
+      "meaning": "everywhere",
+      "story": "\"BYEN!\" the road commands sharply - everywhere, all over to remind!",
+      "primitives": []
+    }
+  ]
+}

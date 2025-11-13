@@ -4,164 +4,205 @@
     {
       "id": 1,
       "character": "一",
-      "pinyin": "yī",
+      "pinyin": "yi",
       "tone": 1,
       "meaning": "one",
       "story": "A single happy line sings \"Yeeee!\" at number one!",
-      "primitives": ["horizontal line"]
+      "primitives": [
+        "horizontal line"
+      ]
     },
     {
       "id": 2,
       "character": "二",
-      "pinyin": "èr",
+      "pinyin": "er",
       "tone": 4,
       "meaning": "two",
       "story": "Two angry lines yell \"ERR!\" when you make a mistake!",
-      "primitives": ["horizontal line"]
+      "primitives": [
+        "horizontal line"
+      ]
     },
     {
       "id": 3,
       "character": "三",
-      "pinyin": "sān",
+      "pinyin": "san",
       "tone": 1,
       "meaning": "three",
       "story": "Three cheerful lines sing \"Saaaan-shine\" together!",
-      "primitives": ["horizontal line"]
+      "primitives": [
+        "horizontal line"
+      ]
     },
     {
       "id": 4,
       "character": "四",
-      "pinyin": "sì",
+      "pinyin": "si",
       "tone": 4,
       "meaning": "four",
       "story": "Inside the box, your four items command \"See this!\" sharply!",
-      "primitives": ["box", "items"]
+      "primitives": [
+        "box",
+        "items"
+      ]
     },
     {
       "id": 5,
       "character": "五",
-      "pinyin": "wǔ",
+      "pinyin": "wu",
       "tone": 3,
       "meaning": "five",
       "story": "Five fingers bend down drooping as you say \"Woo\" sadly!",
-      "primitives": ["fingers"]
+      "primitives": [
+        "fingers"
+      ]
     },
     {
       "id": 6,
       "character": "六",
-      "pinyin": "liù",
+      "pinyin": "liu",
       "tone": 4,
       "meaning": "six",
       "story": "A lid over eight yells \"Leo!\" for six sharp reasons!",
-      "primitives": ["lid", "eight"]
+      "primitives": [
+        "lid",
+        "eight"
+      ]
     },
     {
       "id": 7,
       "character": "七",
-      "pinyin": "qī",
+      "pinyin": "qi",
       "tone": 1,
       "meaning": "seven",
       "story": "Seven slashes happily high in the sky, singing \"Chee!\"",
-      "primitives": ["slash"]
+      "primitives": [
+        "slash"
+      ]
     },
     {
       "id": 8,
       "character": "八",
-      "pinyin": "bā",
+      "pinyin": "ba",
       "tone": 1,
       "meaning": "eight",
       "story": "Eight paths split cheerfully as you sing \"Baaaa!\"",
-      "primitives": ["split paths"]
+      "primitives": [
+        "split paths"
+      ]
     },
     {
       "id": 9,
       "character": "九",
-      "pinyin": "jiǔ",
+      "pinyin": "jiu",
       "tone": 3,
       "meaning": "nine",
       "story": "Nine hooks bend and dip down, curving like \"Jiu\" bends!",
-      "primitives": ["hook"]
+      "primitives": [
+        "hook"
+      ]
     },
     {
       "id": 10,
       "character": "十",
-      "pinyin": "shí",
+      "pinyin": "shi",
       "tone": 2,
       "meaning": "ten",
       "story": "A cross at ten keeps asking \"Shi? Why ten?\" curiously!",
-      "primitives": ["cross"]
+      "primitives": [
+        "cross"
+      ]
     },
     {
       "id": 11,
       "character": "口",
-      "pinyin": "kǒu",
+      "pinyin": "kou",
       "tone": 3,
-      "meaning": "mouth",
+      "meaning": "Mouth",
       "story": "Your mouth bends down drooping when you say \"Ko\" with a frown!",
-      "primitives": ["mouth"]
+      "primitives": [
+        "mouth"
+      ]
     },
     {
       "id": 12,
       "character": "日",
-      "pinyin": "rì",
+      "pinyin": "ri",
       "tone": 4,
-      "meaning": "day",
+      "meaning": "Day",
       "story": "The sun yells \"REE!\" sharply to wake you each day!",
-      "primitives": ["sun"]
+      "primitives": [
+        "sun"
+      ]
     },
     {
       "id": 13,
       "character": "月",
-      "pinyin": "yuè",
+      "pinyin": "yue",
       "tone": 4,
-      "meaning": "month",
+      "meaning": "Month",
       "story": "The moon commands \"Yue!\" sharply each month it appears!",
-      "primitives": ["moon"]
+      "primitives": [
+        "moon"
+      ]
     },
     {
       "id": 14,
       "character": "田",
-      "pinyin": "tián",
+      "pinyin": "tian",
       "tone": 2,
-      "meaning": "rice field",
+      "meaning": "Rice Field",
       "story": "In the rice field, farmers ask \"Tian? Why so muddy?\" curiously!",
-      "primitives": ["rice field"]
+      "primitives": [
+        "rice field"
+      ]
     },
     {
       "id": 15,
       "character": "目",
-      "pinyin": "mù",
+      "pinyin": "mu",
       "tone": 4,
-      "meaning": "eye",
+      "meaning": "Eye",
       "story": "Your eye angrily yells \"MOO!\" when dust gets in it!",
-      "primitives": ["eye"]
+      "primitives": [
+        "eye"
+      ]
     },
     {
       "id": 16,
       "character": "古",
-      "pinyin": "gǔ",
+      "pinyin": "gu",
       "tone": 3,
       "meaning": "ancient",
       "story": "Ancient stone tablets bend and droop, curved with age like \"Gu\"!",
-      "primitives": ["ten", "mouth"]
+      "primitives": [
+        "ten",
+        "mouth"
+      ]
     },
     {
       "id": 17,
       "character": "胡",
-      "pinyin": "hú",
+      "pinyin": "hu",
       "tone": 2,
       "meaning": "recklessly",
       "story": "A reckless fool with wild whiskers asks \"Who? Hu?\" questioning everything!",
-      "primitives": ["flesh", "ancient"]
+      "primitives": [
+        "flesh",
+        "ancient"
+      ]
     },
     {
       "id": 18,
       "character": "吾",
-      "pinyin": "wú",
+      "pinyin": "wu",
       "tone": 2,
       "meaning": "I (literary)",
       "story": "\"I,\" says the mouth, questioning \"Wu? Am I important?\" with a sigh!",
-      "primitives": ["five", "mouth"]
+      "primitives": [
+        "five",
+        "mouth"
+      ]
     }
   ]
 }

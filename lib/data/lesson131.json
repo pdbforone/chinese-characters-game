@@ -1,0 +1,167 @@
+{
+  "lesson": 131,
+  "characters": [
+    {
+      "id": 2341,
+      "character": "徑",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "trail",
+      "story": "\"GING!\" the bell commands sharply on the trail path - a shortcut through the queue.",
+      "primitives": []
+    },
+    {
+      "id": 2342,
+      "character": "溪",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "creek",
+      "story": "\"Gee!\" she sings cheerfully, splashing in the creek where water vultures and St. Bernards play.",
+      "primitives": []
+    },
+    {
+      "id": 2343,
+      "character": "幼",
+      "pinyin": "you",
+      "tone": 4,
+      "meaning": "young",
+      "story": "\"YOU!\" the young child commands sharply, immature but bossy.",
+      "primitives": []
+    },
+    {
+      "id": 2344,
+      "character": "幽",
+      "pinyin": "you",
+      "tone": 1,
+      "meaning": "secluded",
+      "story": "\"Yo!\" he sings cheerfully from the secluded, quiet remote hiding spot.",
+      "primitives": []
+    },
+    {
+      "id": 2345,
+      "character": "濕",
+      "pinyin": "shi",
+      "tone": 1,
+      "meaning": "wet",
+      "story": "\"Gee!\" she sings cheerfully, though wet from water and sun - the dehumidifier fights two cocoons of moisture.",
+      "primitives": []
+    },
+    {
+      "id": 2346,
+      "character": "玄",
+      "pinyin": "xuan",
+      "tone": 2,
+      "meaning": "mysterious",
+      "story": "\"You want mysteries?\" he questions curiously about the profound enigmatic secrets.",
+      "primitives": []
+    },
+    {
+      "id": 2347,
+      "character": "畜",
+      "pinyin": "chu",
+      "tone": 4,
+      "meaning": "livestock",
+      "story": "\"CHEW!\" the livestock commands sharply - the animals and cattle are hungry.",
+      "primitives": []
+    },
+    {
+      "id": 2348,
+      "character": "蓄",
+      "pinyin": "xu",
+      "tone": 4,
+      "meaning": "save up",
+      "story": "\"SHOOT for savings!\" she commands sharply, using flower power to save up with the livestock.",
+      "primitives": []
+    },
+    {
+      "id": 2349,
+      "character": "牽",
+      "pinyin": "qian",
+      "tone": 1,
+      "meaning": "lead along",
+      "story": "\"Chain 'em!\" he sings cheerfully, leading the animals along, pulling them by involvement.",
+      "primitives": []
+    },
+    {
+      "id": 2350,
+      "character": "弦",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "bow string",
+      "story": "\"You want tension?\" she questions curiously, pulling the mysterious bow string tight.",
+      "primitives": []
+    },
+    {
+      "id": 2351,
+      "character": "磁",
+      "pinyin": "ci",
+      "tone": 2,
+      "meaning": "magnetism",
+      "story": "\"See?\" he questions curiously as magnetism creates attraction and pull.",
+      "primitives": []
+    },
+    {
+      "id": 2352,
+      "character": "滋",
+      "pinyin": "zi",
+      "tone": 1,
+      "meaning": "nourish",
+      "story": "\"Gee!\" she sings cheerfully, water nourishing and enriching growth.",
+      "primitives": []
+    },
+    {
+      "id": 2353,
+      "character": "慈",
+      "pinyin": "ci",
+      "tone": 2,
+      "meaning": "kindhearted",
+      "story": "\"See?\" the kindhearted woman questions curiously, showing mercy and compassion.",
+      "primitives": []
+    },
+    {
+      "id": 2354,
+      "character": "譏",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "deride",
+      "story": "\"Gee!\" he sings cheerfully while mocking words of scorn and ridicule.",
+      "primitives": []
+    },
+    {
+      "id": 2355,
+      "character": "爍",
+      "pinyin": "shuo",
+      "tone": 4,
+      "meaning": "luminous",
+      "story": "\"SHOCK!\" she commands sharply as fire and music create luminous, bright sparkling light.",
+      "primitives": []
+    },
+    {
+      "id": 2356,
+      "character": "遜",
+      "pinyin": "xun",
+      "tone": 4,
+      "meaning": "modest",
+      "story": "\"SHUN!\" he commands sharply, being modest and humble about his inferior skills.",
+      "primitives": []
+    },
+    {
+      "id": 2357,
+      "character": "卸",
+      "pinyin": "xie",
+      "tone": 4,
+      "meaning": "unload",
+      "story": "\"SHARE the load!\" she commands sharply, removing and discharging cargo.",
+      "primitives": []
+    },
+    {
+      "id": 2358,
+      "character": "御",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "imperial",
+      "story": "\"YOU!\" the imperial emperor commands sharply, controlling the royal queue to unload.",
+      "primitives": []
+    }
+  ]
+}

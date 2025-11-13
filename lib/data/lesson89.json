@@ -1,0 +1,167 @@
+{
+  "lesson": 89,
+  "characters": [
+    {
+      "id": 1584,
+      "character": "鬥",
+      "pinyin": "dou",
+      "tone": 4,
+      "meaning": "fight",
+      "story": "Fight two hands commands sharply \"Doh!\" - combat struggle!",
+      "primitives": []
+    },
+    {
+      "id": 1585,
+      "character": "栓",
+      "pinyin": "shuan",
+      "tone": 1,
+      "meaning": "plug",
+      "story": "Plug tree all sings \"Shwahn!\" cheerfully - stopper cork!",
+      "primitives": []
+    },
+    {
+      "id": 1586,
+      "character": "柱",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "pillar",
+      "story": "Pillar tree master commands sharply \"Joo!\" - column post!",
+      "primitives": []
+    },
+    {
+      "id": 1587,
+      "character": "鉤",
+      "pinyin": "gou",
+      "tone": 1,
+      "meaning": "hook",
+      "story": "Hook metal sentence sings \"Goh!\" cheerfully - curved catch!",
+      "primitives": []
+    },
+    {
+      "id": 1588,
+      "character": "鈔",
+      "pinyin": "chao",
+      "tone": 1,
+      "meaning": "paper money",
+      "story": "Paper money metal few sings \"Chao!\" cheerfully - banknote currency!",
+      "primitives": []
+    },
+    {
+      "id": 1589,
+      "character": "銷",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "put up for sale",
+      "story": "Put up for sale metal whistle sings \"Shyao!\" cheerfully - sell market!",
+      "primitives": []
+    },
+    {
+      "id": 1590,
+      "character": "鎖",
+      "pinyin": "suo",
+      "tone": 3,
+      "meaning": "lock",
+      "story": "Lock metal small bends down drooping \"Swoh\" - secure key!",
+      "primitives": []
+    },
+    {
+      "id": 1591,
+      "character": "鑽",
+      "pinyin": "zuan",
+      "tone": 1,
+      "meaning": "drill",
+      "story": "Drill metal lifesaver sings \"Dzwahn!\" cheerfully - bore penetrate machine!",
+      "primitives": []
+    },
+    {
+      "id": 1592,
+      "character": "迫",
+      "pinyin": "po",
+      "tone": 4,
+      "meaning": "compel",
+      "story": "Compel road white commands sharply \"Pwoh!\" - force urge!",
+      "primitives": []
+    },
+    {
+      "id": 1593,
+      "character": "逼",
+      "pinyin": "bi",
+      "tone": 1,
+      "meaning": "press",
+      "story": "Press road compel sings \"Bee!\" cheerfully - coerce pressure!",
+      "primitives": []
+    },
+    {
+      "id": 1594,
+      "character": "逃",
+      "pinyin": "tao",
+      "tone": 2,
+      "meaning": "escape",
+      "story": "Escape road omen questions \"Tao? Flee?\" curiously - run away!",
+      "primitives": []
+    },
+    {
+      "id": 1595,
+      "character": "逞",
+      "pinyin": "cheng",
+      "tone": 3,
+      "meaning": "flaunt",
+      "story": "Flaunt road display bends down drooping \"Chung\" - show off swagger!",
+      "primitives": []
+    },
+    {
+      "id": 1596,
+      "character": "轟",
+      "pinyin": "hong",
+      "tone": 1,
+      "meaning": "rumble",
+      "story": "Rumble three cars sing \"Hohng!\" cheerfully - boom thunder vibrate!",
+      "primitives": []
+    },
+    {
+      "id": 1597,
+      "character": "軌",
+      "pinyin": "gui",
+      "tone": 3,
+      "meaning": "rails",
+      "story": "Rails car nine bends down drooping \"Gway\" - track for trains!",
+      "primitives": []
+    },
+    {
+      "id": 1598,
+      "character": "軋",
+      "pinyin": "ya",
+      "tone": 4,
+      "meaning": "flatten",
+      "story": "Flatten car fishhook commands sharply \"Yah!\" - roll press crush!",
+      "primitives": []
+    },
+    {
+      "id": 1599,
+      "character": "輻",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "spokes",
+      "story": "Spokes car wealth questions \"Foo? Radiating?\" curiously - wheel rays!",
+      "primitives": []
+    },
+    {
+      "id": 1600,
+      "character": "煎",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "sauté",
+      "story": "Sauté in front cooking fire sings \"Jyan!\" cheerfully - frying pan!",
+      "primitives": []
+    },
+    {
+      "id": 1601,
+      "character": "喻",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "figure of speech",
+      "story": "Figure of speech mouth explain commands sharply \"Yoo!\" - metaphor analogy!",
+      "primitives": []
+    }
+  ]
+}

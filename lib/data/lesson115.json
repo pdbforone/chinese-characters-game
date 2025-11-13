@@ -1,0 +1,167 @@
+{
+  "lesson": 115,
+  "characters": [
+    {
+      "id": 2052,
+      "character": "劍",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "saber",
+      "story": "Saber assemble sword commands sharply \"Jyan!\" - blade weapon!",
+      "primitives": []
+    },
+    {
+      "id": 2053,
+      "character": "斂",
+      "pinyin": "lian",
+      "tone": 3,
+      "meaning": "restrain",
+      "story": "Restrain debate taskmaster bends down drooping \"Lyan\" - control tighten collect!",
+      "primitives": []
+    },
+    {
+      "id": 2054,
+      "character": "撿",
+      "pinyin": "jian",
+      "tone": 3,
+      "meaning": "pick up",
+      "story": "Pick up hand restrain bends down drooping \"Jyan\" - gather find!",
+      "primitives": []
+    },
+    {
+      "id": 2055,
+      "character": "簽",
+      "pinyin": "qian",
+      "tone": 1,
+      "meaning": "sign",
+      "story": "Sign bamboo assemble sings \"Chyan!\" cheerfully - autograph signature!",
+      "primitives": []
+    },
+    {
+      "id": 2056,
+      "character": "儉",
+      "pinyin": "jian",
+      "tone": 3,
+      "meaning": "thrifty",
+      "story": "Thrifty person sign bends down drooping \"Jyan\" - frugal economical!",
+      "primitives": []
+    },
+    {
+      "id": 2057,
+      "character": "萊",
+      "pinyin": "lai",
+      "tone": 2,
+      "meaning": "lambsquarters",
+      "story": "Lambsquarters flowers come questions \"Ligh? Pigweed?\" curiously - edible plant!",
+      "primitives": []
+    },
+    {
+      "id": 2058,
+      "character": "葛",
+      "pinyin": "ge",
+      "tone": 2,
+      "meaning": "kudzu",
+      "story": "Kudzu flowers siesta questions \"Guh? Vine?\" curiously - climbing plant!",
+      "primitives": []
+    },
+    {
+      "id": 2059,
+      "character": "褐",
+      "pinyin": "he",
+      "tone": 4,
+      "meaning": "brown",
+      "story": "Brown clothing siesta commands sharply \"Huh!\" - dark color!",
+      "primitives": []
+    },
+    {
+      "id": 2060,
+      "character": "竭",
+      "pinyin": "jie",
+      "tone": 2,
+      "meaning": "use up",
+      "story": "Use up stand siesta questions \"Jyeh? Exhaust?\" curiously - deplete!",
+      "primitives": []
+    },
+    {
+      "id": 2061,
+      "character": "歇",
+      "pinyin": "xie",
+      "tone": 1,
+      "meaning": "take a rest",
+      "story": "Take a rest siesta breath sings \"Shyeh!\" cheerfully - pause break!",
+      "primitives": []
+    },
+    {
+      "id": 2062,
+      "character": "揭",
+      "pinyin": "jie",
+      "tone": 1,
+      "meaning": "reveal",
+      "story": "Reveal fingers siesta sings \"Jyeh!\" cheerfully - uncover expose hat!",
+      "primitives": []
+    },
+    {
+      "id": 2063,
+      "character": "淫",
+      "pinyin": "yin",
+      "tone": 2,
+      "meaning": "promiscuous",
+      "story": "Promiscuous water climb questions \"Yin? Lewd?\" curiously - excessive wanton!",
+      "primitives": []
+    },
+    {
+      "id": 2064,
+      "character": "挺",
+      "pinyin": "ting",
+      "tone": 3,
+      "meaning": "erect",
+      "story": "Erect hand court bends down drooping \"Ting\" - upright stand tall!",
+      "primitives": []
+    },
+    {
+      "id": 2065,
+      "character": "瓦",
+      "pinyin": "wa",
+      "tone": 3,
+      "meaning": "tile",
+      "story": "Tile roof piece bends down drooping \"Wah\" - ceramic shingle!",
+      "primitives": []
+    },
+    {
+      "id": 2066,
+      "character": "瓷",
+      "pinyin": "ci",
+      "tone": 2,
+      "meaning": "porcelain",
+      "story": "Porcelain tile meeting questions \"Tsuh? China?\" curiously - ceramic!",
+      "primitives": []
+    },
+    {
+      "id": 2067,
+      "character": "瓶",
+      "pinyin": "ping",
+      "tone": 2,
+      "meaning": "bottle",
+      "story": "Bottle tile simultaneously questions \"Ping? Container?\" curiously - vase!",
+      "primitives": []
+    },
+    {
+      "id": 2068,
+      "character": "鋁",
+      "pinyin": "lü",
+      "tone": 3,
+      "meaning": "aluminum",
+      "story": "Aluminum metal spine bends down drooping \"Lyoo\" - light metal element!",
+      "primitives": []
+    },
+    {
+      "id": 2069,
+      "character": "宮",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "palace",
+      "story": "Palace house spine sings \"Gohng!\" cheerfully - royal residence!",
+      "primitives": []
+    }
+  ]
+}

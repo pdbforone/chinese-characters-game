@@ -1,0 +1,167 @@
+{
+  "lesson": 84,
+  "characters": [
+    {
+      "id": 1494,
+      "character": "怪",
+      "pinyin": "guai",
+      "tone": 4,
+      "meaning": "peculiar",
+      "story": "Peculiar heart again commands sharply \"Gwigh!\" - strange unusual suspicious!",
+      "primitives": []
+    },
+    {
+      "id": 1495,
+      "character": "赤",
+      "pinyin": "chi",
+      "tone": 4,
+      "meaning": "crimson",
+      "story": "Crimson red fire commands sharply \"Chir!\" - scarlet bare naked!",
+      "primitives": []
+    },
+    {
+      "id": 1496,
+      "character": "亦",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "likewise",
+      "story": "Likewise head drop commands sharply \"Yee!\" - also too!",
+      "primitives": []
+    },
+    {
+      "id": 1497,
+      "character": "極",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "Extreme",
+      "story": "Extreme tree likewise questions \"Jee? Utmost?\" curiously - pole!",
+      "primitives": []
+    },
+    {
+      "id": 1498,
+      "character": "雜",
+      "pinyin": "za",
+      "tone": 2,
+      "meaning": "miscellaneous",
+      "story": "Miscellaneous collection questions \"Dzah? Mixed?\" curiously - blended various!",
+      "primitives": []
+    },
+    {
+      "id": 1499,
+      "character": "曰",
+      "pinyin": "yue",
+      "tone": 1,
+      "meaning": "sayeth",
+      "story": "Sayeth mouth speaks sings \"Yueh!\" cheerfully - older style say!",
+      "primitives": []
+    },
+    {
+      "id": 1500,
+      "character": "亂",
+      "pinyin": "luan",
+      "tone": 4,
+      "meaning": "Chaos",
+      "story": "Chaos tangled threads commands sharply \"Lwahn!\" - confusion disorderly riot!",
+      "primitives": []
+    },
+    {
+      "id": 1501,
+      "character": "叭",
+      "pinyin": "ba",
+      "tone": 1,
+      "meaning": "trumpet",
+      "story": "Trumpet mouth eight sings \"Bah!\" cheerfully - horn blaring!",
+      "primitives": []
+    },
+    {
+      "id": 1502,
+      "character": "咕",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "mutter",
+      "story": "Mutter mouth ancient sings \"Goo!\" cheerfully - murmuring sounds!",
+      "primitives": []
+    },
+    {
+      "id": 1503,
+      "character": "咱",
+      "pinyin": "zan",
+      "tone": 2,
+      "meaning": "we (inclusive)",
+      "story": "We inclusive mouth own questions \"Dzahn? Together?\" curiously - us all!",
+      "primitives": []
+    },
+    {
+      "id": 1504,
+      "character": "串",
+      "pinyin": "chuan",
+      "tone": 4,
+      "meaning": "string together",
+      "story": "String together skewers commands sharply \"Chwahn!\" - connecting串串!",
+      "primitives": []
+    },
+    {
+      "id": 1505,
+      "character": "罩",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "overspread",
+      "story": "Overspread net table commands sharply \"Jao!\" - covering over!",
+      "primitives": []
+    },
+    {
+      "id": 1506,
+      "character": "囂",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "hubbub",
+      "story": "Hubbub mouths enclosure sings \"Shyao!\" cheerfully - noisy clamor!",
+      "primitives": []
+    },
+    {
+      "id": 1507,
+      "character": "顛",
+      "pinyin": "dian",
+      "tone": 1,
+      "meaning": "invert",
+      "story": "Invert true head sings \"Dyan!\" cheerfully - upside down topple!",
+      "primitives": []
+    },
+    {
+      "id": 1508,
+      "character": "叨",
+      "pinyin": "dao",
+      "tone": 1,
+      "meaning": "talkative",
+      "story": "Talkative mouth knife sings \"Dao!\" cheerfully - chattering endlessly!",
+      "primitives": []
+    },
+    {
+      "id": 1509,
+      "character": "刮",
+      "pinyin": "gua",
+      "tone": 1,
+      "meaning": "scrape",
+      "story": "Scrape tongue knife sings \"Gwah!\" cheerfully - scratching off!",
+      "primitives": []
+    },
+    {
+      "id": 1510,
+      "character": "盯",
+      "pinyin": "ding",
+      "tone": 1,
+      "meaning": "stare at",
+      "story": "Stare at eye nail sings \"Ding!\" cheerfully - gazing fixedly!",
+      "primitives": []
+    },
+    {
+      "id": 1511,
+      "character": "呵",
+      "pinyin": "a",
+      "tone": 1,
+      "meaning": "rebuke",
+      "story": "Rebuke mouth breathe sings \"Ah!\" cheerfully - scolding!",
+      "primitives": []
+    }
+  ]
+}

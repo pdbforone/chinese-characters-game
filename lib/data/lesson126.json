@@ -1,0 +1,167 @@
+{
+  "lesson": 126,
+  "characters": [
+    {
+      "id": 2250,
+      "character": "狡",
+      "pinyin": "jiao",
+      "tone": 3,
+      "meaning": "sly",
+      "story": "Sly pack wild dogs mix bends down drooping \"Jyao\" - cunning crafty!",
+      "primitives": []
+    },
+    {
+      "id": 2251,
+      "character": "趴",
+      "pinyin": "pa",
+      "tone": 1,
+      "meaning": "prostrate oneself",
+      "story": "Prostrate oneself run eight sings \"Pah!\" cheerfully - head down fatso don't move!",
+      "primitives": []
+    },
+    {
+      "id": 2252,
+      "character": "踏",
+      "pinyin": "ta",
+      "tone": 4,
+      "meaning": "trample",
+      "story": "Trample wooden leg water commands sharply \"Tah!\" - step stamp!",
+      "primitives": []
+    },
+    {
+      "id": 2254,
+      "character": "蹄",
+      "pinyin": "ti",
+      "tone": 2,
+      "meaning": "hoof",
+      "story": "Hoof wooden leg sovereign questions \"Tee? Animal foot?\" curiously - horse hooves!",
+      "primitives": []
+    },
+    {
+      "id": 2255,
+      "character": "捉",
+      "pinyin": "zhuo",
+      "tone": 1,
+      "meaning": "catch",
+      "story": "Catch hand leg sings \"Jwoh!\" cheerfully - seize grab capture!",
+      "primitives": []
+    },
+    {
+      "id": 2256,
+      "character": "踩",
+      "pinyin": "cai",
+      "tone": 3,
+      "meaning": "step on",
+      "story": "Step on wooden leg pluck bends down drooping \"Tsigh\" - tread trample!",
+      "primitives": []
+    },
+    {
+      "id": 2257,
+      "character": "蹦",
+      "pinyin": "beng",
+      "tone": 4,
+      "meaning": "hop",
+      "story": "Hop wooden leg mountain commands sharply \"Bung!\" - jump bounce!",
+      "primitives": []
+    },
+    {
+      "id": 2258,
+      "character": "跌",
+      "pinyin": "die",
+      "tone": 1,
+      "meaning": "slump",
+      "story": "Slump wooden leg stumble sings \"Dyeh!\" cheerfully - fall tumble face up!",
+      "primitives": []
+    },
+    {
+      "id": 2259,
+      "character": "促",
+      "pinyin": "cu",
+      "tone": 4,
+      "meaning": "urge",
+      "story": "Urge person wooden leg commands sharply \"Tsoo!\" - hasten rush!",
+      "primitives": []
+    },
+    {
+      "id": 2260,
+      "character": "踢",
+      "pinyin": "ti",
+      "tone": 1,
+      "meaning": "kick",
+      "story": "Kick wooden leg easy sings \"Tee!\" cheerfully - boot strike!",
+      "primitives": []
+    },
+    {
+      "id": 2261,
+      "character": "躁",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "impetuous",
+      "story": "Impetuous body wood pulp commands sharply \"Dzao!\" - irritable jittery!",
+      "primitives": []
+    },
+    {
+      "id": 2262,
+      "character": "噪",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "chirping",
+      "story": "Chirping mouth wood pulp commands sharply \"Dzao!\" - noisy twitter static!",
+      "primitives": []
+    },
+    {
+      "id": 2263,
+      "character": "澡",
+      "pinyin": "zao",
+      "tone": 3,
+      "meaning": "bath",
+      "story": "Bath water wood pulp bends down drooping \"Dzao\" - wash cleanse!",
+      "primitives": []
+    },
+    {
+      "id": 2264,
+      "character": "藻",
+      "pinyin": "zao",
+      "tone": 3,
+      "meaning": "algae",
+      "story": "Algae flowers bath bends down drooping \"Dzao\" - water plants!",
+      "primitives": []
+    },
+    {
+      "id": 2265,
+      "character": "操",
+      "pinyin": "cao",
+      "tone": 1,
+      "meaning": "exercise",
+      "story": "Exercise hand wood pulp sings \"Tsao!\" cheerfully - drill practice!",
+      "primitives": []
+    },
+    {
+      "id": 2266,
+      "character": "燥",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "parched",
+      "story": "Parched fire wood pulp commands sharply \"Dzao!\" - dry arid!",
+      "primitives": []
+    },
+    {
+      "id": 2267,
+      "character": "躍",
+      "pinyin": "yue",
+      "tone": 4,
+      "meaning": "leap",
+      "story": "Leap wooden leg wings commands sharply \"Yueh!\" - jump bound!",
+      "primitives": []
+    },
+    {
+      "id": 2268,
+      "character": "戳",
+      "pinyin": "chuo",
+      "tone": 1,
+      "meaning": "jab",
+      "story": "Jab headdress fiesta sings \"Chwoh!\" cheerfully - poke stab!",
+      "primitives": []
+    }
+  ]
+}

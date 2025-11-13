@@ -1,0 +1,167 @@
+{
+  "lesson": 52,
+  "characters": [
+    {
+      "id": 1023,
+      "character": "彎",
+      "pinyin": "Wan",
+      "tone": 5,
+      "meaning": "curved",
+      "story": "curved sings \"Wan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1024,
+      "character": "灣",
+      "pinyin": "Wan",
+      "tone": 5,
+      "meaning": "Bay",
+      "story": "Bay sings \"Wan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1025,
+      "character": "戀",
+      "pinyin": "Lian",
+      "tone": 5,
+      "meaning": "to be enamored of",
+      "story": "to be enamored of commands \"Lian!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1026,
+      "character": "變",
+      "pinyin": "Bian",
+      "tone": 5,
+      "meaning": "to change",
+      "story": "to change commands \"Bian!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1027,
+      "character": "經",
+      "pinyin": "Jing",
+      "tone": 5,
+      "meaning": "Scripture",
+      "story": "Scripture sings \"Jing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1028,
+      "character": "輕",
+      "pinyin": "Qing",
+      "tone": 5,
+      "meaning": "lightweight",
+      "story": "lightweight sings \"Qing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1029,
+      "character": "後",
+      "pinyin": "Hou",
+      "tone": 5,
+      "meaning": "behind",
+      "story": "behind commands \"Hou!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1030,
+      "character": "幾",
+      "pinyin": "Ji",
+      "tone": 5,
+      "meaning": "how many?",
+      "story": "how many? bends down drooping saying \"Ji\"!",
+      "primitives": []
+    },
+    {
+      "id": 1031,
+      "character": "機",
+      "pinyin": "Ji",
+      "tone": 5,
+      "meaning": "Machine",
+      "story": "Machine sings \"Ji!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1032,
+      "character": "斷",
+      "pinyin": "Duan",
+      "tone": 5,
+      "meaning": "to sever",
+      "story": "to sever commands \"Duan!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1033,
+      "character": "繼",
+      "pinyin": "Ji",
+      "tone": 5,
+      "meaning": "to carry on",
+      "story": "to carry on commands \"Ji!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1034,
+      "character": "顯",
+      "pinyin": "Xian",
+      "tone": 5,
+      "meaning": "obvious",
+      "story": "obvious bends down drooping saying \"Xian\"!",
+      "primitives": []
+    },
+    {
+      "id": 1035,
+      "character": "樂",
+      "pinyin": "Yue",
+      "tone": 5,
+      "meaning": "Music",
+      "story": "Music commands \"Yue!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1036,
+      "character": "藥",
+      "pinyin": "Yao",
+      "tone": 5,
+      "meaning": "Medicine",
+      "story": "Medicine commands \"Yao!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1037,
+      "character": "雞",
+      "pinyin": "Ji",
+      "tone": 5,
+      "meaning": "Chicken",
+      "story": "Chicken sings \"Ji!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1038,
+      "character": "麼",
+      "pinyin": "Me",
+      "tone": 5,
+      "meaning": "[interrogative suffix]; [pause marker]",
+      "story": "[interrogative suffix]; [pause marker] says \"Me\" neutrally!",
+      "primitives": []
+    },
+    {
+      "id": 1039,
+      "character": "系",
+      "pinyin": "Xi",
+      "tone": 5,
+      "meaning": "Lineage",
+      "story": "Lineage commands \"Xi!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1040,
+      "character": "係",
+      "pinyin": "Xi",
+      "tone": 5,
+      "meaning": "related to",
+      "story": "related to commands \"Xi!\" yells!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 160,
+  "characters": [
+    {
+      "id": 2865,
+      "character": "遞",
+      "pinyin": "di",
+      "tone": 4,
+      "meaning": "hand over",
+      "story": "\"DEE!\" the tiger and road command sharply - to hand over, deliver, and pass the smoke and drink!",
+      "primitives": []
+    },
+    {
+      "id": 2866,
+      "character": "虜",
+      "pinyin": "lu",
+      "tone": 3,
+      "meaning": "take captive",
+      "story": "The tiger and male with brains hanging out bend down drooping - to take captive, capture as prisoner.",
+      "primitives": []
+    },
+    {
+      "id": 2867,
+      "character": "虐",
+      "pinyin": "nüe",
+      "tone": 4,
+      "meaning": "despotic",
+      "story": "\"NYUEH!\" the tiger and backward broom command sharply - despotic, cruel to mistreat!",
+      "primitives": []
+    },
+    {
+      "id": 2868,
+      "character": "膚",
+      "pinyin": "fu",
+      "tone": 1,
+      "meaning": "skin",
+      "story": "\"FOO!\" the flesh sings cheerfully - skin, epidermis, and surface!",
+      "primitives": []
+    },
+    {
+      "id": 2869,
+      "character": "盧",
+      "pinyin": "lu",
+      "tone": 2,
+      "meaning": "Louvre",
+      "story": "\"LOO?\" he questions curiously - the Louvre, museum?",
+      "primitives": []
+    },
+    {
+      "id": 2870,
+      "character": "爐",
+      "pinyin": "lu",
+      "tone": 2,
+      "meaning": "stove",
+      "story": "\"LOO?\" the fire and Louvre question curiously - a stove, furnace with hot pebbles!",
+      "primitives": []
+    },
+    {
+      "id": 2871,
+      "character": "蘆",
+      "pinyin": "lu",
+      "tone": 2,
+      "meaning": "reeds",
+      "story": "\"LOO?\" the flowers and Louvre question curiously - reeds, marsh plants?",
+      "primitives": []
+    },
+    {
+      "id": 2872,
+      "character": "驢",
+      "pinyin": "lü",
+      "tone": 2,
+      "meaning": "donkey",
+      "story": "\"LYOO?\" the horse and Louvre question curiously - a donkey, stubborn ass?",
+      "primitives": []
+    },
+    {
+      "id": 2873,
+      "character": "虧",
+      "pinyin": "kui",
+      "tone": 1,
+      "meaning": "loss",
+      "story": "\"KWAY!\" it sings cheerfully despite loss, deficit, and damage!",
+      "primitives": []
+    },
+    {
+      "id": 2874,
+      "character": "污",
+      "pinyin": "wu",
+      "tone": 1,
+      "meaning": "filthy",
+      "story": "\"WOO!\" the water sings cheerfully - filthy, dirty to pollute!",
+      "primitives": []
+    },
+    {
+      "id": 2875,
+      "character": "愕",
+      "pinyin": "e",
+      "tone": 4,
+      "meaning": "stunned",
+      "story": "\"UH!\" the state of mind, chatterbox, and snake hook command sharply - stunned and shocked!",
+      "primitives": []
+    },
+    {
+      "id": 2876,
+      "character": "誇",
+      "pinyin": "kua",
+      "tone": 1,
+      "meaning": "brag",
+      "story": "\"KWAH!\" the words sing cheerfully - to brag, boast, and exaggerate the rumor!",
+      "primitives": []
+    },
+    {
+      "id": 2877,
+      "character": "垮",
+      "pinyin": "kua",
+      "tone": 3,
+      "meaning": "collapse",
+      "story": "The soil and blowhard bend down drooping - to collapse, crumble, and fail.",
+      "primitives": []
+    },
+    {
+      "id": 2878,
+      "character": "跨",
+      "pinyin": "kua",
+      "tone": 4,
+      "meaning": "straddle",
+      "story": "\"KWAH!\" the wooden leg and blowhard command sharply - to straddle, span, and cross!",
+      "primitives": []
+    },
+    {
+      "id": 2879,
+      "character": "獻",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "donate",
+      "story": "\"SHYEN!\" the dog commands sharply - to donate, offer, and contribute to school!",
+      "primitives": []
+    },
+    {
+      "id": 2880,
+      "character": "融",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "melt",
+      "story": "\"RUNG?\" he questions curiously - to melt, dissolve in gene fusion?",
+      "primitives": []
+    },
+    {
+      "id": 2881,
+      "character": "隔",
+      "pinyin": "ge",
+      "tone": 2,
+      "meaning": "separate",
+      "story": "\"GUH?\" the pinnacle questions curiously - to separate, isolate the hospital?",
+      "primitives": []
+    },
+    {
+      "id": 2882,
+      "character": "濾",
+      "pinyin": "lü",
+      "tone": 4,
+      "meaning": "filter",
+      "story": "\"LYOO!\" the water and ponder command sharply - to filter, strain, and sieve!",
+      "primitives": []
+    }
+  ]
+}

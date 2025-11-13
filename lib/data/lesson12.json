@@ -1,0 +1,167 @@
+{
+  "lesson": 12,
+  "characters": [
+    {
+      "id": 199,
+      "character": "相",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "one another",
+      "story": "One another with tree and eye sings \"Shyang!\" happily seeing each other!",
+      "primitives": []
+    },
+    {
+      "id": 200,
+      "character": "本",
+      "pinyin": "ben",
+      "tone": 3,
+      "meaning": "notebook",
+      "story": "A notebook tree root bends down drooping saying \"Ben\"!",
+      "primitives": []
+    },
+    {
+      "id": 201,
+      "character": "案",
+      "pinyin": "an",
+      "tone": 4,
+      "meaning": "legal case",
+      "story": "A legal case at the tree table commands \"An!\" sharply in judgment!",
+      "primitives": []
+    },
+    {
+      "id": 202,
+      "character": "未",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "not yet",
+      "story": "Not yet finished tree yells \"Way!\" sharply incomplete!",
+      "primitives": []
+    },
+    {
+      "id": 203,
+      "character": "末",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "Last",
+      "story": "Last branch of tree commands \"Mwoh!\" sharply at the end!",
+      "primitives": []
+    },
+    {
+      "id": 204,
+      "character": "沫",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "Foam",
+      "story": "Foam water at last yells \"Mwoh!\" sharply bubbling!",
+      "primitives": []
+    },
+    {
+      "id": 205,
+      "character": "味",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "Flavor",
+      "story": "Flavor of mouth not yet commands \"Way!\" sharply tasting!",
+      "primitives": []
+    },
+    {
+      "id": 206,
+      "character": "妹",
+      "pinyin": "mei",
+      "tone": 4,
+      "meaning": "younger sister",
+      "story": "Younger sister woman not yet yells \"May!\" sharply young!",
+      "primitives": []
+    },
+    {
+      "id": 207,
+      "character": "查",
+      "pinyin": "cha",
+      "tone": 2,
+      "meaning": "to investigate",
+      "story": "To investigate tree at dawn questions \"Cha? What happened?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 208,
+      "character": "渣",
+      "pinyin": "zha",
+      "tone": 1,
+      "meaning": "sediment",
+      "story": "Sediment water investigated sings \"Zha!\" cheerfully settling!",
+      "primitives": []
+    },
+    {
+      "id": 209,
+      "character": "染",
+      "pinyin": "ran",
+      "tone": 3,
+      "meaning": "to dye",
+      "story": "To dye water with nine trees bends down drooping saying \"Ran\"!",
+      "primitives": []
+    },
+    {
+      "id": 210,
+      "character": "李",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "Plum",
+      "story": "A plum tree child bends down drooping saying \"Lee\"!",
+      "primitives": []
+    },
+    {
+      "id": 211,
+      "character": "桌",
+      "pinyin": "zhuo",
+      "tone": 1,
+      "meaning": "Table",
+      "story": "A table tree卓 sings \"Zhuo!\" cheerfully high and eminent!",
+      "primitives": []
+    },
+    {
+      "id": 212,
+      "character": "若",
+      "pinyin": "ruo",
+      "tone": 4,
+      "meaning": "as if",
+      "story": "As if grass with right hand commands \"Ruo!\" sharply comparing!",
+      "primitives": []
+    },
+    {
+      "id": 213,
+      "character": "草",
+      "pinyin": "cao",
+      "tone": 3,
+      "meaning": "grass",
+      "story": "Grass with early heads bends down drooping saying \"Tsao\"!",
+      "primitives": []
+    },
+    {
+      "id": 214,
+      "character": "苦",
+      "pinyin": "ku",
+      "tone": 3,
+      "meaning": "Suffering",
+      "story": "Suffering grass and ancient bend down drooping saying \"Koo\"!",
+      "primitives": []
+    },
+    {
+      "id": 215,
+      "character": "寬",
+      "pinyin": "kuan",
+      "tone": 1,
+      "meaning": "wide",
+      "story": "Wide grass house sings \"Kuan!\" cheerfully spacious!",
+      "primitives": []
+    },
+    {
+      "id": 216,
+      "character": "葉",
+      "pinyin": "ye",
+      "tone": 4,
+      "meaning": "Leaf",
+      "story": "A leaf of grass and tree page commands \"Yeh!\" sharply falling!",
+      "primitives": []
+    }
+  ]
+}

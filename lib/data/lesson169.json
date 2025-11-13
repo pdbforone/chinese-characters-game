@@ -1,0 +1,104 @@
+{
+  "lesson": 169,
+  "characters": [
+    {
+      "id": 3028,
+      "character": "瓊",
+      "pinyin": "qiong",
+      "tone": 2,
+      "meaning": "fine jade",
+      "story": "\"CHYUNG?\" the jewel questions curiously - is this fine jade or green jade?",
+      "primitives": []
+    },
+    {
+      "id": 3029,
+      "character": "琳",
+      "pinyin": "lin",
+      "tone": 2,
+      "meaning": "gem",
+      "story": "\"LIN?\" the jewel questions curiously - a beautiful gem often used in girls' names.",
+      "primitives": []
+    },
+    {
+      "id": 3030,
+      "character": "鈞",
+      "pinyin": "jun",
+      "tone": 1,
+      "meaning": "30 catties",
+      "story": "\"JYOON!\" the metal sings cheerfully - thirty catties, about 15 kg, often in boys' names!",
+      "primitives": []
+    },
+    {
+      "id": 3031,
+      "character": "喲",
+      "pinyin": "yo",
+      "tone": 1,
+      "meaning": "Oh",
+      "story": "\"YOH,\" the mouth says neutrally - Oh! Like \"yo!\" between teens!",
+      "primitives": []
+    },
+    {
+      "id": 3032,
+      "character": "砲",
+      "pinyin": "pao",
+      "tone": 4,
+      "meaning": "cannon",
+      "story": "\"PAO!\" the stone commands sharply - a cannon firing artillery!",
+      "primitives": []
+    },
+    {
+      "id": 3033,
+      "character": "蒐",
+      "pinyin": "sou",
+      "tone": 1,
+      "meaning": "search for",
+      "story": "\"SOH!\" the flowers sing cheerfully as we search for them - to seek and find!",
+      "primitives": []
+    },
+    {
+      "id": 3034,
+      "character": "芙",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "hibiscus (A)",
+      "story": "\"FOO?\" the flower questions curiously - hibiscus, the first part, like a lotus flower.",
+      "primitives": []
+    },
+    {
+      "id": 3035,
+      "character": "蓉",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "hibiscus (B)",
+      "story": "\"RUNG?\" the flower questions curiously - hibiscus, the second part, cottonrose bloom!",
+      "primitives": []
+    },
+    {
+      "id": 3033,
+      "character": "Biang",
+      "pinyin": "biang",
+      "tone": 1,
+      "meaning": "Biang",
+      "story": "Biang hole flesh 2 cocoons words 2 long braids horse saber heart road questions \"Byahng?\" curiously - complex noodle!",
+      "primitives": []
+    },
+    {
+      "id": 2253,
+      "character": "踐",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "tread on",
+      "story": "Tread on wooden leg float commands sharply \"Jyen!\" - step fulfill promise!",
+      "primitives": []
+    },
+    {
+      "id": 3009,
+      "character": "趙",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "Zhao",
+      "story": "\"JAO!\" he commands sharply when introducing himself - the surname Zhao, like from the ancient dynasty!",
+      "primitives": []
+    }
+  ]
+}

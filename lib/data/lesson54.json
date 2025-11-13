@@ -1,0 +1,167 @@
+{
+  "lesson": 54,
+  "characters": [
+    {
+      "id": 1059,
+      "character": "印",
+      "pinyin": "Yin",
+      "tone": 5,
+      "meaning": "Print",
+      "story": "Print commands \"Yin!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1060,
+      "character": "興",
+      "pinyin": "Xing",
+      "tone": 5,
+      "meaning": "Excitement",
+      "story": "Excitement commands \"Xing!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1061,
+      "character": "酒",
+      "pinyin": "Jiu",
+      "tone": 5,
+      "meaning": "Liquor",
+      "story": "Liquor bends down drooping saying \"Jiu\"!",
+      "primitives": []
+    },
+    {
+      "id": 1062,
+      "character": "配",
+      "pinyin": "Pei",
+      "tone": 5,
+      "meaning": "to distribute",
+      "story": "to distribute commands \"Pei!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1063,
+      "character": "酋",
+      "pinyin": "Qiu",
+      "tone": 5,
+      "meaning": "Chieftain",
+      "story": "Chieftain questions \"Qiu? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1064,
+      "character": "尊",
+      "pinyin": "Zun",
+      "tone": 5,
+      "meaning": "to venerate",
+      "story": "to venerate sings \"Zun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1065,
+      "character": "遵",
+      "pinyin": "Zun",
+      "tone": 5,
+      "meaning": "to abide by",
+      "story": "to abide by sings \"Zun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1066,
+      "character": "豆",
+      "pinyin": "Dou",
+      "tone": 5,
+      "meaning": "Beans",
+      "story": "Beans commands \"Dou!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1067,
+      "character": "頭",
+      "pinyin": "Tou",
+      "tone": 5,
+      "meaning": "Head",
+      "story": "Head questions \"Tou? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1068,
+      "character": "短",
+      "pinyin": "Duan",
+      "tone": 5,
+      "meaning": "short",
+      "story": "short bends down drooping saying \"Duan\"!",
+      "primitives": []
+    },
+    {
+      "id": 1069,
+      "character": "禮",
+      "pinyin": "Li",
+      "tone": 5,
+      "meaning": "Ceremony",
+      "story": "Ceremony bends down drooping saying \"Li\"!",
+      "primitives": []
+    },
+    {
+      "id": 1070,
+      "character": "體",
+      "pinyin": "Ti",
+      "tone": 5,
+      "meaning": "Body",
+      "story": "Body bends down drooping saying \"Ti\"!",
+      "primitives": []
+    },
+    {
+      "id": 1071,
+      "character": "鼓",
+      "pinyin": "Gu",
+      "tone": 5,
+      "meaning": "a Drum",
+      "story": "a Drum bends down drooping saying \"Gu\"!",
+      "primitives": []
+    },
+    {
+      "id": 1072,
+      "character": "喜",
+      "pinyin": "Xi",
+      "tone": 5,
+      "meaning": "joyful",
+      "story": "joyful bends down drooping saying \"Xi\"!",
+      "primitives": []
+    },
+    {
+      "id": 1073,
+      "character": "廚",
+      "pinyin": "Chu",
+      "tone": 5,
+      "meaning": "Kitchen",
+      "story": "Kitchen questions \"Chu? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1074,
+      "character": "樹",
+      "pinyin": "Shu",
+      "tone": 5,
+      "meaning": "Timber",
+      "story": "Timber commands \"Shu!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1075,
+      "character": "血",
+      "pinyin": "Xue [普], xie [國]",
+      "tone": 5,
+      "meaning": "Blood",
+      "story": "Blood bends down drooping saying \"Xue [普], xie [國]\"!",
+      "primitives": []
+    },
+    {
+      "id": 1076,
+      "character": "盡",
+      "pinyin": "Jin",
+      "tone": 5,
+      "meaning": "exhausted",
+      "story": "exhausted commands \"Jin!\" yells!",
+      "primitives": []
+    }
+  ]
+}

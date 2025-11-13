@@ -1,0 +1,167 @@
+{
+  "lesson": 76,
+  "characters": [
+    {
+      "id": 1350,
+      "character": "舟",
+      "pinyin": "zhou",
+      "tone": 1,
+      "meaning": "Boat",
+      "story": "Boat hull sings \"Joh!\" cheerfully - floating vessel!",
+      "primitives": []
+    },
+    {
+      "id": 1351,
+      "character": "船",
+      "pinyin": "chuan",
+      "tone": 2,
+      "meaning": "Ship",
+      "story": "Ship boat marsh questions \"Chwahn? Vessel?\" curiously - sailing!",
+      "primitives": []
+    },
+    {
+      "id": 1352,
+      "character": "般",
+      "pinyin": "ban",
+      "tone": 1,
+      "meaning": "the Sort",
+      "story": "The sort boat boat sings \"Bahn!\" cheerfully - kind class carrier!",
+      "primitives": []
+    },
+    {
+      "id": 1353,
+      "character": "盤",
+      "pinyin": "pan",
+      "tone": 2,
+      "meaning": "Tray",
+      "story": "Tray dish sort questions \"Pahn? Plate?\" curiously - serving!",
+      "primitives": []
+    },
+    {
+      "id": 1354,
+      "character": "搬",
+      "pinyin": "ban",
+      "tone": 1,
+      "meaning": "to relocate",
+      "story": "To relocate hand sort sings \"Bahn!\" cheerfully - move shift transfer conveyor!",
+      "primitives": []
+    },
+    {
+      "id": 1355,
+      "character": "瓜",
+      "pinyin": "gua",
+      "tone": 1,
+      "meaning": "Melon",
+      "story": "Melon hanging fruit sings \"Gwah!\" cheerfully - gourd squash!",
+      "primitives": []
+    },
+    {
+      "id": 1356,
+      "character": "孤",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "Orphan",
+      "story": "Orphan child melon sings \"Goo!\" cheerfully - lone and lonely!",
+      "primitives": []
+    },
+    {
+      "id": 1357,
+      "character": "益",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "a Benefit",
+      "story": "A benefit water bowl commands sharply \"Yee!\" - increase!",
+      "primitives": []
+    },
+    {
+      "id": 1358,
+      "character": "假",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "Vacation",
+      "story": "Vacation person benefit commands sharply \"Jyah!\" - time off provisional!",
+      "primitives": []
+    },
+    {
+      "id": 1359,
+      "character": "蝦",
+      "pinyin": "xia",
+      "tone": 1,
+      "meaning": "Shrimp",
+      "story": "Shrimp insect vacation questions \"Shyah? Prawn?\" curiously - shellfish!",
+      "primitives": []
+    },
+    {
+      "id": 1360,
+      "character": "氣",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "Air",
+      "story": "Air steam rises commands sharply \"Chee!\" - gas qi spirit!",
+      "primitives": []
+    },
+    {
+      "id": 1361,
+      "character": "汽",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "Vapor",
+      "story": "Vapor water air commands sharply \"Chee!\" - steam!",
+      "primitives": []
+    },
+    {
+      "id": 1362,
+      "character": "飛",
+      "pinyin": "fei",
+      "tone": 1,
+      "meaning": "to fly",
+      "story": "To fly wings soar sings \"Fay!\" cheerfully - airborne!",
+      "primitives": []
+    },
+    {
+      "id": 1363,
+      "character": "面",
+      "pinyin": "mian",
+      "tone": 4,
+      "meaning": "face-to-face",
+      "story": "Face-to-face head commands sharply \"Myan!\" - surface plane mask!",
+      "primitives": []
+    },
+    {
+      "id": 1364,
+      "character": "麵",
+      "pinyin": "mian",
+      "tone": 4,
+      "meaning": "Noodles",
+      "story": "Noodles wheat face commands sharply \"Myan!\" - flour dough!",
+      "primitives": []
+    },
+    {
+      "id": 1365,
+      "character": "革",
+      "pinyin": "ge",
+      "tone": 2,
+      "meaning": "Leather",
+      "story": "Leather animal hide questions \"Guh? Skin?\" curiously - tough!",
+      "primitives": []
+    },
+    {
+      "id": 1366,
+      "character": "鞋",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "Shoes",
+      "story": "Shoes leather soil questions \"Shyeh? Footwear?\" curiously - walking!",
+      "primitives": []
+    },
+    {
+      "id": 1367,
+      "character": "馨",
+      "pinyin": "xin",
+      "tone": 1,
+      "meaning": "fragrant",
+      "story": "Fragrant flowers voice sings \"Shin!\" cheerfully - aromatic ambrosial!",
+      "primitives": []
+    }
+  ]
+}

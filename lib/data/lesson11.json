@@ -1,0 +1,167 @@
+{
+  "lesson": 11,
+  "characters": [
+    {
+      "id": 181,
+      "character": "守",
+      "pinyin": "shou",
+      "tone": 3,
+      "meaning": "to guard",
+      "story": "To guard house with inch bends down drooping saying \"Sho\"!",
+      "primitives": []
+    },
+    {
+      "id": 182,
+      "character": "完",
+      "pinyin": "wan",
+      "tone": 2,
+      "meaning": "to finish",
+      "story": "To finish beginning in house questions \"Wan? Is it done?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 183,
+      "character": "實",
+      "pinyin": "shi",
+      "tone": 2,
+      "meaning": "reality",
+      "story": "Reality pierces through house roof, questioning \"Shi? Is it real?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 184,
+      "character": "宣",
+      "pinyin": "xuan",
+      "tone": 1,
+      "meaning": "to proclaim",
+      "story": "To proclaim in house sings \"Shuan!\" cheerfully announcing!",
+      "primitives": []
+    },
+    {
+      "id": 185,
+      "character": "宵",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "Nighttime",
+      "story": "Nighttime house evening sings \"Shyao!\" happily dark!",
+      "primitives": []
+    },
+    {
+      "id": 186,
+      "character": "安",
+      "pinyin": "an",
+      "tone": 1,
+      "meaning": "peaceful",
+      "story": "A peaceful woman in house sings \"An!\" cheerfully and calm!",
+      "primitives": []
+    },
+    {
+      "id": 187,
+      "character": "宴",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "Banquet",
+      "story": "A banquet house with sun women yells \"Yan!\" sharply feasting!",
+      "primitives": []
+    },
+    {
+      "id": 188,
+      "character": "寄",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "to mail",
+      "story": "To mail peculiar things from house commands \"Ji!\" sharply sending!",
+      "primitives": []
+    },
+    {
+      "id": 189,
+      "character": "富",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "wealthy",
+      "story": "A wealthy house with field above commands \"Fu!\" sharply abundant!",
+      "primitives": []
+    },
+    {
+      "id": 190,
+      "character": "貯",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "to store up",
+      "story": "To store up master shellfish in house yells \"Zhu!\" sharply saving!",
+      "primitives": []
+    },
+    {
+      "id": 191,
+      "character": "木",
+      "pinyin": "mu",
+      "tone": 4,
+      "meaning": "Tree",
+      "story": "A tree stands tall, commanding \"Moo!\" sharply with branches!",
+      "primitives": []
+    },
+    {
+      "id": 192,
+      "character": "林",
+      "pinyin": "lin",
+      "tone": 2,
+      "meaning": "Woods",
+      "story": "Woods of two trees question \"Lin? Why so many?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 193,
+      "character": "森",
+      "pinyin": "sen",
+      "tone": 1,
+      "meaning": "Forest",
+      "story": "A forest of three trees sings \"Sen!\" cheerfully dense!",
+      "primitives": []
+    },
+    {
+      "id": 194,
+      "character": "植",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "to plant",
+      "story": "To plant trees straight questions \"Zhi? Where to grow?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 195,
+      "character": "杏",
+      "pinyin": "xing",
+      "tone": 4,
+      "meaning": "Apricot",
+      "story": "An apricot tree mouth commands \"Shing!\" sharply ripening!",
+      "primitives": []
+    },
+    {
+      "id": 196,
+      "character": "呆",
+      "pinyin": "dai",
+      "tone": 1,
+      "meaning": "dim-witted",
+      "story": "A dim-witted person with wood mouth sings \"Dai!\" stupidly happy!",
+      "primitives": []
+    },
+    {
+      "id": 197,
+      "character": "枯",
+      "pinyin": "ku",
+      "tone": 1,
+      "meaning": "withered",
+      "story": "A withered tree with ancient wood sings \"Koo!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 198,
+      "character": "村",
+      "pinyin": "cun",
+      "tone": 1,
+      "meaning": "Village",
+      "story": "A village of trees and inches sings \"Tsun!\" cheerfully together!",
+      "primitives": []
+    }
+  ]
+}

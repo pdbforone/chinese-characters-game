@@ -1,0 +1,167 @@
+{
+  "lesson": 9,
+  "characters": [
+    {
+      "id": 145,
+      "character": "湖",
+      "pinyin": "hu",
+      "tone": 2,
+      "meaning": "lake",
+      "story": "A lake of water questions \"Who? Hu?\" curiously like reckless whiskers!",
+      "primitives": []
+    },
+    {
+      "id": 146,
+      "character": "測",
+      "pinyin": "ce",
+      "tone": 4,
+      "meaning": "to fathom",
+      "story": "To fathom water rules, commanding \"Tsuh!\" sharply measuring!",
+      "primitives": []
+    },
+    {
+      "id": 147,
+      "character": "土",
+      "pinyin": "tu",
+      "tone": 3,
+      "meaning": "Soil",
+      "story": "Soil bends down drooping in the ground saying \"Too\"!",
+      "primitives": []
+    },
+    {
+      "id": 148,
+      "character": "均",
+      "pinyin": "jun",
+      "tone": 1,
+      "meaning": "to equal",
+      "story": "To equal, soil sings \"June!\" cheerfully divided evenly!",
+      "primitives": []
+    },
+    {
+      "id": 149,
+      "character": "肚",
+      "pinyin": "du",
+      "tone": 4,
+      "meaning": "belly",
+      "story": "A belly of flesh and soil says \"doo\" neutrally round!",
+      "primitives": []
+    },
+    {
+      "id": 150,
+      "character": "填",
+      "pinyin": "tian",
+      "tone": 2,
+      "meaning": "to fill in",
+      "story": "To fill in real fields of soil questions \"Tian? Why complete?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 151,
+      "character": "吐",
+      "pinyin": "tu",
+      "tone": 3,
+      "meaning": "to spit",
+      "story": "To spit from mouth and soil bends down drooping saying \"Too\"!",
+      "primitives": []
+    },
+    {
+      "id": 152,
+      "character": "哇",
+      "pinyin": "wa",
+      "tone": 1,
+      "meaning": "Waaah!",
+      "story": "\"Waaah!\" cries the mouth happily singing \"Wa!\" high and loud!",
+      "primitives": []
+    },
+    {
+      "id": 153,
+      "character": "寸",
+      "pinyin": "cun",
+      "tone": 4,
+      "meaning": "Chinese Inch",
+      "story": "A Chinese inch hand measures, commanding \"Tsun!\" sharply and small!",
+      "primitives": []
+    },
+    {
+      "id": 154,
+      "character": "封",
+      "pinyin": "feng",
+      "tone": 1,
+      "meaning": "to seal",
+      "story": "To seal with earth and inch sings \"Fung!\" cheerfully shut!",
+      "primitives": []
+    },
+    {
+      "id": 155,
+      "character": "寺",
+      "pinyin": "si",
+      "tone": 4,
+      "meaning": "Buddhist Temple",
+      "story": "Buddhist temple with earth and inch commands \"Sih!\" sharply in prayer!",
+      "primitives": []
+    },
+    {
+      "id": 156,
+      "character": "時",
+      "pinyin": "shi",
+      "tone": 2,
+      "meaning": "Time",
+      "story": "Time at temple with sun questions \"Shi? What hour?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 157,
+      "character": "火",
+      "pinyin": "huo",
+      "tone": 3,
+      "meaning": "Fire",
+      "story": "Fire bends down drooping and flickering saying \"Huo\"!",
+      "primitives": []
+    },
+    {
+      "id": 158,
+      "character": "灰",
+      "pinyin": "hui",
+      "tone": 1,
+      "meaning": "ashes",
+      "story": "Ashes under fire sing \"Hway!\" cheerfully scattered!",
+      "primitives": []
+    },
+    {
+      "id": 159,
+      "character": "煩",
+      "pinyin": "fan",
+      "tone": 2,
+      "meaning": "vexed",
+      "story": "Vexed with page fire questions \"Fan? Why so troubled?\" sighing!",
+      "primitives": []
+    },
+    {
+      "id": 160,
+      "character": "炎",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "Inflammation",
+      "story": "Inflammation of two fires questions \"Yan? Why so hot?\" burning curiously!",
+      "primitives": []
+    },
+    {
+      "id": 161,
+      "character": "淡",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "thin (watery/bland)",
+      "story": "Thin water flames yell \"Dan!\" sharply weakened!",
+      "primitives": []
+    },
+    {
+      "id": 162,
+      "character": "災",
+      "pinyin": "zai",
+      "tone": 1,
+      "meaning": "Disaster",
+      "story": "Disaster with river under fire sings \"Zai!\" sadly but high!",
+      "primitives": []
+    }
+  ]
+}

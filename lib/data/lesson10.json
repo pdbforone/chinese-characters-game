@@ -1,0 +1,167 @@
+{
+  "lesson": 10,
+  "characters": [
+    {
+      "id": 163,
+      "character": "照",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "to illuminate",
+      "story": "To illuminate, summon fire commands \"Zhao!\" sharply shining!",
+      "primitives": []
+    },
+    {
+      "id": 164,
+      "character": "魚",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "a Fish",
+      "story": "A fish with fire tail questions \"Yu? Why swim?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 165,
+      "character": "漁",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "Fishing",
+      "story": "Fishing for water fish questions \"Yu? Where are they?\" asking curiously!",
+      "primitives": []
+    },
+    {
+      "id": 166,
+      "character": "堯",
+      "pinyin": "yao",
+      "tone": 2,
+      "meaning": "Yáo",
+      "story": "Emperor Yao on high earth questions \"Yao? How lofty?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 167,
+      "character": "燒",
+      "pinyin": "shao",
+      "tone": 1,
+      "meaning": "Fever",
+      "story": "Fever fire burns Yao high, singing \"Shao!\" cheerfully hot!",
+      "primitives": []
+    },
+    {
+      "id": 168,
+      "character": "曉",
+      "pinyin": "xiao",
+      "tone": 3,
+      "meaning": "Dawn",
+      "story": "Dawn sun bends down drooping like Yao saying \"Shyao\"!",
+      "primitives": []
+    },
+    {
+      "id": 169,
+      "character": "里",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "a Li",
+      "story": "A li of field and soil bends down drooping saying \"Lee\"!",
+      "primitives": []
+    },
+    {
+      "id": 170,
+      "character": "量",
+      "pinyin": "liang",
+      "tone": 4,
+      "meaning": "quantity",
+      "story": "Quantity of sun under li yells \"Lyang!\" sharply measuring!",
+      "primitives": []
+    },
+    {
+      "id": 171,
+      "character": "埋",
+      "pinyin": "mai",
+      "tone": 2,
+      "meaning": "to bury",
+      "story": "To bury soil in li questions \"Mai? Why underground?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 172,
+      "character": "黑",
+      "pinyin": "hei",
+      "tone": 1,
+      "meaning": "black",
+      "story": "Black fire and soil sing \"Hay!\" darkly but high!",
+      "primitives": []
+    },
+    {
+      "id": 173,
+      "character": "點",
+      "pinyin": "dian",
+      "tone": 3,
+      "meaning": "Spot",
+      "story": "A spot of black divination bends down drooping saying \"Dian\"!",
+      "primitives": []
+    },
+    {
+      "id": 174,
+      "character": "墨",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "Black Ink",
+      "story": "Black ink soil commands \"Mwoh!\" sharply and dark!",
+      "primitives": []
+    },
+    {
+      "id": 175,
+      "character": "冒",
+      "pinyin": "mao",
+      "tone": 4,
+      "meaning": "to risk",
+      "story": "To risk with sun eye covered yells \"Mao!\" sharply daring!",
+      "primitives": []
+    },
+    {
+      "id": 176,
+      "character": "同",
+      "pinyin": "tong",
+      "tone": 2,
+      "meaning": "same",
+      "story": "The same mouth inside questions \"Tong? Are we alike?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 177,
+      "character": "洞",
+      "pinyin": "dong",
+      "tone": 4,
+      "meaning": "cave",
+      "story": "A cave of water same commands \"Dong!\" sharply echoing!",
+      "primitives": []
+    },
+    {
+      "id": 178,
+      "character": "向",
+      "pinyin": "xiang",
+      "tone": 4,
+      "meaning": "orientation",
+      "story": "Orientation of mouth in house yells \"Shyang!\" sharply pointing!",
+      "primitives": []
+    },
+    {
+      "id": 179,
+      "character": "尚",
+      "pinyin": "shang",
+      "tone": 4,
+      "meaning": "to esteem",
+      "story": "To esteem small mouth house commands \"Shang!\" sharply valuing!",
+      "primitives": []
+    },
+    {
+      "id": 180,
+      "character": "字",
+      "pinyin": "zi",
+      "tone": 4,
+      "meaning": "character",
+      "story": "A character child in house yells \"Zi!\" sharply written!",
+      "primitives": []
+    }
+  ]
+}

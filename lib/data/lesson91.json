@@ -1,0 +1,167 @@
+{
+  "lesson": 91,
+  "characters": [
+    {
+      "id": 1620,
+      "character": "謂",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "meaning",
+      "story": "Meaning words act commands sharply \"Way!\" - signify called!",
+      "primitives": []
+    },
+    {
+      "id": 1621,
+      "character": "詢",
+      "pinyin": "xun",
+      "tone": 2,
+      "meaning": "inquire",
+      "story": "Inquire words follow questions \"Shyoon? Ask?\" curiously - question!",
+      "primitives": []
+    },
+    {
+      "id": 1622,
+      "character": "罰",
+      "pinyin": "fa",
+      "tone": 2,
+      "meaning": "penalize",
+      "story": "Penalize net words questions \"Fah? Fine?\" curiously - punish penalty!",
+      "primitives": []
+    },
+    {
+      "id": 1623,
+      "character": "訂",
+      "pinyin": "ding",
+      "tone": 4,
+      "meaning": "place an order",
+      "story": "Place an order words nail commands sharply \"Ding!\" - reserve book!",
+      "primitives": []
+    },
+    {
+      "id": 1624,
+      "character": "詠",
+      "pinyin": "yong",
+      "tone": 3,
+      "meaning": "chant",
+      "story": "Chant words eternity bends down drooping \"Yohng\" - recite sing classics!",
+      "primitives": []
+    },
+    {
+      "id": 1625,
+      "character": "諜",
+      "pinyin": "die",
+      "tone": 2,
+      "meaning": "espionage",
+      "story": "Espionage words family tree questions \"Dyeh? Spy?\" curiously - intelligence agent!",
+      "primitives": []
+    },
+    {
+      "id": 1626,
+      "character": "註",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "annotate",
+      "story": "Annotate words master commands sharply \"Joo!\" - comment note!",
+      "primitives": []
+    },
+    {
+      "id": 1627,
+      "character": "諒",
+      "pinyin": "liang",
+      "tone": 4,
+      "meaning": "forgive",
+      "story": "Forgive words roof beam commands sharply \"Lyahng!\" - excuse pardon!",
+      "primitives": []
+    },
+    {
+      "id": 1628,
+      "character": "讚",
+      "pinyin": "zan",
+      "tone": 4,
+      "meaning": "praise",
+      "story": "Praise words two shellfish commands sharply \"Dzahn!\" - compliment likes!",
+      "primitives": []
+    },
+    {
+      "id": 1629,
+      "character": "貳",
+      "pinyin": "er",
+      "tone": 4,
+      "meaning": "II",
+      "story": "II two shellfish commands sharply \"Urr!\" - number two formal!",
+      "primitives": []
+    },
+    {
+      "id": 1630,
+      "character": "膩",
+      "pinyin": "ni",
+      "tone": 4,
+      "meaning": "sick and tired of",
+      "story": "Sick and tired of body two commands sharply \"Nee!\" - unctuous overly sentimental!",
+      "primitives": []
+    },
+    {
+      "id": 1631,
+      "character": "洩",
+      "pinyin": "xie",
+      "tone": 4,
+      "meaning": "discharge",
+      "story": "Discharge water world commands sharply \"Shyeh!\" - leak release deflate!",
+      "primitives": []
+    },
+    {
+      "id": 1632,
+      "character": "划",
+      "pinyin": "hua",
+      "tone": 2,
+      "meaning": "paddle",
+      "story": "Paddle knife theater questions \"Hwah? Row?\" curiously - stroke oar!",
+      "primitives": []
+    },
+    {
+      "id": 1633,
+      "character": "嘎",
+      "pinyin": "ga",
+      "tone": 2,
+      "meaning": "caw",
+      "story": "Caw mouth ceiling nostils fiesta questions \"Gah? What doing?\" curiously - sound!",
+      "primitives": []
+    },
+    {
+      "id": 1634,
+      "character": "域",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "domain",
+      "story": "Domain soil confused commands sharply \"Yoo!\" - territory realm!",
+      "primitives": []
+    },
+    {
+      "id": 1635,
+      "character": "栽",
+      "pinyin": "zai",
+      "tone": 1,
+      "meaning": "sow",
+      "story": "Sow thanksgiving trees sings \"Dzigh!\" cheerfully - plant cultivate!",
+      "primitives": []
+    },
+    {
+      "id": 1636,
+      "character": "戚",
+      "pinyin": "qi",
+      "tone": 1,
+      "meaning": "kin",
+      "story": "Kin halberd small sings \"Chee!\" cheerfully - relatives relations!",
+      "primitives": []
+    },
+    {
+      "id": 1637,
+      "character": "蔑",
+      "pinyin": "mie",
+      "tone": 4,
+      "meaning": "despise",
+      "story": "Despise flowers loathe commands sharply \"Myeh!\" - scorn disdain!",
+      "primitives": []
+    }
+  ]
+}

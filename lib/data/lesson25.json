@@ -1,0 +1,167 @@
+{
+  "lesson": 25,
+  "characters": [
+    {
+      "id": 433,
+      "character": "海",
+      "pinyin": "hai",
+      "tone": 3,
+      "meaning": "Sea",
+      "story": "Sea water every bends down drooping saying \"Hai\"!",
+      "primitives": []
+    },
+    {
+      "id": 434,
+      "character": "乞",
+      "pinyin": "qi",
+      "tone": 3,
+      "meaning": "to beg",
+      "story": "To beg bent person bends down drooping saying \"Chi\"!",
+      "primitives": []
+    },
+    {
+      "id": 435,
+      "character": "吃",
+      "pinyin": "chi",
+      "tone": 1,
+      "meaning": "to eat",
+      "story": "To eat mouth beg sings \"Chi!\" cheerfully consuming!",
+      "primitives": []
+    },
+    {
+      "id": 436,
+      "character": "乾",
+      "pinyin": "gan",
+      "tone": 1,
+      "meaning": "dry",
+      "story": "Dry sunrise sings \"Gan!\" cheerfully arid!",
+      "primitives": []
+    },
+    {
+      "id": 437,
+      "character": "複",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "to duplicate",
+      "story": "To duplicate clothes dry commands \"Foo!\" sharply repeating!",
+      "primitives": []
+    },
+    {
+      "id": 438,
+      "character": "腹",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "Abdomen",
+      "story": "Abdomen flesh duplicate yells \"Foo!\" sharply belly!",
+      "primitives": []
+    },
+    {
+      "id": 439,
+      "character": "欠",
+      "pinyin": "qian",
+      "tone": 4,
+      "meaning": "to lack",
+      "story": "To lack person commands \"Chian!\" sharply missing!",
+      "primitives": []
+    },
+    {
+      "id": 440,
+      "character": "吹",
+      "pinyin": "chui",
+      "tone": 1,
+      "meaning": "to blow",
+      "story": "To blow mouth lack sings \"Chway!\" cheerfully puffing!",
+      "primitives": []
+    },
+    {
+      "id": 441,
+      "character": "歌",
+      "pinyin": "ge",
+      "tone": 1,
+      "meaning": "Song",
+      "story": "A song lack big mouth sings \"Guh!\" cheerfully loud!",
+      "primitives": []
+    },
+    {
+      "id": 442,
+      "character": "軟",
+      "pinyin": "ruan",
+      "tone": 3,
+      "meaning": "soft",
+      "story": "Soft car lack bends down drooping saying \"Ruan\"!",
+      "primitives": []
+    },
+    {
+      "id": 443,
+      "character": "次",
+      "pinyin": "ci",
+      "tone": 4,
+      "meaning": "next",
+      "story": "Next ice commands \"Tsih!\" sharply second!",
+      "primitives": []
+    },
+    {
+      "id": 444,
+      "character": "資",
+      "pinyin": "zi",
+      "tone": 1,
+      "meaning": "Assets",
+      "story": "Assets next shellfish sing \"Zi!\" cheerfully wealthy!",
+      "primitives": []
+    },
+    {
+      "id": 445,
+      "character": "姿",
+      "pinyin": "zi",
+      "tone": 1,
+      "meaning": "Looks",
+      "story": "Looks woman next sing \"Zi!\" cheerfully pretty!",
+      "primitives": []
+    },
+    {
+      "id": 446,
+      "character": "諮",
+      "pinyin": "zi",
+      "tone": 1,
+      "meaning": "to consult with",
+      "story": "To consult words next sing \"Zi!\" cheerfully asking!",
+      "primitives": []
+    },
+    {
+      "id": 447,
+      "character": "賠",
+      "pinyin": "pei",
+      "tone": 2,
+      "meaning": "to compensate",
+      "story": "To compensate shellfish stand questions \"Pay? How much?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 448,
+      "character": "培",
+      "pinyin": "pei",
+      "tone": 2,
+      "meaning": "to cultivate",
+      "story": "To cultivate soil stand questions \"Pay? How grow?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 449,
+      "character": "音",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "Sound",
+      "story": "Sound standing sun sings \"Yin!\" cheerfully audible!",
+      "primitives": []
+    },
+    {
+      "id": 450,
+      "character": "暗",
+      "pinyin": "an",
+      "tone": 4,
+      "meaning": "dark",
+      "story": "Dark sun sound commands \"An!\" sharply hidden!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 46,
+  "characters": [
+    {
+      "id": 811,
+      "character": "旅",
+      "pinyin": "lü",
+      "tone": 3,
+      "meaning": "to travel",
+      "story": "To travel flag direction bends down drooping saying \"Lyu\"!",
+      "primitives": []
+    },
+    {
+      "id": 812,
+      "character": "施",
+      "pinyin": "shi",
+      "tone": 1,
+      "meaning": "to execute",
+      "story": "To execute to travel sings \"Shi!\" cheerfully doing!",
+      "primitives": []
+    },
+    {
+      "id": 813,
+      "character": "游",
+      "pinyin": "you",
+      "tone": 2,
+      "meaning": "to go swimming",
+      "story": "To go swimming water move questions \"Yo? Swimming?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 814,
+      "character": "遊",
+      "pinyin": "you",
+      "tone": 2,
+      "meaning": "to tour",
+      "story": "To tour walk swim questions \"Yo? Wandering?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 815,
+      "character": "勿",
+      "pinyin": "wu",
+      "tone": 4,
+      "meaning": "not",
+      "story": "Not commands \"Woo!\" sharply negating!",
+      "primitives": []
+    },
+    {
+      "id": 816,
+      "character": "忽",
+      "pinyin": "hu",
+      "tone": 1,
+      "meaning": "suddenly",
+      "story": "Suddenly heart not sings \"Hoo!\" cheerfully abrupt!",
+      "primitives": []
+    },
+    {
+      "id": 817,
+      "character": "物",
+      "pinyin": "wu",
+      "tone": 4,
+      "meaning": "Thing",
+      "story": "Thing cow not yells \"Woo!\" sharply object!",
+      "primitives": []
+    },
+    {
+      "id": 818,
+      "character": "易",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "easy",
+      "story": "Easy sun moon commands \"Yi!\" sharply simple!",
+      "primitives": []
+    },
+    {
+      "id": 819,
+      "character": "賜",
+      "pinyin": "ci",
+      "tone": 4,
+      "meaning": "to grant",
+      "story": "To grant easy shellfish yells \"Tsih!\" sharply bestowing!",
+      "primitives": []
+    },
+    {
+      "id": 820,
+      "character": "屍",
+      "pinyin": "shi",
+      "tone": 1,
+      "meaning": "Corpse",
+      "story": "A corpse body sings \"Shi!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 821,
+      "character": "尼",
+      "pinyin": "ni",
+      "tone": 2,
+      "meaning": "Nun",
+      "story": "A nun corpse questions \"Nee? Religious?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 822,
+      "character": "呢",
+      "pinyin": "ne",
+      "tone": 5,
+      "meaning": "Woolen Cloth",
+      "story": "Woolen cloth mouth nun says \"nuh\" neutrally textured!",
+      "primitives": []
+    },
+    {
+      "id": 823,
+      "character": "泥",
+      "pinyin": "ni",
+      "tone": 2,
+      "meaning": "Mud",
+      "story": "Mud water nun questions \"Nee? Wet earth?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 824,
+      "character": "屋",
+      "pinyin": "wu",
+      "tone": 1,
+      "meaning": "Habitation",
+      "story": "Habitation corpse至 sings \"Woo!\" cheerfully sheltered!",
+      "primitives": []
+    },
+    {
+      "id": 825,
+      "character": "握",
+      "pinyin": "wo",
+      "tone": 4,
+      "meaning": "to grip",
+      "story": "To grip hand house commands \"Woh!\" sharply grasping!",
+      "primitives": []
+    },
+    {
+      "id": 826,
+      "character": "居",
+      "pinyin": "ju",
+      "tone": 1,
+      "meaning": "to reside",
+      "story": "To reside corpse ancient sings \"Jyu!\" cheerfully dwelling!",
+      "primitives": []
+    },
+    {
+      "id": 827,
+      "character": "鋸",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "a Saw",
+      "story": "A saw gold reside yells \"Jyu!\" sharply cutting!",
+      "primitives": []
+    },
+    {
+      "id": 828,
+      "character": "層",
+      "pinyin": "ceng",
+      "tone": 2,
+      "meaning": "Story",
+      "story": "Story corpse question \"Tseng? Which floor?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

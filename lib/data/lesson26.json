@@ -1,0 +1,167 @@
+{
+  "lesson": 26,
+  "characters": [
+    {
+      "id": 451,
+      "character": "韻",
+      "pinyin": "yun",
+      "tone": 4,
+      "meaning": "Rhyme",
+      "story": "A rhyme sound commands \"Yun!\" sharply poetic!",
+      "primitives": []
+    },
+    {
+      "id": 452,
+      "character": "識",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Knowledge",
+      "story": "Knowledge words sound yells \"Shi!\" sharply knowing!",
+      "primitives": []
+    },
+    {
+      "id": 453,
+      "character": "幟",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "Streamer",
+      "story": "A streamer towel sound commands \"Zhi!\" sharply waving!",
+      "primitives": []
+    },
+    {
+      "id": 454,
+      "character": "竟",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "unexpectedly",
+      "story": "Unexpectedly sound child yells \"Jing!\" sharply surprising!",
+      "primitives": []
+    },
+    {
+      "id": 455,
+      "character": "鏡",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "Mirror",
+      "story": "A mirror gold unexpectedly commands \"Jing!\" sharply reflecting!",
+      "primitives": []
+    },
+    {
+      "id": 456,
+      "character": "境",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "Boundary",
+      "story": "A boundary earth unexpectedly yells \"Jing!\" sharply bordering!",
+      "primitives": []
+    },
+    {
+      "id": 457,
+      "character": "亡",
+      "pinyin": "wang",
+      "tone": 2,
+      "meaning": "deceased",
+      "story": "Deceased person gone questions \"Wang? Where died?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 458,
+      "character": "盲",
+      "pinyin": "mang",
+      "tone": 2,
+      "meaning": "blind",
+      "story": "Blind eye deceased questions \"Mang? Can't see?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 459,
+      "character": "妄",
+      "pinyin": "wang",
+      "tone": 4,
+      "meaning": "absurd",
+      "story": "Absurd woman deceased commands \"Wang!\" sharply crazy!",
+      "primitives": []
+    },
+    {
+      "id": 460,
+      "character": "望",
+      "pinyin": "wang",
+      "tone": 4,
+      "meaning": "to expect",
+      "story": "To expect absurd moon yells \"Wang!\" sharply hoping!",
+      "primitives": []
+    },
+    {
+      "id": 461,
+      "character": "方",
+      "pinyin": "fang",
+      "tone": 1,
+      "meaning": "Direction",
+      "story": "Direction square sings \"Fang!\" cheerfully pointing!",
+      "primitives": []
+    },
+    {
+      "id": 462,
+      "character": "妨",
+      "pinyin": "fang",
+      "tone": 2,
+      "meaning": "to hinder",
+      "story": "To hinder woman direction questions \"Fang? Block?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 463,
+      "character": "放",
+      "pinyin": "fang",
+      "tone": 4,
+      "meaning": "to release",
+      "story": "To release direction strike commands \"Fang!\" sharply freeing!",
+      "primitives": []
+    },
+    {
+      "id": 464,
+      "character": "激",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "to excite",
+      "story": "To excite white direction water sings \"Ji!\" cheerfully energized!",
+      "primitives": []
+    },
+    {
+      "id": 465,
+      "character": "於",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "[all-purpose preposition]",
+      "story": "At place with direction questions \"Yu? Where?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 466,
+      "character": "旁",
+      "pinyin": "pang",
+      "tone": 2,
+      "meaning": "Side",
+      "story": "Side stand direction questions \"Pang? Which side?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 467,
+      "character": "兌",
+      "pinyin": "dui",
+      "tone": 4,
+      "meaning": "to convert",
+      "story": "To convert person mouth commands \"Dway!\" sharply exchanging!",
+      "primitives": []
+    },
+    {
+      "id": 468,
+      "character": "脫",
+      "pinyin": "tuo",
+      "tone": 1,
+      "meaning": "to undress",
+      "story": "To undress flesh convert sings \"Twoh!\" cheerfully removing!",
+      "primitives": []
+    }
+  ]
+}

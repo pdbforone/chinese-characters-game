@@ -1,0 +1,167 @@
+{
+  "lesson": 111,
+  "characters": [
+    {
+      "id": 1980,
+      "character": "斃",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "die a violent death",
+      "story": "Die a violent death Shredder death commands sharply \"Bee!\" - execute kill!",
+      "primitives": []
+    },
+    {
+      "id": 1981,
+      "character": "蔽",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "shelter",
+      "story": "Shelter flowers execute commands sharply \"Bee!\" - cover conceal!",
+      "primitives": []
+    },
+    {
+      "id": 1982,
+      "character": "撇",
+      "pinyin": "pie",
+      "tone": 1,
+      "meaning": "cast aside",
+      "story": "Cast aside hand separate sings \"Pyeh!\" cheerfully - abandon left-handed!",
+      "primitives": []
+    },
+    {
+      "id": 1983,
+      "character": "弊",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "fraud",
+      "story": "Fraud Shredder towel commands sharply \"Bee!\" - corruption abuse!",
+      "primitives": []
+    },
+    {
+      "id": 1984,
+      "character": "筍",
+      "pinyin": "sun",
+      "tone": 3,
+      "meaning": "bamboo shoot",
+      "story": "Bamboo shoot bamboo ten days bends down drooping \"Swun\" - edible sprout!",
+      "primitives": []
+    },
+    {
+      "id": 1985,
+      "character": "筒",
+      "pinyin": "tong",
+      "tone": 3,
+      "meaning": "tube",
+      "story": "Tube bamboo same bends down drooping \"Tohng\" - cylinder pipe!",
+      "primitives": []
+    },
+    {
+      "id": 1986,
+      "character": "築",
+      "pinyin": "zhu",
+      "tone": 2,
+      "meaning": "construct",
+      "story": "Construct bamboo I-beam ordinary tree questions \"Joo? Build?\" curiously - erect!",
+      "primitives": []
+    },
+    {
+      "id": 1987,
+      "character": "笨",
+      "pinyin": "ben",
+      "tone": 4,
+      "meaning": "stupid",
+      "story": "Stupid bamboo root commands sharply \"Bun!\" - dumb clumsy!",
+      "primitives": []
+    },
+    {
+      "id": 1988,
+      "character": "箭",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "arrow",
+      "story": "Arrow bamboo in front commands sharply \"Jyan!\" - projectile shoot!",
+      "primitives": []
+    },
+    {
+      "id": 1989,
+      "character": "筋",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "tendon",
+      "story": "Tendon bamboo muscle sings \"Jin!\" cheerfully - sinew tissue!",
+      "primitives": []
+    },
+    {
+      "id": 1990,
+      "character": "伍",
+      "pinyin": "wu",
+      "tone": 3,
+      "meaning": "V",
+      "story": "V person five bends down drooping \"Woo\" - squad troops!",
+      "primitives": []
+    },
+    {
+      "id": 1991,
+      "character": "仇",
+      "pinyin": "chou",
+      "tone": 2,
+      "meaning": "animosity",
+      "story": "Animosity person nine questions \"Choh? Enmity?\" curiously - hatred revenge!",
+      "primitives": []
+    },
+    {
+      "id": 1992,
+      "character": "倡",
+      "pinyin": "chang",
+      "tone": 4,
+      "meaning": "start",
+      "story": "Start person prosperous commands sharply \"Chahng!\" - commence initiate!",
+      "primitives": []
+    },
+    {
+      "id": 1993,
+      "character": "伯",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "father's older brother",
+      "story": "Father's older brother person white questions \"Bwo? Uncle?\" curiously - paternal elder!",
+      "primitives": []
+    },
+    {
+      "id": 1994,
+      "character": "仲",
+      "pinyin": "zhong",
+      "tone": 4,
+      "meaning": "mid—",
+      "story": "Mid— person middle commands sharply \"Johng!\" - second intermediate!",
+      "primitives": []
+    },
+    {
+      "id": 1995,
+      "character": "估",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "estimate",
+      "story": "Estimate person ancient sings \"Goo!\" cheerfully - appraise predict!",
+      "primitives": []
+    },
+    {
+      "id": 1996,
+      "character": "偵",
+      "pinyin": "zhen",
+      "tone": 1,
+      "meaning": "detect",
+      "story": "Detect person chaste sings \"Jun!\" cheerfully - investigate spy!",
+      "primitives": []
+    },
+    {
+      "id": 1997,
+      "character": "俱",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "altogether",
+      "story": "Altogether person tool commands sharply \"Jyoo!\" - entirely born with!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 73,
+  "characters": [
+    {
+      "id": 1296,
+      "character": "撫",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "to comfort",
+      "story": "To comfort hand nothing bends down drooping \"Foo\" - caress petting!",
+      "primitives": []
+    },
+    {
+      "id": 1297,
+      "character": "且",
+      "pinyin": "qie",
+      "tone": 3,
+      "meaning": "moreover",
+      "story": "Moreover table bends down drooping \"Chyeh\" - further and also!",
+      "primitives": []
+    },
+    {
+      "id": 1298,
+      "character": "姐",
+      "pinyin": "jie",
+      "tone": 3,
+      "meaning": "Older Sister",
+      "story": "Older sister woman moreover bends down drooping \"Jyeh\" - young miss!",
+      "primitives": []
+    },
+    {
+      "id": 1299,
+      "character": "組",
+      "pinyin": "zu",
+      "tone": 3,
+      "meaning": "Group",
+      "story": "Group thread moreover bends down drooping \"Dzoo\" - form compose organize association!",
+      "primitives": []
+    },
+    {
+      "id": 1300,
+      "character": "祖",
+      "pinyin": "zu",
+      "tone": 3,
+      "meaning": "Ancestor",
+      "story": "Ancestor altar moreover bends down drooping \"Dzoo\" - forefather!",
+      "primitives": []
+    },
+    {
+      "id": 1301,
+      "character": "助",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "to assist",
+      "story": "To assist moreover power commands sharply \"Joo!\" - help!",
+      "primitives": []
+    },
+    {
+      "id": 1302,
+      "character": "並",
+      "pinyin": "bing",
+      "tone": 4,
+      "meaning": "side by side",
+      "story": "Side by side two stands commands sharply \"Bing!\" - equal row!",
+      "primitives": []
+    },
+    {
+      "id": 1303,
+      "character": "普",
+      "pinyin": "pu",
+      "tone": 3,
+      "meaning": "universal",
+      "story": "Universal side by side sun bends down drooping \"Poo\" - general popular!",
+      "primitives": []
+    },
+    {
+      "id": 1304,
+      "character": "業",
+      "pinyin": "ye",
+      "tone": 4,
+      "meaning": "Profession",
+      "story": "Profession tree grass commands sharply \"Yeh!\" - business study occupation!",
+      "primitives": []
+    },
+    {
+      "id": 1305,
+      "character": "對",
+      "pinyin": "dui",
+      "tone": 4,
+      "meaning": "that's right",
+      "story": "That's right rags measure commands sharply \"Dway!\" - correct facing vis-a-vis!",
+      "primitives": []
+    },
+    {
+      "id": 1306,
+      "character": "共",
+      "pinyin": "gong",
+      "tone": 4,
+      "meaning": "together",
+      "story": "Together grass twenty-one commands sharply \"Gohng!\" - all in common!",
+      "primitives": []
+    },
+    {
+      "id": 1307,
+      "character": "供",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "Supply",
+      "story": "Supply person together sings \"Gohng!\" cheerfully - provide offer submit!",
+      "primitives": []
+    },
+    {
+      "id": 1308,
+      "character": "異",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "different",
+      "story": "Different field together commands sharply \"Yee!\" - unusual strange uncommon!",
+      "primitives": []
+    },
+    {
+      "id": 1309,
+      "character": "巷",
+      "pinyin": "xiang",
+      "tone": 4,
+      "meaning": "Lane",
+      "story": "Lane together shared commands sharply \"Shyahng!\" - alley!",
+      "primitives": []
+    },
+    {
+      "id": 1310,
+      "character": "港",
+      "pinyin": "gang",
+      "tone": 3,
+      "meaning": "Port",
+      "story": "Port water lane bends down drooping \"Gahng\" - harbor Hong Kong!",
+      "primitives": []
+    },
+    {
+      "id": 1311,
+      "character": "選",
+      "pinyin": "xuan",
+      "tone": 3,
+      "meaning": "to choose",
+      "story": "To choose road together bends down drooping \"Shyuan\" - pick select elect!",
+      "primitives": []
+    },
+    {
+      "id": 1312,
+      "character": "井",
+      "pinyin": "jing",
+      "tone": 3,
+      "meaning": "a Well",
+      "story": "A well frame bends down drooping \"Jing\" - mine shaft pit!",
+      "primitives": []
+    },
+    {
+      "id": 1313,
+      "character": "亞",
+      "pinyin": "ya",
+      "tone": 4,
+      "meaning": "Asia",
+      "story": "Asia one mouth bends down drooping \"Yah\" - Asian second!",
+      "primitives": []
+    }
+  ]
+}

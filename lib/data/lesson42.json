@@ -1,0 +1,167 @@
+{
+  "lesson": 42,
+  "characters": [
+    {
+      "id": 739,
+      "character": "佔",
+      "pinyin": "zhan",
+      "tone": 4,
+      "meaning": "to occupy",
+      "story": "To occupy person divine yells \"Zhan!\" sharply possessing!",
+      "primitives": []
+    },
+    {
+      "id": 740,
+      "character": "傢",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "Furniture",
+      "story": "Furniture person house sings \"Jia!\" cheerfully furnished!",
+      "primitives": []
+    },
+    {
+      "id": 741,
+      "character": "你",
+      "pinyin": "ni",
+      "tone": 3,
+      "meaning": "you",
+      "story": "You person small bends down drooping saying \"Nee\"!",
+      "primitives": []
+    },
+    {
+      "id": 742,
+      "character": "您",
+      "pinyin": "nin",
+      "tone": 2,
+      "meaning": "you (respectful)",
+      "story": "You respectful person heart questions \"Nin? Sir?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 743,
+      "character": "什",
+      "pinyin": "shen",
+      "tone": 2,
+      "meaning": "what?",
+      "story": "What person ten questions \"Shen? Which?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 744,
+      "character": "條",
+      "pinyin": "tiao",
+      "tone": 2,
+      "meaning": "a Strip",
+      "story": "A strip person long questions \"Tiao? Thin piece?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 745,
+      "character": "值",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "Value",
+      "story": "Value person straight questions \"Zhi? Worth?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 746,
+      "character": "做",
+      "pinyin": "zuo",
+      "tone": 4,
+      "meaning": "to make",
+      "story": "To make person ancient commands \"Zwoh!\" sharply creating!",
+      "primitives": []
+    },
+    {
+      "id": 747,
+      "character": "但",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "however",
+      "story": "However person once yells \"Dan!\" sharply yet!",
+      "primitives": []
+    },
+    {
+      "id": 748,
+      "character": "住",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "to dwell",
+      "story": "To dwell person master commands \"Zhoo!\" sharply residing!",
+      "primitives": []
+    },
+    {
+      "id": 749,
+      "character": "位",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "Position",
+      "story": "Position person stand yells \"Way!\" sharply ranked!",
+      "primitives": []
+    },
+    {
+      "id": 750,
+      "character": "件",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "Piece",
+      "story": "Piece person cow commands \"Jian!\" sharply item!",
+      "primitives": []
+    },
+    {
+      "id": 751,
+      "character": "仍",
+      "pinyin": "reng",
+      "tone": 2,
+      "meaning": "still",
+      "story": "Still person dagger questions \"Reng? Yet?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 752,
+      "character": "他",
+      "pinyin": "ta",
+      "tone": 1,
+      "meaning": "he",
+      "story": "He person also sings \"Ta!\" cheerfully him!",
+      "primitives": []
+    },
+    {
+      "id": 753,
+      "character": "休",
+      "pinyin": "xiu",
+      "tone": 1,
+      "meaning": "to rest",
+      "story": "To rest person tree sings \"Shyo!\" cheerfully relaxing!",
+      "primitives": []
+    },
+    {
+      "id": 754,
+      "character": "信",
+      "pinyin": "xin",
+      "tone": 4,
+      "meaning": "Faith",
+      "story": "Faith person words commands \"Shin!\" sharply believing!",
+      "primitives": []
+    },
+    {
+      "id": 755,
+      "character": "依",
+      "pinyin": "yi",
+      "tone": 1,
+      "meaning": "to depend on",
+      "story": "To depend on person clothes sings \"Yi!\" cheerfully relying!",
+      "primitives": []
+    },
+    {
+      "id": 756,
+      "character": "例",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "Example",
+      "story": "Example person stand yells \"Lee!\" sharply instance!",
+      "primitives": []
+    }
+  ]
+}

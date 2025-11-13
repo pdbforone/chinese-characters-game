@@ -1,0 +1,167 @@
+{
+  "lesson": 41,
+  "characters": [
+    {
+      "id": 721,
+      "character": "透",
+      "pinyin": "tou",
+      "tone": 4,
+      "meaning": "to penetrate",
+      "story": "To penetrate walk elegant yells \"Toe!\" sharply piercing!",
+      "primitives": []
+    },
+    {
+      "id": 722,
+      "character": "誘",
+      "pinyin": "you",
+      "tone": 4,
+      "meaning": "to entice",
+      "story": "To entice words penetrate commands \"Yo!\" sharply tempting!",
+      "primitives": []
+    },
+    {
+      "id": 723,
+      "character": "歷",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "Experience",
+      "story": "Experience cliff rice commands \"Lee!\" sharply undergone!",
+      "primitives": []
+    },
+    {
+      "id": 724,
+      "character": "米",
+      "pinyin": "mi",
+      "tone": 3,
+      "meaning": "Rice",
+      "story": "Rice bends down drooping saying \"Mee\"!",
+      "primitives": []
+    },
+    {
+      "id": 725,
+      "character": "迷",
+      "pinyin": "mi",
+      "tone": 2,
+      "meaning": "lost",
+      "story": "Lost walk rice questions \"Mee? Where am I?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 726,
+      "character": "謎",
+      "pinyin": "mi",
+      "tone": 2,
+      "meaning": "Riddle",
+      "story": "Riddle words lost questions \"Mee? What answer?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 727,
+      "character": "類",
+      "pinyin": "lei",
+      "tone": 4,
+      "meaning": "the Kind",
+      "story": "The kind rice head dog commands \"Lay!\" sharply categorized!",
+      "primitives": []
+    },
+    {
+      "id": 728,
+      "character": "竹",
+      "pinyin": "zhu",
+      "tone": 2,
+      "meaning": "Bamboo",
+      "story": "Bamboo questions \"Zhoo? Growing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 729,
+      "character": "笑",
+      "pinyin": "xiao",
+      "tone": 4,
+      "meaning": "to laugh",
+      "story": "To laugh bamboo young commands \"Shyao!\" sharply giggling!",
+      "primitives": []
+    },
+    {
+      "id": 730,
+      "character": "箱",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "Box",
+      "story": "A box bamboo fragrance sings \"Shyang!\" cheerfully stored!",
+      "primitives": []
+    },
+    {
+      "id": 731,
+      "character": "筆",
+      "pinyin": "bi",
+      "tone": 3,
+      "meaning": "Pen",
+      "story": "A pen bamboo hand bends down drooping saying \"Bee\"!",
+      "primitives": []
+    },
+    {
+      "id": 732,
+      "character": "等",
+      "pinyin": "deng",
+      "tone": 3,
+      "meaning": "etc.",
+      "story": "Etc. bamboo temple bends down drooping saying \"Dung\"!",
+      "primitives": []
+    },
+    {
+      "id": 733,
+      "character": "算",
+      "pinyin": "suan",
+      "tone": 4,
+      "meaning": "to calculate",
+      "story": "To calculate bamboo eyes commands \"Swan!\" sharply computing!",
+      "primitives": []
+    },
+    {
+      "id": 734,
+      "character": "答",
+      "pinyin": "da",
+      "tone": 2,
+      "meaning": "to answer",
+      "story": "To answer bamboo fit questions \"Da? Reply?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 735,
+      "character": "策",
+      "pinyin": "ce",
+      "tone": 4,
+      "meaning": "Strategy",
+      "story": "Strategy bamboo tree commands \"Tsuh!\" sharply planning!",
+      "primitives": []
+    },
+    {
+      "id": 736,
+      "character": "人",
+      "pinyin": "ren",
+      "tone": 2,
+      "meaning": "Person",
+      "story": "A person questions \"Ren? Who?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 737,
+      "character": "囚",
+      "pinyin": "qiu",
+      "tone": 2,
+      "meaning": "Prisoner",
+      "story": "A prisoner person trapped questions \"Chyo? Release?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 738,
+      "character": "份",
+      "pinyin": "fen",
+      "tone": 4,
+      "meaning": "Portion",
+      "story": "Portion person part commands \"Fen!\" sharply shared!",
+      "primitives": []
+    }
+  ]
+}

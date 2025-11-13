@@ -1,0 +1,167 @@
+{
+  "lesson": 29,
+  "characters": [
+    {
+      "id": 505,
+      "character": "誰",
+      "pinyin": "shui2",
+      "tone": 5,
+      "meaning": "who?",
+      "story": "Who speaks birds questions \"Shway? Who is it?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 506,
+      "character": "售",
+      "pinyin": "shou",
+      "tone": 4,
+      "meaning": "to vend",
+      "story": "To vend bird mouth commands \"Show!\" sharply selling!",
+      "primitives": []
+    },
+    {
+      "id": 507,
+      "character": "雖",
+      "pinyin": "sui",
+      "tone": 1,
+      "meaning": "although",
+      "story": "Although insect birds sings \"Sway!\" cheerfully conceding!",
+      "primitives": []
+    },
+    {
+      "id": 508,
+      "character": "確",
+      "pinyin": "que",
+      "tone": 4,
+      "meaning": "reliable",
+      "story": "Reliable stone birds commands \"Chueh!\" sharply certain!",
+      "primitives": []
+    },
+    {
+      "id": 509,
+      "character": "午",
+      "pinyin": "wu",
+      "tone": 3,
+      "meaning": "Noon",
+      "story": "Noon at midday bends down drooping saying \"Woo\"!",
+      "primitives": []
+    },
+    {
+      "id": 510,
+      "character": "許",
+      "pinyin": "xu",
+      "tone": 3,
+      "meaning": "to permit",
+      "story": "To permit words noon bend down drooping saying \"Shu\"!",
+      "primitives": []
+    },
+    {
+      "id": 511,
+      "character": "羽",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "Feathers",
+      "story": "Feathers bend down drooping saying \"Yu\"!",
+      "primitives": []
+    },
+    {
+      "id": 512,
+      "character": "習",
+      "pinyin": "xi",
+      "tone": 2,
+      "meaning": "to learn",
+      "story": "To learn feathers white questions \"Shi? How practice?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 513,
+      "character": "翔",
+      "pinyin": "xiang",
+      "tone": 2,
+      "meaning": "to soar",
+      "story": "To soar feathers sheep questions \"Shyang? Flying?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 514,
+      "character": "困",
+      "pinyin": "kun",
+      "tone": 4,
+      "meaning": "trapped",
+      "story": "Trapped tree in box commands \"Koon!\" sharply stuck!",
+      "primitives": []
+    },
+    {
+      "id": 515,
+      "character": "固",
+      "pinyin": "gu",
+      "tone": 4,
+      "meaning": "solid",
+      "story": "Solid trap ancient yells \"Goo!\" sharply firm!",
+      "primitives": []
+    },
+    {
+      "id": 516,
+      "character": "國",
+      "pinyin": "guo",
+      "tone": 2,
+      "meaning": "Country",
+      "story": "A country enclosure solid questions \"Gwoh? Which nation?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 517,
+      "character": "圓",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "round",
+      "story": "Round enclosure employee questions \"Yuan? Is it circular?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 518,
+      "character": "因",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "a Cause",
+      "story": "A cause big enclosure sings \"Yin!\" cheerfully reason!",
+      "primitives": []
+    },
+    {
+      "id": 519,
+      "character": "園",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "Park",
+      "story": "A park enclosure soil questions \"Yuan? Nice garden?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 520,
+      "character": "回",
+      "pinyin": "hui",
+      "tone": 2,
+      "meaning": "to return",
+      "story": "To return enclosure questions \"Hway? Back?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 521,
+      "character": "迴",
+      "pinyin": "hui",
+      "tone": 2,
+      "meaning": "to revolve",
+      "story": "To revolve walk return questions \"Hway? Spinning?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 522,
+      "character": "圖",
+      "pinyin": "tu",
+      "tone": 2,
+      "meaning": "Picture",
+      "story": "A picture enclosure winter questions \"Too? What image?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

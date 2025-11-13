@@ -1,0 +1,167 @@
+{
+  "lesson": 105,
+  "characters": [
+    {
+      "id": 1872,
+      "character": "致",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "bring about",
+      "story": "Bring about cause commands sharply \"Jir!\" - result deliver!",
+      "primitives": []
+    },
+    {
+      "id": 1873,
+      "character": "撤",
+      "pinyin": "che",
+      "tone": 4,
+      "meaning": "remove",
+      "story": "Remove hand bring about commands sharply \"Chuh!\" - withdraw evacuate!",
+      "primitives": []
+    },
+    {
+      "id": 1874,
+      "character": "硫",
+      "pinyin": "liu",
+      "tone": 2,
+      "meaning": "sulfur",
+      "story": "Sulfur stone flow questions \"Lyoh? Element?\" curiously - brimstone acid!",
+      "primitives": []
+    },
+    {
+      "id": 1875,
+      "character": "琉",
+      "pinyin": "liu",
+      "tone": 2,
+      "meaning": "glaze",
+      "story": "Glaze king Baby Moses questions \"Lyoh? Glassy?\" curiously - colored glass!",
+      "primitives": []
+    },
+    {
+      "id": 1876,
+      "character": "疏",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "sparse",
+      "story": "Sparse sickness dredge sings \"Shoo!\" cheerfully - thin scattered!",
+      "primitives": []
+    },
+    {
+      "id": 1877,
+      "character": "蔬",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "veggies",
+      "story": "Veggies flowers sparse sings \"Shoo!\" cheerfully - vegetables greens!",
+      "primitives": []
+    },
+    {
+      "id": 1878,
+      "character": "崩",
+      "pinyin": "beng",
+      "tone": 1,
+      "meaning": "crumble",
+      "story": "Crumble mountain friend sings \"Bung!\" cheerfully - collapse fall apart!",
+      "primitives": []
+    },
+    {
+      "id": 1879,
+      "character": "岩",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "rock",
+      "story": "Rock mountain stone questions \"Yahn? Boulder?\" curiously - crag!",
+      "primitives": []
+    },
+    {
+      "id": 1880,
+      "character": "崎",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "rugged",
+      "story": "Rugged mountain strange questions \"Chee? Terrain?\" curiously - uneven!",
+      "primitives": []
+    },
+    {
+      "id": 1881,
+      "character": "崖",
+      "pinyin": "ya",
+      "tone": 2,
+      "meaning": "cliff",
+      "story": "Cliff mountain tooth questions \"Yah? Precipice?\" curiously - steep drop!",
+      "primitives": []
+    },
+    {
+      "id": 1882,
+      "character": "炭",
+      "pinyin": "tan",
+      "tone": 4,
+      "meaning": "charcoal",
+      "story": "Charcoal mountain ashes commands sharply \"Tahn!\" - coal fuel suffering!",
+      "primitives": []
+    },
+    {
+      "id": 1883,
+      "character": "碳",
+      "pinyin": "tan",
+      "tone": 4,
+      "meaning": "carbon",
+      "story": "Carbon stone charcoal commands sharply \"Tahn!\" - element material!",
+      "primitives": []
+    },
+    {
+      "id": 1884,
+      "character": "盼",
+      "pinyin": "pan",
+      "tone": 4,
+      "meaning": "await hopefully",
+      "story": "Await hopefully part eyes commands sharply \"Pahn!\" - look forward expect!",
+      "primitives": []
+    },
+    {
+      "id": 1885,
+      "character": "頒",
+      "pinyin": "ban",
+      "tone": 1,
+      "meaning": "promulgate",
+      "story": "Promulgate part head sings \"Bahn!\" cheerfully - issue award announce!",
+      "primitives": []
+    },
+    {
+      "id": 1886,
+      "character": "芬",
+      "pinyin": "fen",
+      "tone": 1,
+      "meaning": "essence",
+      "story": "Essence flowers divide sings \"Fen!\" cheerfully - fragrance aroma!",
+      "primitives": []
+    },
+    {
+      "id": 1887,
+      "character": "扮",
+      "pinyin": "ban",
+      "tone": 4,
+      "meaning": "play the part of",
+      "story": "Play the part of hand divide commands sharply \"Bahn!\" - dress up act!",
+      "primitives": []
+    },
+    {
+      "id": 1888,
+      "character": "岔",
+      "pinyin": "cha",
+      "tone": 4,
+      "meaning": "diverge",
+      "story": "Diverge mountain divide commands sharply \"Chah!\" - branch interrupt!",
+      "primitives": []
+    },
+    {
+      "id": 1889,
+      "character": "頌",
+      "pinyin": "song",
+      "tone": 4,
+      "meaning": "extol",
+      "story": "Extol public head commands sharply \"Sohng!\" - praise hymn!",
+      "primitives": []
+    }
+  ]
+}

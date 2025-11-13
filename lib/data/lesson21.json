@@ -1,0 +1,167 @@
+{
+  "lesson": 21,
+  "characters": [
+    {
+      "id": 361,
+      "character": "賦",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "Levy",
+      "story": "A levy martial shellfish commands \"Foo!\" sharply taxing!",
+      "primitives": []
+    },
+    {
+      "id": 362,
+      "character": "正",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "correct",
+      "story": "Correct stop one commands \"Zheng!\" sharply right!",
+      "primitives": []
+    },
+    {
+      "id": 363,
+      "character": "政",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "Politics",
+      "story": "Politics correct strike yells \"Zheng!\" sharply governing!",
+      "primitives": []
+    },
+    {
+      "id": 364,
+      "character": "定",
+      "pinyin": "ding",
+      "tone": 4,
+      "meaning": "to settle on",
+      "story": "To settle on house correct commands \"Ding!\" sharply deciding!",
+      "primitives": []
+    },
+    {
+      "id": 365,
+      "character": "走",
+      "pinyin": "zou",
+      "tone": 3,
+      "meaning": "to walk",
+      "story": "To walk earth stop bends down drooping saying \"Zo\"!",
+      "primitives": []
+    },
+    {
+      "id": 366,
+      "character": "超",
+      "pinyin": "chao",
+      "tone": 1,
+      "meaning": "to transcend",
+      "story": "To transcend walk summon sings \"Chao!\" cheerfully exceeding!",
+      "primitives": []
+    },
+    {
+      "id": 367,
+      "character": "越",
+      "pinyin": "yue",
+      "tone": 4,
+      "meaning": "to surpass",
+      "story": "To surpass walk halberds commands \"Yueh!\" sharply beyond!",
+      "primitives": []
+    },
+    {
+      "id": 368,
+      "character": "是",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "to be",
+      "story": "To be sun correct yells \"Shi!\" sharply existing!",
+      "primitives": []
+    },
+    {
+      "id": 369,
+      "character": "題",
+      "pinyin": "ti",
+      "tone": 2,
+      "meaning": "Topic",
+      "story": "A topic yes page questions \"Ti? What about?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 370,
+      "character": "建",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "to build",
+      "story": "To build brush walk commands \"Jian!\" sharply constructing!",
+      "primitives": []
+    },
+    {
+      "id": 371,
+      "character": "延",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "to prolong",
+      "story": "To prolong walk correct questions \"Yan? How long?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 372,
+      "character": "誕",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "Nativity",
+      "story": "Nativity words prolong commands \"Dan!\" sharply birth!",
+      "primitives": []
+    },
+    {
+      "id": 373,
+      "character": "楚",
+      "pinyin": "chu",
+      "tone": 3,
+      "meaning": "clear",
+      "story": "Clear tree define bends down drooping saying \"Choo\"!",
+      "primitives": []
+    },
+    {
+      "id": 374,
+      "character": "礎",
+      "pinyin": "chu",
+      "tone": 3,
+      "meaning": "Foundation",
+      "story": "Foundation stone clear bends down drooping saying \"Choo\"!",
+      "primitives": []
+    },
+    {
+      "id": 375,
+      "character": "衣",
+      "pinyin": "yi",
+      "tone": 1,
+      "meaning": "Clothing",
+      "story": "Clothing covers cheerfully singing \"Yee!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 376,
+      "character": "裡",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "inside",
+      "story": "Inside clothing li bends down drooping saying \"Lee\"!",
+      "primitives": []
+    },
+    {
+      "id": 377,
+      "character": "哀",
+      "pinyin": "ai",
+      "tone": 1,
+      "meaning": "Grief",
+      "story": "Grief mouth clothes sings \"Eye!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 378,
+      "character": "袁",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "Yuan",
+      "story": "Yuan clothes begin questions \"Yuan? Who's that?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

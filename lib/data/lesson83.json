@@ -1,0 +1,167 @@
+{
+  "lesson": 83,
+  "characters": [
+    {
+      "id": 1476,
+      "character": "總",
+      "pinyin": "zong",
+      "tone": 3,
+      "meaning": "general",
+      "story": "General thread public bends down drooping \"Dzohng\" - overall!",
+      "primitives": []
+    },
+    {
+      "id": 1477,
+      "character": "詹",
+      "pinyin": "zhan",
+      "tone": 1,
+      "meaning": "verbose",
+      "story": "Verbose words divination sings \"Jahn!\" cheerfully - talk too much!",
+      "primitives": []
+    },
+    {
+      "id": 1478,
+      "character": "擔",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "to assume",
+      "story": "To assume hand verbose commands sharply \"Dahn!\" - carry bear undertake shouldering!",
+      "primitives": []
+    },
+    {
+      "id": 1479,
+      "character": "數",
+      "pinyin": "shu",
+      "tone": 4,
+      "meaning": "Number",
+      "story": "Number rice assume commands sharply \"Shoo!\" - figure count calculate!",
+      "primitives": []
+    },
+    {
+      "id": 1480,
+      "character": "樓",
+      "pinyin": "lou",
+      "tone": 2,
+      "meaning": "Multistory Building",
+      "story": "Multistory building tree number questions \"Loh? Floors?\" curiously - watchtower!",
+      "primitives": []
+    },
+    {
+      "id": 1481,
+      "character": "獨",
+      "pinyin": "du",
+      "tone": 2,
+      "meaning": "alone",
+      "story": "Alone animal insect questions \"Doo? Single?\" curiously - independent sole!",
+      "primitives": []
+    },
+    {
+      "id": 1482,
+      "character": "屬",
+      "pinyin": "shu",
+      "tone": 3,
+      "meaning": "to belong to",
+      "story": "To belong to body insect bends down drooping \"Shoo\" - subordinate!",
+      "primitives": []
+    },
+    {
+      "id": 1483,
+      "character": "爛",
+      "pinyin": "lan",
+      "tone": 4,
+      "meaning": "spoiled",
+      "story": "Spoiled fire east commands sharply \"Lahn!\" - rotten decayed!",
+      "primitives": []
+    },
+    {
+      "id": 1484,
+      "character": "蘭",
+      "pinyin": "lan",
+      "tone": 2,
+      "meaning": "Orchid",
+      "story": "Orchid flowers east questions \"Lahn? Elegant?\" curiously - beautiful plant!",
+      "primitives": []
+    },
+    {
+      "id": 1485,
+      "character": "從",
+      "pinyin": "cong",
+      "tone": 2,
+      "meaning": "to follow",
+      "story": "To follow person person questions \"Tsohng? Obey?\" curiously - accompany!",
+      "primitives": []
+    },
+    {
+      "id": 1486,
+      "character": "縱",
+      "pinyin": "zong",
+      "tone": 4,
+      "meaning": "vertical",
+      "story": "Vertical thread follow commands sharply \"Dzohng!\" - north-south longitude indulge!",
+      "primitives": []
+    },
+    {
+      "id": 1487,
+      "character": "齊",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "identical",
+      "story": "Identical even uniform questions \"Chee? Equal?\" curiously - adjusted!",
+      "primitives": []
+    },
+    {
+      "id": 1488,
+      "character": "濟",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "to relieve",
+      "story": "To relieve water identical commands sharply \"Jee!\" - help aid finish!",
+      "primitives": []
+    },
+    {
+      "id": 1489,
+      "character": "丑",
+      "pinyin": "chou",
+      "tone": 3,
+      "meaning": "Clown",
+      "story": "Clown twist bends down drooping \"Choh\" - ox 1am-3am ugly comedian sign of cow!",
+      "primitives": []
+    },
+    {
+      "id": 1490,
+      "character": "扭",
+      "pinyin": "niu",
+      "tone": 3,
+      "meaning": "to twist",
+      "story": "To twist hand clown bends down drooping \"Nyoh\" - turn wring!",
+      "primitives": []
+    },
+    {
+      "id": 1491,
+      "character": "卑",
+      "pinyin": "bei",
+      "tone": 1,
+      "meaning": "lowly",
+      "story": "Lowly humble low sings \"Bay!\" cheerfully - base vulgar inferior!",
+      "primitives": []
+    },
+    {
+      "id": 1492,
+      "character": "牌",
+      "pinyin": "pai",
+      "tone": 2,
+      "meaning": "a Brand",
+      "story": "A brand cow lowly questions \"Pigh? Signboard?\" curiously - placard mahjong tiles!",
+      "primitives": []
+    },
+    {
+      "id": 1493,
+      "character": "號",
+      "pinyin": "hao",
+      "tone": 4,
+      "meaning": "Appellation",
+      "story": "Appellation mouth tiger commands sharply \"Hao!\" - name ship number nickname!",
+      "primitives": []
+    }
+  ]
+}

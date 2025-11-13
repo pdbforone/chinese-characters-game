@@ -1,0 +1,167 @@
+{
+  "lesson": 108,
+  "characters": [
+    {
+      "id": 1926,
+      "character": "劫",
+      "pinyin": "jie",
+      "tone": 2,
+      "meaning": "plunder",
+      "story": "Plunder go muscle questions \"Jyeh? Rob?\" curiously - loot sack!",
+      "primitives": []
+    },
+    {
+      "id": 1927,
+      "character": "怒",
+      "pinyin": "nu",
+      "tone": 4,
+      "meaning": "anger",
+      "story": "Anger slave heart commands sharply \"Noo!\" - rage fury!",
+      "primitives": []
+    },
+    {
+      "id": 1928,
+      "character": "茄",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "eggplant",
+      "story": "Eggplant flowers add sings \"Jyah!\" cheerfully - purple vegetable!",
+      "primitives": []
+    },
+    {
+      "id": 1929,
+      "character": "彷",
+      "pinyin": "fang",
+      "tone": 3,
+      "meaning": "seemingly",
+      "story": "Seemingly go direction bends down drooping \"Fahng\" - as if appears!",
+      "primitives": []
+    },
+    {
+      "id": 1930,
+      "character": "征",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "go on an expedition",
+      "story": "Go on an expedition go correct sings \"Jung!\" cheerfully - command and conquer!",
+      "primitives": []
+    },
+    {
+      "id": 1931,
+      "character": "徒",
+      "pinyin": "tu",
+      "tone": 2,
+      "meaning": "follower",
+      "story": "Follower go walk questions \"Too? Disciple?\" curiously - apprentice vain!",
+      "primitives": []
+    },
+    {
+      "id": 1932,
+      "character": "徊",
+      "pinyin": "huai",
+      "tone": 2,
+      "meaning": "undecided",
+      "story": "Undecided go return questions \"Hwigh? Wander?\" curiously - hesitate!",
+      "primitives": []
+    },
+    {
+      "id": 1933,
+      "character": "徵",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "solicit",
+      "story": "Solicit go mountain sings \"Jung!\" cheerfully - summon levy!",
+      "primitives": []
+    },
+    {
+      "id": 1934,
+      "character": "懲",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "chasten",
+      "story": "Chasten solicit heart questions \"Chung? Punish?\" curiously - discipline!",
+      "primitives": []
+    },
+    {
+      "id": 1935,
+      "character": "循",
+      "pinyin": "xun",
+      "tone": 2,
+      "meaning": "comply with",
+      "story": "Comply with queue shield questions \"Shyoon? Follow?\" curiously - abide custom!",
+      "primitives": []
+    },
+    {
+      "id": 1936,
+      "character": "徹",
+      "pinyin": "che",
+      "tone": 4,
+      "meaning": "thorough",
+      "story": "Thorough go bring about commands sharply \"Chuh!\" - complete penetrating!",
+      "primitives": []
+    },
+    {
+      "id": 1937,
+      "character": "役",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "service",
+      "story": "Service go halberd commands sharply \"Yee!\" - duty labor campaign!",
+      "primitives": []
+    },
+    {
+      "id": 1938,
+      "character": "衍",
+      "pinyin": "yan",
+      "tone": 3,
+      "meaning": "develop",
+      "story": "Develop boulevard water bends down drooping \"Yahn\" - spread procreate!",
+      "primitives": []
+    },
+    {
+      "id": 1939,
+      "character": "衡",
+      "pinyin": "heng",
+      "tone": 2,
+      "meaning": "weight",
+      "story": "Weight boulevard St. bernard fish questions \"Hung? Balance?\" curiously - measure equilibrium!",
+      "primitives": []
+    },
+    {
+      "id": 1940,
+      "character": "銜",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "title",
+      "story": "Title metal boulevard questions \"Shyan? Rank?\" curiously - hold in mouth!",
+      "primitives": []
+    },
+    {
+      "id": 1941,
+      "character": "禿",
+      "pinyin": "tu",
+      "tone": 1,
+      "meaning": "bald",
+      "story": "Bald wild rice human legs sings \"Too!\" cheerfully - hairless!",
+      "primitives": []
+    },
+    {
+      "id": 1942,
+      "character": "頹",
+      "pinyin": "tui",
+      "tone": 2,
+      "meaning": "decrepit",
+      "story": "Decrepit bald head questions \"Tway? Decayed?\" curiously - dilapidated!",
+      "primitives": []
+    },
+    {
+      "id": 1943,
+      "character": "秒",
+      "pinyin": "miao",
+      "tone": 3,
+      "meaning": "seconds",
+      "story": "Seconds wheat few bends down drooping \"Myao\" - moment time unit!",
+      "primitives": []
+    }
+  ]
+}

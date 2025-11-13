@@ -1,0 +1,167 @@
+{
+  "lesson": 67,
+  "characters": [
+    {
+      "id": 1188,
+      "character": "念",
+      "pinyin": "nian",
+      "tone": 4,
+      "meaning": "to miss",
+      "story": "To miss now heart commands sharply \"Nyen!\" - recall and wish!",
+      "primitives": []
+    },
+    {
+      "id": 1189,
+      "character": "陰",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "Yin",
+      "story": "Yin wall now sings \"Yin!\" cheerfully - dark female principle!",
+      "primitives": []
+    },
+    {
+      "id": 1190,
+      "character": "蔭",
+      "pinyin": "yin",
+      "tone": 4,
+      "meaning": "shady",
+      "story": "Shady flowers yin commands sharply \"Yin!\" - behind the scenes shelter!",
+      "primitives": []
+    },
+    {
+      "id": 1191,
+      "character": "西",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "West",
+      "story": "West bird nest sings \"Shee!\" cheerfully - western direction!",
+      "primitives": []
+    },
+    {
+      "id": 1192,
+      "character": "要",
+      "pinyin": "yao",
+      "tone": 4,
+      "meaning": "want",
+      "story": "Want west woman commands sharply \"Yao!\" - must and vital need!",
+      "primitives": []
+    },
+    {
+      "id": 1193,
+      "character": "腰",
+      "pinyin": "yao",
+      "tone": 1,
+      "meaning": "Waist",
+      "story": "Waist body want sings \"Yao!\" cheerfully - middle and lower back loins!",
+      "primitives": []
+    },
+    {
+      "id": 1194,
+      "character": "票",
+      "pinyin": "piao",
+      "tone": 4,
+      "meaning": "Ticket",
+      "story": "Ticket west showing commands sharply \"Pyao!\" - ballot slip!",
+      "primitives": []
+    },
+    {
+      "id": 1195,
+      "character": "漂",
+      "pinyin": "piao",
+      "tone": 4,
+      "meaning": "to drift",
+      "story": "To drift water ticket commands sharply \"Pyao!\" - floating tossed about!",
+      "primitives": []
+    },
+    {
+      "id": 1196,
+      "character": "標",
+      "pinyin": "biao",
+      "tone": 1,
+      "meaning": "a Mark",
+      "story": "A mark tree ticket sings \"Byao!\" cheerfully - signpost and label!",
+      "primitives": []
+    },
+    {
+      "id": 1197,
+      "character": "賈",
+      "pinyin": "gu",
+      "tone": 3,
+      "meaning": "Merchant",
+      "story": "Merchant west shellfish bends down drooping \"Goo\" - to buy goods!",
+      "primitives": []
+    },
+    {
+      "id": 1198,
+      "character": "價",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "Price",
+      "story": "Price person merchant commands sharply \"Jyah!\" - value and worth!",
+      "primitives": []
+    },
+    {
+      "id": 1199,
+      "character": "煙",
+      "pinyin": "yan",
+      "tone": 1,
+      "meaning": "the Smoke",
+      "story": "The smoke fire west says \"Yan\" neutrally - cigarette tobacco rising!",
+      "primitives": []
+    },
+    {
+      "id": 1200,
+      "character": "南",
+      "pinyin": "nan",
+      "tone": 2,
+      "meaning": "South",
+      "story": "South ten questions \"Nahn? Direction?\" curiously - southern southward!",
+      "primitives": []
+    },
+    {
+      "id": 1201,
+      "character": "門",
+      "pinyin": "men",
+      "tone": 2,
+      "meaning": "Gate",
+      "story": "Gate two doors question \"Muhn? Entrance?\" curiously - opening portal!",
+      "primitives": []
+    },
+    {
+      "id": 1202,
+      "character": "們",
+      "pinyin": "men",
+      "tone": 5,
+      "meaning": "[plural]",
+      "story": "Plural marker gate person says \"men\" neutrally - we/they/you all!",
+      "primitives": []
+    },
+    {
+      "id": 1203,
+      "character": "閒",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "Leisure",
+      "story": "Leisure gate tree questions \"Shyan? Idle?\" curiously - unoccupied free time!",
+      "primitives": []
+    },
+    {
+      "id": 1204,
+      "character": "問",
+      "pinyin": "wen",
+      "tone": 4,
+      "meaning": "to ask",
+      "story": "To ask gate mouth commands sharply \"Wuhn!\" - inquire after!",
+      "primitives": []
+    },
+    {
+      "id": 1205,
+      "character": "間",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "Interval",
+      "story": "Interval gate sun sings \"Jyan!\" cheerfully - space between place!",
+      "primitives": []
+    }
+  ]
+}

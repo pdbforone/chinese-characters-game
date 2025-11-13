@@ -1,0 +1,167 @@
+{
+  "lesson": 27,
+  "characters": [
+    {
+      "id": 469,
+      "character": "說",
+      "pinyin": "shuo",
+      "tone": 1,
+      "meaning": "to speak",
+      "story": "To speak words convert sings \"Shwoh!\" cheerfully talking!",
+      "primitives": []
+    },
+    {
+      "id": 470,
+      "character": "曾",
+      "pinyin": "ceng",
+      "tone": 2,
+      "meaning": "formerly",
+      "story": "Formerly day bend questions \"Tseng? Long ago?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 471,
+      "character": "增",
+      "pinyin": "zeng",
+      "tone": 1,
+      "meaning": "to increase",
+      "story": "To increase earth formerly sings \"Zeng!\" cheerfully growing!",
+      "primitives": []
+    },
+    {
+      "id": 472,
+      "character": "贈",
+      "pinyin": "zeng",
+      "tone": 4,
+      "meaning": "to make a present of",
+      "story": "To make a present of shellfish increase commands \"Zeng!\" sharply gifting!",
+      "primitives": []
+    },
+    {
+      "id": 473,
+      "character": "東",
+      "pinyin": "dong",
+      "tone": 1,
+      "meaning": "East",
+      "story": "East tree bag sings \"Dong!\" cheerfully rising!",
+      "primitives": []
+    },
+    {
+      "id": 474,
+      "character": "棟",
+      "pinyin": "dong",
+      "tone": 4,
+      "meaning": "Building",
+      "story": "Building tree east commands \"Dong!\" sharply constructed!",
+      "primitives": []
+    },
+    {
+      "id": 475,
+      "character": "凍",
+      "pinyin": "dong",
+      "tone": 4,
+      "meaning": "to freeze",
+      "story": "To freeze ice east yells \"Dong!\" sharply frozen!",
+      "primitives": []
+    },
+    {
+      "id": 476,
+      "character": "也",
+      "pinyin": "ye",
+      "tone": 3,
+      "meaning": "also",
+      "story": "Also curved bends down drooping saying \"Yeh\"!",
+      "primitives": []
+    },
+    {
+      "id": 477,
+      "character": "她",
+      "pinyin": "ta",
+      "tone": 1,
+      "meaning": "she",
+      "story": "She woman also sings \"Ta!\" cheerfully feminine!",
+      "primitives": []
+    },
+    {
+      "id": 478,
+      "character": "地",
+      "pinyin": "di",
+      "tone": 4,
+      "meaning": "Ground",
+      "story": "Ground earth also commands \"Dee!\" sharply below!",
+      "primitives": []
+    },
+    {
+      "id": 479,
+      "character": "池",
+      "pinyin": "chi",
+      "tone": 2,
+      "meaning": "Pond",
+      "story": "A pond water also questions \"Chi? Deep?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 480,
+      "character": "蟲",
+      "pinyin": "chong",
+      "tone": 2,
+      "meaning": "Insects",
+      "story": "Insects crawling question \"Chong? Where going?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 481,
+      "character": "蛇",
+      "pinyin": "she",
+      "tone": 2,
+      "meaning": "Serpent",
+      "story": "A serpent insect also questions \"Shuh? Slithering?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 482,
+      "character": "蛋",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "Egg",
+      "story": "An egg insect finished commands \"Dan!\" sharply hatching!",
+      "primitives": []
+    },
+    {
+      "id": 483,
+      "character": "風",
+      "pinyin": "feng",
+      "tone": 1,
+      "meaning": "the Wind",
+      "story": "The wind insect sings \"Fung!\" cheerfully blowing!",
+      "primitives": []
+    },
+    {
+      "id": 484,
+      "character": "諷",
+      "pinyin": "feng",
+      "tone": 3,
+      "meaning": "to mock",
+      "story": "To mock words wind bend down drooping saying \"Fung\"!",
+      "primitives": []
+    },
+    {
+      "id": 485,
+      "character": "己",
+      "pinyin": "ji",
+      "tone": 3,
+      "meaning": "self",
+      "story": "Self bent bends down drooping saying \"Ji\"!",
+      "primitives": []
+    },
+    {
+      "id": 486,
+      "character": "改",
+      "pinyin": "gai",
+      "tone": 3,
+      "meaning": "to alter",
+      "story": "To alter self strike bends down drooping saying \"Gai\"!",
+      "primitives": []
+    }
+  ]
+}

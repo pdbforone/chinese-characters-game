@@ -1,0 +1,167 @@
+{
+  "lesson": 22,
+  "characters": [
+    {
+      "id": 379,
+      "character": "遠",
+      "pinyin": "yuan",
+      "tone": 3,
+      "meaning": "distant",
+      "story": "Distant walk Yuan bends down drooping saying \"Yuan\"!",
+      "primitives": []
+    },
+    {
+      "id": 380,
+      "character": "壞",
+      "pinyin": "huai",
+      "tone": 4,
+      "meaning": "bad",
+      "story": "Bad earth Yuan commands \"Hwai!\" sharply broken!",
+      "primitives": []
+    },
+    {
+      "id": 381,
+      "character": "初",
+      "pinyin": "chu",
+      "tone": 1,
+      "meaning": "elementary",
+      "story": "Elementary clothes knife sings \"Choo!\" cheerfully starting!",
+      "primitives": []
+    },
+    {
+      "id": 382,
+      "character": "巾",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "Towel",
+      "story": "A towel hangs cheerfully singing \"Jeen!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 383,
+      "character": "布",
+      "pinyin": "bu",
+      "tone": 4,
+      "meaning": "Cloth",
+      "story": "Cloth hangs down commanding \"Boo!\" sharply spread!",
+      "primitives": []
+    },
+    {
+      "id": 384,
+      "character": "帽",
+      "pinyin": "mao",
+      "tone": 4,
+      "meaning": "Hat",
+      "story": "A hat towel eye commands \"Mao!\" sharply on head!",
+      "primitives": []
+    },
+    {
+      "id": 385,
+      "character": "幕",
+      "pinyin": "mu",
+      "tone": 4,
+      "meaning": "Curtain",
+      "story": "A curtain towel nobody yells \"Moo!\" sharply hanging!",
+      "primitives": []
+    },
+    {
+      "id": 386,
+      "character": "棉",
+      "pinyin": "mian",
+      "tone": 2,
+      "meaning": "Cotton",
+      "story": "Cotton tree towel questions \"Mian? Is it soft?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 387,
+      "character": "幫",
+      "pinyin": "bang",
+      "tone": 1,
+      "meaning": "to help",
+      "story": "To help towel city sings \"Bang!\" cheerfully assisting!",
+      "primitives": []
+    },
+    {
+      "id": 388,
+      "character": "市",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Market",
+      "story": "A market towel above commands \"Shi!\" sharply trading!",
+      "primitives": []
+    },
+    {
+      "id": 389,
+      "character": "肺",
+      "pinyin": "fei",
+      "tone": 4,
+      "meaning": "Lungs",
+      "story": "Lungs flesh market yell \"Fay!\" sharply breathing!",
+      "primitives": []
+    },
+    {
+      "id": 390,
+      "character": "帶",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "Sash",
+      "story": "A sash towel world commands \"Dai!\" sharply wrapping!",
+      "primitives": []
+    },
+    {
+      "id": 391,
+      "character": "滯",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "stagnant",
+      "story": "Stagnant water sash yells \"Zhi!\" sharply stuck!",
+      "primitives": []
+    },
+    {
+      "id": 392,
+      "character": "刺",
+      "pinyin": "ci",
+      "tone": 4,
+      "meaning": "Thorn",
+      "story": "A thorn tree bundle commands \"Tsih!\" sharply piercing!",
+      "primitives": []
+    },
+    {
+      "id": 393,
+      "character": "制",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "System",
+      "story": "A system cow knife commands \"Zhi!\" sharply regulating!",
+      "primitives": []
+    },
+    {
+      "id": 394,
+      "character": "製",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "to manufacture",
+      "story": "To manufacture clothes system yells \"Zhi!\" sharply making!",
+      "primitives": []
+    },
+    {
+      "id": 395,
+      "character": "云",
+      "pinyin": "yun",
+      "tone": 2,
+      "meaning": "to utter",
+      "story": "To utter two clouds question \"Yun? What say?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 396,
+      "character": "雨",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "the Rain",
+      "story": "The rain drops bend down drooping saying \"Yu\"!",
+      "primitives": []
+    }
+  ]
+}

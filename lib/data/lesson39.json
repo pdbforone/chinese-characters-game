@@ -1,0 +1,167 @@
+{
+  "lesson": 39,
+  "characters": [
+    {
+      "id": 685,
+      "character": "賢",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "worthy",
+      "story": "Worthy official shellfish questions \"Shian? Virtuous?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 686,
+      "character": "堅",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "firm",
+      "story": "Firm earth official sings \"Jian!\" cheerfully solid!",
+      "primitives": []
+    },
+    {
+      "id": 687,
+      "character": "力",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "Power",
+      "story": "Power commands \"Lee!\" sharply strong!",
+      "primitives": []
+    },
+    {
+      "id": 688,
+      "character": "另",
+      "pinyin": "ling",
+      "tone": 4,
+      "meaning": "another",
+      "story": "Another power commands \"Ling!\" sharply different!",
+      "primitives": []
+    },
+    {
+      "id": 689,
+      "character": "別",
+      "pinyin": "bie",
+      "tone": 2,
+      "meaning": "don't",
+      "story": "Don't another sword questions \"Bieh? Please not?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 690,
+      "character": "拐",
+      "pinyin": "guai",
+      "tone": 3,
+      "meaning": "to turn",
+      "story": "To turn hand separate bends down drooping saying \"Gwai\"!",
+      "primitives": []
+    },
+    {
+      "id": 691,
+      "character": "男",
+      "pinyin": "nan",
+      "tone": 2,
+      "meaning": "Male",
+      "story": "Male field power questions \"Nan? Man?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 692,
+      "character": "功",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "Achievement",
+      "story": "Achievement work power sings \"Gong!\" cheerfully accomplished!",
+      "primitives": []
+    },
+    {
+      "id": 693,
+      "character": "奴",
+      "pinyin": "nu",
+      "tone": 2,
+      "meaning": "Slave",
+      "story": "A slave woman power questions \"Noo? Serve?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 694,
+      "character": "努",
+      "pinyin": "nu",
+      "tone": 3,
+      "meaning": "to toil",
+      "story": "To toil slave power bends down drooping saying \"Noo\"!",
+      "primitives": []
+    },
+    {
+      "id": 695,
+      "character": "加",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "to add",
+      "story": "To add power mouth sings \"Jia!\" cheerfully increasing!",
+      "primitives": []
+    },
+    {
+      "id": 696,
+      "character": "賀",
+      "pinyin": "he",
+      "tone": 4,
+      "meaning": "to congratulate",
+      "story": "To congratulate add shellfish commands \"Huh!\" sharply celebrating!",
+      "primitives": []
+    },
+    {
+      "id": 697,
+      "character": "架",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "Shelf",
+      "story": "A shelf add tree yells \"Jia!\" sharply supporting!",
+      "primitives": []
+    },
+    {
+      "id": 698,
+      "character": "協",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "to cooperate",
+      "story": "To cooperate ten power questions \"Shieh? Together?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 699,
+      "character": "行",
+      "pinyin": "hang",
+      "tone": 2,
+      "meaning": "Line Of Business",
+      "story": "Line of business step questions \"Hang? What trade?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 700,
+      "character": "律",
+      "pinyin": "lü",
+      "tone": 4,
+      "meaning": "Law",
+      "story": "Law walk step commands \"Lyu!\" sharply ruling!",
+      "primitives": []
+    },
+    {
+      "id": 701,
+      "character": "復",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "to recover",
+      "story": "To recover walk clothes day commands \"Foo!\" sharply restoring!",
+      "primitives": []
+    },
+    {
+      "id": 702,
+      "character": "得",
+      "pinyin": "de",
+      "tone": 2,
+      "meaning": "must",
+      "story": "Must step hand questions \"Duh? Have to?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

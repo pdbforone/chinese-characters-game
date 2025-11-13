@@ -1,0 +1,167 @@
+{
+  "lesson": 60,
+  "characters": [
+    {
+      "id": 1062,
+      "character": "配",
+      "pinyin": "pei",
+      "tone": 4,
+      "meaning": "to distribute",
+      "story": "To distribute wine with respect commands \"Pay!\" sharply allocating shares!",
+      "primitives": []
+    },
+    {
+      "id": 1063,
+      "character": "酋",
+      "pinyin": "qiu",
+      "tone": 2,
+      "meaning": "Chieftain",
+      "story": "A chieftain with wine questions \"Chyo? Am I chief?\" curiously leading the tribe!",
+      "primitives": []
+    },
+    {
+      "id": 1064,
+      "character": "尊",
+      "pinyin": "zun",
+      "tone": 1,
+      "meaning": "to venerate",
+      "story": "To venerate the wine altar sings \"Zun!\" cheerfully honoring with respect!",
+      "primitives": []
+    },
+    {
+      "id": 1065,
+      "character": "遵",
+      "pinyin": "zun",
+      "tone": 1,
+      "meaning": "to abide by",
+      "story": "To abide by the walk of veneration sings \"Zun!\" cheerfully following rules!",
+      "primitives": []
+    },
+    {
+      "id": 1066,
+      "character": "豆",
+      "pinyin": "dou",
+      "tone": 4,
+      "meaning": "Beans",
+      "story": "Beans in a dish command \"Doe!\" sharply - peas stacked high!",
+      "primitives": []
+    },
+    {
+      "id": 1067,
+      "character": "頭",
+      "pinyin": "tou",
+      "tone": 2,
+      "meaning": "Head",
+      "story": "A head with beans questions \"Toe? Where's the chief?\" curiously at the top!",
+      "primitives": []
+    },
+    {
+      "id": 1068,
+      "character": "短",
+      "pinyin": "duan",
+      "tone": 3,
+      "meaning": "short",
+      "story": "Short arrow with beans bends down drooping saying \"Dwan\" - lacking length!",
+      "primitives": []
+    },
+    {
+      "id": 1069,
+      "character": "禮",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "Ceremony",
+      "story": "Ceremony altar full of jelly beans bends down drooping saying \"Lee\" - rites and customs!",
+      "primitives": []
+    },
+    {
+      "id": 1070,
+      "character": "體",
+      "pinyin": "ti",
+      "tone": 3,
+      "meaning": "Body",
+      "story": "A body with ceremony bones bends down drooping saying \"Ti\" - the physical form!",
+      "primitives": []
+    },
+    {
+      "id": 1071,
+      "character": "鼓",
+      "pinyin": "gu",
+      "tone": 3,
+      "meaning": "a Drum",
+      "story": "A drum of beans beats, bending down drooping saying \"Goo\" - rousing rhythm!",
+      "primitives": []
+    },
+    {
+      "id": 1072,
+      "character": "喜",
+      "pinyin": "xi",
+      "tone": 3,
+      "meaning": "joyful",
+      "story": "Joyful mouth and drum bend down drooping saying \"Shi\" - happiness and delight!",
+      "primitives": []
+    },
+    {
+      "id": 1073,
+      "character": "廚",
+      "pinyin": "chu",
+      "tone": 2,
+      "meaning": "Kitchen",
+      "story": "Kitchen cliff with beans questions \"Choo? What's cooking?\" curiously preparing meals!",
+      "primitives": []
+    },
+    {
+      "id": 1074,
+      "character": "樹",
+      "pinyin": "shu",
+      "tone": 4,
+      "meaning": "Timber",
+      "story": "Timber tree and drum command \"Shoo!\" sharply - leaking glue when beaten for more!",
+      "primitives": []
+    },
+    {
+      "id": 1075,
+      "character": "血",
+      "pinyin": "xue",
+      "tone": 4,
+      "meaning": "Blood",
+      "story": "Blood in a dish bends down drooping saying \"Shueh\" - red liquid of life!",
+      "primitives": []
+    },
+    {
+      "id": 1076,
+      "character": "盡",
+      "pinyin": "jin",
+      "tone": 4,
+      "meaning": "exhausted",
+      "story": "Exhausted brush sweeps blood, commanding \"Jin!\" sharply - completely used up!",
+      "primitives": []
+    },
+    {
+      "id": 1077,
+      "character": "儘",
+      "pinyin": "jin",
+      "tone": 3,
+      "meaning": "to the utmost",
+      "story": "To the utmost person exhausted bends down drooping saying \"Jeen\" - trying maximum!",
+      "primitives": []
+    },
+    {
+      "id": 1078,
+      "character": "蓋",
+      "pinyin": "gai",
+      "tone": 4,
+      "meaning": "Lid",
+      "story": "A lid of grass covers blood, commanding \"Gai!\" sharply - canopy on top!",
+      "primitives": []
+    },
+    {
+      "id": 1079,
+      "character": "溫",
+      "pinyin": "wen",
+      "tone": 1,
+      "meaning": "temperature",
+      "story": "Temperature of water sings \"Wen!\" warmly - Marilyn giving bowl to prisoner feels lukewarm!",
+      "primitives": []
+    }
+  ]
+}

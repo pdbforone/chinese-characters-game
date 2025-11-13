@@ -1,0 +1,167 @@
+{
+  "lesson": 148,
+  "characters": [
+    {
+      "id": 2647,
+      "character": "膠",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "gum",
+      "story": "\"JYAO!\" the flesh sings cheerfully - gum, glue and adhesive!",
+      "primitives": []
+    },
+    {
+      "id": 2648,
+      "character": "謬",
+      "pinyin": "miu",
+      "tone": 4,
+      "meaning": "wrong",
+      "story": "\"MYOH!\" the words and kiddie cocktail command sharply - wrong, absurd and ridiculous!",
+      "primitives": []
+    },
+    {
+      "id": 2649,
+      "character": "寥",
+      "pinyin": "liao",
+      "tone": 2,
+      "meaning": "deserted",
+      "story": "\"LYAO?\" the house questions curiously - is it deserted, sparse and desolate?",
+      "primitives": []
+    },
+    {
+      "id": 2650,
+      "character": "斑",
+      "pinyin": "ban",
+      "tone": 1,
+      "meaning": "speck",
+      "story": "\"BAN!\" the highlander sings cheerfully between two balls - a speck, spot and mottled!",
+      "primitives": []
+    },
+    {
+      "id": 2651,
+      "character": "紋",
+      "pinyin": "wen",
+      "tone": 2,
+      "meaning": "design",
+      "story": "\"WUN?\" the thread questions curiously - what's the design, pattern and texture?",
+      "primitives": []
+    },
+    {
+      "id": 2652,
+      "character": "鏟",
+      "pinyin": "chan",
+      "tone": 3,
+      "meaning": "small shovel",
+      "story": "The metal bends down drooping - a small shovel, spade to dig!",
+      "primitives": []
+    },
+    {
+      "id": 2653,
+      "character": "薩",
+      "pinyin": "sa",
+      "tone": 4,
+      "meaning": "Samoa",
+      "story": "\"SAH!\" the flowers command sharply - Samoa, the name and island!",
+      "primitives": []
+    },
+    {
+      "id": 2654,
+      "character": "脊",
+      "pinyin": "ji",
+      "tone": 3,
+      "meaning": "backbone",
+      "story": "The flesh bends down drooping - the backbone, spine and vertebrae!",
+      "primitives": []
+    },
+    {
+      "id": 2655,
+      "character": "函",
+      "pinyin": "han",
+      "tone": 2,
+      "meaning": "letter",
+      "story": "\"HAN?\" the snare, sparkler and pit question curiously - is this a letter, a correspondence message?",
+      "primitives": []
+    },
+    {
+      "id": 2656,
+      "character": "涵",
+      "pinyin": "han",
+      "tone": 2,
+      "meaning": "culvert",
+      "story": "\"HAN?\" the water questions curiously - a culvert for forgiveness and tolerance?",
+      "primitives": []
+    },
+    {
+      "id": 2657,
+      "character": "映",
+      "pinyin": "ying",
+      "tone": 4,
+      "meaning": "reflect",
+      "story": "\"YING!\" the sun commands sharply - to reflect, image like a mirror and project!",
+      "primitives": []
+    },
+    {
+      "id": 2658,
+      "character": "殃",
+      "pinyin": "yang",
+      "tone": 1,
+      "meaning": "calamity",
+      "story": "\"YAHNG!\" the bones and center sing cheerfully despite calamity, disaster and misfortune!",
+      "primitives": []
+    },
+    {
+      "id": 2659,
+      "character": "肥",
+      "pinyin": "fei",
+      "tone": 2,
+      "meaning": "plump",
+      "story": "\"FAY?\" the flesh questions curiously - is it plump, fat and chubby?",
+      "primitives": []
+    },
+    {
+      "id": 2660,
+      "character": "爬",
+      "pinyin": "pa",
+      "tone": 2,
+      "meaning": "crawl",
+      "story": "\"PAH?\" he questions curiously - will you crawl, creep and climb?",
+      "primitives": []
+    },
+    {
+      "id": 2661,
+      "character": "疤",
+      "pinyin": "ba",
+      "tone": 1,
+      "meaning": "scar",
+      "story": "\"BAH!\" the sickness sings cheerfully - a scar, a wound mark representing life!",
+      "primitives": []
+    },
+    {
+      "id": 2662,
+      "character": "艷",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "gorgeous",
+      "story": "\"YEN!\" she commands sharply - gorgeous, beautiful with a romantic encounter!",
+      "primitives": []
+    },
+    {
+      "id": 2663,
+      "character": "甜",
+      "pinyin": "tian",
+      "tone": 2,
+      "meaning": "sugary",
+      "story": "\"TYEN?\" the tongue questions curiously - is it sugary, sweet like dessert?",
+      "primitives": []
+    },
+    {
+      "id": 2664,
+      "character": "鉗",
+      "pinyin": "qian",
+      "tone": 2,
+      "meaning": "pliers",
+      "story": "\"CHYEN?\" the metal and wicker basket question curiously - are these pliers, tongs and clamp?",
+      "primitives": []
+    }
+  ]
+}

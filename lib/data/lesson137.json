@@ -1,0 +1,167 @@
+{
+  "lesson": 137,
+  "characters": [
+    {
+      "id": 2448,
+      "character": "貌",
+      "pinyin": "mao",
+      "tone": 4,
+      "meaning": "mien",
+      "story": "\"MOW!\" the shells command sharply about mien - appearance and demeanor!",
+      "primitives": []
+    },
+    {
+      "id": 2449,
+      "character": "朗",
+      "pinyin": "lang",
+      "tone": 3,
+      "meaning": "lucent",
+      "story": "The moon bends down drooping - lucent, bright, clear and luminous!",
+      "primitives": []
+    },
+    {
+      "id": 2450,
+      "character": "狼",
+      "pinyin": "lang",
+      "tone": 2,
+      "meaning": "wolf",
+      "story": "\"Long?\" the pack of wild dogs questions curiously - is it a wolf, a wild canine or a weasel?",
+      "primitives": []
+    },
+    {
+      "id": 2451,
+      "character": "飢",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "starving",
+      "story": "\"GEE!\" the food and wind sing cheerfully - starving, hungry and desperate!",
+      "primitives": []
+    },
+    {
+      "id": 2452,
+      "character": "饒",
+      "pinyin": "rao",
+      "tone": 2,
+      "meaning": "spare",
+      "story": "\"Rao?\" the food questions curiously - will you spare, forgive and show mercy?",
+      "primitives": []
+    },
+    {
+      "id": 2453,
+      "character": "飾",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "ornaments",
+      "story": "\"SHEET!\" the food commands sharply - ornaments to decorate and adorn!",
+      "primitives": []
+    },
+    {
+      "id": 2454,
+      "character": "飲",
+      "pinyin": "yin",
+      "tone": 3,
+      "meaning": "beverage",
+      "story": "The food bends down drooping - the beverage, drink and liquid.",
+      "primitives": []
+    },
+    {
+      "id": 2455,
+      "character": "蝕",
+      "pinyin": "shi",
+      "tone": 2,
+      "meaning": "eat away",
+      "story": "\"Shih?\" the food and insect question curiously, eating away to erode and corrode.",
+      "primitives": []
+    },
+    {
+      "id": 2456,
+      "character": "飽",
+      "pinyin": "bao",
+      "tone": 3,
+      "meaning": "sated",
+      "story": "The food wraps and bends down drooping - sated, full, but suffering criticism.",
+      "primitives": []
+    },
+    {
+      "id": 2457,
+      "character": "饅",
+      "pinyin": "man",
+      "tone": 2,
+      "meaning": "bread",
+      "story": "\"Man?\" the food questions curiously - is it bread, a steamed bun?",
+      "primitives": []
+    },
+    {
+      "id": 2458,
+      "character": "餅",
+      "pinyin": "bing",
+      "tone": 3,
+      "meaning": "cookie",
+      "story": "The food puzzle bends down drooping - the cookie, cake and mochi!",
+      "primitives": []
+    },
+    {
+      "id": 2459,
+      "character": "餃",
+      "pinyin": "jiao",
+      "tone": 3,
+      "meaning": "dumpling",
+      "story": "The food bends down drooping - the dumpling, potsticker to celebrate!",
+      "primitives": []
+    },
+    {
+      "id": 2460,
+      "character": "餓",
+      "pinyin": "e",
+      "tone": 4,
+      "meaning": "hungry",
+      "story": "\"UH!\" the food commands sharply - hungry, starving and ravenous!",
+      "primitives": []
+    },
+    {
+      "id": 2461,
+      "character": "潛",
+      "pinyin": "qian",
+      "tone": 2,
+      "meaning": "submerge",
+      "story": "\"Chen?\" the water questions curiously, submerging to dive underwater and hide.",
+      "primitives": []
+    },
+    {
+      "id": 2462,
+      "character": "蠶",
+      "pinyin": "can",
+      "tone": 2,
+      "meaning": "silkworm",
+      "story": "\"Can?\" the waitresses, day and insects question curiously - the silkworm making cocoons and silk!",
+      "primitives": []
+    },
+    {
+      "id": 2463,
+      "character": "溉",
+      "pinyin": "gai",
+      "tone": 4,
+      "meaning": "irrigate",
+      "story": "\"GAI!\" the water commands sharply since - to irrigate and water the crops!",
+      "primitives": []
+    },
+    {
+      "id": 2464,
+      "character": "慨",
+      "pinyin": "kai",
+      "tone": 3,
+      "meaning": "incensed",
+      "story": "The state of mind bends down drooping since then - incensed with indignant resentment!",
+      "primitives": []
+    },
+    {
+      "id": 2465,
+      "character": "萍",
+      "pinyin": "ping",
+      "tone": 2,
+      "meaning": "duckweed",
+      "story": "\"Ping?\" the flowers, water and water lily question curiously - is it duckweed, a floating plant?",
+      "primitives": []
+    }
+  ]
+}

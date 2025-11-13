@@ -1,0 +1,167 @@
+{
+  "lesson": 129,
+  "characters": [
+    {
+      "id": 2305,
+      "character": "絡",
+      "pinyin": "luo",
+      "tone": 4,
+      "meaning": "web",
+      "story": "\"LWOH!\" the spider's thread commands sharply, creating a web to network and connect!",
+      "primitives": []
+    },
+    {
+      "id": 2306,
+      "character": "綢",
+      "pinyin": "chou",
+      "tone": 2,
+      "meaning": "silk fabric",
+      "story": "\"CHOH?\" she questions curiously, feeling the thread - is this silk fabric or satin cloth?",
+      "primitives": []
+    },
+    {
+      "id": 2307,
+      "character": "絨",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "down",
+      "story": "\"RUNG?\" the soft thread questions curiously like velvet - is this fluffy down filling?",
+      "primitives": []
+    },
+    {
+      "id": 2308,
+      "character": "締",
+      "pinyin": "di",
+      "tone": 4,
+      "meaning": "conclude",
+      "story": "\"DEE!\" he commands sharply, using the red thread to conclude the contract and bind the agreement!",
+      "primitives": []
+    },
+    {
+      "id": 2309,
+      "character": "紫",
+      "pinyin": "zi",
+      "tone": 3,
+      "meaning": "purple",
+      "story": "The child bends down drooping to pick up her purple crayon that rolled away - violet color!",
+      "primitives": []
+    },
+    {
+      "id": 2310,
+      "character": "繁",
+      "pinyin": "fan",
+      "tone": 2,
+      "meaning": "numerous",
+      "story": "\"FAN?\" the pattern questions curiously - why are there numerous threads, so abundant and many?",
+      "primitives": []
+    },
+    {
+      "id": 2311,
+      "character": "紡",
+      "pinyin": "fang",
+      "tone": 3,
+      "meaning": "spin",
+      "story": "The thread bends down drooping as the grandmother spins yarn on the wheel - whirling to weave!",
+      "primitives": []
+    },
+    {
+      "id": 2312,
+      "character": "繭",
+      "pinyin": "jian",
+      "tone": 3,
+      "meaning": "cocoon",
+      "story": "The silkworm bends down drooping inside the cocoon, surrounded by threads - waiting to emerge!",
+      "primitives": []
+    },
+    {
+      "id": 2313,
+      "character": "纏",
+      "pinyin": "chan",
+      "tone": 2,
+      "meaning": "wind around",
+      "story": "\"CHAN?\" the thread questions curiously as it winds around the bobbin - wrapping and coiling?",
+      "primitives": []
+    },
+    {
+      "id": 2314,
+      "character": "緻",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "delicate",
+      "story": "\"JIH!\" she commands sharply, examining the delicate thread work - so refined and exquisite!",
+      "primitives": []
+    },
+    {
+      "id": 2315,
+      "character": "繫",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "fasten",
+      "story": "\"JEE!\" he commands sharply, using thread to fasten the sail - connecting and linking it tight!",
+      "primitives": []
+    },
+    {
+      "id": 2316,
+      "character": "納",
+      "pinyin": "na",
+      "tone": 4,
+      "meaning": "let in",
+      "story": "\"NAH!\" the tailor commands sharply, letting in the seam allowance with careful thread work - accepting and receiving!",
+      "primitives": []
+    },
+    {
+      "id": 2317,
+      "character": "紛",
+      "pinyin": "fen",
+      "tone": 1,
+      "meaning": "disorderly",
+      "story": "\"FEN!\" the tangled threads sing cheerfully in disorderly fashion - confused and chaotic!",
+      "primitives": []
+    },
+    {
+      "id": 2318,
+      "character": "縮",
+      "pinyin": "suo",
+      "tone": 1,
+      "meaning": "shrink",
+      "story": "\"SWOH!\" the thread sings cheerfully as the fabric shrinks in hot water - contracting like pupils!",
+      "primitives": []
+    },
+    {
+      "id": 2319,
+      "character": "綜",
+      "pinyin": "zong",
+      "tone": 1,
+      "meaning": "sum up",
+      "story": "\"DZUNG!\" the manager commands sharply, using threads on the board to sum up and synthesize the overall plan!",
+      "primitives": []
+    },
+    {
+      "id": 2320,
+      "character": "紳",
+      "pinyin": "shen",
+      "tone": 1,
+      "meaning": "gentry",
+      "story": "\"SHEN!\" the thread and monkey sing cheerfully - the gentry scholar gentleman in fine silk!",
+      "primitives": []
+    },
+    {
+      "id": 2321,
+      "character": "緣",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "reason",
+      "story": "\"YWEN?\" the thread questions curiously about their reason for meeting - is it cause, fate, or connection?",
+      "primitives": []
+    },
+    {
+      "id": 2322,
+      "character": "緒",
+      "pinyin": "xu",
+      "tone": 4,
+      "meaning": "inception",
+      "story": "\"SHOO!\" the thread commands sharply at the inception of the project - following the clue and beginning!",
+      "primitives": []
+    }
+  ]
+}

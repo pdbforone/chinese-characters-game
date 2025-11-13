@@ -1,0 +1,167 @@
+{
+  "lesson": 31,
+  "characters": [
+    {
+      "id": 541,
+      "character": "憾",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "a Regret",
+      "story": "A regret heart feel commands \"Han!\" sharply regretting!",
+      "primitives": []
+    },
+    {
+      "id": 542,
+      "character": "憂",
+      "pinyin": "you",
+      "tone": 1,
+      "meaning": "worried",
+      "story": "Worried head heart sings \"Yo!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 543,
+      "character": "怕",
+      "pinyin": "pa",
+      "tone": 4,
+      "meaning": "to dread",
+      "story": "To dread heart white commands \"Pa!\" sharply scared!",
+      "primitives": []
+    },
+    {
+      "id": 544,
+      "character": "忙",
+      "pinyin": "mang",
+      "tone": 2,
+      "meaning": "busy",
+      "story": "Busy heart deceased questions \"Mang? Too much?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 545,
+      "character": "慣",
+      "pinyin": "guan",
+      "tone": 4,
+      "meaning": "accustomed to",
+      "story": "Accustomed to heart pierce yells \"Gwan!\" sharply used to!",
+      "primitives": []
+    },
+    {
+      "id": 546,
+      "character": "懷",
+      "pinyin": "huai",
+      "tone": 2,
+      "meaning": "to cherish",
+      "story": "To cherish heart bad questions \"Hwai? Care for?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 547,
+      "character": "必",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "certainly",
+      "story": "Certainly heart pierced commands \"Bee!\" sharply must!",
+      "primitives": []
+    },
+    {
+      "id": 548,
+      "character": "手",
+      "pinyin": "shou",
+      "tone": 3,
+      "meaning": "Hand",
+      "story": "A hand with fingers bends down drooping saying \"Show\"!",
+      "primitives": []
+    },
+    {
+      "id": 549,
+      "character": "看",
+      "pinyin": "kan",
+      "tone": 4,
+      "meaning": "to look at",
+      "story": "To look at hand eye commands \"Kan!\" sharply viewing!",
+      "primitives": []
+    },
+    {
+      "id": 550,
+      "character": "拿",
+      "pinyin": "na",
+      "tone": 2,
+      "meaning": "to hold",
+      "story": "To hold hand fit questions \"Na? Holding?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 551,
+      "character": "我",
+      "pinyin": "wo",
+      "tone": 3,
+      "meaning": "I",
+      "story": "I hand halberd bend down drooping saying \"Woh\"!",
+      "primitives": []
+    },
+    {
+      "id": 552,
+      "character": "義",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "Righteousness",
+      "story": "Righteousness sheep I commands \"Yi!\" sharply just!",
+      "primitives": []
+    },
+    {
+      "id": 553,
+      "character": "議",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "to deliberate",
+      "story": "To deliberate words righteous yells \"Yi!\" sharply discussing!",
+      "primitives": []
+    },
+    {
+      "id": 554,
+      "character": "蟻",
+      "pinyin": "yi",
+      "tone": 3,
+      "meaning": "Ant",
+      "story": "An ant insect righteous bends down drooping saying \"Yi\"!",
+      "primitives": []
+    },
+    {
+      "id": 555,
+      "character": "抱",
+      "pinyin": "bao",
+      "tone": 4,
+      "meaning": "to embrace",
+      "story": "To embrace hand wrap commands \"Bao!\" sharply hugging!",
+      "primitives": []
+    },
+    {
+      "id": 556,
+      "character": "抗",
+      "pinyin": "kang",
+      "tone": 4,
+      "meaning": "to combat",
+      "story": "To combat hand tall yells \"Kang!\" sharply resisting!",
+      "primitives": []
+    },
+    {
+      "id": 557,
+      "character": "批",
+      "pinyin": "pi",
+      "tone": 1,
+      "meaning": "to criticize",
+      "story": "To criticize hand compare sings \"Pi!\" cheerfully judging!",
+      "primitives": []
+    },
+    {
+      "id": 558,
+      "character": "招",
+      "pinyin": "zhao",
+      "tone": 1,
+      "meaning": "to beckon",
+      "story": "To beckon hand summon sings \"Zhao!\" cheerfully calling!",
+      "primitives": []
+    }
+  ]
+}

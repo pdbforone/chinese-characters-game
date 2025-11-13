@@ -1,0 +1,167 @@
+{
+  "lesson": 45,
+  "characters": [
+    {
+      "id": 793,
+      "character": "任",
+      "pinyin": "ren",
+      "tone": 4,
+      "meaning": "to appoint",
+      "story": "To appoint person burden commands \"Ren!\" sharply assigning!",
+      "primitives": []
+    },
+    {
+      "id": 794,
+      "character": "廷",
+      "pinyin": "ting",
+      "tone": 2,
+      "meaning": "Royal Court",
+      "story": "Royal court questions \"Ting? Palace?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 795,
+      "character": "庭",
+      "pinyin": "ting",
+      "tone": 2,
+      "meaning": "Court Of Law",
+      "story": "Court of law building royal court questions \"Ting? Trial?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 796,
+      "character": "以",
+      "pinyin": "yi",
+      "tone": 3,
+      "meaning": "by means of",
+      "story": "By means of resembles bends down drooping saying \"Yi\"!",
+      "primitives": []
+    },
+    {
+      "id": 797,
+      "character": "似",
+      "pinyin": "si",
+      "tone": 4,
+      "meaning": "similar",
+      "story": "Similar person by means commands \"Sih!\" sharply alike!",
+      "primitives": []
+    },
+    {
+      "id": 798,
+      "character": "併",
+      "pinyin": "bing",
+      "tone": 4,
+      "meaning": "to combine",
+      "story": "To combine person piece commands \"Bing!\" sharply joining!",
+      "primitives": []
+    },
+    {
+      "id": 799,
+      "character": "拼",
+      "pinyin": "pin",
+      "tone": 1,
+      "meaning": "to piece together",
+      "story": "To piece together hand combine sings \"Pin!\" cheerfully assembling!",
+      "primitives": []
+    },
+    {
+      "id": 800,
+      "character": "呂",
+      "pinyin": "lü",
+      "tone": 3,
+      "meaning": "Spine",
+      "story": "Spine two mouths bend down drooping saying \"Lyu\"!",
+      "primitives": []
+    },
+    {
+      "id": 801,
+      "character": "侶",
+      "pinyin": "lü",
+      "tone": 3,
+      "meaning": "an Associate",
+      "story": "An associate person spine bends down drooping saying \"Lyu\"!",
+      "primitives": []
+    },
+    {
+      "id": 802,
+      "character": "榮",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "Glory",
+      "story": "Glory grass fire questions \"Rong? Honor?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 803,
+      "character": "勞",
+      "pinyin": "lao",
+      "tone": 2,
+      "meaning": "Labor",
+      "story": "Labor fire power questions \"Lao? Working?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 804,
+      "character": "營",
+      "pinyin": "ying",
+      "tone": 2,
+      "meaning": "a Camp",
+      "story": "A camp fire building questions \"Ying? Army?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 805,
+      "character": "善",
+      "pinyin": "shan",
+      "tone": 4,
+      "meaning": "virtuous",
+      "story": "Virtuous sheep mouth commands \"Shan!\" sharply good!",
+      "primitives": []
+    },
+    {
+      "id": 806,
+      "character": "年",
+      "pinyin": "nian",
+      "tone": 2,
+      "meaning": "Year",
+      "story": "Year one thousand questions \"Nian? How long?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 807,
+      "character": "夜",
+      "pinyin": "ye",
+      "tone": 4,
+      "meaning": "Night",
+      "story": "Night person liquid commands \"Yeh!\" sharply dark!",
+      "primitives": []
+    },
+    {
+      "id": 808,
+      "character": "液",
+      "pinyin": "ye",
+      "tone": 4,
+      "meaning": "Liquid",
+      "story": "Liquid water night yells \"Yeh!\" sharply flowing!",
+      "primitives": []
+    },
+    {
+      "id": 809,
+      "character": "喚",
+      "pinyin": "huan",
+      "tone": 4,
+      "meaning": "to call out",
+      "story": "To call out mouth exchange commands \"Hwan!\" sharply shouting!",
+      "primitives": []
+    },
+    {
+      "id": 810,
+      "character": "換",
+      "pinyin": "huan",
+      "tone": 4,
+      "meaning": "to exchange",
+      "story": "To exchange hand call out yells \"Hwan!\" sharply trading!",
+      "primitives": []
+    }
+  ]
+}

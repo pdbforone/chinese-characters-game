@@ -1,0 +1,167 @@
+{
+  "lesson": 103,
+  "characters": [
+    {
+      "id": 1836,
+      "character": "材",
+      "pinyin": "cai",
+      "tone": 2,
+      "meaning": "stuff",
+      "story": "Stuff tree timber questions \"Tsigh? Material?\" curiously - wood substance!",
+      "primitives": []
+    },
+    {
+      "id": 1837,
+      "character": "孕",
+      "pinyin": "yun",
+      "tone": 4,
+      "meaning": "pregnant",
+      "story": "Pregnant child center commands sharply \"Yoon!\" - expecting baby!",
+      "primitives": []
+    },
+    {
+      "id": 1838,
+      "character": "扔",
+      "pinyin": "reng",
+      "tone": 1,
+      "meaning": "throw away",
+      "story": "Throw away hand still sings \"Rung!\" cheerfully - toss discard!",
+      "primitives": []
+    },
+    {
+      "id": 1839,
+      "character": "圾",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "trash",
+      "story": "Trash dirt urgent sings \"Jee!\" cheerfully - garbage rubbish!",
+      "primitives": []
+    },
+    {
+      "id": 1840,
+      "character": "叉",
+      "pinyin": "cha",
+      "tone": 1,
+      "meaning": "fork",
+      "story": "Fork again split sings \"Chah!\" cheerfully - prong cross!",
+      "primitives": []
+    },
+    {
+      "id": 1841,
+      "character": "桑",
+      "pinyin": "sang",
+      "tone": 1,
+      "meaning": "mulberry tree",
+      "story": "Mulberry tree three crotches tree sings \"Sahng!\" cheerfully - silkworm food!",
+      "primitives": []
+    },
+    {
+      "id": 1842,
+      "character": "嗓",
+      "pinyin": "sang",
+      "tone": 3,
+      "meaning": "voicebox",
+      "story": "Voicebox mouth mulberry tree bends down drooping \"Sahng\" - throat voice!",
+      "primitives": []
+    },
+    {
+      "id": 1843,
+      "character": "寇",
+      "pinyin": "kou",
+      "tone": 4,
+      "meaning": "outlaw",
+      "story": "Outlaw finish magic wand crotch commands sharply \"Koh!\" - bandit raider!",
+      "primitives": []
+    },
+    {
+      "id": 1844,
+      "character": "敲",
+      "pinyin": "qiao",
+      "tone": 1,
+      "meaning": "knock",
+      "story": "Knock tall taskmaster sings \"Chyao!\" cheerfully - rap strike!",
+      "primitives": []
+    },
+    {
+      "id": 1845,
+      "character": "灌",
+      "pinyin": "guan",
+      "tone": 4,
+      "meaning": "pour into",
+      "story": "Pour into water stork commands sharply \"Gwahn!\" - fill administer medicine!",
+      "primitives": []
+    },
+    {
+      "id": 1846,
+      "character": "權",
+      "pinyin": "quan",
+      "tone": 2,
+      "meaning": "authority",
+      "story": "Authority tree stork questions \"Chyuan? Power?\" curiously - right jurisdiction!",
+      "primitives": []
+    },
+    {
+      "id": 1847,
+      "character": "毅",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "resolute",
+      "story": "Resolute standing up sow missile commands sharply \"Yee!\" - determined dedicated!",
+      "primitives": []
+    },
+    {
+      "id": 1848,
+      "character": "肢",
+      "pinyin": "zhi",
+      "tone": 1,
+      "meaning": "limb",
+      "story": "Limb body branch sings \"Jir!\" cheerfully - arm leg extremity!",
+      "primitives": []
+    },
+    {
+      "id": 1849,
+      "character": "妓",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "prostitute",
+      "story": "Prostitute woman branch commands sharply \"Jee!\" - courtesan!",
+      "primitives": []
+    },
+    {
+      "id": 1850,
+      "character": "歧",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "fork in the road",
+      "story": "Fork in the road stop branch questions \"Chee? Diverge?\" curiously - crossroads Qishan!",
+      "primitives": []
+    },
+    {
+      "id": 1851,
+      "character": "翅",
+      "pinyin": "chi",
+      "tone": 4,
+      "meaning": "fins",
+      "story": "Fins feathers branch commands sharply \"Chir!\" - wings!",
+      "primitives": []
+    },
+    {
+      "id": 1852,
+      "character": "淑",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "graceful",
+      "story": "Graceful water reach questions \"Shoo? Refined lady?\" curiously - virtuous elegant!",
+      "primitives": []
+    },
+    {
+      "id": 1853,
+      "character": "椒",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "spice plant",
+      "story": "Spice plant tree roast turkey sings \"Jyao!\" cheerfully - peppery seasoning!",
+      "primitives": []
+    }
+  ]
+}

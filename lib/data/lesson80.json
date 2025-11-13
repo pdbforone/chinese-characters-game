@@ -1,0 +1,167 @@
+{
+  "lesson": 80,
+  "characters": [
+    {
+      "id": 1422,
+      "character": "虎",
+      "pinyin": "hu",
+      "tone": 3,
+      "meaning": "Tiger",
+      "story": "Tiger stripes claws bends down drooping \"Hoo\" - fierce beast!",
+      "primitives": []
+    },
+    {
+      "id": 1423,
+      "character": "慮",
+      "pinyin": "lü",
+      "tone": 4,
+      "meaning": "to ponder",
+      "story": "To ponder heart tiger commands sharply \"Lyoo!\" - worry prudence!",
+      "primitives": []
+    },
+    {
+      "id": 1424,
+      "character": "處",
+      "pinyin": "chu",
+      "tone": 4,
+      "meaning": "Location",
+      "story": "Location tiger table commands sharply \"Choo!\" - place spot bureau dispose!",
+      "primitives": []
+    },
+    {
+      "id": 1425,
+      "character": "戲",
+      "pinyin": "xi",
+      "tone": 4,
+      "meaning": "to frolic",
+      "story": "To frolic tiger play commands sharply \"Shee!\" - theatrical show!",
+      "primitives": []
+    },
+    {
+      "id": 1426,
+      "character": "劇",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "Drama",
+      "story": "Drama frolic sword commands sharply \"Jyoo!\" - play show!",
+      "primitives": []
+    },
+    {
+      "id": 1427,
+      "character": "據",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "Certificate",
+      "story": "Certificate hand drama commands sharply \"Jyoo!\" - according to set!",
+      "primitives": []
+    },
+    {
+      "id": 1428,
+      "character": "鹿",
+      "pinyin": "lu",
+      "tone": 4,
+      "meaning": "Deer",
+      "story": "Deer antlers commands sharply \"Loo!\" - forest animal!",
+      "primitives": []
+    },
+    {
+      "id": 1429,
+      "character": "塵",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "Dust",
+      "story": "Dust dirt deer questions \"Chun? Ashes?\" curiously - earth!",
+      "primitives": []
+    },
+    {
+      "id": 1430,
+      "character": "麗",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "lovely",
+      "story": "Lovely deer beautiful commands sharply \"Lee!\" - elegant!",
+      "primitives": []
+    },
+    {
+      "id": 1431,
+      "character": "熊",
+      "pinyin": "xiong",
+      "tone": 2,
+      "meaning": "Bear",
+      "story": "Bear fire able questions \"Shyohng? Powerful?\" curiously - beast!",
+      "primitives": []
+    },
+    {
+      "id": 1432,
+      "character": "能",
+      "pinyin": "neng",
+      "tone": 2,
+      "meaning": "Ability",
+      "story": "Ability meat moon questions \"Nung? Capable?\" curiously - can may!",
+      "primitives": []
+    },
+    {
+      "id": 1433,
+      "character": "態",
+      "pinyin": "tai",
+      "tone": 4,
+      "meaning": "Attitude",
+      "story": "Attitude ability heart commands sharply \"Tigh!\" - manner bearing!",
+      "primitives": []
+    },
+    {
+      "id": 1434,
+      "character": "寅",
+      "pinyin": "yin",
+      "tone": 2,
+      "meaning": "Sign Of The Tiger",
+      "story": "Sign of the tiger roof hands questions \"Yin? 3am-5am?\" curiously - respect!",
+      "primitives": []
+    },
+    {
+      "id": 1435,
+      "character": "演",
+      "pinyin": "yan",
+      "tone": 3,
+      "meaning": "to perform",
+      "story": "To perform water tiger sign bends down drooping \"Yahn\" - practice act performance!",
+      "primitives": []
+    },
+    {
+      "id": 1436,
+      "character": "辰",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "Sign Of The Dragon",
+      "story": "Sign of the dragon morning commands sharply \"Chun?\" curiously - 7am-9am dragon hour!",
+      "primitives": []
+    },
+    {
+      "id": 1437,
+      "character": "晨",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "Morning",
+      "story": "Morning sun dragon sign questions \"Chun? Dawn?\" curiously - daybreak morrow!",
+      "primitives": []
+    },
+    {
+      "id": 1438,
+      "character": "農",
+      "pinyin": "nong",
+      "tone": 2,
+      "meaning": "Agriculture",
+      "story": "Agriculture morning bend questions \"Nohng? Farming?\" curiously - cultivating!",
+      "primitives": []
+    },
+    {
+      "id": 1439,
+      "character": "濃",
+      "pinyin": "nong",
+      "tone": 2,
+      "meaning": "concentrated",
+      "story": "Concentrated water agriculture questions \"Nohng? Thick?\" curiously - dense!",
+      "primitives": []
+    }
+  ]
+}

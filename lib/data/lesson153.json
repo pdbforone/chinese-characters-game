@@ -1,0 +1,167 @@
+{
+  "lesson": 153,
+  "characters": [
+    {
+      "id": 2739,
+      "character": "爺",
+      "pinyin": "ye",
+      "tone": 2,
+      "meaning": "grandfather",
+      "story": "\"YEH?\" he questions curiously - is that grandfather, grandpa, or an old man?",
+      "primitives": []
+    },
+    {
+      "id": 2740,
+      "character": "郊",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "outskirts",
+      "story": "\"JYAO!\" the city walls sing cheerfully - the outskirts, the suburbs where we do boxing training!",
+      "primitives": []
+    },
+    {
+      "id": 2741,
+      "character": "邦",
+      "pinyin": "bang",
+      "tone": 1,
+      "meaning": "nation",
+      "story": "\"BAHNG!\" the city walls sing cheerfully - a nation, a country, a state!",
+      "primitives": []
+    },
+    {
+      "id": 2742,
+      "character": "綁",
+      "pinyin": "bang",
+      "tone": 3,
+      "meaning": "truss",
+      "story": "The thread bends down drooping to truss and bind, tying up the kidnap victim.",
+      "primitives": []
+    },
+    {
+      "id": 2743,
+      "character": "郵",
+      "pinyin": "you",
+      "tone": 2,
+      "meaning": "post",
+      "story": "\"YOH?\" the city walls question curiously - where's the post office to mail and deliver letters?",
+      "primitives": []
+    },
+    {
+      "id": 2744,
+      "character": "鄧",
+      "pinyin": "deng",
+      "tone": 4,
+      "meaning": "Deng",
+      "story": "\"DUNG!\" the stepladder by the city walls commands sharply - the surname Deng, like Deng Xiaoping!",
+      "primitives": []
+    },
+    {
+      "id": 2745,
+      "character": "擲",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "hurl",
+      "story": "\"JIH!\" the fingers command sharply as they hurl the ball - throwing and casting it far!",
+      "primitives": []
+    },
+    {
+      "id": 2746,
+      "character": "廊",
+      "pinyin": "lang",
+      "tone": 2,
+      "meaning": "hallway",
+      "story": "\"LAHNG?\" the cave questions curiously - is this a hallway, a corridor, a passage?",
+      "primitives": []
+    },
+    {
+      "id": 2747,
+      "character": "擁",
+      "pinyin": "yong",
+      "tone": 1,
+      "meaning": "hug",
+      "story": "\"YUNG!\" the fingers sing cheerfully to hug, embrace, and hold tight!",
+      "primitives": []
+    },
+    {
+      "id": 2748,
+      "character": "緞",
+      "pinyin": "duan",
+      "tone": 4,
+      "meaning": "satin",
+      "story": "\"DWAN!\" the thread commands sharply - satin, silk ribbon for her hair!",
+      "primitives": []
+    },
+    {
+      "id": 2749,
+      "character": "刁",
+      "pinyin": "diao",
+      "tone": 1,
+      "meaning": "wily",
+      "story": "\"DYAO!\" the clothes hanger drops and sings cheerfully - wily, cunning, and difficult!",
+      "primitives": []
+    },
+    {
+      "id": 2750,
+      "character": "叼",
+      "pinyin": "diao",
+      "tone": 1,
+      "meaning": "hold in the mouth",
+      "story": "\"DYAO!\" the wily mouth sings cheerfully, holding something in the mouth - gripping and biting!",
+      "primitives": []
+    },
+    {
+      "id": 2751,
+      "character": "殷",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "ardent",
+      "story": "\"YIN!\" the sun sings cheerfully with ardent passion - earnest and fervent enthusiasm!",
+      "primitives": []
+    },
+    {
+      "id": 2752,
+      "character": "壽",
+      "pinyin": "shou",
+      "tone": 4,
+      "meaning": "longevity",
+      "story": "\"SHOH!\" the long grey beard commands sharply - longevity, lifespan, and cigarettes for the elderly!",
+      "primitives": []
+    },
+    {
+      "id": 2753,
+      "character": "濤",
+      "pinyin": "tao",
+      "tone": 1,
+      "meaning": "large waves",
+      "story": "\"TAO?\" the water and long grey beard question curiously - are those large waves surging in the ocean?",
+      "primitives": []
+    },
+    {
+      "id": 2754,
+      "character": "鑄",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "cast",
+      "story": "\"JOO!\" the metal commands sharply - to cast, forge, and mold into shape!",
+      "primitives": []
+    },
+    {
+      "id": 2755,
+      "character": "禱",
+      "pinyin": "dao",
+      "tone": 3,
+      "meaning": "pray",
+      "story": "The altar and long grey beard bend down drooping to pray, worship, and petition the gods.",
+      "primitives": []
+    },
+    {
+      "id": 2756,
+      "character": "籌",
+      "pinyin": "chou",
+      "tone": 2,
+      "meaning": "make arrangements",
+      "story": "\"CHOH?\" the bamboo and long grey beard question curiously - how to make arrangements, plan, and coordinate?",
+      "primitives": []
+    }
+  ]
+}

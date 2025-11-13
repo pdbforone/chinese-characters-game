@@ -1,0 +1,167 @@
+{
+  "lesson": 146,
+  "characters": [
+    {
+      "id": 2610,
+      "character": "癮",
+      "pinyin": "yin",
+      "tone": 3,
+      "meaning": "addiction",
+      "story": "The sickness bends down drooping - an addiction, a craving that's thrilling!",
+      "primitives": []
+    },
+    {
+      "id": 2611,
+      "character": "巨",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "gigantic",
+      "story": "\"JYOO!\" he commands sharply - gigantic, huge and enormous!",
+      "primitives": []
+    },
+    {
+      "id": 2612,
+      "character": "渠",
+      "pinyin": "qu",
+      "tone": 2,
+      "meaning": "canal",
+      "story": "\"CHYOO?\" the water, giant and tree question curiously - is this a canal, a channel and ditch?",
+      "primitives": []
+    },
+    {
+      "id": 2613,
+      "character": "拒",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "refuse",
+      "story": "\"JYOO!\" the fingers command sharply - to refuse, reject and decline the call!",
+      "primitives": []
+    },
+    {
+      "id": 2614,
+      "character": "矩",
+      "pinyin": "ju",
+      "tone": 3,
+      "meaning": "square",
+      "story": "The spear bends down drooping - a square with rules and standards!",
+      "primitives": []
+    },
+    {
+      "id": 2615,
+      "character": "距",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "distance",
+      "story": "\"JYOO!\" the foot commands sharply - measuring the distance, the gap and separation!",
+      "primitives": []
+    },
+    {
+      "id": 2616,
+      "character": "框",
+      "pinyin": "kuang",
+      "tone": 4,
+      "meaning": "rectangular frame",
+      "story": "\"KWAHNG!\" the tree, box and jewel command sharply - a rectangular frame, a border for pictures and certificates!",
+      "primitives": []
+    },
+    {
+      "id": 2617,
+      "character": "筐",
+      "pinyin": "kuang",
+      "tone": 1,
+      "meaning": "rectangular basket",
+      "story": "\"KWAHNG!\" the bamboo, box and king sing cheerfully - a rectangular basket for fruit containers!",
+      "primitives": []
+    },
+    {
+      "id": 2618,
+      "character": "砸",
+      "pinyin": "za",
+      "tone": 2,
+      "meaning": "smash",
+      "story": "\"DZAH?\" the stone questions curiously - will you smash, shatter and break?",
+      "primitives": []
+    },
+    {
+      "id": 2619,
+      "character": "匯",
+      "pinyin": "hui",
+      "tone": 4,
+      "meaning": "converge",
+      "story": "\"HWAY!\" the box, water and turkey command sharply - to converge, gather and assemble!",
+      "primitives": []
+    },
+    {
+      "id": 2620,
+      "character": "匠",
+      "pinyin": "jiang",
+      "tone": 4,
+      "meaning": "artisan",
+      "story": "\"JYAHNG!\" the box and tomahawk command sharply - an artisan, a craftsman comedian!",
+      "primitives": []
+    },
+    {
+      "id": 2621,
+      "character": "匪",
+      "pinyin": "fei",
+      "tone": 3,
+      "meaning": "bandit",
+      "story": "The box and jail cell bend down drooping - a bandit, a thief and outlaw!",
+      "primitives": []
+    },
+    {
+      "id": 2622,
+      "character": "匿",
+      "pinyin": "ni",
+      "tone": 4,
+      "meaning": "keep out of sight",
+      "story": "\"NEE!\" the box and Disneyland command sharply - to keep out of sight, hide and conceal!",
+      "primitives": []
+    },
+    {
+      "id": 2623,
+      "character": "兜",
+      "pinyin": "dou",
+      "tone": 1,
+      "meaning": "pocket",
+      "story": "\"DOH!\" he sings cheerfully about the pocket, pouch to carry!",
+      "primitives": []
+    },
+    {
+      "id": 2625,
+      "character": "毆",
+      "pinyin": "ou",
+      "tone": 1,
+      "meaning": "hit",
+      "story": "\"OH!\" the bones sing cheerfully - to hit, fight and strike in the cloud recesses!",
+      "primitives": []
+    },
+    {
+      "id": 2626,
+      "character": "軀",
+      "pinyin": "qu",
+      "tone": 1,
+      "meaning": "human body",
+      "story": "\"CHYOO!\" the car sings cheerfully - the human body, physique and torso!",
+      "primitives": []
+    },
+    {
+      "id": 2627,
+      "character": "昂",
+      "pinyin": "ang",
+      "tone": 2,
+      "meaning": "hold one's head high",
+      "story": "\"AHNG?\" the sun questions curiously - will you hold your head high, proud and lofty?",
+      "primitives": []
+    },
+    {
+      "id": 2628,
+      "character": "抑",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "curb",
+      "story": "\"YEE!\" the fingers command sharply - to curb, restrain and repress!",
+      "primitives": []
+    }
+  ]
+}

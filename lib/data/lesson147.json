@@ -1,0 +1,167 @@
+{
+  "lesson": 147,
+  "characters": [
+    {
+      "id": 2629,
+      "character": "葵",
+      "pinyin": "kui",
+      "tone": 2,
+      "meaning": "large-flowered plants",
+      "story": "\"KWAY?\" the flowers, teepee and heavens question curiously - are these large-flowered plants, sunflowers?",
+      "primitives": []
+    },
+    {
+      "id": 2630,
+      "character": "僚",
+      "pinyin": "liao",
+      "tone": 2,
+      "meaning": "coworker",
+      "story": "\"LYAO?\" the person and pup tent question curiously - is this a coworker, an official bureaucrat?",
+      "primitives": []
+    },
+    {
+      "id": 2631,
+      "character": "遼",
+      "pinyin": "liao",
+      "tone": 2,
+      "meaning": "far away",
+      "story": "\"LYAO?\" the road questions curiously - how far away, distant and remote?",
+      "primitives": []
+    },
+    {
+      "id": 2632,
+      "character": "瞭",
+      "pinyin": "liao",
+      "tone": 3,
+      "meaning": "comprehend",
+      "story": "The eyes bend down drooping - to comprehend, understand and grasp!",
+      "primitives": []
+    },
+    {
+      "id": 2633,
+      "character": "療",
+      "pinyin": "liao",
+      "tone": 2,
+      "meaning": "cure",
+      "story": "\"LYAO?\" the sickness questions curiously - will you cure, treat and heal?",
+      "primitives": []
+    },
+    {
+      "id": 2634,
+      "character": "瞪",
+      "pinyin": "deng",
+      "tone": 4,
+      "meaning": "glare",
+      "story": "\"DUNG!\" the eyes command sharply - to glare, stare and gaze!",
+      "primitives": []
+    },
+    {
+      "id": 2635,
+      "character": "凳",
+      "pinyin": "deng",
+      "tone": 4,
+      "meaning": "bench",
+      "story": "\"DUNG!\" he commands sharply - sit on the bench, the stool and seat!",
+      "primitives": []
+    },
+    {
+      "id": 2636,
+      "character": "澄",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "transparent",
+      "story": "\"CHUNG?\" the water questions curiously - is it transparent, clear like the untamed?",
+      "primitives": []
+    },
+    {
+      "id": 2637,
+      "character": "潑",
+      "pinyin": "po",
+      "tone": 1,
+      "meaning": "splash",
+      "story": "\"PWOH!\" the water sings cheerfully - to splash, be spirited and lively!",
+      "primitives": []
+    },
+    {
+      "id": 2638,
+      "character": "撥",
+      "pinyin": "bo",
+      "tone": 1,
+      "meaning": "allocate",
+      "story": "\"BWOH!\" the fingers and courier sing cheerfully - to allocate, distribute and provoke!",
+      "primitives": []
+    },
+    {
+      "id": 2639,
+      "character": "杉",
+      "pinyin": "chan",
+      "tone": 1,
+      "meaning": "fir tree",
+      "story": "\"SHAN!\" the tree and rooster tail sing cheerfully - a fir tree, cedar and conifer!",
+      "primitives": []
+    },
+    {
+      "id": 2640,
+      "character": "彬",
+      "pinyin": "bin",
+      "tone": 1,
+      "meaning": "well-mannered",
+      "story": "\"BIN!\" he sings cheerfully - well-mannered, refined, gentle and urbane!",
+      "primitives": []
+    },
+    {
+      "id": 2641,
+      "character": "衫",
+      "pinyin": "shan",
+      "tone": 1,
+      "meaning": "shirt",
+      "story": "\"SHAN!\" the clothes sing cheerfully - a shirt, garment and blouse!",
+      "primitives": []
+    },
+    {
+      "id": 2642,
+      "character": "彰",
+      "pinyin": "zhang",
+      "tone": 1,
+      "meaning": "manifest",
+      "story": "\"JAHNG!\" it sings cheerfully - manifest, evident, revealing not failures!",
+      "primitives": []
+    },
+    {
+      "id": 2643,
+      "character": "膨",
+      "pinyin": "peng",
+      "tone": 2,
+      "meaning": "puffy",
+      "story": "\"PUNG?\" the flesh, drum and rooster tail question curiously - puffy, swollen and bloated?",
+      "primitives": []
+    },
+    {
+      "id": 2644,
+      "character": "趁",
+      "pinyin": "chen",
+      "tone": 4,
+      "meaning": "take advantage of",
+      "story": "\"CHUN!\" he commands sharply - to take advantage of, seize the opportunity!",
+      "primitives": []
+    },
+    {
+      "id": 2645,
+      "character": "診",
+      "pinyin": "zhen",
+      "tone": 3,
+      "meaning": "diagnose",
+      "story": "The words bend down drooping - to diagnose, examine and consult!",
+      "primitives": []
+    },
+    {
+      "id": 2646,
+      "character": "滲",
+      "pinyin": "shen",
+      "tone": 4,
+      "meaning": "seep",
+      "story": "\"SHUN!\" the water commands sharply - to seep, permeate and ooze the stink!",
+      "primitives": []
+    }
+  ]
+}

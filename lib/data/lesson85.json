@@ -1,0 +1,167 @@
+{
+  "lesson": 85,
+  "characters": [
+    {
+      "id": 1512,
+      "character": "姦",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "adultery",
+      "story": "Adultery three women sings \"Jyan!\" cheerfully - illicit affair!",
+      "primitives": []
+    },
+    {
+      "id": 1513,
+      "character": "嬰",
+      "pinyin": "ying",
+      "tone": 1,
+      "meaning": "baby",
+      "story": "Baby necklaces woman sings \"Ying!\" cheerfully - infant newborn!",
+      "primitives": []
+    },
+    {
+      "id": 1514,
+      "character": "姑",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "father's sister",
+      "story": "Father's sister woman ancient sings \"Goo!\" cheerfully - aunt!",
+      "primitives": []
+    },
+    {
+      "id": 1515,
+      "character": "姆",
+      "pinyin": "mu",
+      "tone": 3,
+      "meaning": "nanny",
+      "story": "Nanny woman mother bends down drooping \"Moo\" - caretaker!",
+      "primitives": []
+    },
+    {
+      "id": 1516,
+      "character": "兢",
+      "pinyin": "jing",
+      "tone": 1,
+      "meaning": "cautious",
+      "story": "Cautious two compete sings \"Jing!\" cheerfully - careful wary!",
+      "primitives": []
+    },
+    {
+      "id": 1517,
+      "character": "碩",
+      "pinyin": "shuo",
+      "tone": 4,
+      "meaning": "big",
+      "story": "Big stone page commands sharply \"Shwoh!\" - large huge!",
+      "primitives": []
+    },
+    {
+      "id": 1518,
+      "character": "砌",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "lay brick",
+      "story": "Lay brick stone together commands sharply \"Chee!\" - building wall!",
+      "primitives": []
+    },
+    {
+      "id": 1519,
+      "character": "哨",
+      "pinyin": "shao",
+      "tone": 4,
+      "meaning": "whistle",
+      "story": "Whistle mouth small commands sharply \"Shao!\" - sentry signal!",
+      "primitives": []
+    },
+    {
+      "id": 1520,
+      "character": "晃",
+      "pinyin": "huang",
+      "tone": 4,
+      "meaning": "sway",
+      "story": "Sway sun light commands sharply \"Hwahng!\" - swinging rocking!",
+      "primitives": []
+    },
+    {
+      "id": 1521,
+      "character": "泊",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "moor",
+      "story": "Moor water white questions \"Bwo? Anchor?\" curiously - harbor dock!",
+      "primitives": []
+    },
+    {
+      "id": 1522,
+      "character": "汰",
+      "pinyin": "tai",
+      "tone": 4,
+      "meaning": "get rid of",
+      "story": "Get rid of water big commands sharply \"Tigh!\" - eliminate discard!",
+      "primitives": []
+    },
+    {
+      "id": 1523,
+      "character": "沾",
+      "pinyin": "zhan",
+      "tone": 1,
+      "meaning": "soak",
+      "story": "Soak water join sings \"Jahn!\" cheerfully - wet moisten!",
+      "primitives": []
+    },
+    {
+      "id": 1524,
+      "character": "渺",
+      "pinyin": "miao",
+      "tone": 3,
+      "meaning": "insignificant",
+      "story": "Insignificant water eye bends down drooping \"Myao\" - tiny distant!",
+      "primitives": []
+    },
+    {
+      "id": 1525,
+      "character": "腺",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "gland",
+      "story": "Gland body spring commands sharply \"Shyan!\" - secreting organ!",
+      "primitives": []
+    },
+    {
+      "id": 1526,
+      "character": "坦",
+      "pinyin": "tan",
+      "tone": 3,
+      "meaning": "level",
+      "story": "Level earth sunrise bends down drooping \"Tahn\" - flat even!",
+      "primitives": []
+    },
+    {
+      "id": 1527,
+      "character": "娃",
+      "pinyin": "wa",
+      "tone": 2,
+      "meaning": "newborn",
+      "story": "Newborn woman frog questions \"Wah? Baby?\" curiously - infant child!",
+      "primitives": []
+    },
+    {
+      "id": 1528,
+      "character": "涯",
+      "pinyin": "ya",
+      "tone": 2,
+      "meaning": "bank",
+      "story": "Bank water cliff questions \"Yah? Riverbank?\" curiously - shore edge!",
+      "primitives": []
+    },
+    {
+      "id": 1529,
+      "character": "吋",
+      "pinyin": "cun",
+      "tone": 4,
+      "meaning": "inch",
+      "story": "Inch mouth measure commands sharply \"Tsoon!\" - small unit!",
+      "primitives": []
+    }
+  ]
+}

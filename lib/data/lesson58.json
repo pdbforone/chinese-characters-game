@@ -1,0 +1,167 @@
+{
+  "lesson": 58,
+  "characters": [
+    {
+      "id": 1026,
+      "character": "變",
+      "pinyin": "bian",
+      "tone": 4,
+      "meaning": "to change",
+      "story": "To change thread and strike yells \"Bian!\" sharply - rebellion transforms everything!",
+      "primitives": []
+    },
+    {
+      "id": 1027,
+      "character": "經",
+      "pinyin": "jing",
+      "tone": 1,
+      "meaning": "Scripture",
+      "story": "Scripture threads through time, singing \"Jing!\" cheerfully as sacred sutras pass through!",
+      "primitives": []
+    },
+    {
+      "id": 1028,
+      "character": "輕",
+      "pinyin": "qing",
+      "tone": 1,
+      "meaning": "lightweight",
+      "story": "Lightweight car on silk threads sings \"Ching!\" cheerfully - so gentle and easy!",
+      "primitives": []
+    },
+    {
+      "id": 1029,
+      "character": "後",
+      "pinyin": "hou",
+      "tone": 4,
+      "meaning": "behind",
+      "story": "Behind the path with thread commands \"Ho!\" sharply at the rear!",
+      "primitives": []
+    },
+    {
+      "id": 1030,
+      "character": "幾",
+      "pinyin": "ji",
+      "tone": 3,
+      "meaning": "how many?",
+      "story": "How many small threads bend down drooping saying \"Ji?\" - just a few!",
+      "primitives": []
+    },
+    {
+      "id": 1031,
+      "character": "機",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "Machine",
+      "story": "A machine of trees and threads sings \"Ji!\" cheerfully - an opportunity clicking like an abacus!",
+      "primitives": []
+    },
+    {
+      "id": 1032,
+      "character": "斷",
+      "pinyin": "duan",
+      "tone": 4,
+      "meaning": "to sever",
+      "story": "To sever threads with ax commands \"Dwan!\" sharply - Gimli cutting silk in the factory!",
+      "primitives": []
+    },
+    {
+      "id": 1033,
+      "character": "繼",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "to carry on",
+      "story": "To carry on silk rice commands \"Ji!\" sharply, inheriting the thread!",
+      "primitives": []
+    },
+    {
+      "id": 1034,
+      "character": "顯",
+      "pinyin": "xian",
+      "tone": 3,
+      "meaning": "obvious",
+      "story": "Obvious thread appears, bending down drooping saying \"Shian\" - conspicuous to all!",
+      "primitives": []
+    },
+    {
+      "id": 1035,
+      "character": "樂",
+      "pinyin": "yue",
+      "tone": 4,
+      "meaning": "Music",
+      "story": "Music from white tree commands \"Yueh!\" sharply - melodies sing with joy!",
+      "primitives": []
+    },
+    {
+      "id": 1036,
+      "character": "藥",
+      "pinyin": "yao",
+      "tone": 4,
+      "meaning": "Medicine",
+      "story": "Medicine grass music commands \"Yao!\" sharply - herbs that cure and heal!",
+      "primitives": []
+    },
+    {
+      "id": 1037,
+      "character": "雞",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "Chicken",
+      "story": "A chicken bird sings \"Ji!\" cheerfully - part griffin, part turkey!",
+      "primitives": []
+    },
+    {
+      "id": 1038,
+      "character": "麼",
+      "pinyin": "me",
+      "tone": 5,
+      "meaning": "[interrogative suffix]",
+      "story": "\"What, me?\" says the hemp thread neutrally, questioning at sentence's end!",
+      "primitives": []
+    },
+    {
+      "id": 1039,
+      "character": "系",
+      "pinyin": "xi",
+      "tone": 4,
+      "meaning": "Lineage",
+      "story": "Lineage silk held commands \"Shi!\" sharply - connection through generations!",
+      "primitives": []
+    },
+    {
+      "id": 1040,
+      "character": "係",
+      "pinyin": "xi",
+      "tone": 4,
+      "meaning": "related to",
+      "story": "Related to person lineage commands \"Shi!\" sharply - bound by connection!",
+      "primitives": []
+    },
+    {
+      "id": 1041,
+      "character": "孫",
+      "pinyin": "sun",
+      "tone": 1,
+      "meaning": "Grandchild",
+      "story": "Grandchild child and line sing \"Sun!\" cheerfully - grandson continuing the thread!",
+      "primitives": []
+    },
+    {
+      "id": 1042,
+      "character": "卻",
+      "pinyin": "que",
+      "tone": 4,
+      "meaning": "to withdraw",
+      "story": "To withdraw from divination commands \"Chueh!\" sharply - retreat, yet stand firm!",
+      "primitives": []
+    },
+    {
+      "id": 1043,
+      "character": "腳",
+      "pinyin": "jiao",
+      "tone": 3,
+      "meaning": "Foot",
+      "story": "A foot of flesh bends down drooping saying \"Jiao\" at the base!",
+      "primitives": []
+    }
+  ]
+}

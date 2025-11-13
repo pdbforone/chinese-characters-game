@@ -1,0 +1,167 @@
+{
+  "lesson": 101,
+  "characters": [
+    {
+      "id": 1800,
+      "character": "拇",
+      "pinyin": "mu",
+      "tone": 3,
+      "meaning": "thumb",
+      "story": "Thumb fingers mother bends down drooping \"Moo\" - big finger!",
+      "primitives": []
+    },
+    {
+      "id": 1801,
+      "character": "拘",
+      "pinyin": "ju",
+      "tone": 1,
+      "meaning": "detain",
+      "story": "Detain fingers sentence sings \"Jyoo!\" cheerfully - arrest confine!",
+      "primitives": []
+    },
+    {
+      "id": 1802,
+      "character": "抄",
+      "pinyin": "chao",
+      "tone": 1,
+      "meaning": "copy",
+      "story": "Copy hand few sings \"Chao!\" cheerfully - transcribe surround!",
+      "primitives": []
+    },
+    {
+      "id": 1803,
+      "character": "拓",
+      "pinyin": "ta",
+      "tone": 4,
+      "meaning": "pioneer",
+      "story": "Pioneer hand stone commands sharply \"Tah!\" - develop expand!",
+      "primitives": []
+    },
+    {
+      "id": 1804,
+      "character": "捏",
+      "pinyin": "nie",
+      "tone": 1,
+      "meaning": "pinch",
+      "story": "Pinch hand crotch sings \"Nyeh!\" cheerfully - squeeze coy!",
+      "primitives": []
+    },
+    {
+      "id": 1805,
+      "character": "撓",
+      "pinyin": "nao",
+      "tone": 2,
+      "meaning": "chafe",
+      "story": "Chafe fingers pigpen questions \"Nao? Scratch?\" curiously - irritate!",
+      "primitives": []
+    },
+    {
+      "id": 1806,
+      "character": "抹",
+      "pinyin": "mo",
+      "tone": 3,
+      "meaning": "smear on",
+      "story": "Smear on hand end bends down drooping \"Mwoh\" - wipe apply poison!",
+      "primitives": []
+    },
+    {
+      "id": 1807,
+      "character": "描",
+      "pinyin": "miao",
+      "tone": 2,
+      "meaning": "describe",
+      "story": "Describe hand seedling questions \"Myao? Draw?\" curiously - sketch scan!",
+      "primitives": []
+    },
+    {
+      "id": 1808,
+      "character": "摸",
+      "pinyin": "mo",
+      "tone": 1,
+      "meaning": "grope",
+      "story": "Grope hand graveyard sings \"Mwo!\" cheerfully - feel touch!",
+      "primitives": []
+    },
+    {
+      "id": 1809,
+      "character": "挑",
+      "pinyin": "tiao",
+      "tone": 1,
+      "meaning": "foment",
+      "story": "Foment hand tall sings \"Tyao!\" cheerfully - provoke carry!",
+      "primitives": []
+    },
+    {
+      "id": 1810,
+      "character": "拴",
+      "pinyin": "shuan",
+      "tone": 1,
+      "meaning": "tether",
+      "story": "Tether fingers whole sings \"Shwahn!\" cheerfully - tie fasten!",
+      "primitives": []
+    },
+    {
+      "id": 1811,
+      "character": "拾",
+      "pinyin": "shi",
+      "tone": 2,
+      "meaning": "tidy up",
+      "story": "Tidy up hand together questions \"Shir? Collect?\" curiously - pick up!",
+      "primitives": []
+    },
+    {
+      "id": 1812,
+      "character": "搭",
+      "pinyin": "da",
+      "tone": 1,
+      "meaning": "put up",
+      "story": "Put up hand fit sings \"Dah!\" cheerfully - erect tent build!",
+      "primitives": []
+    },
+    {
+      "id": 1813,
+      "character": "掠",
+      "pinyin": "lüe",
+      "tone": 4,
+      "meaning": "pillage",
+      "story": "Pillage fingers capital commands sharply \"Lyueh!\" - plunder seize!",
+      "primitives": []
+    },
+    {
+      "id": 1814,
+      "character": "捨",
+      "pinyin": "she",
+      "tone": 3,
+      "meaning": "abandon",
+      "story": "Abandon hand abode bends down drooping \"Shuh\" - give up discard!",
+      "primitives": []
+    },
+    {
+      "id": 1815,
+      "character": "拭",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "wipe away",
+      "story": "Wipe away fingers style commands sharply \"Shir!\" - clean dry!",
+      "primitives": []
+    },
+    {
+      "id": 1816,
+      "character": "扯",
+      "pinyin": "che",
+      "tone": 3,
+      "meaning": "yank",
+      "story": "Yank hand halt bends down drooping \"Chuh\" - pull tear!",
+      "primitives": []
+    },
+    {
+      "id": 1817,
+      "character": "拖",
+      "pinyin": "tuo",
+      "tone": 1,
+      "meaning": "drag",
+      "story": "Drag hand table sings \"Twoh!\" cheerfully - pull burden children!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 96,
+  "characters": [
+    {
+      "id": 1710,
+      "character": "蝗",
+      "pinyin": "huang",
+      "tone": 2,
+      "meaning": "locust",
+      "story": "Locust insect emperor questions \"Hwahng? Swarm?\" curiously - grasshopper!",
+      "primitives": []
+    },
+    {
+      "id": 1711,
+      "character": "蟬",
+      "pinyin": "chan",
+      "tone": 2,
+      "meaning": "cicada",
+      "story": "Cicada insect list questions \"Chahn? Singing?\" curiously - thin wings buzzing!",
+      "primitives": []
+    },
+    {
+      "id": 1712,
+      "character": "楓",
+      "pinyin": "feng",
+      "tone": 1,
+      "meaning": "maple",
+      "story": "Maple tree windstorm sings \"Fung!\" cheerfully - autumn tree!",
+      "primitives": []
+    },
+    {
+      "id": 1713,
+      "character": "胞",
+      "pinyin": "bao",
+      "tone": 1,
+      "meaning": "placenta",
+      "story": "Placenta body wrap sings \"Bao!\" cheerfully - cell womb!",
+      "primitives": []
+    },
+    {
+      "id": 1714,
+      "character": "炮",
+      "pinyin": "pao",
+      "tone": 4,
+      "meaning": "fireworks",
+      "story": "Fireworks fire wrap commands sharply \"Pao!\" - cannon explosive!",
+      "primitives": []
+    },
+    {
+      "id": 1715,
+      "character": "袍",
+      "pinyin": "pao",
+      "tone": 2,
+      "meaning": "robe",
+      "story": "Robe clothing wrap questions \"Pao? Garment?\" curiously - gown!",
+      "primitives": []
+    },
+    {
+      "id": 1716,
+      "character": "雹",
+      "pinyin": "bao",
+      "tone": 2,
+      "meaning": "hail",
+      "story": "Hail rain wrap questions \"Bao? Ice?\" curiously - frozen precipitation!",
+      "primitives": []
+    },
+    {
+      "id": 1717,
+      "character": "逐",
+      "pinyin": "zhu",
+      "tone": 2,
+      "meaning": "pursue",
+      "story": "Pursue pig road questions \"Joo? Chase?\" curiously - expel hunt!",
+      "primitives": []
+    },
+    {
+      "id": 1718,
+      "character": "遂",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "satisfy",
+      "story": "Satisfy animal horns pursue commands sharply \"Sway!\" - accomplish fulfill!",
+      "primitives": []
+    },
+    {
+      "id": 1719,
+      "character": "蒙",
+      "pinyin": "meng",
+      "tone": 2,
+      "meaning": "Mongolia",
+      "story": "Mongolia flowers dog questions \"Mung? Cover?\" curiously - deceive veil!",
+      "primitives": []
+    },
+    {
+      "id": 1720,
+      "character": "朦",
+      "pinyin": "meng",
+      "tone": 2,
+      "meaning": "dim",
+      "story": "Dim moon Mongolia questions \"Mung? Hazy?\" curiously - obscure!",
+      "primitives": []
+    },
+    {
+      "id": 1721,
+      "character": "豪",
+      "pinyin": "hao",
+      "tone": 2,
+      "meaning": "unrestrained",
+      "story": "Unrestrained pig high questions \"Hao? Bold?\" curiously - heroic lavish!",
+      "primitives": []
+    },
+    {
+      "id": 1722,
+      "character": "啄",
+      "pinyin": "zhuo",
+      "tone": 2,
+      "meaning": "peck",
+      "story": "Peck mouth hog-tied questions \"Jwoh? Bird strike?\" curiously - bite!",
+      "primitives": []
+    },
+    {
+      "id": 1723,
+      "character": "琢",
+      "pinyin": "zuo",
+      "tone": 2,
+      "meaning": "chisel",
+      "story": "Chisel king hog-tied questions \"Dzwoh? Carve?\" curiously - polish jade!",
+      "primitives": []
+    },
+    {
+      "id": 1724,
+      "character": "嫁",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "marry",
+      "story": "Marry woman house commands sharply \"Jyah!\" - wed bride!",
+      "primitives": []
+    },
+    {
+      "id": 1725,
+      "character": "腸",
+      "pinyin": "chang",
+      "tone": 2,
+      "meaning": "intestines",
+      "story": "Intestines body piggy bank questions \"Chahng? Guts?\" curiously - bowels!",
+      "primitives": []
+    },
+    {
+      "id": 1726,
+      "character": "楊",
+      "pinyin": "yang",
+      "tone": 2,
+      "meaning": "poplar",
+      "story": "Poplar tree piggy bank questions \"Yahng? Willow?\" curiously - tree!",
+      "primitives": []
+    },
+    {
+      "id": 1727,
+      "character": "燙",
+      "pinyin": "tang",
+      "tone": 4,
+      "meaning": "scald",
+      "story": "Scald fire soup commands sharply \"Tahng!\" - burn hot water!",
+      "primitives": []
+    }
+  ]
+}

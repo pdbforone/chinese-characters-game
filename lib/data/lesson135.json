@@ -1,0 +1,167 @@
+{
+  "lesson": 135,
+  "characters": [
+    {
+      "id": 2413,
+      "character": "凱",
+      "pinyin": "kai",
+      "tone": 3,
+      "meaning": "triumphant",
+      "story": "The mountain of beans and wind bend down - the triumphant, victorious warrior!",
+      "primitives": []
+    },
+    {
+      "id": 2414,
+      "character": "豎",
+      "pinyin": "shu",
+      "tone": 4,
+      "meaning": "perpendicular",
+      "story": "\"SHOOT up!\" the scrooge commands sharply at the beans - standing erect, vertical like a nobody!",
+      "primitives": []
+    },
+    {
+      "id": 2415,
+      "character": "嘉",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "commend",
+      "story": "\"YAY!\" the drum and addition sing cheerfully - commending with praise for excellence!",
+      "primitives": []
+    },
+    {
+      "id": 2416,
+      "character": "嘻",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "giggling",
+      "story": "\"Hee-hee!\" the mouth sings cheerfully, giggling and laughing playfully!",
+      "primitives": []
+    },
+    {
+      "id": 2417,
+      "character": "盟",
+      "pinyin": "meng",
+      "tone": 2,
+      "meaning": "alliance",
+      "story": "\"Mingle?\" the dish questions curiously about forming an alliance, oath and league.",
+      "primitives": []
+    },
+    {
+      "id": 2418,
+      "character": "孟",
+      "pinyin": "meng",
+      "tone": 4,
+      "meaning": "Mencius",
+      "story": "\"MUNG!\" the fledgling sage commands sharply - Mencius the philosopher!",
+      "primitives": []
+    },
+    {
+      "id": 2419,
+      "character": "猛",
+      "pinyin": "meng",
+      "tone": 3,
+      "meaning": "fierce",
+      "story": "The pack of wild dogs bends down drooping - fierce, ferocious and violent!",
+      "primitives": []
+    },
+    {
+      "id": 2420,
+      "character": "盛",
+      "pinyin": "sheng",
+      "tone": 4,
+      "meaning": "flourishing",
+      "story": "\"Sheng?\" she questions curiously as things turn into the dish - flourishing, vigorous and prosperous!",
+      "primitives": []
+    },
+    {
+      "id": 2421,
+      "character": "盞",
+      "pinyin": "zhan",
+      "tone": 3,
+      "meaning": "small cup",
+      "story": "The float bends in the dish - a small cup, lantern and lamp!",
+      "primitives": []
+    },
+    {
+      "id": 2422,
+      "character": "盒",
+      "pinyin": "he",
+      "tone": 2,
+      "meaning": "small box",
+      "story": "\"Huh?\" he questions curiously about the small box dish - a container and case.",
+      "primitives": []
+    },
+    {
+      "id": 2725,
+      "character": "鋪",
+      "pinyin": "pu",
+      "tone": 4,
+      "meaning": "shop",
+      "story": "\"POOH!\" she commands sharply, setting up the metal shop to spread goods.",
+      "primitives": []
+    },
+    {
+      "id": 2423,
+      "character": "盜",
+      "pinyin": "dao",
+      "tone": 4,
+      "meaning": "master thief",
+      "story": "\"DOW!\" the dish commands sharply - the master thief will rob and steal!",
+      "primitives": []
+    },
+    {
+      "id": 2424,
+      "character": "盪",
+      "pinyin": "dang",
+      "tone": 4,
+      "meaning": "swing",
+      "story": "\"DONG!\" the dish commands sharply, swinging and swaying with oscillation!",
+      "primitives": []
+    },
+    {
+      "id": 2425,
+      "character": "寧",
+      "pinyin": "ning",
+      "tone": 2,
+      "meaning": "calm",
+      "story": "\"Ning?\" she questions curiously in a calm, peaceful and tranquil way.",
+      "primitives": []
+    },
+    {
+      "id": 2426,
+      "character": "盈",
+      "pinyin": "ying",
+      "tone": 2,
+      "meaning": "replete",
+      "story": "\"Ying?\" the fist questions curiously again at the dish - is it replete and full, with tears overflowing?",
+      "primitives": []
+    },
+    {
+      "id": 2427,
+      "character": "盆",
+      "pinyin": "pen",
+      "tone": 2,
+      "meaning": "basin",
+      "story": "\"Pen?\" he questions curiously about the part-dish - the washbasin fire pot!",
+      "primitives": []
+    },
+    {
+      "id": 2428,
+      "character": "盃",
+      "pinyin": "bei",
+      "tone": 1,
+      "meaning": "trophy",
+      "story": "\"BAY!\" she sings cheerfully - there's no dish, just the trophy cup award!",
+      "primitives": []
+    },
+    {
+      "id": 2429,
+      "character": "蘊",
+      "pinyin": "yun",
+      "tone": 4,
+      "meaning": "amass",
+      "story": "\"YOU need to!\" he commands sharply, using flowers, thread, prisoner and dish to amass and accumulate contained wealth.",
+      "primitives": []
+    }
+  ]
+}

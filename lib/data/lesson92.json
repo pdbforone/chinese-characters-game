@@ -1,0 +1,167 @@
+{
+  "lesson": 92,
+  "characters": [
+    {
+      "id": 1638,
+      "character": "喊",
+      "pinyin": "han",
+      "tone": 3,
+      "meaning": "yell",
+      "story": "Yell mouth salty bends down drooping \"Hahn\" - shout cry out!",
+      "primitives": []
+    },
+    {
+      "id": 1639,
+      "character": "濺",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "splatter",
+      "story": "Splatter water see commands sharply \"Jyan!\" - splash spatter!",
+      "primitives": []
+    },
+    {
+      "id": 1640,
+      "character": "址",
+      "pinyin": "zhi",
+      "tone": 3,
+      "meaning": "address",
+      "story": "Address soil stop bends down drooping \"Jir\" - location site!",
+      "primitives": []
+    },
+    {
+      "id": 1641,
+      "character": "澀",
+      "pinyin": "se",
+      "tone": 4,
+      "meaning": "astringent",
+      "story": "Astringent water stop commands sharply \"Suh!\" - rough unsmooth Shibuya!",
+      "primitives": []
+    },
+    {
+      "id": 1642,
+      "character": "蘋",
+      "pinyin": "ping",
+      "tone": 2,
+      "meaning": "apple",
+      "story": "Apple flowers even questions \"Ping? Fruit?\" curiously - forbidden fruit!",
+      "primitives": []
+    },
+    {
+      "id": 1643,
+      "character": "赴",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "go to",
+      "story": "Go to walk divining rod commands sharply \"Foo!\" - attend proceed!",
+      "primitives": []
+    },
+    {
+      "id": 1644,
+      "character": "趟",
+      "pinyin": "tang",
+      "tone": 4,
+      "meaning": "trip",
+      "story": "Trip walk hall commands sharply \"Tahng!\" - journey round trip!",
+      "primitives": []
+    },
+    {
+      "id": 1645,
+      "character": "堤",
+      "pinyin": "ti",
+      "tone": 2,
+      "meaning": "dike",
+      "story": "Dike soil to be questions \"Tee? Dam?\" curiously - embankment levee!",
+      "primitives": []
+    },
+    {
+      "id": 1646,
+      "character": "鍵",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "keyboard keys",
+      "story": "Keyboard keys metal build commands sharply \"Jyan!\" - buttons typing!",
+      "primitives": []
+    },
+    {
+      "id": 1647,
+      "character": "婿",
+      "pinyin": "xu",
+      "tone": 4,
+      "meaning": "son-in-law",
+      "story": "Son-in-law woman zoo moon commands sharply \"Shyoo!\" - golden turtle husband!",
+      "primitives": []
+    },
+    {
+      "id": 1648,
+      "character": "裁",
+      "pinyin": "cai",
+      "tone": 2,
+      "meaning": "tailor",
+      "story": "Tailor thanksgiving clothing questions \"Tsigh? Cut?\" curiously - trim judge!",
+      "primitives": []
+    },
+    {
+      "id": 1649,
+      "character": "襪",
+      "pinyin": "wa",
+      "tone": 4,
+      "meaning": "socks",
+      "story": "Socks clothing despise commands sharply \"Wah!\" - foot coverings!",
+      "primitives": []
+    },
+    {
+      "id": 1650,
+      "character": "滾",
+      "pinyin": "gun",
+      "tone": 3,
+      "meaning": "trundle",
+      "story": "Trundle water descendants bends down drooping \"Gwun\" - roll tumble!",
+      "primitives": []
+    },
+    {
+      "id": 1651,
+      "character": "衰",
+      "pinyin": "shuai",
+      "tone": 1,
+      "meaning": "decline",
+      "story": "Decline grief walking stick sings \"Shwigh!\" cheerfully - weaken deteriorate!",
+      "primitives": []
+    },
+    {
+      "id": 1652,
+      "character": "衷",
+      "pinyin": "zhong",
+      "tone": 1,
+      "meaning": "innermost feelings",
+      "story": "Innermost feelings grief walking stick loyal sings \"Johng!\" cheerfully - sincere heart!",
+      "primitives": []
+    },
+    {
+      "id": 1653,
+      "character": "禪",
+      "pinyin": "chan",
+      "tone": 2,
+      "meaning": "meditation",
+      "story": "Meditation altar single questions \"Chahn? Zen?\" curiously - contemplation!",
+      "primitives": []
+    },
+    {
+      "id": 1654,
+      "character": "猿",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "ape",
+      "story": "Ape yuan pack of wild dogs questions \"Yuan? Primate?\" curiously - monkey!",
+      "primitives": []
+    },
+    {
+      "id": 1655,
+      "character": "吊",
+      "pinyin": "diao",
+      "tone": 4,
+      "meaning": "dangle",
+      "story": "Dangle mouth hanging commands sharply \"Dyao!\" - suspend strap!",
+      "primitives": []
+    }
+  ]
+}

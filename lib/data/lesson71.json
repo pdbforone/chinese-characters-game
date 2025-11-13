@@ -1,0 +1,167 @@
+{
+  "lesson": 71,
+  "characters": [
+    {
+      "id": 1260,
+      "character": "發",
+      "pinyin": "fa",
+      "tone": 1,
+      "meaning": "to send out",
+      "story": "To send out two legs sings \"Fah!\" cheerfully - issue dispatch discharge!",
+      "primitives": []
+    },
+    {
+      "id": 1261,
+      "character": "廢",
+      "pinyin": "fei",
+      "tone": 4,
+      "meaning": "to discard",
+      "story": "To discard building send out commands sharply \"Fay!\" - terminate abolish!",
+      "primitives": []
+    },
+    {
+      "id": 1262,
+      "character": "形",
+      "pinyin": "xing",
+      "tone": 2,
+      "meaning": "Shape",
+      "story": "Shape open hands questions \"Shing? Appearance?\" curiously - form!",
+      "primitives": []
+    },
+    {
+      "id": 1263,
+      "character": "影",
+      "pinyin": "ying",
+      "tone": 3,
+      "meaning": "Shadow",
+      "story": "Shadow shape sun bends down drooping \"Ying\" - reflection picture image!",
+      "primitives": []
+    },
+    {
+      "id": 1264,
+      "character": "彩",
+      "pinyin": "cai",
+      "tone": 3,
+      "meaning": "Hue",
+      "story": "Hue shape tree bends down drooping \"Tsigh\" - color coloring!",
+      "primitives": []
+    },
+    {
+      "id": 1265,
+      "character": "須",
+      "pinyin": "xu",
+      "tone": 1,
+      "meaning": "to have to",
+      "story": "To have to shape page sings \"Shyoo!\" cheerfully - must necessary ought!",
+      "primitives": []
+    },
+    {
+      "id": 1266,
+      "character": "珍",
+      "pinyin": "zhen",
+      "tone": 1,
+      "meaning": "rare",
+      "story": "Rare jewel shape sings \"Jun!\" cheerfully - precious treasure!",
+      "primitives": []
+    },
+    {
+      "id": 1267,
+      "character": "參",
+      "pinyin": "can",
+      "tone": 1,
+      "meaning": "to participate",
+      "story": "To participate hairs private sings \"Tsahn!\" cheerfully - join visit ginseng!",
+      "primitives": []
+    },
+    {
+      "id": 1268,
+      "character": "慘",
+      "pinyin": "can",
+      "tone": 3,
+      "meaning": "wretched",
+      "story": "Wretched heart participate bends down drooping \"Tsahn\" - miserable sad pitiful!",
+      "primitives": []
+    },
+    {
+      "id": 1269,
+      "character": "修",
+      "pinyin": "xiu",
+      "tone": 1,
+      "meaning": "to repair",
+      "story": "To repair person shape sings \"Shyo!\" cheerfully - cultivate study discipline!",
+      "primitives": []
+    },
+    {
+      "id": 1270,
+      "character": "文",
+      "pinyin": "wen",
+      "tone": 2,
+      "meaning": "Literature",
+      "story": "Literature scholar questions \"Wuhn? Writing?\" curiously - culture sentence!",
+      "primitives": []
+    },
+    {
+      "id": 1271,
+      "character": "蚊",
+      "pinyin": "wen",
+      "tone": 2,
+      "meaning": "Mosquito",
+      "story": "Mosquito insect literature questions \"Wuhn? Biting?\" curiously - buzzing pest!",
+      "primitives": []
+    },
+    {
+      "id": 1272,
+      "character": "彥",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "erudite",
+      "story": "Erudite colorful scholar commands sharply \"Yahn!\" - accomplished learned elegant lad!",
+      "primitives": []
+    },
+    {
+      "id": 1273,
+      "character": "顏",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "Countenance",
+      "story": "Countenance page erudite questions \"Yahn? Face?\" curiously - color!",
+      "primitives": []
+    },
+    {
+      "id": 1274,
+      "character": "產",
+      "pinyin": "chan",
+      "tone": 3,
+      "meaning": "Products",
+      "story": "Products cliff life bends down drooping \"Chahn\" - resources give birth!",
+      "primitives": []
+    },
+    {
+      "id": 1275,
+      "character": "率",
+      "pinyin": "shuai",
+      "tone": 4,
+      "meaning": "a Rate",
+      "story": "A rate shape field commands sharply \"Shwigh!\" - ratio limit lead!",
+      "primitives": []
+    },
+    {
+      "id": 1276,
+      "character": "摔",
+      "pinyin": "shuai",
+      "tone": 1,
+      "meaning": "to tumble",
+      "story": "To tumble hand rate sings \"Shwigh!\" cheerfully - fall stumble trip!",
+      "primitives": []
+    },
+    {
+      "id": 1277,
+      "character": "央",
+      "pinyin": "yang",
+      "tone": 1,
+      "meaning": "Center",
+      "story": "Center big sings \"Yahng!\" cheerfully - middle beg!",
+      "primitives": []
+    }
+  ]
+}

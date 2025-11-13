@@ -1,0 +1,167 @@
+{
+  "lesson": 33,
+  "characters": [
+    {
+      "id": 577,
+      "character": "型",
+      "pinyin": "xing",
+      "tone": 2,
+      "meaning": "mold",
+      "story": "Mold punishment earth questions \"Shing? Shape?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 578,
+      "character": "才",
+      "pinyin": "cai",
+      "tone": 2,
+      "meaning": "Genius",
+      "story": "Genius young sprout questions \"Tsai? Talented?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 579,
+      "character": "財",
+      "pinyin": "cai",
+      "tone": 2,
+      "meaning": "Riches",
+      "story": "Riches shellfish genius question \"Tsai? How much?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 580,
+      "character": "存",
+      "pinyin": "cun",
+      "tone": 2,
+      "meaning": "to deposit",
+      "story": "To deposit genius child questions \"Tsun? Saving?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 581,
+      "character": "在",
+      "pinyin": "zai",
+      "tone": 4,
+      "meaning": "at",
+      "story": "At genius earth commands \"Zai!\" sharply located!",
+      "primitives": []
+    },
+    {
+      "id": 582,
+      "character": "乃",
+      "pinyin": "nai",
+      "tone": 3,
+      "meaning": "only then",
+      "story": "Only then bent bends down drooping saying \"Nai\"!",
+      "primitives": []
+    },
+    {
+      "id": 583,
+      "character": "奶",
+      "pinyin": "nai",
+      "tone": 3,
+      "meaning": "Milk",
+      "story": "Milk woman only then bends down drooping saying \"Nai\"!",
+      "primitives": []
+    },
+    {
+      "id": 584,
+      "character": "及",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "to catch up with",
+      "story": "To catch up with person reach questions \"Ji? Fast enough?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 585,
+      "character": "吸",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "to inhale",
+      "story": "To inhale mouth reach sings \"Shi!\" cheerfully breathing!",
+      "primitives": []
+    },
+    {
+      "id": 586,
+      "character": "史",
+      "pinyin": "shi",
+      "tone": 3,
+      "meaning": "History",
+      "story": "History hand mouth bends down drooping saying \"Shi\"!",
+      "primitives": []
+    },
+    {
+      "id": 587,
+      "character": "更",
+      "pinyin": "geng",
+      "tone": 4,
+      "meaning": "even more",
+      "story": "Even more sun history commands \"Geng!\" sharply further!",
+      "primitives": []
+    },
+    {
+      "id": 588,
+      "character": "硬",
+      "pinyin": "ying",
+      "tone": 4,
+      "meaning": "hard (like material)",
+      "story": "Hard stone more yells \"Ying!\" sharply firm!",
+      "primitives": []
+    },
+    {
+      "id": 589,
+      "character": "又",
+      "pinyin": "you",
+      "tone": 4,
+      "meaning": "again",
+      "story": "Again hand commands \"Yo!\" sharply repeating!",
+      "primitives": []
+    },
+    {
+      "id": 590,
+      "character": "友",
+      "pinyin": "you",
+      "tone": 3,
+      "meaning": "Friend",
+      "story": "A friend again hand bends down drooping saying \"Yo\"!",
+      "primitives": []
+    },
+    {
+      "id": 591,
+      "character": "雙",
+      "pinyin": "shuang",
+      "tone": 1,
+      "meaning": "Pair",
+      "story": "A pair two birds sing \"Shwang!\" cheerfully matching!",
+      "primitives": []
+    },
+    {
+      "id": 592,
+      "character": "隻",
+      "pinyin": "zhi",
+      "tone": 1,
+      "meaning": "One of a Pair",
+      "story": "One of a pair bird sings \"Zhi!\" cheerfully single!",
+      "primitives": []
+    },
+    {
+      "id": 593,
+      "character": "護",
+      "pinyin": "hu",
+      "tone": 4,
+      "meaning": "to protect",
+      "story": "To protect words pair commands \"Hoo!\" sharply guarding!",
+      "primitives": []
+    },
+    {
+      "id": 594,
+      "character": "獲",
+      "pinyin": "huo",
+      "tone": 4,
+      "meaning": "to seize",
+      "story": "To seize dog grass bird yells \"Hwoh!\" sharply catching!",
+      "primitives": []
+    }
+  ]
+}

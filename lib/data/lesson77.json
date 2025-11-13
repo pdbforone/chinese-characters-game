@@ -1,0 +1,167 @@
+{
+  "lesson": 77,
+  "characters": [
+    {
+      "id": 1368,
+      "character": "聲",
+      "pinyin": "sheng",
+      "tone": 1,
+      "meaning": "Voice",
+      "story": "Voice fragrant ear sings \"Shung!\" cheerfully - sound tone!",
+      "primitives": []
+    },
+    {
+      "id": 1369,
+      "character": "吳",
+      "pinyin": "wu",
+      "tone": 2,
+      "meaning": "Wu",
+      "story": "Wu mouth heaven questions \"Woo? Jiangsu?\" curiously - surname give!",
+      "primitives": []
+    },
+    {
+      "id": 1370,
+      "character": "娛",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "Amusement",
+      "story": "Amusement woman wu questions \"Yoo? Pleasure?\" curiously - enjoyment recreation!",
+      "primitives": []
+    },
+    {
+      "id": 1371,
+      "character": "誤",
+      "pinyin": "wu",
+      "tone": 4,
+      "meaning": "Error",
+      "story": "Error words wu commands sharply \"Woo!\" - mistake neglect!",
+      "primitives": []
+    },
+    {
+      "id": 1372,
+      "character": "承",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "to undertake",
+      "story": "To undertake hands receive questions \"Chung? Bear?\" curiously - take charge acquiesce!",
+      "primitives": []
+    },
+    {
+      "id": 1373,
+      "character": "蒸",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "to steam",
+      "story": "To steam flowers undertake sings \"Jung!\" cheerfully - cooking vapor!",
+      "primitives": []
+    },
+    {
+      "id": 1374,
+      "character": "牙",
+      "pinyin": "ya",
+      "tone": 2,
+      "meaning": "Tooth",
+      "story": "Tooth fang questions \"Yah? Ivory?\" curiously - tusk!",
+      "primitives": []
+    },
+    {
+      "id": 1375,
+      "character": "穿",
+      "pinyin": "chuan",
+      "tone": 1,
+      "meaning": "to pass through",
+      "story": "To pass through hole tooth sings \"Chwahn!\" cheerfully - pierce penetrate drill!",
+      "primitives": []
+    },
+    {
+      "id": 1376,
+      "character": "呀",
+      "pinyin": "ya",
+      "tone": 5,
+      "meaning": "wow!",
+      "story": "Wow mouth tooth says \"yah\" neutrally - surprise particle!",
+      "primitives": []
+    },
+    {
+      "id": 1377,
+      "character": "釋",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "to explain",
+      "story": "To explain rice metal commands sharply \"Shir!\" - elucidate interpret explanation!",
+      "primitives": []
+    },
+    {
+      "id": 1378,
+      "character": "番",
+      "pinyin": "fan",
+      "tone": 1,
+      "meaning": "a Try",
+      "story": "A try rice field sings \"Fahn!\" cheerfully - deeds acts turn!",
+      "primitives": []
+    },
+    {
+      "id": 1379,
+      "character": "翻",
+      "pinyin": "fan",
+      "tone": 1,
+      "meaning": "to turn over",
+      "story": "To turn over feathers try sings \"Fahn!\" cheerfully - flit flip!",
+      "primitives": []
+    },
+    {
+      "id": 1380,
+      "character": "播",
+      "pinyin": "bo",
+      "tone": 1,
+      "meaning": "to broadcast",
+      "story": "To broadcast hand turn over sings \"Bwo!\" cheerfully - sow scatter disseminate!",
+      "primitives": []
+    },
+    {
+      "id": 1381,
+      "character": "毛",
+      "pinyin": "mao",
+      "tone": 2,
+      "meaning": "Fur",
+      "story": "Fur hair strands question \"Mao? Fluffy?\" curiously - coat!",
+      "primitives": []
+    },
+    {
+      "id": 1382,
+      "character": "尾",
+      "pinyin": "wei",
+      "tone": 3,
+      "meaning": "Tail",
+      "story": "Tail body fur bends down drooping \"Way\" - end!",
+      "primitives": []
+    },
+    {
+      "id": 1383,
+      "character": "宅",
+      "pinyin": "zhai",
+      "tone": 2,
+      "meaning": "a Dwelling",
+      "story": "A dwelling house roof questions \"Jigh? Residence?\" curiously - home!",
+      "primitives": []
+    },
+    {
+      "id": 1384,
+      "character": "託",
+      "pinyin": "tuo",
+      "tone": 1,
+      "meaning": "to entrust",
+      "story": "To entrust words dwelling sings \"Twoh!\" cheerfully - rely consign!",
+      "primitives": []
+    },
+    {
+      "id": 1385,
+      "character": "為",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "to act",
+      "story": "To act claws elephant commands sharply \"Way!\" - do handle govern!",
+      "primitives": []
+    }
+  ]
+}

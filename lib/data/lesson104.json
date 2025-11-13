@@ -1,0 +1,167 @@
+{
+  "lesson": 104,
+  "characters": [
+    {
+      "id": 1854,
+      "character": "后",
+      "pinyin": "hou",
+      "tone": 4,
+      "meaning": "queen",
+      "story": "Queen drag ceiling mouth commands sharply \"Hoh!\" - sovereign empress!",
+      "primitives": []
+    },
+    {
+      "id": 1855,
+      "character": "盾",
+      "pinyin": "dun",
+      "tone": 4,
+      "meaning": "shield",
+      "story": "Shield ten eye commands sharply \"Dwun!\" - defense protection!",
+      "primitives": []
+    },
+    {
+      "id": 1856,
+      "character": "販",
+      "pinyin": "fan",
+      "tone": 4,
+      "meaning": "peddler",
+      "story": "Peddler shell against commands sharply \"Fahn!\" - vendor merchant!",
+      "primitives": []
+    },
+    {
+      "id": 1857,
+      "character": "扳",
+      "pinyin": "ban",
+      "tone": 1,
+      "meaning": "tug",
+      "story": "Tug fingers against sings \"Bahn!\" cheerfully - pull wrench!",
+      "primitives": []
+    },
+    {
+      "id": 1858,
+      "character": "覓",
+      "pinyin": "mi",
+      "tone": 4,
+      "meaning": "try to find",
+      "story": "Try to find vulture see commands sharply \"Mee!\" - search seek!",
+      "primitives": []
+    },
+    {
+      "id": 1859,
+      "character": "妥",
+      "pinyin": "tuo",
+      "tone": 3,
+      "meaning": "appropriate",
+      "story": "Appropriate vulture woman bends down drooping \"Twoh\" - fitting settled!",
+      "primitives": []
+    },
+    {
+      "id": 1860,
+      "character": "睬",
+      "pinyin": "cai",
+      "tone": 3,
+      "meaning": "notice",
+      "story": "Notice eyeball pluck bends down drooping \"Tsigh\" - pay attention heed!",
+      "primitives": []
+    },
+    {
+      "id": 1861,
+      "character": "允",
+      "pinyin": "yun",
+      "tone": 3,
+      "meaning": "consent",
+      "story": "Consent elbow bends down drooping \"Yoon\" - permit agree!",
+      "primitives": []
+    },
+    {
+      "id": 1862,
+      "character": "勾",
+      "pinyin": "gou",
+      "tone": 4,
+      "meaning": "cross out",
+      "story": "Cross out bound up elbow commands sharply \"Goh!\" - hook seduce!",
+      "primitives": []
+    },
+    {
+      "id": 1863,
+      "character": "晉",
+      "pinyin": "jin",
+      "tone": 4,
+      "meaning": "promote",
+      "story": "Promote ceiling two elbows floor sun commands sharply \"Jin!\" - advance!",
+      "primitives": []
+    },
+    {
+      "id": 1864,
+      "character": "宏",
+      "pinyin": "hong",
+      "tone": 2,
+      "meaning": "magnificent",
+      "story": "Magnificent house by one's side elbow questions \"Hohng? Grand?\" curiously - imposing!",
+      "primitives": []
+    },
+    {
+      "id": 1865,
+      "character": "胎",
+      "pinyin": "tai",
+      "tone": 1,
+      "meaning": "fetus",
+      "story": "Fetus body platform sings \"Tigh!\" cheerfully - embryo tire!",
+      "primitives": []
+    },
+    {
+      "id": 1866,
+      "character": "冶",
+      "pinyin": "ye",
+      "tone": 3,
+      "meaning": "smelt",
+      "story": "Smelt ice platform bends down drooping \"Yeh\" - refine metal!",
+      "primitives": []
+    },
+    {
+      "id": 1867,
+      "character": "颱",
+      "pinyin": "tai",
+      "tone": 2,
+      "meaning": "typhoon",
+      "story": "Typhoon wind platform questions \"Tigh? Storm?\" curiously - hurricane!",
+      "primitives": []
+    },
+    {
+      "id": 1868,
+      "character": "怠",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "negligent",
+      "story": "Negligent platform heart commands sharply \"Digh!\" - lazy careless!",
+      "primitives": []
+    },
+    {
+      "id": 1869,
+      "character": "抬",
+      "pinyin": "tai",
+      "tone": 2,
+      "meaning": "elevate",
+      "story": "Elevate hand platform questions \"Tigh? Lift?\" curiously - raise carry!",
+      "primitives": []
+    },
+    {
+      "id": 1870,
+      "character": "丟",
+      "pinyin": "diu",
+      "tone": 1,
+      "meaning": "mislay",
+      "story": "Mislay gone sings \"Dyoh!\" cheerfully - lose drop!",
+      "primitives": []
+    },
+    {
+      "id": 1871,
+      "character": "臺",
+      "pinyin": "tai",
+      "tone": 2,
+      "meaning": "Taiwan",
+      "story": "Taiwan platform至 questions \"Tigh? Isle?\" curiously - stage!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "lesson": 28,
+  "characters": [
+    {
+      "id": 487,
+      "character": "記",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "to remember",
+      "story": "To remember words self yells \"Ji!\" sharply noting!",
+      "primitives": []
+    },
+    {
+      "id": 488,
+      "character": "已",
+      "pinyin": "yi",
+      "tone": 3,
+      "meaning": "already",
+      "story": "Already self bent bends down drooping saying \"Yi\"!",
+      "primitives": []
+    },
+    {
+      "id": 489,
+      "character": "包",
+      "pinyin": "bao",
+      "tone": 1,
+      "meaning": "to wrap",
+      "story": "To wrap self kneeling sings \"Bao!\" cheerfully enclosing!",
+      "primitives": []
+    },
+    {
+      "id": 490,
+      "character": "泡",
+      "pinyin": "pao",
+      "tone": 4,
+      "meaning": "Bubbles",
+      "story": "Bubbles water wrap command \"Pao!\" sharply foaming!",
+      "primitives": []
+    },
+    {
+      "id": 491,
+      "character": "起",
+      "pinyin": "qi",
+      "tone": 3,
+      "meaning": "to begin",
+      "story": "To begin walk self bends down drooping saying \"Chi\"!",
+      "primitives": []
+    },
+    {
+      "id": 492,
+      "character": "家",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "House",
+      "story": "A house roof pig sings \"Jia!\" cheerfully dwelling!",
+      "primitives": []
+    },
+    {
+      "id": 493,
+      "character": "場",
+      "pinyin": "chang",
+      "tone": 3,
+      "meaning": "Site",
+      "story": "A site earth house bends down drooping saying \"Chang\"!",
+      "primitives": []
+    },
+    {
+      "id": 494,
+      "character": "湯",
+      "pinyin": "tang",
+      "tone": 1,
+      "meaning": "Soup",
+      "story": "Soup water site sings \"Tang!\" cheerfully hot!",
+      "primitives": []
+    },
+    {
+      "id": 495,
+      "character": "羊",
+      "pinyin": "yang",
+      "tone": 2,
+      "meaning": "Sheep",
+      "story": "A sheep with horns questions \"Yang? Baaa?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 496,
+      "character": "美",
+      "pinyin": "mei",
+      "tone": 3,
+      "meaning": "beautiful",
+      "story": "Beautiful big sheep bends down drooping saying \"May\"!",
+      "primitives": []
+    },
+    {
+      "id": 497,
+      "character": "洋",
+      "pinyin": "yang",
+      "tone": 2,
+      "meaning": "Ocean",
+      "story": "Ocean water sheep questions \"Yang? How vast?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 498,
+      "character": "鮮",
+      "pinyin": "xian",
+      "tone": 1,
+      "meaning": "fresh",
+      "story": "Fresh fish sheep sings \"Shian!\" cheerfully new!",
+      "primitives": []
+    },
+    {
+      "id": 499,
+      "character": "達",
+      "pinyin": "da",
+      "tone": 2,
+      "meaning": "to reach",
+      "story": "To reach sheep walk questions \"Da? There yet?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 500,
+      "character": "樣",
+      "pinyin": "yang",
+      "tone": 4,
+      "meaning": "Appearance",
+      "story": "Appearance tree sheep commands \"Yang!\" sharply looking!",
+      "primitives": []
+    },
+    {
+      "id": 501,
+      "character": "差",
+      "pinyin": "cha",
+      "tone": 4,
+      "meaning": "to fall short of",
+      "story": "To fall short sheep work yells \"Cha!\" sharply lacking!",
+      "primitives": []
+    },
+    {
+      "id": 502,
+      "character": "集",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "to gather",
+      "story": "To gather tree birds questions \"Ji? All here?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 503,
+      "character": "進",
+      "pinyin": "jin",
+      "tone": 4,
+      "meaning": "to advance",
+      "story": "To advance walk birds commands \"Jin!\" sharply forward!",
+      "primitives": []
+    },
+    {
+      "id": 504,
+      "character": "準",
+      "pinyin": "zhun",
+      "tone": 3,
+      "meaning": "Standard",
+      "story": "Standard water birds bend down drooping saying \"Zhun\"!",
+      "primitives": []
+    }
+  ]
+}

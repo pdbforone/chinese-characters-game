@@ -1,0 +1,167 @@
+{
+  "lesson": 14,
+  "characters": [
+    {
+      "id": 235,
+      "character": "牛",
+      "pinyin": "niu",
+      "tone": 2,
+      "meaning": "Cow",
+      "story": "A cow with horns questions \"Nyo? Moo?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 236,
+      "character": "特",
+      "pinyin": "te",
+      "tone": 4,
+      "meaning": "special",
+      "story": "A special cow at temple commands \"Tuh!\" sharply unique!",
+      "primitives": []
+    },
+    {
+      "id": 237,
+      "character": "告",
+      "pinyin": "gao",
+      "tone": 4,
+      "meaning": "to declare",
+      "story": "To declare with cow mouth yells \"Gao!\" sharply announcing!",
+      "primitives": []
+    },
+    {
+      "id": 238,
+      "character": "浩",
+      "pinyin": "hao",
+      "tone": 4,
+      "meaning": "vast",
+      "story": "Vast water told commands \"Hao!\" sharply expanding!",
+      "primitives": []
+    },
+    {
+      "id": 239,
+      "character": "先",
+      "pinyin": "xian",
+      "tone": 1,
+      "meaning": "before",
+      "story": "Before legs sing \"Shian!\" cheerfully ahead!",
+      "primitives": []
+    },
+    {
+      "id": 240,
+      "character": "洗",
+      "pinyin": "xi",
+      "tone": 3,
+      "meaning": "to wash",
+      "story": "To wash before water bends down drooping saying \"Shee\"!",
+      "primitives": []
+    },
+    {
+      "id": 241,
+      "character": "介",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "to introduce",
+      "story": "To introduce person commands \"Jieh!\" sharply between!",
+      "primitives": []
+    },
+    {
+      "id": 242,
+      "character": "界",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "World",
+      "story": "The world field introduced yells \"Jieh!\" sharply bounded!",
+      "primitives": []
+    },
+    {
+      "id": 243,
+      "character": "茶",
+      "pinyin": "cha",
+      "tone": 2,
+      "meaning": "Tea",
+      "story": "Tea grass people introduced question \"Cha? Want some?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 244,
+      "character": "會",
+      "pinyin": "hui",
+      "tone": 4,
+      "meaning": "Meeting",
+      "story": "A meeting with people and cloud commands \"Hway!\" sharply gathering!",
+      "primitives": []
+    },
+    {
+      "id": 245,
+      "character": "合",
+      "pinyin": "he",
+      "tone": 2,
+      "meaning": "to fit",
+      "story": "To fit person mouth together questions \"Huh? Does it match?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 246,
+      "character": "哈",
+      "pinyin": "ha",
+      "tone": 1,
+      "meaning": "Ha!",
+      "story": "\"Ha!\" laughs the mouth happily singing \"Ha!\" high and loud!",
+      "primitives": []
+    },
+    {
+      "id": 247,
+      "character": "塔",
+      "pinyin": "ta",
+      "tone": 3,
+      "meaning": "Pagoda",
+      "story": "A pagoda soil fit tall bends down drooping saying \"Ta\"!",
+      "primitives": []
+    },
+    {
+      "id": 248,
+      "character": "王",
+      "pinyin": "wang",
+      "tone": 2,
+      "meaning": "King",
+      "story": "A king with three levels questions \"Wang? Why rule?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 249,
+      "character": "玉",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "Jade",
+      "story": "Jade king with a dot yells \"Yu!\" sharply precious!",
+      "primitives": []
+    },
+    {
+      "id": 250,
+      "character": "球",
+      "pinyin": "qiu",
+      "tone": 2,
+      "meaning": "Balls",
+      "story": "Balls of jade request questions \"Chyo? Play ball?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 251,
+      "character": "現",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "present",
+      "story": "Present jade sees commands \"Shian!\" sharply now!",
+      "primitives": []
+    },
+    {
+      "id": 252,
+      "character": "玩",
+      "pinyin": "wan",
+      "tone": 2,
+      "meaning": "to play",
+      "story": "To play with jade beginning questions \"Wan? How fun?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

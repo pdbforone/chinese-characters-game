@@ -1,0 +1,167 @@
+{
+  "lesson": 98,
+  "characters": [
+    {
+      "id": 1746,
+      "character": "翰",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "writing brush",
+      "story": "Writing brush mist umbrella wings commands sharply \"Hahn!\" - pen literary!",
+      "primitives": []
+    },
+    {
+      "id": 1747,
+      "character": "咽",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "throat",
+      "story": "Throat mouth swallow commands sharply \"Yahn!\" - gullet pharynx!",
+      "primitives": []
+    },
+    {
+      "id": 1748,
+      "character": "姻",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "in-law",
+      "story": "In-law woman dog kennel sings \"Yin!\" cheerfully - marriage relations!",
+      "primitives": []
+    },
+    {
+      "id": 1749,
+      "character": "廟",
+      "pinyin": "miao",
+      "tone": 4,
+      "meaning": "temple",
+      "story": "Temple cave dynasty commands sharply \"Myao!\" - shrine sanctuary!",
+      "primitives": []
+    },
+    {
+      "id": 1750,
+      "character": "廂",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "side room",
+      "story": "Side room cave one another sings \"Shyahng!\" cheerfully - chamber compartment!",
+      "primitives": []
+    },
+    {
+      "id": 1751,
+      "character": "嘛",
+      "pinyin": "ma",
+      "tone": 5,
+      "meaning": "(pause marker)",
+      "story": "Pause marker mouth hemp says \"mah\" neutrally - obvious indicator!",
+      "primitives": []
+    },
+    {
+      "id": 1752,
+      "character": "磨",
+      "pinyin": "mo",
+      "tone": 2,
+      "meaning": "grind",
+      "story": "Grind hemp stone questions \"Mwo? Rub?\" curiously - polish torment!",
+      "primitives": []
+    },
+    {
+      "id": 1753,
+      "character": "廈",
+      "pinyin": "sha",
+      "tone": 4,
+      "meaning": "skyscraper",
+      "story": "Skyscraper cave summer commands sharply \"Shah!\" - grand building!",
+      "primitives": []
+    },
+    {
+      "id": 1754,
+      "character": "廁",
+      "pinyin": "ce",
+      "tone": 4,
+      "meaning": "toilet",
+      "story": "Toilet cave then commands sharply \"Tsuh!\" - lavatory bathroom!",
+      "primitives": []
+    },
+    {
+      "id": 1755,
+      "character": "悟",
+      "pinyin": "wu",
+      "tone": 4,
+      "meaning": "realize",
+      "story": "Realize heart me commands sharply \"Woo!\" - awaken understand!",
+      "primitives": []
+    },
+    {
+      "id": 1756,
+      "character": "忠",
+      "pinyin": "zhong",
+      "tone": 1,
+      "meaning": "loyal",
+      "story": "Loyal middle heart sings \"Johng!\" cheerfully - faithful devoted!",
+      "primitives": []
+    },
+    {
+      "id": 1757,
+      "character": "悼",
+      "pinyin": "dao",
+      "tone": 4,
+      "meaning": "mourn",
+      "story": "Mourn state of mind eminent commands sharply \"Dao!\" - grieve lament!",
+      "primitives": []
+    },
+    {
+      "id": 1758,
+      "character": "慎",
+      "pinyin": "shen",
+      "tone": 4,
+      "meaning": "prudent",
+      "story": "Prudent heart true commands sharply \"Shun!\" - careful cautious!",
+      "primitives": []
+    },
+    {
+      "id": 1759,
+      "character": "恕",
+      "pinyin": "shu",
+      "tone": 4,
+      "meaning": "pardon",
+      "story": "Pardon like heart commands sharply \"Shoo!\" - forgive excuse!",
+      "primitives": []
+    },
+    {
+      "id": 1760,
+      "character": "悄",
+      "pinyin": "qiao",
+      "tone": 1,
+      "meaning": "noiseless",
+      "story": "Noiseless heart whistle sings \"Chyao!\" cheerfully - quiet silent!",
+      "primitives": []
+    },
+    {
+      "id": 1761,
+      "character": "恍",
+      "pinyin": "huang",
+      "tone": 3,
+      "meaning": "all of a sudden",
+      "story": "All of a sudden state of mind ray bends down drooping \"Hwahng\" - abrupt!",
+      "primitives": []
+    },
+    {
+      "id": 1762,
+      "character": "惰",
+      "pinyin": "duo",
+      "tone": 4,
+      "meaning": "indolent",
+      "story": "Indolent heart left commands sharply \"Dwoh!\" - lazy sluggish!",
+      "primitives": []
+    },
+    {
+      "id": 1763,
+      "character": "恢",
+      "pinyin": "hui",
+      "tone": 1,
+      "meaning": "immense",
+      "story": "Immense heart ashes sings \"Hway!\" cheerfully - restore vast!",
+      "primitives": []
+    }
+  ]
+}

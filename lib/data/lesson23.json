@@ -1,0 +1,167 @@
+{
+  "lesson": 23,
+  "characters": [
+    {
+      "id": 397,
+      "character": "雲",
+      "pinyin": "yun",
+      "tone": 2,
+      "meaning": "Cloud",
+      "story": "A cloud rain uttering questions \"Yun? Why float?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 398,
+      "character": "雷",
+      "pinyin": "lei",
+      "tone": 2,
+      "meaning": "Thunder",
+      "story": "Thunder rain field questions \"Lay? Why boom?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 399,
+      "character": "電",
+      "pinyin": "dian",
+      "tone": 4,
+      "meaning": "Electricity",
+      "story": "Electricity rain utter commands \"Dian!\" sharply shocking!",
+      "primitives": []
+    },
+    {
+      "id": 400,
+      "character": "霜",
+      "pinyin": "shuang",
+      "tone": 1,
+      "meaning": "Frost",
+      "story": "Frost rain tree sings \"Shwang!\" cheerfully freezing!",
+      "primitives": []
+    },
+    {
+      "id": 401,
+      "character": "冰",
+      "pinyin": "bing",
+      "tone": 1,
+      "meaning": "Ice",
+      "story": "Ice water sings \"Bing!\" cheerfully freezing!",
+      "primitives": []
+    },
+    {
+      "id": 402,
+      "character": "冬",
+      "pinyin": "dong",
+      "tone": 1,
+      "meaning": "Winter",
+      "story": "Winter ice sings \"Dong!\" cheerfully cold!",
+      "primitives": []
+    },
+    {
+      "id": 403,
+      "character": "天",
+      "pinyin": "tian",
+      "tone": 1,
+      "meaning": "Heavens",
+      "story": "Heaven big person sings \"Tian!\" happily high!",
+      "primitives": []
+    },
+    {
+      "id": 404,
+      "character": "夭",
+      "pinyin": "yao",
+      "tone": 1,
+      "meaning": "to die young",
+      "story": "To die young with bent big sings \"Yao!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 405,
+      "character": "喬",
+      "pinyin": "qiao",
+      "tone": 2,
+      "meaning": "to pretend",
+      "story": "To pretend tall heaven questions \"Chiao? Is it high?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 406,
+      "character": "橋",
+      "pinyin": "qiao",
+      "tone": 2,
+      "meaning": "Bridge",
+      "story": "A bridge tree pretend questions \"Chiao? Can it cross?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 407,
+      "character": "嬌",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "attractive",
+      "story": "An attractive woman pretending sings \"Jiao!\" cheerfully charming!",
+      "primitives": []
+    },
+    {
+      "id": 408,
+      "character": "立",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "standing up",
+      "story": "Standing up straight commands \"Lee!\" sharply erect!",
+      "primitives": []
+    },
+    {
+      "id": 409,
+      "character": "泣",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "to weep",
+      "story": "To weep water standing yells \"Chi!\" sharply crying!",
+      "primitives": []
+    },
+    {
+      "id": 410,
+      "character": "站",
+      "pinyin": "zhan",
+      "tone": 4,
+      "meaning": "Station",
+      "story": "A station standing firm commands \"Zhan!\" sharply stopping!",
+      "primitives": []
+    },
+    {
+      "id": 411,
+      "character": "章",
+      "pinyin": "zhang",
+      "tone": 1,
+      "meaning": "Chapter",
+      "story": "A chapter standing ten days sings \"Zhang!\" cheerfully written!",
+      "primitives": []
+    },
+    {
+      "id": 412,
+      "character": "競",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "to compete",
+      "story": "To compete stand brothers command \"Jing!\" sharply racing!",
+      "primitives": []
+    },
+    {
+      "id": 413,
+      "character": "帝",
+      "pinyin": "di",
+      "tone": 4,
+      "meaning": "Sovereign",
+      "story": "A sovereign standing towel commands \"Dee!\" sharply ruling!",
+      "primitives": []
+    },
+    {
+      "id": 414,
+      "character": "童",
+      "pinyin": "tong",
+      "tone": 2,
+      "meaning": "Juvenile",
+      "story": "A juvenile standing heavy questions \"Tong? Still young?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

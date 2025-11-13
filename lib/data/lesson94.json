@@ -1,0 +1,167 @@
+{
+  "lesson": 94,
+  "characters": [
+    {
+      "id": 1674,
+      "character": "滴",
+      "pinyin": "di",
+      "tone": 1,
+      "meaning": "drip",
+      "story": "Drip water suitable sings \"Dee!\" cheerfully - drop trickle!",
+      "primitives": []
+    },
+    {
+      "id": 1675,
+      "character": "頃",
+      "pinyin": "qing",
+      "tone": 3,
+      "meaning": "100 Chinese acres",
+      "story": "100 Chinese acres head lean bends down drooping \"Ching\" - land measure!",
+      "primitives": []
+    },
+    {
+      "id": 1676,
+      "character": "匙",
+      "pinyin": "chi",
+      "tone": 2,
+      "meaning": "spoon",
+      "story": "Spoon ladle box questions \"Chir? Utensil?\" curiously - eating tool!",
+      "primitives": []
+    },
+    {
+      "id": 1677,
+      "character": "乖",
+      "pinyin": "guai",
+      "tone": 1,
+      "meaning": "well-behaved",
+      "story": "Well-behaved thousand oppose sings \"Gwigh!\" cheerfully - obedient good!",
+      "primitives": []
+    },
+    {
+      "id": 1678,
+      "character": "乘",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "hitch a ride",
+      "story": "Hitch a ride north wood questions \"Chung? Board?\" curiously - ride on!",
+      "primitives": []
+    },
+    {
+      "id": 1679,
+      "character": "剩",
+      "pinyin": "sheng",
+      "tone": 4,
+      "meaning": "leftover",
+      "story": "Leftover ride sword commands sharply \"Shung!\" - remaining surplus!",
+      "primitives": []
+    },
+    {
+      "id": 1680,
+      "character": "棍",
+      "pinyin": "gun",
+      "tone": 4,
+      "meaning": "club",
+      "story": "Club tree descendants commands sharply \"Gwun!\" - stick rod bachelor!",
+      "primitives": []
+    },
+    {
+      "id": 1681,
+      "character": "諧",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "in accord",
+      "story": "In accord words all-temperature detergent questions \"Shyeh? Harmony?\" curiously - harmonious censored!",
+      "primitives": []
+    },
+    {
+      "id": 1682,
+      "character": "柴",
+      "pinyin": "chai",
+      "tone": 2,
+      "meaning": "firewood",
+      "story": "Firewood tree branch questions \"Chigh? Kindling?\" curiously - wood fuel!",
+      "primitives": []
+    },
+    {
+      "id": 1683,
+      "character": "敏",
+      "pinyin": "min",
+      "tone": 3,
+      "meaning": "quick-witted",
+      "story": "Quick-witted taskmaster mother bends down drooping \"Min\" - agile clever!",
+      "primitives": []
+    },
+    {
+      "id": 1684,
+      "character": "霉",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "mildew",
+      "story": "Mildew weather every questions \"May? Mold?\" curiously - fungus unlucky!",
+      "primitives": []
+    },
+    {
+      "id": 1685,
+      "character": "迄",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "so far",
+      "story": "So far road beg commands sharply \"Chee!\" - until now!",
+      "primitives": []
+    },
+    {
+      "id": 1686,
+      "character": "砍",
+      "pinyin": "kan",
+      "tone": 3,
+      "meaning": "chop",
+      "story": "Chop stone axe bends down drooping \"Kahn\" - hack cut!",
+      "primitives": []
+    },
+    {
+      "id": 1687,
+      "character": "坎",
+      "pinyin": "kan",
+      "tone": 3,
+      "meaning": "hump",
+      "story": "Hump soil yawn bends down drooping \"Kahn\" - pit bump!",
+      "primitives": []
+    },
+    {
+      "id": 1688,
+      "character": "炊",
+      "pinyin": "chui",
+      "tone": 1,
+      "meaning": "cook",
+      "story": "Cook fire blow sings \"Chway!\" cheerfully - prepare food!",
+      "primitives": []
+    },
+    {
+      "id": 1689,
+      "character": "欽",
+      "pinyin": "qin",
+      "tone": 1,
+      "meaning": "think highly of",
+      "story": "Think highly of lack gold sings \"Chin!\" cheerfully - admire respect!",
+      "primitives": []
+    },
+    {
+      "id": 1690,
+      "character": "剖",
+      "pinyin": "pou",
+      "tone": 1,
+      "meaning": "cut open",
+      "story": "Cut open divide sword sings \"Poh!\" cheerfully - dissect split!",
+      "primitives": []
+    },
+    {
+      "id": 1691,
+      "character": "菩",
+      "pinyin": "pu",
+      "tone": 2,
+      "meaning": "bodhisattva",
+      "story": "Bodhisattva flowers muzzle questions \"Poo? Enlightened?\" curiously - Buddha face scorpion heart!",
+      "primitives": []
+    }
+  ]
+}

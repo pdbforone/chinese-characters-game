@@ -1,0 +1,167 @@
+{
+  "lesson": 5,
+  "characters": [
+    {
+      "id": 73,
+      "character": "左",
+      "pinyin": "zuo",
+      "tone": 3,
+      "meaning": "Left",
+      "story": "Left hand with work bends down drooping saying \"Zuo\"!",
+      "primitives": []
+    },
+    {
+      "id": 74,
+      "character": "右",
+      "pinyin": "you",
+      "tone": 4,
+      "meaning": "Right",
+      "story": "Right hand with mouth yells \"Yo!\" sharply pointing right!",
+      "primitives": []
+    },
+    {
+      "id": 75,
+      "character": "有",
+      "pinyin": "you",
+      "tone": 3,
+      "meaning": "to possess",
+      "story": "To possess the moon with your right hand, it bends drooping saying \"Yo\"!",
+      "primitives": []
+    },
+    {
+      "id": 76,
+      "character": "賄",
+      "pinyin": "hui",
+      "tone": 4,
+      "meaning": "bribe",
+      "story": "A bribe of shellfish yells \"Hway!\" sharply with each corrupt hand!",
+      "primitives": []
+    },
+    {
+      "id": 77,
+      "character": "貢",
+      "pinyin": "gong",
+      "tone": 4,
+      "meaning": "Tribute",
+      "story": "Tribute of work and shellfish commands \"Gong!\" sharply to the emperor!",
+      "primitives": []
+    },
+    {
+      "id": 78,
+      "character": "項",
+      "pinyin": "xiang",
+      "tone": 4,
+      "meaning": "Item",
+      "story": "The item page of your head yells \"Shyang!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 79,
+      "character": "刀",
+      "pinyin": "dao",
+      "tone": 1,
+      "meaning": "Sword",
+      "story": "The sword sings \"Dao!\" cheerfully and high when drawn!",
+      "primitives": []
+    },
+    {
+      "id": 80,
+      "character": "刃",
+      "pinyin": "ren",
+      "tone": 4,
+      "meaning": "Blade",
+      "story": "A dot on the blade yells \"Ren!\" sharply at the edge!",
+      "primitives": []
+    },
+    {
+      "id": 81,
+      "character": "切",
+      "pinyin": "qie",
+      "tone": 4,
+      "meaning": "to cut",
+      "story": "Cut with one sword, commanding \"Chieh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 82,
+      "character": "召",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "to summon",
+      "story": "Summon with your mouth and sword, yelling \"Zhao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 83,
+      "character": "昭",
+      "pinyin": "zhao",
+      "tone": 1,
+      "meaning": "evident",
+      "story": "The evident sun sings \"Zhao!\" cheerfully making everything clear!",
+      "primitives": []
+    },
+    {
+      "id": 84,
+      "character": "則",
+      "pinyin": "ze",
+      "tone": 2,
+      "meaning": "Rule",
+      "story": "The rule with shellfish and sword questions \"Zeh? Why obey?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 85,
+      "character": "副",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "vice-",
+      "story": "The vice stands beside with a sword, commanding \"Fu!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 86,
+      "character": "丁",
+      "pinyin": "ding",
+      "tone": 1,
+      "meaning": "fourth",
+      "story": "The fourth nail sings \"Ding!\" cheerfully and high when hammered!",
+      "primitives": []
+    },
+    {
+      "id": 87,
+      "character": "叮",
+      "pinyin": "ding",
+      "tone": 1,
+      "meaning": "to sting",
+      "story": "A mouth sting like a nail sings \"Ding!\" happily biting!",
+      "primitives": []
+    },
+    {
+      "id": 88,
+      "character": "可",
+      "pinyin": "ke",
+      "tone": 3,
+      "meaning": "can",
+      "story": "You can use your mouth bent down drooping saying \"Kuh\"!",
+      "primitives": []
+    },
+    {
+      "id": 89,
+      "character": "哥",
+      "pinyin": "ge",
+      "tone": 1,
+      "meaning": "Older Brother",
+      "story": "Older brother with two mouths sings \"Guh!\" cheerfully and high!",
+      "primitives": []
+    },
+    {
+      "id": 90,
+      "character": "頂",
+      "pinyin": "ding",
+      "tone": 3,
+      "meaning": "crest",
+      "story": "The crest of the head bends down drooping at the top saying \"Ding\"!",
+      "primitives": []
+    }
+  ]
+}

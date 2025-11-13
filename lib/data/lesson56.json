@@ -1,0 +1,167 @@
+{
+  "lesson": 56,
+  "characters": [
+    {
+      "id": 1095,
+      "character": "娘",
+      "pinyin": "Niang",
+      "tone": 5,
+      "meaning": "Mom",
+      "story": "Mom questions \"Niang? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1096,
+      "character": "食",
+      "pinyin": "Shi",
+      "tone": 5,
+      "meaning": "Food",
+      "story": "Food questions \"Shi? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1097,
+      "character": "飯",
+      "pinyin": "Fan",
+      "tone": 5,
+      "meaning": "Meal",
+      "story": "Meal commands \"Fan!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1098,
+      "character": "餐",
+      "pinyin": "Can",
+      "tone": 5,
+      "meaning": "to dine",
+      "story": "to dine sings \"Can!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1099,
+      "character": "館",
+      "pinyin": "Guan",
+      "tone": 5,
+      "meaning": "Bldg.",
+      "story": "Bldg. bends down drooping saying \"Guan\"!",
+      "primitives": []
+    },
+    {
+      "id": 1100,
+      "character": "養",
+      "pinyin": "Yang",
+      "tone": 5,
+      "meaning": "to raise",
+      "story": "to raise bends down drooping saying \"Yang\"!",
+      "primitives": []
+    },
+    {
+      "id": 1101,
+      "character": "既",
+      "pinyin": "Ji",
+      "tone": 5,
+      "meaning": "since",
+      "story": "since commands \"Ji!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1102,
+      "character": "概",
+      "pinyin": "Gai",
+      "tone": 5,
+      "meaning": "approximate",
+      "story": "approximate commands \"Gai!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1103,
+      "character": "平",
+      "pinyin": "Ping",
+      "tone": 5,
+      "meaning": "even",
+      "story": "even questions \"Ping? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1104,
+      "character": "評",
+      "pinyin": "Ping",
+      "tone": 5,
+      "meaning": "to evaluate",
+      "story": "to evaluate questions \"Ping? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1000,
+      "character": "邊",
+      "pinyin": "bian",
+      "tone": 1,
+      "meaning": "Border",
+      "story": "Along the border road, your nose catches the scent, singing \"Bian!\" cheerfully as you cross the edge!",
+      "primitives": []
+    },
+    {
+      "id": 1001,
+      "character": "深",
+      "pinyin": "shen",
+      "tone": 1,
+      "meaning": "deep",
+      "story": "Deep water sings \"Shen!\" cheerfully as you dive down into the profound darkness!",
+      "primitives": []
+    },
+    {
+      "id": 1002,
+      "character": "探",
+      "pinyin": "tan",
+      "tone": 4,
+      "meaning": "a Spy",
+      "story": "A spy with hands reaching into the cave commands \"Tan!\" sharply, exploring every hidden corner!",
+      "primitives": []
+    },
+    {
+      "id": 1003,
+      "character": "丘",
+      "pinyin": "qiu",
+      "tone": 1,
+      "meaning": "Hill",
+      "story": "The hill rises like a hobbit-home, singing \"Chyo!\" cheerfully round and grassy!",
+      "primitives": []
+    },
+    {
+      "id": 1004,
+      "character": "兵",
+      "pinyin": "bing",
+      "tone": 1,
+      "meaning": "Troops",
+      "story": "Troops with axes march cheerfully singing \"Bing!\" as soldiers in formation!",
+      "primitives": []
+    },
+    {
+      "id": 1005,
+      "character": "絲",
+      "pinyin": "si",
+      "tone": 1,
+      "meaning": "Silk",
+      "story": "Silk threads sing \"Si!\" cheerfully as they shimmer and flow like two rivers!",
+      "primitives": []
+    },
+    {
+      "id": 1006,
+      "character": "線",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "Line",
+      "story": "A line of silk commands \"Shian!\" sharply, connecting thread to thread in perfect rows!",
+      "primitives": []
+    },
+    {
+      "id": 1007,
+      "character": "維",
+      "pinyin": "wei",
+      "tone": 2,
+      "meaning": "to maintain",
+      "story": "To maintain silk threads, the bird questions \"Way? How to hold together?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

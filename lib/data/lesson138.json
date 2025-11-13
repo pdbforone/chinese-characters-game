@@ -1,0 +1,167 @@
+{
+  "lesson": 138,
+  "characters": [
+    {
+      "id": 2466,
+      "character": "秤",
+      "pinyin": "cheng",
+      "tone": 4,
+      "meaning": "scale",
+      "story": "\"CHANGE!\" the wild rice and water lily command sharply - use the scale for weighing, a balance!",
+      "primitives": []
+    },
+    {
+      "id": 2467,
+      "character": "淆",
+      "pinyin": "yao",
+      "tone": 2,
+      "meaning": "confuse",
+      "story": "\"Yow?\" the water questions curiously - to confuse, mix up the imp and monster!",
+      "primitives": []
+    },
+    {
+      "id": 2468,
+      "character": "艾",
+      "pinyin": "ai",
+      "tone": 4,
+      "meaning": "Chinese mugwort",
+      "story": "\"AYE!\" the flowers command sharply - Chinese mugwort, an herb, wormwood!",
+      "primitives": []
+    },
+    {
+      "id": 2469,
+      "character": "哎",
+      "pinyin": "ai",
+      "tone": 1,
+      "meaning": "Good grief",
+      "story": "\"AI!\" the mouth sings cheerfully - Good grief! An exclamation, alas!",
+      "primitives": []
+    },
+    {
+      "id": 2470,
+      "character": "拔",
+      "pinyin": "ba",
+      "tone": 2,
+      "meaning": "pull out",
+      "story": "\"Bah?\" the fingers question curiously - to pull out, extract, remove and yank!",
+      "primitives": []
+    },
+    {
+      "id": 2471,
+      "character": "攀",
+      "pinyin": "pan",
+      "tone": 1,
+      "meaning": "climb",
+      "story": "\"PAN!\" the fingers and tree sing cheerfully - to climb, scale and ascend!",
+      "primitives": []
+    },
+    {
+      "id": 2472,
+      "character": "屯",
+      "pinyin": "tun",
+      "tone": 2,
+      "meaning": "stockpile",
+      "story": "\"Tune?\" he questions curiously about where to stockpile, store and accumulate.",
+      "primitives": []
+    },
+    {
+      "id": 2473,
+      "character": "頓",
+      "pinyin": "dun",
+      "tone": 4,
+      "meaning": "pause",
+      "story": "\"DUN!\" the head commands sharply - to pause, stop for a meal suddenly!",
+      "primitives": []
+    },
+    {
+      "id": 2474,
+      "character": "噸",
+      "pinyin": "dun",
+      "tone": 1,
+      "meaning": "ton",
+      "story": "\"DUN!\" the mouth and pause command sharply - that's one ton, a weight measure!",
+      "primitives": []
+    },
+    {
+      "id": 2475,
+      "character": "純",
+      "pinyin": "chun",
+      "tone": 2,
+      "meaning": "unadulterated",
+      "story": "\"Churn?\" the thread questions curiously - is it pure, unadulterated and genuine?",
+      "primitives": []
+    },
+    {
+      "id": 2476,
+      "character": "屆",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "fall due",
+      "story": "\"JAY!\" he commands sharply - the deadline to fall due, the session and term arrive!",
+      "primitives": []
+    },
+    {
+      "id": 2477,
+      "character": "齒",
+      "pinyin": "chi",
+      "tone": 3,
+      "meaning": "teeth",
+      "story": "The teeth bend down drooping to bite and pierce with molars.",
+      "primitives": []
+    },
+    {
+      "id": 2478,
+      "character": "齣",
+      "pinyin": "chu",
+      "tone": 1,
+      "meaning": "shows",
+      "story": "\"CHEW!\" the teeth and sentence sing cheerfully - watch the shows, the performance and act!",
+      "primitives": []
+    },
+    {
+      "id": 2479,
+      "character": "齡",
+      "pinyin": "ling",
+      "tone": 2,
+      "meaning": "length of service",
+      "story": "\"Ling?\" the teeth question curiously about orders - what's the length of service, the age in years?",
+      "primitives": []
+    },
+    {
+      "id": 2480,
+      "character": "洶",
+      "pinyin": "xiong",
+      "tone": 1,
+      "meaning": "turbulent",
+      "story": "\"SHYUNG!\" the water sings cheerfully when bound up with sinister forces - turbulent, fierce and violent!",
+      "primitives": []
+    },
+    {
+      "id": 2481,
+      "character": "籬",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "fence",
+      "story": "\"Lee?\" the bamboo questions curiously as it leaves - building a fence, a barrier and railing.",
+      "primitives": []
+    },
+    {
+      "id": 2482,
+      "character": "辜",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "crime",
+      "story": "\"GOO!\" the sinner sings cheerfully despite the crime, guilt and offense.",
+      "primitives": []
+    },
+    {
+      "id": 2483,
+      "character": "宰",
+      "pinyin": "zai",
+      "tone": 3,
+      "meaning": "butcher",
+      "story": "The house and chili pepper bend down - time to butcher, slaughter and kill!",
+      "primitives": []
+    }
+  ]
+}

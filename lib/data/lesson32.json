@@ -1,0 +1,167 @@
+{
+  "lesson": 32,
+  "characters": [
+    {
+      "id": 559,
+      "character": "打",
+      "pinyin": "da",
+      "tone": 3,
+      "meaning": "to strike",
+      "story": "To strike hand nail bends down drooping saying \"Da\"!",
+      "primitives": []
+    },
+    {
+      "id": 560,
+      "character": "指",
+      "pinyin": "zhi",
+      "tone": 3,
+      "meaning": "Finger",
+      "story": "Finger hand purpose bends down drooping saying \"Zhi\"!",
+      "primitives": []
+    },
+    {
+      "id": 561,
+      "character": "持",
+      "pinyin": "chi",
+      "tone": 2,
+      "meaning": "to support",
+      "story": "To support hand temple questions \"Chi? Holding?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 562,
+      "character": "括",
+      "pinyin": "kuo",
+      "tone": 4,
+      "meaning": "to include",
+      "story": "To include hand tongue commands \"Kwoh!\" sharply enclosing!",
+      "primitives": []
+    },
+    {
+      "id": 563,
+      "character": "提",
+      "pinyin": "ti",
+      "tone": 2,
+      "meaning": "to bring up",
+      "story": "To bring up hand right questions \"Ti? Lift?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 564,
+      "character": "揮",
+      "pinyin": "hui",
+      "tone": 1,
+      "meaning": "to brandish",
+      "story": "To brandish hand army sings \"Hway!\" cheerfully waving!",
+      "primitives": []
+    },
+    {
+      "id": 565,
+      "character": "推",
+      "pinyin": "tui",
+      "tone": 1,
+      "meaning": "to push",
+      "story": "To push hand bird sings \"Tway!\" cheerfully shoving!",
+      "primitives": []
+    },
+    {
+      "id": 566,
+      "character": "接",
+      "pinyin": "jie",
+      "tone": 1,
+      "meaning": "to welcome",
+      "story": "To welcome hand woman sings \"Jieh!\" cheerfully receiving!",
+      "primitives": []
+    },
+    {
+      "id": 567,
+      "character": "掛",
+      "pinyin": "gua",
+      "tone": 4,
+      "meaning": "to hang",
+      "story": "Hang hand earth divination commands \"Gwa!\" sharply suspended!",
+      "primitives": []
+    },
+    {
+      "id": 568,
+      "character": "按",
+      "pinyin": "an",
+      "tone": 4,
+      "meaning": "to press down on",
+      "story": "To press down on hand case yells \"An!\" sharply pushing!",
+      "primitives": []
+    },
+    {
+      "id": 569,
+      "character": "掉",
+      "pinyin": "diao",
+      "tone": 4,
+      "meaning": "to drop",
+      "story": "To drop hand luck commands \"Diao!\" sharply falling!",
+      "primitives": []
+    },
+    {
+      "id": 570,
+      "character": "拉",
+      "pinyin": "la",
+      "tone": 1,
+      "meaning": "to pull",
+      "story": "To pull hand stand sings \"La!\" cheerfully dragging!",
+      "primitives": []
+    },
+    {
+      "id": 571,
+      "character": "啦",
+      "pinyin": "la",
+      "tone": 5,
+      "meaning": "!!",
+      "story": "\"La!\" mouth pull says \"la\" neutrally exclaiming!",
+      "primitives": []
+    },
+    {
+      "id": 572,
+      "character": "找",
+      "pinyin": "zhao",
+      "tone": 3,
+      "meaning": "to look for",
+      "story": "To look for hand dagger bends down drooping saying \"Zhao\"!",
+      "primitives": []
+    },
+    {
+      "id": 573,
+      "character": "研",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "to grind away",
+      "story": "To grind away stone open questions \"Yan? Polishing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 574,
+      "character": "弄",
+      "pinyin": "nong",
+      "tone": 4,
+      "meaning": "to play with",
+      "story": "To play with king jewel commands \"Nong!\" sharply tinkering!",
+      "primitives": []
+    },
+    {
+      "id": 575,
+      "character": "鼻",
+      "pinyin": "bi",
+      "tone": 2,
+      "meaning": "Nose",
+      "story": "A nose self field questions \"Bee? Smelling?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 576,
+      "character": "刑",
+      "pinyin": "xing",
+      "tone": 2,
+      "meaning": "Punishment",
+      "story": "Punishment knife open questions \"Shing? Penalty?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

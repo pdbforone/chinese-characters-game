@@ -1,0 +1,167 @@
+{
+  "lesson": 134,
+  "characters": [
+    {
+      "id": 2395,
+      "character": "酷",
+      "pinyin": "ku",
+      "tone": 4,
+      "meaning": "brutal",
+      "story": "\"COOL!\" he commands sharply in a brutal, cruel, harsh but cool way with wine.",
+      "primitives": []
+    },
+    {
+      "id": 2396,
+      "character": "醇",
+      "pinyin": "chun",
+      "tone": 2,
+      "meaning": "mellow wine",
+      "story": "\"Chew?\" she questions curiously, tasting the mellow wine that's pure, rich and smooth.",
+      "primitives": []
+    },
+    {
+      "id": 2397,
+      "character": "醋",
+      "pinyin": "cu",
+      "tone": 4,
+      "meaning": "vinegar",
+      "story": "\"CUSS!\" he commands sharply, spitting out the sour, acidic vinegar wine with jealous disgust.",
+      "primitives": []
+    },
+    {
+      "id": 2398,
+      "character": "醉",
+      "pinyin": "zui",
+      "tone": 4,
+      "meaning": "drunk",
+      "story": "\"SWAY!\" she commands sharply, the drunk wine making her intoxicated and inebriated.",
+      "primitives": []
+    },
+    {
+      "id": 2399,
+      "character": "粹",
+      "pinyin": "cui",
+      "tone": 4,
+      "meaning": "unmixed",
+      "story": "\"QUICHE!\" he commands sharply - the rice must be pure, unadulterated essence, unmixed.",
+      "primitives": []
+    },
+    {
+      "id": 2400,
+      "character": "翠",
+      "pinyin": "cui",
+      "tone": 4,
+      "meaning": "emerald green",
+      "story": "\"QUICHE colored!\" she commands sharply about the emerald green feathers and foot soldiers - jade vivid!",
+      "primitives": []
+    },
+    {
+      "id": 2401,
+      "character": "碎",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "shattered",
+      "story": "\"SWAY and break!\" he commands sharply as the stone becomes shattered, broken and fragmented.",
+      "primitives": []
+    },
+    {
+      "id": 2402,
+      "character": "酸",
+      "pinyin": "suan",
+      "tone": 1,
+      "meaning": "sour",
+      "story": "\"Sahn!\" she sings cheerfully, tasting the sour wine - tart and acidic!",
+      "primitives": []
+    },
+    {
+      "id": 2403,
+      "character": "梭",
+      "pinyin": "suo",
+      "tone": 1,
+      "meaning": "shuttle",
+      "story": "\"So!\" the tree streetwalker sings cheerfully, weaving the shuttle - time flies!",
+      "primitives": []
+    },
+    {
+      "id": 2404,
+      "character": "峻",
+      "pinyin": "jun",
+      "tone": 4,
+      "meaning": "lofty",
+      "story": "\"JUNE peak!\" she commands sharply about the lofty mountain streetwalker - steep and towering!",
+      "primitives": []
+    },
+    {
+      "id": 2405,
+      "character": "俊",
+      "pinyin": "jun",
+      "tone": 4,
+      "meaning": "pretty",
+      "story": "\"JUNE!\" the pretty person commands sharply - handsome and talented!",
+      "primitives": []
+    },
+    {
+      "id": 2406,
+      "character": "釁",
+      "pinyin": "xin",
+      "tone": 4,
+      "meaning": "quarrel",
+      "story": "\"SEEN it!\" he commands sharply during the quarrel - the zipper, hood, spike, crown, whiskey bottle create a feud and dispute!",
+      "primitives": []
+    },
+    {
+      "id": 2407,
+      "character": "醬",
+      "pinyin": "jiang",
+      "tone": 4,
+      "meaning": "thick sauce",
+      "story": "\"JELLY!\" she commands sharply about the thick sauce wine paste condiment.",
+      "primitives": []
+    },
+    {
+      "id": 2408,
+      "character": "猶",
+      "pinyin": "you",
+      "tone": 2,
+      "meaning": "just like",
+      "story": "\"Yo?\" the pack of wild dogs and chieftain question curiously - just like, still yet?",
+      "primitives": []
+    },
+    {
+      "id": 2409,
+      "character": "奠",
+      "pinyin": "dian",
+      "tone": 4,
+      "meaning": "found",
+      "story": "\"DANE!\" he commands sharply, establishing the foundation base with an offering.",
+      "primitives": []
+    },
+    {
+      "id": 2410,
+      "character": "蹲",
+      "pinyin": "dun",
+      "tone": 1,
+      "meaning": "squat",
+      "story": "\"Dune?\" she questions curiously, squatting down with her wooden leg in veneration.",
+      "primitives": []
+    },
+    {
+      "id": 2411,
+      "character": "逗",
+      "pinyin": "dou",
+      "tone": 4,
+      "meaning": "tease",
+      "story": "\"DOH!\" he commands sharply on the road, teasing to play tricks and provoke.",
+      "primitives": []
+    },
+    {
+      "id": 2412,
+      "character": "豈",
+      "pinyin": "qi",
+      "tone": 3,
+      "meaning": "rhetorical question",
+      "story": "The beans bend down drooping - \"How can this be?\"",
+      "primitives": []
+    }
+  ]
+}

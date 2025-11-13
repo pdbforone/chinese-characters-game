@@ -1,0 +1,167 @@
+{
+  "lesson": 167,
+  "characters": [
+    {
+      "id": 2991,
+      "character": "玻",
+      "pinyin": "bo",
+      "tone": 1,
+      "meaning": "glass (front)",
+      "story": "\"BWO!\" the jewel covering sings cheerfully - the front part of the glass character.",
+      "primitives": []
+    },
+    {
+      "id": 2992,
+      "character": "璃",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "glass (back)",
+      "story": "\"LEE?\" the jewel questions curiously like Fagin - the back part of the glass character.",
+      "primitives": []
+    },
+    {
+      "id": 2993,
+      "character": "咖",
+      "pinyin": "ka",
+      "tone": 1,
+      "meaning": "coffee (first)",
+      "story": "\"KAH!\" the mouth sings cheerfully - the first drop of the coffee character.",
+      "primitives": []
+    },
+    {
+      "id": 2994,
+      "character": "啡",
+      "pinyin": "fei",
+      "tone": 1,
+      "meaning": "coffee (last)",
+      "story": "\"FAY!\" the mouth sings cheerfully - the last drop of the coffee character.",
+      "primitives": []
+    },
+    {
+      "id": 2995,
+      "character": "葡",
+      "pinyin": "pu",
+      "tone": 2,
+      "meaning": "grapes (A)",
+      "story": "\"POO?\" the flowers question curiously, bound up with dog tags - the first part of grapes.",
+      "primitives": []
+    },
+    {
+      "id": 2996,
+      "character": "萄",
+      "pinyin": "tao",
+      "tone": 2,
+      "meaning": "grapes (B)",
+      "story": "\"TAO?\" the flowers and canteen question curiously - the second part of grapes.",
+      "primitives": []
+    },
+    {
+      "id": 2997,
+      "character": "吩",
+      "pinyin": "fen",
+      "tone": 1,
+      "meaning": "in-(struct)",
+      "story": "\"FEN!\" the mouth sings cheerfully - the first part of instruct.",
+      "primitives": []
+    },
+    {
+      "id": 2998,
+      "character": "咐",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "(in)-struct",
+      "story": "\"FOO!\" the mouth commands sharply - I should have instructed you to stand by!",
+      "primitives": []
+    },
+    {
+      "id": 2999,
+      "character": "乒",
+      "pinyin": "ping",
+      "tone": 1,
+      "meaning": "ping",
+      "story": "\"PING!\" the left-legged troop sings cheerfully - ping in ping-pong!",
+      "primitives": []
+    },
+    {
+      "id": 3000,
+      "character": "乓",
+      "pinyin": "pang",
+      "tone": 1,
+      "meaning": "pong",
+      "story": "\"PAHNG!\" it sings cheerfully - pong in ping-pong!",
+      "primitives": []
+    },
+    {
+      "id": 3001,
+      "character": "崔",
+      "pinyin": "cui",
+      "tone": 1,
+      "meaning": "Cui",
+      "story": "\"TSWAY!\" the pterodactyl sings cheerfully - the surname Cui!",
+      "primitives": []
+    },
+    {
+      "id": 3002,
+      "character": "曹",
+      "pinyin": "cao",
+      "tone": 2,
+      "meaning": "Cao",
+      "story": "\"TSAO?\" the cadet questions curiously - is that Cao Cao?",
+      "primitives": []
+    },
+    {
+      "id": 3003,
+      "character": "劉",
+      "pinyin": "liu",
+      "tone": 2,
+      "meaning": "Liu",
+      "story": "\"LYOH?\" he questions curiously - the surname Liu?",
+      "primitives": []
+    },
+    {
+      "id": 3004,
+      "character": "潘",
+      "pinyin": "pan",
+      "tone": 1,
+      "meaning": "Pan",
+      "story": "\"PAN!\" the water sings cheerfully as Pan gives it a try!",
+      "primitives": []
+    },
+    {
+      "id": 3005,
+      "character": "梁",
+      "pinyin": "liang",
+      "tone": 2,
+      "meaning": "Liang",
+      "story": "\"LYAHNG?\" the water, blade, drop and tree question curiously - was Liang Qichao good or bad?",
+      "primitives": []
+    },
+    {
+      "id": 3006,
+      "character": "沈",
+      "pinyin": "shen",
+      "tone": 3,
+      "meaning": "Shen",
+      "story": "The water bends down drooping - the silent surname Shen.",
+      "primitives": []
+    },
+    {
+      "id": 3007,
+      "character": "鄭",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "Zheng",
+      "story": "\"JUNG!\" the city walls command sharply - the surname Zheng!",
+      "primitives": []
+    },
+    {
+      "id": 3008,
+      "character": "譚",
+      "pinyin": "tan",
+      "tone": 2,
+      "meaning": "Tam",
+      "story": "\"TAN?\" the words question curiously - the surname Tam?",
+      "primitives": []
+    }
+  ]
+}

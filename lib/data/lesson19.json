@@ -1,0 +1,167 @@
+{
+  "lesson": 19,
+  "characters": [
+    {
+      "id": 325,
+      "character": "訓",
+      "pinyin": "xun",
+      "tone": 4,
+      "meaning": "Instruction",
+      "story": "Instruction words in river commands \"Shun!\" sharply teaching!",
+      "primitives": []
+    },
+    {
+      "id": 326,
+      "character": "話",
+      "pinyin": "hua",
+      "tone": 4,
+      "meaning": "the talk",
+      "story": "The talk words tongue commands \"Hwa!\" sharply speaking!",
+      "primitives": []
+    },
+    {
+      "id": 327,
+      "character": "詩",
+      "pinyin": "shi",
+      "tone": 1,
+      "meaning": "Poem",
+      "story": "A poem words at temple sings \"Shi!\" cheerfully rhyming!",
+      "primitives": []
+    },
+    {
+      "id": 328,
+      "character": "語",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "Language",
+      "story": "Language words I bend down drooping saying \"Yu\"!",
+      "primitives": []
+    },
+    {
+      "id": 329,
+      "character": "讀",
+      "pinyin": "du",
+      "tone": 2,
+      "meaning": "to read",
+      "story": "To read words sell questions \"Doo? What says?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 330,
+      "character": "調",
+      "pinyin": "diao",
+      "tone": 4,
+      "meaning": "Tune",
+      "story": "A tune words week commands \"Diao!\" sharply singing!",
+      "primitives": []
+    },
+    {
+      "id": 331,
+      "character": "談",
+      "pinyin": "tan",
+      "tone": 2,
+      "meaning": "to discuss",
+      "story": "To discuss words flame questions \"Tan? What topic?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 332,
+      "character": "這",
+      "pinyin": "zhe",
+      "tone": 4,
+      "meaning": "this",
+      "story": "This walk words commands \"Zhuh!\" sharply pointing!",
+      "primitives": []
+    },
+    {
+      "id": 333,
+      "character": "式",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Style",
+      "story": "A style work arrow commands \"Shi!\" sharply fashioned!",
+      "primitives": []
+    },
+    {
+      "id": 334,
+      "character": "試",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Test",
+      "story": "A test words style yells \"Shi!\" sharply examining!",
+      "primitives": []
+    },
+    {
+      "id": 335,
+      "character": "戈",
+      "pinyin": "ge",
+      "tone": 1,
+      "meaning": "Halberd",
+      "story": "A halberd spear sings \"Guh!\" cheerfully sharp!",
+      "primitives": []
+    },
+    {
+      "id": 336,
+      "character": "或",
+      "pinyin": "huo",
+      "tone": 4,
+      "meaning": "or",
+      "story": "Or one mouth halberd commands \"Huo!\" sharply choosing!",
+      "primitives": []
+    },
+    {
+      "id": 337,
+      "character": "賊",
+      "pinyin": "zei",
+      "tone": 2,
+      "meaning": "Burglar",
+      "story": "A burglar shellfish ten halberds questions \"Zay? Stealing what?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 338,
+      "character": "載",
+      "pinyin": "zai",
+      "tone": 4,
+      "meaning": "laden",
+      "story": "Laden car halberds commands \"Zai!\" sharply carrying!",
+      "primitives": []
+    },
+    {
+      "id": 339,
+      "character": "鐵",
+      "pinyin": "tie",
+      "tone": 3,
+      "meaning": "Iron",
+      "story": "Iron gold lost bends down drooping saying \"Tieh\"!",
+      "primitives": []
+    },
+    {
+      "id": 340,
+      "character": "茂",
+      "pinyin": "mao",
+      "tone": 4,
+      "meaning": "lush",
+      "story": "Lush grass halberds command \"Mao!\" sharply overgrown!",
+      "primitives": []
+    },
+    {
+      "id": 341,
+      "character": "成",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "to turn into",
+      "story": "To turn into halberds question \"Cheng? What become?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 342,
+      "character": "城",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "City",
+      "story": "A city earth turn into questions \"Cheng? How big?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

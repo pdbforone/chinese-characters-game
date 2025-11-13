@@ -1,0 +1,167 @@
+{
+  "lesson": 161,
+  "characters": [
+    {
+      "id": 2883,
+      "character": "慶",
+      "pinyin": "qing",
+      "tone": 4,
+      "meaning": "celebrate",
+      "story": "\"CHING!\" the deer, flattened clothes hanger, heart, and walking legs command sharply - to celebrate, rejoice at festivals!",
+      "primitives": []
+    },
+    {
+      "id": 2884,
+      "character": "薦",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "recommend",
+      "story": "\"JYEN!\" the flowers command sharply - to recommend, endorse, and suggest!",
+      "primitives": []
+    },
+    {
+      "id": 2885,
+      "character": "傑",
+      "pinyin": "jie",
+      "tone": 2,
+      "meaning": "outstanding",
+      "story": "\"JYEH?\" the person questions curiously - outstanding, excellent, and exceptional?",
+      "primitives": []
+    },
+    {
+      "id": 2886,
+      "character": "瞬",
+      "pinyin": "shun",
+      "tone": 4,
+      "meaning": "instant",
+      "story": "\"SHWUN!\" the eyes command sharply - an instant, moment, and flash!",
+      "primitives": []
+    },
+    {
+      "id": 2887,
+      "character": "麟",
+      "pinyin": "lin",
+      "tone": 2,
+      "meaning": "Chinese unicorn",
+      "story": "\"LIN?\" the deer and jack o' lantern question curiously - Chinese unicorn, mythical at carp tower?",
+      "primitives": []
+    },
+    {
+      "id": 2888,
+      "character": "憐",
+      "pinyin": "lian",
+      "tone": 2,
+      "meaning": "pity",
+      "story": "\"LYEN?\" the state of mind questions curiously - to pity, sympathize with compassion?",
+      "primitives": []
+    },
+    {
+      "id": 2889,
+      "character": "鄰",
+      "pinyin": "lin",
+      "tone": 2,
+      "meaning": "neighbor",
+      "story": "\"LIN?\" the city walls question curiously - a neighbor, adjacent, and nearby?",
+      "primitives": []
+    },
+    {
+      "id": 2890,
+      "character": "曬",
+      "pinyin": "shai",
+      "tone": 4,
+      "meaning": "bask",
+      "story": "\"SHAI!\" the sun commands sharply - to bask, dry, and hang clothes!",
+      "primitives": []
+    },
+    {
+      "id": 2891,
+      "character": "灑",
+      "pinyin": "sa",
+      "tone": 3,
+      "meaning": "spill",
+      "story": "The water bends down drooping - to spill, splash voluminously, and flow.",
+      "primitives": []
+    },
+    {
+      "id": 2892,
+      "character": "罷",
+      "pinyin": "ba",
+      "tone": 4,
+      "meaning": "cease",
+      "story": "\"BAH,\" he says neutrally - to cease, stop, and quit.",
+      "primitives": []
+    },
+    {
+      "id": 2893,
+      "character": "擺",
+      "pinyin": "bai",
+      "tone": 3,
+      "meaning": "put in order",
+      "story": "The fingers bend down drooping - to put in order, arrange, and display.",
+      "primitives": []
+    },
+    {
+      "id": 2894,
+      "character": "唇",
+      "pinyin": "chun",
+      "tone": 2,
+      "meaning": "lips",
+      "story": "\"CHWUN?\" the sign of dragon and mouth question curiously - lips, thirsty, and ruptured?",
+      "primitives": []
+    },
+    {
+      "id": 2895,
+      "character": "辱",
+      "pinyin": "ru",
+      "tone": 3,
+      "meaning": "disgrace",
+      "story": "\"ROO!\" he commands sharply - disgrace, shame, insult, and scold!",
+      "primitives": []
+    },
+    {
+      "id": 2896,
+      "character": "震",
+      "pinyin": "zhen",
+      "tone": 4,
+      "meaning": "quake",
+      "story": "\"JUN!\" it commands sharply - to quake, tremble in an earthquake!",
+      "primitives": []
+    },
+    {
+      "id": 2897,
+      "character": "振",
+      "pinyin": "zhen",
+      "tone": 4,
+      "meaning": "vibrate",
+      "story": "\"JUN!\" he commands sharply - to vibrate, shake - calm down and rest!",
+      "primitives": []
+    },
+    {
+      "id": 2898,
+      "character": "魄",
+      "pinyin": "po",
+      "tone": 4,
+      "meaning": "vigor",
+      "story": "\"PWOH!\" it commands sharply - vigor, spirit, and soul that's sucked!",
+      "primitives": []
+    },
+    {
+      "id": 2899,
+      "character": "槐",
+      "pinyin": "huai",
+      "tone": 2,
+      "meaning": "scholar tree",
+      "story": "\"HWAI?\" the tree and ghost question curiously - scholar tree, locust wood?",
+      "primitives": []
+    },
+    {
+      "id": 2900,
+      "character": "魅",
+      "pinyin": "mei",
+      "tone": 4,
+      "meaning": "enchant",
+      "story": "\"MAY!\" the ghost commands sharply though not yet - to enchant, charm with special allure!",
+      "primitives": []
+    }
+  ]
+}

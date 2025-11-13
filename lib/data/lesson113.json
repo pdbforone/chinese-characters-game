@@ -1,0 +1,167 @@
+{
+  "lesson": 113,
+  "characters": [
+    {
+      "id": 2016,
+      "character": "億",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "one hundred million",
+      "story": "One hundred million person thought commands sharply \"Yee!\" - huge number!",
+      "primitives": []
+    },
+    {
+      "id": 2017,
+      "character": "傾",
+      "pinyin": "qing",
+      "tone": 1,
+      "meaning": "incline",
+      "story": "Incline person head sings \"Ching!\" cheerfully - lean pour!",
+      "primitives": []
+    },
+    {
+      "id": 2018,
+      "character": "侮",
+      "pinyin": "wu",
+      "tone": 3,
+      "meaning": "insult",
+      "story": "Insult person mother bends down drooping \"Woo\" - humiliate offend!",
+      "primitives": []
+    },
+    {
+      "id": 2019,
+      "character": "倍",
+      "pinyin": "bei",
+      "tone": 4,
+      "meaning": "times-multiplier",
+      "story": "Times-multiplier person muzzle commands sharply \"Bay!\" - double fold!",
+      "primitives": []
+    },
+    {
+      "id": 2020,
+      "character": "仿",
+      "pinyin": "fang",
+      "tone": 3,
+      "meaning": "mimic",
+      "story": "Mimic person direction bends down drooping \"Fahng\" - imitate copy!",
+      "primitives": []
+    },
+    {
+      "id": 2021,
+      "character": "傲",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "haughty",
+      "story": "Haughty person proud commands sharply \"Ao!\" - arrogant disdainful!",
+      "primitives": []
+    },
+    {
+      "id": 2022,
+      "character": "僧",
+      "pinyin": "seng",
+      "tone": 1,
+      "meaning": "Buddhist monk",
+      "story": "Buddhist monk person increase sings \"Sung!\" cheerfully - monk too many monks not enough porridge!",
+      "primitives": []
+    },
+    {
+      "id": 2023,
+      "character": "悠",
+      "pinyin": "you",
+      "tone": 1,
+      "meaning": "without haste",
+      "story": "Without haste heart walking stick sings \"Yoh!\" cheerfully - leisurely unhurried!",
+      "primitives": []
+    },
+    {
+      "id": 2024,
+      "character": "俄",
+      "pinyin": "e",
+      "tone": 2,
+      "meaning": "Russia",
+      "story": "Russia person ego questions \"Uh? Soviet?\" curiously - Slavic nation!",
+      "primitives": []
+    },
+    {
+      "id": 2025,
+      "character": "儀",
+      "pinyin": "yi",
+      "tone": 2,
+      "meaning": "rite",
+      "story": "Rite person righteousness questions \"Yee? Ceremony?\" curiously - ritual Lan Jingyi!",
+      "primitives": []
+    },
+    {
+      "id": 2026,
+      "character": "侄",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "nephew",
+      "story": "Nephew person reaching out questions \"Jir? Brother's son?\" curiously - crazy since childhood!",
+      "primitives": []
+    },
+    {
+      "id": 2027,
+      "character": "仙",
+      "pinyin": "xian",
+      "tone": 1,
+      "meaning": "immortal",
+      "story": "Immortal person mountain sings \"Shyan!\" cheerfully - celestial divine being!",
+      "primitives": []
+    },
+    {
+      "id": 2028,
+      "character": "俗",
+      "pinyin": "su",
+      "tone": 2,
+      "meaning": "custom",
+      "story": "Custom person valley questions \"Soo? Tradition?\" curiously - folk practice!",
+      "primitives": []
+    },
+    {
+      "id": 2029,
+      "character": "償",
+      "pinyin": "chang",
+      "tone": 2,
+      "meaning": "repay",
+      "story": "Repay person esteem questions \"Chahng? Compensate?\" curiously - repay with death!",
+      "primitives": []
+    },
+    {
+      "id": 2030,
+      "character": "臥",
+      "pinyin": "wo",
+      "tone": 4,
+      "meaning": "for sleeping",
+      "story": "For sleeping lying down commands sharply \"Woh!\" - recline bedroom!",
+      "primitives": []
+    },
+    {
+      "id": 2031,
+      "character": "傍",
+      "pinyin": "pang",
+      "tone": 2,
+      "meaning": "close to",
+      "story": "Close to person compass questions \"Pahng? Near?\" curiously - nightfall!",
+      "primitives": []
+    },
+    {
+      "id": 2032,
+      "character": "俺",
+      "pinyin": "an",
+      "tone": 3,
+      "meaning": "we (exclusive)",
+      "story": "We exclusive person hang glider bends down drooping \"Ahn\" - I northern dialect!",
+      "primitives": []
+    },
+    {
+      "id": 2033,
+      "character": "淹",
+      "pinyin": "yan",
+      "tone": 1,
+      "meaning": "inundate",
+      "story": "Inundate water hang glider sings \"Yan!\" cheerfully - flood drown!",
+      "primitives": []
+    }
+  ]
+}

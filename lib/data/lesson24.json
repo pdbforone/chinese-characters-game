@@ -1,0 +1,167 @@
+{
+  "lesson": 24,
+  "characters": [
+    {
+      "id": 415,
+      "character": "鐘",
+      "pinyin": "zhong",
+      "tone": 1,
+      "meaning": "Bell",
+      "story": "A bell gold juvenile sings \"Zhong!\" cheerfully ringing!",
+      "primitives": []
+    },
+    {
+      "id": 416,
+      "character": "商",
+      "pinyin": "shang",
+      "tone": 1,
+      "meaning": "Salesman",
+      "story": "A salesman stands high mouth sings \"Shang!\" cheerfully selling!",
+      "primitives": []
+    },
+    {
+      "id": 417,
+      "character": "適",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "suitable",
+      "story": "Suitable walk salesman commands \"Shi!\" sharply fitting!",
+      "primitives": []
+    },
+    {
+      "id": 418,
+      "character": "敵",
+      "pinyin": "di",
+      "tone": 2,
+      "meaning": "Enemy",
+      "story": "An enemy salesman struck questions \"Di? Fight?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 419,
+      "character": "匕",
+      "pinyin": "bi",
+      "tone": 3,
+      "meaning": "Ancient Spoon",
+      "story": "An ancient spoon bends down drooping saying \"Bee\"!",
+      "primitives": []
+    },
+    {
+      "id": 420,
+      "character": "北",
+      "pinyin": "bei",
+      "tone": 3,
+      "meaning": "North",
+      "story": "North spoons bend down drooping saying \"Bay\"!",
+      "primitives": []
+    },
+    {
+      "id": 421,
+      "character": "背",
+      "pinyin": "bei",
+      "tone": 4,
+      "meaning": "Back",
+      "story": "Back north flesh commands \"Bay!\" sharply behind!",
+      "primitives": []
+    },
+    {
+      "id": 422,
+      "character": "比",
+      "pinyin": "bi",
+      "tone": 3,
+      "meaning": "to compare",
+      "story": "To compare two spoons bend down drooping saying \"Bee\"!",
+      "primitives": []
+    },
+    {
+      "id": 423,
+      "character": "昆",
+      "pinyin": "kun",
+      "tone": 1,
+      "meaning": "Descendants",
+      "story": "Descendants sun compare sing \"Koon!\" cheerfully many!",
+      "primitives": []
+    },
+    {
+      "id": 424,
+      "character": "混",
+      "pinyin": "hun",
+      "tone": 4,
+      "meaning": "to mix",
+      "story": "To mix water descendants yells \"Hoon!\" sharply blending!",
+      "primitives": []
+    },
+    {
+      "id": 425,
+      "character": "皆",
+      "pinyin": "jie",
+      "tone": 1,
+      "meaning": "all",
+      "story": "All compare white sings \"Jieh!\" cheerfully everyone!",
+      "primitives": []
+    },
+    {
+      "id": 426,
+      "character": "此",
+      "pinyin": "ci",
+      "tone": 3,
+      "meaning": "this",
+      "story": "This stop spoon bends down drooping saying \"Tsih\"!",
+      "primitives": []
+    },
+    {
+      "id": 427,
+      "character": "些",
+      "pinyin": "xie",
+      "tone": 1,
+      "meaning": "somewhat",
+      "story": "Somewhat this two sings \"Shieh!\" cheerfully some!",
+      "primitives": []
+    },
+    {
+      "id": 428,
+      "character": "它",
+      "pinyin": "tuo",
+      "tone": 1,
+      "meaning": "it",
+      "story": "It roof spoon sings \"Twoh!\" cheerfully neutral!",
+      "primitives": []
+    },
+    {
+      "id": 429,
+      "character": "旨",
+      "pinyin": "zhi",
+      "tone": 3,
+      "meaning": "Purpose",
+      "story": "Purpose sun spoon bends down drooping saying \"Zhi\"!",
+      "primitives": []
+    },
+    {
+      "id": 430,
+      "character": "脂",
+      "pinyin": "zhi",
+      "tone": 1,
+      "meaning": "Grease",
+      "story": "Grease flesh purpose sings \"Zhi!\" cheerfully fatty!",
+      "primitives": []
+    },
+    {
+      "id": 431,
+      "character": "每",
+      "pinyin": "mei",
+      "tone": 3,
+      "meaning": "every",
+      "story": "Every mother top bends down drooping saying \"May\"!",
+      "primitives": []
+    },
+    {
+      "id": 432,
+      "character": "梅",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "Small Plum",
+      "story": "Small plum tree every questions \"May? Ripe?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

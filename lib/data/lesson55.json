@@ -1,0 +1,167 @@
+{
+  "lesson": 55,
+  "characters": [
+    {
+      "id": 1077,
+      "character": "儘",
+      "pinyin": "Jin",
+      "tone": 5,
+      "meaning": "to the utmost",
+      "story": "to the utmost bends down drooping saying \"Jin\"!",
+      "primitives": []
+    },
+    {
+      "id": 1078,
+      "character": "蓋",
+      "pinyin": "Gai",
+      "tone": 5,
+      "meaning": "Lid",
+      "story": "Lid commands \"Gai!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1079,
+      "character": "溫",
+      "pinyin": "Wen",
+      "tone": 5,
+      "meaning": "temperature",
+      "story": "temperature sings \"Wen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1080,
+      "character": "監",
+      "pinyin": "Jian",
+      "tone": 5,
+      "meaning": "to supervise",
+      "story": "to supervise sings \"Jian!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1081,
+      "character": "籃",
+      "pinyin": "Lan",
+      "tone": 5,
+      "meaning": "Basket",
+      "story": "Basket questions \"Lan? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1082,
+      "character": "藍",
+      "pinyin": "Lan",
+      "tone": 5,
+      "meaning": "blue",
+      "story": "blue questions \"Lan? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1083,
+      "character": "銀",
+      "pinyin": "Yin",
+      "tone": 5,
+      "meaning": "Silver",
+      "story": "Silver questions \"Yin? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1084,
+      "character": "跟",
+      "pinyin": "Gen",
+      "tone": 5,
+      "meaning": "Heel",
+      "story": "Heel sings \"Gen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1085,
+      "character": "很",
+      "pinyin": "Hen",
+      "tone": 5,
+      "meaning": "very",
+      "story": "very bends down drooping saying \"Hen\"!",
+      "primitives": []
+    },
+    {
+      "id": 1086,
+      "character": "根",
+      "pinyin": "Gen",
+      "tone": 5,
+      "meaning": "Root",
+      "story": "Root sings \"Gen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1087,
+      "character": "即",
+      "pinyin": "Ji",
+      "tone": 5,
+      "meaning": "immediately",
+      "story": "immediately questions \"Ji? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1088,
+      "character": "節",
+      "pinyin": "Jie",
+      "tone": 5,
+      "meaning": "Holiday",
+      "story": "Holiday questions \"Jie? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1089,
+      "character": "退",
+      "pinyin": "Tui",
+      "tone": 5,
+      "meaning": "to retreat",
+      "story": "to retreat commands \"Tui!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1090,
+      "character": "腿",
+      "pinyin": "Tui",
+      "tone": 5,
+      "meaning": "Leg",
+      "story": "Leg bends down drooping saying \"Tui\"!",
+      "primitives": []
+    },
+    {
+      "id": 1091,
+      "character": "限",
+      "pinyin": "Xian",
+      "tone": 5,
+      "meaning": "Limit",
+      "story": "Limit commands \"Xian!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 1092,
+      "character": "眼",
+      "pinyin": "Yan",
+      "tone": 5,
+      "meaning": "Eyelet",
+      "story": "Eyelet bends down drooping saying \"Yan\"!",
+      "primitives": []
+    },
+    {
+      "id": 1093,
+      "character": "良",
+      "pinyin": "Liang",
+      "tone": 5,
+      "meaning": "high-quality",
+      "story": "high-quality questions \"Liang? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1094,
+      "character": "浪",
+      "pinyin": "Lang",
+      "tone": 5,
+      "meaning": "Breakers",
+      "story": "Breakers commands \"Lang!\" yells!",
+      "primitives": []
+    }
+  ]
+}
