@@ -1,0 +1,59 @@
+{
+  "lesson": 1,
+  "characters": [
+    {
+      "id": 1,
+      "character": "一",
+      "pinyin": "yī",
+      "tone": 1,
+      "meaning": "one",
+      "story": "A single happy line sings \"Yeeee!\" at number one!",
+      "primitives": ["horizontal line"]
+    },
+    {
+      "id": 2,
+      "character": "二",
+      "pinyin": "èr",
+      "tone": 4,
+      "meaning": "two",
+      "story": "Two angry lines yell \"ERR!\" when you make a mistake!",
+      "primitives": ["horizontal line"]
+    },
+    {
+      "id": 3,
+      "character": "三",
+      "pinyin": "sān",
+      "tone": 1,
+      "meaning": "three",
+      "story": "Three cheerful lines sing \"Saaaan-shine\" together!",
+      "primitives": ["horizontal line"]
+    },
+    {
+      "id": 4,
+      "character": "四",
+      "pinyin": "sì",
+      "tone": 4,
+      "meaning": "four",
+      "story": "Inside the box, your four items command \"See this!\" sharply!",
+      "primitives": ["box", "items"]
+    },
+    {
+      "id": 5,
+      "character": "五",
+      "pinyin": "wǔ",
+      "tone": 3,
+      "meaning": "five",
+      "story": "Five fingers bend down drooping as you say \"Woo\" sadly!",
+      "primitives": ["fingers"]
+    },
+    {
+      "id": 6,
+      "character": "六",
+      "pinyin": "liù",
+      "tone": 4,
+      "meaning": "six",
+      "story": "A lid over eight yells \"Leo!\" for six sharp reasons!",
+      "primitives": ["lid", "eight"]
+    }
+  ]
+}
