@@ -1,0 +1,221 @@
+{
+  "lesson": 65,
+  "characters": [
+    {
+      "id": 1542,
+      "character": "寡",
+      "pinyin": "gua",
+      "tone": 3,
+      "meaning": "widowed",
+      "story": "Widowed house divide bends down drooping \"Gwah\" - alone bereaved!",
+      "primitives": []
+    },
+    {
+      "id": 1543,
+      "character": "棚",
+      "pinyin": "peng",
+      "tone": 2,
+      "meaning": "shed",
+      "story": "Shed tree friend questions \"Pung? Shelter?\" curiously - awning hut!",
+      "primitives": []
+    },
+    {
+      "id": 1544,
+      "character": "柏",
+      "pinyin": "bai",
+      "tone": 3,
+      "meaning": "cypress",
+      "story": "Cypress tree white bends down drooping \"Bigh\" - evergreen tree!",
+      "primitives": []
+    },
+    {
+      "id": 1545,
+      "character": "槓",
+      "pinyin": "gang",
+      "tone": 4,
+      "meaning": "thick stick",
+      "story": "Thick stick tree work commands sharply \"Gahng!\" - pole bar!",
+      "primitives": []
+    },
+    {
+      "id": 1546,
+      "character": "朵",
+      "pinyin": "duo",
+      "tone": 3,
+      "meaning": "flouds",
+      "story": "Flouds flower bud bends down drooping \"Dwoh\" - blossoms!",
+      "primitives": []
+    },
+    {
+      "id": 1547,
+      "character": "杜",
+      "pinyin": "du",
+      "tone": 4,
+      "meaning": "prevent",
+      "story": "Prevent tree earth commands sharply \"Doo!\" - stop block!",
+      "primitives": []
+    },
+    {
+      "id": 1548,
+      "character": "桂",
+      "pinyin": "gui",
+      "tone": 4,
+      "meaning": "cassia-bark tree",
+      "story": "Cassia-bark tree tree cinnamon commands sharply \"Gway!\" - laurel fragrant!",
+      "primitives": []
+    },
+    {
+      "id": 1549,
+      "character": "椅",
+      "pinyin": "yi",
+      "tone": 3,
+      "meaning": "chair",
+      "story": "Chair tree strange bends down drooping \"Yee\" - seat furniture!",
+      "primitives": []
+    },
+    {
+      "id": 1550,
+      "character": "杰",
+      "pinyin": "jie",
+      "tone": 2,
+      "meaning": "hero",
+      "story": "Hero tree outstanding questions \"Jyeh? Exceptional?\" curiously - heroic figure!",
+      "primitives": []
+    },
+    {
+      "id": 1551,
+      "character": "櫻",
+      "pinyin": "ying",
+      "tone": 1,
+      "meaning": "cherry",
+      "story": "Cherry tree baby sings \"Ying!\" cheerfully - blossom tree!",
+      "primitives": []
+    },
+    {
+      "id": 1552,
+      "character": "梢",
+      "pinyin": "shao",
+      "tone": 1,
+      "meaning": "treetops",
+      "story": "Treetops tree whistle sings \"Shao!\" cheerfully - crown branches!",
+      "primitives": []
+    },
+    {
+      "id": 1553,
+      "character": "桐",
+      "pinyin": "tong",
+      "tone": 2,
+      "meaning": "paulownia",
+      "story": "Paulownia tree same questions \"Tohng? Lumber?\" curiously - wood tree!",
+      "primitives": []
+    },
+    {
+      "id": 1554,
+      "character": "宋",
+      "pinyin": "song",
+      "tone": 4,
+      "meaning": "Song (like the dynasty)",
+      "story": "Song house wood commands sharply \"Sohng!\" - dynasty period!",
+      "primitives": []
+    },
+    {
+      "id": 1555,
+      "character": "淋",
+      "pinyin": "lin",
+      "tone": 2,
+      "meaning": "drench",
+      "story": "Drench water forest questions \"Lin? Soak?\" curiously - pouring rain!",
+      "primitives": []
+    },
+    {
+      "id": 1556,
+      "character": "焚",
+      "pinyin": "fen",
+      "tone": 2,
+      "meaning": "burn",
+      "story": "Burn fire forest questions \"Fen? Blaze?\" curiously - incinerate!",
+      "primitives": []
+    },
+    {
+      "id": 1557,
+      "character": "昧",
+      "pinyin": "mei",
+      "tone": 4,
+      "meaning": "obscure",
+      "story": "Obscure sun not commands sharply \"May!\" - dark vague!",
+      "primitives": []
+    },
+    {
+      "id": 1558,
+      "character": "朱",
+      "pinyin": "zhu",
+      "tone": 1,
+      "meaning": "vermillion",
+      "story": "Vermillion tree dot sings \"Joo!\" cheerfully - red cinnabar!",
+      "primitives": []
+    },
+    {
+      "id": 1559,
+      "character": "株",
+      "pinyin": "zhu",
+      "tone": 1,
+      "meaning": "tree trunk",
+      "story": "Tree trunk tree vermillion sings \"Joo!\" cheerfully - stem stump!",
+      "primitives": []
+    },
+    {
+      "id": 1560,
+      "character": "樑",
+      "pinyin": "liang",
+      "tone": 2,
+      "meaning": "roof beam",
+      "story": "Roof beam tree good questions \"Lyahng? Support?\" curiously - rafter!",
+      "primitives": []
+    },
+    {
+      "id": 1561,
+      "character": "碟",
+      "pinyin": "die",
+      "tone": 2,
+      "meaning": "saucer",
+      "story": "Saucer stone family tree questions \"Dyeh? Plate?\" curiously - flying saucer dish!",
+      "primitives": []
+    },
+    {
+      "id": 1562,
+      "character": "萌",
+      "pinyin": "meng",
+      "tone": 2,
+      "meaning": "bud",
+      "story": "Bud flowers bright questions \"Mung? Sprout?\" curiously - germinate!",
+      "primitives": []
+    },
+    {
+      "id": 1563,
+      "character": "苛",
+      "pinyin": "ke",
+      "tone": 1,
+      "meaning": "exacting",
+      "story": "Exacting flowers can sings \"Kuh!\" cheerfully - harsh strict!",
+      "primitives": []
+    },
+    {
+      "id": 1564,
+      "character": "膜",
+      "pinyin": "mo",
+      "tone": 2,
+      "meaning": "membrane",
+      "story": "Membrane body film questions \"Mwo? Thin layer?\" curiously - tissue!",
+      "primitives": []
+    },
+    {
+      "id": 1565,
+      "character": "寞",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "solitary",
+      "story": "Solitary house membrane commands sharply \"Mwo!\" - lonely desolate!",
+      "primitives": []
+    }
+  ]
+}

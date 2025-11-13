@@ -1,0 +1,608 @@
+{
+  "lesson": 110,
+  "characters": [
+    {
+      "id": 2912,
+      "character": "舅",
+      "pinyin": "jiu",
+      "tone": 4,
+      "meaning": "mother's brother",
+      "story": "\"JYOH!\" he commands sharply - mother's brother, maternal uncle!",
+      "primitives": []
+    },
+    {
+      "id": 2913,
+      "character": "樁",
+      "pinyin": "zhuang",
+      "tone": 1,
+      "meaning": "stake",
+      "story": "\"JWAHNG!\" the tree sings cheerfully - a stake, post, and pile!",
+      "primitives": []
+    },
+    {
+      "id": 2914,
+      "character": "鑿",
+      "pinyin": "zao",
+      "tone": 2,
+      "meaning": "bore a hole",
+      "story": "\"DZAO?\" the side by side, needle, mortar, missile, and metal question curiously - to bore a hole, drill, and chisel?",
+      "primitives": []
+    },
+    {
+      "id": 2915,
+      "character": "鼠",
+      "pinyin": "shu",
+      "tone": 3,
+      "meaning": "mouse",
+      "story": "The rodent bends down drooping - a mouse, rat, and rodent.",
+      "primitives": []
+    },
+    {
+      "id": 2916,
+      "character": "竄",
+      "pinyin": "cuan",
+      "tone": 4,
+      "meaning": "scurry",
+      "story": "\"TSWAN!\" the hole commands sharply - to scurry, flee, and push the chest!",
+      "primitives": []
+    },
+    {
+      "id": 2917,
+      "character": "臘",
+      "pinyin": "la",
+      "tone": 4,
+      "meaning": "dried meat",
+      "story": "\"LAH!\" the flesh, mouse, and hairs command sharply - dried meat, cured and preserved!",
+      "primitives": []
+    },
+    {
+      "id": 2918,
+      "character": "蠟",
+      "pinyin": "la",
+      "tone": 4,
+      "meaning": "wax",
+      "story": "\"LAH!\" the insect commands sharply - wax, beeswax, and candle!",
+      "primitives": []
+    },
+    {
+      "id": 2919,
+      "character": "獵",
+      "pinyin": "lie",
+      "tone": 4,
+      "meaning": "hunt",
+      "story": "\"LYEH!\" the dog commands sharply - to hunt, chase game!",
+      "primitives": []
+    },
+    {
+      "id": 2920,
+      "character": "艘",
+      "pinyin": "sou",
+      "tone": 1,
+      "meaning": "vessels",
+      "story": "\"SOH!\" the boat sings cheerfully - vessels, ships to measure!",
+      "primitives": []
+    },
+    {
+      "id": 2921,
+      "character": "嫂",
+      "pinyin": "sao",
+      "tone": 3,
+      "meaning": "elder brother's wife",
+      "story": "The woman bends down drooping - elder brother's wife, sister-in-law!",
+      "primitives": []
+    },
+    {
+      "id": 2922,
+      "character": "瘦",
+      "pinyin": "shou",
+      "tone": 4,
+      "meaning": "emaciated",
+      "story": "\"SHOH!\" it commands sharply - emaciated, thin, and skinny!",
+      "primitives": []
+    },
+    {
+      "id": 2923,
+      "character": "搜",
+      "pinyin": "sou",
+      "tone": 1,
+      "meaning": "search",
+      "story": "\"SOH!\" the detective's fingers sing cheerfully while searching through the drawers for clues!",
+      "primitives": []
+    },
+    {
+      "id": 2924,
+      "character": "稻",
+      "pinyin": "dao",
+      "tone": 4,
+      "meaning": "unhulled rice",
+      "story": "\"DAO!\" the farmer commands sharply, scooping up wild unhulled rice from the paddy!",
+      "primitives": []
+    },
+    {
+      "id": 2925,
+      "character": "蹈",
+      "pinyin": "dao",
+      "tone": 3,
+      "meaning": "tread",
+      "story": "The wooden leg bends down drooping as he treads carefully across the muddy path.",
+      "primitives": []
+    },
+    {
+      "id": 2926,
+      "character": "滔",
+      "pinyin": "tao",
+      "tone": 1,
+      "meaning": "surging",
+      "story": "\"TAO!\" the surging water sings cheerfully, rushing like a scoop pouring endlessly!",
+      "primitives": []
+    },
+    {
+      "id": 2927,
+      "character": "陷",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "get stuck",
+      "story": "\"SHYEN!\" she commands sharply when her car got stuck in the pinnacle's mud trap!",
+      "primitives": []
+    },
+    {
+      "id": 2928,
+      "character": "焰",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "flame",
+      "story": "\"YEN!\" the flame commands sharply, leaping high from the campfire!",
+      "primitives": []
+    },
+    {
+      "id": 2929,
+      "character": "餡",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "filling",
+      "story": "\"SHYEN!\" the chef commands sharply, spooning dumpling filling into the pothole-shaped dough!",
+      "primitives": []
+    },
+    {
+      "id": 2930,
+      "character": "輛",
+      "pinyin": "liang",
+      "tone": 4,
+      "meaning": "vehicles",
+      "story": "\"LYAHNG!\" he commands sharply, counting the vehicles lined up on the road!",
+      "primitives": []
+    },
+    {
+      "id": 2931,
+      "character": "瞞",
+      "pinyin": "man",
+      "tone": 2,
+      "meaning": "dissemble",
+      "story": "\"MAN?\" her twenty eyeballs question curiously - is she trying to dissemble and hide the truth from the yoke?",
+      "primitives": []
+    },
+    {
+      "id": 2932,
+      "character": "爽",
+      "pinyin": "shuang",
+      "tone": 3,
+      "meaning": "frank",
+      "story": "The St. Bernard dog bends down drooping after stitching - he's frank about his exhaustion.",
+      "primitives": []
+    },
+    {
+      "id": 2933,
+      "character": "綴",
+      "pinyin": "zhui",
+      "tone": 4,
+      "meaning": "embellish",
+      "story": "\"JWAY!\" the seamstress commands sharply, using threads to embellish the stitching on the dress!",
+      "primitives": []
+    },
+    {
+      "id": 2934,
+      "character": "碰",
+      "pinyin": "peng",
+      "tone": 4,
+      "meaning": "bump",
+      "story": "\"PUNG!\" the stone commands sharply when they bump into the wall!",
+      "primitives": []
+    },
+    {
+      "id": 2935,
+      "character": "挪",
+      "pinyin": "nuo",
+      "tone": 2,
+      "meaning": "transfer",
+      "story": "\"NWOH?\" the fingers question curiously - should we transfer the prisoner from Alcatraz?",
+      "primitives": []
+    },
+    {
+      "id": 2936,
+      "character": "誣",
+      "pinyin": "wu",
+      "tone": 1,
+      "meaning": "charge falsely",
+      "story": "\"WOO!\" the lawyer's words sing cheerfully though he'd charge falsely to win the case!",
+      "primitives": []
+    },
+    {
+      "id": 2937,
+      "character": "譽",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "reputation",
+      "story": "\"YOO!\" they command sharply when offering words of praise for his reputation!",
+      "primitives": []
+    },
+    {
+      "id": 2938,
+      "character": "嶼",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "islet",
+      "story": "The mountain bends down drooping to form a small islet in the bay.",
+      "primitives": []
+    },
+    {
+      "id": 2939,
+      "character": "傻",
+      "pinyin": "sha",
+      "tone": 3,
+      "meaning": "thick-headed",
+      "story": "The person bends down drooping over the farmer's almanac with animal legs - he's too thick-headed to understand!",
+      "primitives": []
+    },
+    {
+      "id": 2940,
+      "character": "磚",
+      "pinyin": "zhuan",
+      "tone": 1,
+      "meaning": "brick",
+      "story": "\"JWAN!\" the mason sings cheerfully, laying each brick in the stone wall!",
+      "primitives": []
+    },
+    {
+      "id": 2941,
+      "character": "惠",
+      "pinyin": "hui",
+      "tone": 4,
+      "meaning": "favor",
+      "story": "\"HWAY!\" my heart commands sharply - will you do me a favor?",
+      "primitives": []
+    },
+    {
+      "id": 2942,
+      "character": "穗",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "ear of grain",
+      "story": "\"SWAY!\" the wild rice commands sharply, each ear of grain swaying in the favor of wind!",
+      "primitives": []
+    },
+    {
+      "id": 2943,
+      "character": "曠",
+      "pinyin": "kuang",
+      "tone": 4,
+      "meaning": "expansive",
+      "story": "\"KWAHNG!\" the sun commands sharply over the expansive internet of wilderness!",
+      "primitives": []
+    },
+    {
+      "id": 2944,
+      "character": "礦",
+      "pinyin": "kuang",
+      "tone": 4,
+      "meaning": "mine",
+      "story": "\"KWAHNG!\" the stone commands sharply when they discover the mine shaft!",
+      "primitives": []
+    },
+    {
+      "id": 2945,
+      "character": "擴",
+      "pinyin": "kuo",
+      "tone": 4,
+      "meaning": "enlarge",
+      "story": "\"KWOH!\" the fingers command sharply on the screen to enlarge the photo!",
+      "primitives": []
+    },
+    {
+      "id": 2946,
+      "character": "聰",
+      "pinyin": "cong",
+      "tone": 1,
+      "meaning": "smart",
+      "story": "\"TSUNG!\" the ear sings cheerfully - listen and you'll be smart!",
+      "primitives": []
+    },
+    {
+      "id": 2947,
+      "character": "蔥",
+      "pinyin": "cong",
+      "tone": 1,
+      "meaning": "onion",
+      "story": "\"TSUNG!\" the flower sings cheerfully, following the GPS in my heart to find onions!",
+      "primitives": []
+    },
+    {
+      "id": 2948,
+      "character": "膽",
+      "pinyin": "dan",
+      "tone": 3,
+      "meaning": "gall bladder",
+      "story": "The flesh bends down drooping during surgery to remove the gall bladder.",
+      "primitives": []
+    },
+    {
+      "id": 2949,
+      "character": "瞻",
+      "pinyin": "zhan",
+      "tone": 1,
+      "meaning": "look upward",
+      "story": "\"JAN!\" the eyeballs sing cheerfully to the snitch - look upward at the stars!",
+      "primitives": []
+    },
+    {
+      "id": 2950,
+      "character": "摟",
+      "pinyin": "lou",
+      "tone": 3,
+      "meaning": "cuddle",
+      "story": "The fingers bend down drooping like the flying Dutchman to cuddle the baby.",
+      "primitives": []
+    },
+    {
+      "id": 2951,
+      "character": "屢",
+      "pinyin": "lü",
+      "tone": 3,
+      "meaning": "time and again",
+      "story": "The flag bends down drooping like the flying Dutchman - time and again the villagers are harmed.",
+      "primitives": []
+    },
+    {
+      "id": 2952,
+      "character": "濁",
+      "pinyin": "zhuo",
+      "tone": 2,
+      "meaning": "turbid",
+      "story": "\"JWOH?\" the water questions curiously through the butterfly net - is it turbid or clear?",
+      "primitives": []
+    },
+    {
+      "id": 2953,
+      "character": "燭",
+      "pinyin": "zhu",
+      "tone": 2,
+      "meaning": "candle",
+      "story": "\"JOO?\" the fire questions curiously - is this a candle or a torch?",
+      "primitives": []
+    },
+    {
+      "id": 2954,
+      "character": "觸",
+      "pinyin": "chu",
+      "tone": 4,
+      "meaning": "touch",
+      "story": "\"CHOO!\" she commands sharply - don't touch the hot stove!",
+      "primitives": []
+    },
+    {
+      "id": 2955,
+      "character": "囑",
+      "pinyin": "zhu",
+      "tone": 3,
+      "meaning": "admonish",
+      "story": "The mouth bends down drooping as father admonished me before leaving.",
+      "primitives": []
+    },
+    {
+      "id": 2956,
+      "character": "欄",
+      "pinyin": "lan",
+      "tone": 2,
+      "meaning": "railing",
+      "story": "\"LAN?\" the tree questions curiously - will it become a railing for the deck?",
+      "primitives": []
+    },
+    {
+      "id": 2957,
+      "character": "攔",
+      "pinyin": "lan",
+      "tone": 2,
+      "meaning": "impede",
+      "story": "\"LAN?\" the fingers question curiously like a gargoyle - why do you impede my path?",
+      "primitives": []
+    },
+    {
+      "id": 2958,
+      "character": "蹤",
+      "pinyin": "zong",
+      "tone": 1,
+      "meaning": "tracks",
+      "story": "\"DZUNG!\" the lower leg sings cheerfully, following the tracks through the woods!",
+      "primitives": []
+    },
+    {
+      "id": 2959,
+      "character": "聳",
+      "pinyin": "song",
+      "tone": 3,
+      "meaning": "shrug",
+      "story": "The ear bends down drooping as I follow his shrug - he doesn't know either.",
+      "primitives": []
+    },
+    {
+      "id": 2960,
+      "character": "劑",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "pharmaceutical",
+      "story": "\"JEE!\" the doctor commands sharply, prescribing a pharmaceutical remedy!",
+      "primitives": []
+    },
+    {
+      "id": 2961,
+      "character": "齋",
+      "pinyin": "zhai",
+      "tone": 1,
+      "meaning": "abstain from food",
+      "story": "\"JAI!\" the mirror image sings cheerfully though small - we abstain from food during the fast!",
+      "primitives": []
+    },
+    {
+      "id": 2962,
+      "character": "擠",
+      "pinyin": "ji",
+      "tone": 3,
+      "meaning": "squeeze",
+      "story": "The fingers bend down drooping in the mirror image trying to squeeze into the crowded subway.",
+      "primitives": []
+    },
+    {
+      "id": 2963,
+      "character": "鈕",
+      "pinyin": "niu",
+      "tone": 3,
+      "meaning": "push button",
+      "story": "The metal push button bends down drooping when pressed.",
+      "primitives": []
+    },
+    {
+      "id": 2964,
+      "character": "羞",
+      "pinyin": "xiu",
+      "tone": 1,
+      "meaning": "shy",
+      "story": "\"SHYOH!\" the sheep sings cheerfully despite being shy at the petting zoo!",
+      "primitives": []
+    },
+    {
+      "id": 2965,
+      "character": "紐",
+      "pinyin": "niu",
+      "tone": 3,
+      "meaning": "New York",
+      "story": "The thread bends down drooping in New York's garment district.",
+      "primitives": []
+    },
+    {
+      "id": 2966,
+      "character": "脾",
+      "pinyin": "pi",
+      "tone": 2,
+      "meaning": "spleen",
+      "story": "\"PEE?\" the lowly flesh questions curiously - is that the spleen or another organ?",
+      "primitives": []
+    },
+    {
+      "id": 2967,
+      "character": "啤",
+      "pinyin": "pi",
+      "tone": 2,
+      "meaning": "beer",
+      "story": "\"PEE?\" the mouth questions curiously - is there beer at the party?",
+      "primitives": []
+    },
+    {
+      "id": 2968,
+      "character": "碑",
+      "pinyin": "bei",
+      "tone": 1,
+      "meaning": "stele",
+      "story": "\"BAY!\" the lowly stone sings cheerfully - an ancient stele monument!",
+      "primitives": []
+    },
+    {
+      "id": 2969,
+      "character": "赫",
+      "pinyin": "he",
+      "tone": 4,
+      "meaning": "illustrious",
+      "story": "\"HUH!\" he commands sharply with illustrious authority!",
+      "primitives": []
+    },
+    {
+      "id": 2970,
+      "character": "嚇",
+      "pinyin": "xia",
+      "tone": 4,
+      "meaning": "terrify",
+      "story": "\"SHYAH!\" the mouth commands sharply with illustrious words to terrify the children!",
+      "primitives": []
+    },
+    {
+      "id": 2971,
+      "character": "奕",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "radiating vitality",
+      "story": "\"YEE!\" the apple and St. Bernard command sharply, radiating vitality and energy!",
+      "primitives": []
+    },
+    {
+      "id": 2972,
+      "character": "跡",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "indication",
+      "story": "\"JEE!\" the wooden leg commands sharply - an indication of where he walked!",
+      "primitives": []
+    },
+    {
+      "id": 2973,
+      "character": "辭",
+      "pinyin": "ci",
+      "tone": 2,
+      "meaning": "phraseology",
+      "story": "\"TSIH?\" he questions curiously about the phraseology in the contract.",
+      "primitives": []
+    },
+    {
+      "id": 2974,
+      "character": "龜",
+      "pinyin": "gui",
+      "tone": 1,
+      "meaning": "tortoise",
+      "story": "\"GWAY!\" the tortoise sings cheerfully, slowly crossing the road!",
+      "primitives": []
+    },
+    {
+      "id": 2975,
+      "character": "繩",
+      "pinyin": "sheng",
+      "tone": 2,
+      "meaning": "rope",
+      "story": "\"SHUNG?\" the thread questions curiously - is this rope strong enough to climb?",
+      "primitives": []
+    },
+    {
+      "id": 2976,
+      "character": "蠅",
+      "pinyin": "ying",
+      "tone": 2,
+      "meaning": "flies",
+      "story": "\"YING?\" the insect questions curiously like a tortoise - are those flies buzzing around?",
+      "primitives": []
+    },
+    {
+      "id": 2977,
+      "character": "蝴",
+      "pinyin": "hu",
+      "tone": 2,
+      "meaning": "butterfly (front)",
+      "story": "\"HOO?\" the insect questions curiously - the front part of the butterfly character.",
+      "primitives": []
+    },
+    {
+      "id": 2978,
+      "character": "蝶",
+      "pinyin": "die",
+      "tone": 2,
+      "meaning": "butterfly (back)",
+      "story": "\"DYEH?\" the insect questions curiously - the back part of the butterfly character.",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "lesson": 80,
+  "characters": [
+    {
+      "id": 1941,
+      "character": "銜",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "title",
+      "story": "Title metal boulevard questions \"Shyan? Rank?\" curiously - hold in mouth!",
+      "primitives": []
+    },
+    {
+      "id": 1942,
+      "character": "禿",
+      "pinyin": "tu",
+      "tone": 1,
+      "meaning": "bald",
+      "story": "Bald wild rice human legs sings \"Too!\" cheerfully - hairless!",
+      "primitives": []
+    },
+    {
+      "id": 1943,
+      "character": "頹",
+      "pinyin": "tui",
+      "tone": 2,
+      "meaning": "decrepit",
+      "story": "Decrepit bald head questions \"Tway? Decayed?\" curiously - dilapidated!",
+      "primitives": []
+    },
+    {
+      "id": 1944,
+      "character": "秒",
+      "pinyin": "miao",
+      "tone": 3,
+      "meaning": "seconds",
+      "story": "Seconds wheat few bends down drooping \"Myao\" - moment time unit!",
+      "primitives": []
+    },
+    {
+      "id": 1945,
+      "character": "稍",
+      "pinyin": "shao",
+      "tone": 1,
+      "meaning": "a little",
+      "story": "A little wheat whistle sings \"Shao!\" cheerfully - slightly somewhat!",
+      "primitives": []
+    },
+    {
+      "id": 1946,
+      "character": "穌",
+      "pinyin": "su",
+      "tone": 1,
+      "meaning": "rise again",
+      "story": "Rise again fish wild rice sings \"Soo!\" cheerfully - Jesus resurrect!",
+      "primitives": []
+    },
+    {
+      "id": 1947,
+      "character": "蘇",
+      "pinyin": "su",
+      "tone": 1,
+      "meaning": "revive",
+      "story": "Revive flowers fish sings \"Soo!\" cheerfully - recover awaken!",
+      "primitives": []
+    },
+    {
+      "id": 1948,
+      "character": "萎",
+      "pinyin": "wei",
+      "tone": 1,
+      "meaning": "wilt",
+      "story": "Wilt flowers committee sings \"Way!\" cheerfully - droop shrivel!",
+      "primitives": []
+    },
+    {
+      "id": 1949,
+      "character": "黏",
+      "pinyin": "nian",
+      "tone": 2,
+      "meaning": "sticky",
+      "story": "Sticky rumpelbrella tell fortunes questions \"Nyan? Adhesive?\" curiously - gluey!",
+      "primitives": []
+    },
+    {
+      "id": 1950,
+      "character": "黎",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "host",
+      "story": "Host rumpelbrella bound up eyedropper questions \"Lee? Masses?\" curiously - multitude people!",
+      "primitives": []
+    },
+    {
+      "id": 1951,
+      "character": "漆",
+      "pinyin": "qi",
+      "tone": 1,
+      "meaning": "wall paint",
+      "story": "Wall paint water Baron von Rumpelbrella sings \"Chee!\" cheerfully - lacquer paintball!",
+      "primitives": []
+    },
+    {
+      "id": 1952,
+      "character": "膝",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "knees",
+      "story": "Knees flesh Baron von Rumpelbrella sings \"Shee!\" cheerfully - leg joints!",
+      "primitives": []
+    },
+    {
+      "id": 1953,
+      "character": "稠",
+      "pinyin": "chou",
+      "tone": 2,
+      "meaning": "dense",
+      "story": "Dense wild rice lap questions \"Choh? Thick?\" curiously - concentrated!",
+      "primitives": []
+    },
+    {
+      "id": 1954,
+      "character": "稿",
+      "pinyin": "gao",
+      "tone": 3,
+      "meaning": "draft",
+      "story": "Draft wild rice high bends down drooping \"Gao\" - manuscript rough copy!",
+      "primitives": []
+    },
+    {
+      "id": 1955,
+      "character": "穎",
+      "pinyin": "ying",
+      "tone": 3,
+      "meaning": "clever",
+      "story": "Clever spoon wild rice head bends down drooping \"Ying\" - bright novel!",
+      "primitives": []
+    },
+    {
+      "id": 1956,
+      "character": "稅",
+      "pinyin": "shui",
+      "tone": 4,
+      "meaning": "tax",
+      "story": "Tax wild rice exchange commands sharply \"Shway!\" - levy duty!",
+      "primitives": []
+    },
+    {
+      "id": 1957,
+      "character": "稼",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "crops",
+      "story": "Crops wild rice house commands sharply \"Jyah!\" - grain plants!",
+      "primitives": []
+    },
+    {
+      "id": 1958,
+      "character": "菌",
+      "pinyin": "jun",
+      "tone": 1,
+      "meaning": "fungus",
+      "story": "Fungus flowers army sings \"Jyoon!\" cheerfully - bacteria mold!",
+      "primitives": []
+    },
+    {
+      "id": 1959,
+      "character": "稚",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "immature",
+      "story": "Immature wild rice young commands sharply \"Jir!\" - childish naive!",
+      "primitives": []
+    },
+    {
+      "id": 1960,
+      "character": "穫",
+      "pinyin": "huo",
+      "tone": 4,
+      "meaning": "harvest",
+      "story": "Harvest wild rice bird of paradise commands sharply \"Hwoh!\" - reap gather!",
+      "primitives": []
+    },
+    {
+      "id": 1961,
+      "character": "私",
+      "pinyin": "si",
+      "tone": 1,
+      "meaning": "private",
+      "story": "Private wheat elbow sings \"Suh!\" cheerfully - personal secret!",
+      "primitives": []
+    },
+    {
+      "id": 1962,
+      "character": "秩",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "order",
+      "story": "Order wild rice lose commands sharply \"Jir!\" - in sequence peace!",
+      "primitives": []
+    },
+    {
+      "id": 1963,
+      "character": "殼",
+      "pinyin": "ke",
+      "tone": 2,
+      "meaning": "shell",
+      "story": "Shell soldier crown one wind missile questions \"Kuh? Husk?\" curiously - casing!",
+      "primitives": []
+    },
+    {
+      "id": 1964,
+      "character": "穀",
+      "pinyin": "gu",
+      "tone": 3,
+      "meaning": "cereal",
+      "story": "Cereal soldier crown one wild rice missile bends down drooping \"Goo\" - grain!",
+      "primitives": []
+    },
+    {
+      "id": 1965,
+      "character": "鍬",
+      "pinyin": "qiao",
+      "tone": 1,
+      "meaning": "shovel",
+      "story": "Shovel metal autumn sings \"Chyao!\" cheerfully - digging spade!",
+      "primitives": []
+    },
+    {
+      "id": 1966,
+      "character": "揪",
+      "pinyin": "jiu",
+      "tone": 1,
+      "meaning": "hold tight",
+      "story": "Hold tight fingers autumn sings \"Jyoh!\" cheerfully - grasp collar!",
+      "primitives": []
+    },
+    {
+      "id": 1967,
+      "character": "梨",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "pear",
+      "story": "Pear tree profit questions \"Lee? Fruit?\" curiously - sweet juicy!",
+      "primitives": []
+    },
+    {
+      "id": 1968,
+      "character": "犁",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "plow",
+      "story": "Plow profit cow questions \"Lee? Till?\" curiously - farming hoe!",
+      "primitives": []
+    },
+    {
+      "id": 1969,
+      "character": "曆",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "calendar",
+      "story": "Calendar cliff sun commands sharply \"Lee!\" - dates schedule!",
+      "primitives": []
+    },
+    {
+      "id": 1970,
+      "character": "糕",
+      "pinyin": "gao",
+      "tone": 1,
+      "meaning": "cake",
+      "story": "Cake rice high sings \"Gao!\" cheerfully - pastry dessert!",
+      "primitives": []
+    },
+    {
+      "id": 1971,
+      "character": "糊",
+      "pinyin": "hu",
+      "tone": 2,
+      "meaning": "batter",
+      "story": "Batter rice old questions \"Hoo? Mix?\" curiously - paste unclear!",
+      "primitives": []
+    },
+    {
+      "id": 1972,
+      "character": "粘",
+      "pinyin": "nian",
+      "tone": 2,
+      "meaning": "glue",
+      "story": "Glue rice fortune-telling questions \"Nyan? Stick?\" curiously - adhesive bean buns!",
+      "primitives": []
+    },
+    {
+      "id": 1973,
+      "character": "糧",
+      "pinyin": "liang",
+      "tone": 2,
+      "meaning": "provisions",
+      "story": "Provisions rice good questions \"Lyahng? Food?\" curiously - cereals!",
+      "primitives": []
+    },
+    {
+      "id": 1974,
+      "character": "菊",
+      "pinyin": "ju",
+      "tone": 2,
+      "meaning": "chrysanthemum",
+      "story": "Chrysanthemum flower bound up rice questions \"Jyoo? Bloom?\" curiously - autumn flower!",
+      "primitives": []
+    },
+    {
+      "id": 1975,
+      "character": "糙",
+      "pinyin": "cao",
+      "tone": 1,
+      "meaning": "rough",
+      "story": "Rough rice create sings \"Tsao!\" cheerfully - coarse shingles!",
+      "primitives": []
+    },
+    {
+      "id": 1976,
+      "character": "粒",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "grain",
+      "story": "Grain rice stand commands sharply \"Lee!\" - particle seed!",
+      "primitives": []
+    },
+    {
+      "id": 1977,
+      "character": "燦",
+      "pinyin": "can",
+      "tone": 4,
+      "meaning": "brilliant",
+      "story": "Brilliant fire magic wand evening crotch rice commands sharply \"Tsahn!\" - radiant!",
+      "primitives": []
+    },
+    {
+      "id": 1978,
+      "character": "粉",
+      "pinyin": "fen",
+      "tone": 3,
+      "meaning": "powder",
+      "story": "Powder rice divide bends down drooping \"Fun\" - dust cosmetic!",
+      "primitives": []
+    },
+    {
+      "id": 1979,
+      "character": "瞇",
+      "pinyin": "mi",
+      "tone": 1,
+      "meaning": "squint",
+      "story": "Squint eye rice sings \"Mee!\" cheerfully - narrow eyes!",
+      "primitives": []
+    },
+    {
+      "id": 1980,
+      "character": "幣",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "currency",
+      "story": "Currency towel Shredder commands sharply \"Bee!\" - money funds!",
+      "primitives": []
+    },
+    {
+      "id": 1981,
+      "character": "斃",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "die a violent death",
+      "story": "Die a violent death Shredder death commands sharply \"Bee!\" - execute kill!",
+      "primitives": []
+    },
+    {
+      "id": 1982,
+      "character": "蔽",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "shelter",
+      "story": "Shelter flowers execute commands sharply \"Bee!\" - cover conceal!",
+      "primitives": []
+    },
+    {
+      "id": 1983,
+      "character": "撇",
+      "pinyin": "pie",
+      "tone": 1,
+      "meaning": "cast aside",
+      "story": "Cast aside hand separate sings \"Pyeh!\" cheerfully - abandon left-handed!",
+      "primitives": []
+    },
+    {
+      "id": 1984,
+      "character": "弊",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "fraud",
+      "story": "Fraud Shredder towel commands sharply \"Bee!\" - corruption abuse!",
+      "primitives": []
+    },
+    {
+      "id": 1985,
+      "character": "筍",
+      "pinyin": "sun",
+      "tone": 3,
+      "meaning": "bamboo shoot",
+      "story": "Bamboo shoot bamboo ten days bends down drooping \"Swun\" - edible sprout!",
+      "primitives": []
+    },
+    {
+      "id": 1986,
+      "character": "筒",
+      "pinyin": "tong",
+      "tone": 3,
+      "meaning": "tube",
+      "story": "Tube bamboo same bends down drooping \"Tohng\" - cylinder pipe!",
+      "primitives": []
+    },
+    {
+      "id": 1987,
+      "character": "築",
+      "pinyin": "zhu",
+      "tone": 2,
+      "meaning": "construct",
+      "story": "Construct bamboo I-beam ordinary tree questions \"Joo? Build?\" curiously - erect!",
+      "primitives": []
+    },
+    {
+      "id": 1988,
+      "character": "笨",
+      "pinyin": "ben",
+      "tone": 4,
+      "meaning": "stupid",
+      "story": "Stupid bamboo root commands sharply \"Bun!\" - dumb clumsy!",
+      "primitives": []
+    },
+    {
+      "id": 1989,
+      "character": "箭",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "arrow",
+      "story": "Arrow bamboo in front commands sharply \"Jyan!\" - projectile shoot!",
+      "primitives": []
+    }
+  ]
+}

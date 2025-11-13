@@ -1,0 +1,500 @@
+{
+  "lesson": 55,
+  "characters": [
+    {
+      "id": 1446,
+      "character": "襲",
+      "pinyin": "xi",
+      "tone": 2,
+      "meaning": "to raid",
+      "story": "To raid dragon clothing questions \"Shee? Attack?\" curiously - inherit!",
+      "primitives": []
+    },
+    {
+      "id": 1447,
+      "character": "兒",
+      "pinyin": "er",
+      "tone": 2,
+      "meaning": "Youngster",
+      "story": "Youngster child legs questions \"Urr? Son?\" curiously - newborn babe!",
+      "primitives": []
+    },
+    {
+      "id": 1448,
+      "character": "舊",
+      "pinyin": "jiu",
+      "tone": 4,
+      "meaning": "old",
+      "story": "Old bird youngster commands sharply \"Jyo!\" - ancient former olden times!",
+      "primitives": []
+    },
+    {
+      "id": 1449,
+      "character": "寫",
+      "pinyin": "xie",
+      "tone": 3,
+      "meaning": "to write",
+      "story": "To write house bird bends down drooping \"Shyeh\" - compose draw sketch copy!",
+      "primitives": []
+    },
+    {
+      "id": 1450,
+      "character": "瀉",
+      "pinyin": "xie",
+      "tone": 4,
+      "meaning": "Diarrhea",
+      "story": "Diarrhea water write commands sharply \"Shyeh!\" - flow swiftly leak!",
+      "primitives": []
+    },
+    {
+      "id": 1451,
+      "character": "兩",
+      "pinyin": "liang",
+      "tone": 3,
+      "meaning": "dos",
+      "story": "Dos one inside bends down drooping \"Lyahng\" - two both pair couple!",
+      "primitives": []
+    },
+    {
+      "id": 1452,
+      "character": "倆",
+      "pinyin": "lia",
+      "tone": 3,
+      "meaning": "Duo",
+      "story": "Duo person dos bends down drooping \"Lyah\" - two both!",
+      "primitives": []
+    },
+    {
+      "id": 1453,
+      "character": "滿",
+      "pinyin": "man",
+      "tone": 3,
+      "meaning": "full",
+      "story": "Full water dos bends down drooping \"Mahn\" - filled satisfied Manchurian!",
+      "primitives": []
+    },
+    {
+      "id": 1454,
+      "character": "爾",
+      "pinyin": "er",
+      "tone": 3,
+      "meaning": "you  [literary]",
+      "story": "You literary small bow bends down drooping \"Urr\" - thou those let it be!",
+      "primitives": []
+    },
+    {
+      "id": 1455,
+      "character": "彌",
+      "pinyin": "mi",
+      "tone": 2,
+      "meaning": "to fill",
+      "story": "To fill bow you questions \"Mee? Full?\" curiously - more and more!",
+      "primitives": []
+    },
+    {
+      "id": 1456,
+      "character": "虛",
+      "pinyin": "xu",
+      "tone": 1,
+      "meaning": "false",
+      "story": "False tiger hill sings \"Shyoo!\" cheerfully - empty vain void!",
+      "primitives": []
+    },
+    {
+      "id": 1457,
+      "character": "聯",
+      "pinyin": "lian",
+      "tone": 2,
+      "meaning": "to unite",
+      "story": "To unite ear connection questions \"Lyan? Join?\" curiously - ally strung together!",
+      "primitives": []
+    },
+    {
+      "id": 1458,
+      "character": "關",
+      "pinyin": "guan",
+      "tone": 1,
+      "meaning": "to shut",
+      "story": "To shut gate unite sings \"Gwahn!\" cheerfully - close turn off connection!",
+      "primitives": []
+    },
+    {
+      "id": 1459,
+      "character": "那",
+      "pinyin": "na",
+      "tone": 4,
+      "meaning": "that",
+      "story": "That city owe commands sharply \"Nah!\" - that one those interrogative!",
+      "primitives": []
+    },
+    {
+      "id": 1460,
+      "character": "哪",
+      "pinyin": "na",
+      "tone": 3,
+      "meaning": "which?",
+      "story": "Which mouth that bends down drooping \"Nah\" - how where!",
+      "primitives": []
+    },
+    {
+      "id": 1461,
+      "character": "巫",
+      "pinyin": "wu",
+      "tone": 1,
+      "meaning": "Witch",
+      "story": "Witch person power sings \"Woo!\" cheerfully - sorceress!",
+      "primitives": []
+    },
+    {
+      "id": 1462,
+      "character": "靈",
+      "pinyin": "ling",
+      "tone": 2,
+      "meaning": "Spirit",
+      "story": "Spirit witch rain questions \"Ling? Soul?\" curiously - spiritual world spirits!",
+      "primitives": []
+    },
+    {
+      "id": 1463,
+      "character": "縣",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "County",
+      "story": "County eye thread commands sharply \"Shyan!\" - district prefecture!",
+      "primitives": []
+    },
+    {
+      "id": 1464,
+      "character": "懸",
+      "pinyin": "xuan",
+      "tone": 2,
+      "meaning": "to suspend",
+      "story": "To suspend heart county questions \"Shyuan? Hanging?\" curiously - dangle!",
+      "primitives": []
+    },
+    {
+      "id": 1465,
+      "character": "與",
+      "pinyin": "yu",
+      "tone": 3,
+      "meaning": "to offer",
+      "story": "To offer table hands bends down drooping \"Yoo\" - give grant bestow!",
+      "primitives": []
+    },
+    {
+      "id": 1466,
+      "character": "舉",
+      "pinyin": "ju",
+      "tone": 3,
+      "meaning": "to lift up",
+      "story": "To lift up offer hands bends down drooping \"Jyoo\" - hold up raise cite!",
+      "primitives": []
+    },
+    {
+      "id": 1467,
+      "character": "腦",
+      "pinyin": "nao",
+      "tone": 3,
+      "meaning": "Brain",
+      "story": "Brain body fierce bends down drooping \"Nao\" - mind thinking organ!",
+      "primitives": []
+    },
+    {
+      "id": 1468,
+      "character": "惱",
+      "pinyin": "nao",
+      "tone": 3,
+      "meaning": "Annoyed",
+      "story": "Annoyed heart brain bends down drooping \"Nao\" - mad vexed trouble!",
+      "primitives": []
+    },
+    {
+      "id": 1469,
+      "character": "專",
+      "pinyin": "zhuan",
+      "tone": 1,
+      "meaning": "Specialty",
+      "story": "Specialty one turn sings \"Jwahn!\" cheerfully - specialized expert particular!",
+      "primitives": []
+    },
+    {
+      "id": 1470,
+      "character": "傳",
+      "pinyin": "chuan",
+      "tone": 2,
+      "meaning": "to spread",
+      "story": "To spread person specialty questions \"Chwahn? Infect?\" curiously - transmit conduct!",
+      "primitives": []
+    },
+    {
+      "id": 1471,
+      "character": "轉",
+      "pinyin": "zhuan",
+      "tone": 4,
+      "meaning": "to rotate",
+      "story": "To rotate car specialty commands sharply \"Jwahn!\" - revolve turn circle!",
+      "primitives": []
+    },
+    {
+      "id": 1472,
+      "character": "團",
+      "pinyin": "tuan",
+      "tone": 2,
+      "meaning": "Troupe",
+      "story": "Troupe enclosure specialty questions \"Twahn? Regiment?\" curiously - group!",
+      "primitives": []
+    },
+    {
+      "id": 1473,
+      "character": "黃",
+      "pinyin": "huang",
+      "tone": 2,
+      "meaning": "yellow",
+      "story": "Yellow fields questions \"Hwahng? Golden?\" curiously - amber color!",
+      "primitives": []
+    },
+    {
+      "id": 1474,
+      "character": "廣",
+      "pinyin": "guang",
+      "tone": 3,
+      "meaning": "extensive",
+      "story": "Extensive building yellow bends down drooping \"Gwahng\" - numerous wide spread!",
+      "primitives": []
+    },
+    {
+      "id": 1475,
+      "character": "橫",
+      "pinyin": "heng",
+      "tone": 4,
+      "meaning": "horizontal",
+      "story": "Horizontal tree yellow commands sharply \"Hung!\" - across sideways!",
+      "primitives": []
+    },
+    {
+      "id": 1476,
+      "character": "窗",
+      "pinyin": "chuang",
+      "tone": 1,
+      "meaning": "Window",
+      "story": "Window hole chimney sings \"Chwahng!\" cheerfully - shutter opening!",
+      "primitives": []
+    },
+    {
+      "id": 1477,
+      "character": "總",
+      "pinyin": "zong",
+      "tone": 3,
+      "meaning": "general",
+      "story": "General thread public bends down drooping \"Dzohng\" - overall!",
+      "primitives": []
+    },
+    {
+      "id": 1478,
+      "character": "詹",
+      "pinyin": "zhan",
+      "tone": 1,
+      "meaning": "verbose",
+      "story": "Verbose words divination sings \"Jahn!\" cheerfully - talk too much!",
+      "primitives": []
+    },
+    {
+      "id": 1479,
+      "character": "擔",
+      "pinyin": "dan",
+      "tone": 4,
+      "meaning": "to assume",
+      "story": "To assume hand verbose commands sharply \"Dahn!\" - carry bear undertake shouldering!",
+      "primitives": []
+    },
+    {
+      "id": 1480,
+      "character": "數",
+      "pinyin": "shu",
+      "tone": 4,
+      "meaning": "Number",
+      "story": "Number rice assume commands sharply \"Shoo!\" - figure count calculate!",
+      "primitives": []
+    },
+    {
+      "id": 1481,
+      "character": "樓",
+      "pinyin": "lou",
+      "tone": 2,
+      "meaning": "Multistory Building",
+      "story": "Multistory building tree number questions \"Loh? Floors?\" curiously - watchtower!",
+      "primitives": []
+    },
+    {
+      "id": 1482,
+      "character": "獨",
+      "pinyin": "du",
+      "tone": 2,
+      "meaning": "alone",
+      "story": "Alone animal insect questions \"Doo? Single?\" curiously - independent sole!",
+      "primitives": []
+    },
+    {
+      "id": 1483,
+      "character": "屬",
+      "pinyin": "shu",
+      "tone": 3,
+      "meaning": "to belong to",
+      "story": "To belong to body insect bends down drooping \"Shoo\" - subordinate!",
+      "primitives": []
+    },
+    {
+      "id": 1484,
+      "character": "爛",
+      "pinyin": "lan",
+      "tone": 4,
+      "meaning": "spoiled",
+      "story": "Spoiled fire east commands sharply \"Lahn!\" - rotten decayed!",
+      "primitives": []
+    },
+    {
+      "id": 1485,
+      "character": "蘭",
+      "pinyin": "lan",
+      "tone": 2,
+      "meaning": "Orchid",
+      "story": "Orchid flowers east questions \"Lahn? Elegant?\" curiously - beautiful plant!",
+      "primitives": []
+    },
+    {
+      "id": 1486,
+      "character": "從",
+      "pinyin": "cong",
+      "tone": 2,
+      "meaning": "to follow",
+      "story": "To follow person person questions \"Tsohng? Obey?\" curiously - accompany!",
+      "primitives": []
+    },
+    {
+      "id": 1487,
+      "character": "縱",
+      "pinyin": "zong",
+      "tone": 4,
+      "meaning": "vertical",
+      "story": "Vertical thread follow commands sharply \"Dzohng!\" - north-south longitude indulge!",
+      "primitives": []
+    },
+    {
+      "id": 1488,
+      "character": "齊",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "identical",
+      "story": "Identical even uniform questions \"Chee? Equal?\" curiously - adjusted!",
+      "primitives": []
+    },
+    {
+      "id": 1489,
+      "character": "濟",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "to relieve",
+      "story": "To relieve water identical commands sharply \"Jee!\" - help aid finish!",
+      "primitives": []
+    },
+    {
+      "id": 1490,
+      "character": "丑",
+      "pinyin": "chou",
+      "tone": 3,
+      "meaning": "Clown",
+      "story": "Clown twist bends down drooping \"Choh\" - ox 1am-3am ugly comedian sign of cow!",
+      "primitives": []
+    },
+    {
+      "id": 1491,
+      "character": "扭",
+      "pinyin": "niu",
+      "tone": 3,
+      "meaning": "to twist",
+      "story": "To twist hand clown bends down drooping \"Nyoh\" - turn wring!",
+      "primitives": []
+    },
+    {
+      "id": 1492,
+      "character": "卑",
+      "pinyin": "bei",
+      "tone": 1,
+      "meaning": "lowly",
+      "story": "Lowly humble low sings \"Bay!\" cheerfully - base vulgar inferior!",
+      "primitives": []
+    },
+    {
+      "id": 1493,
+      "character": "牌",
+      "pinyin": "pai",
+      "tone": 2,
+      "meaning": "a Brand",
+      "story": "A brand cow lowly questions \"Pigh? Signboard?\" curiously - placard mahjong tiles!",
+      "primitives": []
+    },
+    {
+      "id": 1494,
+      "character": "號",
+      "pinyin": "hao",
+      "tone": 4,
+      "meaning": "Appellation",
+      "story": "Appellation mouth tiger commands sharply \"Hao!\" - name ship number nickname!",
+      "primitives": []
+    },
+    {
+      "id": 1495,
+      "character": "怪",
+      "pinyin": "guai",
+      "tone": 4,
+      "meaning": "peculiar",
+      "story": "Peculiar heart again commands sharply \"Gwigh!\" - strange unusual suspicious!",
+      "primitives": []
+    },
+    {
+      "id": 1496,
+      "character": "赤",
+      "pinyin": "chi",
+      "tone": 4,
+      "meaning": "crimson",
+      "story": "Crimson red fire commands sharply \"Chir!\" - scarlet bare naked!",
+      "primitives": []
+    },
+    {
+      "id": 1497,
+      "character": "亦",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "likewise",
+      "story": "Likewise head drop commands sharply \"Yee!\" - also too!",
+      "primitives": []
+    },
+    {
+      "id": 1498,
+      "character": "極",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "Extreme",
+      "story": "Extreme tree likewise questions \"Jee? Utmost?\" curiously - pole!",
+      "primitives": []
+    },
+    {
+      "id": 1499,
+      "character": "雜",
+      "pinyin": "za",
+      "tone": 2,
+      "meaning": "miscellaneous",
+      "story": "Miscellaneous collection questions \"Dzah? Mixed?\" curiously - blended various!",
+      "primitives": []
+    },
+    {
+      "id": 1500,
+      "character": "曰",
+      "pinyin": "yue",
+      "tone": 1,
+      "meaning": "sayeth",
+      "story": "Sayeth mouth speaks sings \"Yueh!\" cheerfully - older style say!",
+      "primitives": []
+    }
+  ]
+}

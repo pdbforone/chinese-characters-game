@@ -1,0 +1,77 @@
+{
+  "lesson": 72,
+  "characters": [
+    {
+      "id": 1640,
+      "character": "濺",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "splatter",
+      "story": "Splatter water see commands sharply \"Jyan!\" - splash spatter!",
+      "primitives": []
+    },
+    {
+      "id": 1641,
+      "character": "址",
+      "pinyin": "zhi",
+      "tone": 3,
+      "meaning": "address",
+      "story": "Address soil stop bends down drooping \"Jir\" - location site!",
+      "primitives": []
+    },
+    {
+      "id": 1642,
+      "character": "澀",
+      "pinyin": "se",
+      "tone": 4,
+      "meaning": "astringent",
+      "story": "Astringent water stop commands sharply \"Suh!\" - rough unsmooth Shibuya!",
+      "primitives": []
+    },
+    {
+      "id": 1643,
+      "character": "蘋",
+      "pinyin": "ping",
+      "tone": 2,
+      "meaning": "apple",
+      "story": "Apple flowers even questions \"Ping? Fruit?\" curiously - forbidden fruit!",
+      "primitives": []
+    },
+    {
+      "id": 1644,
+      "character": "赴",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "go to",
+      "story": "Go to walk divining rod commands sharply \"Foo!\" - attend proceed!",
+      "primitives": []
+    },
+    {
+      "id": 1645,
+      "character": "趟",
+      "pinyin": "tang",
+      "tone": 4,
+      "meaning": "trip",
+      "story": "Trip walk hall commands sharply \"Tahng!\" - journey round trip!",
+      "primitives": []
+    },
+    {
+      "id": 1646,
+      "character": "堤",
+      "pinyin": "ti",
+      "tone": 2,
+      "meaning": "dike",
+      "story": "Dike soil to be questions \"Tee? Dam?\" curiously - embankment levee!",
+      "primitives": []
+    },
+    {
+      "id": 1647,
+      "character": "鍵",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "keyboard keys",
+      "story": "Keyboard keys metal build commands sharply \"Jyan!\" - buttons typing!",
+      "primitives": []
+    }
+  ]
+}

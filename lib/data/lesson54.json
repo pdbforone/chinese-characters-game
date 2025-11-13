@@ -1,0 +1,113 @@
+{
+  "lesson": 54,
+  "characters": [
+    {
+      "id": 1434,
+      "character": "態",
+      "pinyin": "tai",
+      "tone": 4,
+      "meaning": "Attitude",
+      "story": "Attitude ability heart commands sharply \"Tigh!\" - manner bearing!",
+      "primitives": []
+    },
+    {
+      "id": 1435,
+      "character": "寅",
+      "pinyin": "yin",
+      "tone": 2,
+      "meaning": "Sign Of The Tiger",
+      "story": "Sign of the tiger roof hands questions \"Yin? 3am-5am?\" curiously - respect!",
+      "primitives": []
+    },
+    {
+      "id": 1436,
+      "character": "演",
+      "pinyin": "yan",
+      "tone": 3,
+      "meaning": "to perform",
+      "story": "To perform water tiger sign bends down drooping \"Yahn\" - practice act performance!",
+      "primitives": []
+    },
+    {
+      "id": 1437,
+      "character": "辰",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "Sign Of The Dragon",
+      "story": "Sign of the dragon morning commands sharply \"Chun?\" curiously - 7am-9am dragon hour!",
+      "primitives": []
+    },
+    {
+      "id": 1438,
+      "character": "晨",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "Morning",
+      "story": "Morning sun dragon sign questions \"Chun? Dawn?\" curiously - daybreak morrow!",
+      "primitives": []
+    },
+    {
+      "id": 1439,
+      "character": "農",
+      "pinyin": "nong",
+      "tone": 2,
+      "meaning": "Agriculture",
+      "story": "Agriculture morning bend questions \"Nohng? Farming?\" curiously - cultivating!",
+      "primitives": []
+    },
+    {
+      "id": 1440,
+      "character": "濃",
+      "pinyin": "nong",
+      "tone": 2,
+      "meaning": "concentrated",
+      "story": "Concentrated water agriculture questions \"Nohng? Thick?\" curiously - dense!",
+      "primitives": []
+    },
+    {
+      "id": 1441,
+      "character": "送",
+      "pinyin": "song",
+      "tone": 4,
+      "meaning": "to deliver",
+      "story": "To deliver road give commands sharply \"Sohng!\" - see off send dispatch!",
+      "primitives": []
+    },
+    {
+      "id": 1442,
+      "character": "鬼",
+      "pinyin": "gui",
+      "tone": 3,
+      "meaning": "Ghost",
+      "story": "Ghost spirit mask bends down drooping \"Gway\" - demon dead!",
+      "primitives": []
+    },
+    {
+      "id": 1443,
+      "character": "魔",
+      "pinyin": "mo",
+      "tone": 2,
+      "meaning": "Demon",
+      "story": "Demon hemp ghost questions \"Mwo? Devil?\" curiously - witch!",
+      "primitives": []
+    },
+    {
+      "id": 1444,
+      "character": "塊",
+      "pinyin": "kuai",
+      "tone": 4,
+      "meaning": "Lump",
+      "story": "Lump dirt ghost commands sharply \"Kwigh!\" - piece chunk clod dollar!",
+      "primitives": []
+    },
+    {
+      "id": 1445,
+      "character": "龍",
+      "pinyin": "long",
+      "tone": 2,
+      "meaning": "Dragon",
+      "story": "Dragon scales claws questions \"Lohng? Imperial?\" curiously - mythical beast!",
+      "primitives": []
+    }
+  ]
+}

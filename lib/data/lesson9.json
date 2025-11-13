@@ -1,0 +1,203 @@
+{
+  "lesson": 9,
+  "characters": [
+    {
+      "id": 169,
+      "character": "里",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "a Li",
+      "story": "A li of field and soil bends down drooping saying \"Lee\"!",
+      "primitives": []
+    },
+    {
+      "id": 170,
+      "character": "量",
+      "pinyin": "liang",
+      "tone": 4,
+      "meaning": "quantity",
+      "story": "Quantity of sun under li yells \"Lyang!\" sharply measuring!",
+      "primitives": []
+    },
+    {
+      "id": 171,
+      "character": "埋",
+      "pinyin": "mai",
+      "tone": 2,
+      "meaning": "to bury",
+      "story": "To bury soil in li questions \"Mai? Why underground?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 172,
+      "character": "黑",
+      "pinyin": "hei",
+      "tone": 1,
+      "meaning": "black",
+      "story": "Black fire and soil sing \"Hay!\" darkly but high!",
+      "primitives": []
+    },
+    {
+      "id": 173,
+      "character": "點",
+      "pinyin": "dian",
+      "tone": 3,
+      "meaning": "Spot",
+      "story": "A spot of black divination bends down drooping saying \"Dian\"!",
+      "primitives": []
+    },
+    {
+      "id": 174,
+      "character": "墨",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "Black Ink",
+      "story": "Black ink soil commands \"Mwoh!\" sharply and dark!",
+      "primitives": []
+    },
+    {
+      "id": 175,
+      "character": "冒",
+      "pinyin": "mao",
+      "tone": 4,
+      "meaning": "to risk",
+      "story": "To risk with sun eye covered yells \"Mao!\" sharply daring!",
+      "primitives": []
+    },
+    {
+      "id": 176,
+      "character": "同",
+      "pinyin": "tong",
+      "tone": 2,
+      "meaning": "same",
+      "story": "The same mouth inside questions \"Tong? Are we alike?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 177,
+      "character": "洞",
+      "pinyin": "dong",
+      "tone": 4,
+      "meaning": "cave",
+      "story": "A cave of water same commands \"Dong!\" sharply echoing!",
+      "primitives": []
+    },
+    {
+      "id": 178,
+      "character": "向",
+      "pinyin": "xiang",
+      "tone": 4,
+      "meaning": "orientation",
+      "story": "Orientation of mouth in house yells \"Shyang!\" sharply pointing!",
+      "primitives": []
+    },
+    {
+      "id": 179,
+      "character": "尚",
+      "pinyin": "shang",
+      "tone": 4,
+      "meaning": "to esteem",
+      "story": "To esteem small mouth house commands \"Shang!\" sharply valuing!",
+      "primitives": []
+    },
+    {
+      "id": 180,
+      "character": "字",
+      "pinyin": "zi",
+      "tone": 4,
+      "meaning": "character",
+      "story": "A character child in house yells \"Zi!\" sharply written!",
+      "primitives": []
+    },
+    {
+      "id": 181,
+      "character": "守",
+      "pinyin": "shou",
+      "tone": 3,
+      "meaning": "to guard",
+      "story": "To guard house with inch bends down drooping saying \"Sho\"!",
+      "primitives": []
+    },
+    {
+      "id": 182,
+      "character": "完",
+      "pinyin": "wan",
+      "tone": 2,
+      "meaning": "to finish",
+      "story": "To finish beginning in house questions \"Wan? Is it done?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 183,
+      "character": "實",
+      "pinyin": "shi",
+      "tone": 2,
+      "meaning": "reality",
+      "story": "Reality pierces through house roof, questioning \"Shi? Is it real?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 184,
+      "character": "宣",
+      "pinyin": "xuan",
+      "tone": 1,
+      "meaning": "to proclaim",
+      "story": "To proclaim in house sings \"Shuan!\" cheerfully announcing!",
+      "primitives": []
+    },
+    {
+      "id": 185,
+      "character": "宵",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "Nighttime",
+      "story": "Nighttime house evening sings \"Shyao!\" happily dark!",
+      "primitives": []
+    },
+    {
+      "id": 186,
+      "character": "安",
+      "pinyin": "an",
+      "tone": 1,
+      "meaning": "peaceful",
+      "story": "A peaceful woman in house sings \"An!\" cheerfully and calm!",
+      "primitives": []
+    },
+    {
+      "id": 187,
+      "character": "宴",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "Banquet",
+      "story": "A banquet house with sun women yells \"Yan!\" sharply feasting!",
+      "primitives": []
+    },
+    {
+      "id": 188,
+      "character": "寄",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "to mail",
+      "story": "To mail peculiar things from house commands \"Ji!\" sharply sending!",
+      "primitives": []
+    },
+    {
+      "id": 189,
+      "character": "富",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "wealthy",
+      "story": "A wealthy house with field above commands \"Fu!\" sharply abundant!",
+      "primitives": []
+    },
+    {
+      "id": 190,
+      "character": "貯",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "to store up",
+      "story": "To store up master shellfish in house yells \"Zhu!\" sharply saving!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "lesson": 40,
+  "characters": [
+    {
+      "id": 1186,
+      "character": "睡",
+      "pinyin": "shui",
+      "tone": 4,
+      "meaning": "to sleep",
+      "story": "To sleep eye droop commands sharply \"Shway!\" - drowsy rest!",
+      "primitives": []
+    },
+    {
+      "id": 1187,
+      "character": "今",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "now",
+      "story": "Now umbrella sings \"Jin!\" cheerfully - today and present!",
+      "primitives": []
+    },
+    {
+      "id": 1188,
+      "character": "含",
+      "pinyin": "han",
+      "tone": 2,
+      "meaning": "to harbor",
+      "story": "To harbor mouth now questions \"Hahn? Keeping?\" curiously - to contain!",
+      "primitives": []
+    },
+    {
+      "id": 1189,
+      "character": "念",
+      "pinyin": "nian",
+      "tone": 4,
+      "meaning": "to miss",
+      "story": "To miss now heart commands sharply \"Nyen!\" - recall and wish!",
+      "primitives": []
+    },
+    {
+      "id": 1190,
+      "character": "陰",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "Yin",
+      "story": "Yin wall now sings \"Yin!\" cheerfully - dark female principle!",
+      "primitives": []
+    },
+    {
+      "id": 1191,
+      "character": "蔭",
+      "pinyin": "yin",
+      "tone": 4,
+      "meaning": "shady",
+      "story": "Shady flowers yin commands sharply \"Yin!\" - behind the scenes shelter!",
+      "primitives": []
+    },
+    {
+      "id": 1192,
+      "character": "西",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "West",
+      "story": "West bird nest sings \"Shee!\" cheerfully - western direction!",
+      "primitives": []
+    },
+    {
+      "id": 1193,
+      "character": "要",
+      "pinyin": "yao",
+      "tone": 4,
+      "meaning": "want",
+      "story": "Want west woman commands sharply \"Yao!\" - must and vital need!",
+      "primitives": []
+    },
+    {
+      "id": 1194,
+      "character": "腰",
+      "pinyin": "yao",
+      "tone": 1,
+      "meaning": "Waist",
+      "story": "Waist body want sings \"Yao!\" cheerfully - middle and lower back loins!",
+      "primitives": []
+    },
+    {
+      "id": 1195,
+      "character": "票",
+      "pinyin": "piao",
+      "tone": 4,
+      "meaning": "Ticket",
+      "story": "Ticket west showing commands sharply \"Pyao!\" - ballot slip!",
+      "primitives": []
+    },
+    {
+      "id": 1196,
+      "character": "漂",
+      "pinyin": "piao",
+      "tone": 4,
+      "meaning": "to drift",
+      "story": "To drift water ticket commands sharply \"Pyao!\" - floating tossed about!",
+      "primitives": []
+    },
+    {
+      "id": 1197,
+      "character": "標",
+      "pinyin": "biao",
+      "tone": 1,
+      "meaning": "a Mark",
+      "story": "A mark tree ticket sings \"Byao!\" cheerfully - signpost and label!",
+      "primitives": []
+    },
+    {
+      "id": 1198,
+      "character": "賈",
+      "pinyin": "gu",
+      "tone": 3,
+      "meaning": "Merchant",
+      "story": "Merchant west shellfish bends down drooping \"Goo\" - to buy goods!",
+      "primitives": []
+    },
+    {
+      "id": 1199,
+      "character": "價",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "Price",
+      "story": "Price person merchant commands sharply \"Jyah!\" - value and worth!",
+      "primitives": []
+    },
+    {
+      "id": 1200,
+      "character": "煙",
+      "pinyin": "yan",
+      "tone": 5,
+      "meaning": "the Smoke",
+      "story": "The smoke fire west says \"Yan\" neutrally - cigarette tobacco rising!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "lesson": 75,
+  "characters": [
+    {
+      "id": 1707,
+      "character": "銳",
+      "pinyin": "rui",
+      "tone": 4,
+      "meaning": "sharp",
+      "story": "Sharp metal exchange commands sharply \"Rway!\" - acute keen!",
+      "primitives": []
+    },
+    {
+      "id": 1708,
+      "character": "虹",
+      "pinyin": "hong",
+      "tone": 2,
+      "meaning": "rainbow",
+      "story": "Rainbow insect craft questions \"Hohng? Arc?\" curiously - colored bridge!",
+      "primitives": []
+    },
+    {
+      "id": 1709,
+      "character": "蝠",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "bat",
+      "story": "Bat insect wealth questions \"Foo? Flying?\" curiously - nocturnal mammal!",
+      "primitives": []
+    },
+    {
+      "id": 1710,
+      "character": "蛙",
+      "pinyin": "wa",
+      "tone": 1,
+      "meaning": "frog",
+      "story": "Frog insect bricks sings \"Wah!\" cheerfully - hopping amphibian!",
+      "primitives": []
+    },
+    {
+      "id": 1711,
+      "character": "蝗",
+      "pinyin": "huang",
+      "tone": 2,
+      "meaning": "locust",
+      "story": "Locust insect emperor questions \"Hwahng? Swarm?\" curiously - grasshopper!",
+      "primitives": []
+    },
+    {
+      "id": 1712,
+      "character": "蟬",
+      "pinyin": "chan",
+      "tone": 2,
+      "meaning": "cicada",
+      "story": "Cicada insect list questions \"Chahn? Singing?\" curiously - thin wings buzzing!",
+      "primitives": []
+    },
+    {
+      "id": 1713,
+      "character": "楓",
+      "pinyin": "feng",
+      "tone": 1,
+      "meaning": "maple",
+      "story": "Maple tree windstorm sings \"Fung!\" cheerfully - autumn tree!",
+      "primitives": []
+    },
+    {
+      "id": 1714,
+      "character": "胞",
+      "pinyin": "bao",
+      "tone": 1,
+      "meaning": "placenta",
+      "story": "Placenta body wrap sings \"Bao!\" cheerfully - cell womb!",
+      "primitives": []
+    },
+    {
+      "id": 1715,
+      "character": "炮",
+      "pinyin": "pao",
+      "tone": 4,
+      "meaning": "fireworks",
+      "story": "Fireworks fire wrap commands sharply \"Pao!\" - cannon explosive!",
+      "primitives": []
+    },
+    {
+      "id": 1716,
+      "character": "袍",
+      "pinyin": "pao",
+      "tone": 2,
+      "meaning": "robe",
+      "story": "Robe clothing wrap questions \"Pao? Garment?\" curiously - gown!",
+      "primitives": []
+    },
+    {
+      "id": 1717,
+      "character": "雹",
+      "pinyin": "bao",
+      "tone": 2,
+      "meaning": "hail",
+      "story": "Hail rain wrap questions \"Bao? Ice?\" curiously - frozen precipitation!",
+      "primitives": []
+    },
+    {
+      "id": 1718,
+      "character": "逐",
+      "pinyin": "zhu",
+      "tone": 2,
+      "meaning": "pursue",
+      "story": "Pursue pig road questions \"Joo? Chase?\" curiously - expel hunt!",
+      "primitives": []
+    },
+    {
+      "id": 1719,
+      "character": "遂",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "satisfy",
+      "story": "Satisfy animal horns pursue commands sharply \"Sway!\" - accomplish fulfill!",
+      "primitives": []
+    },
+    {
+      "id": 1720,
+      "character": "蒙",
+      "pinyin": "meng",
+      "tone": 2,
+      "meaning": "Mongolia",
+      "story": "Mongolia flowers dog questions \"Mung? Cover?\" curiously - deceive veil!",
+      "primitives": []
+    },
+    {
+      "id": 1721,
+      "character": "朦",
+      "pinyin": "meng",
+      "tone": 2,
+      "meaning": "dim",
+      "story": "Dim moon Mongolia questions \"Mung? Hazy?\" curiously - obscure!",
+      "primitives": []
+    },
+    {
+      "id": 1722,
+      "character": "豪",
+      "pinyin": "hao",
+      "tone": 2,
+      "meaning": "unrestrained",
+      "story": "Unrestrained pig high questions \"Hao? Bold?\" curiously - heroic lavish!",
+      "primitives": []
+    },
+    {
+      "id": 1723,
+      "character": "啄",
+      "pinyin": "zhuo",
+      "tone": 2,
+      "meaning": "peck",
+      "story": "Peck mouth hog-tied questions \"Jwoh? Bird strike?\" curiously - bite!",
+      "primitives": []
+    },
+    {
+      "id": 1724,
+      "character": "琢",
+      "pinyin": "zuo",
+      "tone": 2,
+      "meaning": "chisel",
+      "story": "Chisel king hog-tied questions \"Dzwoh? Carve?\" curiously - polish jade!",
+      "primitives": []
+    },
+    {
+      "id": 1725,
+      "character": "嫁",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "marry",
+      "story": "Marry woman house commands sharply \"Jyah!\" - wed bride!",
+      "primitives": []
+    },
+    {
+      "id": 1726,
+      "character": "腸",
+      "pinyin": "chang",
+      "tone": 2,
+      "meaning": "intestines",
+      "story": "Intestines body piggy bank questions \"Chahng? Guts?\" curiously - bowels!",
+      "primitives": []
+    },
+    {
+      "id": 1727,
+      "character": "楊",
+      "pinyin": "yang",
+      "tone": 2,
+      "meaning": "poplar",
+      "story": "Poplar tree piggy bank questions \"Yahng? Willow?\" curiously - tree!",
+      "primitives": []
+    },
+    {
+      "id": 1728,
+      "character": "燙",
+      "pinyin": "tang",
+      "tone": 4,
+      "meaning": "scald",
+      "story": "Scald fire soup commands sharply \"Tahng!\" - burn hot water!",
+      "primitives": []
+    },
+    {
+      "id": 1729,
+      "character": "蕩",
+      "pinyin": "dang",
+      "tone": 4,
+      "meaning": "licentious",
+      "story": "Licentious flowers soup commands sharply \"Dahng!\" - dissolute grandiose majestic!",
+      "primitives": []
+    },
+    {
+      "id": 1730,
+      "character": "詳",
+      "pinyin": "xiang",
+      "tone": 2,
+      "meaning": "detailed",
+      "story": "Detailed words piggy bank questions \"Shyahng? Thorough?\" curiously - elaborate!",
+      "primitives": []
+    },
+    {
+      "id": 1731,
+      "character": "羨",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "envy",
+      "story": "Envy sheep water commands sharply \"Shyan!\" - admire covet!",
+      "primitives": []
+    },
+    {
+      "id": 1732,
+      "character": "唯",
+      "pinyin": "wei",
+      "tone": 2,
+      "meaning": "soley",
+      "story": "Soley mouth turkey questions \"Way? Only?\" curiously - merely exclusively!",
+      "primitives": []
+    },
+    {
+      "id": 1733,
+      "character": "堆",
+      "pinyin": "dui",
+      "tone": 1,
+      "meaning": "pile",
+      "story": "Pile soil turkey sings \"Dway!\" cheerfully - heap stack!",
+      "primitives": []
+    },
+    {
+      "id": 1734,
+      "character": "焦",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "apprehensive",
+      "story": "Apprehensive roast turkey sings \"Jyao!\" cheerfully - burnt anxious!",
+      "primitives": []
+    },
+    {
+      "id": 1735,
+      "character": "瞧",
+      "pinyin": "qiao",
+      "tone": 2,
+      "meaning": "lay eyes on",
+      "story": "Lay eyes on eye roast turkey questions \"Chyao? Look?\" curiously - see!",
+      "primitives": []
+    },
+    {
+      "id": 1736,
+      "character": "礁",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "reef",
+      "story": "Reef stone roast turkey sings \"Jyao!\" cheerfully - rock shoal!",
+      "primitives": []
+    },
+    {
+      "id": 1737,
+      "character": "蕉",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "banana",
+      "story": "Banana flower roast turkey sings \"Jyao!\" cheerfully - tropical fruit!",
+      "primitives": []
+    },
+    {
+      "id": 1738,
+      "character": "雕",
+      "pinyin": "diao",
+      "tone": 1,
+      "meaning": "sculpture",
+      "story": "Sculpture circumference turkey sings \"Dyao!\" cheerfully - carve statue!",
+      "primitives": []
+    },
+    {
+      "id": 1739,
+      "character": "截",
+      "pinyin": "jie",
+      "tone": 2,
+      "meaning": "lop off",
+      "story": "Lop off Thanksgiving turkey questions \"Jyeh? Sever?\" curiously - cut断!",
+      "primitives": []
+    },
+    {
+      "id": 1740,
+      "character": "准",
+      "pinyin": "zhun",
+      "tone": 3,
+      "meaning": "allow",
+      "story": "Allow water ten bends down drooping \"Jwun\" - permit approve!",
+      "primitives": []
+    },
+    {
+      "id": 1741,
+      "character": "雀",
+      "pinyin": "que",
+      "tone": 4,
+      "meaning": "sparrow",
+      "story": "Sparrow small bird commands sharply \"Chyueh!\" - peacock tiny bird!",
+      "primitives": []
+    },
+    {
+      "id": 1742,
+      "character": "霍",
+      "pinyin": "huo",
+      "tone": 4,
+      "meaning": "all at once",
+      "story": "All at once rain turkeys commands sharply \"Hwoh!\" - suddenly quickly!",
+      "primitives": []
+    },
+    {
+      "id": 1743,
+      "character": "奮",
+      "pinyin": "fen",
+      "tone": 4,
+      "meaning": "exert oneself",
+      "story": "Exert oneself big field taskmaster commands sharply \"Fun!\" - strive excited!",
+      "primitives": []
+    },
+    {
+      "id": 1744,
+      "character": "奪",
+      "pinyin": "duo",
+      "tone": 2,
+      "meaning": "take by force",
+      "story": "Take by force big bird questions \"Dwoh? Seize?\" curiously - rob capture!",
+      "primitives": []
+    },
+    {
+      "id": 1745,
+      "character": "翹",
+      "pinyin": "qiao",
+      "tone": 4,
+      "meaning": "turn upward",
+      "story": "Turn upward feathers tall commands sharply \"Chyao!\" - stick up cut class!",
+      "primitives": []
+    },
+    {
+      "id": 1746,
+      "character": "塌",
+      "pinyin": "ta",
+      "tone": 1,
+      "meaning": "fall down",
+      "story": "Fall down soil sun wings sings \"Tah!\" cheerfully - collapse mess!",
+      "primitives": []
+    }
+  ]
+}

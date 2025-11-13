@@ -1,0 +1,275 @@
+{
+  "lesson": 33,
+  "characters": [
+    {
+      "id": 951,
+      "character": "勇",
+      "pinyin": "Yong",
+      "tone": 3,
+      "meaning": "courageous",
+      "story": "courageous bends down drooping saying \"Yong\"!",
+      "primitives": []
+    },
+    {
+      "id": 952,
+      "character": "犯",
+      "pinyin": "Fan",
+      "tone": 4,
+      "meaning": "Criminal",
+      "story": "Criminal commands \"Fan!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 953,
+      "character": "危",
+      "pinyin": "Wei [普], wei [國]",
+      "tone": 1,
+      "meaning": "Danger",
+      "story": "Danger sings \"Wei [普], wei [國]!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 954,
+      "character": "脆",
+      "pinyin": "Cui",
+      "tone": 4,
+      "meaning": "fragile",
+      "story": "fragile commands \"Cui!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 955,
+      "character": "印",
+      "pinyin": "Yin",
+      "tone": 4,
+      "meaning": "Print",
+      "story": "Print commands \"Yin!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 956,
+      "character": "興",
+      "pinyin": "Xing",
+      "tone": 4,
+      "meaning": "Excitement",
+      "story": "Excitement commands \"Xing!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 957,
+      "character": "酒",
+      "pinyin": "Jiu",
+      "tone": 3,
+      "meaning": "Liquor",
+      "story": "Liquor bends down drooping saying \"Jiu\"!",
+      "primitives": []
+    },
+    {
+      "id": 958,
+      "character": "配",
+      "pinyin": "Pei",
+      "tone": 4,
+      "meaning": "to distribute",
+      "story": "to distribute commands \"Pei!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 959,
+      "character": "酋",
+      "pinyin": "Qiu",
+      "tone": 2,
+      "meaning": "Chieftain",
+      "story": "Chieftain questions \"Qiu? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 960,
+      "character": "尊",
+      "pinyin": "Zun",
+      "tone": 1,
+      "meaning": "to venerate",
+      "story": "to venerate sings \"Zun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 961,
+      "character": "遵",
+      "pinyin": "Zun",
+      "tone": 1,
+      "meaning": "to abide by",
+      "story": "to abide by sings \"Zun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 962,
+      "character": "豆",
+      "pinyin": "Dou",
+      "tone": 4,
+      "meaning": "Beans",
+      "story": "Beans commands \"Dou!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 963,
+      "character": "頭",
+      "pinyin": "Tou",
+      "tone": 2,
+      "meaning": "Head",
+      "story": "Head questions \"Tou? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 964,
+      "character": "短",
+      "pinyin": "Duan",
+      "tone": 3,
+      "meaning": "short",
+      "story": "short bends down drooping saying \"Duan\"!",
+      "primitives": []
+    },
+    {
+      "id": 965,
+      "character": "禮",
+      "pinyin": "Li",
+      "tone": 3,
+      "meaning": "Ceremony",
+      "story": "Ceremony bends down drooping saying \"Li\"!",
+      "primitives": []
+    },
+    {
+      "id": 966,
+      "character": "體",
+      "pinyin": "Ti",
+      "tone": 3,
+      "meaning": "Body",
+      "story": "Body bends down drooping saying \"Ti\"!",
+      "primitives": []
+    },
+    {
+      "id": 967,
+      "character": "鼓",
+      "pinyin": "Gu",
+      "tone": 3,
+      "meaning": "a Drum",
+      "story": "a Drum bends down drooping saying \"Gu\"!",
+      "primitives": []
+    },
+    {
+      "id": 968,
+      "character": "喜",
+      "pinyin": "Xi",
+      "tone": 3,
+      "meaning": "joyful",
+      "story": "joyful bends down drooping saying \"Xi\"!",
+      "primitives": []
+    },
+    {
+      "id": 969,
+      "character": "廚",
+      "pinyin": "Chu",
+      "tone": 2,
+      "meaning": "Kitchen",
+      "story": "Kitchen questions \"Chu? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 970,
+      "character": "樹",
+      "pinyin": "Shu",
+      "tone": 4,
+      "meaning": "Timber",
+      "story": "Timber commands \"Shu!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 971,
+      "character": "血",
+      "pinyin": "Xue [普], xie [國]",
+      "tone": 3,
+      "meaning": "Blood",
+      "story": "Blood bends down drooping saying \"Xue [普], xie [國]\"!",
+      "primitives": []
+    },
+    {
+      "id": 972,
+      "character": "盡",
+      "pinyin": "Jin",
+      "tone": 4,
+      "meaning": "exhausted",
+      "story": "exhausted commands \"Jin!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 973,
+      "character": "儘",
+      "pinyin": "Jin",
+      "tone": 3,
+      "meaning": "to the utmost",
+      "story": "to the utmost bends down drooping saying \"Jin\"!",
+      "primitives": []
+    },
+    {
+      "id": 974,
+      "character": "蓋",
+      "pinyin": "Gai",
+      "tone": 4,
+      "meaning": "Lid",
+      "story": "Lid commands \"Gai!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 975,
+      "character": "溫",
+      "pinyin": "Wen",
+      "tone": 1,
+      "meaning": "temperature",
+      "story": "temperature sings \"Wen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 976,
+      "character": "監",
+      "pinyin": "Jian",
+      "tone": 1,
+      "meaning": "to supervise",
+      "story": "to supervise sings \"Jian!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 977,
+      "character": "籃",
+      "pinyin": "Lan",
+      "tone": 2,
+      "meaning": "Basket",
+      "story": "Basket questions \"Lan? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 978,
+      "character": "藍",
+      "pinyin": "Lan",
+      "tone": 2,
+      "meaning": "blue",
+      "story": "blue questions \"Lan? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 979,
+      "character": "銀",
+      "pinyin": "Yin",
+      "tone": 2,
+      "meaning": "Silver",
+      "story": "Silver questions \"Yin? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 980,
+      "character": "跟",
+      "pinyin": "Gen",
+      "tone": 1,
+      "meaning": "Heel",
+      "story": "Heel sings \"Gen!\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

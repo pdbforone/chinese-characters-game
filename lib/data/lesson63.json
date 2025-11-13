@@ -1,0 +1,122 @@
+{
+  "lesson": 63,
+  "characters": [
+    {
+      "id": 1521,
+      "character": "晃",
+      "pinyin": "huang",
+      "tone": 4,
+      "meaning": "sway",
+      "story": "Sway sun light commands sharply \"Hwahng!\" - swinging rocking!",
+      "primitives": []
+    },
+    {
+      "id": 1522,
+      "character": "泊",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "moor",
+      "story": "Moor water white questions \"Bwo? Anchor?\" curiously - harbor dock!",
+      "primitives": []
+    },
+    {
+      "id": 1523,
+      "character": "汰",
+      "pinyin": "tai",
+      "tone": 4,
+      "meaning": "get rid of",
+      "story": "Get rid of water big commands sharply \"Tigh!\" - eliminate discard!",
+      "primitives": []
+    },
+    {
+      "id": 1524,
+      "character": "沾",
+      "pinyin": "zhan",
+      "tone": 1,
+      "meaning": "soak",
+      "story": "Soak water join sings \"Jahn!\" cheerfully - wet moisten!",
+      "primitives": []
+    },
+    {
+      "id": 1525,
+      "character": "渺",
+      "pinyin": "miao",
+      "tone": 3,
+      "meaning": "insignificant",
+      "story": "Insignificant water eye bends down drooping \"Myao\" - tiny distant!",
+      "primitives": []
+    },
+    {
+      "id": 1526,
+      "character": "腺",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "gland",
+      "story": "Gland body spring commands sharply \"Shyan!\" - secreting organ!",
+      "primitives": []
+    },
+    {
+      "id": 1527,
+      "character": "坦",
+      "pinyin": "tan",
+      "tone": 3,
+      "meaning": "level",
+      "story": "Level earth sunrise bends down drooping \"Tahn\" - flat even!",
+      "primitives": []
+    },
+    {
+      "id": 1528,
+      "character": "娃",
+      "pinyin": "wa",
+      "tone": 2,
+      "meaning": "newborn",
+      "story": "Newborn woman frog questions \"Wah? Baby?\" curiously - infant child!",
+      "primitives": []
+    },
+    {
+      "id": 1529,
+      "character": "涯",
+      "pinyin": "ya",
+      "tone": 2,
+      "meaning": "bank",
+      "story": "Bank water cliff questions \"Yah? Riverbank?\" curiously - shore edge!",
+      "primitives": []
+    },
+    {
+      "id": 1530,
+      "character": "吋",
+      "pinyin": "cun",
+      "tone": 4,
+      "meaning": "inch",
+      "story": "Inch mouth measure commands sharply \"Tsoon!\" - small unit!",
+      "primitives": []
+    },
+    {
+      "id": 1531,
+      "character": "肘",
+      "pinyin": "zhou",
+      "tone": 3,
+      "meaning": "elbow",
+      "story": "Elbow body inch bends down drooping \"Joh\" - arm joint!",
+      "primitives": []
+    },
+    {
+      "id": 1532,
+      "character": "灼",
+      "pinyin": "zhuo",
+      "tone": 2,
+      "meaning": "scorch",
+      "story": "Scorch fire spoon questions \"Jwoh? Burn?\" curiously - sear!",
+      "primitives": []
+    },
+    {
+      "id": 1533,
+      "character": "炒",
+      "pinyin": "chao",
+      "tone": 3,
+      "meaning": "stir-fry",
+      "story": "Stir-fry fire few bends down drooping \"Chao\" - cooking tossing!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "lesson": 34,
+  "characters": [
+    {
+      "id": 981,
+      "character": "很",
+      "pinyin": "Hen",
+      "tone": 3,
+      "meaning": "very",
+      "story": "very bends down drooping saying \"Hen\"!",
+      "primitives": []
+    },
+    {
+      "id": 982,
+      "character": "根",
+      "pinyin": "Gen",
+      "tone": 1,
+      "meaning": "Root",
+      "story": "Root sings \"Gen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 983,
+      "character": "即",
+      "pinyin": "Ji",
+      "tone": 2,
+      "meaning": "immediately",
+      "story": "immediately questions \"Ji? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 984,
+      "character": "節",
+      "pinyin": "Jie",
+      "tone": 2,
+      "meaning": "Holiday",
+      "story": "Holiday questions \"Jie? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 985,
+      "character": "退",
+      "pinyin": "Tui",
+      "tone": 4,
+      "meaning": "to retreat",
+      "story": "to retreat commands \"Tui!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 986,
+      "character": "腿",
+      "pinyin": "Tui",
+      "tone": 3,
+      "meaning": "Leg",
+      "story": "Leg bends down drooping saying \"Tui\"!",
+      "primitives": []
+    },
+    {
+      "id": 987,
+      "character": "限",
+      "pinyin": "Xian",
+      "tone": 4,
+      "meaning": "Limit",
+      "story": "Limit commands \"Xian!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 988,
+      "character": "眼",
+      "pinyin": "Yan",
+      "tone": 3,
+      "meaning": "Eyelet",
+      "story": "Eyelet bends down drooping saying \"Yan\"!",
+      "primitives": []
+    },
+    {
+      "id": 989,
+      "character": "良",
+      "pinyin": "Liang",
+      "tone": 2,
+      "meaning": "high-quality",
+      "story": "high-quality questions \"Liang? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 990,
+      "character": "浪",
+      "pinyin": "Lang",
+      "tone": 4,
+      "meaning": "Breakers",
+      "story": "Breakers commands \"Lang!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 991,
+      "character": "娘",
+      "pinyin": "Niang",
+      "tone": 2,
+      "meaning": "Mom",
+      "story": "Mom questions \"Niang? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 992,
+      "character": "食",
+      "pinyin": "Shi",
+      "tone": 2,
+      "meaning": "Food",
+      "story": "Food questions \"Shi? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 993,
+      "character": "飯",
+      "pinyin": "Fan",
+      "tone": 4,
+      "meaning": "Meal",
+      "story": "Meal commands \"Fan!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 994,
+      "character": "餐",
+      "pinyin": "Can",
+      "tone": 1,
+      "meaning": "to dine",
+      "story": "to dine sings \"Can!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 995,
+      "character": "館",
+      "pinyin": "Guan",
+      "tone": 3,
+      "meaning": "Bldg.",
+      "story": "Bldg. bends down drooping saying \"Guan\"!",
+      "primitives": []
+    },
+    {
+      "id": 996,
+      "character": "養",
+      "pinyin": "Yang",
+      "tone": 3,
+      "meaning": "to raise",
+      "story": "to raise bends down drooping saying \"Yang\"!",
+      "primitives": []
+    },
+    {
+      "id": 997,
+      "character": "既",
+      "pinyin": "Ji",
+      "tone": 4,
+      "meaning": "since",
+      "story": "since commands \"Ji!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 998,
+      "character": "概",
+      "pinyin": "Gai",
+      "tone": 4,
+      "meaning": "approximate",
+      "story": "approximate commands \"Gai!\" yells!",
+      "primitives": []
+    },
+    {
+      "id": 999,
+      "character": "平",
+      "pinyin": "Ping",
+      "tone": 2,
+      "meaning": "even",
+      "story": "even questions \"Ping? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1000,
+      "character": "評",
+      "pinyin": "Ping",
+      "tone": 2,
+      "meaning": "to evaluate",
+      "story": "to evaluate questions \"Ping? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1001,
+      "character": "邊",
+      "pinyin": "bian",
+      "tone": 1,
+      "meaning": "Border",
+      "story": "Along the border road, your nose catches the scent, singing \"Bian!\" cheerfully as you cross the edge!",
+      "primitives": []
+    },
+    {
+      "id": 1002,
+      "character": "深",
+      "pinyin": "shen",
+      "tone": 1,
+      "meaning": "deep",
+      "story": "Deep water sings \"Shen!\" cheerfully as you dive down into the profound darkness!",
+      "primitives": []
+    },
+    {
+      "id": 1003,
+      "character": "探",
+      "pinyin": "tan",
+      "tone": 4,
+      "meaning": "a Spy",
+      "story": "A spy with hands reaching into the cave commands \"Tan!\" sharply, exploring every hidden corner!",
+      "primitives": []
+    },
+    {
+      "id": 1004,
+      "character": "丘",
+      "pinyin": "qiu",
+      "tone": 1,
+      "meaning": "Hill",
+      "story": "The hill rises like a hobbit-home, singing \"Chyo!\" cheerfully round and grassy!",
+      "primitives": []
+    }
+  ]
+}

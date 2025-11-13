@@ -1,0 +1,563 @@
+{
+  "lesson": 90,
+  "characters": [
+    {
+      "id": 2295,
+      "character": "累",
+      "pinyin": "lei",
+      "tone": 4,
+      "meaning": "tired",
+      "story": "Tired thread rice田 commands sharply \"Lay!\" - exhausted weary!",
+      "primitives": []
+    },
+    {
+      "id": 2296,
+      "character": "螺",
+      "pinyin": "luo",
+      "tone": 2,
+      "meaning": "spiral shell",
+      "story": "Spiral shell insect tired questions \"Lwoh? Coiled?\" curiously - snail helix!",
+      "primitives": []
+    },
+    {
+      "id": 2297,
+      "character": "紗",
+      "pinyin": "sha",
+      "tone": 1,
+      "meaning": "yarn",
+      "story": "Yarn thread few sings \"Shah!\" cheerfully - gauze fabric weave!",
+      "primitives": []
+    },
+    {
+      "id": 2298,
+      "character": "綽",
+      "pinyin": "chuo",
+      "tone": 4,
+      "meaning": "ample",
+      "story": "Ample thread convex commands sharply \"Chwoh!\" - spacious nickname!",
+      "primitives": []
+    },
+    {
+      "id": 2299,
+      "character": "紹",
+      "pinyin": "shao",
+      "tone": 4,
+      "meaning": "acquaint",
+      "story": "Acquaint thread call sings \"Shao!\" cheerfully - introduce present!",
+      "primitives": []
+    },
+    {
+      "id": 2300,
+      "character": "絮",
+      "pinyin": "xu",
+      "tone": 4,
+      "meaning": "long-winded",
+      "story": "\"SHOO!\" the old man commands sharply, rambling on with long-winded stories about threads - tediously!",
+      "primitives": []
+    },
+    {
+      "id": 2301,
+      "character": "繞",
+      "pinyin": "rao",
+      "tone": 4,
+      "meaning": "go around",
+      "story": "\"RAO!\" the thread commands sharply, winding to go around the spool in circles - detour complete!",
+      "primitives": []
+    },
+    {
+      "id": 2302,
+      "character": "紮",
+      "pinyin": "za",
+      "tone": 1,
+      "meaning": "bind",
+      "story": "\"DZAH!\" the needle and thread sing cheerfully as she binds the package - tying it securely and solid!",
+      "primitives": []
+    },
+    {
+      "id": 2303,
+      "character": "綿",
+      "pinyin": "mian",
+      "tone": 2,
+      "meaning": "continuous",
+      "story": "\"MYEN?\" the white towel and thread question curiously - is this continuous, unbroken cotton fabric?",
+      "primitives": []
+    },
+    {
+      "id": 2304,
+      "character": "繪",
+      "pinyin": "hui",
+      "tone": 4,
+      "meaning": "paint",
+      "story": "\"HWAY!\" the artist commands sharply, using thread-thin brushes to paint and draw illustrations!",
+      "primitives": []
+    },
+    {
+      "id": 2305,
+      "character": "絡",
+      "pinyin": "luo",
+      "tone": 4,
+      "meaning": "web",
+      "story": "\"LWOH!\" the spider's thread commands sharply, creating a web to network and connect!",
+      "primitives": []
+    },
+    {
+      "id": 2306,
+      "character": "綢",
+      "pinyin": "chou",
+      "tone": 2,
+      "meaning": "silk fabric",
+      "story": "\"CHOH?\" she questions curiously, feeling the thread - is this silk fabric or satin cloth?",
+      "primitives": []
+    },
+    {
+      "id": 2307,
+      "character": "絨",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "down",
+      "story": "\"RUNG?\" the soft thread questions curiously like velvet - is this fluffy down filling?",
+      "primitives": []
+    },
+    {
+      "id": 2308,
+      "character": "締",
+      "pinyin": "di",
+      "tone": 4,
+      "meaning": "conclude",
+      "story": "\"DEE!\" he commands sharply, using the red thread to conclude the contract and bind the agreement!",
+      "primitives": []
+    },
+    {
+      "id": 2309,
+      "character": "紫",
+      "pinyin": "zi",
+      "tone": 3,
+      "meaning": "purple",
+      "story": "The child bends down drooping to pick up her purple crayon that rolled away - violet color!",
+      "primitives": []
+    },
+    {
+      "id": 2310,
+      "character": "繁",
+      "pinyin": "fan",
+      "tone": 2,
+      "meaning": "numerous",
+      "story": "\"FAN?\" the pattern questions curiously - why are there numerous threads, so abundant and many?",
+      "primitives": []
+    },
+    {
+      "id": 2311,
+      "character": "紡",
+      "pinyin": "fang",
+      "tone": 3,
+      "meaning": "spin",
+      "story": "The thread bends down drooping as the grandmother spins yarn on the wheel - whirling to weave!",
+      "primitives": []
+    },
+    {
+      "id": 2312,
+      "character": "繭",
+      "pinyin": "jian",
+      "tone": 3,
+      "meaning": "cocoon",
+      "story": "The silkworm bends down drooping inside the cocoon, surrounded by threads - waiting to emerge!",
+      "primitives": []
+    },
+    {
+      "id": 2313,
+      "character": "纏",
+      "pinyin": "chan",
+      "tone": 2,
+      "meaning": "wind around",
+      "story": "\"CHAN?\" the thread questions curiously as it winds around the bobbin - wrapping and coiling?",
+      "primitives": []
+    },
+    {
+      "id": 2314,
+      "character": "緻",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "delicate",
+      "story": "\"JIH!\" she commands sharply, examining the delicate thread work - so refined and exquisite!",
+      "primitives": []
+    },
+    {
+      "id": 2315,
+      "character": "繫",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "fasten",
+      "story": "\"JEE!\" he commands sharply, using thread to fasten the sail - connecting and linking it tight!",
+      "primitives": []
+    },
+    {
+      "id": 2316,
+      "character": "納",
+      "pinyin": "na",
+      "tone": 4,
+      "meaning": "let in",
+      "story": "\"NAH!\" the tailor commands sharply, letting in the seam allowance with careful thread work - accepting and receiving!",
+      "primitives": []
+    },
+    {
+      "id": 2317,
+      "character": "紛",
+      "pinyin": "fen",
+      "tone": 1,
+      "meaning": "disorderly",
+      "story": "\"FEN!\" the tangled threads sing cheerfully in disorderly fashion - confused and chaotic!",
+      "primitives": []
+    },
+    {
+      "id": 2318,
+      "character": "縮",
+      "pinyin": "suo",
+      "tone": 1,
+      "meaning": "shrink",
+      "story": "\"SWOH!\" the thread sings cheerfully as the fabric shrinks in hot water - contracting like pupils!",
+      "primitives": []
+    },
+    {
+      "id": 2319,
+      "character": "綜",
+      "pinyin": "zong",
+      "tone": 4,
+      "meaning": "sum up",
+      "story": "\"DZUNG!\" the manager commands sharply, using threads on the board to sum up and synthesize the overall plan!",
+      "primitives": []
+    },
+    {
+      "id": 2320,
+      "character": "紳",
+      "pinyin": "shen",
+      "tone": 1,
+      "meaning": "gentry",
+      "story": "\"SHEN!\" the thread and monkey sing cheerfully - the gentry scholar gentleman in fine silk!",
+      "primitives": []
+    },
+    {
+      "id": 2321,
+      "character": "緣",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "reason",
+      "story": "\"YWEN?\" the thread questions curiously about their reason for meeting - is it cause, fate, or connection?",
+      "primitives": []
+    },
+    {
+      "id": 2322,
+      "character": "緒",
+      "pinyin": "xu",
+      "tone": 4,
+      "meaning": "inception",
+      "story": "\"SHOO!\" the thread commands sharply at the inception of the project - following the clue and beginning!",
+      "primitives": []
+    },
+    {
+      "id": 2323,
+      "character": "絞",
+      "pinyin": "jiao",
+      "tone": 3,
+      "meaning": "wring",
+      "story": "The thread bends down drooping as she wrings the wet cloth - squeezing and twisting her brain!",
+      "primitives": []
+    },
+    {
+      "id": 2324,
+      "character": "緩",
+      "pinyin": "huan",
+      "tone": 3,
+      "meaning": "unhurried",
+      "story": "The thread bends down drooping at an unhurried pace - slow, gradual, and lax!",
+      "primitives": []
+    },
+    {
+      "id": 2325,
+      "character": "暖",
+      "pinyin": "nuan",
+      "tone": 3,
+      "meaning": "warm",
+      "story": "The tired sun bends down drooping at noon, but still warms the migrating ducks.",
+      "primitives": []
+    },
+    {
+      "id": 2326,
+      "character": "援",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "provide assistance",
+      "story": "\"You want help?\" she questions curiously, providing assistance to those in need.",
+      "primitives": []
+    },
+    {
+      "id": 2327,
+      "character": "索",
+      "pinyin": "suo",
+      "tone": 3,
+      "meaning": "large rope",
+      "story": "He bends low, searching with the large rope made of chapel threads.",
+      "primitives": []
+    },
+    {
+      "id": 2328,
+      "character": "勃",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "vibrant",
+      "story": "\"Burble?\" the vibrant Sunday school asks curiously, muscles full of energy.",
+      "primitives": []
+    },
+    {
+      "id": 2329,
+      "character": "脖",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "head-hinge",
+      "story": "\"Bow?\" he questions curiously, touching the flesh of his neck where the head hinges - seeing the marks.",
+      "primitives": []
+    },
+    {
+      "id": 2330,
+      "character": "繳",
+      "pinyin": "jiao",
+      "tone": 3,
+      "meaning": "shell out",
+      "story": "She bends down reluctantly, using the homing pigeon thread to shell out payment.",
+      "primitives": []
+    },
+    {
+      "id": 2331,
+      "character": "邀",
+      "pinyin": "yao",
+      "tone": 1,
+      "meaning": "request the presence of",
+      "story": "\"Yay!\" she sings cheerfully, inviting guests to request the presence of the emperor.",
+      "primitives": []
+    },
+    {
+      "id": 2332,
+      "character": "繡",
+      "pinyin": "xiu",
+      "tone": 4,
+      "meaning": "embroidery",
+      "story": "\"SHOW it!\" she commands sharply, displaying thread embroidery of the grand canyon.",
+      "primitives": []
+    },
+    {
+      "id": 2333,
+      "character": "蘿",
+      "pinyin": "luo",
+      "tone": 2,
+      "meaning": "edible root",
+      "story": "\"Low?\" he questions curiously, pulling the edible root turnip from silk flowers.",
+      "primitives": []
+    },
+    {
+      "id": 2334,
+      "character": "鑼",
+      "pinyin": "luo",
+      "tone": 2,
+      "meaning": "gong",
+      "story": "\"Low note?\" she questions curiously, striking the metal gong with silk gauze.",
+      "primitives": []
+    },
+    {
+      "id": 2335,
+      "character": "邏",
+      "pinyin": "luo",
+      "tone": 2,
+      "meaning": "make the rounds",
+      "story": "\"Low road?\" the police question curiously, making the rounds wrapped in silk.",
+      "primitives": []
+    },
+    {
+      "id": 2336,
+      "character": "籮",
+      "pinyin": "luo",
+      "tone": 2,
+      "meaning": "bamboo basket",
+      "story": "\"Low enough?\" he questions curiously, hefting the bamboo basket to carry.",
+      "primitives": []
+    },
+    {
+      "id": 2337,
+      "character": "蠻",
+      "pinyin": "man",
+      "tone": 2,
+      "meaning": "barbaric",
+      "story": "\"Man, barbaric!\" she questions curiously, watching the needlepoint insect act quite savage.",
+      "primitives": []
+    },
+    {
+      "id": 2338,
+      "character": "頸",
+      "pinyin": "jing",
+      "tone": 3,
+      "meaning": "neck",
+      "story": "The tired giraffe bends its long neck down drooping.",
+      "primitives": []
+    },
+    {
+      "id": 2339,
+      "character": "莖",
+      "pinyin": "jing",
+      "tone": 1,
+      "meaning": "plant stem",
+      "story": "\"Gee!\" she sings cheerfully, measuring the plant stem on the flower spool.",
+      "primitives": []
+    },
+    {
+      "id": 2340,
+      "character": "勁",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "powerful",
+      "story": "\"GINGER!\" he commands sharply with powerful, vigorous energy.",
+      "primitives": []
+    },
+    {
+      "id": 2341,
+      "character": "徑",
+      "pinyin": "jing",
+      "tone": 4,
+      "meaning": "trail",
+      "story": "\"GING!\" the bell commands sharply on the trail path - a shortcut through the queue.",
+      "primitives": []
+    },
+    {
+      "id": 2342,
+      "character": "溪",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "creek",
+      "story": "\"Gee!\" she sings cheerfully, splashing in the creek where water vultures and St. Bernards play.",
+      "primitives": []
+    },
+    {
+      "id": 2343,
+      "character": "幼",
+      "pinyin": "you",
+      "tone": 4,
+      "meaning": "young",
+      "story": "\"YOU!\" the young child commands sharply, immature but bossy.",
+      "primitives": []
+    },
+    {
+      "id": 2344,
+      "character": "幽",
+      "pinyin": "you",
+      "tone": 1,
+      "meaning": "secluded",
+      "story": "\"Yo!\" he sings cheerfully from the secluded, quiet remote hiding spot.",
+      "primitives": []
+    },
+    {
+      "id": 2345,
+      "character": "濕",
+      "pinyin": "shi",
+      "tone": 1,
+      "meaning": "wet",
+      "story": "\"Gee!\" she sings cheerfully, though wet from water and sun - the dehumidifier fights two cocoons of moisture.",
+      "primitives": []
+    },
+    {
+      "id": 2346,
+      "character": "玄",
+      "pinyin": "xuan",
+      "tone": 2,
+      "meaning": "mysterious",
+      "story": "\"You want mysteries?\" he questions curiously about the profound enigmatic secrets.",
+      "primitives": []
+    },
+    {
+      "id": 2347,
+      "character": "畜",
+      "pinyin": "chu",
+      "tone": 4,
+      "meaning": "livestock",
+      "story": "\"CHEW!\" the livestock commands sharply - the animals and cattle are hungry.",
+      "primitives": []
+    },
+    {
+      "id": 2348,
+      "character": "蓄",
+      "pinyin": "xu",
+      "tone": 4,
+      "meaning": "save up",
+      "story": "\"SHOOT for savings!\" she commands sharply, using flower power to save up with the livestock.",
+      "primitives": []
+    },
+    {
+      "id": 2349,
+      "character": "牽",
+      "pinyin": "qian",
+      "tone": 1,
+      "meaning": "lead along",
+      "story": "\"Chain 'em!\" he sings cheerfully, leading the animals along, pulling them by involvement.",
+      "primitives": []
+    },
+    {
+      "id": 2350,
+      "character": "弦",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "bow string",
+      "story": "\"You want tension?\" she questions curiously, pulling the mysterious bow string tight.",
+      "primitives": []
+    },
+    {
+      "id": 2351,
+      "character": "磁",
+      "pinyin": "ci",
+      "tone": 2,
+      "meaning": "magnetism",
+      "story": "\"See?\" he questions curiously as magnetism creates attraction and pull.",
+      "primitives": []
+    },
+    {
+      "id": 2352,
+      "character": "滋",
+      "pinyin": "zi",
+      "tone": 1,
+      "meaning": "nourish",
+      "story": "\"Gee!\" she sings cheerfully, water nourishing and enriching growth.",
+      "primitives": []
+    },
+    {
+      "id": 2353,
+      "character": "慈",
+      "pinyin": "ci",
+      "tone": 2,
+      "meaning": "kindhearted",
+      "story": "\"See?\" the kindhearted woman questions curiously, showing mercy and compassion.",
+      "primitives": []
+    },
+    {
+      "id": 2354,
+      "character": "譏",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "deride",
+      "story": "\"Gee!\" he sings cheerfully while mocking words of scorn and ridicule.",
+      "primitives": []
+    },
+    {
+      "id": 2355,
+      "character": "爍",
+      "pinyin": "shuo",
+      "tone": 4,
+      "meaning": "luminous",
+      "story": "\"SHOCK!\" she commands sharply as fire and music create luminous, bright sparkling light.",
+      "primitives": []
+    },
+    {
+      "id": 2356,
+      "character": "遜",
+      "pinyin": "xun",
+      "tone": 4,
+      "meaning": "modest",
+      "story": "\"SHUN!\" he commands sharply, being modest and humble about his inferior skills.",
+      "primitives": []
+    }
+  ]
+}

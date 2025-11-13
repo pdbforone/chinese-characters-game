@@ -15,6 +15,8 @@ export default function LessonPage() {
   const router = useRouter();
   const lessonId = parseInt(params.id as string);
 
+  const lessonData = getLessonData(lessonId);
+
   const [phase, setPhase] = useState<Phase>('loading');
   const [progress, setProgress] = useState({
     introductionCompleted: false,

@@ -1,0 +1,392 @@
+{
+  "lesson": 76,
+  "characters": [
+    {
+      "id": 1747,
+      "character": "翰",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "writing brush",
+      "story": "Writing brush mist umbrella wings commands sharply \"Hahn!\" - pen literary!",
+      "primitives": []
+    },
+    {
+      "id": 1748,
+      "character": "咽",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "throat",
+      "story": "Throat mouth swallow commands sharply \"Yahn!\" - gullet pharynx!",
+      "primitives": []
+    },
+    {
+      "id": 1749,
+      "character": "姻",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "in-law",
+      "story": "In-law woman dog kennel sings \"Yin!\" cheerfully - marriage relations!",
+      "primitives": []
+    },
+    {
+      "id": 1750,
+      "character": "廟",
+      "pinyin": "miao",
+      "tone": 4,
+      "meaning": "temple",
+      "story": "Temple cave dynasty commands sharply \"Myao!\" - shrine sanctuary!",
+      "primitives": []
+    },
+    {
+      "id": 1751,
+      "character": "廂",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "side room",
+      "story": "Side room cave one another sings \"Shyahng!\" cheerfully - chamber compartment!",
+      "primitives": []
+    },
+    {
+      "id": 1752,
+      "character": "嘛",
+      "pinyin": "ma",
+      "tone": 5,
+      "meaning": "(pause marker)",
+      "story": "Pause marker mouth hemp says \"mah\" neutrally - obvious indicator!",
+      "primitives": []
+    },
+    {
+      "id": 1753,
+      "character": "磨",
+      "pinyin": "mo",
+      "tone": 2,
+      "meaning": "grind",
+      "story": "Grind hemp stone questions \"Mwo? Rub?\" curiously - polish torment!",
+      "primitives": []
+    },
+    {
+      "id": 1754,
+      "character": "廈",
+      "pinyin": "sha",
+      "tone": 4,
+      "meaning": "skyscraper",
+      "story": "Skyscraper cave summer commands sharply \"Shah!\" - grand building!",
+      "primitives": []
+    },
+    {
+      "id": 1755,
+      "character": "廁",
+      "pinyin": "ce",
+      "tone": 4,
+      "meaning": "toilet",
+      "story": "Toilet cave then commands sharply \"Tsuh!\" - lavatory bathroom!",
+      "primitives": []
+    },
+    {
+      "id": 1756,
+      "character": "悟",
+      "pinyin": "wu",
+      "tone": 4,
+      "meaning": "realize",
+      "story": "Realize heart me commands sharply \"Woo!\" - awaken understand!",
+      "primitives": []
+    },
+    {
+      "id": 1757,
+      "character": "忠",
+      "pinyin": "zhong",
+      "tone": 1,
+      "meaning": "loyal",
+      "story": "Loyal middle heart sings \"Johng!\" cheerfully - faithful devoted!",
+      "primitives": []
+    },
+    {
+      "id": 1758,
+      "character": "悼",
+      "pinyin": "dao",
+      "tone": 4,
+      "meaning": "mourn",
+      "story": "Mourn state of mind eminent commands sharply \"Dao!\" - grieve lament!",
+      "primitives": []
+    },
+    {
+      "id": 1759,
+      "character": "慎",
+      "pinyin": "shen",
+      "tone": 4,
+      "meaning": "prudent",
+      "story": "Prudent heart true commands sharply \"Shun!\" - careful cautious!",
+      "primitives": []
+    },
+    {
+      "id": 1760,
+      "character": "恕",
+      "pinyin": "shu",
+      "tone": 4,
+      "meaning": "pardon",
+      "story": "Pardon like heart commands sharply \"Shoo!\" - forgive excuse!",
+      "primitives": []
+    },
+    {
+      "id": 1761,
+      "character": "悄",
+      "pinyin": "qiao",
+      "tone": 1,
+      "meaning": "noiseless",
+      "story": "Noiseless heart whistle sings \"Chyao!\" cheerfully - quiet silent!",
+      "primitives": []
+    },
+    {
+      "id": 1762,
+      "character": "恍",
+      "pinyin": "huang",
+      "tone": 3,
+      "meaning": "all of a sudden",
+      "story": "All of a sudden state of mind ray bends down drooping \"Hwahng\" - abrupt!",
+      "primitives": []
+    },
+    {
+      "id": 1763,
+      "character": "惰",
+      "pinyin": "duo",
+      "tone": 4,
+      "meaning": "indolent",
+      "story": "Indolent heart left commands sharply \"Dwoh!\" - lazy sluggish!",
+      "primitives": []
+    },
+    {
+      "id": 1764,
+      "character": "恢",
+      "pinyin": "hui",
+      "tone": 1,
+      "meaning": "immense",
+      "story": "Immense heart ashes sings \"Hway!\" cheerfully - restore vast!",
+      "primitives": []
+    },
+    {
+      "id": 1765,
+      "character": "恆",
+      "pinyin": "heng",
+      "tone": 2,
+      "meaning": "permanent",
+      "story": "Permanent heart span questions \"Hung? Lasting?\" curiously - constant eternal!",
+      "primitives": []
+    },
+    {
+      "id": 1766,
+      "character": "慕",
+      "pinyin": "mu",
+      "tone": 4,
+      "meaning": "admire",
+      "story": "Admire graveyard heart commands sharply \"Moo!\" - long for respect!",
+      "primitives": []
+    },
+    {
+      "id": 1767,
+      "character": "恰",
+      "pinyin": "qia",
+      "tone": 4,
+      "meaning": "just right",
+      "story": "Just right heart fit commands sharply \"Chyah!\" - appropriate exactly!",
+      "primitives": []
+    },
+    {
+      "id": 1768,
+      "character": "惶",
+      "pinyin": "huang",
+      "tone": 2,
+      "meaning": "fearful",
+      "story": "Fearful heart emperor questions \"Hwahng? Anxious?\" curiously - uneasy!",
+      "primitives": []
+    },
+    {
+      "id": 1769,
+      "character": "愉",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "overjoyed",
+      "story": "Overjoyed heart explain questions \"Yoo? Happy?\" curiously - pleased cheerful!",
+      "primitives": []
+    },
+    {
+      "id": 1770,
+      "character": "愈",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "more and more",
+      "story": "More and more heart climb commands sharply \"Yoo!\" - increasingly recover!",
+      "primitives": []
+    },
+    {
+      "id": 1771,
+      "character": "惑",
+      "pinyin": "huo",
+      "tone": 4,
+      "meaning": "be bewildered",
+      "story": "Be bewildered state of mind confused commands sharply \"Hwoh!\" - perplexed!",
+      "primitives": []
+    },
+    {
+      "id": 1772,
+      "character": "怔",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "terror-stricken",
+      "story": "Terror-stricken heart correct commands sharply \"Jung!\" - shocked!",
+      "primitives": []
+    },
+    {
+      "id": 1773,
+      "character": "怖",
+      "pinyin": "bu",
+      "tone": 4,
+      "meaning": "be scared of",
+      "story": "Be scared of heart linen commands sharply \"Boo!\" - fear dread!",
+      "primitives": []
+    },
+    {
+      "id": 1774,
+      "character": "添",
+      "pinyin": "tian",
+      "tone": 1,
+      "meaning": "augment",
+      "story": "Augment water heart sings \"Tyan!\" cheerfully - add increase trouble!",
+      "primitives": []
+    },
+    {
+      "id": 1775,
+      "character": "悔",
+      "pinyin": "hui",
+      "tone": 3,
+      "meaning": "be sorry about",
+      "story": "Be sorry about heart every bends down drooping \"Hway\" - regret remorse!",
+      "primitives": []
+    },
+    {
+      "id": 1776,
+      "character": "慌",
+      "pinyin": "huang",
+      "tone": 1,
+      "meaning": "nervous",
+      "story": "Nervous heart wasteland sings \"Hwahng!\" cheerfully - flurried alarmed!",
+      "primitives": []
+    },
+    {
+      "id": 1777,
+      "character": "悅",
+      "pinyin": "yue",
+      "tone": 4,
+      "meaning": "delighted",
+      "story": "Delighted state of mind devil commands sharply \"Yueh!\" - pleased elated!",
+      "primitives": []
+    },
+    {
+      "id": 1778,
+      "character": "憎",
+      "pinyin": "zeng",
+      "tone": 1,
+      "meaning": "loathe",
+      "story": "Loathe heart once sings \"Dzung!\" cheerfully - detest hate!",
+      "primitives": []
+    },
+    {
+      "id": 1779,
+      "character": "忌",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "shun",
+      "story": "Shun self heart commands sharply \"Jee!\" - taboo avoid!",
+      "primitives": []
+    },
+    {
+      "id": 1780,
+      "character": "惟",
+      "pinyin": "wei",
+      "tone": 2,
+      "meaning": "thinking",
+      "story": "Thinking state of mind turkey questions \"Way? Pondering?\" curiously - only consider!",
+      "primitives": []
+    },
+    {
+      "id": 1781,
+      "character": "懼",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "be frightened",
+      "story": "Be frightened heart tool commands sharply \"Jyoo!\" - afraid terrified!",
+      "primitives": []
+    },
+    {
+      "id": 1782,
+      "character": "患",
+      "pinyin": "huan",
+      "tone": 4,
+      "meaning": "troubles",
+      "story": "Troubles string heart commands sharply \"Hwahn!\" - worry calamity injury!",
+      "primitives": []
+    },
+    {
+      "id": 1783,
+      "character": "惹",
+      "pinyin": "re",
+      "tone": 3,
+      "meaning": "provoke",
+      "story": "Provoke flowers heart bends down drooping \"Ruh\" - irritate stir up!",
+      "primitives": []
+    },
+    {
+      "id": 1784,
+      "character": "恩",
+      "pinyin": "en",
+      "tone": 1,
+      "meaning": "kindness",
+      "story": "Kindness cause heart sings \"Un!\" cheerfully - grace favor!",
+      "primitives": []
+    },
+    {
+      "id": 1785,
+      "character": "憶",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "recall",
+      "story": "Recall heart thought commands sharply \"Yee!\" - remember reminisce!",
+      "primitives": []
+    },
+    {
+      "id": 1786,
+      "character": "媳",
+      "pinyin": "xi",
+      "tone": 2,
+      "meaning": "daughter-in-law",
+      "story": "Daughter-in-law woman breath questions \"Shee? Bride?\" curiously - son's wife!",
+      "primitives": []
+    },
+    {
+      "id": 1787,
+      "character": "熄",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "put out",
+      "story": "Put out fire breath sings \"Shee!\" cheerfully - extinguish quench!",
+      "primitives": []
+    },
+    {
+      "id": 1788,
+      "character": "瑟",
+      "pinyin": "se",
+      "tone": 4,
+      "meaning": "Chinese harp",
+      "story": "Chinese harp jewel must commands sharply \"Suh!\" - lute zither!",
+      "primitives": []
+    },
+    {
+      "id": 1789,
+      "character": "泌",
+      "pinyin": "mi",
+      "tone": 4,
+      "meaning": "secrete",
+      "story": "Secrete water certainly commands sharply \"Mee!\" - discharge exude!",
+      "primitives": []
+    }
+  ]
+}

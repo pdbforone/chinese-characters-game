@@ -1,0 +1,104 @@
+{
+  "lesson": 82,
+  "characters": [
+    {
+      "id": 2063,
+      "character": "揭",
+      "pinyin": "jie",
+      "tone": 1,
+      "meaning": "reveal",
+      "story": "Reveal fingers siesta sings \"Jyeh!\" cheerfully - uncover expose hat!",
+      "primitives": []
+    },
+    {
+      "id": 2064,
+      "character": "淫",
+      "pinyin": "yin",
+      "tone": 2,
+      "meaning": "promiscuous",
+      "story": "Promiscuous water climb questions \"Yin? Lewd?\" curiously - excessive wanton!",
+      "primitives": []
+    },
+    {
+      "id": 2065,
+      "character": "挺",
+      "pinyin": "ting",
+      "tone": 3,
+      "meaning": "erect",
+      "story": "Erect hand court bends down drooping \"Ting\" - upright stand tall!",
+      "primitives": []
+    },
+    {
+      "id": 2066,
+      "character": "瓦",
+      "pinyin": "wa",
+      "tone": 3,
+      "meaning": "tile",
+      "story": "Tile roof piece bends down drooping \"Wah\" - ceramic shingle!",
+      "primitives": []
+    },
+    {
+      "id": 2067,
+      "character": "瓷",
+      "pinyin": "ci",
+      "tone": 2,
+      "meaning": "porcelain",
+      "story": "Porcelain tile meeting questions \"Tsuh? China?\" curiously - ceramic!",
+      "primitives": []
+    },
+    {
+      "id": 2068,
+      "character": "瓶",
+      "pinyin": "ping",
+      "tone": 2,
+      "meaning": "bottle",
+      "story": "Bottle tile simultaneously questions \"Ping? Container?\" curiously - vase!",
+      "primitives": []
+    },
+    {
+      "id": 2069,
+      "character": "鋁",
+      "pinyin": "lü",
+      "tone": 3,
+      "meaning": "aluminum",
+      "story": "Aluminum metal spine bends down drooping \"Lyoo\" - light metal element!",
+      "primitives": []
+    },
+    {
+      "id": 2070,
+      "character": "宮",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "palace",
+      "story": "Palace house spine sings \"Gohng!\" cheerfully - royal residence!",
+      "primitives": []
+    },
+    {
+      "id": 2071,
+      "character": "瑩",
+      "pinyin": "ying",
+      "tone": 2,
+      "meaning": "lustrous",
+      "story": "Lustrous jewel fire questions \"Ying? Shining?\" curiously - bright glowing!",
+      "primitives": []
+    },
+    {
+      "id": 2072,
+      "character": "螢",
+      "pinyin": "ying",
+      "tone": 2,
+      "meaning": "firefly",
+      "story": "Firefly firehouse insect questions \"Ying? Glow bug?\" curiously - screen light!",
+      "primitives": []
+    },
+    {
+      "id": 2073,
+      "character": "撈",
+      "pinyin": "lao",
+      "tone": 1,
+      "meaning": "scoop up",
+      "story": "Scoop up hand door sings \"Lao!\" cheerfully - dip out fortune!",
+      "primitives": []
+    }
+  ]
+}

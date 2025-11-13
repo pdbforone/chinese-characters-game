@@ -1,0 +1,158 @@
+{
+  "lesson": 70,
+  "characters": [
+    {
+      "id": 1612,
+      "character": "贖",
+      "pinyin": "shu",
+      "tone": 2,
+      "meaning": "redeem",
+      "story": "Redeem shellfish sell questions \"Shoo? Atone?\" curiously - ransom buy back!",
+      "primitives": []
+    },
+    {
+      "id": 1613,
+      "character": "晝",
+      "pinyin": "zhou",
+      "tone": 4,
+      "meaning": "daylight",
+      "story": "Daylight brush daybreak commands sharply \"Joh!\" - daytime hours!",
+      "primitives": []
+    },
+    {
+      "id": 1614,
+      "character": "津",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "Tianjin",
+      "story": "Tianjin water brush sings \"Jin!\" cheerfully - heavenly ford city!",
+      "primitives": []
+    },
+    {
+      "id": 1615,
+      "character": "釐",
+      "pinyin": "li",
+      "tone": 2,
+      "meaning": "smidgen",
+      "story": "Smidgen not yet taskmaster cliff computer questions \"Lee? Tiny?\" curiously - minuscule bit!",
+      "primitives": []
+    },
+    {
+      "id": 1616,
+      "character": "枚",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "small objects",
+      "story": "Small objects tree taskmaster questions \"May? Items?\" curiously - classifier!",
+      "primitives": []
+    },
+    {
+      "id": 1617,
+      "character": "牧",
+      "pinyin": "mu",
+      "tone": 4,
+      "meaning": "herd",
+      "story": "Herd cow taskmaster commands sharply \"Moo!\" - tend shepherd!",
+      "primitives": []
+    },
+    {
+      "id": 1618,
+      "character": "玫",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "rose",
+      "story": "Rose jewel objects questions \"May? Flower?\" curiously - beautiful bloom!",
+      "primitives": []
+    },
+    {
+      "id": 1619,
+      "character": "敦",
+      "pinyin": "dun",
+      "tone": 1,
+      "meaning": "candid",
+      "story": "Candid enjoy taskmaster sings \"Dwun!\" cheerfully - honest sincere!",
+      "primitives": []
+    },
+    {
+      "id": 1620,
+      "character": "諾",
+      "pinyin": "nuo",
+      "tone": 4,
+      "meaning": "promise",
+      "story": "Promise words Disneyland commands sharply \"Nwoh!\" - pledge agreement!",
+      "primitives": []
+    },
+    {
+      "id": 1621,
+      "character": "謂",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "meaning",
+      "story": "Meaning words act commands sharply \"Way!\" - signify called!",
+      "primitives": []
+    },
+    {
+      "id": 1622,
+      "character": "詢",
+      "pinyin": "xun",
+      "tone": 2,
+      "meaning": "inquire",
+      "story": "Inquire words follow questions \"Shyoon? Ask?\" curiously - question!",
+      "primitives": []
+    },
+    {
+      "id": 1623,
+      "character": "罰",
+      "pinyin": "fa",
+      "tone": 2,
+      "meaning": "penalize",
+      "story": "Penalize net words questions \"Fah? Fine?\" curiously - punish penalty!",
+      "primitives": []
+    },
+    {
+      "id": 1624,
+      "character": "訂",
+      "pinyin": "ding",
+      "tone": 4,
+      "meaning": "place an order",
+      "story": "Place an order words nail commands sharply \"Ding!\" - reserve book!",
+      "primitives": []
+    },
+    {
+      "id": 1625,
+      "character": "詠",
+      "pinyin": "yong",
+      "tone": 3,
+      "meaning": "chant",
+      "story": "Chant words eternity bends down drooping \"Yohng\" - recite sing classics!",
+      "primitives": []
+    },
+    {
+      "id": 1626,
+      "character": "諜",
+      "pinyin": "die",
+      "tone": 2,
+      "meaning": "espionage",
+      "story": "Espionage words family tree questions \"Dyeh? Spy?\" curiously - intelligence agent!",
+      "primitives": []
+    },
+    {
+      "id": 1627,
+      "character": "註",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "annotate",
+      "story": "Annotate words master commands sharply \"Joo!\" - comment note!",
+      "primitives": []
+    },
+    {
+      "id": 1628,
+      "character": "諒",
+      "pinyin": "liang",
+      "tone": 4,
+      "meaning": "forgive",
+      "story": "Forgive words roof beam commands sharply \"Lyahng!\" - excuse pardon!",
+      "primitives": []
+    }
+  ]
+}

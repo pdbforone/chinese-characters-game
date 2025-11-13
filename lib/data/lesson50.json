@@ -1,0 +1,158 @@
+{
+  "lesson": 50,
+  "characters": [
+    {
+      "id": 1357,
+      "character": "孤",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "Orphan",
+      "story": "Orphan child melon sings \"Goo!\" cheerfully - lone and lonely!",
+      "primitives": []
+    },
+    {
+      "id": 1358,
+      "character": "益",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "a Benefit",
+      "story": "A benefit water bowl commands sharply \"Yee!\" - increase!",
+      "primitives": []
+    },
+    {
+      "id": 1359,
+      "character": "假",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "Vacation",
+      "story": "Vacation person benefit commands sharply \"Jyah!\" - time off provisional!",
+      "primitives": []
+    },
+    {
+      "id": 1360,
+      "character": "蝦",
+      "pinyin": "xia",
+      "tone": 2,
+      "meaning": "Shrimp",
+      "story": "Shrimp insect vacation questions \"Shyah? Prawn?\" curiously - shellfish!",
+      "primitives": []
+    },
+    {
+      "id": 1361,
+      "character": "氣",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "Air",
+      "story": "Air steam rises commands sharply \"Chee!\" - gas qi spirit!",
+      "primitives": []
+    },
+    {
+      "id": 1362,
+      "character": "汽",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "Vapor",
+      "story": "Vapor water air commands sharply \"Chee!\" - steam!",
+      "primitives": []
+    },
+    {
+      "id": 1363,
+      "character": "飛",
+      "pinyin": "fei",
+      "tone": 1,
+      "meaning": "to fly",
+      "story": "To fly wings soar sings \"Fay!\" cheerfully - airborne!",
+      "primitives": []
+    },
+    {
+      "id": 1364,
+      "character": "面",
+      "pinyin": "mian",
+      "tone": 4,
+      "meaning": "face-to-face",
+      "story": "Face-to-face head commands sharply \"Myan!\" - surface plane mask!",
+      "primitives": []
+    },
+    {
+      "id": 1365,
+      "character": "麵",
+      "pinyin": "mian",
+      "tone": 4,
+      "meaning": "Noodles",
+      "story": "Noodles wheat face commands sharply \"Myan!\" - flour dough!",
+      "primitives": []
+    },
+    {
+      "id": 1366,
+      "character": "革",
+      "pinyin": "ge",
+      "tone": 2,
+      "meaning": "Leather",
+      "story": "Leather animal hide questions \"Guh? Skin?\" curiously - tough!",
+      "primitives": []
+    },
+    {
+      "id": 1367,
+      "character": "鞋",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "Shoes",
+      "story": "Shoes leather soil questions \"Shyeh? Footwear?\" curiously - walking!",
+      "primitives": []
+    },
+    {
+      "id": 1368,
+      "character": "馨",
+      "pinyin": "xin",
+      "tone": 1,
+      "meaning": "fragrant",
+      "story": "Fragrant flowers voice sings \"Shin!\" cheerfully - aromatic ambrosial!",
+      "primitives": []
+    },
+    {
+      "id": 1369,
+      "character": "聲",
+      "pinyin": "sheng",
+      "tone": 1,
+      "meaning": "Voice",
+      "story": "Voice fragrant ear sings \"Shung!\" cheerfully - sound tone!",
+      "primitives": []
+    },
+    {
+      "id": 1370,
+      "character": "吳",
+      "pinyin": "wu",
+      "tone": 2,
+      "meaning": "Wu",
+      "story": "Wu mouth heaven questions \"Woo? Jiangsu?\" curiously - surname give!",
+      "primitives": []
+    },
+    {
+      "id": 1371,
+      "character": "娛",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "Amusement",
+      "story": "Amusement woman wu questions \"Yoo? Pleasure?\" curiously - enjoyment recreation!",
+      "primitives": []
+    },
+    {
+      "id": 1372,
+      "character": "誤",
+      "pinyin": "wu",
+      "tone": 4,
+      "meaning": "Error",
+      "story": "Error words wu commands sharply \"Woo!\" - mistake neglect!",
+      "primitives": []
+    },
+    {
+      "id": 1373,
+      "character": "承",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "to undertake",
+      "story": "To undertake hands receive questions \"Chung? Bear?\" curiously - take charge acquiesce!",
+      "primitives": []
+    }
+  ]
+}

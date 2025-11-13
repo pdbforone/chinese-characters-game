@@ -1,0 +1,311 @@
+{
+  "lesson": 21,
+  "characters": [
+    {
+      "id": 514,
+      "character": "困",
+      "pinyin": "kun",
+      "tone": 4,
+      "meaning": "trapped",
+      "story": "Trapped tree in box commands \"Koon!\" sharply stuck!",
+      "primitives": []
+    },
+    {
+      "id": 515,
+      "character": "固",
+      "pinyin": "gu",
+      "tone": 4,
+      "meaning": "solid",
+      "story": "Solid trap ancient yells \"Goo!\" sharply firm!",
+      "primitives": []
+    },
+    {
+      "id": 516,
+      "character": "國",
+      "pinyin": "guo",
+      "tone": 2,
+      "meaning": "Country",
+      "story": "A country enclosure solid questions \"Gwoh? Which nation?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 517,
+      "character": "圓",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "round",
+      "story": "Round enclosure employee questions \"Yuan? Is it circular?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 518,
+      "character": "因",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "a Cause",
+      "story": "A cause big enclosure sings \"Yin!\" cheerfully reason!",
+      "primitives": []
+    },
+    {
+      "id": 519,
+      "character": "園",
+      "pinyin": "yuan",
+      "tone": 2,
+      "meaning": "Park",
+      "story": "A park enclosure soil questions \"Yuan? Nice garden?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 520,
+      "character": "回",
+      "pinyin": "hui",
+      "tone": 2,
+      "meaning": "to return",
+      "story": "To return enclosure questions \"Hway? Back?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 521,
+      "character": "迴",
+      "pinyin": "hui",
+      "tone": 2,
+      "meaning": "to revolve",
+      "story": "To revolve walk return questions \"Hway? Spinning?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 522,
+      "character": "圖",
+      "pinyin": "tu",
+      "tone": 2,
+      "meaning": "Picture",
+      "story": "A picture enclosure winter questions \"Too? What image?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 523,
+      "character": "店",
+      "pinyin": "dian",
+      "tone": 4,
+      "meaning": "a Store",
+      "story": "A store building divination commands \"Dian!\" sharply shopping!",
+      "primitives": []
+    },
+    {
+      "id": 524,
+      "character": "庫",
+      "pinyin": "ku",
+      "tone": 4,
+      "meaning": "Warehouse",
+      "story": "A warehouse building vehicle yells \"Koo!\" sharply storing!",
+      "primitives": []
+    },
+    {
+      "id": 525,
+      "character": "褲",
+      "pinyin": "ku",
+      "tone": 4,
+      "meaning": "Trousers",
+      "story": "Trousers clothes warehouse command \"Koo!\" sharply pants!",
+      "primitives": []
+    },
+    {
+      "id": 526,
+      "character": "廠",
+      "pinyin": "chang",
+      "tone": 3,
+      "meaning": "Factory",
+      "story": "A factory cliff wide bends down drooping saying \"Chang\"!",
+      "primitives": []
+    },
+    {
+      "id": 527,
+      "character": "床",
+      "pinyin": "chuang",
+      "tone": 2,
+      "meaning": "Bed",
+      "story": "A bed cliff tree questions \"Chwang? Sleep here?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 528,
+      "character": "麻",
+      "pinyin": "ma",
+      "tone": 2,
+      "meaning": "Hemp",
+      "story": "Hemp plant under roof questions \"Ma? Rough?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 529,
+      "character": "心",
+      "pinyin": "xin",
+      "tone": 1,
+      "meaning": "Heart",
+      "story": "A heart beats cheerfully singing \"Shin!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 530,
+      "character": "忘",
+      "pinyin": "wang",
+      "tone": 4,
+      "meaning": "to forget",
+      "story": "To forget deceased heart commands \"Wang!\" sharply forgotten!",
+      "primitives": []
+    },
+    {
+      "id": 531,
+      "character": "忍",
+      "pinyin": "ren",
+      "tone": 3,
+      "meaning": "to endure",
+      "story": "To endure blade heart bends down drooping saying \"Ren\"!",
+      "primitives": []
+    },
+    {
+      "id": 532,
+      "character": "認",
+      "pinyin": "ren",
+      "tone": 4,
+      "meaning": "to recognize",
+      "story": "To recognize words endure yells \"Ren!\" sharply knowing!",
+      "primitives": []
+    },
+    {
+      "id": 533,
+      "character": "志",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "Aspiration",
+      "story": "Aspiration samurai heart commands \"Zhi!\" sharply determined!",
+      "primitives": []
+    },
+    {
+      "id": 534,
+      "character": "誌",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "Annals",
+      "story": "Annals words aspiration yell \"Zhi!\" sharply recording!",
+      "primitives": []
+    },
+    {
+      "id": 535,
+      "character": "思",
+      "pinyin": "si",
+      "tone": 1,
+      "meaning": "to consider",
+      "story": "To consider field heart sings \"Si!\" cheerfully thinking!",
+      "primitives": []
+    },
+    {
+      "id": 536,
+      "character": "意",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "Idea",
+      "story": "An idea sound heart commands \"Yi!\" sharply conceiving!",
+      "primitives": []
+    },
+    {
+      "id": 537,
+      "character": "想",
+      "pinyin": "xiang",
+      "tone": 3,
+      "meaning": "to think",
+      "story": "To think tree idea bends down drooping saying \"Shyang\"!",
+      "primitives": []
+    },
+    {
+      "id": 538,
+      "character": "息",
+      "pinyin": "xi",
+      "tone": 2,
+      "meaning": "Breath",
+      "story": "Breath self heart questions \"Shi? Breathing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 539,
+      "character": "恐",
+      "pinyin": "kong",
+      "tone": 3,
+      "meaning": "to fear",
+      "story": "To fear work inch heart bends down drooping saying \"Kong\"!",
+      "primitives": []
+    },
+    {
+      "id": 540,
+      "character": "感",
+      "pinyin": "gan",
+      "tone": 3,
+      "meaning": "to feel",
+      "story": "To feel everybody heart bends down drooping saying \"Gan\"!",
+      "primitives": []
+    },
+    {
+      "id": 541,
+      "character": "憾",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "a Regret",
+      "story": "A regret heart feel commands \"Han!\" sharply regretting!",
+      "primitives": []
+    },
+    {
+      "id": 542,
+      "character": "憂",
+      "pinyin": "you",
+      "tone": 1,
+      "meaning": "worried",
+      "story": "Worried head heart sings \"Yo!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 543,
+      "character": "怕",
+      "pinyin": "pa",
+      "tone": 4,
+      "meaning": "to dread",
+      "story": "To dread heart white commands \"Pa!\" sharply scared!",
+      "primitives": []
+    },
+    {
+      "id": 544,
+      "character": "忙",
+      "pinyin": "mang",
+      "tone": 2,
+      "meaning": "busy",
+      "story": "Busy heart deceased questions \"Mang? Too much?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 545,
+      "character": "慣",
+      "pinyin": "guan",
+      "tone": 4,
+      "meaning": "accustomed to",
+      "story": "Accustomed to heart pierce yells \"Gwan!\" sharply used to!",
+      "primitives": []
+    },
+    {
+      "id": 546,
+      "character": "懷",
+      "pinyin": "huai",
+      "tone": 2,
+      "meaning": "to cherish",
+      "story": "To cherish heart bad questions \"Hwai? Care for?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 547,
+      "character": "必",
+      "pinyin": "bi",
+      "tone": 4,
+      "meaning": "certainly",
+      "story": "Certainly heart pierced commands \"Bee!\" sharply must!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "lesson": 43,
+  "characters": [
+    {
+      "id": 1247,
+      "character": "衝",
+      "pinyin": "chong",
+      "tone": 1,
+      "meaning": "to collide",
+      "story": "To collide march heavy sings \"Chohng!\" cheerfully - dash rush charge!",
+      "primitives": []
+    },
+    {
+      "id": 1248,
+      "character": "病",
+      "pinyin": "bing",
+      "tone": 4,
+      "meaning": "Illness",
+      "story": "Illness sickness bed commands sharply \"Bing!\" - ailment disease!",
+      "primitives": []
+    },
+    {
+      "id": 1249,
+      "character": "痛",
+      "pinyin": "tong",
+      "tone": 4,
+      "meaning": "to ache",
+      "story": "To ache sickness use commands sharply \"Tohng!\" - pain sorrow!",
+      "primitives": []
+    },
+    {
+      "id": 1250,
+      "character": "瘋",
+      "pinyin": "feng",
+      "tone": 1,
+      "meaning": "insane",
+      "story": "Insane sickness wind sings \"Fung!\" cheerfully - mad and mentally wild!",
+      "primitives": []
+    },
+    {
+      "id": 1251,
+      "character": "匹",
+      "pinyin": "pi",
+      "tone": 1,
+      "meaning": "to match",
+      "story": "To match box legs sings \"Pee!\" cheerfully - one of a pair equal!",
+      "primitives": []
+    },
+    {
+      "id": 1252,
+      "character": "區",
+      "pinyin": "qu",
+      "tone": 1,
+      "meaning": "Region",
+      "story": "Region hiding box sings \"Chyoo!\" cheerfully - district area ward!",
+      "primitives": []
+    },
+    {
+      "id": 1253,
+      "character": "樞",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "Hub",
+      "story": "Hub tree region sings \"Shoo!\" cheerfully - hinge and pivot!",
+      "primitives": []
+    },
+    {
+      "id": 1254,
+      "character": "歐",
+      "pinyin": "ou",
+      "tone": 1,
+      "meaning": "Europe",
+      "story": "Europe yawn sings \"Oh!\" cheerfully - the continent!",
+      "primitives": []
+    },
+    {
+      "id": 1255,
+      "character": "醫",
+      "pinyin": "yi",
+      "tone": 1,
+      "meaning": "Physician",
+      "story": "Physician alcohol arrows sings \"Yee!\" cheerfully - doctor treats cures!",
+      "primitives": []
+    },
+    {
+      "id": 1256,
+      "character": "仰",
+      "pinyin": "yang",
+      "tone": 3,
+      "meaning": "to look up to",
+      "story": "To look up to person lie down bends down drooping \"Yahng\" - raise head faceup!",
+      "primitives": []
+    },
+    {
+      "id": 1257,
+      "character": "迎",
+      "pinyin": "ying",
+      "tone": 2,
+      "meaning": "to greet",
+      "story": "To greet road stamp questions \"Ying? Welcome?\" curiously - receiving!",
+      "primitives": []
+    },
+    {
+      "id": 1258,
+      "character": "登",
+      "pinyin": "deng",
+      "tone": 1,
+      "meaning": "to ascend",
+      "story": "To ascend ceremony beans sings \"Dung!\" cheerfully - scale climb mount!",
+      "primitives": []
+    },
+    {
+      "id": 1259,
+      "character": "燈",
+      "pinyin": "deng",
+      "tone": 1,
+      "meaning": "Lamp",
+      "story": "Lamp fire ascend sings \"Dung!\" cheerfully - light shining!",
+      "primitives": []
+    },
+    {
+      "id": 1260,
+      "character": "證",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "Evidence",
+      "story": "Evidence words ascend commands sharply \"Jung!\" - proof confirms!",
+      "primitives": []
+    },
+    {
+      "id": 1261,
+      "character": "發",
+      "pinyin": "fa",
+      "tone": 1,
+      "meaning": "to send out",
+      "story": "To send out two legs sings \"Fah!\" cheerfully - issue dispatch discharge!",
+      "primitives": []
+    }
+  ]
+}

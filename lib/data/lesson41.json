@@ -1,0 +1,221 @@
+{
+  "lesson": 41,
+  "characters": [
+    {
+      "id": 1201,
+      "character": "南",
+      "pinyin": "nan",
+      "tone": 2,
+      "meaning": "South",
+      "story": "South ten questions \"Nahn? Direction?\" curiously - southern southward!",
+      "primitives": []
+    },
+    {
+      "id": 1202,
+      "character": "門",
+      "pinyin": "men",
+      "tone": 2,
+      "meaning": "Gate",
+      "story": "Gate two doors question \"Muhn? Entrance?\" curiously - opening portal!",
+      "primitives": []
+    },
+    {
+      "id": 1203,
+      "character": "們",
+      "pinyin": "men",
+      "tone": 5,
+      "meaning": "[plural]",
+      "story": "Plural marker gate person says \"men\" neutrally - we/they/you all!",
+      "primitives": []
+    },
+    {
+      "id": 1204,
+      "character": "閒",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "Leisure",
+      "story": "Leisure gate tree questions \"Shyan? Idle?\" curiously - unoccupied free time!",
+      "primitives": []
+    },
+    {
+      "id": 1205,
+      "character": "問",
+      "pinyin": "wen",
+      "tone": 4,
+      "meaning": "to ask",
+      "story": "To ask gate mouth commands sharply \"Wuhn!\" - inquire after!",
+      "primitives": []
+    },
+    {
+      "id": 1206,
+      "character": "間",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "Interval",
+      "story": "Interval gate sun sings \"Jyan!\" cheerfully - space between place!",
+      "primitives": []
+    },
+    {
+      "id": 1207,
+      "character": "簡",
+      "pinyin": "jian",
+      "tone": 3,
+      "meaning": "simple",
+      "story": "Simple bamboo interval bends down drooping \"Jyan\" - terse and succinct!",
+      "primitives": []
+    },
+    {
+      "id": 1208,
+      "character": "開",
+      "pinyin": "kai",
+      "tone": 1,
+      "meaning": "to open",
+      "story": "To open gate two hands sings \"Kigh!\" cheerfully - operate and start!",
+      "primitives": []
+    },
+    {
+      "id": 1209,
+      "character": "聞",
+      "pinyin": "wen",
+      "tone": 2,
+      "meaning": "to hear",
+      "story": "To hear gate ear questions \"Wuhn? Sniffing?\" curiously - listening!",
+      "primitives": []
+    },
+    {
+      "id": 1210,
+      "character": "倉",
+      "pinyin": "cang",
+      "tone": 1,
+      "meaning": "Storehouse",
+      "story": "Storehouse cliff mouth sings \"Tsahng!\" cheerfully - granary and barn godown!",
+      "primitives": []
+    },
+    {
+      "id": 1211,
+      "character": "槍",
+      "pinyin": "qiang",
+      "tone": 1,
+      "meaning": "Gun",
+      "story": "Gun tree storehouse sings \"Chyahng!\" cheerfully - firearm and lance!",
+      "primitives": []
+    },
+    {
+      "id": 1212,
+      "character": "創",
+      "pinyin": "chuang",
+      "tone": 4,
+      "meaning": "to initiate",
+      "story": "To initiate storehouse sword commands sharply \"Chwahng!\" - begin genesis!",
+      "primitives": []
+    },
+    {
+      "id": 1213,
+      "character": "非",
+      "pinyin": "fei",
+      "tone": 1,
+      "meaning": "non—",
+      "story": "Non— wings diverge singing \"Fay!\" cheerfully - negative and un— wrong!",
+      "primitives": []
+    },
+    {
+      "id": 1214,
+      "character": "排",
+      "pinyin": "pai",
+      "tone": 2,
+      "meaning": "Row",
+      "story": "Row hand non questions \"Pigh? Line?\" curiously - rank repudiate!",
+      "primitives": []
+    },
+    {
+      "id": 1215,
+      "character": "罪",
+      "pinyin": "zui",
+      "tone": 4,
+      "meaning": "Guilt",
+      "story": "Guilt net non commands sharply \"Dzway!\" - crime and blame sin!",
+      "primitives": []
+    },
+    {
+      "id": 1216,
+      "character": "靠",
+      "pinyin": "kao",
+      "tone": 4,
+      "meaning": "to lean on",
+      "story": "To lean on suit non commands sharply \"Cow!\" - depend upon near support!",
+      "primitives": []
+    },
+    {
+      "id": 1217,
+      "character": "侯",
+      "pinyin": "hou",
+      "tone": 2,
+      "meaning": "Marquis",
+      "story": "Marquis person arrow questions \"Ho? Lord?\" curiously - archery target!",
+      "primitives": []
+    },
+    {
+      "id": 1218,
+      "character": "候",
+      "pinyin": "hou",
+      "tone": 4,
+      "meaning": "to wait",
+      "story": "To wait marquis walking commands sharply \"Ho!\" - expect climate!",
+      "primitives": []
+    },
+    {
+      "id": 1219,
+      "character": "決",
+      "pinyin": "jue",
+      "tone": 2,
+      "meaning": "to decide",
+      "story": "To decide water husband questions \"Jyueh? Determining?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1220,
+      "character": "快",
+      "pinyin": "kuai",
+      "tone": 4,
+      "meaning": "fast",
+      "story": "Fast heart decide commands sharply \"Kwigh!\" - quick swift cheerful!",
+      "primitives": []
+    },
+    {
+      "id": 1221,
+      "character": "筷",
+      "pinyin": "kuai",
+      "tone": 4,
+      "meaning": "Chopsticks",
+      "story": "Chopsticks bamboo fast commands sharply \"Kwigh!\" - eating utensils!",
+      "primitives": []
+    },
+    {
+      "id": 1222,
+      "character": "韋",
+      "pinyin": "wei",
+      "tone": 2,
+      "meaning": "Tanned Hide",
+      "story": "Tanned hide soft leather questions \"Way? Skin?\" curiously processed!",
+      "primitives": []
+    },
+    {
+      "id": 1223,
+      "character": "圍",
+      "pinyin": "wei",
+      "tone": 2,
+      "meaning": "to surround",
+      "story": "To surround enclosure hide questions \"Way? Circle?\" curiously - corral!",
+      "primitives": []
+    },
+    {
+      "id": 1224,
+      "character": "偉",
+      "pinyin": "wei",
+      "tone": 3,
+      "meaning": "great",
+      "story": "Great person hide bends down drooping \"Way\" - big and admirable!",
+      "primitives": []
+    }
+  ]
+}

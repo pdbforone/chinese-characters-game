@@ -1,0 +1,167 @@
+{
+  "lesson": 89,
+  "characters": [
+    {
+      "id": 2277,
+      "character": "陌",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "footpath",
+      "story": "Footpath pinnacle white commands sharply \"Mwo!\" - trail lane!",
+      "primitives": []
+    },
+    {
+      "id": 2278,
+      "character": "隙",
+      "pinyin": "xi",
+      "tone": 4,
+      "meaning": "rift",
+      "story": "Rift pinnacle few spring commands sharply \"Shee!\" - gap crack crevice!",
+      "primitives": []
+    },
+    {
+      "id": 2279,
+      "character": "陡",
+      "pinyin": "dou",
+      "tone": 3,
+      "meaning": "steep",
+      "story": "Steep pinnacle walk bends down drooping \"Doh\" - abrupt precipitous!",
+      "primitives": []
+    },
+    {
+      "id": 2280,
+      "character": "障",
+      "pinyin": "zhang",
+      "tone": 4,
+      "meaning": "barrier",
+      "story": "Barrier pinnacle chapter commands sharply \"Jahng!\" - obstruction golden thread shield!",
+      "primitives": []
+    },
+    {
+      "id": 2281,
+      "character": "陪",
+      "pinyin": "pei",
+      "tone": 2,
+      "meaning": "accompany",
+      "story": "Accompany pinnacle muzzle questions \"Pay? Escort?\" curiously - attend join!",
+      "primitives": []
+    },
+    {
+      "id": 2282,
+      "character": "隧",
+      "pinyin": "sui",
+      "tone": 4,
+      "meaning": "tunnel",
+      "story": "Tunnel pinnacle satisfy commands sharply \"Sway!\" - underground passage escape!",
+      "primitives": []
+    },
+    {
+      "id": 2283,
+      "character": "墜",
+      "pinyin": "zhui",
+      "tone": 4,
+      "meaning": "plunge",
+      "story": "Plunge soil team commands sharply \"Jway!\" - fall drop!",
+      "primitives": []
+    },
+    {
+      "id": 2284,
+      "character": "陋",
+      "pinyin": "lou",
+      "tone": 4,
+      "meaning": "undesirable",
+      "story": "Undesirable pinnacle container commands sharply \"Loh!\" - ugly shabby!",
+      "primitives": []
+    },
+    {
+      "id": 2285,
+      "character": "挖",
+      "pinyin": "wa",
+      "tone": 1,
+      "meaning": "dig",
+      "story": "Dig hand frog sings \"Wah!\" cheerfully - excavate scoop!",
+      "primitives": []
+    },
+    {
+      "id": 2286,
+      "character": "窯",
+      "pinyin": "yao",
+      "tone": 2,
+      "meaning": "kiln",
+      "story": "Kiln hole sheep cooking fire questions \"Yao? Oven?\" curiously - pottery furnace!",
+      "primitives": []
+    },
+    {
+      "id": 2287,
+      "character": "窺",
+      "pinyin": "kui",
+      "tone": 1,
+      "meaning": "peep",
+      "story": "Peep hole standard sings \"Kway!\" cheerfully - spy glimpse situation!",
+      "primitives": []
+    },
+    {
+      "id": 2288,
+      "character": "窟",
+      "pinyin": "ku",
+      "tone": 1,
+      "meaning": "den",
+      "story": "Den hole bend sings \"Koo!\" cheerfully - cave hollow stone discovery!",
+      "primitives": []
+    },
+    {
+      "id": 2289,
+      "character": "窄",
+      "pinyin": "zhai",
+      "tone": 3,
+      "meaning": "strait",
+      "story": "Strait hole saw bends down drooping \"Jigh\" - narrow not wide!",
+      "primitives": []
+    },
+    {
+      "id": 2290,
+      "character": "榨",
+      "pinyin": "zha",
+      "tone": 4,
+      "meaning": "extract",
+      "story": "Extract tree strait commands sharply \"Jah!\" - squeeze press juice!",
+      "primitives": []
+    },
+    {
+      "id": 2291,
+      "character": "窘",
+      "pinyin": "jiong",
+      "tone": 3,
+      "meaning": "poverty-stricken",
+      "story": "Poverty-stricken hole monarch bends down drooping \"Jyohng\" - embarrassed poor distressed!",
+      "primitives": []
+    },
+    {
+      "id": 2292,
+      "character": "窮",
+      "pinyin": "qiong",
+      "tone": 3,
+      "meaning": "poor",
+      "story": "Poor hole body bends down drooping \"Chyohng\" - destitute impoverished!",
+      "primitives": []
+    },
+    {
+      "id": 2293,
+      "character": "窩",
+      "pinyin": "wo",
+      "tone": 1,
+      "meaning": "hollow",
+      "story": "Hollow hole jawbone sings \"Woh!\" cheerfully - nest den club hideout!",
+      "primitives": []
+    },
+    {
+      "id": 2294,
+      "character": "腔",
+      "pinyin": "qiang",
+      "tone": 1,
+      "meaning": "body cavity",
+      "story": "Body cavity flesh empty sings \"Chyahng!\" cheerfully - chamber accent Taiwan sandhi!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "lesson": 69,
+  "characters": [
+    {
+      "id": 1604,
+      "character": "略",
+      "pinyin": "lüe",
+      "tone": 4,
+      "meaning": "abbreviation",
+      "story": "Abbreviation field each commands sharply \"Lyueh!\" - brief summary!",
+      "primitives": []
+    },
+    {
+      "id": 1605,
+      "character": "暈",
+      "pinyin": "yun",
+      "tone": 1,
+      "meaning": "dizzy",
+      "story": "Dizzy sun army sings \"Yoon!\" cheerfully - faint halo!",
+      "primitives": []
+    },
+    {
+      "id": 1606,
+      "character": "渾",
+      "pinyin": "hun",
+      "tone": 2,
+      "meaning": "muddled",
+      "story": "Muddled water army questions \"Hwun? Batter?\" curiously - confused turbid!",
+      "primitives": []
+    },
+    {
+      "id": 1607,
+      "character": "膏",
+      "pinyin": "gao",
+      "tone": 1,
+      "meaning": "ointment",
+      "story": "Ointment eiffel tower flesh sings \"Gao!\" cheerfully - salve cream!",
+      "primitives": []
+    },
+    {
+      "id": 1608,
+      "character": "亨",
+      "pinyin": "heng",
+      "tone": 1,
+      "meaning": "go smoothly",
+      "story": "Go smoothly high lid sings \"Hung!\" cheerfully - prosperous unobstructed!",
+      "primitives": []
+    },
+    {
+      "id": 1609,
+      "character": "哼",
+      "pinyin": "heng",
+      "tone": 1,
+      "meaning": "hum",
+      "story": "Hum mouth smoothly sings \"Hung!\" cheerfully - humming sound!",
+      "primitives": []
+    },
+    {
+      "id": 1610,
+      "character": "淳",
+      "pinyin": "chun",
+      "tone": 2,
+      "meaning": "honest",
+      "story": "Honest water enjoy questions \"Chwun? Sincere?\" curiously - candid pure!",
+      "primitives": []
+    },
+    {
+      "id": 1611,
+      "character": "鯨",
+      "pinyin": "jing",
+      "tone": 1,
+      "meaning": "whale",
+      "story": "Whale fish capital sings \"Jing!\" cheerfully - ocean giant swallows school!",
+      "primitives": []
+    }
+  ]
+}

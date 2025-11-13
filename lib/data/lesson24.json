@@ -1,0 +1,536 @@
+{
+  "lesson": 24,
+  "characters": [
+    {
+      "id": 651,
+      "character": "當",
+      "pinyin": "dang",
+      "tone": 1,
+      "meaning": "to work as",
+      "story": "To work as field small sings \"Dang!\" cheerfully employed!",
+      "primitives": []
+    },
+    {
+      "id": 652,
+      "character": "檔",
+      "pinyin": "dang",
+      "tone": 3,
+      "meaning": "Files",
+      "story": "Files tree work as bend down drooping saying \"Dang\"!",
+      "primitives": []
+    },
+    {
+      "id": 653,
+      "character": "黨",
+      "pinyin": "dang",
+      "tone": 3,
+      "meaning": "Political Party",
+      "story": "Political party black work as bend down drooping saying \"Dang\"!",
+      "primitives": []
+    },
+    {
+      "id": 654,
+      "character": "常",
+      "pinyin": "chang",
+      "tone": 2,
+      "meaning": "often",
+      "story": "Often towel work as questions \"Chang? Frequently?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 655,
+      "character": "堂",
+      "pinyin": "tang",
+      "tone": 2,
+      "meaning": "Main Room",
+      "story": "Main room earth often questions \"Tang? Central hall?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 656,
+      "character": "皮",
+      "pinyin": "pi",
+      "tone": 2,
+      "meaning": "Covering",
+      "story": "Covering hand claw questions \"Pi? Skin?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 657,
+      "character": "波",
+      "pinyin": "bo",
+      "tone": 1,
+      "meaning": "Waves",
+      "story": "Waves water skin sings \"Bwo!\" cheerfully rippling!",
+      "primitives": []
+    },
+    {
+      "id": 658,
+      "character": "婆",
+      "pinyin": "po",
+      "tone": 2,
+      "meaning": "Old Woman",
+      "story": "Old woman skin questions \"Pwo? Grandmother?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 659,
+      "character": "破",
+      "pinyin": "po",
+      "tone": 4,
+      "meaning": "to break",
+      "story": "To break stone skin commands \"Pwoh!\" sharply shattered!",
+      "primitives": []
+    },
+    {
+      "id": 660,
+      "character": "被",
+      "pinyin": "bei",
+      "tone": 4,
+      "meaning": "a Quilt",
+      "story": "A quilt clothes skin yells \"Bay!\" sharply covering!",
+      "primitives": []
+    },
+    {
+      "id": 661,
+      "character": "歹",
+      "pinyin": "dai",
+      "tone": 3,
+      "meaning": "malicious",
+      "story": "Malicious death bends down drooping saying \"Dai\"!",
+      "primitives": []
+    },
+    {
+      "id": 662,
+      "character": "列",
+      "pinyin": "lie",
+      "tone": 4,
+      "meaning": "to line up",
+      "story": "To line up dagger commands \"Lieh!\" sharply arrayed!",
+      "primitives": []
+    },
+    {
+      "id": 663,
+      "character": "烈",
+      "pinyin": "lie",
+      "tone": 4,
+      "meaning": "intense",
+      "story": "Intense fire line up yells \"Lieh!\" sharply fierce!",
+      "primitives": []
+    },
+    {
+      "id": 664,
+      "character": "死",
+      "pinyin": "si",
+      "tone": 3,
+      "meaning": "Death",
+      "story": "Death dagger bends down drooping saying \"Si\"!",
+      "primitives": []
+    },
+    {
+      "id": 665,
+      "character": "葬",
+      "pinyin": "zang",
+      "tone": 4,
+      "meaning": "to inter",
+      "story": "To inter grass death commands \"Zang!\" sharply burying!",
+      "primitives": []
+    },
+    {
+      "id": 666,
+      "character": "耳",
+      "pinyin": "er",
+      "tone": 3,
+      "meaning": "Ear",
+      "story": "An ear bends down drooping saying \"Er\"!",
+      "primitives": []
+    },
+    {
+      "id": 667,
+      "character": "取",
+      "pinyin": "qu",
+      "tone": 3,
+      "meaning": "to take",
+      "story": "To take ear hand bends down drooping saying \"Chu\"!",
+      "primitives": []
+    },
+    {
+      "id": 668,
+      "character": "趣",
+      "pinyin": "qu",
+      "tone": 4,
+      "meaning": "an Interest",
+      "story": "An interest take walk commands \"Chu!\" sharply engaging!",
+      "primitives": []
+    },
+    {
+      "id": 669,
+      "character": "最",
+      "pinyin": "zui",
+      "tone": 4,
+      "meaning": "most",
+      "story": "Most ear take sun yells \"Zway!\" sharply utmost!",
+      "primitives": []
+    },
+    {
+      "id": 670,
+      "character": "職",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "Job",
+      "story": "A job ear sound questions \"Zhi? Working?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 671,
+      "character": "聖",
+      "pinyin": "sheng",
+      "tone": 4,
+      "meaning": "holy",
+      "story": "Holy ear king commands \"Sheng!\" sharply divine!",
+      "primitives": []
+    },
+    {
+      "id": 672,
+      "character": "敢",
+      "pinyin": "gan",
+      "tone": 3,
+      "meaning": "brave",
+      "story": "Brave ear strike bends down drooping saying \"Gan\"!",
+      "primitives": []
+    },
+    {
+      "id": 673,
+      "character": "嚴",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "strict",
+      "story": "Strict brave mouth questions \"Yan? Severe?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 674,
+      "character": "曼",
+      "pinyin": "man",
+      "tone": 4,
+      "meaning": "drawn out",
+      "story": "Drawn out sun eye commands \"Man!\" sharply extended!",
+      "primitives": []
+    },
+    {
+      "id": 675,
+      "character": "慢",
+      "pinyin": "man",
+      "tone": 4,
+      "meaning": "slow",
+      "story": "Slow heart drawn out yells \"Man!\" sharply gradual!",
+      "primitives": []
+    },
+    {
+      "id": 676,
+      "character": "漫",
+      "pinyin": "man",
+      "tone": 4,
+      "meaning": "to overflow",
+      "story": "To overflow water slow commands \"Man!\" sharply flooding!",
+      "primitives": []
+    },
+    {
+      "id": 677,
+      "character": "環",
+      "pinyin": "huan",
+      "tone": 2,
+      "meaning": "a Ring",
+      "story": "A ring jade surround questions \"Hwan? Circular?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 678,
+      "character": "還",
+      "pinyin": "huan",
+      "tone": 2,
+      "meaning": "to give back",
+      "story": "To give back walk ring questions \"Hwan? Return?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 679,
+      "character": "夫",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "Husband",
+      "story": "Husband big questions \"Foo? My man?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 680,
+      "character": "規",
+      "pinyin": "gui",
+      "tone": 1,
+      "meaning": "Regulations",
+      "story": "Regulations see husband sings \"Gway!\" cheerfully rules!",
+      "primitives": []
+    },
+    {
+      "id": 681,
+      "character": "替",
+      "pinyin": "ti",
+      "tone": 4,
+      "meaning": "to replace",
+      "story": "To replace two husband day commands \"Ti!\" sharply substituting!",
+      "primitives": []
+    },
+    {
+      "id": 682,
+      "character": "失",
+      "pinyin": "shi",
+      "tone": 1,
+      "meaning": "to lose",
+      "story": "To lose husband hand sings \"Shi!\" sadly high!",
+      "primitives": []
+    },
+    {
+      "id": 683,
+      "character": "臣",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "Feudal Official",
+      "story": "Feudal official bound questions \"Chen? Serving?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 684,
+      "character": "臨",
+      "pinyin": "lin",
+      "tone": 2,
+      "meaning": "to be about to",
+      "story": "To be about to official goods questions \"Lin? Soon?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 685,
+      "character": "賢",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "worthy",
+      "story": "Worthy official shellfish questions \"Shian? Virtuous?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 686,
+      "character": "堅",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "firm",
+      "story": "Firm earth official sings \"Jian!\" cheerfully solid!",
+      "primitives": []
+    },
+    {
+      "id": 687,
+      "character": "力",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "Power",
+      "story": "Power commands \"Lee!\" sharply strong!",
+      "primitives": []
+    },
+    {
+      "id": 688,
+      "character": "另",
+      "pinyin": "ling",
+      "tone": 4,
+      "meaning": "another",
+      "story": "Another power commands \"Ling!\" sharply different!",
+      "primitives": []
+    },
+    {
+      "id": 689,
+      "character": "別",
+      "pinyin": "bie",
+      "tone": 2,
+      "meaning": "don't",
+      "story": "Don't another sword questions \"Bieh? Please not?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 690,
+      "character": "拐",
+      "pinyin": "guai",
+      "tone": 3,
+      "meaning": "to turn",
+      "story": "To turn hand separate bends down drooping saying \"Gwai\"!",
+      "primitives": []
+    },
+    {
+      "id": 691,
+      "character": "男",
+      "pinyin": "nan",
+      "tone": 2,
+      "meaning": "Male",
+      "story": "Male field power questions \"Nan? Man?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 692,
+      "character": "功",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "Achievement",
+      "story": "Achievement work power sings \"Gong!\" cheerfully accomplished!",
+      "primitives": []
+    },
+    {
+      "id": 693,
+      "character": "奴",
+      "pinyin": "nu",
+      "tone": 2,
+      "meaning": "Slave",
+      "story": "A slave woman power questions \"Noo? Serve?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 694,
+      "character": "努",
+      "pinyin": "nu",
+      "tone": 3,
+      "meaning": "to toil",
+      "story": "To toil slave power bends down drooping saying \"Noo\"!",
+      "primitives": []
+    },
+    {
+      "id": 695,
+      "character": "加",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "to add",
+      "story": "To add power mouth sings \"Jia!\" cheerfully increasing!",
+      "primitives": []
+    },
+    {
+      "id": 696,
+      "character": "賀",
+      "pinyin": "he",
+      "tone": 4,
+      "meaning": "to congratulate",
+      "story": "To congratulate add shellfish commands \"Huh!\" sharply celebrating!",
+      "primitives": []
+    },
+    {
+      "id": 697,
+      "character": "架",
+      "pinyin": "jia",
+      "tone": 4,
+      "meaning": "Shelf",
+      "story": "A shelf add tree yells \"Jia!\" sharply supporting!",
+      "primitives": []
+    },
+    {
+      "id": 698,
+      "character": "協",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "to cooperate",
+      "story": "To cooperate ten power questions \"Shieh? Together?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 699,
+      "character": "行",
+      "pinyin": "hang",
+      "tone": 2,
+      "meaning": "Line Of Business",
+      "story": "Line of business step questions \"Hang? What trade?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 700,
+      "character": "律",
+      "pinyin": "lü",
+      "tone": 4,
+      "meaning": "Law",
+      "story": "Law walk step commands \"Lyu!\" sharply ruling!",
+      "primitives": []
+    },
+    {
+      "id": 701,
+      "character": "復",
+      "pinyin": "fu",
+      "tone": 4,
+      "meaning": "to recover",
+      "story": "To recover walk clothes day commands \"Foo!\" sharply restoring!",
+      "primitives": []
+    },
+    {
+      "id": 702,
+      "character": "得",
+      "pinyin": "de",
+      "tone": 2,
+      "meaning": "must",
+      "story": "Must step hand questions \"Duh? Have to?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 703,
+      "character": "待",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "to treat",
+      "story": "To treat step temple commands \"Dai!\" sharply serving!",
+      "primitives": []
+    },
+    {
+      "id": 704,
+      "character": "往",
+      "pinyin": "wang",
+      "tone": 3,
+      "meaning": "toward",
+      "story": "Going toward step king bends down drooping saying \"Wang\"!",
+      "primitives": []
+    },
+    {
+      "id": 705,
+      "character": "德",
+      "pinyin": "de",
+      "tone": 2,
+      "meaning": "Morality",
+      "story": "Morality step go straight questions \"Duh? Virtuous?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 706,
+      "character": "聽",
+      "pinyin": "ting",
+      "tone": 1,
+      "meaning": "to listen",
+      "story": "To listen ear ten eye sings \"Ting!\" cheerfully hearing!",
+      "primitives": []
+    },
+    {
+      "id": 707,
+      "character": "廳",
+      "pinyin": "ting",
+      "tone": 1,
+      "meaning": "Hall",
+      "story": "Hall cliff listen sings \"Ting!\" cheerfully grand!",
+      "primitives": []
+    },
+    {
+      "id": 708,
+      "character": "微",
+      "pinyin": "wei",
+      "tone": 2,
+      "meaning": "tiny",
+      "story": "Tiny step mountain questions \"Way? So small?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 709,
+      "character": "街",
+      "pinyin": "jie",
+      "tone": 1,
+      "meaning": "Street",
+      "story": "Street step earth sings \"Jieh!\" cheerfully paved!",
+      "primitives": []
+    }
+  ]
+}

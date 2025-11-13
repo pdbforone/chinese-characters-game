@@ -1,0 +1,239 @@
+{
+  "lesson": 106,
+  "characters": [
+    {
+      "id": 2782,
+      "character": "撐",
+      "pinyin": "cheng",
+      "tone": 1,
+      "meaning": "prop up",
+      "story": "\"CHUNG!\" the fingers sing cheerfully as they prop up, support, and hold the tent!",
+      "primitives": []
+    },
+    {
+      "id": 2783,
+      "character": "雅",
+      "pinyin": "ya",
+      "tone": 3,
+      "meaning": "polished",
+      "story": "The tusk and turkey bend down drooping - polished, elegant, and refined in the room before goodbye.",
+      "primitives": []
+    },
+    {
+      "id": 2784,
+      "character": "邪",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "wicked",
+      "story": "\"SHYEH?\" the tusk and city walls question curiously - is that wicked, evil with a sinister laugh?",
+      "primitives": []
+    },
+    {
+      "id": 2785,
+      "character": "奧",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "of great depth",
+      "story": "\"AO!\" the drop, helmet, and droppings command sharply - of great depth, profound, and mysterious!",
+      "primitives": []
+    },
+    {
+      "id": 2786,
+      "character": "澳",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "deep inlet",
+      "story": "\"AO!\" the water commands sharply - a deep inlet, a bay, and harbor!",
+      "primitives": []
+    },
+    {
+      "id": 2787,
+      "character": "懊",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "remorseful",
+      "story": "\"AO!\" the state of mind commands sharply about the depth - remorseful, regretful, and ashamed!",
+      "primitives": []
+    },
+    {
+      "id": 2788,
+      "character": "悉",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "be informed",
+      "story": "\"SHEE!\" the heart sings cheerfully - to be informed, to know, and to learn!",
+      "primitives": []
+    },
+    {
+      "id": 2789,
+      "character": "竊",
+      "pinyin": "qie",
+      "tone": 4,
+      "meaning": "pilfer",
+      "story": "\"CHYEH!\" the hole, droppings, magic wand, prisoner, and glass cover command sharply - to pilfer and steal like a thief!",
+      "primitives": []
+    },
+    {
+      "id": 2790,
+      "character": "審",
+      "pinyin": "shen",
+      "tone": 3,
+      "meaning": "painstaking",
+      "story": "The house bends down drooping with painstaking care - to examine with aesthetics.",
+      "primitives": []
+    },
+    {
+      "id": 2791,
+      "character": "嬸",
+      "pinyin": "shen",
+      "tone": 3,
+      "meaning": "auntie",
+      "story": "The woman bends down drooping after painstaking work - auntie, uncle's wife!",
+      "primitives": []
+    },
+    {
+      "id": 2792,
+      "character": "毯",
+      "pinyin": "tan",
+      "tone": 3,
+      "meaning": "blanket",
+      "story": "The fabric bends down drooping - a blanket, a rug, and throw.",
+      "primitives": []
+    },
+    {
+      "id": 2793,
+      "character": "毫",
+      "pinyin": "hao",
+      "tone": 2,
+      "meaning": "milli",
+      "story": "\"HAO?\" he questions curiously - milli, a tiny fraction?",
+      "primitives": []
+    },
+    {
+      "id": 2794,
+      "character": "耗",
+      "pinyin": "hao",
+      "tone": 4,
+      "meaning": "consume",
+      "story": "\"HAO!\" he commands sharply - to consume, waste, and deplete the chicken!",
+      "primitives": []
+    },
+    {
+      "id": 2795,
+      "character": "耕",
+      "pinyin": "geng",
+      "tone": 1,
+      "meaning": "till",
+      "story": "\"GUNG!\" the Christmas tree and well sing cheerfully - to till, plow, and cultivate the land!",
+      "primitives": []
+    },
+    {
+      "id": 2796,
+      "character": "籍",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "records",
+      "story": "\"JEE?\" the bamboo, Christmas tree, and times past question curiously - records, documents, and clan archives?",
+      "primitives": []
+    },
+    {
+      "id": 2797,
+      "character": "藉",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "excuse",
+      "story": "\"JYEH!\" the flowers command sharply - an excuse, a pretext to forget!",
+      "primitives": []
+    },
+    {
+      "id": 2798,
+      "character": "托",
+      "pinyin": "tuo",
+      "tone": 1,
+      "meaning": "hold up",
+      "story": "\"TWOH!\" the hand sings cheerfully - to hold up and support like a motorcycle, so cocky!",
+      "primitives": []
+    },
+    {
+      "id": 2799,
+      "character": "畏",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "be afraid of",
+      "story": "\"WAY!\" the field commands sharply - to be afraid of, fear, and dread!",
+      "primitives": []
+    },
+    {
+      "id": 2800,
+      "character": "喂",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "Hello",
+      "story": "\"WAY!\" the mouth commands sharply when afraid - Hello, hey to greet!",
+      "primitives": []
+    },
+    {
+      "id": 2801,
+      "character": "脹",
+      "pinyin": "zhang",
+      "tone": 4,
+      "meaning": "bloated",
+      "story": "\"JAHNG!\" the flesh and long command sharply - bloated, swollen, and puffy!",
+      "primitives": []
+    },
+    {
+      "id": 2802,
+      "character": "帳",
+      "pinyin": "zhang",
+      "tone": 4,
+      "meaning": "tent",
+      "story": "\"JAHNG!\" the cloth commands sharply - a tent, canopy, and shelter!",
+      "primitives": []
+    },
+    {
+      "id": 2803,
+      "character": "肆",
+      "pinyin": "si",
+      "tone": 4,
+      "meaning": "IV",
+      "story": "\"SIH!\" the four commands sharply - IV, fraud-proof numeral, and wanton tolerance!",
+      "primitives": []
+    },
+    {
+      "id": 2804,
+      "character": "鬍",
+      "pinyin": "hu",
+      "tone": 2,
+      "meaning": "beard",
+      "story": "\"HOO?\" the hair questions curiously about recklessness - a beard, whiskers for the difficult uncle?",
+      "primitives": []
+    },
+    {
+      "id": 2805,
+      "character": "鬆",
+      "pinyin": "song",
+      "tone": 1,
+      "meaning": "loose",
+      "story": "\"SUNG!\" he sings cheerfully - loose, relaxed, and slack!",
+      "primitives": []
+    },
+    {
+      "id": 2806,
+      "character": "鵬",
+      "pinyin": "peng",
+      "tone": 2,
+      "meaning": "roc",
+      "story": "\"PUNG?\" the companion bird questions curiously - a roc, giant and mythical?",
+      "primitives": []
+    },
+    {
+      "id": 2807,
+      "character": "鳴",
+      "pinyin": "ming",
+      "tone": 2,
+      "meaning": "twitter",
+      "story": "\"MING?\" the bird questions curiously - to twitter and chirp like Naruto?",
+      "primitives": []
+    }
+  ]
+}

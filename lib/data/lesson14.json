@@ -1,0 +1,212 @@
+{
+  "lesson": 14,
+  "characters": [
+    {
+      "id": 288,
+      "character": "冗",
+      "pinyin": "rong",
+      "tone": 3,
+      "meaning": "superfluous",
+      "story": "Superfluous roof power bends down drooping saying \"Rong\"!",
+      "primitives": []
+    },
+    {
+      "id": 289,
+      "character": "沉",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "profound",
+      "story": "Profound water seven questions \"Chen? How deep?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 290,
+      "character": "軍",
+      "pinyin": "jun",
+      "tone": 1,
+      "meaning": "Army",
+      "story": "An army car sings \"June!\" cheerfully marching!",
+      "primitives": []
+    },
+    {
+      "id": 291,
+      "character": "輝",
+      "pinyin": "hui",
+      "tone": 1,
+      "meaning": "Radiance",
+      "story": "Radiance car sings \"Hway!\" cheerfully glowing!",
+      "primitives": []
+    },
+    {
+      "id": 292,
+      "character": "運",
+      "pinyin": "yun",
+      "tone": 4,
+      "meaning": "to carry",
+      "story": "To carry army walk commands \"Yun!\" sharply moving!",
+      "primitives": []
+    },
+    {
+      "id": 293,
+      "character": "冠",
+      "pinyin": "guan",
+      "tone": 1,
+      "meaning": "Crown",
+      "story": "A crown roof beginning king sings \"Gwan!\" cheerfully royal!",
+      "primitives": []
+    },
+    {
+      "id": 294,
+      "character": "夢",
+      "pinyin": "meng",
+      "tone": 4,
+      "meaning": "a Dream",
+      "story": "A dream grass crown evening yells \"Mung!\" sharply at night!",
+      "primitives": []
+    },
+    {
+      "id": 295,
+      "character": "坑",
+      "pinyin": "keng",
+      "tone": 1,
+      "meaning": "Pit",
+      "story": "A pit soil hollow sings \"Kung!\" echoing happy!",
+      "primitives": []
+    },
+    {
+      "id": 296,
+      "character": "高",
+      "pinyin": "gao",
+      "tone": 1,
+      "meaning": "tall",
+      "story": "Tall mouth building sings \"Gao!\" cheerfully high!",
+      "primitives": []
+    },
+    {
+      "id": 297,
+      "character": "享",
+      "pinyin": "xiang",
+      "tone": 3,
+      "meaning": "to enjoy",
+      "story": "To enjoy tall child bends down drooping saying \"Shyang\"!",
+      "primitives": []
+    },
+    {
+      "id": 298,
+      "character": "熟",
+      "pinyin": "shu",
+      "tone": 2,
+      "meaning": "ripe",
+      "story": "Ripe fire enjoy questions \"Shoo? Is it done?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 299,
+      "character": "亭",
+      "pinyin": "ting",
+      "tone": 2,
+      "meaning": "Pavilion",
+      "story": "A pavilion tall nail questions \"Ting? Rest here?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 300,
+      "character": "亮",
+      "pinyin": "liang",
+      "tone": 4,
+      "meaning": "shining",
+      "story": "Shining tall cap commands \"Lyang!\" sharply bright!",
+      "primitives": []
+    },
+    {
+      "id": 301,
+      "character": "京",
+      "pinyin": "jing",
+      "tone": 1,
+      "meaning": "Capital",
+      "story": "A capital tall mouth sings \"Jing!\" cheerfully grand!",
+      "primitives": []
+    },
+    {
+      "id": 302,
+      "character": "涼",
+      "pinyin": "liang",
+      "tone": 2,
+      "meaning": "cool",
+      "story": "Cool water capital questions \"Lyang? Refreshing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 303,
+      "character": "景",
+      "pinyin": "jing",
+      "tone": 3,
+      "meaning": "Scenery",
+      "story": "Scenery sun capital bends down drooping saying \"Jing\"!",
+      "primitives": []
+    },
+    {
+      "id": 304,
+      "character": "就",
+      "pinyin": "jiu",
+      "tone": 4,
+      "meaning": "at once",
+      "story": "At once capital dog commands \"Jyo!\" sharply immediately!",
+      "primitives": []
+    },
+    {
+      "id": 305,
+      "character": "周",
+      "pinyin": "zhou",
+      "tone": 1,
+      "meaning": "Circumference",
+      "story": "Circumference mouth inside sings \"Joe!\" cheerfully around!",
+      "primitives": []
+    },
+    {
+      "id": 306,
+      "character": "週",
+      "pinyin": "zhou",
+      "tone": 1,
+      "meaning": "Week",
+      "story": "A week walk circumference sings \"Joe!\" cheerfully cycling!",
+      "primitives": []
+    },
+    {
+      "id": 307,
+      "character": "士",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Soldier",
+      "story": "A soldier one ten commands \"Shi!\" sharply standing!",
+      "primitives": []
+    },
+    {
+      "id": 308,
+      "character": "吉",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "lucky",
+      "story": "Lucky soldier mouth questions \"Ji? Good fortune?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 309,
+      "character": "買",
+      "pinyin": "mai",
+      "tone": 3,
+      "meaning": "to buy",
+      "story": "To buy net four bends down drooping saying \"Mai\"!",
+      "primitives": []
+    },
+    {
+      "id": 310,
+      "character": "賣",
+      "pinyin": "mai",
+      "tone": 4,
+      "meaning": "to sell",
+      "story": "To sell buy shellfish commands \"Mai!\" sharply trading!",
+      "primitives": []
+    }
+  ]
+}

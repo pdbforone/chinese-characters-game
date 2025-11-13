@@ -1,0 +1,158 @@
+{
+  "lesson": 48,
+  "characters": [
+    {
+      "id": 1328,
+      "character": "典",
+      "pinyin": "dian",
+      "tone": 3,
+      "meaning": "Canon",
+      "story": "Canon booklet table bends down drooping \"Dyan\" - dictionary code!",
+      "primitives": []
+    },
+    {
+      "id": 1329,
+      "character": "氏",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "Family Name",
+      "story": "Family name clan line commands sharply \"Shir!\" - maiden name!",
+      "primitives": []
+    },
+    {
+      "id": 1330,
+      "character": "紙",
+      "pinyin": "zhi",
+      "tone": 3,
+      "meaning": "Paper",
+      "story": "Paper thread family name bends down drooping \"Jir\" - sheets!",
+      "primitives": []
+    },
+    {
+      "id": 1331,
+      "character": "昏",
+      "pinyin": "hun",
+      "tone": 1,
+      "meaning": "Dusk",
+      "story": "Dusk sun family name sings \"Hwun!\" cheerfully - nightfall twilight dark!",
+      "primitives": []
+    },
+    {
+      "id": 1332,
+      "character": "婚",
+      "pinyin": "hun",
+      "tone": 1,
+      "meaning": "Marriage",
+      "story": "Marriage woman dusk sings \"Hwun!\" cheerfully - wedding take wife!",
+      "primitives": []
+    },
+    {
+      "id": 1333,
+      "character": "低",
+      "pinyin": "di",
+      "tone": 1,
+      "meaning": "low",
+      "story": "Low person dusk sings \"Dee!\" cheerfully - beneath droop lower!",
+      "primitives": []
+    },
+    {
+      "id": 1334,
+      "character": "底",
+      "pinyin": "di",
+      "tone": 3,
+      "meaning": "Bottom",
+      "story": "Bottom building low bends down drooping \"Dee\" - base underside!",
+      "primitives": []
+    },
+    {
+      "id": 1335,
+      "character": "民",
+      "pinyin": "min",
+      "tone": 2,
+      "meaning": "People",
+      "story": "People clan questions \"Min? Citizen?\" curiously - nationality!",
+      "primitives": []
+    },
+    {
+      "id": 1336,
+      "character": "眠",
+      "pinyin": "mian",
+      "tone": 2,
+      "meaning": "the Slumber",
+      "story": "The slumber eye people questions \"Myan? Sleep?\" curiously - rest!",
+      "primitives": []
+    },
+    {
+      "id": 1337,
+      "character": "甫",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "Fu3",
+      "story": "Fu3 cloth field bends down drooping \"Foo\" - just now offspring!",
+      "primitives": []
+    },
+    {
+      "id": 1338,
+      "character": "補",
+      "pinyin": "bu",
+      "tone": 3,
+      "meaning": "to patch",
+      "story": "To patch clothing fu3 bends down drooping \"Boo\" - repair mend fix supplement!",
+      "primitives": []
+    },
+    {
+      "id": 1339,
+      "character": "博",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "knowledgeable",
+      "story": "Knowledgeable ten fu3 measure questions \"Bwo? Extensive?\" curiously - rich dr.!",
+      "primitives": []
+    },
+    {
+      "id": 1340,
+      "character": "搏",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "to wrestle",
+      "story": "To wrestle hand knowledgeable questions \"Bwo? Fight?\" curiously - combat seize!",
+      "primitives": []
+    },
+    {
+      "id": 1341,
+      "character": "都",
+      "pinyin": "du",
+      "tone": 1,
+      "meaning": "Metropolis",
+      "story": "Metropolis city knowledgeable sings \"Doh!\" cheerfully - capital!",
+      "primitives": []
+    },
+    {
+      "id": 1342,
+      "character": "部",
+      "pinyin": "bu",
+      "tone": 4,
+      "meaning": "Department",
+      "story": "Department stand city commands sharply \"Boo!\" - ministry section!",
+      "primitives": []
+    },
+    {
+      "id": 1343,
+      "character": "郎",
+      "pinyin": "lang",
+      "tone": 2,
+      "meaning": "Young Man",
+      "story": "Young man good city questions \"Lahng? Youth?\" curiously - son!",
+      "primitives": []
+    },
+    {
+      "id": 1344,
+      "character": "鄉",
+      "pinyin": "xiang",
+      "tone": 1,
+      "meaning": "Countryside",
+      "story": "Countryside city ate sings \"Shyahng!\" cheerfully - village hometown!",
+      "primitives": []
+    }
+  ]
+}

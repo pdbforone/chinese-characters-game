@@ -1,0 +1,131 @@
+{
+  "lesson": 105,
+  "characters": [
+    {
+      "id": 2768,
+      "character": "霞",
+      "pinyin": "xia",
+      "tone": 2,
+      "meaning": "red sky",
+      "story": "\"SHYAH?\" the weather questions curiously - is that a red sky with sunset clouds and braces?",
+      "primitives": []
+    },
+    {
+      "id": 2769,
+      "character": "氧",
+      "pinyin": "yang",
+      "tone": 3,
+      "meaning": "oxygen",
+      "story": "The gas and sheep bend down drooping - oxygen, the element we breathe.",
+      "primitives": []
+    },
+    {
+      "id": 2770,
+      "character": "氛",
+      "pinyin": "fen",
+      "tone": 1,
+      "meaning": "atmosphere",
+      "story": "\"FEN!\" the gas sings cheerfully - the atmosphere, ambiance, and air around us!",
+      "primitives": []
+    },
+    {
+      "id": 2771,
+      "character": "氯",
+      "pinyin": "lü",
+      "tone": 4,
+      "meaning": "chlorine",
+      "story": "\"LYOO!\" the gas and snowman command sharply - chlorine, the element to disinfect water!",
+      "primitives": []
+    },
+    {
+      "id": 2772,
+      "character": "氫",
+      "pinyin": "qing",
+      "tone": 1,
+      "meaning": "hydrogen",
+      "story": "\"CHING!\" the gas sings cheerfully - hydrogen, the lightest element floating up!",
+      "primitives": []
+    },
+    {
+      "id": 2773,
+      "character": "鞏",
+      "pinyin": "gong",
+      "tone": 3,
+      "meaning": "strengthen",
+      "story": "The I-beam and ordinary leather bend down drooping to strengthen, consolidate, and fortify the structure.",
+      "primitives": []
+    },
+    {
+      "id": 2774,
+      "character": "霸",
+      "pinyin": "ba",
+      "tone": 4,
+      "meaning": "tyrant",
+      "story": "\"BAH!\" the weather commands sharply - a tyrant, a despot who dominates!",
+      "primitives": []
+    },
+    {
+      "id": 2775,
+      "character": "壩",
+      "pinyin": "ba",
+      "tone": 4,
+      "meaning": "dam",
+      "story": "\"BAH!\" the soil and tyrant command sharply - building a dam, embankment, and barrier!",
+      "primitives": []
+    },
+    {
+      "id": 2776,
+      "character": "勒",
+      "pinyin": "le",
+      "tone": 4,
+      "meaning": "tighten",
+      "story": "\"LUH!\" the muscle commands sharply - to tighten, strangle, and constrict!",
+      "primitives": []
+    },
+    {
+      "id": 2777,
+      "character": "鞠",
+      "pinyin": "ju",
+      "tone": 1,
+      "meaning": "bow respectfully",
+      "story": "\"JYOO!\" the leather and rice sing cheerfully as he bows respectfully, kowtowing and saluting!",
+      "primitives": []
+    },
+    {
+      "id": 2778,
+      "character": "靴",
+      "pinyin": "xue",
+      "tone": 1,
+      "meaning": "boots",
+      "story": "\"SHWEH!\" the leather transforms and sings cheerfully - boots, shoes, and footwear!",
+      "primitives": []
+    },
+    {
+      "id": 2779,
+      "character": "鞭",
+      "pinyin": "bian",
+      "tone": 1,
+      "meaning": "whip",
+      "story": "\"BYEN!\" the leather sings cheerfully when convenient - a whip to lash and strike!",
+      "primitives": []
+    },
+    {
+      "id": 2780,
+      "character": "芽",
+      "pinyin": "ya",
+      "tone": 2,
+      "meaning": "sprout",
+      "story": "\"YAH?\" the flowers question curiously - is this a sprout, a seedling, or bean shoots?",
+      "primitives": []
+    },
+    {
+      "id": 2781,
+      "character": "訝",
+      "pinyin": "ya",
+      "tone": 4,
+      "meaning": "surprised",
+      "story": "\"YAH!\" the words and tusk command sharply - surprised, stunned, and astonished!",
+      "primitives": []
+    }
+  ]
+}

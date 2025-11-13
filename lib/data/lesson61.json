@@ -1,0 +1,50 @@
+{
+  "lesson": 61,
+  "characters": [
+    {
+      "id": 1512,
+      "character": "呵",
+      "pinyin": "a",
+      "tone": 1,
+      "meaning": "rebuke",
+      "story": "Rebuke mouth breathe sings \"Ah!\" cheerfully - scolding!",
+      "primitives": []
+    },
+    {
+      "id": 1513,
+      "character": "姦",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "adultery",
+      "story": "Adultery three women sings \"Jyan!\" cheerfully - illicit affair!",
+      "primitives": []
+    },
+    {
+      "id": 1514,
+      "character": "嬰",
+      "pinyin": "ying",
+      "tone": 1,
+      "meaning": "baby",
+      "story": "Baby necklaces woman sings \"Ying!\" cheerfully - infant newborn!",
+      "primitives": []
+    },
+    {
+      "id": 1515,
+      "character": "姑",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "father's sister",
+      "story": "Father's sister woman ancient sings \"Goo!\" cheerfully - aunt!",
+      "primitives": []
+    },
+    {
+      "id": 1516,
+      "character": "姆",
+      "pinyin": "mu",
+      "tone": 3,
+      "meaning": "nanny",
+      "story": "Nanny woman mother bends down drooping \"Moo\" - caretaker!",
+      "primitives": []
+    }
+  ]
+}

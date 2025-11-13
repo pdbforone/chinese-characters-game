@@ -1,0 +1,176 @@
+{
+  "lesson": 53,
+  "characters": [
+    {
+      "id": 1415,
+      "character": "像",
+      "pinyin": "xiang",
+      "tone": 4,
+      "meaning": "Likeness",
+      "story": "Likeness person elephant commands sharply \"Shyahng!\" - image resemble statue!",
+      "primitives": []
+    },
+    {
+      "id": 1416,
+      "character": "馬",
+      "pinyin": "ma",
+      "tone": 3,
+      "meaning": "Horse",
+      "story": "Horse galloping bends down drooping \"Mah\" - knight steed!",
+      "primitives": []
+    },
+    {
+      "id": 1417,
+      "character": "媽",
+      "pinyin": "ma",
+      "tone": 1,
+      "meaning": "Mama",
+      "story": "Mama woman horse sings \"Mah!\" cheerfully - ma mamma!",
+      "primitives": []
+    },
+    {
+      "id": 1418,
+      "character": "罵",
+      "pinyin": "ma",
+      "tone": 4,
+      "meaning": "to scold",
+      "story": "To scold net horse commands sharply \"Mah!\" - curse blame insult!",
+      "primitives": []
+    },
+    {
+      "id": 1419,
+      "character": "嗎",
+      "pinyin": "ma",
+      "tone": 5,
+      "meaning": "yes or no",
+      "story": "Yes or no mouth horse says \"mah\" neutrally - question marker!",
+      "primitives": []
+    },
+    {
+      "id": 1420,
+      "character": "驗",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "to check",
+      "story": "To check horse erudite commands sharply \"Yahn!\" - test examine inspect verification!",
+      "primitives": []
+    },
+    {
+      "id": 1421,
+      "character": "騎",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "to ride",
+      "story": "To ride horse tool questions \"Chee? Astride?\" curiously - equestrian!",
+      "primitives": []
+    },
+    {
+      "id": 1422,
+      "character": "驚",
+      "pinyin": "jing",
+      "tone": 1,
+      "meaning": "startled",
+      "story": "Startled horse respectful sings \"Jing!\" cheerfully - scared frightened wonder!",
+      "primitives": []
+    },
+    {
+      "id": 1423,
+      "character": "虎",
+      "pinyin": "hu",
+      "tone": 3,
+      "meaning": "Tiger",
+      "story": "Tiger stripes claws bends down drooping \"Hoo\" - fierce beast!",
+      "primitives": []
+    },
+    {
+      "id": 1424,
+      "character": "慮",
+      "pinyin": "lü",
+      "tone": 4,
+      "meaning": "to ponder",
+      "story": "To ponder heart tiger commands sharply \"Lyoo!\" - worry prudence!",
+      "primitives": []
+    },
+    {
+      "id": 1425,
+      "character": "處",
+      "pinyin": "chu",
+      "tone": 4,
+      "meaning": "Location",
+      "story": "Location tiger table commands sharply \"Choo!\" - place spot bureau dispose!",
+      "primitives": []
+    },
+    {
+      "id": 1426,
+      "character": "戲",
+      "pinyin": "xi",
+      "tone": 4,
+      "meaning": "to frolic",
+      "story": "To frolic tiger play commands sharply \"Shee!\" - theatrical show!",
+      "primitives": []
+    },
+    {
+      "id": 1427,
+      "character": "劇",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "Drama",
+      "story": "Drama frolic sword commands sharply \"Jyoo!\" - play show!",
+      "primitives": []
+    },
+    {
+      "id": 1428,
+      "character": "據",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "Certificate",
+      "story": "Certificate hand drama commands sharply \"Jyoo!\" - according to set!",
+      "primitives": []
+    },
+    {
+      "id": 1429,
+      "character": "鹿",
+      "pinyin": "lu",
+      "tone": 4,
+      "meaning": "Deer",
+      "story": "Deer antlers commands sharply \"Loo!\" - forest animal!",
+      "primitives": []
+    },
+    {
+      "id": 1430,
+      "character": "塵",
+      "pinyin": "chen",
+      "tone": 2,
+      "meaning": "Dust",
+      "story": "Dust dirt deer questions \"Chun? Ashes?\" curiously - earth!",
+      "primitives": []
+    },
+    {
+      "id": 1431,
+      "character": "麗",
+      "pinyin": "li",
+      "tone": 4,
+      "meaning": "lovely",
+      "story": "Lovely deer beautiful commands sharply \"Lee!\" - elegant!",
+      "primitives": []
+    },
+    {
+      "id": 1432,
+      "character": "熊",
+      "pinyin": "xiong",
+      "tone": 2,
+      "meaning": "Bear",
+      "story": "Bear fire able questions \"Shyohng? Powerful?\" curiously - beast!",
+      "primitives": []
+    },
+    {
+      "id": 1433,
+      "character": "能",
+      "pinyin": "neng",
+      "tone": 2,
+      "meaning": "Ability",
+      "story": "Ability meat moon questions \"Nung? Capable?\" curiously - can may!",
+      "primitives": []
+    }
+  ]
+}
