@@ -7,6 +7,7 @@ import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
 import StoryCard from './StoryCard';
 import CharacterCard from './CharacterCard';
 import PinyinCard from './PinyinCard';
+import MeaningCard from './MeaningCard';
 import ProgressBar from './ProgressBar';
 
 interface GameBoardProps {
@@ -161,6 +162,8 @@ export default function GameBoard({
         return 'Mnemonic Stories';
       case 'character-to-story':
         return 'Characters';
+      case 'meaning-to-character':
+        return 'Meanings';
       case 'character-to-pinyin':
         return 'Characters';
     }
@@ -172,13 +175,15 @@ export default function GameBoard({
         return 'Characters';
       case 'character-to-story':
         return 'Mnemonic Stories';
+      case 'meaning-to-character':
+        return 'Characters';
       case 'character-to-pinyin':
         return 'Pinyin';
     }
   };
 
   // Determine what to show based on round (difficulty level)
-  const showPinyin = round !== 3; // Hide pinyin in round 3
+  const showPinyin = round !== 3 && round !== 4; // Hide pinyin in rounds 3 and 4
   const showMeaning = round === 1; // Only show meaning in round 1
 
   return (
@@ -203,6 +208,17 @@ export default function GameBoard({
             if (gameMode === 'story-to-character') {
               return (
                 <StoryCard
+                  key={`left-${char.id}`}
+                  character={char}
+                  isSelected={selectedLeft === char.id}
+                  isMatched={matched.has(char.id)}
+                  isIncorrect={false}
+                  onClick={() => handleLeftClick(char.id)}
+                />
+              );
+            } else if (gameMode === 'meaning-to-character') {
+              return (
+                <MeaningCard
                   key={`left-${char.id}`}
                   character={char}
                   isSelected={selectedLeft === char.id}
@@ -236,7 +252,7 @@ export default function GameBoard({
           </h3>
           {shuffledRight.map((char) => {
             // Render right side based on game mode
-            if (gameMode === 'story-to-character') {
+            if (gameMode === 'story-to-character' || gameMode === 'meaning-to-character') {
               return (
                 <CharacterCard
                   key={`right-${char.id}`}

@@ -25,9 +25,9 @@ export default function MultiRoundGame({
   const CHARACTERS_PER_PAGE = 4;
   const totalPages = Math.ceil(characters.length / CHARACTERS_PER_PAGE);
 
-  // Round = difficulty level (1, 2, or 3)
+  // Round = difficulty level (1, 2, 3, or 4)
   // Page = which set of 4 characters (0, 1, 2, etc.)
-  const [currentRound, setCurrentRound] = useState(1); // 1, 2, or 3
+  const [currentRound, setCurrentRound] = useState(1); // 1, 2, 3, or 4
   const [currentPage, setCurrentPage] = useState(0);
   const [roundScores, setRoundScores] = useState<{ accuracy: number; score: number }[]>([]);
   const [showTransition, setShowTransition] = useState(false);
@@ -41,6 +41,7 @@ export default function MultiRoundGame({
   const getGameMode = (): GameMode => {
     if (currentRound === 1) return 'story-to-character';
     if (currentRound === 2) return 'character-to-story';
+    if (currentRound === 3) return 'meaning-to-character';
     return 'character-to-pinyin';
   };
 
@@ -69,15 +70,15 @@ export default function MultiRoundGame({
     saveGameScore(lessonNumber, totalScore, avgAccuracy);
 
     // Check if we should advance to next round (difficulty level)
-    if (currentRound < 3 && avgAccuracy >= 70) {
+    if (currentRound < 4 && avgAccuracy >= 70) {
       // Advance to next difficulty
       playLevelUnlockSound();
       setCurrentRound(currentRound + 1);
       setCurrentPage(0);
       setRoundScores([]);
       setShowTransition(true);
-    } else if (currentRound === 3) {
-      // All 3 rounds complete!
+    } else if (currentRound === 4) {
+      // All 4 rounds complete!
       onComplete();
     } else {
       // Failed to advance - restart current round
@@ -95,12 +96,14 @@ export default function MultiRoundGame({
   const getRoundName = (): string => {
     if (currentRound === 1) return 'Round 1: Story → Character';
     if (currentRound === 2) return 'Round 2: Character → Story';
-    return 'Round 3: Character → Pinyin';
+    if (currentRound === 3) return 'Round 3: Meaning → Character';
+    return 'Round 4: Character → Pinyin';
   };
 
   const getRoundDescription = (): string => {
     if (currentRound === 1) return 'Match stories to characters (pinyin & meaning shown)';
     if (currentRound === 2) return 'Match characters to stories (only pinyin shown)';
+    if (currentRound === 3) return 'Match meanings to characters (no hints!)';
     return 'Match characters to pinyin (no hints!)';
   };
 
@@ -115,7 +118,7 @@ export default function MultiRoundGame({
             <>
               <div className="text-center mb-6">
                 <div className="text-5xl mb-4">
-                  {currentRound === 1 ? '📚' : currentRound === 2 ? '🎯' : '🏆'}
+                  {currentRound === 1 ? '📚' : currentRound === 2 ? '🎯' : currentRound === 3 ? '💡' : '🏆'}
                 </div>
                 <h2 className="text-2xl font-bold text-gray-800 mb-2">
                   {currentRound > 1 ? 'New Challenge Unlocked!' : 'Ready to Begin!'}

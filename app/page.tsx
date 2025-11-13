@@ -19,11 +19,16 @@ export default function Home() {
             How to Play:
           </h2>
           <ol className="list-decimal list-inside space-y-2 text-gray-600">
-            <li>Read the mnemonic story on the left</li>
-            <li>Click the story to select it</li>
-            <li>Click the matching character on the right</li>
-            <li>Get instant feedback - green for correct, red for incorrect</li>
-            <li>Match all characters to complete the round!</li>
+            <li>Study characters one-by-one with mnemonic stories</li>
+            <li>Complete 4 progressive difficulty rounds:</li>
+            <ul className="list-disc list-inside ml-6 space-y-1 text-gray-600">
+              <li><strong>Round 1:</strong> Match stories to characters (with hints)</li>
+              <li><strong>Round 2:</strong> Match characters to stories (pinyin only)</li>
+              <li><strong>Round 3:</strong> Match meanings to characters (no hints)</li>
+              <li><strong>Round 4:</strong> Match characters to pinyin (no hints)</li>
+            </ul>
+            <li>Each round covers all characters in pages of 4</li>
+            <li>Achieve 70%+ accuracy to advance to the next round!</li>
           </ol>
         </div>
 
@@ -38,17 +43,17 @@ export default function Home() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-h-[500px] overflow-y-auto pr-2">
           {lessons.map((lesson) => (
-            <Link key={lesson.lesson} href={`/lesson/${lesson.lesson}`}>
+            <Link key={lesson.lessonNumber} href={`/lesson/${lesson.lessonNumber}`}>
               <div className="block p-4 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-lg hover:from-blue-600 hover:to-indigo-700 transition-all cursor-pointer shadow-md hover:shadow-lg">
                 <h3 className="text-lg font-bold text-white mb-2">
-                  Lesson {lesson.lesson}
+                  Lesson {lesson.lessonNumber}
                 </h3>
                 <p className="text-blue-100 text-sm mb-2">
                   {lesson.characterCount} characters
                 </p>
                 <p className="text-white text-xl">
-                  {lesson.characters.slice(0, 6).join(' ')}
-                  {lesson.characters.length > 6 ? ' ...' : ''}
+                  {lesson.characters.split(', ').slice(0, 6).join(' ')}
+                  {lesson.characters.split(', ').length > 6 ? ' ...' : ''}
                 </p>
               </div>
             </Link>
