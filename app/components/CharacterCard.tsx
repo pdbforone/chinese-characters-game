@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import { Character } from '@/lib/types';
+import { Character } from "@/lib/types";
 
 interface CharacterCardProps {
   character: Character;
@@ -19,22 +19,22 @@ export default function CharacterCard({
   isIncorrect,
   onClick,
   showPinyin = true,
-  showMeaning = true
+  showMeaning = true,
 }: CharacterCardProps) {
-  let borderClass = 'border-2 border-gray-300';
-  let bgClass = 'bg-white hover:bg-gray-50';
-  let animationClass = '';
+  let borderClass = "border-2 border-gray-300";
+  let bgClass = "bg-white hover:bg-gray-50";
+  let animationClass = "";
 
   if (isMatched) {
-    borderClass = 'border-2 border-green-500';
-    bgClass = 'bg-green-50 animate-pulse-green';
+    borderClass = "border-2 border-green-500";
+    bgClass = "bg-green-50 animate-pulse-green";
   } else if (isIncorrect) {
-    borderClass = 'border-2 border-red-500';
-    bgClass = 'bg-red-50';
-    animationClass = 'animate-shake';
+    borderClass = "border-2 border-red-500";
+    bgClass = "bg-red-50";
+    animationClass = "animate-shake";
   } else if (isSelected) {
-    borderClass = 'border-2 border-blue-500';
-    bgClass = 'bg-blue-50';
+    borderClass = "border-2 border-blue-500";
+    bgClass = "bg-blue-50";
   }
 
   return (
@@ -46,7 +46,7 @@ export default function CharacterCard({
         ${animationClass}
         rounded-lg p-6 cursor-pointer
         transition-all duration-200
-        ${isMatched ? 'opacity-50 cursor-not-allowed' : ''}
+        ${isMatched ? "opacity-50 cursor-not-allowed" : ""}
         min-h-[160px]
         flex flex-col items-center justify-center
       `}

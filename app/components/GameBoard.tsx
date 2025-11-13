@@ -1,13 +1,13 @@
-'use client';
+"use client";
 
-import { useState, useEffect } from 'react';
-import { Character, GameStats, GameMode } from '@/lib/types';
-import { saveGameScore } from '@/lib/storage';
-import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
-import StoryCard from './StoryCard';
-import CharacterCard from './CharacterCard';
-import PinyinCard from './PinyinCard';
-import ProgressBar from './ProgressBar';
+import { useState, useEffect } from "react";
+import { Character, GameStats, GameMode } from "@/lib/types";
+import { saveGameScore } from "@/lib/storage";
+import { playCorrectSound, playIncorrectSound } from "@/lib/sounds";
+import StoryCard from "./StoryCard";
+import CharacterCard from "./CharacterCard";
+import PinyinCard from "./PinyinCard";
+import ProgressBar from "./ProgressBar";
 
 interface GameBoardProps {
   characters: Character[];
@@ -26,9 +26,9 @@ export default function GameBoard({
   round,
   page = 1,
   totalPages = 1,
-  gameMode = 'story-to-character',
+  gameMode = "story-to-character",
   onRoundComplete,
-  onBackToLessons
+  onBackToLessons,
 }: GameBoardProps) {
   const [selectedLeft, setSelectedLeft] = useState<number | null>(null);
   const [selectedRight, setSelectedRight] = useState<number | null>(null);
@@ -37,7 +37,7 @@ export default function GameBoard({
   const [gameStats, setGameStats] = useState<GameStats>({
     totalAttempts: 0,
     correctMatches: 0,
-    accuracy: 0
+    accuracy: 0,
   });
   const [showCompletion, setShowCompletion] = useState(false);
 
@@ -91,7 +91,7 @@ export default function GameBoard({
       setGameStats({
         totalAttempts: newAttempts,
         correctMatches: newCorrect,
-        accuracy: newAccuracy
+        accuracy: newAccuracy,
       });
 
       // Check if round/game is complete
@@ -115,7 +115,7 @@ export default function GameBoard({
       setGameStats({
         ...gameStats,
         totalAttempts: newAttempts,
-        accuracy: (gameStats.correctMatches / newAttempts) * 100
+        accuracy: (gameStats.correctMatches / newAttempts) * 100,
       });
 
       // Reset after animation
@@ -128,10 +128,10 @@ export default function GameBoard({
   };
 
   const getStarRating = (accuracy: number): string => {
-    if (accuracy >= 90) return '⭐⭐⭐ Gold';
-    if (accuracy >= 80) return '⭐⭐ Silver';
-    if (accuracy >= 60) return '⭐ Bronze';
-    return 'Try Again';
+    if (accuracy >= 90) return "⭐⭐⭐ Gold";
+    if (accuracy >= 80) return "⭐⭐ Silver";
+    if (accuracy >= 60) return "⭐ Bronze";
+    return "Try Again";
   };
 
   const resetGame = () => {
@@ -142,7 +142,7 @@ export default function GameBoard({
     setGameStats({
       totalAttempts: 0,
       correctMatches: 0,
-      accuracy: 0
+      accuracy: 0,
     });
     setShowCompletion(false);
     // Re-shuffle characters
@@ -157,23 +157,23 @@ export default function GameBoard({
   // Determine what to show on left and right based on game mode
   const getLeftLabel = () => {
     switch (gameMode) {
-      case 'story-to-character':
-        return 'Mnemonic Stories';
-      case 'character-to-story':
-        return 'Characters';
-      case 'character-to-pinyin':
-        return 'Characters';
+      case "story-to-character":
+        return "Mnemonic Stories";
+      case "character-to-story":
+        return "Characters";
+      case "character-to-pinyin":
+        return "Characters";
     }
   };
 
   const getRightLabel = () => {
     switch (gameMode) {
-      case 'story-to-character':
-        return 'Characters';
-      case 'character-to-story':
-        return 'Mnemonic Stories';
-      case 'character-to-pinyin':
-        return 'Pinyin';
+      case "story-to-character":
+        return "Characters";
+      case "character-to-story":
+        return "Mnemonic Stories";
+      case "character-to-pinyin":
+        return "Pinyin";
     }
   };
 
@@ -200,7 +200,7 @@ export default function GameBoard({
           </h3>
           {characters.map((char) => {
             // Render left side based on game mode
-            if (gameMode === 'story-to-character') {
+            if (gameMode === "story-to-character") {
               return (
                 <StoryCard
                   key={`left-${char.id}`}
@@ -236,7 +236,7 @@ export default function GameBoard({
           </h3>
           {shuffledRight.map((char) => {
             // Render right side based on game mode
-            if (gameMode === 'story-to-character') {
+            if (gameMode === "story-to-character") {
               return (
                 <CharacterCard
                   key={`right-${char.id}`}
@@ -249,7 +249,7 @@ export default function GameBoard({
                   showMeaning={showMeaning}
                 />
               );
-            } else if (gameMode === 'character-to-story') {
+            } else if (gameMode === "character-to-story") {
               return (
                 <StoryCard
                   key={`right-${char.id}`}
@@ -290,12 +290,14 @@ export default function GameBoard({
               </div>
               <div className="text-xl">
                 <p className="text-gray-700">
-                  Accuracy: <span className="font-bold text-blue-600">
+                  Accuracy:{" "}
+                  <span className="font-bold text-blue-600">
                     {gameStats.accuracy.toFixed(1)}%
                   </span>
                 </p>
                 <p className="text-gray-600 text-sm mt-2">
-                  {gameStats.correctMatches} correct out of {gameStats.totalAttempts} attempts
+                  {gameStats.correctMatches} correct out of{" "}
+                  {gameStats.totalAttempts} attempts
                 </p>
               </div>
               <div className="pt-4 space-y-3">
@@ -306,7 +308,7 @@ export default function GameBoard({
                   Play Again
                 </button>
                 <button
-                  onClick={() => window.location.href = '/'}
+                  onClick={() => (window.location.href = "/")}
                   className="w-full bg-gray-200 hover:bg-gray-300 text-gray-800 font-semibold py-3 px-6 rounded-lg transition-colors"
                 >
                   Back to Lessons

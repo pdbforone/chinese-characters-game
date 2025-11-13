@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import { getAllLessonsMetadata } from '@/lib/lessonLoader';
+import Link from "next/link";
+import { getAllLessonsMetadata } from "@/lib/lessonLoader";
 
 export default function Home() {
   const lessons = getAllLessonsMetadata();
@@ -32,7 +32,8 @@ export default function Home() {
             Available Lessons: {lessons.length}
           </h2>
           <p className="text-gray-600 text-sm">
-            {lessons.reduce((sum, l) => sum + l.characterCount, 0)} total characters to learn
+            {lessons.reduce((sum, l) => sum + l.characterCount, 0)} total
+            characters to learn
           </p>
         </div>
 
@@ -47,8 +48,8 @@ export default function Home() {
                   {lesson.characterCount} characters
                 </p>
                 <p className="text-white text-xl">
-                  {lesson.characters.slice(0, 6).join(' ')}
-                  {lesson.characters.length > 6 ? ' ...' : ''}
+                  {lesson.characters.slice(0, 6).join(" ")}
+                  {lesson.characters.length > 6 ? " ..." : ""}
                 </p>
               </div>
             </Link>
@@ -57,7 +58,9 @@ export default function Home() {
 
         <div className="mt-8 p-4 bg-blue-50 rounded-lg border border-blue-200">
           <p className="text-sm text-gray-700">
-            <strong>Tip:</strong> Each story uses vivid imagery and sound patterns to help you remember the character's meaning and pronunciation. Read carefully and visualize the scene!
+            <strong>Tip:</strong> Each story uses vivid imagery and sound
+            patterns to help you remember the character's meaning and
+            pronunciation. Read carefully and visualize the scene!
           </p>
         </div>
       </div>

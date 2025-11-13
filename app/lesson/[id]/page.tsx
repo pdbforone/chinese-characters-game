@@ -1,14 +1,14 @@
-'use client';
+"use client";
 
-import { useState, useEffect } from 'react';
-import { useParams, useRouter } from 'next/navigation';
-import MultiRoundGame from '@/app/components/MultiRoundGame';
-import CharacterIntroduction from '@/app/components/CharacterIntroduction';
-import ReturnUserModal from '@/app/components/ReturnUserModal';
-import { getLessonData } from '@/lib/lessonLoader';
-import { getLessonProgress, markIntroductionComplete } from '@/lib/storage';
+import { useState, useEffect } from "react";
+import { useParams, useRouter } from "next/navigation";
+import MultiRoundGame from "@/app/components/MultiRoundGame";
+import CharacterIntroduction from "@/app/components/CharacterIntroduction";
+import ReturnUserModal from "@/app/components/ReturnUserModal";
+import { getLessonData } from "@/lib/lessonLoader";
+import { getLessonProgress, markIntroductionComplete } from "@/lib/storage";
 
-type Phase = 'loading' | 'modal' | 'introduction' | 'game';
+type Phase = "loading" | "modal" | "introduction" | "game";
 
 export default function LessonPage() {
   const params = useParams();
@@ -17,7 +17,7 @@ export default function LessonPage() {
 
   const lessonData = getLessonData(lessonId);
 
-  const [phase, setPhase] = useState<Phase>('loading');
+  const [phase, setPhase] = useState<Phase>("loading");
   const [progress, setProgress] = useState({
     introductionCompleted: false,
     gamesPlayed: 0,
@@ -33,36 +33,36 @@ export default function LessonPage() {
     // Determine which phase to show
     if (!savedProgress.introductionCompleted) {
       // First time - go straight to introduction
-      setPhase('introduction');
+      setPhase("introduction");
     } else {
       // Returning user - show modal
-      setPhase('modal');
+      setPhase("modal");
     }
   }, [lessonId]);
 
   const handleIntroductionComplete = () => {
     markIntroductionComplete(lessonId);
     setProgress((prev) => ({ ...prev, introductionCompleted: true }));
-    setPhase('game');
+    setPhase("game");
   };
 
   const handleReviewCharacters = () => {
-    setPhase('introduction');
+    setPhase("introduction");
   };
 
   const handleStartGame = () => {
-    setPhase('game');
+    setPhase("game");
   };
 
   const handleBackToHome = () => {
-    router.push('/');
+    router.push("/");
   };
 
   const handleGameComplete = () => {
     // Reload progress and show modal
     const savedProgress = getLessonProgress(lessonId);
     setProgress(savedProgress);
-    setPhase('modal');
+    setPhase("modal");
   };
 
   // Lesson not found
@@ -88,7 +88,7 @@ export default function LessonPage() {
   }
 
   // Loading state
-  if (phase === 'loading') {
+  if (phase === "loading") {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
@@ -100,7 +100,7 @@ export default function LessonPage() {
   }
 
   // Return user modal
-  if (phase === 'modal') {
+  if (phase === "modal") {
     return (
       <div className="min-h-screen flex items-center justify-center p-4 bg-gradient-to-br from-blue-50 to-indigo-100">
         <div className="absolute top-4 left-4">
@@ -125,7 +125,7 @@ export default function LessonPage() {
   }
 
   // Introduction phase
-  if (phase === 'introduction') {
+  if (phase === "introduction") {
     return (
       <>
         <div className="max-w-7xl mx-auto px-4 pt-4 absolute top-0 left-0 right-0 z-10">

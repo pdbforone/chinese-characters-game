@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 interface ReturnUserModalProps {
   lessonNumber: number;
@@ -18,10 +18,10 @@ export default function ReturnUserModal({
   onStartGame,
 }: ReturnUserModalProps) {
   const getStarRating = (accuracy: number): string => {
-    if (accuracy >= 90) return '⭐⭐⭐';
-    if (accuracy >= 80) return '⭐⭐';
-    if (accuracy >= 60) return '⭐';
-    return '—';
+    if (accuracy >= 90) return "⭐⭐⭐";
+    if (accuracy >= 80) return "⭐⭐";
+    if (accuracy >= 60) return "⭐";
+    return "—";
   };
 
   return (
@@ -32,9 +32,7 @@ export default function ReturnUserModal({
           <h2 className="text-3xl font-bold text-gray-800 mb-2">
             Welcome Back!
           </h2>
-          <p className="text-gray-600">
-            Lesson {lessonNumber}
-          </p>
+          <p className="text-gray-600">Lesson {lessonNumber}</p>
         </div>
 
         {/* Stats Display */}

@@ -5,26 +5,28 @@ class SoundManager {
   private isMuted: boolean = false;
 
   constructor() {
-    if (typeof window !== 'undefined') {
+    if (typeof window !== "undefined") {
       // Initialize AudioContext
-      this.audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+      this.audioContext = new (window.AudioContext ||
+        (window as any).webkitAudioContext)();
       // Load mute preference from localStorage
-      const savedMute = localStorage.getItem('rth_sounds_muted');
-      this.isMuted = savedMute === 'true';
+      const savedMute = localStorage.getItem("rth_sounds_muted");
+      this.isMuted = savedMute === "true";
     }
   }
 
   private getContext(): AudioContext | null {
-    if (!this.audioContext && typeof window !== 'undefined') {
-      this.audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+    if (!this.audioContext && typeof window !== "undefined") {
+      this.audioContext = new (window.AudioContext ||
+        (window as any).webkitAudioContext)();
     }
     return this.audioContext;
   }
 
   setMuted(muted: boolean) {
     this.isMuted = muted;
-    if (typeof window !== 'undefined') {
-      localStorage.setItem('rth_sounds_muted', String(muted));
+    if (typeof window !== "undefined") {
+      localStorage.setItem("rth_sounds_muted", String(muted));
     }
   }
 
@@ -71,7 +73,7 @@ class SoundManager {
 
     // Lower frequency for error
     oscillator.frequency.setValueAtTime(200, ctx.currentTime);
-    oscillator.type = 'square';
+    oscillator.type = "square";
 
     gainNode.gain.setValueAtTime(0.2, ctx.currentTime);
     gainNode.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.2);
@@ -97,7 +99,7 @@ class SoundManager {
       oscillator.connect(gainNode);
       gainNode.connect(ctx.destination);
 
-      const startTime = ctx.currentTime + (index * 0.15);
+      const startTime = ctx.currentTime + index * 0.15;
       oscillator.frequency.setValueAtTime(freq, startTime);
 
       gainNode.gain.setValueAtTime(0.2, startTime);
@@ -116,7 +118,7 @@ class SoundManager {
     if (!ctx) return;
 
     // Play triumphant fanfare
-    const notes = [523.25, 659.25, 783.99, 1046.50]; // C, E, G, C
+    const notes = [523.25, 659.25, 783.99, 1046.5]; // C, E, G, C
 
     notes.forEach((freq, index) => {
       const oscillator = ctx.createOscillator();
@@ -125,7 +127,7 @@ class SoundManager {
       oscillator.connect(gainNode);
       gainNode.connect(ctx.destination);
 
-      const startTime = ctx.currentTime + (index * 0.1);
+      const startTime = ctx.currentTime + index * 0.1;
       oscillator.frequency.setValueAtTime(freq, startTime);
 
       gainNode.gain.setValueAtTime(0.25, startTime);
@@ -150,7 +152,7 @@ class SoundManager {
     gainNode.connect(ctx.destination);
 
     oscillator.frequency.setValueAtTime(600, ctx.currentTime);
-    oscillator.type = 'sine';
+    oscillator.type = "sine";
 
     gainNode.gain.setValueAtTime(0.1, ctx.currentTime);
     gainNode.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.05);
@@ -173,6 +175,8 @@ export function getSoundManager(): SoundManager {
 // Convenience functions
 export const playCorrectSound = () => getSoundManager().playCorrectSound();
 export const playIncorrectSound = () => getSoundManager().playIncorrectSound();
-export const playRoundCompleteSound = () => getSoundManager().playRoundCompleteSound();
-export const playLevelUnlockSound = () => getSoundManager().playLevelUnlockSound();
+export const playRoundCompleteSound = () =>
+  getSoundManager().playRoundCompleteSound();
+export const playLevelUnlockSound = () =>
+  getSoundManager().playLevelUnlockSound();
 export const playClickSound = () => getSoundManager().playClickSound();
