@@ -108,6 +108,55 @@ export default function Home() {
           </div>
         </div>
 
+        {/* Pinyin Primer & Prerequisite Notice */}
+        <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-2xl p-6 mb-8 border-2 border-blue-200">
+          <div className="flex items-start gap-4 mb-4">
+            <div className="text-4xl">🗣️</div>
+            <div className="flex-1">
+              <h3 className="font-bold text-gray-800 mb-2 text-xl">New to Pinyin?</h3>
+              <p className="text-gray-700 text-sm leading-relaxed mb-3">
+                Pinyin is the romanization system for Chinese pronunciation. Each character includes
+                tone marks (ā, á, ǎ, à) that indicate how to pronounce it.
+              </p>
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-sm">
+                <div className="bg-white rounded-lg p-2 border border-blue-200">
+                  <div className="font-bold text-blue-600 mb-1">1st Tone →</div>
+                  <div className="text-gray-600">High & flat (mā)</div>
+                </div>
+                <div className="bg-white rounded-lg p-2 border border-green-200">
+                  <div className="font-bold text-green-600 mb-1">2nd Tone ↗</div>
+                  <div className="text-gray-600">Rising (má)</div>
+                </div>
+                <div className="bg-white rounded-lg p-2 border border-orange-200">
+                  <div className="font-bold text-orange-600 mb-1">3rd Tone ↘↗</div>
+                  <div className="text-gray-600">Dipping (mǎ)</div>
+                </div>
+                <div className="bg-white rounded-lg p-2 border border-red-200">
+                  <div className="font-bold text-red-600 mb-1">4th Tone ↘</div>
+                  <div className="text-gray-600">Falling (mà)</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Prerequisite Notice */}
+          <div className="bg-amber-50 rounded-lg p-4 border-2 border-amber-300">
+            <div className="flex items-start gap-3">
+              <div className="text-2xl">⚠️</div>
+              <div>
+                <h4 className="font-bold text-amber-900 mb-1">Prerequisites</h4>
+                <p className="text-sm text-amber-800 leading-relaxed">
+                  This game assumes you already know basic pinyin pronunciation rules. While we
+                  provide tone marks and romanization, you&apos;ll need familiarity with pinyin
+                  sounds and tone patterns to practice pronunciation effectively. If you&apos;re
+                  completely new to Chinese, we recommend learning pinyin basics first through a
+                  dedicated pronunciation course.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         {/* Lessons Grid */}
         <div className="mb-6">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">Choose Your Lesson</h2>
