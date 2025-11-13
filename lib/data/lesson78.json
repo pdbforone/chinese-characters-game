@@ -2,165 +2,147 @@
   "lesson": 78,
   "characters": [
     {
-      "id": 1386,
-      "character": "偽",
-      "pinyin": "wei",
-      "tone": 3,
-      "meaning": "bogus",
-      "story": "Bogus person act bends down drooping \"Way\" - fake false counterfeit falsehood!",
-      "primitives": []
-    },
-    {
-      "id": 1387,
-      "character": "長",
-      "pinyin": "chang",
-      "tone": 2,
-      "meaning": "long",
-      "story": "Long hair flowing questions \"Chahng? Forever?\" curiously - length!",
-      "primitives": []
-    },
-    {
-      "id": 1388,
-      "character": "張",
-      "pinyin": "zhang",
+      "id": 1878,
+      "character": "崩",
+      "pinyin": "beng",
       "tone": 1,
-      "meaning": "to stretch",
-      "story": "To stretch bow long sings \"Jahng!\" cheerfully - extend expand lengthen!",
+      "meaning": "crumble",
+      "story": "Crumble mountain friend sings \"Bung!\" cheerfully - collapse fall apart!",
       "primitives": []
     },
     {
-      "id": 1389,
-      "character": "漲",
-      "pinyin": "zhang",
-      "tone": 4,
-      "meaning": "to swell",
-      "story": "To swell water stretch commands sharply \"Jahng!\" - inflate rise price!",
-      "primitives": []
-    },
-    {
-      "id": 1390,
-      "character": "套",
-      "pinyin": "tao",
-      "tone": 4,
-      "meaning": "a Cover",
-      "story": "A cover big long commands sharply \"Tao!\" - sheath envelope hackneyed!",
-      "primitives": []
-    },
-    {
-      "id": 1391,
-      "character": "髮",
-      "pinyin": "fa",
-      "tone": 4,
-      "meaning": "Hair of the Head",
-      "story": "Hair of the head friend long bends down drooping \"Fah\" - scalp hair!",
-      "primitives": []
-    },
-    {
-      "id": 1392,
-      "character": "展",
-      "pinyin": "zhan",
-      "tone": 3,
-      "meaning": "to unfold",
-      "story": "To unfold body clothes bends down drooping \"Jahn\" - spread out postpone!",
-      "primitives": []
-    },
-    {
-      "id": 1393,
-      "character": "喪",
-      "pinyin": "sang",
-      "tone": 4,
-      "meaning": "Funeral",
-      "story": "Funeral mouth dogs commands sharply \"Sahng!\" - lose mourn miss!",
-      "primitives": []
-    },
-    {
-      "id": 1394,
-      "character": "雁",
+      "id": 1879,
+      "character": "岩",
       "pinyin": "yan",
-      "tone": 4,
-      "meaning": "Wild Goose",
-      "story": "Wild goose bird funeral commands sharply \"Yahn!\" - honking!",
+      "tone": 2,
+      "meaning": "rock",
+      "story": "Rock mountain stone questions \"Yahn? Boulder?\" curiously - crag!",
       "primitives": []
     },
     {
-      "id": 1395,
-      "character": "應",
-      "pinyin": "ying",
-      "tone": 1,
-      "meaning": "ought to",
-      "story": "Ought to wild goose heart sings \"Ying!\" cheerfully - should must apply!",
+      "id": 1880,
+      "character": "崎",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "rugged",
+      "story": "Rugged mountain strange questions \"Chee? Terrain?\" curiously - uneven!",
       "primitives": []
     },
     {
-      "id": 1396,
-      "character": "鳥",
-      "pinyin": "niao",
-      "tone": 3,
-      "meaning": "Bird",
-      "story": "Bird flying creature bends down drooping \"Nyao\" - feathered!",
-      "primitives": []
-    },
-    {
-      "id": 1397,
-      "character": "鷹",
-      "pinyin": "ying",
-      "tone": 1,
-      "meaning": "Hawk",
-      "story": "Hawk ought to bird sings \"Ying!\" cheerfully - falcon eagle!",
-      "primitives": []
-    },
-    {
-      "id": 1398,
-      "character": "鴨",
+      "id": 1881,
+      "character": "崖",
       "pinyin": "ya",
+      "tone": 2,
+      "meaning": "cliff",
+      "story": "Cliff mountain tooth questions \"Yah? Precipice?\" curiously - steep drop!",
+      "primitives": []
+    },
+    {
+      "id": 1882,
+      "character": "炭",
+      "pinyin": "tan",
+      "tone": 4,
+      "meaning": "charcoal",
+      "story": "Charcoal mountain ashes commands sharply \"Tahn!\" - coal fuel suffering!",
+      "primitives": []
+    },
+    {
+      "id": 1883,
+      "character": "碳",
+      "pinyin": "tan",
+      "tone": 4,
+      "meaning": "carbon",
+      "story": "Carbon stone charcoal commands sharply \"Tahn!\" - element material!",
+      "primitives": []
+    },
+    {
+      "id": 1884,
+      "character": "盼",
+      "pinyin": "pan",
+      "tone": 4,
+      "meaning": "await hopefully",
+      "story": "Await hopefully part eyes commands sharply \"Pahn!\" - look forward expect!",
+      "primitives": []
+    },
+    {
+      "id": 1885,
+      "character": "頒",
+      "pinyin": "ban",
       "tone": 1,
-      "meaning": "Duck",
-      "story": "Duck bird armor sings \"Yah!\" cheerfully - wild duck quacking!",
+      "meaning": "promulgate",
+      "story": "Promulgate part head sings \"Bahn!\" cheerfully - issue award announce!",
       "primitives": []
     },
     {
-      "id": 1399,
-      "character": "島",
-      "pinyin": "dao",
-      "tone": 3,
-      "meaning": "Island",
-      "story": "Island mountain bird bends down drooping \"Dao\" - isolated land!",
+      "id": 1886,
+      "character": "芬",
+      "pinyin": "fen",
+      "tone": 1,
+      "meaning": "essence",
+      "story": "Essence flowers divide sings \"Fen!\" cheerfully - fragrance aroma!",
       "primitives": []
     },
     {
-      "id": 1400,
-      "character": "遇",
+      "id": 1887,
+      "character": "扮",
+      "pinyin": "ban",
+      "tone": 4,
+      "meaning": "play the part of",
+      "story": "Play the part of hand divide commands sharply \"Bahn!\" - dress up act!",
+      "primitives": []
+    },
+    {
+      "id": 1888,
+      "character": "岔",
+      "pinyin": "cha",
+      "tone": 4,
+      "meaning": "diverge",
+      "story": "Diverge mountain divide commands sharply \"Chah!\" - branch interrupt!",
+      "primitives": []
+    },
+    {
+      "id": 1889,
+      "character": "頌",
+      "pinyin": "song",
+      "tone": 4,
+      "meaning": "extol",
+      "story": "Extol public head commands sharply \"Sohng!\" - praise hymn!",
+      "primitives": []
+    },
+    {
+      "id": 1890,
+      "character": "訟",
+      "pinyin": "song",
+      "tone": 4,
+      "meaning": "litigate",
+      "story": "Litigate words public commands sharply \"Sohng!\" - lawsuit sue!",
+      "primitives": []
+    },
+    {
+      "id": 1891,
+      "character": "翁",
+      "pinyin": "weng",
+      "tone": 1,
+      "meaning": "elderly man",
+      "story": "Elderly man public feathers sings \"Wung!\" cheerfully - old gentleman!",
+      "primitives": []
+    },
+    {
+      "id": 1892,
+      "character": "裕",
       "pinyin": "yu",
       "tone": 4,
-      "meaning": "to encounter",
-      "story": "To encounter road bird commands sharply \"Yoo!\" - meet interview!",
+      "meaning": "abundant",
+      "story": "Abundant cloak valley commands sharply \"Yoo!\" - plentiful prosperous!",
       "primitives": []
     },
     {
-      "id": 1401,
-      "character": "萬",
-      "pinyin": "wan",
-      "tone": 4,
-      "meaning": "ten thousand",
-      "story": "Ten thousand scorpion commands sharply \"Wahn!\" - innumerable!",
-      "primitives": []
-    },
-    {
-      "id": 1402,
-      "character": "邁",
-      "pinyin": "mai",
-      "tone": 4,
-      "meaning": "to stride",
-      "story": "To stride ten thousand road commands sharply \"Migh!\" - big step pass through!",
-      "primitives": []
-    },
-    {
-      "id": 1403,
-      "character": "岡",
-      "pinyin": "gang",
-      "tone": 1,
-      "meaning": "Ridge of a Hill",
-      "story": "Ridge of a hill mountain net sings \"Gahng!\" cheerfully - mound mount!",
+      "id": 1893,
+      "character": "榕",
+      "pinyin": "rong",
+      "tone": 2,
+      "meaning": "banyan",
+      "story": "Banyan tree contain questions \"Rohng? Epiphyte?\" curiously - fig tree!",
       "primitives": []
     }
   ]

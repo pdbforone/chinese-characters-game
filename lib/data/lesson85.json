@@ -2,165 +2,453 @@
   "lesson": 85,
   "characters": [
     {
-      "id": 1512,
-      "character": "姦",
+      "id": 2121,
+      "character": "析",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "analyze",
+      "story": "Analyze tree ax sings \"Shee!\" cheerfully - examine dissect!",
+      "primitives": []
+    },
+    {
+      "id": 2122,
+      "character": "晰",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "distinct",
+      "story": "Distinct sun analyze sings \"Shee!\" cheerfully - clear evident!",
+      "primitives": []
+    },
+    {
+      "id": 2123,
+      "character": "芹",
+      "pinyin": "qin",
+      "tone": 2,
+      "meaning": "celery",
+      "story": "Celery flowers tomahawk questions \"Chin? Vegetable?\" curiously - green stalk!",
+      "primitives": []
+    },
+    {
+      "id": 2124,
+      "character": "折",
+      "pinyin": "zhe",
+      "tone": 2,
+      "meaning": "discount",
+      "story": "Discount ax ax questions \"Juh? Break?\" curiously - bend fracture bone!",
+      "primitives": []
+    },
+    {
+      "id": 2125,
+      "character": "哲",
+      "pinyin": "zhe",
+      "tone": 2,
+      "meaning": "philosopher",
+      "story": "Philosopher discount mouth questions \"Juh? Wise?\" curiously - sage thinker!",
+      "primitives": []
+    },
+    {
+      "id": 2126,
+      "character": "逝",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "pass away",
+      "story": "Pass away road philosopher commands sharply \"Shir!\" - die perish!",
+      "primitives": []
+    },
+    {
+      "id": 2127,
+      "character": "誓",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "vow",
+      "story": "Vow philosopher words commands sharply \"Shir!\" - oath pledge!",
+      "primitives": []
+    },
+    {
+      "id": 2128,
+      "character": "欣",
+      "pinyin": "xin",
+      "tone": 1,
+      "meaning": "elated",
+      "story": "Elated ax ax ax sings \"Shin!\" cheerfully - joyful happy!",
+      "primitives": []
+    },
+    {
+      "id": 2129,
+      "character": "掀",
+      "pinyin": "xian",
+      "tone": 1,
+      "meaning": "uncover",
+      "story": "Uncover fingers elated sings \"Shyan!\" cheerfully - lift reveal!",
+      "primitives": []
+    },
+    {
+      "id": 2130,
+      "character": "祈",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "supplicate",
+      "story": "Supplicate altar tomahawk questions \"Chee? Pray?\" curiously - beseech blessings!",
+      "primitives": []
+    },
+    {
+      "id": 2131,
+      "character": "慚",
+      "pinyin": "can",
+      "tone": 2,
+      "meaning": "conscience-stricken",
+      "story": "Conscience-stricken state of mind hew questions \"Tsahn? Ashamed?\" curiously - embarrassed!",
+      "primitives": []
+    },
+    {
+      "id": 2132,
+      "character": "嶄",
+      "pinyin": "zhan",
+      "tone": 3,
+      "meaning": "towering",
+      "story": "Towering mountain hew bends down drooping \"Jahn\" - lofty steep!",
+      "primitives": []
+    },
+    {
+      "id": 2133,
+      "character": "拆",
+      "pinyin": "chai",
+      "tone": 1,
+      "meaning": "take apart",
+      "story": "Take apart fingers reprimand sings \"Chigh!\" cheerfully - dismantle tear apart!",
+      "primitives": []
+    },
+    {
+      "id": 2134,
+      "character": "炸",
+      "pinyin": "zha",
+      "tone": 4,
+      "meaning": "blow up",
+      "story": "Blow up fire take apart commands sharply \"Jah!\" - explode bomb!",
+      "primitives": []
+    },
+    {
+      "id": 2135,
+      "character": "詐",
+      "pinyin": "zha",
+      "tone": 4,
+      "meaning": "swindle",
+      "story": "Swindle words blow up commands sharply \"Jah!\" - deceive dupe fraud!",
+      "primitives": []
+    },
+    {
+      "id": 2136,
+      "character": "妻",
+      "pinyin": "qi",
+      "tone": 1,
+      "meaning": "wife",
+      "story": "Wife woman broom sings \"Chee!\" cheerfully - spouse married woman!",
+      "primitives": []
+    },
+    {
+      "id": 2137,
+      "character": "淒",
+      "pinyin": "qi",
+      "tone": 1,
+      "meaning": "miserable",
+      "story": "Miserable water wife sings \"Chee!\" cheerfully - sad desolate ghostly!",
+      "primitives": []
+    },
+    {
+      "id": 2138,
+      "character": "棲",
+      "pinyin": "qi",
+      "tone": 1,
+      "meaning": "perch",
+      "story": "Perch tree wife sings \"Chee!\" cheerfully - dwell roost!",
+      "primitives": []
+    },
+    {
+      "id": 2139,
+      "character": "煞",
+      "pinyin": "sha",
+      "tone": 4,
+      "meaning": "goblin",
+      "story": "Goblin bound up broom taskmaster cooking fire commands sharply \"Shah!\" - demon evil spirit trouble!",
+      "primitives": []
+    },
+    {
+      "id": 2140,
+      "character": "捷",
+      "pinyin": "jie",
+      "tone": 2,
+      "meaning": "nimble",
+      "story": "Nimble fingers ten brooms trail questions \"Jyeh? Agile?\" curiously - swift victory!",
+      "primitives": []
+    },
+    {
+      "id": 2141,
+      "character": "秉",
+      "pinyin": "bing",
+      "tone": 3,
+      "meaning": "wield",
+      "story": "Wield broom wild rice bends down drooping \"Bing\" - hold grasp!",
+      "primitives": []
+    },
+    {
+      "id": 2142,
+      "character": "剝",
+      "pinyin": "bo",
+      "tone": 1,
+      "meaning": "peel off",
+      "story": "Peel off snowman saber sings \"Bwo!\" cheerfully - strip skin cracking sound!",
+      "primitives": []
+    },
+    {
+      "id": 2143,
+      "character": "彙",
+      "pinyin": "hui",
+      "tone": 4,
+      "meaning": "collection",
+      "story": "Collection whisk broom crown fruit commands sharply \"Hway!\" - compilation assemble!",
+      "primitives": []
+    },
+    {
+      "id": 2144,
+      "character": "兼",
       "pinyin": "jian",
       "tone": 1,
-      "meaning": "adultery",
-      "story": "Adultery three women sings \"Jyan!\" cheerfully - illicit affair!",
+      "meaning": "double",
+      "story": "Double one hand broom sings \"Jyan!\" cheerfully - concurrently both!",
       "primitives": []
     },
     {
-      "id": 1513,
-      "character": "嬰",
-      "pinyin": "ying",
-      "tone": 1,
-      "meaning": "baby",
-      "story": "Baby necklaces woman sings \"Ying!\" cheerfully - infant newborn!",
-      "primitives": []
-    },
-    {
-      "id": 1514,
-      "character": "姑",
-      "pinyin": "gu",
-      "tone": 1,
-      "meaning": "father's sister",
-      "story": "Father's sister woman ancient sings \"Goo!\" cheerfully - aunt!",
-      "primitives": []
-    },
-    {
-      "id": 1515,
-      "character": "姆",
-      "pinyin": "mu",
-      "tone": 3,
-      "meaning": "nanny",
-      "story": "Nanny woman mother bends down drooping \"Moo\" - caretaker!",
-      "primitives": []
-    },
-    {
-      "id": 1516,
-      "character": "兢",
-      "pinyin": "jing",
-      "tone": 1,
-      "meaning": "cautious",
-      "story": "Cautious two compete sings \"Jing!\" cheerfully - careful wary!",
-      "primitives": []
-    },
-    {
-      "id": 1517,
-      "character": "碩",
-      "pinyin": "shuo",
+      "id": 2145,
+      "character": "賺",
+      "pinyin": "zhuan",
       "tone": 4,
-      "meaning": "big",
-      "story": "Big stone page commands sharply \"Shwoh!\" - large huge!",
+      "meaning": "earn",
+      "story": "Earn shellfish double commands sharply \"Jwahn!\" - profit gain!",
       "primitives": []
     },
     {
-      "id": 1518,
-      "character": "砌",
-      "pinyin": "qi",
-      "tone": 4,
-      "meaning": "lay brick",
-      "story": "Lay brick stone together commands sharply \"Chee!\" - building wall!",
-      "primitives": []
-    },
-    {
-      "id": 1519,
-      "character": "哨",
-      "pinyin": "shao",
-      "tone": 4,
-      "meaning": "whistle",
-      "story": "Whistle mouth small commands sharply \"Shao!\" - sentry signal!",
-      "primitives": []
-    },
-    {
-      "id": 1520,
-      "character": "晃",
-      "pinyin": "huang",
-      "tone": 4,
-      "meaning": "sway",
-      "story": "Sway sun light commands sharply \"Hwahng!\" - swinging rocking!",
-      "primitives": []
-    },
-    {
-      "id": 1521,
-      "character": "泊",
-      "pinyin": "bo",
-      "tone": 2,
-      "meaning": "moor",
-      "story": "Moor water white questions \"Bwo? Anchor?\" curiously - harbor dock!",
-      "primitives": []
-    },
-    {
-      "id": 1522,
-      "character": "汰",
-      "pinyin": "tai",
-      "tone": 4,
-      "meaning": "get rid of",
-      "story": "Get rid of water big commands sharply \"Tigh!\" - eliminate discard!",
-      "primitives": []
-    },
-    {
-      "id": 1523,
-      "character": "沾",
-      "pinyin": "zhan",
-      "tone": 1,
-      "meaning": "soak",
-      "story": "Soak water join sings \"Jahn!\" cheerfully - wet moisten!",
-      "primitives": []
-    },
-    {
-      "id": 1524,
-      "character": "渺",
-      "pinyin": "miao",
-      "tone": 3,
-      "meaning": "insignificant",
-      "story": "Insignificant water eye bends down drooping \"Myao\" - tiny distant!",
-      "primitives": []
-    },
-    {
-      "id": 1525,
-      "character": "腺",
+      "id": 2146,
+      "character": "嫌",
       "pinyin": "xian",
-      "tone": 4,
-      "meaning": "gland",
-      "story": "Gland body spring commands sharply \"Shyan!\" - secreting organ!",
+      "tone": 2,
+      "meaning": "dislike",
+      "story": "Dislike woman double questions \"Shyan? Hate?\" curiously - despise reject!",
       "primitives": []
     },
     {
-      "id": 1526,
-      "character": "坦",
-      "pinyin": "tan",
+      "id": 2147,
+      "character": "謙",
+      "pinyin": "qian",
+      "tone": 1,
+      "meaning": "unassuming",
+      "story": "Unassuming words double sings \"Chyan!\" cheerfully - modest humble respectful!",
+      "primitives": []
+    },
+    {
+      "id": 2148,
+      "character": "歉",
+      "pinyin": "qian",
+      "tone": 4,
+      "meaning": "apology",
+      "story": "Apology owe double commands sharply \"Chyan!\" - sorry regret!",
+      "primitives": []
+    },
+    {
+      "id": 2149,
+      "character": "廉",
+      "pinyin": "lian",
+      "tone": 2,
+      "meaning": "inexpensive",
+      "story": "Inexpensive building standing questions \"Lyan? Cheap fur?\" curiously - low price!",
+      "primitives": []
+    },
+    {
+      "id": 2150,
+      "character": "鐮",
+      "pinyin": "lian",
+      "tone": 2,
+      "meaning": "sickle",
+      "story": "Sickle metal inexpensive questions \"Lyan? Blade?\" curiously - harvesting tool!",
+      "primitives": []
+    },
+    {
+      "id": 2151,
+      "character": "簾",
+      "pinyin": "lian",
+      "tone": 2,
+      "meaning": "drapes",
+      "story": "Drapes bamboo inexpensive questions \"Lyan? Curtain?\" curiously - hanging cloth lift peek!",
+      "primitives": []
+    },
+    {
+      "id": 2152,
+      "character": "睜",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "unshut",
+      "story": "Unshut eye contend sings \"Jung!\" cheerfully - open eyes struggle!",
+      "primitives": []
+    },
+    {
+      "id": 2153,
+      "character": "掙",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "struggle",
+      "story": "Struggle hand contend sings \"Jung!\" cheerfully - strive wrestle!",
+      "primitives": []
+    },
+    {
+      "id": 2154,
+      "character": "箏",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "Chinese zither",
+      "story": "Chinese zither bamboo contend sings \"Jung!\" cheerfully - instrument kite fly high!",
+      "primitives": []
+    },
+    {
+      "id": 2155,
+      "character": "塘",
+      "pinyin": "tang",
+      "tone": 2,
+      "meaning": "pool",
+      "story": "Pool earth Tang questions \"Tahng? Pond?\" curiously - water body Tang dynasty!",
+      "primitives": []
+    },
+    {
+      "id": 2156,
+      "character": "逮",
+      "pinyin": "dai",
       "tone": 3,
-      "meaning": "level",
-      "story": "Level earth sunrise bends down drooping \"Tahn\" - flat even!",
+      "meaning": "arrest",
+      "story": "Arrest road reach bends down drooping \"Digh\" - catch seize!",
       "primitives": []
     },
     {
-      "id": 1527,
-      "character": "娃",
-      "pinyin": "wa",
-      "tone": 2,
-      "meaning": "newborn",
-      "story": "Newborn woman frog questions \"Wah? Baby?\" curiously - infant child!",
-      "primitives": []
-    },
-    {
-      "id": 1528,
-      "character": "涯",
-      "pinyin": "ya",
-      "tone": 2,
-      "meaning": "bank",
-      "story": "Bank water cliff questions \"Yah? Riverbank?\" curiously - shore edge!",
-      "primitives": []
-    },
-    {
-      "id": 1529,
-      "character": "吋",
-      "pinyin": "cun",
+      "id": 2157,
+      "character": "隸",
+      "pinyin": "li",
       "tone": 4,
-      "meaning": "inch",
-      "story": "Inch mouth measure commands sharply \"Tsoon!\" - small unit!",
+      "meaning": "bondservant",
+      "story": "Bondservant slave commands sharply \"Lee!\" - servant underling!",
+      "primitives": []
+    },
+    {
+      "id": 2158,
+      "character": "慷",
+      "pinyin": "kang",
+      "tone": 1,
+      "meaning": "generous",
+      "story": "Generous heart hale sings \"Kahng!\" cheerfully - magnanimous open-hearted!",
+      "primitives": []
+    },
+    {
+      "id": 2159,
+      "character": "糠",
+      "pinyin": "kang",
+      "tone": 1,
+      "meaning": "chaff",
+      "story": "Chaff rice hale sings \"Kahng!\" cheerfully - grain husks!",
+      "primitives": []
+    },
+    {
+      "id": 2160,
+      "character": "耍",
+      "pinyin": "shua",
+      "tone": 3,
+      "meaning": "mess around",
+      "story": "Mess around ear woman bends down drooping \"Shwah\" - play tricks bully castle!",
+      "primitives": []
+    },
+    {
+      "id": 2161,
+      "character": "耐",
+      "pinyin": "nai",
+      "tone": 4,
+      "meaning": "-proof",
+      "story": "-proof ear wait commands sharply \"Nigh!\" - endure resist durable!",
+      "primitives": []
+    },
+    {
+      "id": 2162,
+      "character": "喘",
+      "pinyin": "chuan",
+      "tone": 3,
+      "meaning": "wheeze",
+      "story": "Wheeze mouth mountain bends down drooping \"Chwahn\" - pant gasp!",
+      "primitives": []
+    },
+    {
+      "id": 2163,
+      "character": "揣",
+      "pinyin": "chuai",
+      "tone": 1,
+      "meaning": "conjecture",
+      "story": "Conjecture hand mountain sings \"Chwigh!\" cheerfully - estimate sneak bosom!",
+      "primitives": []
+    },
+    {
+      "id": 2164,
+      "character": "糟",
+      "pinyin": "zao",
+      "tone": 1,
+      "meaning": "messed up",
+      "story": "Messed up rice cadet sings \"Dzao!\" cheerfully - terrible awful!",
+      "primitives": []
+    },
+    {
+      "id": 2165,
+      "character": "遭",
+      "pinyin": "zao",
+      "tone": 1,
+      "meaning": "meet with",
+      "story": "Meet with road cadet sings \"Dzao!\" cheerfully - encounter suffer surroundings!",
+      "primitives": []
+    },
+    {
+      "id": 2166,
+      "character": "槽",
+      "pinyin": "cao",
+      "tone": 2,
+      "meaning": "trough",
+      "story": "Trough tree cadet questions \"Tsao? Channel?\" curiously - groove roast ridicule!",
+      "primitives": []
+    },
+    {
+      "id": 2167,
+      "character": "抖",
+      "pinyin": "dou",
+      "tone": 3,
+      "meaning": "quiver",
+      "story": "Quiver hand bean bends down drooping \"Doh\" - tremble shake legs!",
+      "primitives": []
+    },
+    {
+      "id": 2168,
+      "character": "庸",
+      "pinyin": "yong",
+      "tone": 1,
+      "meaning": "mediocre",
+      "story": "Mediocre commonplace sings \"Yohng!\" cheerfully - ordinary average!",
+      "primitives": []
+    },
+    {
+      "id": 2169,
+      "character": "傭",
+      "pinyin": "yong",
+      "tone": 1,
+      "meaning": "put to work",
+      "story": "Put to work person mediocre sings \"Yohng!\" cheerfully - hire servant!",
+      "primitives": []
+    },
+    {
+      "id": 2170,
+      "character": "甩",
+      "pinyin": "shuai",
+      "tone": 3,
+      "meaning": "fling",
+      "story": "Fling hand use bends down drooping \"Shwigh\" - throw dump girlfriend!",
       "primitives": []
     }
   ]

@@ -2,165 +2,795 @@
   "lesson": 77,
   "characters": [
     {
-      "id": 1368,
-      "character": "聲",
-      "pinyin": "sheng",
+      "id": 1790,
+      "character": "摩",
+      "pinyin": "mo",
+      "tone": 2,
+      "meaning": "rub",
+      "story": "Rub hemp hand questions \"Mwo? Massage?\" curiously - touch stroke!",
+      "primitives": []
+    },
+    {
+      "id": 1791,
+      "character": "蛾",
+      "pinyin": "e",
+      "tone": 2,
+      "meaning": "moth",
+      "story": "Moth insect miser questions \"Uh? Night flier?\" curiously - winged insect!",
+      "primitives": []
+    },
+    {
+      "id": 1792,
+      "character": "扒",
+      "pinyin": "ba",
       "tone": 1,
-      "meaning": "Voice",
-      "story": "Voice fragrant ear sings \"Shung!\" cheerfully - sound tone!",
+      "meaning": "pick pockets",
+      "story": "Pick pockets hand eight sings \"Bah!\" cheerfully - steal thief!",
       "primitives": []
     },
     {
-      "id": 1369,
-      "character": "吳",
-      "pinyin": "wu",
-      "tone": 2,
-      "meaning": "Wu",
-      "story": "Wu mouth heaven questions \"Woo? Jiangsu?\" curiously - surname give!",
-      "primitives": []
-    },
-    {
-      "id": 1370,
-      "character": "娛",
-      "pinyin": "yu",
-      "tone": 2,
-      "meaning": "Amusement",
-      "story": "Amusement woman wu questions \"Yoo? Pleasure?\" curiously - enjoyment recreation!",
-      "primitives": []
-    },
-    {
-      "id": 1371,
-      "character": "誤",
-      "pinyin": "wu",
+      "id": 1793,
+      "character": "扣",
+      "pinyin": "kou",
       "tone": 4,
-      "meaning": "Error",
-      "story": "Error words wu commands sharply \"Woo!\" - mistake neglect!",
+      "meaning": "button",
+      "story": "Button hand mouth commands sharply \"Koh!\" - fasten spike!",
       "primitives": []
     },
     {
-      "id": 1372,
-      "character": "承",
-      "pinyin": "cheng",
-      "tone": 2,
-      "meaning": "to undertake",
-      "story": "To undertake hands receive questions \"Chung? Bear?\" curiously - take charge acquiesce!",
-      "primitives": []
-    },
-    {
-      "id": 1373,
-      "character": "蒸",
-      "pinyin": "zheng",
+      "id": 1794,
+      "character": "捐",
+      "pinyin": "juan",
       "tone": 1,
-      "meaning": "to steam",
-      "story": "To steam flowers undertake sings \"Jung!\" cheerfully - cooking vapor!",
+      "meaning": "contribute",
+      "story": "Contribute hand bored sings \"Jwan!\" cheerfully - donate give!",
       "primitives": []
     },
     {
-      "id": 1374,
-      "character": "牙",
-      "pinyin": "ya",
-      "tone": 2,
-      "meaning": "Tooth",
-      "story": "Tooth fang questions \"Yah? Ivory?\" curiously - tusk!",
-      "primitives": []
-    },
-    {
-      "id": 1375,
-      "character": "穿",
-      "pinyin": "chuan",
+      "id": 1795,
+      "character": "拍",
+      "pinyin": "pai",
       "tone": 1,
-      "meaning": "to pass through",
-      "story": "To pass through hole tooth sings \"Chwahn!\" cheerfully - pierce penetrate drill!",
+      "meaning": "racquet",
+      "story": "Racquet hand white sings \"Pigh!\" cheerfully - pat paddle!",
       "primitives": []
     },
     {
-      "id": 1376,
-      "character": "呀",
-      "pinyin": "ya",
-      "tone": 5,
-      "meaning": "wow!",
-      "story": "Wow mouth tooth says \"yah\" neutrally - surprise particle!",
+      "id": 1796,
+      "character": "啪",
+      "pinyin": "pa",
+      "tone": 1,
+      "meaning": "clapping sound",
+      "story": "Clapping sound mouth racket sings \"Pah!\" cheerfully - smack crack!",
       "primitives": []
     },
     {
-      "id": 1377,
-      "character": "釋",
+      "id": 1797,
+      "character": "損",
+      "pinyin": "sun",
+      "tone": 3,
+      "meaning": "damage",
+      "story": "Damage hand employee bends down drooping \"Swun\" - harm injure!",
+      "primitives": []
+    },
+    {
+      "id": 1798,
+      "character": "扛",
+      "pinyin": "kang",
+      "tone": 2,
+      "meaning": "carry over the shoulder",
+      "story": "Carry over the shoulder hand labor sings \"Kahng!\" cheerfully - shoulder lift!",
+      "primitives": []
+    },
+    {
+      "id": 1799,
+      "character": "扎",
+      "pinyin": "zha",
+      "tone": 1,
+      "meaning": "prick",
+      "story": "Prick hand ten sings \"Jah!\" cheerfully - stab pierce struggle!",
+      "primitives": []
+    },
+    {
+      "id": 1800,
+      "character": "拇",
+      "pinyin": "mu",
+      "tone": 3,
+      "meaning": "thumb",
+      "story": "Thumb fingers mother bends down drooping \"Moo\" - big finger!",
+      "primitives": []
+    },
+    {
+      "id": 1801,
+      "character": "拘",
+      "pinyin": "ju",
+      "tone": 1,
+      "meaning": "detain",
+      "story": "Detain fingers sentence sings \"Jyoo!\" cheerfully - arrest confine!",
+      "primitives": []
+    },
+    {
+      "id": 1802,
+      "character": "抄",
+      "pinyin": "chao",
+      "tone": 1,
+      "meaning": "copy",
+      "story": "Copy hand few sings \"Chao!\" cheerfully - transcribe surround!",
+      "primitives": []
+    },
+    {
+      "id": 1803,
+      "character": "拓",
+      "pinyin": "ta",
+      "tone": 4,
+      "meaning": "pioneer",
+      "story": "Pioneer hand stone commands sharply \"Tah!\" - develop expand!",
+      "primitives": []
+    },
+    {
+      "id": 1804,
+      "character": "捏",
+      "pinyin": "nie",
+      "tone": 1,
+      "meaning": "pinch",
+      "story": "Pinch hand crotch sings \"Nyeh!\" cheerfully - squeeze coy!",
+      "primitives": []
+    },
+    {
+      "id": 1805,
+      "character": "撓",
+      "pinyin": "nao",
+      "tone": 2,
+      "meaning": "chafe",
+      "story": "Chafe fingers pigpen questions \"Nao? Scratch?\" curiously - irritate!",
+      "primitives": []
+    },
+    {
+      "id": 1806,
+      "character": "抹",
+      "pinyin": "mo",
+      "tone": 3,
+      "meaning": "smear on",
+      "story": "Smear on hand end bends down drooping \"Mwoh\" - wipe apply poison!",
+      "primitives": []
+    },
+    {
+      "id": 1807,
+      "character": "描",
+      "pinyin": "miao",
+      "tone": 2,
+      "meaning": "describe",
+      "story": "Describe hand seedling questions \"Myao? Draw?\" curiously - sketch scan!",
+      "primitives": []
+    },
+    {
+      "id": 1808,
+      "character": "摸",
+      "pinyin": "mo",
+      "tone": 1,
+      "meaning": "grope",
+      "story": "Grope hand graveyard sings \"Mwo!\" cheerfully - feel touch!",
+      "primitives": []
+    },
+    {
+      "id": 1809,
+      "character": "挑",
+      "pinyin": "tiao",
+      "tone": 1,
+      "meaning": "foment",
+      "story": "Foment hand tall sings \"Tyao!\" cheerfully - provoke carry!",
+      "primitives": []
+    },
+    {
+      "id": 1810,
+      "character": "拴",
+      "pinyin": "shuan",
+      "tone": 1,
+      "meaning": "tether",
+      "story": "Tether fingers whole sings \"Shwahn!\" cheerfully - tie fasten!",
+      "primitives": []
+    },
+    {
+      "id": 1811,
+      "character": "拾",
+      "pinyin": "shi",
+      "tone": 2,
+      "meaning": "tidy up",
+      "story": "Tidy up hand together questions \"Shir? Collect?\" curiously - pick up!",
+      "primitives": []
+    },
+    {
+      "id": 1812,
+      "character": "搭",
+      "pinyin": "da",
+      "tone": 1,
+      "meaning": "put up",
+      "story": "Put up hand fit sings \"Dah!\" cheerfully - erect tent build!",
+      "primitives": []
+    },
+    {
+      "id": 1813,
+      "character": "掠",
+      "pinyin": "lüe",
+      "tone": 4,
+      "meaning": "pillage",
+      "story": "Pillage fingers capital commands sharply \"Lyueh!\" - plunder seize!",
+      "primitives": []
+    },
+    {
+      "id": 1814,
+      "character": "捨",
+      "pinyin": "she",
+      "tone": 3,
+      "meaning": "abandon",
+      "story": "Abandon hand abode bends down drooping \"Shuh\" - give up discard!",
+      "primitives": []
+    },
+    {
+      "id": 1815,
+      "character": "拭",
       "pinyin": "shi",
       "tone": 4,
-      "meaning": "to explain",
-      "story": "To explain rice metal commands sharply \"Shir!\" - elucidate interpret explanation!",
+      "meaning": "wipe away",
+      "story": "Wipe away fingers style commands sharply \"Shir!\" - clean dry!",
       "primitives": []
     },
     {
-      "id": 1378,
-      "character": "番",
-      "pinyin": "fan",
-      "tone": 1,
-      "meaning": "a Try",
-      "story": "A try rice field sings \"Fahn!\" cheerfully - deeds acts turn!",
-      "primitives": []
-    },
-    {
-      "id": 1379,
-      "character": "翻",
-      "pinyin": "fan",
-      "tone": 1,
-      "meaning": "to turn over",
-      "story": "To turn over feathers try sings \"Fahn!\" cheerfully - flit flip!",
-      "primitives": []
-    },
-    {
-      "id": 1380,
-      "character": "播",
-      "pinyin": "bo",
-      "tone": 1,
-      "meaning": "to broadcast",
-      "story": "To broadcast hand turn over sings \"Bwo!\" cheerfully - sow scatter disseminate!",
-      "primitives": []
-    },
-    {
-      "id": 1381,
-      "character": "毛",
-      "pinyin": "mao",
-      "tone": 2,
-      "meaning": "Fur",
-      "story": "Fur hair strands question \"Mao? Fluffy?\" curiously - coat!",
-      "primitives": []
-    },
-    {
-      "id": 1382,
-      "character": "尾",
-      "pinyin": "wei",
+      "id": 1816,
+      "character": "扯",
+      "pinyin": "che",
       "tone": 3,
-      "meaning": "Tail",
-      "story": "Tail body fur bends down drooping \"Way\" - end!",
+      "meaning": "yank",
+      "story": "Yank hand halt bends down drooping \"Chuh\" - pull tear!",
       "primitives": []
     },
     {
-      "id": 1383,
-      "character": "宅",
-      "pinyin": "zhai",
-      "tone": 2,
-      "meaning": "a Dwelling",
-      "story": "A dwelling house roof questions \"Jigh? Residence?\" curiously - home!",
-      "primitives": []
-    },
-    {
-      "id": 1384,
-      "character": "託",
+      "id": 1817,
+      "character": "拖",
       "pinyin": "tuo",
       "tone": 1,
-      "meaning": "to entrust",
-      "story": "To entrust words dwelling sings \"Twoh!\" cheerfully - rely consign!",
+      "meaning": "drag",
+      "story": "Drag hand table sings \"Twoh!\" cheerfully - pull burden children!",
       "primitives": []
     },
     {
-      "id": 1385,
-      "character": "為",
-      "pinyin": "wei",
+      "id": 1818,
+      "character": "揚",
+      "pinyin": "yang",
+      "tone": 2,
+      "meaning": "publicize",
+      "story": "Publicize fingers piggy bank questions \"Yahng? Spread?\" curiously - raise scatter ashes!",
+      "primitives": []
+    },
+    {
+      "id": 1819,
+      "character": "搞",
+      "pinyin": "gao",
+      "tone": 3,
+      "meaning": "engage in",
+      "story": "Engage in hand high bends down drooping \"Gao\" - do make mess!",
+      "primitives": []
+    },
+    {
+      "id": 1820,
+      "character": "撞",
+      "pinyin": "zhuang",
       "tone": 4,
-      "meaning": "to act",
-      "story": "To act claws elephant commands sharply \"Way!\" - do handle govern!",
+      "meaning": "bump into",
+      "story": "Bump into hand child commands sharply \"Jwahng!\" - collide crash!",
+      "primitives": []
+    },
+    {
+      "id": 1821,
+      "character": "摘",
+      "pinyin": "zhai",
+      "tone": 1,
+      "meaning": "handpick",
+      "story": "Handpick hand suitable sings \"Jigh!\" cheerfully - pluck select!",
+      "primitives": []
+    },
+    {
+      "id": 1822,
+      "character": "捆",
+      "pinyin": "kun",
+      "tone": 3,
+      "meaning": "lash together",
+      "story": "Lash together fingers trapped bends down drooping \"Kwun\" - tie bundle fasten!",
+      "primitives": []
+    },
+    {
+      "id": 1823,
+      "character": "撼",
+      "pinyin": "han",
+      "tone": 4,
+      "meaning": "joggle",
+      "story": "Joggle fingers feel commands sharply \"Hahn!\" - shake move!",
+      "primitives": []
+    },
+    {
+      "id": 1824,
+      "character": "擾",
+      "pinyin": "rao",
+      "tone": 3,
+      "meaning": "harass",
+      "story": "Harass hand trouble bends down drooping \"Rao\" - disturb bother!",
+      "primitives": []
+    },
+    {
+      "id": 1825,
+      "character": "擅",
+      "pinyin": "shan",
+      "tone": 4,
+      "meaning": "act without authority",
+      "story": "Act without authority hand list commands sharply \"Shahn!\" - unauthorized!",
+      "primitives": []
+    },
+    {
+      "id": 1826,
+      "character": "壇",
+      "pinyin": "tan",
+      "tone": 2,
+      "meaning": "altar",
+      "story": "Altar dirt cloud questions \"Tahn? Sacred?\" curiously - platform!",
+      "primitives": []
+    },
+    {
+      "id": 1827,
+      "character": "顫",
+      "pinyin": "chan",
+      "tone": 4,
+      "meaning": "tremble",
+      "story": "Tremble Mr. Hyde head commands sharply \"Chahn!\" - shake quiver!",
+      "primitives": []
+    },
+    {
+      "id": 1828,
+      "character": "莽",
+      "pinyin": "mang",
+      "tone": 3,
+      "meaning": "rude",
+      "story": "Rude flowers chihuahua two hands bends down drooping \"Mahng\" - impetuous rough!",
+      "primitives": []
+    },
+    {
+      "id": 1829,
+      "character": "戒",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "take precautions against",
+      "story": "Take precautions against two hands commands sharply \"Jyeh!\" - guard warning!",
+      "primitives": []
+    },
+    {
+      "id": 1830,
+      "character": "械",
+      "pinyin": "xie",
+      "tone": 4,
+      "meaning": "weapon",
+      "story": "Weapon tree precautions commands sharply \"Shyeh!\" - instrument arms!",
+      "primitives": []
+    },
+    {
+      "id": 1831,
+      "character": "誡",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "warn",
+      "story": "Warn words take precautions commands sharply \"Jyeh!\" - admonish caution!",
+      "primitives": []
+    },
+    {
+      "id": 1832,
+      "character": "奔",
+      "pinyin": "ben",
+      "tone": 1,
+      "meaning": "dash",
+      "story": "Dash big three sings \"Bun!\" cheerfully - run rush!",
+      "primitives": []
+    },
+    {
+      "id": 1833,
+      "character": "噴",
+      "pinyin": "pen",
+      "tone": 1,
+      "meaning": "spurt",
+      "story": "Spurt mouth local-yokel chowder sings \"Pun!\" cheerfully - spray shit!",
+      "primitives": []
+    },
+    {
+      "id": 1834,
+      "character": "墳",
+      "pinyin": "fen",
+      "tone": 2,
+      "meaning": "tomb",
+      "story": "Tomb soil local-yokel chowder questions \"Fen? Grave?\" curiously - burial mound!",
+      "primitives": []
+    },
+    {
+      "id": 1835,
+      "character": "憤",
+      "pinyin": "fen",
+      "tone": 4,
+      "meaning": "indignation",
+      "story": "Indignation heart mound commands sharply \"Fun!\" - anger resentment!",
+      "primitives": []
+    },
+    {
+      "id": 1836,
+      "character": "材",
+      "pinyin": "cai",
+      "tone": 2,
+      "meaning": "stuff",
+      "story": "Stuff tree timber questions \"Tsigh? Material?\" curiously - wood substance!",
+      "primitives": []
+    },
+    {
+      "id": 1837,
+      "character": "孕",
+      "pinyin": "yun",
+      "tone": 4,
+      "meaning": "pregnant",
+      "story": "Pregnant child center commands sharply \"Yoon!\" - expecting baby!",
+      "primitives": []
+    },
+    {
+      "id": 1838,
+      "character": "扔",
+      "pinyin": "reng",
+      "tone": 1,
+      "meaning": "throw away",
+      "story": "Throw away hand still sings \"Rung!\" cheerfully - toss discard!",
+      "primitives": []
+    },
+    {
+      "id": 1839,
+      "character": "圾",
+      "pinyin": "ji",
+      "tone": 1,
+      "meaning": "trash",
+      "story": "Trash dirt urgent sings \"Jee!\" cheerfully - garbage rubbish!",
+      "primitives": []
+    },
+    {
+      "id": 1840,
+      "character": "叉",
+      "pinyin": "cha",
+      "tone": 1,
+      "meaning": "fork",
+      "story": "Fork again split sings \"Chah!\" cheerfully - prong cross!",
+      "primitives": []
+    },
+    {
+      "id": 1841,
+      "character": "桑",
+      "pinyin": "sang",
+      "tone": 1,
+      "meaning": "mulberry tree",
+      "story": "Mulberry tree three crotches tree sings \"Sahng!\" cheerfully - silkworm food!",
+      "primitives": []
+    },
+    {
+      "id": 1842,
+      "character": "嗓",
+      "pinyin": "sang",
+      "tone": 3,
+      "meaning": "voicebox",
+      "story": "Voicebox mouth mulberry tree bends down drooping \"Sahng\" - throat voice!",
+      "primitives": []
+    },
+    {
+      "id": 1843,
+      "character": "寇",
+      "pinyin": "kou",
+      "tone": 4,
+      "meaning": "outlaw",
+      "story": "Outlaw finish magic wand crotch commands sharply \"Koh!\" - bandit raider!",
+      "primitives": []
+    },
+    {
+      "id": 1844,
+      "character": "敲",
+      "pinyin": "qiao",
+      "tone": 1,
+      "meaning": "knock",
+      "story": "Knock tall taskmaster sings \"Chyao!\" cheerfully - rap strike!",
+      "primitives": []
+    },
+    {
+      "id": 1845,
+      "character": "灌",
+      "pinyin": "guan",
+      "tone": 4,
+      "meaning": "pour into",
+      "story": "Pour into water stork commands sharply \"Gwahn!\" - fill administer medicine!",
+      "primitives": []
+    },
+    {
+      "id": 1846,
+      "character": "權",
+      "pinyin": "quan",
+      "tone": 2,
+      "meaning": "authority",
+      "story": "Authority tree stork questions \"Chyuan? Power?\" curiously - right jurisdiction!",
+      "primitives": []
+    },
+    {
+      "id": 1847,
+      "character": "毅",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "resolute",
+      "story": "Resolute standing up sow missile commands sharply \"Yee!\" - determined dedicated!",
+      "primitives": []
+    },
+    {
+      "id": 1848,
+      "character": "肢",
+      "pinyin": "zhi",
+      "tone": 1,
+      "meaning": "limb",
+      "story": "Limb body branch sings \"Jir!\" cheerfully - arm leg extremity!",
+      "primitives": []
+    },
+    {
+      "id": 1849,
+      "character": "妓",
+      "pinyin": "ji",
+      "tone": 4,
+      "meaning": "prostitute",
+      "story": "Prostitute woman branch commands sharply \"Jee!\" - courtesan!",
+      "primitives": []
+    },
+    {
+      "id": 1850,
+      "character": "歧",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "fork in the road",
+      "story": "Fork in the road stop branch questions \"Chee? Diverge?\" curiously - crossroads Qishan!",
+      "primitives": []
+    },
+    {
+      "id": 1851,
+      "character": "翅",
+      "pinyin": "chi",
+      "tone": 4,
+      "meaning": "fins",
+      "story": "Fins feathers branch commands sharply \"Chir!\" - wings!",
+      "primitives": []
+    },
+    {
+      "id": 1852,
+      "character": "淑",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "graceful",
+      "story": "Graceful water reach questions \"Shoo? Refined lady?\" curiously - virtuous elegant!",
+      "primitives": []
+    },
+    {
+      "id": 1853,
+      "character": "椒",
+      "pinyin": "jiao",
+      "tone": 1,
+      "meaning": "spice plant",
+      "story": "Spice plant tree roast turkey sings \"Jyao!\" cheerfully - peppery seasoning!",
+      "primitives": []
+    },
+    {
+      "id": 1854,
+      "character": "后",
+      "pinyin": "hou",
+      "tone": 4,
+      "meaning": "queen",
+      "story": "Queen drag ceiling mouth commands sharply \"Hoh!\" - sovereign empress!",
+      "primitives": []
+    },
+    {
+      "id": 1855,
+      "character": "盾",
+      "pinyin": "dun",
+      "tone": 4,
+      "meaning": "shield",
+      "story": "Shield ten eye commands sharply \"Dwun!\" - defense protection!",
+      "primitives": []
+    },
+    {
+      "id": 1856,
+      "character": "販",
+      "pinyin": "fan",
+      "tone": 4,
+      "meaning": "peddler",
+      "story": "Peddler shell against commands sharply \"Fahn!\" - vendor merchant!",
+      "primitives": []
+    },
+    {
+      "id": 1857,
+      "character": "扳",
+      "pinyin": "ban",
+      "tone": 1,
+      "meaning": "tug",
+      "story": "Tug fingers against sings \"Bahn!\" cheerfully - pull wrench!",
+      "primitives": []
+    },
+    {
+      "id": 1858,
+      "character": "覓",
+      "pinyin": "mi",
+      "tone": 4,
+      "meaning": "try to find",
+      "story": "Try to find vulture see commands sharply \"Mee!\" - search seek!",
+      "primitives": []
+    },
+    {
+      "id": 1859,
+      "character": "妥",
+      "pinyin": "tuo",
+      "tone": 3,
+      "meaning": "appropriate",
+      "story": "Appropriate vulture woman bends down drooping \"Twoh\" - fitting settled!",
+      "primitives": []
+    },
+    {
+      "id": 1860,
+      "character": "睬",
+      "pinyin": "cai",
+      "tone": 3,
+      "meaning": "notice",
+      "story": "Notice eyeball pluck bends down drooping \"Tsigh\" - pay attention heed!",
+      "primitives": []
+    },
+    {
+      "id": 1861,
+      "character": "允",
+      "pinyin": "yun",
+      "tone": 3,
+      "meaning": "consent",
+      "story": "Consent elbow bends down drooping \"Yoon\" - permit agree!",
+      "primitives": []
+    },
+    {
+      "id": 1862,
+      "character": "勾",
+      "pinyin": "gou",
+      "tone": 4,
+      "meaning": "cross out",
+      "story": "Cross out bound up elbow commands sharply \"Goh!\" - hook seduce!",
+      "primitives": []
+    },
+    {
+      "id": 1863,
+      "character": "晉",
+      "pinyin": "jin",
+      "tone": 4,
+      "meaning": "promote",
+      "story": "Promote ceiling two elbows floor sun commands sharply \"Jin!\" - advance!",
+      "primitives": []
+    },
+    {
+      "id": 1864,
+      "character": "宏",
+      "pinyin": "hong",
+      "tone": 2,
+      "meaning": "magnificent",
+      "story": "Magnificent house by one's side elbow questions \"Hohng? Grand?\" curiously - imposing!",
+      "primitives": []
+    },
+    {
+      "id": 1865,
+      "character": "胎",
+      "pinyin": "tai",
+      "tone": 1,
+      "meaning": "fetus",
+      "story": "Fetus body platform sings \"Tigh!\" cheerfully - embryo tire!",
+      "primitives": []
+    },
+    {
+      "id": 1866,
+      "character": "冶",
+      "pinyin": "ye",
+      "tone": 3,
+      "meaning": "smelt",
+      "story": "Smelt ice platform bends down drooping \"Yeh\" - refine metal!",
+      "primitives": []
+    },
+    {
+      "id": 1867,
+      "character": "颱",
+      "pinyin": "tai",
+      "tone": 2,
+      "meaning": "typhoon",
+      "story": "Typhoon wind platform questions \"Tigh? Storm?\" curiously - hurricane!",
+      "primitives": []
+    },
+    {
+      "id": 1868,
+      "character": "怠",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "negligent",
+      "story": "Negligent platform heart commands sharply \"Digh!\" - lazy careless!",
+      "primitives": []
+    },
+    {
+      "id": 1869,
+      "character": "抬",
+      "pinyin": "tai",
+      "tone": 2,
+      "meaning": "elevate",
+      "story": "Elevate hand platform questions \"Tigh? Lift?\" curiously - raise carry!",
+      "primitives": []
+    },
+    {
+      "id": 1870,
+      "character": "丟",
+      "pinyin": "diu",
+      "tone": 1,
+      "meaning": "mislay",
+      "story": "Mislay gone sings \"Dyoh!\" cheerfully - lose drop!",
+      "primitives": []
+    },
+    {
+      "id": 1871,
+      "character": "臺",
+      "pinyin": "tai",
+      "tone": 2,
+      "meaning": "Taiwan",
+      "story": "Taiwan platform至 questions \"Tigh? Isle?\" curiously - stage!",
+      "primitives": []
+    },
+    {
+      "id": 1872,
+      "character": "致",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "bring about",
+      "story": "Bring about cause commands sharply \"Jir!\" - result deliver!",
+      "primitives": []
+    },
+    {
+      "id": 1873,
+      "character": "撤",
+      "pinyin": "che",
+      "tone": 4,
+      "meaning": "remove",
+      "story": "Remove hand bring about commands sharply \"Chuh!\" - withdraw evacuate!",
+      "primitives": []
+    },
+    {
+      "id": 1874,
+      "character": "硫",
+      "pinyin": "liu",
+      "tone": 2,
+      "meaning": "sulfur",
+      "story": "Sulfur stone flow questions \"Lyoh? Element?\" curiously - brimstone acid!",
+      "primitives": []
+    },
+    {
+      "id": 1875,
+      "character": "琉",
+      "pinyin": "liu",
+      "tone": 2,
+      "meaning": "glaze",
+      "story": "Glaze king Baby Moses questions \"Lyoh? Glassy?\" curiously - colored glass!",
+      "primitives": []
+    },
+    {
+      "id": 1876,
+      "character": "疏",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "sparse",
+      "story": "Sparse sickness dredge sings \"Shoo!\" cheerfully - thin scattered!",
+      "primitives": []
+    },
+    {
+      "id": 1877,
+      "character": "蔬",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "veggies",
+      "story": "Veggies flowers sparse sings \"Shoo!\" cheerfully - vegetables greens!",
       "primitives": []
     }
   ]

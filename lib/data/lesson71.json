@@ -2,165 +2,102 @@
   "lesson": 71,
   "characters": [
     {
-      "id": 1260,
-      "character": "發",
-      "pinyin": "fa",
-      "tone": 1,
-      "meaning": "to send out",
-      "story": "To send out two legs sings \"Fah!\" cheerfully - issue dispatch discharge!",
-      "primitives": []
-    },
-    {
-      "id": 1261,
-      "character": "廢",
-      "pinyin": "fei",
+      "id": 1629,
+      "character": "貳",
+      "pinyin": "er",
       "tone": 4,
-      "meaning": "to discard",
-      "story": "To discard building send out commands sharply \"Fay!\" - terminate abolish!",
+      "meaning": "II",
+      "story": "II two shellfish commands sharply \"Urr!\" - number two formal!",
       "primitives": []
     },
     {
-      "id": 1262,
-      "character": "形",
-      "pinyin": "xing",
-      "tone": 2,
-      "meaning": "Shape",
-      "story": "Shape open hands questions \"Shing? Appearance?\" curiously - form!",
-      "primitives": []
-    },
-    {
-      "id": 1263,
-      "character": "影",
-      "pinyin": "ying",
-      "tone": 3,
-      "meaning": "Shadow",
-      "story": "Shadow shape sun bends down drooping \"Ying\" - reflection picture image!",
-      "primitives": []
-    },
-    {
-      "id": 1264,
-      "character": "彩",
-      "pinyin": "cai",
-      "tone": 3,
-      "meaning": "Hue",
-      "story": "Hue shape tree bends down drooping \"Tsigh\" - color coloring!",
-      "primitives": []
-    },
-    {
-      "id": 1265,
-      "character": "須",
-      "pinyin": "xu",
-      "tone": 1,
-      "meaning": "to have to",
-      "story": "To have to shape page sings \"Shyoo!\" cheerfully - must necessary ought!",
-      "primitives": []
-    },
-    {
-      "id": 1266,
-      "character": "珍",
-      "pinyin": "zhen",
-      "tone": 1,
-      "meaning": "rare",
-      "story": "Rare jewel shape sings \"Jun!\" cheerfully - precious treasure!",
-      "primitives": []
-    },
-    {
-      "id": 1267,
-      "character": "參",
-      "pinyin": "can",
-      "tone": 1,
-      "meaning": "to participate",
-      "story": "To participate hairs private sings \"Tsahn!\" cheerfully - join visit ginseng!",
-      "primitives": []
-    },
-    {
-      "id": 1268,
-      "character": "慘",
-      "pinyin": "can",
-      "tone": 3,
-      "meaning": "wretched",
-      "story": "Wretched heart participate bends down drooping \"Tsahn\" - miserable sad pitiful!",
-      "primitives": []
-    },
-    {
-      "id": 1269,
-      "character": "修",
-      "pinyin": "xiu",
-      "tone": 1,
-      "meaning": "to repair",
-      "story": "To repair person shape sings \"Shyo!\" cheerfully - cultivate study discipline!",
-      "primitives": []
-    },
-    {
-      "id": 1270,
-      "character": "文",
-      "pinyin": "wen",
-      "tone": 2,
-      "meaning": "Literature",
-      "story": "Literature scholar questions \"Wuhn? Writing?\" curiously - culture sentence!",
-      "primitives": []
-    },
-    {
-      "id": 1271,
-      "character": "蚊",
-      "pinyin": "wen",
-      "tone": 2,
-      "meaning": "Mosquito",
-      "story": "Mosquito insect literature questions \"Wuhn? Biting?\" curiously - buzzing pest!",
-      "primitives": []
-    },
-    {
-      "id": 1272,
-      "character": "彥",
-      "pinyin": "yan",
+      "id": 1630,
+      "character": "膩",
+      "pinyin": "ni",
       "tone": 4,
-      "meaning": "erudite",
-      "story": "Erudite colorful scholar commands sharply \"Yahn!\" - accomplished learned elegant lad!",
+      "meaning": "sick and tired of",
+      "story": "Sick and tired of body two commands sharply \"Nee!\" - unctuous overly sentimental!",
       "primitives": []
     },
     {
-      "id": 1273,
-      "character": "顏",
-      "pinyin": "yan",
-      "tone": 2,
-      "meaning": "Countenance",
-      "story": "Countenance page erudite questions \"Yahn? Face?\" curiously - color!",
-      "primitives": []
-    },
-    {
-      "id": 1274,
-      "character": "產",
-      "pinyin": "chan",
-      "tone": 3,
-      "meaning": "Products",
-      "story": "Products cliff life bends down drooping \"Chahn\" - resources give birth!",
-      "primitives": []
-    },
-    {
-      "id": 1275,
-      "character": "率",
-      "pinyin": "shuai",
+      "id": 1631,
+      "character": "洩",
+      "pinyin": "xie",
       "tone": 4,
-      "meaning": "a Rate",
-      "story": "A rate shape field commands sharply \"Shwigh!\" - ratio limit lead!",
+      "meaning": "discharge",
+      "story": "Discharge water world commands sharply \"Shyeh!\" - leak release deflate!",
       "primitives": []
     },
     {
-      "id": 1276,
-      "character": "摔",
-      "pinyin": "shuai",
-      "tone": 1,
-      "meaning": "to tumble",
-      "story": "To tumble hand rate sings \"Shwigh!\" cheerfully - fall stumble trip!",
+      "id": 1632,
+      "character": "划",
+      "pinyin": "hua",
+      "tone": 2,
+      "meaning": "paddle",
+      "story": "Paddle knife theater questions \"Hwah? Row?\" curiously - stroke oar!",
       "primitives": []
     },
     {
-      "id": 1277,
-      "character": "央",
-      "pinyin": "yang",
+      "id": 1633,
+      "character": "嘎",
+      "pinyin": "ga",
+      "tone": 2,
+      "meaning": "caw",
+      "story": "Caw mouth ceiling nostils fiesta questions \"Gah? What doing?\" curiously - sound!",
+      "primitives": []
+    },
+    {
+      "id": 1634,
+      "character": "域",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "domain",
+      "story": "Domain soil confused commands sharply \"Yoo!\" - territory realm!",
+      "primitives": []
+    },
+    {
+      "id": 1635,
+      "character": "栽",
+      "pinyin": "zai",
       "tone": 1,
-      "meaning": "Center",
-      "story": "Center big sings \"Yahng!\" cheerfully - middle beg!",
+      "meaning": "sow",
+      "story": "Sow thanksgiving trees sings \"Dzigh!\" cheerfully - plant cultivate!",
+      "primitives": []
+    },
+    {
+      "id": 1636,
+      "character": "戚",
+      "pinyin": "qi",
+      "tone": 1,
+      "meaning": "kin",
+      "story": "Kin halberd small sings \"Chee!\" cheerfully - relatives relations!",
+      "primitives": []
+    },
+    {
+      "id": 1637,
+      "character": "蔑",
+      "pinyin": "mie",
+      "tone": 4,
+      "meaning": "despise",
+      "story": "Despise flowers loathe commands sharply \"Myeh!\" - scorn disdain!",
+      "primitives": []
+    },
+    {
+      "id": 1638,
+      "character": "喊",
+      "pinyin": "han",
+      "tone": 3,
+      "meaning": "yell",
+      "story": "Yell mouth salty bends down drooping \"Hahn\" - shout cry out!",
+      "primitives": []
+    },
+    {
+      "id": 1639,
+      "character": "濺",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "splatter",
+      "story": "Splatter water see commands sharply \"Jyan!\" - splash spatter!",
       "primitives": []
     }
   ]

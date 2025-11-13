@@ -2,6 +2,60 @@
   "lesson": 7,
   "characters": [
     {
+      "id": 103,
+      "character": "小",
+      "pinyin": "xiao",
+      "tone": 3,
+      "meaning": "small",
+      "story": "Small person bends down drooping low saying \"Shyao\"!",
+      "primitives": []
+    },
+    {
+      "id": 104,
+      "character": "少",
+      "pinyin": "shao",
+      "tone": 3,
+      "meaning": "few",
+      "story": "Few strokes bend down drooping small saying \"Shao\"!",
+      "primitives": []
+    },
+    {
+      "id": 105,
+      "character": "吵",
+      "pinyin": "chao",
+      "tone": 3,
+      "meaning": "noisy",
+      "story": "A noisy mouth bends down drooping, shouting \"Chao\" with few words!",
+      "primitives": []
+    },
+    {
+      "id": 106,
+      "character": "大",
+      "pinyin": "da",
+      "tone": 4,
+      "meaning": "large",
+      "story": "Large person spreads arms, yelling \"Da!\" sharply and wide!",
+      "primitives": []
+    },
+    {
+      "id": 107,
+      "character": "尖",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "tip",
+      "story": "The tip where small meets large sings \"Jian!\" cheerfully and sharp!",
+      "primitives": []
+    },
+    {
+      "id": 108,
+      "character": "夕",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "Evening",
+      "story": "Evening moon sings \"Shee!\" happily and high in the sky!",
+      "primitives": []
+    },
+    {
       "id": 109,
       "character": "多",
       "pinyin": "duo",
@@ -125,42 +179,6 @@
       "tone": 2,
       "meaning": "strange",
       "story": "A strange large person questions \"Chi? Why so odd?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 123,
-      "character": "川",
-      "pinyin": "chuan",
-      "tone": 1,
-      "meaning": "Stream",
-      "story": "A stream flows cheerfully singing \"Chuan!\" in three happy channels!",
-      "primitives": []
-    },
-    {
-      "id": 124,
-      "character": "州",
-      "pinyin": "zhou",
-      "tone": 1,
-      "meaning": "a state",
-      "story": "A state with stream and dots sings \"Joe!\" cheerfully united!",
-      "primitives": []
-    },
-    {
-      "id": 125,
-      "character": "順",
-      "pinyin": "shun",
-      "tone": 4,
-      "meaning": "to obey",
-      "story": "To obey, the stream flows by the page, commanding \"Shun!\" sharply!",
-      "primitives": []
-    },
-    {
-      "id": 126,
-      "character": "水",
-      "pinyin": "shui",
-      "tone": 3,
-      "meaning": "Water",
-      "story": "Water bends down drooping in streams saying \"Shway\"!",
       "primitives": []
     }
   ]

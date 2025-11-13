@@ -2,165 +2,165 @@
   "lesson": 109,
   "characters": [
     {
-      "id": 1944,
-      "character": "稍",
-      "pinyin": "shao",
-      "tone": 1,
-      "meaning": "a little",
-      "story": "A little wheat whistle sings \"Shao!\" cheerfully - slightly somewhat!",
-      "primitives": []
-    },
-    {
-      "id": 1945,
-      "character": "穌",
-      "pinyin": "su",
-      "tone": 1,
-      "meaning": "rise again",
-      "story": "Rise again fish wild rice sings \"Soo!\" cheerfully - Jesus resurrect!",
-      "primitives": []
-    },
-    {
-      "id": 1946,
-      "character": "蘇",
-      "pinyin": "su",
-      "tone": 1,
-      "meaning": "revive",
-      "story": "Revive flowers fish sings \"Soo!\" cheerfully - recover awaken!",
-      "primitives": []
-    },
-    {
-      "id": 1947,
-      "character": "萎",
-      "pinyin": "wei",
-      "tone": 1,
-      "meaning": "wilt",
-      "story": "Wilt flowers committee sings \"Way!\" cheerfully - droop shrivel!",
-      "primitives": []
-    },
-    {
-      "id": 1948,
-      "character": "黏",
-      "pinyin": "nian",
+      "id": 2894,
+      "character": "唇",
+      "pinyin": "chun",
       "tone": 2,
-      "meaning": "sticky",
-      "story": "Sticky rumpelbrella tell fortunes questions \"Nyan? Adhesive?\" curiously - gluey!",
+      "meaning": "lips",
+      "story": "\"CHWUN?\" the sign of dragon and mouth question curiously - lips, thirsty, and ruptured?",
       "primitives": []
     },
     {
-      "id": 1949,
-      "character": "黎",
-      "pinyin": "li",
+      "id": 2895,
+      "character": "辱",
+      "pinyin": "ru",
+      "tone": 3,
+      "meaning": "disgrace",
+      "story": "\"ROO!\" he commands sharply - disgrace, shame, insult, and scold!",
+      "primitives": []
+    },
+    {
+      "id": 2896,
+      "character": "震",
+      "pinyin": "zhen",
+      "tone": 4,
+      "meaning": "quake",
+      "story": "\"JUN!\" it commands sharply - to quake, tremble in an earthquake!",
+      "primitives": []
+    },
+    {
+      "id": 2897,
+      "character": "振",
+      "pinyin": "zhen",
+      "tone": 4,
+      "meaning": "vibrate",
+      "story": "\"JUN!\" he commands sharply - to vibrate, shake - calm down and rest!",
+      "primitives": []
+    },
+    {
+      "id": 2898,
+      "character": "魄",
+      "pinyin": "po",
+      "tone": 4,
+      "meaning": "vigor",
+      "story": "\"PWOH!\" it commands sharply - vigor, spirit, and soul that's sucked!",
+      "primitives": []
+    },
+    {
+      "id": 2899,
+      "character": "槐",
+      "pinyin": "huai",
       "tone": 2,
-      "meaning": "host",
-      "story": "Host rumpelbrella bound up eyedropper questions \"Lee? Masses?\" curiously - multitude people!",
+      "meaning": "scholar tree",
+      "story": "\"HWAI?\" the tree and ghost question curiously - scholar tree, locust wood?",
       "primitives": []
     },
     {
-      "id": 1950,
-      "character": "漆",
-      "pinyin": "qi",
+      "id": 2900,
+      "character": "魅",
+      "pinyin": "mei",
+      "tone": 4,
+      "meaning": "enchant",
+      "story": "\"MAY!\" the ghost commands sharply though not yet - to enchant, charm with special allure!",
+      "primitives": []
+    },
+    {
+      "id": 2901,
+      "character": "瑰",
+      "pinyin": "gui",
       "tone": 1,
-      "meaning": "wall paint",
-      "story": "Wall paint water Baron von Rumpelbrella sings \"Chee!\" cheerfully - lacquer paintball!",
+      "meaning": "marvelous",
+      "story": "\"GWAY!\" the jewel and ghost sing cheerfully - marvelous, magnificent, and splendid!",
       "primitives": []
     },
     {
-      "id": 1951,
-      "character": "膝",
-      "pinyin": "xi",
-      "tone": 1,
-      "meaning": "knees",
-      "story": "Knees flesh Baron von Rumpelbrella sings \"Shee!\" cheerfully - leg joints!",
+      "id": 2902,
+      "character": "魂",
+      "pinyin": "hun",
+      "tone": 2,
+      "meaning": "soul",
+      "story": "\"HWUN?\" the ghost questions curiously - the soul, spirit, and essence?",
       "primitives": []
     },
     {
-      "id": 1952,
-      "character": "稠",
+      "id": 2903,
+      "character": "愧",
+      "pinyin": "kui",
+      "tone": 4,
+      "meaning": "ashamed",
+      "story": "\"KWAY!\" the heart commands sharply - ashamed, guilty, and embarrassed!",
+      "primitives": []
+    },
+    {
+      "id": 2904,
+      "character": "魁",
+      "pinyin": "kui",
+      "tone": 2,
+      "meaning": "leader",
+      "story": "\"KWAY?\" the ghost and big dipper question curiously - a leader, chief, and champion?",
+      "primitives": []
+    },
+    {
+      "id": 2905,
+      "character": "醜",
       "pinyin": "chou",
+      "tone": 3,
+      "meaning": "ugly",
+      "story": "The ghost bends down drooping - ugly, unattractive, and hideous.",
+      "primitives": []
+    },
+    {
+      "id": 2906,
+      "character": "壟",
+      "pinyin": "long",
+      "tone": 3,
+      "meaning": "raised path between fields",
+      "story": "The dragon and land bend down drooping - raised path between fields, ridge, and mound.",
+      "primitives": []
+    },
+    {
+      "id": 2907,
+      "character": "寵",
+      "pinyin": "chong",
+      "tone": 3,
+      "meaning": "dote on",
+      "story": "The house bends down drooping - to dote on, pamper, and spoil.",
+      "primitives": []
+    },
+    {
+      "id": 2908,
+      "character": "龐",
+      "pinyin": "pang",
       "tone": 2,
-      "meaning": "dense",
-      "story": "Dense wild rice lap questions \"Choh? Thick?\" curiously - concentrated!",
+      "meaning": "huge",
+      "story": "\"PAHNG?\" the cave and dragon question curiously - huge, enormous, and vast?",
       "primitives": []
     },
     {
-      "id": 1953,
-      "character": "稿",
-      "pinyin": "gao",
+      "id": 2909,
+      "character": "攏",
+      "pinyin": "long",
       "tone": 3,
-      "meaning": "draft",
-      "story": "Draft wild rice high bends down drooping \"Gao\" - manuscript rough copy!",
+      "meaning": "draw near",
+      "story": "The fingers bend down drooping - to draw near, gather the spirit in soil.",
       "primitives": []
     },
     {
-      "id": 1954,
-      "character": "穎",
-      "pinyin": "ying",
-      "tone": 3,
-      "meaning": "clever",
-      "story": "Clever spoon wild rice head bends down drooping \"Ying\" - bright novel!",
+      "id": 2910,
+      "character": "聾",
+      "pinyin": "long",
+      "tone": 2,
+      "meaning": "deaf",
+      "story": "\"LUNG?\" the ear questions curiously - deaf, hearing impaired like Fengxia?",
       "primitives": []
     },
     {
-      "id": 1955,
-      "character": "稅",
-      "pinyin": "shui",
-      "tone": 4,
-      "meaning": "tax",
-      "story": "Tax wild rice exchange commands sharply \"Shway!\" - levy duty!",
-      "primitives": []
-    },
-    {
-      "id": 1956,
-      "character": "稼",
-      "pinyin": "jia",
-      "tone": 4,
-      "meaning": "crops",
-      "story": "Crops wild rice house commands sharply \"Jyah!\" - grain plants!",
-      "primitives": []
-    },
-    {
-      "id": 1957,
-      "character": "菌",
-      "pinyin": "jun",
-      "tone": 1,
-      "meaning": "fungus",
-      "story": "Fungus flowers army sings \"Jyoon!\" cheerfully - bacteria mold!",
-      "primitives": []
-    },
-    {
-      "id": 1958,
-      "character": "稚",
-      "pinyin": "zhi",
-      "tone": 4,
-      "meaning": "immature",
-      "story": "Immature wild rice young commands sharply \"Jir!\" - childish naive!",
-      "primitives": []
-    },
-    {
-      "id": 1959,
-      "character": "穫",
-      "pinyin": "huo",
-      "tone": 4,
-      "meaning": "harvest",
-      "story": "Harvest wild rice bird of paradise commands sharply \"Hwoh!\" - reap gather!",
-      "primitives": []
-    },
-    {
-      "id": 1960,
-      "character": "私",
-      "pinyin": "si",
-      "tone": 1,
-      "meaning": "private",
-      "story": "Private wheat elbow sings \"Suh!\" cheerfully - personal secret!",
-      "primitives": []
-    },
-    {
-      "id": 1961,
-      "character": "秩",
-      "pinyin": "zhi",
-      "tone": 4,
-      "meaning": "order",
-      "story": "Order wild rice lose commands sharply \"Jir!\" - in sequence peace!",
+      "id": 2911,
+      "character": "籠",
+      "pinyin": "long",
+      "tone": 2,
+      "meaning": "cage",
+      "story": "\"LUNG?\" the bamboo questions curiously - a cage, basket for chicken coop?",
       "primitives": []
     }
   ]

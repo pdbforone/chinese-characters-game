@@ -2,165 +2,291 @@
   "lesson": 86,
   "characters": [
     {
-      "id": 1530,
-      "character": "肘",
-      "pinyin": "zhou",
-      "tone": 3,
-      "meaning": "elbow",
-      "story": "Elbow body inch bends down drooping \"Joh\" - arm joint!",
+      "id": 2171,
+      "character": "惜",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "rue",
+      "story": "Rue heart evening sings \"Shee!\" cheerfully - pity regret what a shame!",
       "primitives": []
     },
     {
-      "id": 1531,
-      "character": "灼",
-      "pinyin": "zhuo",
+      "id": 2172,
+      "character": "措",
+      "pinyin": "cuo",
+      "tone": 4,
+      "meaning": "arrange",
+      "story": "Arrange hand past commands sharply \"Tswoh!\" - handle dispose!",
+      "primitives": []
+    },
+    {
+      "id": 2173,
+      "character": "棄",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "forsake",
+      "story": "Forsake baby tree commands sharply \"Chee!\" - abandon discard give up!",
+      "primitives": []
+    },
+    {
+      "id": 2174,
+      "character": "燕",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "swallow",
+      "story": "Swallow廿 mouth commands sharply \"Yahn!\" - bird swift!",
+      "primitives": []
+    },
+    {
+      "id": 2175,
+      "character": "遮",
+      "pinyin": "zhe",
+      "tone": 1,
+      "meaning": "screen",
+      "story": "Screen caverns cooking fire road sings \"Juh!\" cheerfully - block cover!",
+      "primitives": []
+    },
+    {
+      "id": 2176,
+      "character": "畔",
+      "pinyin": "pan",
+      "tone": 4,
+      "meaning": "littoral",
+      "story": "Littoral field rebel commands sharply \"Pahn!\" - bank shore!",
+      "primitives": []
+    },
+    {
+      "id": 2177,
+      "character": "拌",
+      "pinyin": "ban",
+      "tone": 4,
+      "meaning": "blend",
+      "story": "Blend hand half commands sharply \"Bahn!\" - mix stir!",
+      "primitives": []
+    },
+    {
+      "id": 2178,
+      "character": "叛",
+      "pinyin": "pan",
+      "tone": 4,
+      "meaning": "betray",
+      "story": "Betray half rebel commands sharply \"Pahn!\" - rebel traitor!",
+      "primitives": []
+    },
+    {
+      "id": 2179,
+      "character": "券",
+      "pinyin": "quan",
+      "tone": 4,
+      "meaning": "voucher",
+      "story": "Voucher quarter dagger commands sharply \"Chyuan!\" - ticket coupon redeem!",
+      "primitives": []
+    },
+    {
+      "id": 2180,
+      "character": "藤",
+      "pinyin": "teng",
       "tone": 2,
-      "meaning": "scorch",
-      "story": "Scorch fire spoon questions \"Jwoh? Burn?\" curiously - sear!",
+      "meaning": "rattan",
+      "story": "Rattan flowers month questions \"Tung? Vine?\" curiously - climbing plant!",
       "primitives": []
     },
     {
-      "id": 1532,
-      "character": "炒",
-      "pinyin": "chao",
-      "tone": 3,
-      "meaning": "stir-fry",
-      "story": "Stir-fry fire few bends down drooping \"Chao\" - cooking tossing!",
+      "id": 2181,
+      "character": "狀",
+      "pinyin": "zhuang",
+      "tone": 4,
+      "meaning": "state of affairs",
+      "story": "State of affairs dog bed commands sharply \"Jwahng!\" - condition situation!",
       "primitives": []
     },
     {
-      "id": 1533,
-      "character": "澆",
-      "pinyin": "jiao",
-      "tone": 1,
-      "meaning": "sprinkle",
-      "story": "Sprinkle water proud sings \"Jyao!\" cheerfully - pour water on!",
-      "primitives": []
-    },
-    {
-      "id": 1534,
-      "character": "哩",
-      "pinyin": "li",
-      "tone": 3,
-      "meaning": "mile",
-      "story": "Mile mouth inside bends down drooping \"Lee\" - distance measure!",
-      "primitives": []
-    },
-    {
-      "id": 1535,
-      "character": "鯉",
-      "pinyin": "li",
-      "tone": 3,
-      "meaning": "carp",
-      "story": "Carp fish inside bends down drooping \"Lee\" - koi fish!",
-      "primitives": []
-    },
-    {
-      "id": 1536,
-      "character": "嘿",
-      "pinyin": "hei",
-      "tone": 1,
-      "meaning": "Hey!",
-      "story": "Hey mouth black sings \"Hay!\" cheerfully - exclamation!",
-      "primitives": []
-    },
-    {
-      "id": 1537,
-      "character": "丹",
-      "pinyin": "dan",
-      "tone": 1,
-      "meaning": "cinnabar red",
-      "story": "Cinnabar red pellet sings \"Dahn!\" cheerfully - vermillion!",
-      "primitives": []
-    },
-    {
-      "id": 1538,
-      "character": "喧",
-      "pinyin": "xuan",
-      "tone": 1,
-      "meaning": "boisterous",
-      "story": "Boisterous mouth proclaim sings \"Shyuan!\" cheerfully - loud clamorous!",
-      "primitives": []
-    },
-    {
-      "id": 1539,
-      "character": "賓",
-      "pinyin": "bin",
-      "tone": 1,
-      "meaning": "visitor",
-      "story": "Visitor roof shellfish sings \"Bin!\" cheerfully - guest!",
-      "primitives": []
-    },
-    {
-      "id": 1540,
-      "character": "濱",
-      "pinyin": "bin",
-      "tone": 1,
-      "meaning": "water's edge",
-      "story": "Water's edge water visitor sings \"Bin!\" cheerfully - shore bank!",
-      "primitives": []
-    },
-    {
-      "id": 1541,
-      "character": "寡",
-      "pinyin": "gua",
-      "tone": 3,
-      "meaning": "widowed",
-      "story": "Widowed house divide bends down drooping \"Gwah\" - alone bereaved!",
-      "primitives": []
-    },
-    {
-      "id": 1542,
-      "character": "棚",
-      "pinyin": "peng",
+      "id": 2182,
+      "character": "牆",
+      "pinyin": "qiang",
       "tone": 2,
-      "meaning": "shed",
-      "story": "Shed tree friend questions \"Pung? Shelter?\" curiously - awning hut!",
+      "meaning": "wall",
+      "story": "Wall state earth questions \"Chyahng? Barrier?\" curiously - enclosure!",
       "primitives": []
     },
     {
-      "id": 1543,
-      "character": "柏",
-      "pinyin": "bai",
+      "id": 2183,
+      "character": "鼎",
+      "pinyin": "ding",
       "tone": 3,
-      "meaning": "cypress",
-      "story": "Cypress tree white bends down drooping \"Bigh\" - evergreen tree!",
+      "meaning": "old cooking pot",
+      "story": "Old cooking pot目 ear bends down drooping \"Ding\" - tripod vessel!",
       "primitives": []
     },
     {
-      "id": 1544,
-      "character": "槓",
-      "pinyin": "gang",
-      "tone": 4,
-      "meaning": "thick stick",
-      "story": "Thick stick tree work commands sharply \"Gahng!\" - pole bar!",
-      "primitives": []
-    },
-    {
-      "id": 1545,
-      "character": "朵",
-      "pinyin": "duo",
+      "id": 2184,
+      "character": "寢",
+      "pinyin": "qin",
       "tone": 3,
-      "meaning": "flouds",
-      "story": "Flouds flower bud bends down drooping \"Dwoh\" - blossoms!",
+      "meaning": "get some shuteye",
+      "story": "Get some shuteye house bunk beds dunce bends down drooping \"Chin\" - sleep bedroom!",
       "primitives": []
     },
     {
-      "id": 1546,
-      "character": "杜",
-      "pinyin": "du",
-      "tone": 4,
-      "meaning": "prevent",
-      "story": "Prevent tree earth commands sharply \"Doo!\" - stop block!",
+      "id": 2185,
+      "character": "侵",
+      "pinyin": "qin",
+      "tone": 1,
+      "meaning": "invade",
+      "story": "Invade person dunce sings \"Chin!\" cheerfully - encroach intrude!",
       "primitives": []
     },
     {
-      "id": 1547,
-      "character": "桂",
-      "pinyin": "gui",
+      "id": 2186,
+      "character": "浸",
+      "pinyin": "jin",
       "tone": 4,
-      "meaning": "cassia-bark tree",
-      "story": "Cassia-bark tree tree cinnamon commands sharply \"Gway!\" - laurel fragrant!",
+      "meaning": "immerse",
+      "story": "Immerse water dunce commands sharply \"Jin!\" - soak dip!",
+      "primitives": []
+    },
+    {
+      "id": 2187,
+      "character": "贓",
+      "pinyin": "zang",
+      "tone": 1,
+      "meaning": "stolen goods",
+      "story": "Stolen goods shells surfboarding sings \"Dzahng!\" cheerfully - loot plunder!",
+      "primitives": []
+    },
+    {
+      "id": 2188,
+      "character": "藏",
+      "pinyin": "cang",
+      "tone": 2,
+      "meaning": "hide",
+      "story": "Hide flowers stolen goods questions \"Tsahng? Conceal?\" curiously - stash Tibet!",
+      "primitives": []
+    },
+    {
+      "id": 2189,
+      "character": "臟",
+      "pinyin": "zang",
+      "tone": 4,
+      "meaning": "guts",
+      "story": "Guts body stolen goods commands sharply \"Dzahng!\" - internal organs dirty!",
+      "primitives": []
+    },
+    {
+      "id": 2190,
+      "character": "獎",
+      "pinyin": "jiang",
+      "tone": 3,
+      "meaning": "award",
+      "story": "Award general dog bends down drooping \"Jyahng\" - prize honor!",
+      "primitives": []
+    },
+    {
+      "id": 2191,
+      "character": "漿",
+      "pinyin": "jiang",
+      "tone": 1,
+      "meaning": "thick liquid",
+      "story": "Thick liquid general water sings \"Jyahng!\" cheerfully - starch paste!",
+      "primitives": []
+    },
+    {
+      "id": 2192,
+      "character": "槳",
+      "pinyin": "jiang",
+      "tone": 3,
+      "meaning": "oar",
+      "story": "Oar general tree bends down drooping \"Jyahng\" - paddle rowing!",
+      "primitives": []
+    },
+    {
+      "id": 2193,
+      "character": "蔣",
+      "pinyin": "jiang",
+      "tone": 3,
+      "meaning": "Jiang",
+      "story": "Jiang flowers general bends down drooping \"Jyahng\" - Chiang Kai-shek surname!",
+      "primitives": []
+    },
+    {
+      "id": 2194,
+      "character": "淵",
+      "pinyin": "yuan",
+      "tone": 1,
+      "meaning": "abyss",
+      "story": "Abyss water rice field sings \"Yuan!\" cheerfully - deep chasm!",
+      "primitives": []
+    },
+    {
+      "id": 2195,
+      "character": "肅",
+      "pinyin": "su",
+      "tone": 4,
+      "meaning": "solemn",
+      "story": "Solemn body upright commands sharply \"Soo!\" - serious respectful!",
+      "primitives": []
+    },
+    {
+      "id": 2196,
+      "character": "嘯",
+      "pinyin": "xiao",
+      "tone": 4,
+      "meaning": "howl",
+      "story": "Howl mouth solemn commands sharply \"Shyao!\" - roar tsunami!",
+      "primitives": []
+    },
+    {
+      "id": 2197,
+      "character": "蕭",
+      "pinyin": "xiao",
+      "tone": 1,
+      "meaning": "desolate",
+      "story": "Desolate flowers grand canyon sings \"Shyao!\" cheerfully - bleak decrepit!",
+      "primitives": []
+    },
+    {
+      "id": 2198,
+      "character": "鏽",
+      "pinyin": "xiu",
+      "tone": 4,
+      "meaning": "rust",
+      "story": "Rust metal sleeve commands sharply \"Shyo!\" - corrode oxidize!",
+      "primitives": []
+    },
+    {
+      "id": 2199,
+      "character": "芝",
+      "pinyin": "zhi",
+      "tone": 1,
+      "meaning": "sesame",
+      "story": "Sesame flowers sign of Zorro sings \"Jir!\" cheerfully - oil seeds plant!",
+      "primitives": []
+    },
+    {
+      "id": 2200,
+      "character": "貶",
+      "pinyin": "bian",
+      "tone": 3,
+      "meaning": "devalue",
+      "story": "Devalue shellfish decrease bends down drooping \"Byan\" - depreciate demote!",
+      "primitives": []
+    },
+    {
+      "id": 2201,
+      "character": "泛",
+      "pinyin": "fan",
+      "tone": 4,
+      "meaning": "nonspecific",
+      "story": "Nonspecific water sickle commands sharply \"Fahn!\" - general broad!",
+      "primitives": []
+    },
+    {
+      "id": 2202,
+      "character": "歪",
+      "pinyin": "wai",
+      "tone": 1,
+      "meaning": "askew",
+      "story": "Askew not correct sings \"Wigh!\" cheerfully - crooked tilted uneven!",
       "primitives": []
     }
   ]

@@ -108,60 +108,6 @@
       "meaning": "to overcome",
       "story": "To overcome with ten mouths yelling \"Kuh!\" sharply!",
       "primitives": []
-    },
-    {
-      "id": 103,
-      "character": "小",
-      "pinyin": "xiao",
-      "tone": 3,
-      "meaning": "small",
-      "story": "Small person bends down drooping low saying \"Shyao\"!",
-      "primitives": []
-    },
-    {
-      "id": 104,
-      "character": "少",
-      "pinyin": "shao",
-      "tone": 3,
-      "meaning": "few",
-      "story": "Few strokes bend down drooping small saying \"Shao\"!",
-      "primitives": []
-    },
-    {
-      "id": 105,
-      "character": "吵",
-      "pinyin": "chao",
-      "tone": 3,
-      "meaning": "noisy",
-      "story": "A noisy mouth bends down drooping, shouting \"Chao\" with few words!",
-      "primitives": []
-    },
-    {
-      "id": 106,
-      "character": "大",
-      "pinyin": "da",
-      "tone": 4,
-      "meaning": "large",
-      "story": "Large person spreads arms, yelling \"Da!\" sharply and wide!",
-      "primitives": []
-    },
-    {
-      "id": 107,
-      "character": "尖",
-      "pinyin": "jian",
-      "tone": 1,
-      "meaning": "tip",
-      "story": "The tip where small meets large sings \"Jian!\" cheerfully and sharp!",
-      "primitives": []
-    },
-    {
-      "id": 108,
-      "character": "夕",
-      "pinyin": "xi",
-      "tone": 1,
-      "meaning": "Evening",
-      "story": "Evening moon sings \"Shee!\" happily and high in the sky!",
-      "primitives": []
     }
   ]
 }

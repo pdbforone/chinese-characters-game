@@ -2,165 +2,111 @@
   "lesson": 68,
   "characters": [
     {
-      "id": 1206,
-      "character": "簡",
+      "id": 1592,
+      "character": "迫",
+      "pinyin": "po",
+      "tone": 4,
+      "meaning": "compel",
+      "story": "Compel road white commands sharply \"Pwoh!\" - force urge!",
+      "primitives": []
+    },
+    {
+      "id": 1593,
+      "character": "逼",
+      "pinyin": "bi",
+      "tone": 1,
+      "meaning": "press",
+      "story": "Press road compel sings \"Bee!\" cheerfully - coerce pressure!",
+      "primitives": []
+    },
+    {
+      "id": 1594,
+      "character": "逃",
+      "pinyin": "tao",
+      "tone": 2,
+      "meaning": "escape",
+      "story": "Escape road omen questions \"Tao? Flee?\" curiously - run away!",
+      "primitives": []
+    },
+    {
+      "id": 1595,
+      "character": "逞",
+      "pinyin": "cheng",
+      "tone": 3,
+      "meaning": "flaunt",
+      "story": "Flaunt road display bends down drooping \"Chung\" - show off swagger!",
+      "primitives": []
+    },
+    {
+      "id": 1596,
+      "character": "轟",
+      "pinyin": "hong",
+      "tone": 1,
+      "meaning": "rumble",
+      "story": "Rumble three cars sing \"Hohng!\" cheerfully - boom thunder vibrate!",
+      "primitives": []
+    },
+    {
+      "id": 1597,
+      "character": "軌",
+      "pinyin": "gui",
+      "tone": 3,
+      "meaning": "rails",
+      "story": "Rails car nine bends down drooping \"Gway\" - track for trains!",
+      "primitives": []
+    },
+    {
+      "id": 1598,
+      "character": "軋",
+      "pinyin": "ya",
+      "tone": 4,
+      "meaning": "flatten",
+      "story": "Flatten car fishhook commands sharply \"Yah!\" - roll press crush!",
+      "primitives": []
+    },
+    {
+      "id": 1599,
+      "character": "輻",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "spokes",
+      "story": "Spokes car wealth questions \"Foo? Radiating?\" curiously - wheel rays!",
+      "primitives": []
+    },
+    {
+      "id": 1600,
+      "character": "煎",
       "pinyin": "jian",
-      "tone": 3,
-      "meaning": "simple",
-      "story": "Simple bamboo interval bends down drooping \"Jyan\" - terse and succinct!",
-      "primitives": []
-    },
-    {
-      "id": 1207,
-      "character": "開",
-      "pinyin": "kai",
       "tone": 1,
-      "meaning": "to open",
-      "story": "To open gate two hands sings \"Kigh!\" cheerfully - operate and start!",
+      "meaning": "sauté",
+      "story": "Sauté in front cooking fire sings \"Jyan!\" cheerfully - frying pan!",
       "primitives": []
     },
     {
-      "id": 1208,
-      "character": "聞",
-      "pinyin": "wen",
-      "tone": 2,
-      "meaning": "to hear",
-      "story": "To hear gate ear questions \"Wuhn? Sniffing?\" curiously - listening!",
-      "primitives": []
-    },
-    {
-      "id": 1209,
-      "character": "倉",
-      "pinyin": "cang",
-      "tone": 1,
-      "meaning": "Storehouse",
-      "story": "Storehouse cliff mouth sings \"Tsahng!\" cheerfully - granary and barn godown!",
-      "primitives": []
-    },
-    {
-      "id": 1210,
-      "character": "槍",
-      "pinyin": "qiang",
-      "tone": 1,
-      "meaning": "Gun",
-      "story": "Gun tree storehouse sings \"Chyahng!\" cheerfully - firearm and lance!",
-      "primitives": []
-    },
-    {
-      "id": 1211,
-      "character": "創",
-      "pinyin": "chuang",
+      "id": 1601,
+      "character": "喻",
+      "pinyin": "yu",
       "tone": 4,
-      "meaning": "to initiate",
-      "story": "To initiate storehouse sword commands sharply \"Chwahng!\" - begin genesis!",
+      "meaning": "figure of speech",
+      "story": "Figure of speech mouth explain commands sharply \"Yoo!\" - metaphor analogy!",
       "primitives": []
     },
     {
-      "id": 1212,
-      "character": "非",
-      "pinyin": "fei",
-      "tone": 1,
-      "meaning": "non—",
-      "story": "Non— wings diverge singing \"Fay!\" cheerfully - negative and un— wrong!",
-      "primitives": []
-    },
-    {
-      "id": 1213,
-      "character": "排",
-      "pinyin": "pai",
+      "id": 1602,
+      "character": "榆",
+      "pinyin": "yu",
       "tone": 2,
-      "meaning": "Row",
-      "story": "Row hand non questions \"Pigh? Line?\" curiously - rank repudiate!",
+      "meaning": "elm",
+      "story": "Elm tree explain questions \"Yoo? Timber?\" curiously - hardwood tree!",
       "primitives": []
     },
     {
-      "id": 1214,
-      "character": "罪",
-      "pinyin": "zui",
+      "id": 1603,
+      "character": "略",
+      "pinyin": "lüe",
       "tone": 4,
-      "meaning": "Guilt",
-      "story": "Guilt net non commands sharply \"Dzway!\" - crime and blame sin!",
-      "primitives": []
-    },
-    {
-      "id": 1215,
-      "character": "靠",
-      "pinyin": "kao",
-      "tone": 4,
-      "meaning": "to lean on",
-      "story": "To lean on suit non commands sharply \"Cow!\" - depend upon near support!",
-      "primitives": []
-    },
-    {
-      "id": 1216,
-      "character": "侯",
-      "pinyin": "hou",
-      "tone": 2,
-      "meaning": "Marquis",
-      "story": "Marquis person arrow questions \"Ho? Lord?\" curiously - archery target!",
-      "primitives": []
-    },
-    {
-      "id": 1217,
-      "character": "候",
-      "pinyin": "hou",
-      "tone": 4,
-      "meaning": "to wait",
-      "story": "To wait marquis walking commands sharply \"Ho!\" - expect climate!",
-      "primitives": []
-    },
-    {
-      "id": 1218,
-      "character": "決",
-      "pinyin": "jue",
-      "tone": 2,
-      "meaning": "to decide",
-      "story": "To decide water husband questions \"Jyueh? Determining?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 1219,
-      "character": "快",
-      "pinyin": "kuai",
-      "tone": 4,
-      "meaning": "fast",
-      "story": "Fast heart decide commands sharply \"Kwigh!\" - quick swift cheerful!",
-      "primitives": []
-    },
-    {
-      "id": 1220,
-      "character": "筷",
-      "pinyin": "kuai",
-      "tone": 4,
-      "meaning": "Chopsticks",
-      "story": "Chopsticks bamboo fast commands sharply \"Kwigh!\" - eating utensils!",
-      "primitives": []
-    },
-    {
-      "id": 1221,
-      "character": "韋",
-      "pinyin": "wei",
-      "tone": 2,
-      "meaning": "Tanned Hide",
-      "story": "Tanned hide soft leather questions \"Way? Skin?\" curiously processed!",
-      "primitives": []
-    },
-    {
-      "id": 1222,
-      "character": "圍",
-      "pinyin": "wei",
-      "tone": 2,
-      "meaning": "to surround",
-      "story": "To surround enclosure hide questions \"Way? Circle?\" curiously - corral!",
-      "primitives": []
-    },
-    {
-      "id": 1223,
-      "character": "偉",
-      "pinyin": "wei",
-      "tone": 3,
-      "meaning": "great",
-      "story": "Great person hide bends down drooping \"Way\" - big and admirable!",
+      "meaning": "abbreviation",
+      "story": "Abbreviation field each commands sharply \"Lyueh!\" - brief summary!",
       "primitives": []
     }
   ]

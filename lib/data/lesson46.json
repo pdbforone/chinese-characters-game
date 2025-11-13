@@ -2,165 +2,93 @@
   "lesson": 46,
   "characters": [
     {
-      "id": 811,
-      "character": "旅",
-      "pinyin": "lü",
+      "id": 1302,
+      "character": "並",
+      "pinyin": "bing",
+      "tone": 4,
+      "meaning": "side by side",
+      "story": "Side by side two stands commands sharply \"Bing!\" - equal row!",
+      "primitives": []
+    },
+    {
+      "id": 1303,
+      "character": "普",
+      "pinyin": "pu",
       "tone": 3,
-      "meaning": "to travel",
-      "story": "To travel flag direction bends down drooping saying \"Lyu\"!",
+      "meaning": "universal",
+      "story": "Universal side by side sun bends down drooping \"Poo\" - general popular!",
       "primitives": []
     },
     {
-      "id": 812,
-      "character": "施",
-      "pinyin": "shi",
-      "tone": 1,
-      "meaning": "to execute",
-      "story": "To execute to travel sings \"Shi!\" cheerfully doing!",
-      "primitives": []
-    },
-    {
-      "id": 813,
-      "character": "游",
-      "pinyin": "you",
-      "tone": 2,
-      "meaning": "to go swimming",
-      "story": "To go swimming water move questions \"Yo? Swimming?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 814,
-      "character": "遊",
-      "pinyin": "you",
-      "tone": 2,
-      "meaning": "to tour",
-      "story": "To tour walk swim questions \"Yo? Wandering?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 815,
-      "character": "勿",
-      "pinyin": "wu",
+      "id": 1304,
+      "character": "業",
+      "pinyin": "ye",
       "tone": 4,
-      "meaning": "not",
-      "story": "Not commands \"Woo!\" sharply negating!",
+      "meaning": "Profession",
+      "story": "Profession tree grass commands sharply \"Yeh!\" - business study occupation!",
       "primitives": []
     },
     {
-      "id": 816,
-      "character": "忽",
-      "pinyin": "hu",
-      "tone": 1,
-      "meaning": "suddenly",
-      "story": "Suddenly heart not sings \"Hoo!\" cheerfully abrupt!",
-      "primitives": []
-    },
-    {
-      "id": 817,
-      "character": "物",
-      "pinyin": "wu",
+      "id": 1305,
+      "character": "對",
+      "pinyin": "dui",
       "tone": 4,
-      "meaning": "Thing",
-      "story": "Thing cow not yells \"Woo!\" sharply object!",
+      "meaning": "that's right",
+      "story": "That's right rags measure commands sharply \"Dway!\" - correct facing vis-a-vis!",
       "primitives": []
     },
     {
-      "id": 818,
-      "character": "易",
+      "id": 1306,
+      "character": "共",
+      "pinyin": "gong",
+      "tone": 4,
+      "meaning": "together",
+      "story": "Together grass twenty-one commands sharply \"Gohng!\" - all in common!",
+      "primitives": []
+    },
+    {
+      "id": 1307,
+      "character": "供",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "Supply",
+      "story": "Supply person together sings \"Gohng!\" cheerfully - provide offer submit!",
+      "primitives": []
+    },
+    {
+      "id": 1308,
+      "character": "異",
       "pinyin": "yi",
       "tone": 4,
-      "meaning": "easy",
-      "story": "Easy sun moon commands \"Yi!\" sharply simple!",
+      "meaning": "different",
+      "story": "Different field together commands sharply \"Yee!\" - unusual strange uncommon!",
       "primitives": []
     },
     {
-      "id": 819,
-      "character": "賜",
-      "pinyin": "ci",
+      "id": 1309,
+      "character": "巷",
+      "pinyin": "xiang",
       "tone": 4,
-      "meaning": "to grant",
-      "story": "To grant easy shellfish yells \"Tsih!\" sharply bestowing!",
+      "meaning": "Lane",
+      "story": "Lane together shared commands sharply \"Shyahng!\" - alley!",
       "primitives": []
     },
     {
-      "id": 820,
-      "character": "屍",
-      "pinyin": "shi",
-      "tone": 1,
-      "meaning": "Corpse",
-      "story": "A corpse body sings \"Shi!\" sadly high!",
+      "id": 1310,
+      "character": "港",
+      "pinyin": "gang",
+      "tone": 3,
+      "meaning": "Port",
+      "story": "Port water lane bends down drooping \"Gahng\" - harbor Hong Kong!",
       "primitives": []
     },
     {
-      "id": 821,
-      "character": "尼",
-      "pinyin": "ni",
-      "tone": 2,
-      "meaning": "Nun",
-      "story": "A nun corpse questions \"Nee? Religious?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 822,
-      "character": "呢",
-      "pinyin": "ne",
-      "tone": 5,
-      "meaning": "Woolen Cloth",
-      "story": "Woolen cloth mouth nun says \"nuh\" neutrally textured!",
-      "primitives": []
-    },
-    {
-      "id": 823,
-      "character": "泥",
-      "pinyin": "ni",
-      "tone": 2,
-      "meaning": "Mud",
-      "story": "Mud water nun questions \"Nee? Wet earth?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 824,
-      "character": "屋",
-      "pinyin": "wu",
-      "tone": 1,
-      "meaning": "Habitation",
-      "story": "Habitation corpse至 sings \"Woo!\" cheerfully sheltered!",
-      "primitives": []
-    },
-    {
-      "id": 825,
-      "character": "握",
-      "pinyin": "wo",
-      "tone": 4,
-      "meaning": "to grip",
-      "story": "To grip hand house commands \"Woh!\" sharply grasping!",
-      "primitives": []
-    },
-    {
-      "id": 826,
-      "character": "居",
-      "pinyin": "ju",
-      "tone": 1,
-      "meaning": "to reside",
-      "story": "To reside corpse ancient sings \"Jyu!\" cheerfully dwelling!",
-      "primitives": []
-    },
-    {
-      "id": 827,
-      "character": "鋸",
-      "pinyin": "ju",
-      "tone": 4,
-      "meaning": "a Saw",
-      "story": "A saw gold reside yells \"Jyu!\" sharply cutting!",
-      "primitives": []
-    },
-    {
-      "id": 828,
-      "character": "層",
-      "pinyin": "ceng",
-      "tone": 2,
-      "meaning": "Story",
-      "story": "Story corpse question \"Tseng? Which floor?\" curiously!",
+      "id": 1311,
+      "character": "選",
+      "pinyin": "xuan",
+      "tone": 3,
+      "meaning": "to choose",
+      "story": "To choose road together bends down drooping \"Shyuan\" - pick select elect!",
       "primitives": []
     }
   ]

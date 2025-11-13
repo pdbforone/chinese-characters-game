@@ -2,165 +2,183 @@
   "lesson": 13,
   "characters": [
     {
-      "id": 217,
-      "character": "莫",
-      "pinyin": "mo",
+      "id": 268,
+      "character": "道",
+      "pinyin": "dao",
       "tone": 4,
-      "meaning": "nobody",
-      "story": "Nobody in grass sunset commands \"Mwoh!\" sharply absent!",
+      "meaning": "Way",
+      "story": "The way of head foot commands \"Dao!\" sharply leading!",
       "primitives": []
     },
     {
-      "id": 218,
-      "character": "模",
-      "pinyin": "mo",
-      "tone": 2,
-      "meaning": "to imitate",
-      "story": "To imitate nobody with tree questions \"Mwo? How to copy?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 219,
-      "character": "漠",
-      "pinyin": "mo",
-      "tone": 4,
-      "meaning": "Desert",
-      "story": "A desert of water and nobody yells \"Mwoh!\" sharply empty!",
-      "primitives": []
-    },
-    {
-      "id": 220,
-      "character": "墓",
-      "pinyin": "mu",
-      "tone": 4,
-      "meaning": "a Grave",
-      "story": "A grave with soil and nobody commands \"Moo!\" sharply buried!",
-      "primitives": []
-    },
-    {
-      "id": 221,
-      "character": "苗",
-      "pinyin": "miao",
-      "tone": 2,
-      "meaning": "Seedling",
-      "story": "A seedling grass field questions \"Miao? Will it grow?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 222,
-      "character": "瞄",
-      "pinyin": "miao",
-      "tone": 2,
-      "meaning": "to aim",
-      "story": "To aim eye at seedling questions \"Miao? Is that the target?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 223,
-      "character": "兆",
-      "pinyin": "zhao",
-      "tone": 4,
-      "meaning": "Portent",
-      "story": "A portent divination commands \"Zhao!\" sharply foretelling!",
-      "primitives": []
-    },
-    {
-      "id": 224,
-      "character": "桃",
-      "pinyin": "tao",
-      "tone": 2,
-      "meaning": "peach",
-      "story": "A peach tree portent questions \"Tao? When ripe?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 225,
-      "character": "犬",
-      "pinyin": "quan",
+      "id": 269,
+      "character": "導",
+      "pinyin": "dao",
       "tone": 3,
-      "meaning": "Pooch",
-      "story": "A pooch dog bends down drooping saying \"Chuan\"!",
+      "meaning": "to guide",
+      "story": "To guide way inch bends down drooping saying \"Dao\"!",
       "primitives": []
     },
     {
-      "id": 226,
-      "character": "尤",
-      "pinyin": "you",
-      "tone": 2,
-      "meaning": "remarkable",
-      "story": "Remarkable outstanding person questions \"Yo? Really?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 227,
-      "character": "默",
-      "pinyin": "mo",
+      "id": 270,
+      "character": "迅",
+      "pinyin": "xun",
       "tone": 4,
-      "meaning": "silence",
-      "story": "Silence of black dog commands \"Mwoh!\" sharply quiet!",
+      "meaning": "speedy",
+      "story": "Speedy ten walking commands \"Shun!\" sharply fast!",
       "primitives": []
     },
     {
-      "id": 228,
-      "character": "然",
-      "pinyin": "ran",
+      "id": 271,
+      "character": "造",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "to create",
+      "story": "To create tell walk yells \"Zao!\" sharply making!",
+      "primitives": []
+    },
+    {
+      "id": 272,
+      "character": "巡",
+      "pinyin": "xun",
       "tone": 2,
-      "meaning": "sort of thing",
-      "story": "Sort of thing with flesh fire questions \"Ran? Is it so?\" curiously!",
+      "meaning": "to patrol",
+      "story": "To patrol walk around questions \"Shun? All clear?\" curiously!",
       "primitives": []
     },
     {
-      "id": 229,
-      "character": "哭",
-      "pinyin": "ku",
+      "id": 273,
+      "character": "逛",
+      "pinyin": "guang",
+      "tone": 4,
+      "meaning": "to stroll",
+      "story": "To stroll wide walk commands \"Gwang!\" sharply wandering!",
+      "primitives": []
+    },
+    {
+      "id": 274,
+      "character": "車",
+      "pinyin": "che",
       "tone": 1,
-      "meaning": "to cry",
-      "story": "To cry with two dogs mouth sings \"Koo!\" sadly high!",
+      "meaning": "Car",
+      "story": "A car with wheels sings \"Chuh!\" cheerfully rolling!",
       "primitives": []
     },
     {
-      "id": 230,
-      "character": "器",
-      "pinyin": "qi",
-      "tone": 4,
-      "meaning": "Utensil",
-      "story": "A utensil of four dogs and one mouth yells \"Chi!\" sharply used!",
+      "id": 275,
+      "character": "連",
+      "pinyin": "lian",
+      "tone": 2,
+      "meaning": "one after another",
+      "story": "One after another car questions \"Lian? Where next?\" curiously!",
       "primitives": []
     },
     {
-      "id": 231,
-      "character": "臭",
-      "pinyin": "chou",
-      "tone": 4,
-      "meaning": "stinking",
-      "story": "Stinking nose and dog command \"Cho!\" sharply smelly!",
+      "id": 276,
+      "character": "蓮",
+      "pinyin": "lian",
+      "tone": 2,
+      "meaning": "Lotus",
+      "story": "A lotus grass connected questions \"Lian? Why float?\" curiously!",
       "primitives": []
     },
     {
-      "id": 232,
-      "character": "狗",
-      "pinyin": "gou",
+      "id": 277,
+      "character": "前",
+      "pinyin": "qian",
+      "tone": 2,
+      "meaning": "in front",
+      "story": "In front walking boat questions \"Chian? Ahead?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 278,
+      "character": "剪",
+      "pinyin": "jian",
       "tone": 3,
-      "meaning": "Dog",
-      "story": "A dog pooch bends down drooping saying \"Go\"!",
+      "meaning": "Shears",
+      "story": "Shears cut front bends down drooping saying \"Jian\"!",
       "primitives": []
     },
     {
-      "id": 233,
-      "character": "厭",
-      "pinyin": "yan",
-      "tone": 4,
-      "meaning": "to detest",
-      "story": "To detest detested dog cliff yells \"Yan!\" sharply hating!",
-      "primitives": []
-    },
-    {
-      "id": 234,
-      "character": "壓",
-      "pinyin": "ya",
+      "id": 279,
+      "character": "輸",
+      "pinyin": "shu",
       "tone": 1,
-      "meaning": "pressure",
-      "story": "Pressure of cliff dog singing \"Ya!\" happily squashing!",
+      "meaning": "to transport",
+      "story": "To transport car sing \"Shoo!\" cheerfully moving!",
+      "primitives": []
+    },
+    {
+      "id": 280,
+      "character": "逾",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "to exceed",
+      "story": "To exceed walking beyond questions \"Yu? Too far?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 281,
+      "character": "各",
+      "pinyin": "ge",
+      "tone": 4,
+      "meaning": "each",
+      "story": "Each mouth coming down yells \"Guh!\" sharply separate!",
+      "primitives": []
+    },
+    {
+      "id": 282,
+      "character": "格",
+      "pinyin": "ge",
+      "tone": 2,
+      "meaning": "Pattern",
+      "story": "A pattern tree each questions \"Guh? What style?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 283,
+      "character": "客",
+      "pinyin": "ke",
+      "tone": 4,
+      "meaning": "Guest",
+      "story": "A guest each in house commands \"Kuh!\" sharply visiting!",
+      "primitives": []
+    },
+    {
+      "id": 284,
+      "character": "額",
+      "pinyin": "e",
+      "tone": 2,
+      "meaning": "Forehead",
+      "story": "Forehead page of guest questions \"Uh? Why so big?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 285,
+      "character": "夏",
+      "pinyin": "xia",
+      "tone": 4,
+      "meaning": "Summer",
+      "story": "Summer head under big feet yells \"Shya!\" sharply hot!",
+      "primitives": []
+    },
+    {
+      "id": 286,
+      "character": "洛",
+      "pinyin": "luo",
+      "tone": 4,
+      "meaning": "L.A.",
+      "story": "L.A. water fall commands \"Luo!\" sharply in California!",
+      "primitives": []
+    },
+    {
+      "id": 287,
+      "character": "落",
+      "pinyin": "luo",
+      "tone": 4,
+      "meaning": "to fall",
+      "story": "To fall grass water L.A. yells \"Luo!\" sharply dropping!",
       "primitives": []
     }
   ]

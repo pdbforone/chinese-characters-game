@@ -2,165 +2,228 @@
   "lesson": 100,
   "characters": [
     {
-      "id": 1782,
-      "character": "惹",
-      "pinyin": "re",
-      "tone": 3,
-      "meaning": "provoke",
-      "story": "Provoke flowers heart bends down drooping \"Ruh\" - irritate stir up!",
+      "id": 2663,
+      "character": "甜",
+      "pinyin": "tian",
+      "tone": 2,
+      "meaning": "sugary",
+      "story": "\"TYEN?\" the tongue questions curiously - is it sugary, sweet like dessert?",
       "primitives": []
     },
     {
-      "id": 1783,
-      "character": "恩",
-      "pinyin": "en",
+      "id": 2664,
+      "character": "鉗",
+      "pinyin": "qian",
+      "tone": 2,
+      "meaning": "pliers",
+      "story": "\"CHYEN?\" the metal and wicker basket question curiously - are these pliers, tongs and clamp?",
+      "primitives": []
+    },
+    {
+      "id": 2665,
+      "character": "媒",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "matchmaker",
+      "story": "\"MAY?\" the woman questions curiously - is she a matchmaker, a go-between for the birth?",
+      "primitives": []
+    },
+    {
+      "id": 2666,
+      "character": "煤",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "coal",
+      "story": "\"MAY?\" the fire questions curiously - is this coal, a mineral fuel?",
+      "primitives": []
+    },
+    {
+      "id": 2667,
+      "character": "謀",
+      "pinyin": "mou",
+      "tone": 2,
+      "meaning": "scheme",
+      "story": "\"MOH?\" the words question curiously - is this a scheme, a plot and conspiracy?",
+      "primitives": []
+    },
+    {
+      "id": 2668,
+      "character": "棋",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "chess",
+      "story": "\"CHEE?\" the tree questions curiously - chess, a board game of strategy?",
+      "primitives": []
+    },
+    {
+      "id": 2669,
+      "character": "欺",
+      "pinyin": "qi",
       "tone": 1,
-      "meaning": "kindness",
-      "story": "Kindness cause heart sings \"Un!\" cheerfully - grace favor!",
+      "meaning": "dupe",
+      "story": "\"CHEE!\" he sings cheerfully while trying to dupe, deceive and cheat!",
       "primitives": []
     },
     {
-      "id": 1784,
-      "character": "憶",
+      "id": 2670,
+      "character": "旗",
+      "pinyin": "qi",
+      "tone": 2,
+      "meaning": "flag",
+      "story": "\"CHEE?\" the flag questions curiously - painted by an inexperienced artist?",
+      "primitives": []
+    },
+    {
+      "id": 2671,
+      "character": "嘶",
+      "pinyin": "si",
+      "tone": 1,
+      "meaning": "hoarse",
+      "story": "\"SIH!\" the mouth and sphinx sing cheerfully but hoarse, raspy and harsh!",
+      "primitives": []
+    },
+    {
+      "id": 2672,
+      "character": "撕",
+      "pinyin": "si",
+      "tone": 1,
+      "meaning": "rip",
+      "story": "\"SIH!\" the fingers and sphinx sing cheerfully - to rip, tear and shred!",
+      "primitives": []
+    },
+    {
+      "id": 2673,
+      "character": "堪",
+      "pinyin": "kan",
+      "tone": 1,
+      "meaning": "tolerate",
+      "story": "\"KAN!\" the soil and Hercules sing cheerfully - to tolerate, endure and withstand!",
+      "primitives": []
+    },
+    {
+      "id": 2674,
+      "character": "勘",
+      "pinyin": "kan",
+      "tone": 1,
+      "meaning": "survey",
+      "story": "\"KAN!\" the tremendous Hercules and muscle sing cheerfully - to survey, investigate and inspect!",
+      "primitives": []
+    },
+    {
+      "id": 2675,
+      "character": "遣",
+      "pinyin": "qian",
+      "tone": 3,
+      "meaning": "dispatch",
+      "story": "The purse, maestro and road bend down drooping - to dispatch, send for fun and mockery!",
+      "primitives": []
+    },
+    {
+      "id": 2676,
+      "character": "譴",
+      "pinyin": "qian",
+      "tone": 3,
+      "meaning": "censure",
+      "story": "The words and dispatch bend down drooping - to censure, condemn and blame!",
+      "primitives": []
+    },
+    {
+      "id": 2677,
+      "character": "囊",
+      "pinyin": "nang",
+      "tone": 2,
+      "meaning": "sack",
+      "story": "\"NAHNG?\" the top hat, purse, crown and pidgeon coop question curiously - is this a sack, a bag for perfume?",
+      "primitives": []
+    },
+    {
+      "id": 2678,
+      "character": "潰",
+      "pinyin": "kui",
+      "tone": 4,
+      "meaning": "burst",
+      "story": "\"KWAY!\" the water commands sharply - to burst, collapse and rupture!",
+      "primitives": []
+    },
+    {
+      "id": 2679,
+      "character": "櫃",
+      "pinyin": "gui",
+      "tone": 4,
+      "meaning": "cupboard",
+      "story": "\"GWAY!\" the tree commands sharply - a cupboard, cabinet and closet!",
+      "primitives": []
+    },
+    {
+      "id": 2680,
+      "character": "宜",
+      "pinyin": "yi",
+      "tone": 2,
+      "meaning": "fitting",
+      "story": "\"YEE?\" the house questions curiously - is it fitting, appropriate and suitable?",
+      "primitives": []
+    },
+    {
+      "id": 2681,
+      "character": "誼",
       "pinyin": "yi",
       "tone": 4,
-      "meaning": "recall",
-      "story": "Recall heart thought commands sharply \"Yee!\" - remember reminisce!",
+      "meaning": "friendship",
+      "story": "\"YEE!\" the words and fitting command sharply - friendship, comradeship and gifts!",
       "primitives": []
     },
     {
-      "id": 1785,
-      "character": "媳",
-      "pinyin": "xi",
-      "tone": 2,
-      "meaning": "daughter-in-law",
-      "story": "Daughter-in-law woman breath questions \"Shee? Bride?\" curiously - son's wife!",
-      "primitives": []
-    },
-    {
-      "id": 1786,
-      "character": "熄",
-      "pinyin": "xi",
+      "id": 2682,
+      "character": "租",
+      "pinyin": "zu",
       "tone": 1,
-      "meaning": "put out",
-      "story": "Put out fire breath sings \"Shee!\" cheerfully - extinguish quench!",
+      "meaning": "rent",
+      "story": "\"DZOO!\" the grain sings cheerfully - to rent, lease and hire!",
       "primitives": []
     },
     {
-      "id": 1787,
-      "character": "瑟",
-      "pinyin": "se",
-      "tone": 4,
-      "meaning": "Chinese harp",
-      "story": "Chinese harp jewel must commands sharply \"Suh!\" - lute zither!",
-      "primitives": []
-    },
-    {
-      "id": 1788,
-      "character": "泌",
-      "pinyin": "mi",
-      "tone": 4,
-      "meaning": "secrete",
-      "story": "Secrete water certainly commands sharply \"Mee!\" - discharge exude!",
-      "primitives": []
-    },
-    {
-      "id": 1789,
-      "character": "蜜",
-      "pinyin": "mi",
-      "tone": 4,
-      "meaning": "honey",
-      "story": "Honey insect certainly commands sharply \"Mee!\" - sweet nectar!",
-      "primitives": []
-    },
-    {
-      "id": 1790,
-      "character": "摩",
-      "pinyin": "mo",
-      "tone": 2,
-      "meaning": "rub",
-      "story": "Rub hemp hand questions \"Mwo? Massage?\" curiously - touch stroke!",
-      "primitives": []
-    },
-    {
-      "id": 1791,
-      "character": "蛾",
-      "pinyin": "e",
-      "tone": 2,
-      "meaning": "moth",
-      "story": "Moth insect miser questions \"Uh? Night flier?\" curiously - winged insect!",
-      "primitives": []
-    },
-    {
-      "id": 1792,
-      "character": "扒",
-      "pinyin": "ba",
+      "id": 2683,
+      "character": "粗",
+      "pinyin": "cu",
       "tone": 1,
-      "meaning": "pick pockets",
-      "story": "Pick pockets hand eight sings \"Bah!\" cheerfully - steal thief!",
+      "meaning": "coarse",
+      "story": "\"TSOO!\" the rice sings cheerfully - coarse, rough and crude!",
       "primitives": []
     },
     {
-      "id": 1793,
-      "character": "扣",
-      "pinyin": "kou",
-      "tone": 4,
-      "meaning": "button",
-      "story": "Button hand mouth commands sharply \"Koh!\" - fasten spike!",
-      "primitives": []
-    },
-    {
-      "id": 1794,
-      "character": "捐",
-      "pinyin": "juan",
-      "tone": 1,
-      "meaning": "contribute",
-      "story": "Contribute hand bored sings \"Jwan!\" cheerfully - donate give!",
-      "primitives": []
-    },
-    {
-      "id": 1795,
-      "character": "拍",
-      "pinyin": "pai",
-      "tone": 1,
-      "meaning": "racquet",
-      "story": "Racquet hand white sings \"Pigh!\" cheerfully - pat paddle!",
-      "primitives": []
-    },
-    {
-      "id": 1796,
-      "character": "啪",
-      "pinyin": "pa",
-      "tone": 1,
-      "meaning": "clapping sound",
-      "story": "Clapping sound mouth racket sings \"Pah!\" cheerfully - smack crack!",
-      "primitives": []
-    },
-    {
-      "id": 1797,
-      "character": "損",
-      "pinyin": "sun",
+      "id": 2684,
+      "character": "阻",
+      "pinyin": "zu",
       "tone": 3,
-      "meaning": "damage",
-      "story": "Damage hand employee bends down drooping \"Swun\" - harm injure!",
+      "meaning": "block",
+      "story": "The pinnacle bends down drooping - to block, stop and prevent killing!",
       "primitives": []
     },
     {
-      "id": 1798,
-      "character": "扛",
-      "pinyin": "kang",
+      "id": 2685,
+      "character": "疊",
+      "pinyin": "die",
       "tone": 2,
-      "meaning": "carry over the shoulder",
-      "story": "Carry over the shoulder hand labor sings \"Kahng!\" cheerfully - shoulder lift!",
+      "meaning": "heap",
+      "story": "\"DYEH?\" the think tank, crown and shelves question curiously - to heap, stack and fold clothes?",
       "primitives": []
     },
     {
-      "id": 1799,
-      "character": "扎",
-      "pinyin": "zha",
-      "tone": 1,
-      "meaning": "prick",
-      "story": "Prick hand ten sings \"Jah!\" cheerfully - stab pierce struggle!",
+      "id": 2686,
+      "character": "壘",
+      "pinyin": "lei",
+      "tone": 3,
+      "meaning": "baseball base",
+      "story": "The think tank and soil bend down drooping - a baseball base, fortress and mound!",
+      "primitives": []
+    },
+    {
+      "id": 2687,
+      "character": "鋤",
+      "pinyin": "chu",
+      "tone": 2,
+      "meaning": "hoe",
+      "story": "\"CHOO?\" the metal questions curiously to assist - a hoe, to weed and root out evil?",
       "primitives": []
     }
   ]

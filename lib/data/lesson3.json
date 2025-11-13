@@ -2,6 +2,51 @@
   "lesson": 3,
   "characters": [
     {
+      "id": 32,
+      "character": "自",
+      "pinyin": "zi",
+      "tone": 4,
+      "meaning": "oneself",
+      "story": "A nose points to oneself, yelling \"Zi!\" sharply with pride!",
+      "primitives": []
+    },
+    {
+      "id": 33,
+      "character": "白",
+      "pinyin": "bai",
+      "tone": 2,
+      "meaning": "white",
+      "story": "The white sun asks \"Bai? Why so bright?\" questioning curiously!",
+      "primitives": []
+    },
+    {
+      "id": 34,
+      "character": "百",
+      "pinyin": "bai",
+      "tone": 3,
+      "meaning": "hundred",
+      "story": "A hundred bends down drooping under one white sun saying \"Bai\"!",
+      "primitives": []
+    },
+    {
+      "id": 35,
+      "character": "皂",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "Soap",
+      "story": "Soap commands \"Zao!\" sharply to clean everything white!",
+      "primitives": []
+    },
+    {
+      "id": 36,
+      "character": "中",
+      "pinyin": "zhong",
+      "tone": 1,
+      "meaning": "Middle",
+      "story": "An arrow happily sings \"Zhong!\" straight through the middle target!",
+      "primitives": []
+    },
+    {
       "id": 37,
       "character": "千",
       "pinyin": "qian",
@@ -116,51 +161,6 @@
       "tone": 2,
       "meaning": "to ridicule",
       "story": "The mouth ridicules, questioning \"Chao? You call that a dynasty?\" mockingly!",
-      "primitives": []
-    },
-    {
-      "id": 50,
-      "character": "只",
-      "pinyin": "zhi",
-      "tone": 3,
-      "meaning": "only",
-      "story": "Only one mouth bends down drooping saying \"Zhi\" alone!",
-      "primitives": []
-    },
-    {
-      "id": 51,
-      "character": "貝",
-      "pinyin": "bei",
-      "tone": 4,
-      "meaning": "Shellfish",
-      "story": "The shellfish commands sharply \"Bay!\" inside its shell!",
-      "primitives": []
-    },
-    {
-      "id": 52,
-      "character": "貼",
-      "pinyin": "tie",
-      "tone": 1,
-      "meaning": "to paste",
-      "story": "Paste shellfish happily singing \"Tieh!\" as they stick!",
-      "primitives": []
-    },
-    {
-      "id": 53,
-      "character": "貞",
-      "pinyin": "zhen",
-      "tone": 1,
-      "meaning": "chaste",
-      "story": "A chaste shellfish sings \"Zhen!\" cheerfully and purely!",
-      "primitives": []
-    },
-    {
-      "id": 54,
-      "character": "員",
-      "pinyin": "yuan",
-      "tone": 2,
-      "meaning": "Employee",
-      "story": "Your employee shellfish asks \"Yuan? Where's my paycheck?\" questioning!",
       "primitives": []
     }
   ]

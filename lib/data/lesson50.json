@@ -2,165 +2,156 @@
   "lesson": 50,
   "characters": [
     {
-      "id": 883,
-      "character": "伊",
+      "id": 1357,
+      "character": "益",
       "pinyin": "yi",
-      "tone": 1,
-      "meaning": "Queen Elizabeth",
-      "story": "Queen Elizabeth person overseer sings \"Yi!\" cheerfully regal!",
-      "primitives": []
-    },
-    {
-      "id": 884,
-      "character": "君",
-      "pinyin": "jun",
-      "tone": 1,
-      "meaning": "Monarch",
-      "story": "Monarch mouth overseer sings \"June!\" cheerfully ruling!",
-      "primitives": []
-    },
-    {
-      "id": 885,
-      "character": "裙",
-      "pinyin": "qun",
-      "tone": 2,
-      "meaning": "Skirt",
-      "story": "Skirt clothes monarch questions \"Chun? Dress?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 886,
-      "character": "群",
-      "pinyin": "qun",
-      "tone": 2,
-      "meaning": "Crowd",
-      "story": "Crowd sheep monarch questions \"Chun? Many?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 887,
-      "character": "而",
-      "pinyin": "er",
-      "tone": 2,
-      "meaning": "and",
-      "story": "And beard questions \"Er? Also?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 888,
-      "character": "需",
-      "pinyin": "xu",
-      "tone": 1,
-      "meaning": "to need",
-      "story": "To need rain and sings \"Shyu!\" cheerfully requiring!",
-      "primitives": []
-    },
-    {
-      "id": 889,
-      "character": "儒",
-      "pinyin": "ru",
-      "tone": 2,
-      "meaning": "Confucian",
-      "story": "Confucian person need questions \"Roo? Scholar?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 890,
-      "character": "瑞",
-      "pinyin": "rui",
       "tone": 4,
-      "meaning": "auspicious",
-      "story": "Auspicious jade mountain commands \"Rway!\" sharply lucky!",
+      "meaning": "a Benefit",
+      "story": "A benefit water bowl commands sharply \"Yee!\" - increase!",
       "primitives": []
     },
     {
-      "id": 891,
-      "character": "端",
-      "pinyin": "duan",
-      "tone": 1,
-      "meaning": "upright",
-      "story": "Upright stand mountain sings \"Dwan!\" cheerfully proper!",
-      "primitives": []
-    },
-    {
-      "id": 892,
-      "character": "曲",
-      "pinyin": "qu",
-      "tone": 1,
-      "meaning": "bent",
-      "story": "Bent sings \"Chu!\" cheerfully curved!",
-      "primitives": []
-    },
-    {
-      "id": 893,
-      "character": "斗",
-      "pinyin": "dou",
-      "tone": 3,
-      "meaning": "Big Dipper",
-      "story": "Big dipper ten bends down drooping saying \"Doe\"!",
-      "primitives": []
-    },
-    {
-      "id": 894,
-      "character": "料",
-      "pinyin": "liao",
+      "id": 1358,
+      "character": "假",
+      "pinyin": "jia",
       "tone": 4,
-      "meaning": "Material",
-      "story": "Material rice dipper commands \"Liao!\" sharply stuff!",
+      "meaning": "Vacation",
+      "story": "Vacation person benefit commands sharply \"Jyah!\" - time off provisional!",
       "primitives": []
     },
     {
-      "id": 895,
-      "character": "科",
-      "pinyin": "ke",
+      "id": 1359,
+      "character": "蝦",
+      "pinyin": "xia",
       "tone": 1,
-      "meaning": "Academic Discipline",
-      "story": "Academic discipline grain dipper sings \"Kuh!\" cheerfully field!",
+      "meaning": "Shrimp",
+      "story": "Shrimp insect vacation questions \"Shyah? Prawn?\" curiously - shellfish!",
       "primitives": []
     },
     {
-      "id": 896,
-      "character": "用",
-      "pinyin": "yong",
+      "id": 1360,
+      "character": "氣",
+      "pinyin": "qi",
       "tone": 4,
-      "meaning": "to utilize",
-      "story": "To utilize door commands \"Yong!\" sharply using!",
+      "meaning": "Air",
+      "story": "Air steam rises commands sharply \"Chee!\" - gas qi spirit!",
       "primitives": []
     },
     {
-      "id": 1001,
-      "character": "深",
-      "pinyin": "Shen",
-      "tone": 5,
-      "meaning": "deep",
-      "story": "deep sings \"Shen!\" cheerfully!",
+      "id": 1361,
+      "character": "汽",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "Vapor",
+      "story": "Vapor water air commands sharply \"Chee!\" - steam!",
       "primitives": []
     },
     {
-      "id": 1002,
-      "character": "探",
-      "pinyin": "Tan",
-      "tone": 5,
-      "meaning": "a Spy",
-      "story": "a Spy commands \"Tan!\" yells!",
+      "id": 1362,
+      "character": "飛",
+      "pinyin": "fei",
+      "tone": 1,
+      "meaning": "to fly",
+      "story": "To fly wings soar sings \"Fay!\" cheerfully - airborne!",
       "primitives": []
     },
     {
-      "id": 1003,
-      "character": "丘",
-      "pinyin": "Qiu",
-      "tone": 5,
-      "meaning": "Hill",
-      "story": "Hill sings \"Qiu!\" cheerfully!",
+      "id": 1363,
+      "character": "面",
+      "pinyin": "mian",
+      "tone": 4,
+      "meaning": "face-to-face",
+      "story": "Face-to-face head commands sharply \"Myan!\" - surface plane mask!",
       "primitives": []
     },
     {
-      "id": 1004,
-      "character": "兵",
-      "pinyin": "Bing",
-      "tone": 5,
-      "meaning": "Troops",
-      "story": "Troops sings \"Bing!\" cheerfully!",
+      "id": 1364,
+      "character": "麵",
+      "pinyin": "mian",
+      "tone": 4,
+      "meaning": "Noodles",
+      "story": "Noodles wheat face commands sharply \"Myan!\" - flour dough!",
+      "primitives": []
+    },
+    {
+      "id": 1365,
+      "character": "革",
+      "pinyin": "ge",
+      "tone": 2,
+      "meaning": "Leather",
+      "story": "Leather animal hide questions \"Guh? Skin?\" curiously - tough!",
+      "primitives": []
+    },
+    {
+      "id": 1366,
+      "character": "鞋",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "Shoes",
+      "story": "Shoes leather soil questions \"Shyeh? Footwear?\" curiously - walking!",
+      "primitives": []
+    },
+    {
+      "id": 1367,
+      "character": "馨",
+      "pinyin": "xin",
+      "tone": 1,
+      "meaning": "fragrant",
+      "story": "Fragrant flowers voice sings \"Shin!\" cheerfully - aromatic ambrosial!",
+      "primitives": []
+    },
+    {
+      "id": 1368,
+      "character": "聲",
+      "pinyin": "sheng",
+      "tone": 1,
+      "meaning": "Voice",
+      "story": "Voice fragrant ear sings \"Shung!\" cheerfully - sound tone!",
+      "primitives": []
+    },
+    {
+      "id": 1369,
+      "character": "吳",
+      "pinyin": "wu",
+      "tone": 2,
+      "meaning": "Wu",
+      "story": "Wu mouth heaven questions \"Woo? Jiangsu?\" curiously - surname give!",
+      "primitives": []
+    },
+    {
+      "id": 1370,
+      "character": "娛",
+      "pinyin": "yu",
+      "tone": 2,
+      "meaning": "Amusement",
+      "story": "Amusement woman wu questions \"Yoo? Pleasure?\" curiously - enjoyment recreation!",
+      "primitives": []
+    },
+    {
+      "id": 1371,
+      "character": "誤",
+      "pinyin": "wu",
+      "tone": 4,
+      "meaning": "Error",
+      "story": "Error words wu commands sharply \"Woo!\" - mistake neglect!",
+      "primitives": []
+    },
+    {
+      "id": 1372,
+      "character": "承",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "to undertake",
+      "story": "To undertake hands receive questions \"Chung? Bear?\" curiously - take charge acquiesce!",
+      "primitives": []
+    },
+    {
+      "id": 1373,
+      "character": "蒸",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "to steam",
+      "story": "To steam flowers undertake sings \"Jung!\" cheerfully - cooking vapor!",
       "primitives": []
     }
   ]

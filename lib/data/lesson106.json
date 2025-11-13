@@ -2,165 +2,237 @@
   "lesson": 106,
   "characters": [
     {
-      "id": 1890,
-      "character": "訟",
-      "pinyin": "song",
-      "tone": 4,
-      "meaning": "litigate",
-      "story": "Litigate words public commands sharply \"Sohng!\" - lawsuit sue!",
+      "id": 2782,
+      "character": "芽",
+      "pinyin": "ya",
+      "tone": 2,
+      "meaning": "sprout",
+      "story": "\"YAH?\" the flowers question curiously - is this a sprout, a seedling, or bean shoots?",
       "primitives": []
     },
     {
-      "id": 1891,
-      "character": "翁",
-      "pinyin": "weng",
+      "id": 2783,
+      "character": "訝",
+      "pinyin": "ya",
+      "tone": 4,
+      "meaning": "surprised",
+      "story": "\"YAH!\" the words and tusk command sharply - surprised, stunned, and astonished!",
+      "primitives": []
+    },
+    {
+      "id": 2784,
+      "character": "撐",
+      "pinyin": "cheng",
       "tone": 1,
-      "meaning": "elderly man",
-      "story": "Elderly man public feathers sings \"Wung!\" cheerfully - old gentleman!",
+      "meaning": "prop up",
+      "story": "\"CHUNG!\" the fingers sing cheerfully as they prop up, support, and hold the tent!",
       "primitives": []
     },
     {
-      "id": 1892,
-      "character": "裕",
-      "pinyin": "yu",
-      "tone": 4,
-      "meaning": "abundant",
-      "story": "Abundant cloak valley commands sharply \"Yoo!\" - plentiful prosperous!",
-      "primitives": []
-    },
-    {
-      "id": 1893,
-      "character": "榕",
-      "pinyin": "rong",
-      "tone": 2,
-      "meaning": "banyan",
-      "story": "Banyan tree contain questions \"Rohng? Epiphyte?\" curiously - fig tree!",
-      "primitives": []
-    },
-    {
-      "id": 1894,
-      "character": "賞",
-      "pinyin": "shang",
+      "id": 2785,
+      "character": "雅",
+      "pinyin": "ya",
       "tone": 3,
-      "meaning": "prize",
-      "story": "Prize esteem shellfish bends down drooping \"Shahng\" - reward appreciate!",
+      "meaning": "polished",
+      "story": "The tusk and turkey bend down drooping - polished, elegant, and refined in the room before goodbye.",
       "primitives": []
     },
     {
-      "id": 1895,
-      "character": "嘗",
-      "pinyin": "chang",
+      "id": 2786,
+      "character": "邪",
+      "pinyin": "xie",
       "tone": 2,
-      "meaning": "attempt",
-      "story": "Attempt outhouse purpose questions \"Chahng? Try?\" curiously - not necessarily!",
+      "meaning": "wicked",
+      "story": "\"SHYEH?\" the tusk and city walls question curiously - is that wicked, evil with a sinister laugh?",
       "primitives": []
     },
     {
-      "id": 1896,
-      "character": "嚐",
-      "pinyin": "chang",
+      "id": 2787,
+      "character": "奧",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "of great depth",
+      "story": "\"AO!\" the drop, helmet, and droppings command sharply - of great depth, profound, and mysterious!",
+      "primitives": []
+    },
+    {
+      "id": 2788,
+      "character": "澳",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "deep inlet",
+      "story": "\"AO!\" the water commands sharply - a deep inlet, a bay, and harbor!",
+      "primitives": []
+    },
+    {
+      "id": 2789,
+      "character": "懊",
+      "pinyin": "ao",
+      "tone": 4,
+      "meaning": "remorseful",
+      "story": "\"AO!\" the state of mind commands sharply about the depth - remorseful, regretful, and ashamed!",
+      "primitives": []
+    },
+    {
+      "id": 2790,
+      "character": "悉",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "be informed",
+      "story": "\"SHEE!\" the heart sings cheerfully - to be informed, to know, and to learn!",
+      "primitives": []
+    },
+    {
+      "id": 2791,
+      "character": "竊",
+      "pinyin": "qie",
+      "tone": 4,
+      "meaning": "pilfer",
+      "story": "\"CHYEH!\" the hole, droppings, magic wand, prisoner, and glass cover command sharply - to pilfer and steal like a thief!",
+      "primitives": []
+    },
+    {
+      "id": 2792,
+      "character": "審",
+      "pinyin": "shen",
+      "tone": 3,
+      "meaning": "painstaking",
+      "story": "The house bends down drooping with painstaking care - to examine with aesthetics.",
+      "primitives": []
+    },
+    {
+      "id": 2793,
+      "character": "嬸",
+      "pinyin": "shen",
+      "tone": 3,
+      "meaning": "auntie",
+      "story": "The woman bends down drooping after painstaking work - auntie, uncle's wife!",
+      "primitives": []
+    },
+    {
+      "id": 2794,
+      "character": "毯",
+      "pinyin": "tan",
+      "tone": 3,
+      "meaning": "blanket",
+      "story": "The fabric bends down drooping - a blanket, a rug, and throw.",
+      "primitives": []
+    },
+    {
+      "id": 2795,
+      "character": "毫",
+      "pinyin": "hao",
       "tone": 2,
-      "meaning": "taste",
-      "story": "Taste mouth try questions \"Chahng? Sample?\" curiously - savor!",
+      "meaning": "milli",
+      "story": "\"HAO?\" he questions curiously - milli, a tiny fraction?",
       "primitives": []
     },
     {
-      "id": 1897,
-      "character": "掌",
+      "id": 2796,
+      "character": "耗",
+      "pinyin": "hao",
+      "tone": 4,
+      "meaning": "consume",
+      "story": "\"HAO!\" he commands sharply - to consume, waste, and deplete the chicken!",
+      "primitives": []
+    },
+    {
+      "id": 2797,
+      "character": "耕",
+      "pinyin": "geng",
+      "tone": 1,
+      "meaning": "till",
+      "story": "\"GUNG!\" the Christmas tree and well sing cheerfully - to till, plow, and cultivate the land!",
+      "primitives": []
+    },
+    {
+      "id": 2798,
+      "character": "籍",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "records",
+      "story": "\"JEE?\" the bamboo, Christmas tree, and times past question curiously - records, documents, and clan archives?",
+      "primitives": []
+    },
+    {
+      "id": 2799,
+      "character": "藉",
+      "pinyin": "jie",
+      "tone": 4,
+      "meaning": "excuse",
+      "story": "\"JYEH!\" the flowers command sharply - an excuse, a pretext to forget!",
+      "primitives": []
+    },
+    {
+      "id": 2800,
+      "character": "托",
+      "pinyin": "tuo",
+      "tone": 1,
+      "meaning": "hold up",
+      "story": "\"TWOH!\" the hand sings cheerfully - to hold up and support like a motorcycle, so cocky!",
+      "primitives": []
+    },
+    {
+      "id": 2801,
+      "character": "畏",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "be afraid of",
+      "story": "\"WAY!\" the field commands sharply - to be afraid of, fear, and dread!",
+      "primitives": []
+    },
+    {
+      "id": 2802,
+      "character": "喂",
+      "pinyin": "wei",
+      "tone": 4,
+      "meaning": "Hello",
+      "story": "\"WAY!\" the mouth commands sharply when afraid - Hello, hey to greet!",
+      "primitives": []
+    },
+    {
+      "id": 2803,
+      "character": "脹",
       "pinyin": "zhang",
-      "tone": 3,
-      "meaning": "palm of the hand",
-      "story": "Palm of the hand esteem hand bends down drooping \"Jahng\" - control grasp!",
-      "primitives": []
-    },
-    {
-      "id": 1898,
-      "character": "擋",
-      "pinyin": "dang",
-      "tone": 3,
-      "meaning": "fend off",
-      "story": "Fend off hand esteem bends down drooping \"Dahng\" - block prevent!",
-      "primitives": []
-    },
-    {
-      "id": 1899,
-      "character": "膛",
-      "pinyin": "tang",
-      "tone": 2,
-      "meaning": "chest",
-      "story": "Chest body hall questions \"Tahng? Torso?\" curiously - thorax cavity!",
-      "primitives": []
-    },
-    {
-      "id": 1900,
-      "character": "頗",
-      "pinyin": "po",
-      "tone": 1,
-      "meaning": "quite",
-      "story": "Quite covering head sings \"Pwoh!\" cheerfully - rather considerably!",
-      "primitives": []
-    },
-    {
-      "id": 1901,
-      "character": "坡",
-      "pinyin": "po",
-      "tone": 1,
-      "meaning": "slope",
-      "story": "Slope soil covering sings \"Pwoh!\" cheerfully - incline hillside!",
-      "primitives": []
-    },
-    {
-      "id": 1902,
-      "character": "披",
-      "pinyin": "pi",
-      "tone": 1,
-      "meaning": "drape over the shoulders",
-      "story": "Drape over the shoulders hand skin sings \"Pee!\" cheerfully - wear cloak!",
-      "primitives": []
-    },
-    {
-      "id": 1903,
-      "character": "彼",
-      "pinyin": "bi",
-      "tone": 3,
-      "meaning": "the other",
-      "story": "The other skin stop bends down drooping \"Bee\" - that one another!",
-      "primitives": []
-    },
-    {
-      "id": 1904,
-      "character": "皺",
-      "pinyin": "zhou",
       "tone": 4,
-      "meaning": "wrinkles",
-      "story": "Wrinkles hay bales covering commands sharply \"Joh!\" - creases furrows!",
+      "meaning": "bloated",
+      "story": "\"JAHNG!\" the flesh and long command sharply - bloated, swollen, and puffy!",
       "primitives": []
     },
     {
-      "id": 1905,
-      "character": "雛",
-      "pinyin": "chu",
+      "id": 2804,
+      "character": "帳",
+      "pinyin": "zhang",
+      "tone": 4,
+      "meaning": "tent",
+      "story": "\"JAHNG!\" the cloth commands sharply - a tent, canopy, and shelter!",
+      "primitives": []
+    },
+    {
+      "id": 2805,
+      "character": "肆",
+      "pinyin": "si",
+      "tone": 4,
+      "meaning": "IV",
+      "story": "\"SIH!\" the four commands sharply - IV, fraud-proof numeral, and wanton tolerance!",
+      "primitives": []
+    },
+    {
+      "id": 2806,
+      "character": "鬍",
+      "pinyin": "hu",
       "tone": 2,
-      "meaning": "chick",
-      "story": "Chick hay bales turkey questions \"Choo? Baby bird?\" curiously - fledgling!",
+      "meaning": "beard",
+      "story": "\"HOO?\" the hair questions curiously about recklessness - a beard, whiskers for the difficult uncle?",
       "primitives": []
     },
     {
-      "id": 1906,
-      "character": "趨",
-      "pinyin": "qu",
+      "id": 2807,
+      "character": "鬆",
+      "pinyin": "song",
       "tone": 1,
-      "meaning": "hasten",
-      "story": "Hasten walk hay bales sings \"Chyoo!\" cheerfully - hurry tend toward!",
-      "primitives": []
-    },
-    {
-      "id": 1907,
-      "character": "菠",
-      "pinyin": "bo",
-      "tone": 1,
-      "meaning": "spinach",
-      "story": "Spinach flowers waves sings \"Bwo!\" cheerfully - green vegetable tofu!",
+      "meaning": "loose",
+      "story": "\"SUNG!\" he sings cheerfully - loose, relaxed, and slack!",
       "primitives": []
     }
   ]

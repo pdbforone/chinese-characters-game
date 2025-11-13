@@ -2,165 +2,246 @@
   "lesson": 12,
   "characters": [
     {
-      "id": 199,
-      "character": "相",
-      "pinyin": "xiang",
-      "tone": 1,
-      "meaning": "one another",
-      "story": "One another with tree and eye sings \"Shyang!\" happily seeing each other!",
-      "primitives": []
-    },
-    {
-      "id": 200,
-      "character": "本",
-      "pinyin": "ben",
-      "tone": 3,
-      "meaning": "notebook",
-      "story": "A notebook tree root bends down drooping saying \"Ben\"!",
-      "primitives": []
-    },
-    {
-      "id": 201,
-      "character": "案",
-      "pinyin": "an",
+      "id": 241,
+      "character": "介",
+      "pinyin": "jie",
       "tone": 4,
-      "meaning": "legal case",
-      "story": "A legal case at the tree table commands \"An!\" sharply in judgment!",
+      "meaning": "to introduce",
+      "story": "To introduce person commands \"Jieh!\" sharply between!",
       "primitives": []
     },
     {
-      "id": 202,
-      "character": "未",
-      "pinyin": "wei",
+      "id": 242,
+      "character": "界",
+      "pinyin": "jie",
       "tone": 4,
-      "meaning": "not yet",
-      "story": "Not yet finished tree yells \"Way!\" sharply incomplete!",
+      "meaning": "World",
+      "story": "The world field introduced yells \"Jieh!\" sharply bounded!",
       "primitives": []
     },
     {
-      "id": 203,
-      "character": "末",
-      "pinyin": "mo",
-      "tone": 4,
-      "meaning": "Last",
-      "story": "Last branch of tree commands \"Mwoh!\" sharply at the end!",
-      "primitives": []
-    },
-    {
-      "id": 204,
-      "character": "沫",
-      "pinyin": "mo",
-      "tone": 4,
-      "meaning": "Foam",
-      "story": "Foam water at last yells \"Mwoh!\" sharply bubbling!",
-      "primitives": []
-    },
-    {
-      "id": 205,
-      "character": "味",
-      "pinyin": "wei",
-      "tone": 4,
-      "meaning": "Flavor",
-      "story": "Flavor of mouth not yet commands \"Way!\" sharply tasting!",
-      "primitives": []
-    },
-    {
-      "id": 206,
-      "character": "妹",
-      "pinyin": "mei",
-      "tone": 4,
-      "meaning": "younger sister",
-      "story": "Younger sister woman not yet yells \"May!\" sharply young!",
-      "primitives": []
-    },
-    {
-      "id": 207,
-      "character": "查",
+      "id": 243,
+      "character": "茶",
       "pinyin": "cha",
       "tone": 2,
-      "meaning": "to investigate",
-      "story": "To investigate tree at dawn questions \"Cha? What happened?\" curiously!",
+      "meaning": "Tea",
+      "story": "Tea grass people introduced question \"Cha? Want some?\" curiously!",
       "primitives": []
     },
     {
-      "id": 208,
-      "character": "渣",
-      "pinyin": "zha",
+      "id": 244,
+      "character": "會",
+      "pinyin": "hui",
+      "tone": 4,
+      "meaning": "Meeting",
+      "story": "A meeting with people and cloud commands \"Hway!\" sharply gathering!",
+      "primitives": []
+    },
+    {
+      "id": 245,
+      "character": "合",
+      "pinyin": "he",
+      "tone": 2,
+      "meaning": "to fit",
+      "story": "To fit person mouth together questions \"Huh? Does it match?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 246,
+      "character": "哈",
+      "pinyin": "ha",
       "tone": 1,
-      "meaning": "sediment",
-      "story": "Sediment water investigated sings \"Zha!\" cheerfully settling!",
+      "meaning": "Ha!",
+      "story": "\"Ha!\" laughs the mouth happily singing \"Ha!\" high and loud!",
       "primitives": []
     },
     {
-      "id": 209,
-      "character": "染",
-      "pinyin": "ran",
+      "id": 247,
+      "character": "塔",
+      "pinyin": "ta",
       "tone": 3,
-      "meaning": "to dye",
-      "story": "To dye water with nine trees bends down drooping saying \"Ran\"!",
+      "meaning": "Pagoda",
+      "story": "A pagoda soil fit tall bends down drooping saying \"Ta\"!",
       "primitives": []
     },
     {
-      "id": 210,
-      "character": "李",
+      "id": 248,
+      "character": "王",
+      "pinyin": "wang",
+      "tone": 2,
+      "meaning": "King",
+      "story": "A king with three levels questions \"Wang? Why rule?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 249,
+      "character": "玉",
+      "pinyin": "yu",
+      "tone": 4,
+      "meaning": "Jade",
+      "story": "Jade king with a dot yells \"Yu!\" sharply precious!",
+      "primitives": []
+    },
+    {
+      "id": 250,
+      "character": "球",
+      "pinyin": "qiu",
+      "tone": 2,
+      "meaning": "Balls",
+      "story": "Balls of jade request questions \"Chyo? Play ball?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 251,
+      "character": "現",
+      "pinyin": "xian",
+      "tone": 4,
+      "meaning": "present",
+      "story": "Present jade sees commands \"Shian!\" sharply now!",
+      "primitives": []
+    },
+    {
+      "id": 252,
+      "character": "玩",
+      "pinyin": "wan",
+      "tone": 2,
+      "meaning": "to play",
+      "story": "To play with jade beginning questions \"Wan? How fun?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 253,
+      "character": "狂",
+      "pinyin": "kuang",
+      "tone": 2,
+      "meaning": "crazy",
+      "story": "Crazy dog king questions \"Kwang? Why mad?\" curiously wild!",
+      "primitives": []
+    },
+    {
+      "id": 254,
+      "character": "皇",
+      "pinyin": "huang",
+      "tone": 2,
+      "meaning": "Emperor",
+      "story": "The emperor white king questions \"Hwang? Why reign?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 255,
+      "character": "煌",
+      "pinyin": "huang",
+      "tone": 2,
+      "meaning": "resplendent",
+      "story": "Resplendent fire emperor questions \"Hwang? Why shine?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 256,
+      "character": "呈",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "to submit",
+      "story": "To submit mouth king questions \"Cheng? Is it ready?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 257,
+      "character": "全",
+      "pinyin": "quan",
+      "tone": 2,
+      "meaning": "whole",
+      "story": "The whole jade roof questions \"Chuan? Is it complete?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 258,
+      "character": "理",
       "pinyin": "li",
       "tone": 3,
-      "meaning": "Plum",
-      "story": "A plum tree child bends down drooping saying \"Lee\"!",
+      "meaning": "Logic",
+      "story": "Logic jade in li bends down drooping saying \"Lee\"!",
       "primitives": []
     },
     {
-      "id": 211,
-      "character": "桌",
-      "pinyin": "zhuo",
-      "tone": 1,
-      "meaning": "Table",
-      "story": "A table tree卓 sings \"Zhuo!\" cheerfully high and eminent!",
-      "primitives": []
-    },
-    {
-      "id": 212,
-      "character": "若",
-      "pinyin": "ruo",
-      "tone": 4,
-      "meaning": "as if",
-      "story": "As if grass with right hand commands \"Ruo!\" sharply comparing!",
-      "primitives": []
-    },
-    {
-      "id": 213,
-      "character": "草",
-      "pinyin": "cao",
+      "id": 259,
+      "character": "主",
+      "pinyin": "zhu",
       "tone": 3,
-      "meaning": "grass",
-      "story": "Grass with early heads bends down drooping saying \"Tsao\"!",
+      "meaning": "Lord",
+      "story": "A lord king dot above bends down drooping saying \"Zhu\"!",
       "primitives": []
     },
     {
-      "id": 214,
-      "character": "苦",
-      "pinyin": "ku",
-      "tone": 3,
-      "meaning": "Suffering",
-      "story": "Suffering grass and ancient bend down drooping saying \"Koo\"!",
-      "primitives": []
-    },
-    {
-      "id": 215,
-      "character": "寬",
-      "pinyin": "kuan",
-      "tone": 1,
-      "meaning": "wide",
-      "story": "Wide grass house sings \"Kuan!\" cheerfully spacious!",
-      "primitives": []
-    },
-    {
-      "id": 216,
-      "character": "葉",
-      "pinyin": "ye",
+      "id": 260,
+      "character": "注",
+      "pinyin": "zhu",
       "tone": 4,
-      "meaning": "Leaf",
-      "story": "A leaf of grass and tree page commands \"Yeh!\" sharply falling!",
+      "meaning": "to pour",
+      "story": "To pour water lord commands \"Zhu!\" sharply flowing!",
+      "primitives": []
+    },
+    {
+      "id": 261,
+      "character": "金",
+      "pinyin": "jin",
+      "tone": 1,
+      "meaning": "the Gold",
+      "story": "The gold sings \"Jeen!\" cheerfully shining!",
+      "primitives": []
+    },
+    {
+      "id": 262,
+      "character": "銅",
+      "pinyin": "tong",
+      "tone": 2,
+      "meaning": "Copper",
+      "story": "Copper gold same questions \"Tong? Bronze?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 263,
+      "character": "釣",
+      "pinyin": "diao",
+      "tone": 4,
+      "meaning": "to go fishin'",
+      "story": "To go fishin' with gold hook commands \"Diao!\" sharply catching!",
+      "primitives": []
+    },
+    {
+      "id": 264,
+      "character": "針",
+      "pinyin": "zhen",
+      "tone": 1,
+      "meaning": "Needle",
+      "story": "A needle gold ten sings \"Zhen!\" cheerfully sharp!",
+      "primitives": []
+    },
+    {
+      "id": 265,
+      "character": "釘",
+      "pinyin": "ding",
+      "tone": 1,
+      "meaning": "Nail",
+      "story": "A nail gold fourth sings \"Ding!\" cheerfully hammering!",
+      "primitives": []
+    },
+    {
+      "id": 266,
+      "character": "銘",
+      "pinyin": "ming",
+      "tone": 2,
+      "meaning": "Inscription",
+      "story": "An inscription gold name questions \"Ming? What says?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 267,
+      "character": "鎮",
+      "pinyin": "zhen",
+      "tone": 4,
+      "meaning": "at ease",
+      "story": "At ease gold real commands \"Zhen!\" sharply calming!",
       "primitives": []
     }
   ]

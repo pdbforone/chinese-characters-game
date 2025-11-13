@@ -2,6 +2,42 @@
   "lesson": 2,
   "characters": [
     {
+      "id": 16,
+      "character": "古",
+      "pinyin": "gu",
+      "tone": 3,
+      "meaning": "ancient",
+      "story": "Ancient stone tablets bend and droop, curved with age like \"Gu\"!",
+      "primitives": [
+        "ten",
+        "mouth"
+      ]
+    },
+    {
+      "id": 17,
+      "character": "胡",
+      "pinyin": "hu",
+      "tone": 2,
+      "meaning": "recklessly",
+      "story": "A reckless fool with wild whiskers asks \"Who? Hu?\" questioning everything!",
+      "primitives": [
+        "flesh",
+        "ancient"
+      ]
+    },
+    {
+      "id": 18,
+      "character": "吾",
+      "pinyin": "wu",
+      "tone": 2,
+      "meaning": "I (literary)",
+      "story": "\"I,\" says the mouth, questioning \"Wu? Am I important?\" with a sigh!",
+      "primitives": [
+        "five",
+        "mouth"
+      ]
+    },
+    {
       "id": 19,
       "character": "朋",
       "pinyin": "peng",
@@ -116,51 +152,6 @@
       "tone": 1,
       "meaning": "convex",
       "story": "Convex bumps rise high, cheerfully singing \"Too!\" as they stick out!",
-      "primitives": []
-    },
-    {
-      "id": 32,
-      "character": "自",
-      "pinyin": "zi",
-      "tone": 4,
-      "meaning": "oneself",
-      "story": "A nose points to oneself, yelling \"Zi!\" sharply with pride!",
-      "primitives": []
-    },
-    {
-      "id": 33,
-      "character": "白",
-      "pinyin": "bai",
-      "tone": 2,
-      "meaning": "white",
-      "story": "The white sun asks \"Bai? Why so bright?\" questioning curiously!",
-      "primitives": []
-    },
-    {
-      "id": 34,
-      "character": "百",
-      "pinyin": "bai",
-      "tone": 3,
-      "meaning": "hundred",
-      "story": "A hundred bends down drooping under one white sun saying \"Bai\"!",
-      "primitives": []
-    },
-    {
-      "id": 35,
-      "character": "皂",
-      "pinyin": "zao",
-      "tone": 4,
-      "meaning": "Soap",
-      "story": "Soap commands \"Zao!\" sharply to clean everything white!",
-      "primitives": []
-    },
-    {
-      "id": 36,
-      "character": "中",
-      "pinyin": "zhong",
-      "tone": 1,
-      "meaning": "Middle",
-      "story": "An arrow happily sings \"Zhong!\" straight through the middle target!",
       "primitives": []
     }
   ]

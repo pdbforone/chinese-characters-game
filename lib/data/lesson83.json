@@ -2,165 +2,228 @@
   "lesson": 83,
   "characters": [
     {
-      "id": 1476,
-      "character": "總",
-      "pinyin": "zong",
+      "id": 2074,
+      "character": "旋",
+      "pinyin": "xuan",
+      "tone": 2,
+      "meaning": "whirl",
+      "story": "Whirl banner zoo questions \"Shyuan? Spin?\" curiously - revolve rotate!",
+      "primitives": []
+    },
+    {
+      "id": 2075,
+      "character": "吻",
+      "pinyin": "wen",
       "tone": 3,
-      "meaning": "general",
-      "story": "General thread public bends down drooping \"Dzohng\" - overall!",
+      "meaning": "kiss",
+      "story": "Kiss mouth勿 bends down drooping \"Wun\" - smooch lips touch!",
       "primitives": []
     },
     {
-      "id": 1477,
-      "character": "詹",
-      "pinyin": "zhan",
-      "tone": 1,
-      "meaning": "verbose",
-      "story": "Verbose words divination sings \"Jahn!\" cheerfully - talk too much!",
-      "primitives": []
-    },
-    {
-      "id": 1478,
-      "character": "擔",
-      "pinyin": "dan",
-      "tone": 4,
-      "meaning": "to assume",
-      "story": "To assume hand verbose commands sharply \"Dahn!\" - carry bear undertake shouldering!",
-      "primitives": []
-    },
-    {
-      "id": 1479,
-      "character": "數",
-      "pinyin": "shu",
-      "tone": 4,
-      "meaning": "Number",
-      "story": "Number rice assume commands sharply \"Shoo!\" - figure count calculate!",
-      "primitives": []
-    },
-    {
-      "id": 1480,
-      "character": "樓",
-      "pinyin": "lou",
-      "tone": 2,
-      "meaning": "Multistory Building",
-      "story": "Multistory building tree number questions \"Loh? Floors?\" curiously - watchtower!",
-      "primitives": []
-    },
-    {
-      "id": 1481,
-      "character": "獨",
-      "pinyin": "du",
-      "tone": 2,
-      "meaning": "alone",
-      "story": "Alone animal insect questions \"Doo? Single?\" curiously - independent sole!",
-      "primitives": []
-    },
-    {
-      "id": 1482,
-      "character": "屬",
-      "pinyin": "shu",
-      "tone": 3,
-      "meaning": "to belong to",
-      "story": "To belong to body insect bends down drooping \"Shoo\" - subordinate!",
-      "primitives": []
-    },
-    {
-      "id": 1483,
-      "character": "爛",
-      "pinyin": "lan",
-      "tone": 4,
-      "meaning": "spoiled",
-      "story": "Spoiled fire east commands sharply \"Lahn!\" - rotten decayed!",
-      "primitives": []
-    },
-    {
-      "id": 1484,
-      "character": "蘭",
-      "pinyin": "lan",
-      "tone": 2,
-      "meaning": "Orchid",
-      "story": "Orchid flowers east questions \"Lahn? Elegant?\" curiously - beautiful plant!",
-      "primitives": []
-    },
-    {
-      "id": 1485,
-      "character": "從",
+      "id": 2076,
+      "character": "匆",
       "pinyin": "cong",
-      "tone": 2,
-      "meaning": "to follow",
-      "story": "To follow person person questions \"Tsohng? Obey?\" curiously - accompany!",
-      "primitives": []
-    },
-    {
-      "id": 1486,
-      "character": "縱",
-      "pinyin": "zong",
-      "tone": 4,
-      "meaning": "vertical",
-      "story": "Vertical thread follow commands sharply \"Dzohng!\" - north-south longitude indulge!",
-      "primitives": []
-    },
-    {
-      "id": 1487,
-      "character": "齊",
-      "pinyin": "qi",
-      "tone": 2,
-      "meaning": "identical",
-      "story": "Identical even uniform questions \"Chee? Equal?\" curiously - adjusted!",
-      "primitives": []
-    },
-    {
-      "id": 1488,
-      "character": "濟",
-      "pinyin": "ji",
-      "tone": 4,
-      "meaning": "to relieve",
-      "story": "To relieve water identical commands sharply \"Jee!\" - help aid finish!",
-      "primitives": []
-    },
-    {
-      "id": 1489,
-      "character": "丑",
-      "pinyin": "chou",
-      "tone": 3,
-      "meaning": "Clown",
-      "story": "Clown twist bends down drooping \"Choh\" - ox 1am-3am ugly comedian sign of cow!",
-      "primitives": []
-    },
-    {
-      "id": 1490,
-      "character": "扭",
-      "pinyin": "niu",
-      "tone": 3,
-      "meaning": "to twist",
-      "story": "To twist hand clown bends down drooping \"Nyoh\" - turn wring!",
-      "primitives": []
-    },
-    {
-      "id": 1491,
-      "character": "卑",
-      "pinyin": "bei",
       "tone": 1,
-      "meaning": "lowly",
-      "story": "Lowly humble low sings \"Bay!\" cheerfully - base vulgar inferior!",
+      "meaning": "hurriedly",
+      "story": "Hurriedly bound up heart sings \"Tsohng!\" cheerfully - hastily rushed!",
       "primitives": []
     },
     {
-      "id": 1492,
-      "character": "牌",
-      "pinyin": "pai",
-      "tone": 2,
-      "meaning": "a Brand",
-      "story": "A brand cow lowly questions \"Pigh? Signboard?\" curiously - placard mahjong tiles!",
+      "id": 2077,
+      "character": "錫",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "tin",
+      "story": "Tin metal easy questions \"Shee? Metal?\" curiously - silvery element!",
       "primitives": []
     },
     {
-      "id": 1493,
-      "character": "號",
-      "pinyin": "hao",
+      "id": 2078,
+      "character": "惕",
+      "pinyin": "ti",
       "tone": 4,
-      "meaning": "Appellation",
-      "story": "Appellation mouth tiger commands sharply \"Hao!\" - name ship number nickname!",
+      "meaning": "watchful",
+      "story": "Watchful heart easy commands sharply \"Tee!\" - vigilant alert!",
+      "primitives": []
+    },
+    {
+      "id": 2079,
+      "character": "屑",
+      "pinyin": "xie",
+      "tone": 4,
+      "meaning": "bits",
+      "story": "Bits flag crumbs commands sharply \"Shyeh!\" - scraps fragments!",
+      "primitives": []
+    },
+    {
+      "id": 2080,
+      "character": "尿",
+      "pinyin": "niao",
+      "tone": 4,
+      "meaning": "urine",
+      "story": "Urine flag water commands sharply \"Nyao!\" - pee horse piss!",
+      "primitives": []
+    },
+    {
+      "id": 2081,
+      "character": "刷",
+      "pinyin": "shua",
+      "tone": 1,
+      "meaning": "brush",
+      "story": "Brush flag corpse sings \"Shwah!\" cheerfully - scrub clean tool!",
+      "primitives": []
+    },
+    {
+      "id": 2082,
+      "character": "犀",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "rhinoceros",
+      "story": "Rhinoceros flag ox sings \"Shee!\" cheerfully - horned beast!",
+      "primitives": []
+    },
+    {
+      "id": 2083,
+      "character": "遲",
+      "pinyin": "chi",
+      "tone": 2,
+      "meaning": "tardy",
+      "story": "Tardy road rhinoceros questions \"Chir? Late?\" curiously - delayed slow!",
+      "primitives": []
+    },
+    {
+      "id": 2084,
+      "character": "漏",
+      "pinyin": "lou",
+      "tone": 4,
+      "meaning": "leak",
+      "story": "Leak water rain commands sharply \"Loh!\" - drip seep disclose secret!",
+      "primitives": []
+    },
+    {
+      "id": 2085,
+      "character": "屁",
+      "pinyin": "pi",
+      "tone": 4,
+      "meaning": "fart",
+      "story": "Fart flag compare commands sharply \"Pee!\" - gas flatulence!",
+      "primitives": []
+    },
+    {
+      "id": 2086,
+      "character": "履",
+      "pinyin": "lü",
+      "tone": 3,
+      "meaning": "footwear",
+      "story": "Footwear flag recover bends down drooping \"Lyoo\" - shoes perform marriage!",
+      "primitives": []
+    },
+    {
+      "id": 2087,
+      "character": "屎",
+      "pinyin": "shi",
+      "tone": 3,
+      "meaning": "excrement",
+      "story": "Excrement flag rice bends down drooping \"Shir\" - feces poop ceremen!",
+      "primitives": []
+    },
+    {
+      "id": 2088,
+      "character": "屏",
+      "pinyin": "ping",
+      "tone": 2,
+      "meaning": "folding screen",
+      "story": "Folding screen flag puzzle questions \"Ping? Partition?\" curiously - women hiding!",
+      "primitives": []
+    },
+    {
+      "id": 2089,
+      "character": "屈",
+      "pinyin": "qu",
+      "tone": 1,
+      "meaning": "knuckle under",
+      "story": "Knuckle under flag exit sings \"Chyoo!\" cheerfully - yield submit!",
+      "primitives": []
+    },
+    {
+      "id": 2090,
+      "character": "掘",
+      "pinyin": "jue",
+      "tone": 2,
+      "meaning": "excavate",
+      "story": "Excavate hand exit questions \"Jyueh? Dig?\" curiously - unearth!",
+      "primitives": []
+    },
+    {
+      "id": 2091,
+      "character": "尺",
+      "pinyin": "chi",
+      "tone": 3,
+      "meaning": "ruler",
+      "story": "Ruler flag corpse bends down drooping \"Chir\" - measuring tool!",
+      "primitives": []
+    },
+    {
+      "id": 2092,
+      "character": "眉",
+      "pinyin": "mei",
+      "tone": 2,
+      "meaning": "eyebrows",
+      "story": "Eyebrows flag eye questions \"May? Brow?\" curiously - forehead hair ring!",
+      "primitives": []
+    },
+    {
+      "id": 2093,
+      "character": "媚",
+      "pinyin": "mei",
+      "tone": 4,
+      "meaning": "flatter",
+      "story": "Flatter woman eyebrows commands sharply \"May!\" - charm fawn over!",
+      "primitives": []
+    },
+    {
+      "id": 2094,
+      "character": "肩",
+      "pinyin": "jian",
+      "tone": 1,
+      "meaning": "shoulder",
+      "story": "Shoulder door flesh sings \"Jyan!\" cheerfully - body joint arm connection!",
+      "primitives": []
+    },
+    {
+      "id": 2095,
+      "character": "妒",
+      "pinyin": "du",
+      "tone": 4,
+      "meaning": "jealous of",
+      "story": "Jealous of woman door commands sharply \"Doo!\" - envious hateful bully!",
+      "primitives": []
+    },
+    {
+      "id": 2096,
+      "character": "淚",
+      "pinyin": "lei",
+      "tone": 4,
+      "meaning": "tears",
+      "story": "Tears water door commands sharply \"Lay!\" - crying drops!",
+      "primitives": []
+    },
+    {
+      "id": 2097,
+      "character": "啓",
+      "pinyin": "qi",
+      "tone": 3,
+      "meaning": "enlighten",
+      "story": "Enlighten door taskmaster mouth bends down drooping \"Chee\" - inspire open mind!",
+      "primitives": []
+    },
+    {
+      "id": 2098,
+      "character": "扇",
+      "pinyin": "shan",
+      "tone": 4,
+      "meaning": "fan",
+      "story": "Fan door wings commands sharply \"Shahn!\" - cooling device electric breeze!",
       "primitives": []
     }
   ]

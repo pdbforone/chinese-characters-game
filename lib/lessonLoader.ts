@@ -110,63 +110,6 @@ import lesson109 from './data/lesson109.json';
 import lesson110 from './data/lesson110.json';
 import lesson111 from './data/lesson111.json';
 import lesson112 from './data/lesson112.json';
-import lesson113 from './data/lesson113.json';
-import lesson114 from './data/lesson114.json';
-import lesson115 from './data/lesson115.json';
-import lesson116 from './data/lesson116.json';
-import lesson117 from './data/lesson117.json';
-import lesson118 from './data/lesson118.json';
-import lesson119 from './data/lesson119.json';
-import lesson120 from './data/lesson120.json';
-import lesson121 from './data/lesson121.json';
-import lesson122 from './data/lesson122.json';
-import lesson123 from './data/lesson123.json';
-import lesson124 from './data/lesson124.json';
-import lesson125 from './data/lesson125.json';
-import lesson126 from './data/lesson126.json';
-import lesson127 from './data/lesson127.json';
-import lesson128 from './data/lesson128.json';
-import lesson129 from './data/lesson129.json';
-import lesson130 from './data/lesson130.json';
-import lesson131 from './data/lesson131.json';
-import lesson132 from './data/lesson132.json';
-import lesson133 from './data/lesson133.json';
-import lesson134 from './data/lesson134.json';
-import lesson135 from './data/lesson135.json';
-import lesson136 from './data/lesson136.json';
-import lesson137 from './data/lesson137.json';
-import lesson138 from './data/lesson138.json';
-import lesson139 from './data/lesson139.json';
-import lesson140 from './data/lesson140.json';
-import lesson141 from './data/lesson141.json';
-import lesson142 from './data/lesson142.json';
-import lesson143 from './data/lesson143.json';
-import lesson144 from './data/lesson144.json';
-import lesson145 from './data/lesson145.json';
-import lesson146 from './data/lesson146.json';
-import lesson147 from './data/lesson147.json';
-import lesson148 from './data/lesson148.json';
-import lesson149 from './data/lesson149.json';
-import lesson150 from './data/lesson150.json';
-import lesson151 from './data/lesson151.json';
-import lesson152 from './data/lesson152.json';
-import lesson153 from './data/lesson153.json';
-import lesson154 from './data/lesson154.json';
-import lesson155 from './data/lesson155.json';
-import lesson156 from './data/lesson156.json';
-import lesson157 from './data/lesson157.json';
-import lesson158 from './data/lesson158.json';
-import lesson159 from './data/lesson159.json';
-import lesson160 from './data/lesson160.json';
-import lesson161 from './data/lesson161.json';
-import lesson162 from './data/lesson162.json';
-import lesson163 from './data/lesson163.json';
-import lesson164 from './data/lesson164.json';
-import lesson165 from './data/lesson165.json';
-import lesson166 from './data/lesson166.json';
-import lesson167 from './data/lesson167.json';
-import lesson168 from './data/lesson168.json';
-import lesson169 from './data/lesson169.json';
 
 export interface Character {
   id: number;
@@ -296,63 +239,6 @@ const lessons: Record<number, LessonData> = {
   110: lesson110,
   111: lesson111,
   112: lesson112,
-  113: lesson113,
-  114: lesson114,
-  115: lesson115,
-  116: lesson116,
-  117: lesson117,
-  118: lesson118,
-  119: lesson119,
-  120: lesson120,
-  121: lesson121,
-  122: lesson122,
-  123: lesson123,
-  124: lesson124,
-  125: lesson125,
-  126: lesson126,
-  127: lesson127,
-  128: lesson128,
-  129: lesson129,
-  130: lesson130,
-  131: lesson131,
-  132: lesson132,
-  133: lesson133,
-  134: lesson134,
-  135: lesson135,
-  136: lesson136,
-  137: lesson137,
-  138: lesson138,
-  139: lesson139,
-  140: lesson140,
-  141: lesson141,
-  142: lesson142,
-  143: lesson143,
-  144: lesson144,
-  145: lesson145,
-  146: lesson146,
-  147: lesson147,
-  148: lesson148,
-  149: lesson149,
-  150: lesson150,
-  151: lesson151,
-  152: lesson152,
-  153: lesson153,
-  154: lesson154,
-  155: lesson155,
-  156: lesson156,
-  157: lesson157,
-  158: lesson158,
-  159: lesson159,
-  160: lesson160,
-  161: lesson161,
-  162: lesson162,
-  163: lesson163,
-  164: lesson164,
-  165: lesson165,
-  166: lesson166,
-  167: lesson167,
-  168: lesson168,
-  169: lesson169,
 };
 
 export function getLessonData(lessonNumber: number): LessonData | null {

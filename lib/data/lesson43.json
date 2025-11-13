@@ -2,165 +2,138 @@
   "lesson": 43,
   "characters": [
     {
-      "id": 757,
-      "character": "個",
-      "pinyin": "ge",
+      "id": 1247,
+      "character": "病",
+      "pinyin": "bing",
       "tone": 4,
-      "meaning": "individual",
-      "story": "Individual person solid commands \"Guh!\" sharply single!",
+      "meaning": "Illness",
+      "story": "Illness sickness bed commands sharply \"Bing!\" - ailment disease!",
       "primitives": []
     },
     {
-      "id": 758,
-      "character": "健",
-      "pinyin": "jian",
+      "id": 1248,
+      "character": "痛",
+      "pinyin": "tong",
       "tone": 4,
-      "meaning": "healthy",
-      "story": "Healthy person build yells \"Jian!\" sharply strong!",
+      "meaning": "to ache",
+      "story": "To ache sickness use commands sharply \"Tohng!\" - pain sorrow!",
       "primitives": []
     },
     {
-      "id": 759,
-      "character": "停",
-      "pinyin": "ting",
-      "tone": 2,
-      "meaning": "to halt",
-      "story": "To halt person pavilion questions \"Ting? Stop?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 760,
-      "character": "倒",
-      "pinyin": "dao",
-      "tone": 3,
-      "meaning": "upside down",
-      "story": "Upside down person arrive bends down drooping saying \"Dao\"!",
-      "primitives": []
-    },
-    {
-      "id": 761,
-      "character": "仁",
-      "pinyin": "ren",
-      "tone": 2,
-      "meaning": "Benevolence",
-      "story": "Benevolence person two questions \"Ren? Kind?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 762,
-      "character": "優",
-      "pinyin": "you",
+      "id": 1249,
+      "character": "瘋",
+      "pinyin": "feng",
       "tone": 1,
-      "meaning": "excellent",
-      "story": "Excellent person worried sings \"Yo!\" cheerfully superior!",
+      "meaning": "insane",
+      "story": "Insane sickness wind sings \"Fung!\" cheerfully - mad and mentally wild!",
       "primitives": []
     },
     {
-      "id": 763,
-      "character": "傷",
-      "pinyin": "shang",
+      "id": 1250,
+      "character": "匹",
+      "pinyin": "pi",
       "tone": 1,
-      "meaning": "a Wound",
-      "story": "A wound person trade sings \"Shang!\" painfully high!",
+      "meaning": "to match",
+      "story": "To match box legs sings \"Pee!\" cheerfully - one of a pair equal!",
       "primitives": []
     },
     {
-      "id": 764,
-      "character": "保",
-      "pinyin": "bao",
-      "tone": 3,
-      "meaning": "to safeguard",
-      "story": "To safeguard person protect bends down drooping saying \"Bao\"!",
-      "primitives": []
-    },
-    {
-      "id": 765,
-      "character": "堡",
-      "pinyin": "bao",
-      "tone": 3,
-      "meaning": "Fort",
-      "story": "A fort earth safeguard bends down drooping saying \"Bao\"!",
-      "primitives": []
-    },
-    {
-      "id": 766,
-      "character": "付",
-      "pinyin": "fu",
-      "tone": 4,
-      "meaning": "to pay",
-      "story": "To pay person hand commands \"Foo!\" sharply giving!",
-      "primitives": []
-    },
-    {
-      "id": 767,
-      "character": "府",
-      "pinyin": "fu",
-      "tone": 3,
-      "meaning": "Government Office",
-      "story": "Government office building pay bends down drooping saying \"Foo\"!",
-      "primitives": []
-    },
-    {
-      "id": 768,
-      "character": "俯",
-      "pinyin": "fu",
-      "tone": 3,
-      "meaning": "to bow one's head",
-      "story": "To bow person office bends down drooping saying \"Foo\"!",
-      "primitives": []
-    },
-    {
-      "id": 769,
-      "character": "代",
-      "pinyin": "dai",
-      "tone": 4,
-      "meaning": "to substitute for",
-      "story": "To substitute person weapon commands \"Dai!\" sharply replacing!",
-      "primitives": []
-    },
-    {
-      "id": 770,
-      "character": "袋",
-      "pinyin": "dai",
-      "tone": 4,
-      "meaning": "Bag",
-      "story": "A bag clothes substitute yells \"Dai!\" sharply holding!",
-      "primitives": []
-    },
-    {
-      "id": 771,
-      "character": "化",
-      "pinyin": "hua",
-      "tone": 4,
-      "meaning": "to transform",
-      "story": "To transform person change commands \"Hwa!\" sharply morphing!",
-      "primitives": []
-    },
-    {
-      "id": 772,
-      "character": "花",
-      "pinyin": "hua",
+      "id": 1251,
+      "character": "區",
+      "pinyin": "qu",
       "tone": 1,
-      "meaning": "Flower",
-      "story": "Flower grass transform sings \"Hwa!\" cheerfully blooming!",
+      "meaning": "Region",
+      "story": "Region hiding box sings \"Chyoo!\" cheerfully - district area ward!",
       "primitives": []
     },
     {
-      "id": 773,
-      "character": "貨",
-      "pinyin": "huo",
-      "tone": 4,
-      "meaning": "Commodities",
-      "story": "Commodities transform shellfish commands \"Hwoh!\" sharply trading!",
+      "id": 1252,
+      "character": "樞",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "Hub",
+      "story": "Hub tree region sings \"Shoo!\" cheerfully - hinge and pivot!",
       "primitives": []
     },
     {
-      "id": 774,
-      "character": "何",
-      "pinyin": "he",
+      "id": 1253,
+      "character": "歐",
+      "pinyin": "ou",
+      "tone": 1,
+      "meaning": "Europe",
+      "story": "Europe yawn sings \"Oh!\" cheerfully - the continent!",
+      "primitives": []
+    },
+    {
+      "id": 1254,
+      "character": "醫",
+      "pinyin": "yi",
+      "tone": 1,
+      "meaning": "Physician",
+      "story": "Physician alcohol arrows sings \"Yee!\" cheerfully - doctor treats cures!",
+      "primitives": []
+    },
+    {
+      "id": 1255,
+      "character": "仰",
+      "pinyin": "yang",
+      "tone": 3,
+      "meaning": "to look up to",
+      "story": "To look up to person lie down bends down drooping \"Yahng\" - raise head faceup!",
+      "primitives": []
+    },
+    {
+      "id": 1256,
+      "character": "迎",
+      "pinyin": "ying",
       "tone": 2,
-      "meaning": "what/which/who/where/why?",
-      "story": "What person mouth questions \"Huh? Who where?\" curiously!",
+      "meaning": "to greet",
+      "story": "To greet road stamp questions \"Ying? Welcome?\" curiously - receiving!",
+      "primitives": []
+    },
+    {
+      "id": 1257,
+      "character": "登",
+      "pinyin": "deng",
+      "tone": 1,
+      "meaning": "to ascend",
+      "story": "To ascend ceremony beans sings \"Dung!\" cheerfully - scale climb mount!",
+      "primitives": []
+    },
+    {
+      "id": 1258,
+      "character": "燈",
+      "pinyin": "deng",
+      "tone": 1,
+      "meaning": "Lamp",
+      "story": "Lamp fire ascend sings \"Dung!\" cheerfully - light shining!",
+      "primitives": []
+    },
+    {
+      "id": 1259,
+      "character": "證",
+      "pinyin": "zheng",
+      "tone": 4,
+      "meaning": "Evidence",
+      "story": "Evidence words ascend commands sharply \"Jung!\" - proof confirms!",
+      "primitives": []
+    },
+    {
+      "id": 1260,
+      "character": "發",
+      "pinyin": "fa",
+      "tone": 1,
+      "meaning": "to send out",
+      "story": "To send out two legs sings \"Fah!\" cheerfully - issue dispatch discharge!",
+      "primitives": []
+    },
+    {
+      "id": 1261,
+      "character": "廢",
+      "pinyin": "fei",
+      "tone": 4,
+      "meaning": "to discard",
+      "story": "To discard building send out commands sharply \"Fay!\" - terminate abolish!",
       "primitives": []
     }
   ]

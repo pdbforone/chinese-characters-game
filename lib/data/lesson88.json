@@ -2,165 +2,444 @@
   "lesson": 88,
   "characters": [
     {
-      "id": 1566,
-      "character": "燃",
-      "pinyin": "ran",
-      "tone": 2,
-      "meaning": "ignite",
-      "story": "Ignite fire dog questions \"Rahn? Kindle?\" curiously - burning!",
-      "primitives": []
-    },
-    {
-      "id": 1567,
-      "character": "咒",
-      "pinyin": "zhou",
-      "tone": 4,
-      "meaning": "curse",
-      "story": "Curse mouth spell commands sharply \"Joh!\" - hex jinx!",
-      "primitives": []
-    },
-    {
-      "id": 1568,
-      "character": "獸",
-      "pinyin": "shou",
-      "tone": 4,
-      "meaning": "beast",
-      "story": "Beast dog mouth commands sharply \"Shoh!\" - wild animal!",
-      "primitives": []
-    },
-    {
-      "id": 1569,
-      "character": "狸",
-      "pinyin": "li",
-      "tone": 2,
-      "meaning": "raccoon dog",
-      "story": "Raccoon dog dog inside questions \"Lee? Tanuki?\" curiously - fox-like!",
-      "primitives": []
-    },
-    {
-      "id": 1570,
-      "character": "嗅",
-      "pinyin": "xiu",
-      "tone": 4,
-      "meaning": "sniff",
-      "story": "Sniff mouth stinking commands sharply \"Shyo!\" - smell scent!",
-      "primitives": []
-    },
-    {
-      "id": 1571,
-      "character": "牡",
-      "pinyin": "mu",
+      "id": 2228,
+      "character": "躺",
+      "pinyin": "tang",
       "tone": 3,
-      "meaning": "dude",
-      "story": "Dude cow soil bends down drooping \"Moo\" - male animal classifier!",
+      "meaning": "lie down",
+      "story": "Lie down body esteem bends down drooping \"Tahng\" - recline rest!",
       "primitives": []
     },
     {
-      "id": 1572,
-      "character": "牢",
-      "pinyin": "lao",
-      "tone": 2,
-      "meaning": "jail",
-      "story": "Jail cow roof questions \"Lao? Prison?\" curiously - cage cell!",
+      "id": 2229,
+      "character": "躲",
+      "pinyin": "duo",
+      "tone": 3,
+      "meaning": "dodge",
+      "story": "Dodge body body bends down drooping \"Dwoh\" - avoid hide!",
       "primitives": []
     },
     {
-      "id": 1573,
-      "character": "贊",
-      "pinyin": "zan",
-      "tone": 4,
-      "meaning": "succor",
-      "story": "Succor two shellfish commands sharply \"Dzahn!\" - support praise!",
-      "primitives": []
-    },
-    {
-      "id": 1574,
-      "character": "舍",
-      "pinyin": "she",
-      "tone": 4,
-      "meaning": "abode",
-      "story": "Abode roof tongue commands sharply \"Shuh!\" - dwelling house!",
-      "primitives": []
-    },
-    {
-      "id": 1575,
-      "character": "啥",
-      "pinyin": "sha",
-      "tone": 2,
-      "meaning": "wha?",
-      "story": "Wha mouth abode questions \"Shah? What?\" curiously - huh?",
-      "primitives": []
-    },
-    {
-      "id": 1576,
-      "character": "洽",
-      "pinyin": "qia",
-      "tone": 4,
-      "meaning": "in agreement",
-      "story": "In agreement water fit commands sharply \"Chyah!\" - harmonious accord!",
-      "primitives": []
-    },
-    {
-      "id": 1577,
-      "character": "旺",
-      "pinyin": "wang",
-      "tone": 4,
-      "meaning": "thriving",
-      "story": "Thriving sun king commands sharply \"Wahng!\" - prosperous flourishing!",
-      "primitives": []
-    },
-    {
-      "id": 1578,
-      "character": "碧",
-      "pinyin": "bi",
-      "tone": 4,
-      "meaning": "green jade",
-      "story": "Green jade jewel dove stone commands sharply \"Bee!\" - azure fine jade!",
-      "primitives": []
-    },
-    {
-      "id": 1579,
-      "character": "汪",
-      "pinyin": "wang",
+      "id": 2230,
+      "character": "躬",
+      "pinyin": "gong",
       "tone": 1,
-      "meaning": "tearful",
-      "story": "Tearful water king sings \"Wahng!\" cheerfully - brimming eyes!",
+      "meaning": "stoop",
+      "story": "Stoop body body sings \"Gohng!\" cheerfully - bow bend!",
       "primitives": []
     },
     {
-      "id": 1580,
-      "character": "枉",
-      "pinyin": "wang",
+      "id": 2231,
+      "character": "嗜",
+      "pinyin": "shi",
+      "tone": 4,
+      "meaning": "hanker",
+      "story": "Hanker mouth spin commands sharply \"Shir!\" - addicted fond bloodthirsty!",
+      "primitives": []
+    },
+    {
+      "id": 2232,
+      "character": "拷",
+      "pinyin": "kao",
       "tone": 3,
-      "meaning": "crooked",
-      "story": "Crooked tree king bends down drooping \"Wahng\" - bent unjust!",
+      "meaning": "flog",
+      "story": "Flog hand consider bends down drooping \"Kao\" - torture interrogate!",
       "primitives": []
     },
     {
-      "id": 1581,
-      "character": "珠",
+      "id": 2233,
+      "character": "暑",
+      "pinyin": "shu",
+      "tone": 3,
+      "meaning": "summer heat",
+      "story": "Summer heat sun puppet bends down drooping \"Shoo\" - hot season vacation!",
+      "primitives": []
+    },
+    {
+      "id": 2234,
+      "character": "睹",
+      "pinyin": "du",
+      "tone": 3,
+      "meaning": "behold",
+      "story": "Behold eyeballs puppet bends down drooping \"Doo\" - see witness!",
+      "primitives": []
+    },
+    {
+      "id": 2235,
+      "character": "賭",
+      "pinyin": "du",
+      "tone": 3,
+      "meaning": "gamble",
+      "story": "Gamble shellfish behold bends down drooping \"Doo\" - bet wager!",
+      "primitives": []
+    },
+    {
+      "id": 2236,
+      "character": "奢",
+      "pinyin": "she",
+      "tone": 1,
+      "meaning": "extravagant",
+      "story": "Extravagant large husband sings \"Shuh!\" cheerfully - luxurious excessive hope!",
+      "primitives": []
+    },
+    {
+      "id": 2237,
+      "character": "堵",
+      "pinyin": "du",
+      "tone": 3,
+      "meaning": "stop up",
+      "story": "Stop up soil puppet bends down drooping \"Doo\" - block plug catch!",
+      "primitives": []
+    },
+    {
+      "id": 2238,
+      "character": "煮",
+      "pinyin": "zhu",
+      "tone": 3,
+      "meaning": "boil",
+      "story": "Boil puppet cooking fire bends down drooping \"Joo\" - cook simmer rice!",
+      "primitives": []
+    },
+    {
+      "id": 2239,
+      "character": "諸",
       "pinyin": "zhu",
       "tone": 1,
-      "meaning": "pearl",
-      "story": "Pearl jewel vermillion sings \"Joo!\" cheerfully - bead gem!",
+      "meaning": "various",
+      "story": "Various words puppet sings \"Joo!\" cheerfully - all everyone plural!",
       "primitives": []
     },
     {
-      "id": 1582,
-      "character": "噩",
-      "pinyin": "e",
-      "tone": 4,
-      "meaning": "shocking",
-      "story": "Shocking mouths oppose commands sharply \"Uh!\" - nightmare calamity!",
+      "id": 2240,
+      "character": "儲",
+      "pinyin": "chu",
+      "tone": 3,
+      "meaning": "put in storage",
+      "story": "Put in storage person various bends down drooping \"Choo\" - reserve save!",
       "primitives": []
     },
     {
-      "id": 1583,
-      "character": "鱷",
-      "pinyin": "e",
+      "id": 2241,
+      "character": "屠",
+      "pinyin": "tu",
+      "tone": 2,
+      "meaning": "slaughter",
+      "story": "Slaughter flag puppet questions \"Too? Kill?\" curiously - butcher massacre!",
+      "primitives": []
+    },
+    {
+      "id": 2242,
+      "character": "署",
+      "pinyin": "shu",
+      "tone": 3,
+      "meaning": "add your John Hancock",
+      "story": "Add your John Hancock net puppet bends down drooping \"Shoo\" - sign office!",
+      "primitives": []
+    },
+    {
+      "id": 2243,
+      "character": "薯",
+      "pinyin": "shu",
+      "tone": 3,
+      "meaning": "yam",
+      "story": "Yam flowers puppet bends down drooping \"Shoo\" - potato tuber!",
+      "primitives": []
+    },
+    {
+      "id": 2244,
+      "character": "歸",
+      "pinyin": "gui",
+      "tone": 1,
+      "meaning": "come back",
+      "story": "Come back maestro footprint broom apron sings \"Gway!\" cheerfully - return reality!",
+      "primitives": []
+    },
+    {
+      "id": 2245,
+      "character": "篩",
+      "pinyin": "shai",
+      "tone": 1,
+      "meaning": "sift",
+      "story": "Sift bamboo division sings \"Shigh!\" cheerfully - filter screen!",
+      "primitives": []
+    },
+    {
+      "id": 2246,
+      "character": "棺",
+      "pinyin": "guan",
+      "tone": 1,
+      "meaning": "coffin",
+      "story": "Coffin tree bureaucrat sings \"Gwahn!\" cheerfully - casket board!",
+      "primitives": []
+    },
+    {
+      "id": 2247,
+      "character": "爹",
+      "pinyin": "die",
+      "tone": 1,
+      "meaning": "dad",
+      "story": "Dad father bow sings \"Dyeh!\" cheerfully - papa father!",
+      "primitives": []
+    },
+    {
+      "id": 2248,
+      "character": "斧",
+      "pinyin": "fu",
+      "tone": 3,
+      "meaning": "axe",
+      "story": "Axe father tool bends down drooping \"Foo\" - chopping tool hatchet!",
+      "primitives": []
+    },
+    {
+      "id": 2249,
+      "character": "咬",
+      "pinyin": "yao",
+      "tone": 3,
+      "meaning": "bite",
+      "story": "Bite mouth mix bends down drooping \"Yao\" - chew gnaw teeth!",
+      "primitives": []
+    },
+    {
+      "id": 2250,
+      "character": "狡",
+      "pinyin": "jiao",
+      "tone": 3,
+      "meaning": "sly",
+      "story": "Sly pack wild dogs mix bends down drooping \"Jyao\" - cunning crafty!",
+      "primitives": []
+    },
+    {
+      "id": 2251,
+      "character": "趴",
+      "pinyin": "pa",
+      "tone": 1,
+      "meaning": "prostrate oneself",
+      "story": "Prostrate oneself run eight sings \"Pah!\" cheerfully - head down fatso don't move!",
+      "primitives": []
+    },
+    {
+      "id": 2252,
+      "character": "踏",
+      "pinyin": "ta",
       "tone": 4,
-      "meaning": "crocodile",
-      "story": "Crocodile fish shocking commands sharply \"Uh!\" - reptile predator!",
+      "meaning": "trample",
+      "story": "Trample wooden leg water commands sharply \"Tah!\" - step stamp!",
+      "primitives": []
+    },
+    {
+      "id": 2253,
+      "character": "踐",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "tread on",
+      "story": "Tread on wooden leg float commands sharply \"Jyen!\" - step fulfill promise!",
+      "primitives": []
+    },
+    {
+      "id": 2254,
+      "character": "蹄",
+      "pinyin": "ti",
+      "tone": 2,
+      "meaning": "hoof",
+      "story": "Hoof wooden leg sovereign questions \"Tee? Animal foot?\" curiously - horse hooves!",
+      "primitives": []
+    },
+    {
+      "id": 2255,
+      "character": "捉",
+      "pinyin": "zhuo",
+      "tone": 1,
+      "meaning": "catch",
+      "story": "Catch hand leg sings \"Jwoh!\" cheerfully - seize grab capture!",
+      "primitives": []
+    },
+    {
+      "id": 2256,
+      "character": "踩",
+      "pinyin": "cai",
+      "tone": 3,
+      "meaning": "step on",
+      "story": "Step on wooden leg pluck bends down drooping \"Tsigh\" - tread trample!",
+      "primitives": []
+    },
+    {
+      "id": 2257,
+      "character": "蹦",
+      "pinyin": "beng",
+      "tone": 4,
+      "meaning": "hop",
+      "story": "Hop wooden leg mountain commands sharply \"Bung!\" - jump bounce!",
+      "primitives": []
+    },
+    {
+      "id": 2258,
+      "character": "跌",
+      "pinyin": "die",
+      "tone": 1,
+      "meaning": "slump",
+      "story": "Slump wooden leg stumble sings \"Dyeh!\" cheerfully - fall tumble face up!",
+      "primitives": []
+    },
+    {
+      "id": 2259,
+      "character": "促",
+      "pinyin": "cu",
+      "tone": 4,
+      "meaning": "urge",
+      "story": "Urge person wooden leg commands sharply \"Tsoo!\" - hasten rush!",
+      "primitives": []
+    },
+    {
+      "id": 2260,
+      "character": "踢",
+      "pinyin": "ti",
+      "tone": 1,
+      "meaning": "kick",
+      "story": "Kick wooden leg easy sings \"Tee!\" cheerfully - boot strike!",
+      "primitives": []
+    },
+    {
+      "id": 2261,
+      "character": "躁",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "impetuous",
+      "story": "Impetuous body wood pulp commands sharply \"Dzao!\" - irritable jittery!",
+      "primitives": []
+    },
+    {
+      "id": 2262,
+      "character": "噪",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "chirping",
+      "story": "Chirping mouth wood pulp commands sharply \"Dzao!\" - noisy twitter static!",
+      "primitives": []
+    },
+    {
+      "id": 2263,
+      "character": "澡",
+      "pinyin": "zao",
+      "tone": 3,
+      "meaning": "bath",
+      "story": "Bath water wood pulp bends down drooping \"Dzao\" - wash cleanse!",
+      "primitives": []
+    },
+    {
+      "id": 2264,
+      "character": "藻",
+      "pinyin": "zao",
+      "tone": 3,
+      "meaning": "algae",
+      "story": "Algae flowers bath bends down drooping \"Dzao\" - water plants!",
+      "primitives": []
+    },
+    {
+      "id": 2265,
+      "character": "操",
+      "pinyin": "cao",
+      "tone": 1,
+      "meaning": "exercise",
+      "story": "Exercise hand wood pulp sings \"Tsao!\" cheerfully - drill practice!",
+      "primitives": []
+    },
+    {
+      "id": 2266,
+      "character": "燥",
+      "pinyin": "zao",
+      "tone": 4,
+      "meaning": "parched",
+      "story": "Parched fire wood pulp commands sharply \"Dzao!\" - dry arid!",
+      "primitives": []
+    },
+    {
+      "id": 2267,
+      "character": "躍",
+      "pinyin": "yue",
+      "tone": 4,
+      "meaning": "leap",
+      "story": "Leap wooden leg wings commands sharply \"Yueh!\" - jump bound!",
+      "primitives": []
+    },
+    {
+      "id": 2268,
+      "character": "戳",
+      "pinyin": "chuo",
+      "tone": 1,
+      "meaning": "jab",
+      "story": "Jab headdress fiesta sings \"Chwoh!\" cheerfully - poke stab!",
+      "primitives": []
+    },
+    {
+      "id": 2269,
+      "character": "耀",
+      "pinyin": "yao",
+      "tone": 4,
+      "meaning": "show off",
+      "story": "Show off light feathers commands sharply \"Yao!\" - glory dazzle honor!",
+      "primitives": []
+    },
+    {
+      "id": 2270,
+      "character": "猾",
+      "pinyin": "hua",
+      "tone": 2,
+      "meaning": "cunning",
+      "story": "Cunning pack wild dogs skeleton questions \"Hwah? Crafty?\" curiously - sly ruthless!",
+      "primitives": []
+    },
+    {
+      "id": 2271,
+      "character": "髓",
+      "pinyin": "sui",
+      "tone": 3,
+      "meaning": "marrow",
+      "story": "Marrow skeleton left flesh road bends down drooping \"Sway\" - bone interior!",
+      "primitives": []
+    },
+    {
+      "id": 2272,
+      "character": "髒",
+      "pinyin": "zang",
+      "tone": 1,
+      "meaning": "dirty",
+      "story": "Dirty skeleton stolen goods sings \"Dzahng!\" cheerfully - filthy unclean!",
+      "primitives": []
+    },
+    {
+      "id": 2273,
+      "character": "渦",
+      "pinyin": "wo",
+      "tone": 1,
+      "meaning": "whirlpool",
+      "story": "Whirlpool water jawbone sings \"Woh!\" cheerfully - vortex eddy!",
+      "primitives": []
+    },
+    {
+      "id": 2274,
+      "character": "鍋",
+      "pinyin": "guo",
+      "tone": 1,
+      "meaning": "pot",
+      "story": "Pot metal jawbone sings \"Gwoh!\" cheerfully - cooking vessel!",
+      "primitives": []
+    },
+    {
+      "id": 2275,
+      "character": "蝸",
+      "pinyin": "wo",
+      "tone": 1,
+      "meaning": "snail",
+      "story": "Snail insect jawbone sings \"Woh!\" cheerfully - slow mollusk!",
+      "primitives": []
+    },
+    {
+      "id": 2276,
+      "character": "禍",
+      "pinyin": "huo",
+      "tone": 4,
+      "meaning": "misfortune",
+      "story": "Misfortune altar jawbone commands sharply \"Hwoh!\" - disaster calamity!",
       "primitives": []
     }
   ]

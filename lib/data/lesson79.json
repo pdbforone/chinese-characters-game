@@ -2,165 +2,426 @@
   "lesson": 79,
   "characters": [
     {
-      "id": 1404,
-      "character": "剛",
-      "pinyin": "gang",
-      "tone": 1,
-      "meaning": "just now",
-      "story": "Just now ridge sword sings \"Gahng!\" cheerfully - hard firm tough sturdy!",
-      "primitives": []
-    },
-    {
-      "id": 1405,
-      "character": "缺",
-      "pinyin": "que",
-      "tone": 1,
-      "meaning": "deficient",
-      "story": "Deficient bowl lack sings \"Chyueh!\" cheerfully - run short gap deficit!",
-      "primitives": []
-    },
-    {
-      "id": 1406,
-      "character": "寶",
-      "pinyin": "bao",
+      "id": 1894,
+      "character": "賞",
+      "pinyin": "shang",
       "tone": 3,
-      "meaning": "Treasure",
-      "story": "Treasure house jade shellfish bends down drooping \"Bao\" - jewel precious!",
+      "meaning": "prize",
+      "story": "Prize esteem shellfish bends down drooping \"Shahng\" - reward appreciate!",
       "primitives": []
     },
     {
-      "id": 1407,
-      "character": "遙",
-      "pinyin": "yao",
+      "id": 1895,
+      "character": "嘗",
+      "pinyin": "chang",
       "tone": 2,
-      "meaning": "remote",
-      "story": "Remote road dance questions \"Yao? Far away?\" curiously - distant far off!",
+      "meaning": "attempt",
+      "story": "Attempt outhouse purpose questions \"Chahng? Try?\" curiously - not necessarily!",
       "primitives": []
     },
     {
-      "id": 1408,
-      "character": "搖",
-      "pinyin": "yao",
+      "id": 1896,
+      "character": "嚐",
+      "pinyin": "chang",
       "tone": 2,
-      "meaning": "to shake",
-      "story": "To shake hand remote questions \"Yao? Rock?\" curiously - swing!",
+      "meaning": "taste",
+      "story": "Taste mouth try questions \"Chahng? Sample?\" curiously - savor!",
       "primitives": []
     },
     {
-      "id": 1409,
-      "character": "兔",
-      "pinyin": "tu",
+      "id": 1897,
+      "character": "掌",
+      "pinyin": "zhang",
+      "tone": 3,
+      "meaning": "palm of the hand",
+      "story": "Palm of the hand esteem hand bends down drooping \"Jahng\" - control grasp!",
+      "primitives": []
+    },
+    {
+      "id": 1898,
+      "character": "擋",
+      "pinyin": "dang",
+      "tone": 3,
+      "meaning": "fend off",
+      "story": "Fend off hand esteem bends down drooping \"Dahng\" - block prevent!",
+      "primitives": []
+    },
+    {
+      "id": 1899,
+      "character": "膛",
+      "pinyin": "tang",
+      "tone": 2,
+      "meaning": "chest",
+      "story": "Chest body hall questions \"Tahng? Torso?\" curiously - thorax cavity!",
+      "primitives": []
+    },
+    {
+      "id": 1900,
+      "character": "頗",
+      "pinyin": "po",
+      "tone": 1,
+      "meaning": "quite",
+      "story": "Quite covering head sings \"Pwoh!\" cheerfully - rather considerably!",
+      "primitives": []
+    },
+    {
+      "id": 1901,
+      "character": "坡",
+      "pinyin": "po",
+      "tone": 1,
+      "meaning": "slope",
+      "story": "Slope soil covering sings \"Pwoh!\" cheerfully - incline hillside!",
+      "primitives": []
+    },
+    {
+      "id": 1902,
+      "character": "披",
+      "pinyin": "pi",
+      "tone": 1,
+      "meaning": "drape over the shoulders",
+      "story": "Drape over the shoulders hand skin sings \"Pee!\" cheerfully - wear cloak!",
+      "primitives": []
+    },
+    {
+      "id": 1903,
+      "character": "彼",
+      "pinyin": "bi",
+      "tone": 3,
+      "meaning": "the other",
+      "story": "The other skin stop bends down drooping \"Bee\" - that one another!",
+      "primitives": []
+    },
+    {
+      "id": 1904,
+      "character": "皺",
+      "pinyin": "zhou",
       "tone": 4,
-      "meaning": "Rabbit",
-      "story": "Rabbit animal ears commands sharply \"Too!\" - hopping!",
+      "meaning": "wrinkles",
+      "story": "Wrinkles hay bales covering commands sharply \"Joh!\" - creases furrows!",
       "primitives": []
     },
     {
-      "id": 1410,
-      "character": "逸",
+      "id": 1905,
+      "character": "雛",
+      "pinyin": "chu",
+      "tone": 2,
+      "meaning": "chick",
+      "story": "Chick hay bales turkey questions \"Choo? Baby bird?\" curiously - fledgling!",
+      "primitives": []
+    },
+    {
+      "id": 1906,
+      "character": "趨",
+      "pinyin": "qu",
+      "tone": 1,
+      "meaning": "hasten",
+      "story": "Hasten walk hay bales sings \"Chyoo!\" cheerfully - hurry tend toward!",
+      "primitives": []
+    },
+    {
+      "id": 1907,
+      "character": "菠",
+      "pinyin": "bo",
+      "tone": 1,
+      "meaning": "spinach",
+      "story": "Spinach flowers waves sings \"Bwo!\" cheerfully - green vegetable tofu!",
+      "primitives": []
+    },
+    {
+      "id": 1908,
+      "character": "殖",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "breed",
+      "story": "Breed bones straight questions \"Jir? Multiply?\" curiously - cultivate pearls!",
+      "primitives": []
+    },
+    {
+      "id": 1909,
+      "character": "殊",
+      "pinyin": "shu",
+      "tone": 1,
+      "meaning": "dissimilar",
+      "story": "Dissimilar bones vermillion sings \"Shoo!\" cheerfully - different special!",
+      "primitives": []
+    },
+    {
+      "id": 1910,
+      "character": "殘",
+      "pinyin": "can",
+      "tone": 2,
+      "meaning": "incomplete",
+      "story": "Incomplete bones destroy questions \"Tsahn? Damaged?\" curiously - mutilated!",
+      "primitives": []
+    },
+    {
+      "id": 1911,
+      "character": "咧",
+      "pinyin": "lie",
+      "tone": 5,
+      "meaning": "grin",
+      "story": "Grin mouth line up says \"lyeh\" neutrally - smile broadly!",
+      "primitives": []
+    },
+    {
+      "id": 1912,
+      "character": "裂",
+      "pinyin": "lie",
+      "tone": 4,
+      "meaning": "crack",
+      "story": "Crack clothing grin commands sharply \"Lyeh!\" - split fracture!",
+      "primitives": []
+    },
+    {
+      "id": 1913,
+      "character": "耿",
+      "pinyin": "geng",
+      "tone": 3,
+      "meaning": "dedicated",
+      "story": "Dedicated ear fire bends down drooping \"Gung\" - loyal upright!",
+      "primitives": []
+    },
+    {
+      "id": 1914,
+      "character": "恥",
+      "pinyin": "chi",
+      "tone": 3,
+      "meaning": "shame",
+      "story": "Shame ear heart bends down drooping \"Chir\" - disgrace embarrassment!",
+      "primitives": []
+    },
+    {
+      "id": 1915,
+      "character": "輯",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "edit",
+      "story": "Edit car collect questions \"Jee? Compile?\" curiously - assemble!",
+      "primitives": []
+    },
+    {
+      "id": 1916,
+      "character": "攝",
+      "pinyin": "she",
+      "tone": 4,
+      "meaning": "take a photo",
+      "story": "Take a photo hand ears commands sharply \"Shuh!\" - photograph capture!",
+      "primitives": []
+    },
+    {
+      "id": 1917,
+      "character": "娶",
+      "pinyin": "qu",
+      "tone": 3,
+      "meaning": "take a wife",
+      "story": "Take a wife take woman bends down drooping \"Chyoo\" - marry bride!",
+      "primitives": []
+    },
+    {
+      "id": 1918,
+      "character": "扶",
+      "pinyin": "fu",
+      "tone": 2,
+      "meaning": "lend a hand",
+      "story": "Lend a hand hand husband questions \"Foo? Support?\" curiously - help assist!",
+      "primitives": []
+    },
+    {
+      "id": 1919,
+      "character": "熙",
+      "pinyin": "xi",
+      "tone": 1,
+      "meaning": "splendid",
+      "story": "Splendid underling mouth snakeskin cooking fire sings \"Shee!\" cheerfully - prosperous!",
+      "primitives": []
+    },
+    {
+      "id": 1920,
+      "character": "腎",
+      "pinyin": "shen",
+      "tone": 4,
+      "meaning": "kidneys",
+      "story": "Kidneys body minister commands sharply \"Shun!\" - renal organs!",
+      "primitives": []
+    },
+    {
+      "id": 1921,
+      "character": "募",
+      "pinyin": "mu",
+      "tone": 4,
+      "meaning": "recruit",
+      "story": "Recruit graveyard power commands sharply \"Moo!\" - enlist gather!",
+      "primitives": []
+    },
+    {
+      "id": 1922,
+      "character": "脅",
+      "pinyin": "xie",
+      "tone": 2,
+      "meaning": "threaten",
+      "story": "Threaten body strength questions \"Shyeh? Coerce?\" curiously - intimidate threat!",
+      "primitives": []
+    },
+    {
+      "id": 1923,
+      "character": "劣",
+      "pinyin": "lie",
+      "tone": 4,
+      "meaning": "inferior",
+      "story": "Inferior few power commands sharply \"Lyeh!\" - poor quality stubborn!",
+      "primitives": []
+    },
+    {
+      "id": 1924,
+      "character": "勳",
+      "pinyin": "xun",
+      "tone": 1,
+      "meaning": "merit",
+      "story": "Merit thousand black muscles sings \"Shyoon!\" cheerfully - achievement honor!",
+      "primitives": []
+    },
+    {
+      "id": 1925,
+      "character": "勸",
+      "pinyin": "quan",
+      "tone": 4,
+      "meaning": "advise",
+      "story": "Advise again power commands sharply \"Chyuan!\" - urge persuade!",
+      "primitives": []
+    },
+    {
+      "id": 1926,
+      "character": "劫",
+      "pinyin": "jie",
+      "tone": 2,
+      "meaning": "plunder",
+      "story": "Plunder go muscle questions \"Jyeh? Rob?\" curiously - loot sack!",
+      "primitives": []
+    },
+    {
+      "id": 1927,
+      "character": "怒",
+      "pinyin": "nu",
+      "tone": 4,
+      "meaning": "anger",
+      "story": "Anger slave heart commands sharply \"Noo!\" - rage fury!",
+      "primitives": []
+    },
+    {
+      "id": 1928,
+      "character": "茄",
+      "pinyin": "jia",
+      "tone": 1,
+      "meaning": "eggplant",
+      "story": "Eggplant flowers add sings \"Jyah!\" cheerfully - purple vegetable!",
+      "primitives": []
+    },
+    {
+      "id": 1929,
+      "character": "彷",
+      "pinyin": "fang",
+      "tone": 3,
+      "meaning": "seemingly",
+      "story": "Seemingly go direction bends down drooping \"Fahng\" - as if appears!",
+      "primitives": []
+    },
+    {
+      "id": 1930,
+      "character": "征",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "go on an expedition",
+      "story": "Go on an expedition go correct sings \"Jung!\" cheerfully - command and conquer!",
+      "primitives": []
+    },
+    {
+      "id": 1931,
+      "character": "徒",
+      "pinyin": "tu",
+      "tone": 2,
+      "meaning": "follower",
+      "story": "Follower go walk questions \"Too? Disciple?\" curiously - apprentice vain!",
+      "primitives": []
+    },
+    {
+      "id": 1932,
+      "character": "徊",
+      "pinyin": "huai",
+      "tone": 2,
+      "meaning": "undecided",
+      "story": "Undecided go return questions \"Hwigh? Wander?\" curiously - hesitate!",
+      "primitives": []
+    },
+    {
+      "id": 1933,
+      "character": "徵",
+      "pinyin": "zheng",
+      "tone": 1,
+      "meaning": "solicit",
+      "story": "Solicit go mountain sings \"Jung!\" cheerfully - summon levy!",
+      "primitives": []
+    },
+    {
+      "id": 1934,
+      "character": "懲",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "chasten",
+      "story": "Chasten solicit heart questions \"Chung? Punish?\" curiously - discipline!",
+      "primitives": []
+    },
+    {
+      "id": 1935,
+      "character": "循",
+      "pinyin": "xun",
+      "tone": 2,
+      "meaning": "comply with",
+      "story": "Comply with queue shield questions \"Shyoon? Follow?\" curiously - abide custom!",
+      "primitives": []
+    },
+    {
+      "id": 1936,
+      "character": "徹",
+      "pinyin": "che",
+      "tone": 4,
+      "meaning": "thorough",
+      "story": "Thorough go bring about commands sharply \"Chuh!\" - complete penetrating!",
+      "primitives": []
+    },
+    {
+      "id": 1937,
+      "character": "役",
       "pinyin": "yi",
       "tone": 4,
-      "meaning": "to flee",
-      "story": "To flee road rabbit commands sharply \"Yee!\" - escape elude break loose!",
+      "meaning": "service",
+      "story": "Service go halberd commands sharply \"Yee!\" - duty labor campaign!",
       "primitives": []
     },
     {
-      "id": 1411,
-      "character": "免",
-      "pinyin": "mian",
-      "tone": 3,
-      "meaning": "to avoid",
-      "story": "To avoid rabbit bends down drooping \"Myan\" - evade excuse!",
-      "primitives": []
-    },
-    {
-      "id": 1412,
-      "character": "晚",
-      "pinyin": "wan",
-      "tone": 3,
-      "meaning": "Nightfall",
-      "story": "Nightfall sun avoid bends down drooping \"Wahn\" - evening late!",
-      "primitives": []
-    },
-    {
-      "id": 1413,
-      "character": "象",
-      "pinyin": "xiang",
-      "tone": 4,
-      "meaning": "Elephant",
-      "story": "Elephant trunk tusks commands sharply \"Shyahng!\" - huge beast!",
-      "primitives": []
-    },
-    {
-      "id": 1414,
-      "character": "像",
-      "pinyin": "xiang",
-      "tone": 4,
-      "meaning": "Likeness",
-      "story": "Likeness person elephant commands sharply \"Shyahng!\" - image resemble statue!",
-      "primitives": []
-    },
-    {
-      "id": 1415,
-      "character": "馬",
-      "pinyin": "ma",
-      "tone": 3,
-      "meaning": "Horse",
-      "story": "Horse galloping bends down drooping \"Mah\" - knight steed!",
-      "primitives": []
-    },
-    {
-      "id": 1416,
-      "character": "媽",
-      "pinyin": "ma",
-      "tone": 1,
-      "meaning": "Mama",
-      "story": "Mama woman horse sings \"Mah!\" cheerfully - ma mamma!",
-      "primitives": []
-    },
-    {
-      "id": 1417,
-      "character": "罵",
-      "pinyin": "ma",
-      "tone": 4,
-      "meaning": "to scold",
-      "story": "To scold net horse commands sharply \"Mah!\" - curse blame insult!",
-      "primitives": []
-    },
-    {
-      "id": 1418,
-      "character": "嗎",
-      "pinyin": "ma",
-      "tone": 5,
-      "meaning": "yes or no",
-      "story": "Yes or no mouth horse says \"mah\" neutrally - question marker!",
-      "primitives": []
-    },
-    {
-      "id": 1419,
-      "character": "驗",
+      "id": 1938,
+      "character": "衍",
       "pinyin": "yan",
-      "tone": 4,
-      "meaning": "to check",
-      "story": "To check horse erudite commands sharply \"Yahn!\" - test examine inspect verification!",
+      "tone": 3,
+      "meaning": "develop",
+      "story": "Develop boulevard water bends down drooping \"Yahn\" - spread procreate!",
       "primitives": []
     },
     {
-      "id": 1420,
-      "character": "騎",
-      "pinyin": "qi",
+      "id": 1939,
+      "character": "衡",
+      "pinyin": "heng",
       "tone": 2,
-      "meaning": "to ride",
-      "story": "To ride horse tool questions \"Chee? Astride?\" curiously - equestrian!",
+      "meaning": "weight",
+      "story": "Weight boulevard St. bernard fish questions \"Hung? Balance?\" curiously - measure equilibrium!",
       "primitives": []
     },
     {
-      "id": 1421,
-      "character": "驚",
-      "pinyin": "jing",
-      "tone": 1,
-      "meaning": "startled",
-      "story": "Startled horse respectful sings \"Jing!\" cheerfully - scared frightened wonder!",
+      "id": 1940,
+      "character": "銜",
+      "pinyin": "xian",
+      "tone": 2,
+      "meaning": "title",
+      "story": "Title metal boulevard questions \"Shyan? Rank?\" curiously - hold in mouth!",
       "primitives": []
     }
   ]

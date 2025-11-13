@@ -2,165 +2,183 @@
   "lesson": 104,
   "characters": [
     {
-      "id": 1854,
-      "character": "后",
-      "pinyin": "hou",
+      "id": 2748,
+      "character": "緞",
+      "pinyin": "duan",
       "tone": 4,
-      "meaning": "queen",
-      "story": "Queen drag ceiling mouth commands sharply \"Hoh!\" - sovereign empress!",
+      "meaning": "satin",
+      "story": "\"DWAN!\" the thread commands sharply - satin, silk ribbon for her hair!",
       "primitives": []
     },
     {
-      "id": 1855,
-      "character": "盾",
-      "pinyin": "dun",
-      "tone": 4,
-      "meaning": "shield",
-      "story": "Shield ten eye commands sharply \"Dwun!\" - defense protection!",
+      "id": 2749,
+      "character": "刁",
+      "pinyin": "diao",
+      "tone": 1,
+      "meaning": "wily",
+      "story": "\"DYAO!\" the clothes hanger drops and sings cheerfully - wily, cunning, and difficult!",
       "primitives": []
     },
     {
-      "id": 1856,
-      "character": "販",
-      "pinyin": "fan",
-      "tone": 4,
-      "meaning": "peddler",
-      "story": "Peddler shell against commands sharply \"Fahn!\" - vendor merchant!",
+      "id": 2750,
+      "character": "叼",
+      "pinyin": "diao",
+      "tone": 1,
+      "meaning": "hold in the mouth",
+      "story": "\"DYAO!\" the wily mouth sings cheerfully, holding something in the mouth - gripping and biting!",
       "primitives": []
     },
     {
-      "id": 1857,
-      "character": "扳",
+      "id": 2751,
+      "character": "殷",
+      "pinyin": "yin",
+      "tone": 1,
+      "meaning": "ardent",
+      "story": "\"YIN!\" the sun sings cheerfully with ardent passion - earnest and fervent enthusiasm!",
+      "primitives": []
+    },
+    {
+      "id": 2752,
+      "character": "壽",
+      "pinyin": "shou",
+      "tone": 4,
+      "meaning": "longevity",
+      "story": "\"SHOH!\" the long grey beard commands sharply - longevity, lifespan, and cigarettes for the elderly!",
+      "primitives": []
+    },
+    {
+      "id": 2753,
+      "character": "濤",
+      "pinyin": "tao",
+      "tone": 1,
+      "meaning": "large waves",
+      "story": "\"TAO?\" the water and long grey beard question curiously - are those large waves surging in the ocean?",
+      "primitives": []
+    },
+    {
+      "id": 2754,
+      "character": "鑄",
+      "pinyin": "zhu",
+      "tone": 4,
+      "meaning": "cast",
+      "story": "\"JOO!\" the metal commands sharply - to cast, forge, and mold into shape!",
+      "primitives": []
+    },
+    {
+      "id": 2755,
+      "character": "禱",
+      "pinyin": "dao",
+      "tone": 3,
+      "meaning": "pray",
+      "story": "The altar and long grey beard bend down drooping to pray, worship, and petition the gods.",
+      "primitives": []
+    },
+    {
+      "id": 2756,
+      "character": "籌",
+      "pinyin": "chou",
+      "tone": 2,
+      "meaning": "make arrangements",
+      "story": "\"CHOH?\" the bamboo and long grey beard question curiously - how to make arrangements, plan, and coordinate?",
+      "primitives": []
+    },
+    {
+      "id": 2757,
+      "character": "伺",
+      "pinyin": "ci",
+      "tone": 4,
+      "meaning": "attend to",
+      "story": "\"TSIH!\" the person takes charge and commands sharply - to attend to and serve, like a server!",
+      "primitives": []
+    },
+    {
+      "id": 2758,
+      "character": "飼",
+      "pinyin": "si",
+      "tone": 4,
+      "meaning": "rear",
+      "story": "\"SIH!\" the food commands sharply - to rear, raise, and feed the animals!",
+      "primitives": []
+    },
+    {
+      "id": 2759,
+      "character": "舶",
+      "pinyin": "bo",
+      "tone": 2,
+      "meaning": "liner",
+      "story": "\"BWOH?\" the boat questions curiously - is that a liner, an ocean ship that moors?",
+      "primitives": []
+    },
+    {
+      "id": 2760,
+      "character": "航",
+      "pinyin": "hang",
+      "tone": 2,
+      "meaning": "navigate",
+      "story": "\"HAHNG?\" the boat questions curiously - how to navigate, sail by aviation?",
+      "primitives": []
+    },
+    {
+      "id": 2761,
+      "character": "艇",
+      "pinyin": "ting",
+      "tone": 3,
+      "meaning": "light boat",
+      "story": "The boat bends down drooping - a light boat, a small craft and vessel.",
+      "primitives": []
+    },
+    {
+      "id": 2762,
+      "character": "艦",
+      "pinyin": "jian",
+      "tone": 4,
+      "meaning": "warship",
+      "story": "\"JYEN!\" the supervising boat commands sharply - a warship, a battleship for the navy!",
+      "primitives": []
+    },
+    {
+      "id": 2763,
+      "character": "艙",
+      "pinyin": "cang",
+      "tone": 1,
+      "meaning": "ship's cabin",
+      "story": "\"TSAHNG!\" the boat and storehouse sing cheerfully - the ship's cabin, business class seating!",
+      "primitives": []
+    },
+    {
+      "id": 2764,
+      "character": "沿",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "along",
+      "story": "\"YEN?\" the water questions curiously - flowing along, beside, and following the shore?",
+      "primitives": []
+    },
+    {
+      "id": 2765,
+      "character": "鉛",
+      "pinyin": "qian",
+      "tone": 1,
+      "meaning": "lead",
+      "story": "\"CHYEN!\" the metal belch sings cheerfully - lead, the element for pencils!",
+      "primitives": []
+    },
+    {
+      "id": 2766,
+      "character": "狐",
+      "pinyin": "hu",
+      "tone": 2,
+      "meaning": "fox",
+      "story": "\"HOO?\" the pack of wild dogs questions curiously - is that a fox, a cunning animal?",
+      "primitives": []
+    },
+    {
+      "id": 2767,
+      "character": "瓣",
       "pinyin": "ban",
-      "tone": 1,
-      "meaning": "tug",
-      "story": "Tug fingers against sings \"Bahn!\" cheerfully - pull wrench!",
-      "primitives": []
-    },
-    {
-      "id": 1858,
-      "character": "覓",
-      "pinyin": "mi",
       "tone": 4,
-      "meaning": "try to find",
-      "story": "Try to find vulture see commands sharply \"Mee!\" - search seek!",
-      "primitives": []
-    },
-    {
-      "id": 1859,
-      "character": "妥",
-      "pinyin": "tuo",
-      "tone": 3,
-      "meaning": "appropriate",
-      "story": "Appropriate vulture woman bends down drooping \"Twoh\" - fitting settled!",
-      "primitives": []
-    },
-    {
-      "id": 1860,
-      "character": "睬",
-      "pinyin": "cai",
-      "tone": 3,
-      "meaning": "notice",
-      "story": "Notice eyeball pluck bends down drooping \"Tsigh\" - pay attention heed!",
-      "primitives": []
-    },
-    {
-      "id": 1861,
-      "character": "允",
-      "pinyin": "yun",
-      "tone": 3,
-      "meaning": "consent",
-      "story": "Consent elbow bends down drooping \"Yoon\" - permit agree!",
-      "primitives": []
-    },
-    {
-      "id": 1862,
-      "character": "勾",
-      "pinyin": "gou",
-      "tone": 4,
-      "meaning": "cross out",
-      "story": "Cross out bound up elbow commands sharply \"Goh!\" - hook seduce!",
-      "primitives": []
-    },
-    {
-      "id": 1863,
-      "character": "晉",
-      "pinyin": "jin",
-      "tone": 4,
-      "meaning": "promote",
-      "story": "Promote ceiling two elbows floor sun commands sharply \"Jin!\" - advance!",
-      "primitives": []
-    },
-    {
-      "id": 1864,
-      "character": "宏",
-      "pinyin": "hong",
-      "tone": 2,
-      "meaning": "magnificent",
-      "story": "Magnificent house by one's side elbow questions \"Hohng? Grand?\" curiously - imposing!",
-      "primitives": []
-    },
-    {
-      "id": 1865,
-      "character": "胎",
-      "pinyin": "tai",
-      "tone": 1,
-      "meaning": "fetus",
-      "story": "Fetus body platform sings \"Tigh!\" cheerfully - embryo tire!",
-      "primitives": []
-    },
-    {
-      "id": 1866,
-      "character": "冶",
-      "pinyin": "ye",
-      "tone": 3,
-      "meaning": "smelt",
-      "story": "Smelt ice platform bends down drooping \"Yeh\" - refine metal!",
-      "primitives": []
-    },
-    {
-      "id": 1867,
-      "character": "颱",
-      "pinyin": "tai",
-      "tone": 2,
-      "meaning": "typhoon",
-      "story": "Typhoon wind platform questions \"Tigh? Storm?\" curiously - hurricane!",
-      "primitives": []
-    },
-    {
-      "id": 1868,
-      "character": "怠",
-      "pinyin": "dai",
-      "tone": 4,
-      "meaning": "negligent",
-      "story": "Negligent platform heart commands sharply \"Digh!\" - lazy careless!",
-      "primitives": []
-    },
-    {
-      "id": 1869,
-      "character": "抬",
-      "pinyin": "tai",
-      "tone": 2,
-      "meaning": "elevate",
-      "story": "Elevate hand platform questions \"Tigh? Lift?\" curiously - raise carry!",
-      "primitives": []
-    },
-    {
-      "id": 1870,
-      "character": "丟",
-      "pinyin": "diu",
-      "tone": 1,
-      "meaning": "mislay",
-      "story": "Mislay gone sings \"Dyoh!\" cheerfully - lose drop!",
-      "primitives": []
-    },
-    {
-      "id": 1871,
-      "character": "臺",
-      "pinyin": "tai",
-      "tone": 2,
-      "meaning": "Taiwan",
-      "story": "Taiwan platform至 questions \"Tigh? Isle?\" curiously - stage!",
+      "meaning": "petal",
+      "story": "\"BAN!\" the two chili peppers and melon command sharply - a petal, flower part used in bean sauce!",
       "primitives": []
     }
   ]

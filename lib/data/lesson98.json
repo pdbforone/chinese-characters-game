@@ -2,165 +2,399 @@
   "lesson": 98,
   "characters": [
     {
-      "id": 1746,
-      "character": "翰",
-      "pinyin": "han",
-      "tone": 4,
-      "meaning": "writing brush",
-      "story": "Writing brush mist umbrella wings commands sharply \"Hahn!\" - pen literary!",
-      "primitives": []
-    },
-    {
-      "id": 1747,
-      "character": "咽",
-      "pinyin": "yan",
-      "tone": 4,
-      "meaning": "throat",
-      "story": "Throat mouth swallow commands sharply \"Yahn!\" - gullet pharynx!",
-      "primitives": []
-    },
-    {
-      "id": 1748,
-      "character": "姻",
-      "pinyin": "yin",
-      "tone": 1,
-      "meaning": "in-law",
-      "story": "In-law woman dog kennel sings \"Yin!\" cheerfully - marriage relations!",
-      "primitives": []
-    },
-    {
-      "id": 1749,
-      "character": "廟",
-      "pinyin": "miao",
-      "tone": 4,
-      "meaning": "temple",
-      "story": "Temple cave dynasty commands sharply \"Myao!\" - shrine sanctuary!",
-      "primitives": []
-    },
-    {
-      "id": 1750,
-      "character": "廂",
-      "pinyin": "xiang",
-      "tone": 1,
-      "meaning": "side room",
-      "story": "Side room cave one another sings \"Shyahng!\" cheerfully - chamber compartment!",
-      "primitives": []
-    },
-    {
-      "id": 1751,
-      "character": "嘛",
-      "pinyin": "ma",
-      "tone": 5,
-      "meaning": "(pause marker)",
-      "story": "Pause marker mouth hemp says \"mah\" neutrally - obvious indicator!",
-      "primitives": []
-    },
-    {
-      "id": 1752,
-      "character": "磨",
-      "pinyin": "mo",
+      "id": 2594,
+      "character": "痰",
+      "pinyin": "tan",
       "tone": 2,
-      "meaning": "grind",
-      "story": "Grind hemp stone questions \"Mwo? Rub?\" curiously - polish torment!",
+      "meaning": "phlegm",
+      "story": "\"TAN?\" the sickness and inflammation question curiously - is this phlegm, mucus and sputum?",
       "primitives": []
     },
     {
-      "id": 1753,
-      "character": "廈",
-      "pinyin": "sha",
+      "id": 2595,
+      "character": "症",
+      "pinyin": "zheng",
       "tone": 4,
-      "meaning": "skyscraper",
-      "story": "Skyscraper cave summer commands sharply \"Shah!\" - grand building!",
+      "meaning": "disease",
+      "story": "\"JUNG!\" the sickness commands sharply to be correct - the disease, illness and lost soul syndrome!",
       "primitives": []
     },
     {
-      "id": 1754,
-      "character": "廁",
-      "pinyin": "ce",
+      "id": 2596,
+      "character": "疼",
+      "pinyin": "teng",
+      "tone": 2,
+      "meaning": "hurt",
+      "story": "\"TUNG?\" the sickness questions curiously - does it hurt, ache and pain?",
+      "primitives": []
+    },
+    {
+      "id": 2597,
+      "character": "癒",
+      "pinyin": "yu",
       "tone": 4,
-      "meaning": "toilet",
-      "story": "Toilet cave then commands sharply \"Tsuh!\" - lavatory bathroom!",
+      "meaning": "get well",
+      "story": "\"YOO!\" the sickness commands sharply to get better more and more - to heal the scars!",
       "primitives": []
     },
     {
-      "id": 1755,
-      "character": "悟",
-      "pinyin": "wu",
+      "id": 2598,
+      "character": "疫",
+      "pinyin": "yi",
       "tone": 4,
-      "meaning": "realize",
-      "story": "Realize heart me commands sharply \"Woo!\" - awaken understand!",
+      "meaning": "epidemic",
+      "story": "\"YEE!\" the sickness commands sharply - an epidemic, plague and outbreak!",
       "primitives": []
     },
     {
-      "id": 1756,
-      "character": "忠",
-      "pinyin": "zhong",
+      "id": 2599,
+      "character": "癌",
+      "pinyin": "ai",
+      "tone": 2,
+      "meaning": "cancer",
+      "story": "\"AI?\" the sickness questions curiously - is it cancer, a malignant tumor?",
+      "primitives": []
+    },
+    {
+      "id": 2600,
+      "character": "疲",
+      "pinyin": "pi",
+      "tone": 2,
+      "meaning": "fatigued",
+      "story": "\"PEE?\" the sickness questions curiously - are you fatigued, exhausted and weary?",
+      "primitives": []
+    },
+    {
+      "id": 2601,
+      "character": "疾",
+      "pinyin": "ji",
+      "tone": 2,
+      "meaning": "rapid",
+      "story": "\"JEE?\" the sickness questions curiously and rapid, swift and speedy!",
+      "primitives": []
+    },
+    {
+      "id": 2602,
+      "character": "痴",
+      "pinyin": "chi",
       "tone": 1,
-      "meaning": "loyal",
-      "story": "Loyal middle heart sings \"Johng!\" cheerfully - faithful devoted!",
+      "meaning": "idiotic",
+      "story": "\"CHIH!\" the sickness sings cheerfully - being idiotic, foolish and obsessed!",
       "primitives": []
     },
     {
-      "id": 1757,
-      "character": "悼",
-      "pinyin": "dao",
-      "tone": 4,
-      "meaning": "mourn",
-      "story": "Mourn state of mind eminent commands sharply \"Dao!\" - grieve lament!",
+      "id": 2603,
+      "character": "瘤",
+      "pinyin": "liu",
+      "tone": 2,
+      "meaning": "tumor",
+      "story": "\"LYOH?\" the sickness questions curiously about what stays - a tumor, a growth and lump?",
       "primitives": []
     },
     {
-      "id": 1758,
-      "character": "慎",
-      "pinyin": "shen",
-      "tone": 4,
-      "meaning": "prudent",
-      "story": "Prudent heart true commands sharply \"Shun!\" - careful cautious!",
+      "id": 2604,
+      "character": "痕",
+      "pinyin": "hen",
+      "tone": 2,
+      "meaning": "trace",
+      "story": "\"HUN?\" the sickness questions curiously - is this a trace, a mark and scar?",
       "primitives": []
     },
     {
-      "id": 1759,
-      "character": "恕",
-      "pinyin": "shu",
-      "tone": 4,
-      "meaning": "pardon",
-      "story": "Pardon like heart commands sharply \"Shoo!\" - forgive excuse!",
-      "primitives": []
-    },
-    {
-      "id": 1760,
-      "character": "悄",
-      "pinyin": "qiao",
-      "tone": 1,
-      "meaning": "noiseless",
-      "story": "Noiseless heart whistle sings \"Chyao!\" cheerfully - quiet silent!",
-      "primitives": []
-    },
-    {
-      "id": 1761,
-      "character": "恍",
-      "pinyin": "huang",
+      "id": 2605,
+      "character": "癢",
+      "pinyin": "yang",
       "tone": 3,
-      "meaning": "all of a sudden",
-      "story": "All of a sudden state of mind ray bends down drooping \"Hwahng\" - abrupt!",
+      "meaning": "itch",
+      "story": "The sickness bends down drooping - to itch, scratch and tingle!",
       "primitives": []
     },
     {
-      "id": 1762,
-      "character": "惰",
-      "pinyin": "duo",
-      "tone": 4,
-      "meaning": "indolent",
-      "story": "Indolent heart left commands sharply \"Dwoh!\" - lazy sluggish!",
-      "primitives": []
-    },
-    {
-      "id": 1763,
-      "character": "恢",
-      "pinyin": "hui",
+      "id": 2606,
+      "character": "癱",
+      "pinyin": "tan",
       "tone": 1,
-      "meaning": "immense",
-      "story": "Immense heart ashes sings \"Hway!\" cheerfully - restore vast!",
+      "meaning": "paralysis",
+      "story": "\"TAN!\" the sickness and difficult sing cheerfully despite paralysis - immobilized and disabled!",
+      "primitives": []
+    },
+    {
+      "id": 2607,
+      "character": "瘡",
+      "pinyin": "chuang",
+      "tone": 1,
+      "meaning": "sore",
+      "story": "\"CHWAHNG!\" the sickness and storehouse sing cheerfully - a sore, a wound and lesion!",
+      "primitives": []
+    },
+    {
+      "id": 2608,
+      "character": "穩",
+      "pinyin": "wen",
+      "tone": 3,
+      "meaning": "stable",
+      "story": "The grain bends down drooping - stable, steady and secure!",
+      "primitives": []
+    },
+    {
+      "id": 2609,
+      "character": "隱",
+      "pinyin": "yin",
+      "tone": 3,
+      "meaning": "hidden",
+      "story": "The pinnacle bends down drooping - hidden, concealed and secret!",
+      "primitives": []
+    },
+    {
+      "id": 2610,
+      "character": "癮",
+      "pinyin": "yin",
+      "tone": 3,
+      "meaning": "addiction",
+      "story": "The sickness bends down drooping - an addiction, a craving that's thrilling!",
+      "primitives": []
+    },
+    {
+      "id": 2611,
+      "character": "巨",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "gigantic",
+      "story": "\"JYOO!\" he commands sharply - gigantic, huge and enormous!",
+      "primitives": []
+    },
+    {
+      "id": 2612,
+      "character": "渠",
+      "pinyin": "qu",
+      "tone": 2,
+      "meaning": "canal",
+      "story": "\"CHYOO?\" the water, giant and tree question curiously - is this a canal, a channel and ditch?",
+      "primitives": []
+    },
+    {
+      "id": 2613,
+      "character": "拒",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "refuse",
+      "story": "\"JYOO!\" the fingers command sharply - to refuse, reject and decline the call!",
+      "primitives": []
+    },
+    {
+      "id": 2614,
+      "character": "矩",
+      "pinyin": "ju",
+      "tone": 3,
+      "meaning": "square",
+      "story": "The spear bends down drooping - a square with rules and standards!",
+      "primitives": []
+    },
+    {
+      "id": 2615,
+      "character": "距",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "distance",
+      "story": "\"JYOO!\" the foot commands sharply - measuring the distance, the gap and separation!",
+      "primitives": []
+    },
+    {
+      "id": 2616,
+      "character": "框",
+      "pinyin": "kuang",
+      "tone": 4,
+      "meaning": "rectangular frame",
+      "story": "\"KWAHNG!\" the tree, box and jewel command sharply - a rectangular frame, a border for pictures and certificates!",
+      "primitives": []
+    },
+    {
+      "id": 2617,
+      "character": "筐",
+      "pinyin": "kuang",
+      "tone": 1,
+      "meaning": "rectangular basket",
+      "story": "\"KWAHNG!\" the bamboo, box and king sing cheerfully - a rectangular basket for fruit containers!",
+      "primitives": []
+    },
+    {
+      "id": 2618,
+      "character": "砸",
+      "pinyin": "za",
+      "tone": 2,
+      "meaning": "smash",
+      "story": "\"DZAH?\" the stone questions curiously - will you smash, shatter and break?",
+      "primitives": []
+    },
+    {
+      "id": 2619,
+      "character": "匯",
+      "pinyin": "hui",
+      "tone": 4,
+      "meaning": "converge",
+      "story": "\"HWAY!\" the box, water and turkey command sharply - to converge, gather and assemble!",
+      "primitives": []
+    },
+    {
+      "id": 2620,
+      "character": "匠",
+      "pinyin": "jiang",
+      "tone": 4,
+      "meaning": "artisan",
+      "story": "\"JYAHNG!\" the box and tomahawk command sharply - an artisan, a craftsman comedian!",
+      "primitives": []
+    },
+    {
+      "id": 2621,
+      "character": "匪",
+      "pinyin": "fei",
+      "tone": 3,
+      "meaning": "bandit",
+      "story": "The box and jail cell bend down drooping - a bandit, a thief and outlaw!",
+      "primitives": []
+    },
+    {
+      "id": 2622,
+      "character": "匿",
+      "pinyin": "ni",
+      "tone": 4,
+      "meaning": "keep out of sight",
+      "story": "\"NEE!\" the box and Disneyland command sharply - to keep out of sight, hide and conceal!",
+      "primitives": []
+    },
+    {
+      "id": 2623,
+      "character": "兜",
+      "pinyin": "dou",
+      "tone": 1,
+      "meaning": "pocket",
+      "story": "\"DOH!\" he sings cheerfully about the pocket, pouch to carry!",
+      "primitives": []
+    },
+    {
+      "id": 2625,
+      "character": "毆",
+      "pinyin": "ou",
+      "tone": 1,
+      "meaning": "hit",
+      "story": "\"OH!\" the bones sing cheerfully - to hit, fight and strike in the cloud recesses!",
+      "primitives": []
+    },
+    {
+      "id": 2626,
+      "character": "軀",
+      "pinyin": "qu",
+      "tone": 1,
+      "meaning": "human body",
+      "story": "\"CHYOO!\" the car sings cheerfully - the human body, physique and torso!",
+      "primitives": []
+    },
+    {
+      "id": 2627,
+      "character": "昂",
+      "pinyin": "ang",
+      "tone": 2,
+      "meaning": "hold one's head high",
+      "story": "\"AHNG?\" the sun questions curiously - will you hold your head high, proud and lofty?",
+      "primitives": []
+    },
+    {
+      "id": 2628,
+      "character": "抑",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "curb",
+      "story": "\"YEE!\" the fingers command sharply - to curb, restrain and repress!",
+      "primitives": []
+    },
+    {
+      "id": 2629,
+      "character": "葵",
+      "pinyin": "kui",
+      "tone": 2,
+      "meaning": "large-flowered plants",
+      "story": "\"KWAY?\" the flowers, teepee and heavens question curiously - are these large-flowered plants, sunflowers?",
+      "primitives": []
+    },
+    {
+      "id": 2630,
+      "character": "僚",
+      "pinyin": "liao",
+      "tone": 2,
+      "meaning": "coworker",
+      "story": "\"LYAO?\" the person and pup tent question curiously - is this a coworker, an official bureaucrat?",
+      "primitives": []
+    },
+    {
+      "id": 2631,
+      "character": "遼",
+      "pinyin": "liao",
+      "tone": 2,
+      "meaning": "far away",
+      "story": "\"LYAO?\" the road questions curiously - how far away, distant and remote?",
+      "primitives": []
+    },
+    {
+      "id": 2632,
+      "character": "瞭",
+      "pinyin": "liao",
+      "tone": 3,
+      "meaning": "comprehend",
+      "story": "The eyes bend down drooping - to comprehend, understand and grasp!",
+      "primitives": []
+    },
+    {
+      "id": 2633,
+      "character": "療",
+      "pinyin": "liao",
+      "tone": 2,
+      "meaning": "cure",
+      "story": "\"LYAO?\" the sickness questions curiously - will you cure, treat and heal?",
+      "primitives": []
+    },
+    {
+      "id": 2634,
+      "character": "瞪",
+      "pinyin": "deng",
+      "tone": 4,
+      "meaning": "glare",
+      "story": "\"DUNG!\" the eyes command sharply - to glare, stare and gaze!",
+      "primitives": []
+    },
+    {
+      "id": 2635,
+      "character": "凳",
+      "pinyin": "deng",
+      "tone": 4,
+      "meaning": "bench",
+      "story": "\"DUNG!\" he commands sharply - sit on the bench, the stool and seat!",
+      "primitives": []
+    },
+    {
+      "id": 2636,
+      "character": "澄",
+      "pinyin": "cheng",
+      "tone": 2,
+      "meaning": "transparent",
+      "story": "\"CHUNG?\" the water questions curiously - is it transparent, clear like the untamed?",
+      "primitives": []
+    },
+    {
+      "id": 2637,
+      "character": "潑",
+      "pinyin": "po",
+      "tone": 1,
+      "meaning": "splash",
+      "story": "\"PWOH!\" the water sings cheerfully - to splash, be spirited and lively!",
+      "primitives": []
+    },
+    {
+      "id": 2638,
+      "character": "撥",
+      "pinyin": "bo",
+      "tone": 1,
+      "meaning": "allocate",
+      "story": "\"BWOH!\" the fingers and courier sing cheerfully - to allocate, distribute and provoke!",
       "primitives": []
     }
   ]

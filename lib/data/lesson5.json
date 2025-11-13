@@ -2,6 +2,51 @@
   "lesson": 5,
   "characters": [
     {
+      "id": 68,
+      "character": "直",
+      "pinyin": "zhi",
+      "tone": 2,
+      "meaning": "straight",
+      "story": "A straight eye questions \"Zhi? Why so direct?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 69,
+      "character": "置",
+      "pinyin": "zhi",
+      "tone": 4,
+      "meaning": "to set up",
+      "story": "Set up the net straight, commanding \"Zhi!\" sharply in place!",
+      "primitives": []
+    },
+    {
+      "id": 70,
+      "character": "具",
+      "pinyin": "ju",
+      "tone": 4,
+      "meaning": "Tool",
+      "story": "The tool with eyes commands \"Ju!\" sharply to be used!",
+      "primitives": []
+    },
+    {
+      "id": 71,
+      "character": "真",
+      "pinyin": "zhen",
+      "tone": 1,
+      "meaning": "true",
+      "story": "Ten eyes sing \"Zhen!\" happily seeing the truth!",
+      "primitives": []
+    },
+    {
+      "id": 72,
+      "character": "工",
+      "pinyin": "gong",
+      "tone": 1,
+      "meaning": "the Work",
+      "story": "The work sings \"Gong!\" cheerfully as beams hold high!",
+      "primitives": []
+    },
+    {
       "id": 73,
       "character": "左",
       "pinyin": "zuo",

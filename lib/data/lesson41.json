@@ -2,165 +2,219 @@
   "lesson": 41,
   "characters": [
     {
-      "id": 721,
-      "character": "透",
-      "pinyin": "tou",
-      "tone": 4,
-      "meaning": "to penetrate",
-      "story": "To penetrate walk elegant yells \"Toe!\" sharply piercing!",
-      "primitives": []
-    },
-    {
-      "id": 722,
-      "character": "誘",
-      "pinyin": "you",
-      "tone": 4,
-      "meaning": "to entice",
-      "story": "To entice words penetrate commands \"Yo!\" sharply tempting!",
-      "primitives": []
-    },
-    {
-      "id": 723,
-      "character": "歷",
-      "pinyin": "li",
-      "tone": 4,
-      "meaning": "Experience",
-      "story": "Experience cliff rice commands \"Lee!\" sharply undergone!",
-      "primitives": []
-    },
-    {
-      "id": 724,
-      "character": "米",
-      "pinyin": "mi",
-      "tone": 3,
-      "meaning": "Rice",
-      "story": "Rice bends down drooping saying \"Mee\"!",
-      "primitives": []
-    },
-    {
-      "id": 725,
-      "character": "迷",
-      "pinyin": "mi",
+      "id": 1201,
+      "character": "門",
+      "pinyin": "men",
       "tone": 2,
-      "meaning": "lost",
-      "story": "Lost walk rice questions \"Mee? Where am I?\" curiously!",
+      "meaning": "Gate",
+      "story": "Gate two doors question \"Muhn? Entrance?\" curiously - opening portal!",
       "primitives": []
     },
     {
-      "id": 726,
-      "character": "謎",
-      "pinyin": "mi",
+      "id": 1202,
+      "character": "們",
+      "pinyin": "men",
+      "tone": 5,
+      "meaning": "[plural]",
+      "story": "Plural marker gate person says \"men\" neutrally - we/they/you all!",
+      "primitives": []
+    },
+    {
+      "id": 1203,
+      "character": "閒",
+      "pinyin": "xian",
       "tone": 2,
-      "meaning": "Riddle",
-      "story": "Riddle words lost questions \"Mee? What answer?\" curiously!",
+      "meaning": "Leisure",
+      "story": "Leisure gate tree questions \"Shyan? Idle?\" curiously - unoccupied free time!",
       "primitives": []
     },
     {
-      "id": 727,
-      "character": "類",
-      "pinyin": "lei",
+      "id": 1204,
+      "character": "問",
+      "pinyin": "wen",
       "tone": 4,
-      "meaning": "the Kind",
-      "story": "The kind rice head dog commands \"Lay!\" sharply categorized!",
+      "meaning": "to ask",
+      "story": "To ask gate mouth commands sharply \"Wuhn!\" - inquire after!",
       "primitives": []
     },
     {
-      "id": 728,
-      "character": "竹",
-      "pinyin": "zhu",
-      "tone": 2,
-      "meaning": "Bamboo",
-      "story": "Bamboo questions \"Zhoo? Growing?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 729,
-      "character": "笑",
-      "pinyin": "xiao",
-      "tone": 4,
-      "meaning": "to laugh",
-      "story": "To laugh bamboo young commands \"Shyao!\" sharply giggling!",
-      "primitives": []
-    },
-    {
-      "id": 730,
-      "character": "箱",
-      "pinyin": "xiang",
+      "id": 1205,
+      "character": "間",
+      "pinyin": "jian",
       "tone": 1,
-      "meaning": "Box",
-      "story": "A box bamboo fragrance sings \"Shyang!\" cheerfully stored!",
+      "meaning": "Interval",
+      "story": "Interval gate sun sings \"Jyan!\" cheerfully - space between place!",
       "primitives": []
     },
     {
-      "id": 731,
-      "character": "筆",
-      "pinyin": "bi",
+      "id": 1206,
+      "character": "簡",
+      "pinyin": "jian",
       "tone": 3,
-      "meaning": "Pen",
-      "story": "A pen bamboo hand bends down drooping saying \"Bee\"!",
+      "meaning": "simple",
+      "story": "Simple bamboo interval bends down drooping \"Jyan\" - terse and succinct!",
       "primitives": []
     },
     {
-      "id": 732,
-      "character": "等",
-      "pinyin": "deng",
+      "id": 1207,
+      "character": "開",
+      "pinyin": "kai",
+      "tone": 1,
+      "meaning": "to open",
+      "story": "To open gate two hands sings \"Kigh!\" cheerfully - operate and start!",
+      "primitives": []
+    },
+    {
+      "id": 1208,
+      "character": "聞",
+      "pinyin": "wen",
+      "tone": 2,
+      "meaning": "to hear",
+      "story": "To hear gate ear questions \"Wuhn? Sniffing?\" curiously - listening!",
+      "primitives": []
+    },
+    {
+      "id": 1209,
+      "character": "倉",
+      "pinyin": "cang",
+      "tone": 1,
+      "meaning": "Storehouse",
+      "story": "Storehouse cliff mouth sings \"Tsahng!\" cheerfully - granary and barn godown!",
+      "primitives": []
+    },
+    {
+      "id": 1210,
+      "character": "槍",
+      "pinyin": "qiang",
+      "tone": 1,
+      "meaning": "Gun",
+      "story": "Gun tree storehouse sings \"Chyahng!\" cheerfully - firearm and lance!",
+      "primitives": []
+    },
+    {
+      "id": 1211,
+      "character": "創",
+      "pinyin": "chuang",
+      "tone": 4,
+      "meaning": "to initiate",
+      "story": "To initiate storehouse sword commands sharply \"Chwahng!\" - begin genesis!",
+      "primitives": []
+    },
+    {
+      "id": 1212,
+      "character": "非",
+      "pinyin": "fei",
+      "tone": 1,
+      "meaning": "non—",
+      "story": "Non— wings diverge singing \"Fay!\" cheerfully - negative and un— wrong!",
+      "primitives": []
+    },
+    {
+      "id": 1213,
+      "character": "排",
+      "pinyin": "pai",
+      "tone": 2,
+      "meaning": "Row",
+      "story": "Row hand non questions \"Pigh? Line?\" curiously - rank repudiate!",
+      "primitives": []
+    },
+    {
+      "id": 1214,
+      "character": "罪",
+      "pinyin": "zui",
+      "tone": 4,
+      "meaning": "Guilt",
+      "story": "Guilt net non commands sharply \"Dzway!\" - crime and blame sin!",
+      "primitives": []
+    },
+    {
+      "id": 1215,
+      "character": "靠",
+      "pinyin": "kao",
+      "tone": 4,
+      "meaning": "to lean on",
+      "story": "To lean on suit non commands sharply \"Cow!\" - depend upon near support!",
+      "primitives": []
+    },
+    {
+      "id": 1216,
+      "character": "侯",
+      "pinyin": "hou",
+      "tone": 2,
+      "meaning": "Marquis",
+      "story": "Marquis person arrow questions \"Ho? Lord?\" curiously - archery target!",
+      "primitives": []
+    },
+    {
+      "id": 1217,
+      "character": "候",
+      "pinyin": "hou",
+      "tone": 4,
+      "meaning": "to wait",
+      "story": "To wait marquis walking commands sharply \"Ho!\" - expect climate!",
+      "primitives": []
+    },
+    {
+      "id": 1218,
+      "character": "決",
+      "pinyin": "jue",
+      "tone": 2,
+      "meaning": "to decide",
+      "story": "To decide water husband questions \"Jyueh? Determining?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1219,
+      "character": "快",
+      "pinyin": "kuai",
+      "tone": 4,
+      "meaning": "fast",
+      "story": "Fast heart decide commands sharply \"Kwigh!\" - quick swift cheerful!",
+      "primitives": []
+    },
+    {
+      "id": 1220,
+      "character": "筷",
+      "pinyin": "kuai",
+      "tone": 4,
+      "meaning": "Chopsticks",
+      "story": "Chopsticks bamboo fast commands sharply \"Kwigh!\" - eating utensils!",
+      "primitives": []
+    },
+    {
+      "id": 1221,
+      "character": "韋",
+      "pinyin": "wei",
+      "tone": 2,
+      "meaning": "Tanned Hide",
+      "story": "Tanned hide soft leather questions \"Way? Skin?\" curiously processed!",
+      "primitives": []
+    },
+    {
+      "id": 1222,
+      "character": "圍",
+      "pinyin": "wei",
+      "tone": 2,
+      "meaning": "to surround",
+      "story": "To surround enclosure hide questions \"Way? Circle?\" curiously - corral!",
+      "primitives": []
+    },
+    {
+      "id": 1223,
+      "character": "偉",
+      "pinyin": "wei",
       "tone": 3,
-      "meaning": "etc.",
-      "story": "Etc. bamboo temple bends down drooping saying \"Dung\"!",
+      "meaning": "great",
+      "story": "Great person hide bends down drooping \"Way\" - big and admirable!",
       "primitives": []
     },
     {
-      "id": 733,
-      "character": "算",
-      "pinyin": "suan",
+      "id": 1224,
+      "character": "衛",
+      "pinyin": "wei",
       "tone": 4,
-      "meaning": "to calculate",
-      "story": "To calculate bamboo eyes commands \"Swan!\" sharply computing!",
-      "primitives": []
-    },
-    {
-      "id": 734,
-      "character": "答",
-      "pinyin": "da",
-      "tone": 2,
-      "meaning": "to answer",
-      "story": "To answer bamboo fit questions \"Da? Reply?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 735,
-      "character": "策",
-      "pinyin": "ce",
-      "tone": 4,
-      "meaning": "Strategy",
-      "story": "Strategy bamboo tree commands \"Tsuh!\" sharply planning!",
-      "primitives": []
-    },
-    {
-      "id": 736,
-      "character": "人",
-      "pinyin": "ren",
-      "tone": 2,
-      "meaning": "Person",
-      "story": "A person questions \"Ren? Who?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 737,
-      "character": "囚",
-      "pinyin": "qiu",
-      "tone": 2,
-      "meaning": "Prisoner",
-      "story": "A prisoner person trapped questions \"Chyo? Release?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 738,
-      "character": "份",
-      "pinyin": "fen",
-      "tone": 4,
-      "meaning": "Portion",
-      "story": "Portion person part commands \"Fen!\" sharply shared!",
+      "meaning": "to defend",
+      "story": "To defend march hide commands sharply \"Way!\" - guard protect defense!",
       "primitives": []
     }
   ]

@@ -2,165 +2,75 @@
   "lesson": 64,
   "characters": [
     {
-      "id": 1134,
-      "character": "熱",
-      "pinyin": "re",
-      "tone": 4,
-      "meaning": "Heat",
-      "story": "Heat force fire commands \"Ruh!\" sharply - fervent and hot weather!",
-      "primitives": []
-    },
-    {
-      "id": 1135,
-      "character": "藝",
-      "pinyin": "yi",
-      "tone": 4,
-      "meaning": "Technique",
-      "story": "Technique grass cloud person yells \"Yi!\" sharply - skillful art!",
-      "primitives": []
-    },
-    {
-      "id": 1136,
-      "character": "亥",
-      "pinyin": "hai",
-      "tone": 4,
-      "meaning": "Sign Of The Hog",
-      "story": "Sign of the hog at 9pm commands \"Hai!\" sharply - 12th earthly branch pig!",
-      "primitives": []
-    },
-    {
-      "id": 1137,
-      "character": "核",
-      "pinyin": "he",
-      "tone": 2,
-      "meaning": "Nucleus",
-      "story": "Nucleus tree hog questions \"Huh? Center?\" curiously - atomic core!",
-      "primitives": []
-    },
-    {
-      "id": 1138,
-      "character": "孩",
-      "pinyin": "hai",
-      "tone": 2,
-      "meaning": "Tot",
-      "story": "A tot child hog questions \"Hai? Little one?\" curiously young!",
-      "primitives": []
-    },
-    {
-      "id": 1139,
-      "character": "刻",
-      "pinyin": "ke",
-      "tone": 4,
-      "meaning": "to carve",
-      "story": "To carve hog knife commands \"Kuh!\" sharply - engraving quarter-hours!",
-      "primitives": []
-    },
-    {
-      "id": 1140,
-      "character": "該",
-      "pinyin": "gai",
-      "tone": 1,
-      "meaning": "should",
-      "story": "Should words carve sing \"Gai!\" cheerfully - ought to as above-stated!",
-      "primitives": []
-    },
-    {
-      "id": 1141,
-      "character": "述",
-      "pinyin": "shu",
-      "tone": 4,
-      "meaning": "to narrate",
-      "story": "To narrate walk hog commands \"Shoo!\" sharply - telling and relating!",
-      "primitives": []
-    },
-    {
-      "id": 1142,
-      "character": "術",
-      "pinyin": "shu",
-      "tone": 4,
-      "meaning": "Art",
-      "story": "Art go narrate yells \"Shoo!\" sharply - skillful method and technique!",
-      "primitives": []
-    },
-    {
-      "id": 1143,
-      "character": "殺",
-      "pinyin": "sha",
-      "tone": 1,
-      "meaning": "to kill",
-      "story": "To kill tree art sings \"Sha!\" darkly - murdering and slaughtering!",
-      "primitives": []
-    },
-    {
-      "id": 1144,
-      "character": "襄",
-      "pinyin": "xiang",
-      "tone": 1,
-      "meaning": "to aid",
-      "story": "To aid clothes high sings \"Shyang!\" cheerfully assisting!",
-      "primitives": []
-    },
-    {
-      "id": 1145,
-      "character": "讓",
-      "pinyin": "rang",
-      "tone": 4,
-      "meaning": "to yield",
-      "story": "To yield words aid commands \"Rang!\" sharply - allowing and permitting!",
-      "primitives": []
-    },
-    {
-      "id": 1146,
-      "character": "壤",
-      "pinyin": "rang",
+      "id": 1534,
+      "character": "哩",
+      "pinyin": "li",
       "tone": 3,
-      "meaning": "Territory",
-      "story": "Territory earth yield bends down drooping saying \"Rang\" - soil and lot!",
+      "meaning": "mile",
+      "story": "Mile mouth inside bends down drooping \"Lee\" - distance measure!",
       "primitives": []
     },
     {
-      "id": 1147,
-      "character": "寒",
-      "pinyin": "han",
-      "tone": 2,
-      "meaning": "frigid",
-      "story": "Frigid house territory questions \"Han? Cold?\" curiously trembling poor!",
+      "id": 1535,
+      "character": "鯉",
+      "pinyin": "li",
+      "tone": 3,
+      "meaning": "carp",
+      "story": "Carp fish inside bends down drooping \"Lee\" - koi fish!",
       "primitives": []
     },
     {
-      "id": 1148,
-      "character": "賽",
-      "pinyin": "sai",
-      "tone": 4,
-      "meaning": "Competition",
-      "story": "Competition shellfish frigid commands \"Sai!\" sharply - match to compete!",
-      "primitives": []
-    },
-    {
-      "id": 1149,
-      "character": "毒",
-      "pinyin": "du",
-      "tone": 2,
-      "meaning": "a Poison",
-      "story": "A poison mother living questions \"Doo? Venom?\" curiously toxic!",
-      "primitives": []
-    },
-    {
-      "id": 1150,
-      "character": "素",
-      "pinyin": "su",
-      "tone": 4,
-      "meaning": "Vegetarian Diet",
-      "story": "Vegetarian diet threads ten commands sharply \"Soo!\" at the table - plain and meatless!",
-      "primitives": []
-    },
-    {
-      "id": 1151,
-      "character": "青",
-      "pinyin": "qing",
+      "id": 1536,
+      "character": "嘿",
+      "pinyin": "hei",
       "tone": 1,
-      "meaning": "blue or green",
-      "story": "Blue or green life moon sings \"Ching!\" cheerfully - azure and verdant colors!",
+      "meaning": "Hey!",
+      "story": "Hey mouth black sings \"Hay!\" cheerfully - exclamation!",
+      "primitives": []
+    },
+    {
+      "id": 1537,
+      "character": "丹",
+      "pinyin": "dan",
+      "tone": 1,
+      "meaning": "cinnabar red",
+      "story": "Cinnabar red pellet sings \"Dahn!\" cheerfully - vermillion!",
+      "primitives": []
+    },
+    {
+      "id": 1538,
+      "character": "喧",
+      "pinyin": "xuan",
+      "tone": 1,
+      "meaning": "boisterous",
+      "story": "Boisterous mouth proclaim sings \"Shyuan!\" cheerfully - loud clamorous!",
+      "primitives": []
+    },
+    {
+      "id": 1539,
+      "character": "賓",
+      "pinyin": "bin",
+      "tone": 1,
+      "meaning": "visitor",
+      "story": "Visitor roof shellfish sings \"Bin!\" cheerfully - guest!",
+      "primitives": []
+    },
+    {
+      "id": 1540,
+      "character": "濱",
+      "pinyin": "bin",
+      "tone": 1,
+      "meaning": "water's edge",
+      "story": "Water's edge water visitor sings \"Bin!\" cheerfully - shore bank!",
+      "primitives": []
+    },
+    {
+      "id": 1541,
+      "character": "寡",
+      "pinyin": "gua",
+      "tone": 3,
+      "meaning": "widowed",
+      "story": "Widowed house divide bends down drooping \"Gwah\" - alone bereaved!",
       "primitives": []
     }
   ]

@@ -2,165 +2,111 @@
   "lesson": 49,
   "characters": [
     {
-      "id": 865,
-      "character": "乍",
-      "pinyin": "zha",
+      "id": 1345,
+      "character": "段",
+      "pinyin": "duan",
       "tone": 4,
-      "meaning": "for the first time",
-      "story": "For the first time commands \"Zha!\" sharply initially!",
+      "meaning": "Section",
+      "story": "Section two daggers commands sharply \"Dwahn!\" - paragraph segment grade!",
       "primitives": []
     },
     {
-      "id": 866,
-      "character": "怎",
-      "pinyin": "zen",
-      "tone": 3,
-      "meaning": "how?",
-      "story": "How for first time heart bends down drooping saying \"Zen\"!",
-      "primitives": []
-    },
-    {
-      "id": 867,
-      "character": "昨",
-      "pinyin": "zuo",
-      "tone": 2,
-      "meaning": "Yesterday",
-      "story": "Yesterday sun first time questions \"Zwoh? Past?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 868,
-      "character": "作",
-      "pinyin": "zuo",
+      "id": 1346,
+      "character": "鍛",
+      "pinyin": "duan",
       "tone": 4,
-      "meaning": "to do",
-      "story": "To do person first time commands \"Zwoh!\" sharply making!",
+      "meaning": "to forge",
+      "story": "To forge metal section commands sharply \"Dwahn!\" - temper wrought!",
       "primitives": []
     },
     {
-      "id": 869,
-      "character": "雪",
-      "pinyin": "xue",
-      "tone": 3,
-      "meaning": "the Snow",
-      "story": "The snow rain broom bends down drooping saying \"Shueh\"!",
-      "primitives": []
-    },
-    {
-      "id": 870,
-      "character": "急",
-      "pinyin": "ji",
-      "tone": 2,
-      "meaning": "anxious",
-      "story": "Anxious reach heart questions \"Ji? Worried?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 871,
-      "character": "尋",
-      "pinyin": "xun",
-      "tone": 2,
-      "meaning": "to seek",
-      "story": "To seek roof claw inch questions \"Shun? Looking for?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 872,
-      "character": "婦",
-      "pinyin": "fu",
+      "id": 1347,
+      "character": "幻",
+      "pinyin": "huan",
       "tone": 4,
-      "meaning": "Married Woman",
-      "story": "Married woman woman broom commands \"Foo!\" sharply wife!",
+      "meaning": "unreal",
+      "story": "Unreal cocoon short commands sharply \"Hwahn!\" - fantasy illusion phantasm!",
       "primitives": []
     },
     {
-      "id": 873,
-      "character": "掃",
-      "pinyin": "sao",
-      "tone": 3,
-      "meaning": "to sweep",
-      "story": "To sweep hand broom bends down drooping saying \"Sao\"!",
-      "primitives": []
-    },
-    {
-      "id": 874,
-      "character": "錄",
-      "pinyin": "lu",
-      "tone": 4,
-      "meaning": "to record",
-      "story": "To record gold broom commands \"Loo!\" sharply documenting!",
-      "primitives": []
-    },
-    {
-      "id": 875,
-      "character": "碌",
-      "pinyin": "lu",
-      "tone": 4,
-      "meaning": "commonplace",
-      "story": "Commonplace stone record yells \"Loo!\" sharply ordinary!",
-      "primitives": []
-    },
-    {
-      "id": 876,
-      "character": "爭",
-      "pinyin": "zheng",
+      "id": 1348,
+      "character": "司",
+      "pinyin": "si",
       "tone": 1,
-      "meaning": "to contend",
-      "story": "To contend claw hand sings \"Zheng!\" cheerfully fighting!",
+      "meaning": "to take charge of",
+      "story": "To take charge of one mouth sings \"Suh!\" cheerfully - control manage director!",
       "primitives": []
     },
     {
-      "id": 877,
-      "character": "淨",
-      "pinyin": "jing",
-      "tone": 4,
-      "meaning": "clean",
-      "story": "Clean water contend commands \"Jing!\" sharply purified!",
-      "primitives": []
-    },
-    {
-      "id": 878,
-      "character": "事",
-      "pinyin": "shi",
-      "tone": 4,
-      "meaning": "Matter",
-      "story": "Matter hand one commands \"Shi!\" sharply affair!",
-      "primitives": []
-    },
-    {
-      "id": 879,
-      "character": "唐",
-      "pinyin": "tang",
+      "id": 1349,
+      "character": "詞",
+      "pinyin": "ci",
       "tone": 2,
-      "meaning": "Tang",
-      "story": "Tang wide mouth questions \"Tang? Dynasty?\" curiously!",
+      "meaning": "Word",
+      "story": "Word say director questions \"Tsuh? Phrase?\" curiously - expression parts of speech!",
       "primitives": []
     },
     {
-      "id": 880,
-      "character": "糖",
-      "pinyin": "tang",
-      "tone": 2,
-      "meaning": "Sugar",
-      "story": "Sugar rice Tang questions \"Tang? Sweet?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 881,
-      "character": "康",
-      "pinyin": "kang",
+      "id": 1350,
+      "character": "舟",
+      "pinyin": "zhou",
       "tone": 1,
-      "meaning": "hale",
-      "story": "Hale roof grain sings \"Kang!\" cheerfully healthy!",
+      "meaning": "Boat",
+      "story": "Boat hull sings \"Joh!\" cheerfully - floating vessel!",
       "primitives": []
     },
     {
-      "id": 882,
-      "character": "尹",
-      "pinyin": "yin",
-      "tone": 3,
-      "meaning": "Overseer",
-      "story": "Overseer hand bends down drooping saying \"Yin\"!",
+      "id": 1351,
+      "character": "船",
+      "pinyin": "chuan",
+      "tone": 2,
+      "meaning": "Ship",
+      "story": "Ship boat marsh questions \"Chwahn? Vessel?\" curiously - sailing!",
+      "primitives": []
+    },
+    {
+      "id": 1352,
+      "character": "般",
+      "pinyin": "ban",
+      "tone": 1,
+      "meaning": "the Sort",
+      "story": "The sort boat boat sings \"Bahn!\" cheerfully - kind class carrier!",
+      "primitives": []
+    },
+    {
+      "id": 1353,
+      "character": "盤",
+      "pinyin": "pan",
+      "tone": 2,
+      "meaning": "Tray",
+      "story": "Tray dish sort questions \"Pahn? Plate?\" curiously - serving!",
+      "primitives": []
+    },
+    {
+      "id": 1354,
+      "character": "搬",
+      "pinyin": "ban",
+      "tone": 1,
+      "meaning": "to relocate",
+      "story": "To relocate hand sort sings \"Bahn!\" cheerfully - move shift transfer conveyor!",
+      "primitives": []
+    },
+    {
+      "id": 1355,
+      "character": "瓜",
+      "pinyin": "gua",
+      "tone": 1,
+      "meaning": "Melon",
+      "story": "Melon hanging fruit sings \"Gwah!\" cheerfully - gourd squash!",
+      "primitives": []
+    },
+    {
+      "id": 1356,
+      "character": "孤",
+      "pinyin": "gu",
+      "tone": 1,
+      "meaning": "Orphan",
+      "story": "Orphan child melon sings \"Goo!\" cheerfully - lone and lonely!",
       "primitives": []
     }
   ]

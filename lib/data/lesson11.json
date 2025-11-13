@@ -2,165 +2,165 @@
   "lesson": 11,
   "characters": [
     {
-      "id": 181,
-      "character": "守",
-      "pinyin": "shou",
+      "id": 223,
+      "character": "兆",
+      "pinyin": "zhao",
+      "tone": 4,
+      "meaning": "Portent",
+      "story": "A portent divination commands \"Zhao!\" sharply foretelling!",
+      "primitives": []
+    },
+    {
+      "id": 224,
+      "character": "桃",
+      "pinyin": "tao",
+      "tone": 2,
+      "meaning": "peach",
+      "story": "A peach tree portent questions \"Tao? When ripe?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 225,
+      "character": "犬",
+      "pinyin": "quan",
       "tone": 3,
-      "meaning": "to guard",
-      "story": "To guard house with inch bends down drooping saying \"Sho\"!",
+      "meaning": "Pooch",
+      "story": "A pooch dog bends down drooping saying \"Chuan\"!",
       "primitives": []
     },
     {
-      "id": 182,
-      "character": "完",
-      "pinyin": "wan",
+      "id": 226,
+      "character": "尤",
+      "pinyin": "you",
       "tone": 2,
-      "meaning": "to finish",
-      "story": "To finish beginning in house questions \"Wan? Is it done?\" curiously!",
+      "meaning": "remarkable",
+      "story": "Remarkable outstanding person questions \"Yo? Really?\" curiously!",
       "primitives": []
     },
     {
-      "id": 183,
-      "character": "實",
-      "pinyin": "shi",
+      "id": 227,
+      "character": "默",
+      "pinyin": "mo",
+      "tone": 4,
+      "meaning": "silence",
+      "story": "Silence of black dog commands \"Mwoh!\" sharply quiet!",
+      "primitives": []
+    },
+    {
+      "id": 228,
+      "character": "然",
+      "pinyin": "ran",
       "tone": 2,
-      "meaning": "reality",
-      "story": "Reality pierces through house roof, questioning \"Shi? Is it real?\" curiously!",
+      "meaning": "sort of thing",
+      "story": "Sort of thing with flesh fire questions \"Ran? Is it so?\" curiously!",
       "primitives": []
     },
     {
-      "id": 184,
-      "character": "宣",
-      "pinyin": "xuan",
-      "tone": 1,
-      "meaning": "to proclaim",
-      "story": "To proclaim in house sings \"Shuan!\" cheerfully announcing!",
-      "primitives": []
-    },
-    {
-      "id": 185,
-      "character": "宵",
-      "pinyin": "xiao",
-      "tone": 1,
-      "meaning": "Nighttime",
-      "story": "Nighttime house evening sings \"Shyao!\" happily dark!",
-      "primitives": []
-    },
-    {
-      "id": 186,
-      "character": "安",
-      "pinyin": "an",
-      "tone": 1,
-      "meaning": "peaceful",
-      "story": "A peaceful woman in house sings \"An!\" cheerfully and calm!",
-      "primitives": []
-    },
-    {
-      "id": 187,
-      "character": "宴",
-      "pinyin": "yan",
-      "tone": 4,
-      "meaning": "Banquet",
-      "story": "A banquet house with sun women yells \"Yan!\" sharply feasting!",
-      "primitives": []
-    },
-    {
-      "id": 188,
-      "character": "寄",
-      "pinyin": "ji",
-      "tone": 4,
-      "meaning": "to mail",
-      "story": "To mail peculiar things from house commands \"Ji!\" sharply sending!",
-      "primitives": []
-    },
-    {
-      "id": 189,
-      "character": "富",
-      "pinyin": "fu",
-      "tone": 4,
-      "meaning": "wealthy",
-      "story": "A wealthy house with field above commands \"Fu!\" sharply abundant!",
-      "primitives": []
-    },
-    {
-      "id": 190,
-      "character": "貯",
-      "pinyin": "zhu",
-      "tone": 4,
-      "meaning": "to store up",
-      "story": "To store up master shellfish in house yells \"Zhu!\" sharply saving!",
-      "primitives": []
-    },
-    {
-      "id": 191,
-      "character": "木",
-      "pinyin": "mu",
-      "tone": 4,
-      "meaning": "Tree",
-      "story": "A tree stands tall, commanding \"Moo!\" sharply with branches!",
-      "primitives": []
-    },
-    {
-      "id": 192,
-      "character": "林",
-      "pinyin": "lin",
-      "tone": 2,
-      "meaning": "Woods",
-      "story": "Woods of two trees question \"Lin? Why so many?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 193,
-      "character": "森",
-      "pinyin": "sen",
-      "tone": 1,
-      "meaning": "Forest",
-      "story": "A forest of three trees sings \"Sen!\" cheerfully dense!",
-      "primitives": []
-    },
-    {
-      "id": 194,
-      "character": "植",
-      "pinyin": "zhi",
-      "tone": 2,
-      "meaning": "to plant",
-      "story": "To plant trees straight questions \"Zhi? Where to grow?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 195,
-      "character": "杏",
-      "pinyin": "xing",
-      "tone": 4,
-      "meaning": "Apricot",
-      "story": "An apricot tree mouth commands \"Shing!\" sharply ripening!",
-      "primitives": []
-    },
-    {
-      "id": 196,
-      "character": "呆",
-      "pinyin": "dai",
-      "tone": 1,
-      "meaning": "dim-witted",
-      "story": "A dim-witted person with wood mouth sings \"Dai!\" stupidly happy!",
-      "primitives": []
-    },
-    {
-      "id": 197,
-      "character": "枯",
+      "id": 229,
+      "character": "哭",
       "pinyin": "ku",
       "tone": 1,
-      "meaning": "withered",
-      "story": "A withered tree with ancient wood sings \"Koo!\" sadly high!",
+      "meaning": "to cry",
+      "story": "To cry with two dogs mouth sings \"Koo!\" sadly high!",
       "primitives": []
     },
     {
-      "id": 198,
-      "character": "村",
-      "pinyin": "cun",
+      "id": 230,
+      "character": "器",
+      "pinyin": "qi",
+      "tone": 4,
+      "meaning": "Utensil",
+      "story": "A utensil of four dogs and one mouth yells \"Chi!\" sharply used!",
+      "primitives": []
+    },
+    {
+      "id": 231,
+      "character": "臭",
+      "pinyin": "chou",
+      "tone": 4,
+      "meaning": "stinking",
+      "story": "Stinking nose and dog command \"Cho!\" sharply smelly!",
+      "primitives": []
+    },
+    {
+      "id": 232,
+      "character": "狗",
+      "pinyin": "gou",
+      "tone": 3,
+      "meaning": "Dog",
+      "story": "A dog pooch bends down drooping saying \"Go\"!",
+      "primitives": []
+    },
+    {
+      "id": 233,
+      "character": "厭",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "to detest",
+      "story": "To detest detested dog cliff yells \"Yan!\" sharply hating!",
+      "primitives": []
+    },
+    {
+      "id": 234,
+      "character": "壓",
+      "pinyin": "ya",
       "tone": 1,
-      "meaning": "Village",
-      "story": "A village of trees and inches sings \"Tsun!\" cheerfully together!",
+      "meaning": "pressure",
+      "story": "Pressure of cliff dog singing \"Ya!\" happily squashing!",
+      "primitives": []
+    },
+    {
+      "id": 235,
+      "character": "牛",
+      "pinyin": "niu",
+      "tone": 2,
+      "meaning": "Cow",
+      "story": "A cow with horns questions \"Nyo? Moo?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 236,
+      "character": "特",
+      "pinyin": "te",
+      "tone": 4,
+      "meaning": "special",
+      "story": "A special cow at temple commands \"Tuh!\" sharply unique!",
+      "primitives": []
+    },
+    {
+      "id": 237,
+      "character": "告",
+      "pinyin": "gao",
+      "tone": 4,
+      "meaning": "to declare",
+      "story": "To declare with cow mouth yells \"Gao!\" sharply announcing!",
+      "primitives": []
+    },
+    {
+      "id": 238,
+      "character": "浩",
+      "pinyin": "hao",
+      "tone": 4,
+      "meaning": "vast",
+      "story": "Vast water told commands \"Hao!\" sharply expanding!",
+      "primitives": []
+    },
+    {
+      "id": 239,
+      "character": "先",
+      "pinyin": "xian",
+      "tone": 1,
+      "meaning": "before",
+      "story": "Before legs sing \"Shian!\" cheerfully ahead!",
+      "primitives": []
+    },
+    {
+      "id": 240,
+      "character": "洗",
+      "pinyin": "xi",
+      "tone": 3,
+      "meaning": "to wash",
+      "story": "To wash before water bends down drooping saying \"Shee\"!",
       "primitives": []
     }
   ]

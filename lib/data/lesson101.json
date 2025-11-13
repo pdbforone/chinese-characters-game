@@ -2,165 +2,165 @@
   "lesson": 101,
   "characters": [
     {
-      "id": 1800,
-      "character": "拇",
-      "pinyin": "mu",
-      "tone": 3,
-      "meaning": "thumb",
-      "story": "Thumb fingers mother bends down drooping \"Moo\" - big finger!",
-      "primitives": []
-    },
-    {
-      "id": 1801,
-      "character": "拘",
-      "pinyin": "ju",
-      "tone": 1,
-      "meaning": "detain",
-      "story": "Detain fingers sentence sings \"Jyoo!\" cheerfully - arrest confine!",
-      "primitives": []
-    },
-    {
-      "id": 1802,
-      "character": "抄",
-      "pinyin": "chao",
-      "tone": 1,
-      "meaning": "copy",
-      "story": "Copy hand few sings \"Chao!\" cheerfully - transcribe surround!",
-      "primitives": []
-    },
-    {
-      "id": 1803,
-      "character": "拓",
-      "pinyin": "ta",
-      "tone": 4,
-      "meaning": "pioneer",
-      "story": "Pioneer hand stone commands sharply \"Tah!\" - develop expand!",
-      "primitives": []
-    },
-    {
-      "id": 1804,
-      "character": "捏",
-      "pinyin": "nie",
-      "tone": 1,
-      "meaning": "pinch",
-      "story": "Pinch hand crotch sings \"Nyeh!\" cheerfully - squeeze coy!",
-      "primitives": []
-    },
-    {
-      "id": 1805,
-      "character": "撓",
-      "pinyin": "nao",
+      "id": 2688,
+      "character": "叢",
+      "pinyin": "cong",
       "tone": 2,
-      "meaning": "chafe",
-      "story": "Chafe fingers pigpen questions \"Nao? Scratch?\" curiously - irritate!",
+      "meaning": "thicket",
+      "story": "\"TSUNG?\" the side by side and soil question curiously - a thicket, jungle cluster?",
       "primitives": []
     },
     {
-      "id": 1806,
-      "character": "抹",
-      "pinyin": "mo",
+      "id": 2689,
+      "character": "樸",
+      "pinyin": "pu",
       "tone": 3,
-      "meaning": "smear on",
-      "story": "Smear on hand end bends down drooping \"Mwoh\" - wipe apply poison!",
+      "meaning": "plain",
+      "story": "\"POO?\" the tree and yoga question curiously - plain, simple and unadorned?",
       "primitives": []
     },
     {
-      "id": 1807,
-      "character": "描",
-      "pinyin": "miao",
+      "id": 2690,
+      "character": "撲",
+      "pinyin": "pu",
+      "tone": 1,
+      "meaning": "pounce on",
+      "story": "\"POO!\" the fingers and yoga sing cheerfully - to pounce on, attack and extinguish fire!",
+      "primitives": []
+    },
+    {
+      "id": 2691,
+      "character": "僕",
+      "pinyin": "pu",
       "tone": 2,
-      "meaning": "describe",
-      "story": "Describe hand seedling questions \"Myao? Draw?\" curiously - sketch scan!",
+      "meaning": "servant",
+      "story": "\"POO?\" the person questions curiously - a servant, attendant and butler?",
       "primitives": []
     },
     {
-      "id": 1808,
-      "character": "摸",
-      "pinyin": "mo",
+      "id": 2692,
+      "character": "譜",
+      "pinyin": "pu",
+      "tone": 3,
+      "meaning": "musical score",
+      "story": "The words bend down drooping - a musical score, notation and spectrum!",
+      "primitives": []
+    },
+    {
+      "id": 2693,
+      "character": "哄",
+      "pinyin": "hong",
       "tone": 1,
-      "meaning": "grope",
-      "story": "Grope hand graveyard sings \"Mwo!\" cheerfully - feel touch!",
+      "meaning": "fool",
+      "story": "\"HUNG!\" the mouth and together sing cheerfully - to fool, coax and deceive!",
       "primitives": []
     },
     {
-      "id": 1809,
-      "character": "挑",
-      "pinyin": "tiao",
-      "tone": 1,
-      "meaning": "foment",
-      "story": "Foment hand tall sings \"Tyao!\" cheerfully - provoke carry!",
-      "primitives": []
-    },
-    {
-      "id": 1810,
-      "character": "拴",
-      "pinyin": "shuan",
-      "tone": 1,
-      "meaning": "tether",
-      "story": "Tether fingers whole sings \"Shwahn!\" cheerfully - tie fasten!",
-      "primitives": []
-    },
-    {
-      "id": 1811,
-      "character": "拾",
-      "pinyin": "shi",
+      "id": 2694,
+      "character": "洪",
+      "pinyin": "hong",
       "tone": 2,
-      "meaning": "tidy up",
-      "story": "Tidy up hand together questions \"Shir? Collect?\" curiously - pick up!",
+      "meaning": "deluge",
+      "story": "\"HUNG?\" the water and together question curiously - a deluge, flood to inundate?",
       "primitives": []
     },
     {
-      "id": 1812,
-      "character": "搭",
-      "pinyin": "da",
+      "id": 2695,
+      "character": "烘",
+      "pinyin": "hong",
       "tone": 1,
-      "meaning": "put up",
-      "story": "Put up hand fit sings \"Dah!\" cheerfully - erect tent build!",
+      "meaning": "warm by a fire",
+      "story": "\"HUNG!\" the fire and together sing cheerfully - to warm by a fire, bake and toast!",
       "primitives": []
     },
     {
-      "id": 1813,
-      "character": "掠",
-      "pinyin": "lüe",
-      "tone": 4,
-      "meaning": "pillage",
-      "story": "Pillage fingers capital commands sharply \"Lyueh!\" - plunder seize!",
-      "primitives": []
-    },
-    {
-      "id": 1814,
-      "character": "捨",
-      "pinyin": "she",
-      "tone": 3,
-      "meaning": "abandon",
-      "story": "Abandon hand abode bends down drooping \"Shuh\" - give up discard!",
-      "primitives": []
-    },
-    {
-      "id": 1815,
-      "character": "拭",
-      "pinyin": "shi",
-      "tone": 4,
-      "meaning": "wipe away",
-      "story": "Wipe away fingers style commands sharply \"Shir!\" - clean dry!",
-      "primitives": []
-    },
-    {
-      "id": 1816,
-      "character": "扯",
-      "pinyin": "che",
-      "tone": 3,
-      "meaning": "yank",
-      "story": "Yank hand halt bends down drooping \"Chuh\" - pull tear!",
-      "primitives": []
-    },
-    {
-      "id": 1817,
-      "character": "拖",
-      "pinyin": "tuo",
+      "id": 2696,
+      "character": "恭",
+      "pinyin": "gong",
       "tone": 1,
-      "meaning": "drag",
-      "story": "Drag hand table sings \"Twoh!\" cheerfully - pull burden children!",
+      "meaning": "respectful",
+      "story": "\"GUNG!\" the heart sings cheerfully - respectful, courteous and polite!",
+      "primitives": []
+    },
+    {
+      "id": 2697,
+      "character": "拱",
+      "pinyin": "gong",
+      "tone": 3,
+      "meaning": "arch",
+      "story": "The fingers and together bend down drooping - to arch, bow like a bridge!",
+      "primitives": []
+    },
+    {
+      "id": 2698,
+      "character": "暴",
+      "pinyin": "bao",
+      "tone": 4,
+      "meaning": "violent",
+      "story": "\"BAO!\" the sun commands sharply - violent, brutal and fierce!",
+      "primitives": []
+    },
+    {
+      "id": 2699,
+      "character": "瀑",
+      "pinyin": "pu",
+      "tone": 4,
+      "meaning": "waterfall",
+      "story": "\"POO!\" the water and violent command sharply - a waterfall, a cascade separating Canada and America!",
+      "primitives": []
+    },
+    {
+      "id": 2700,
+      "character": "爆",
+      "pinyin": "bao",
+      "tone": 4,
+      "meaning": "explode",
+      "story": "\"BAO!\" the fire and violent command sharply - to explode, blast and detonate!",
+      "primitives": []
+    },
+    {
+      "id": 2701,
+      "character": "殿",
+      "pinyin": "dian",
+      "tone": 4,
+      "meaning": "ceremonial hall",
+      "story": "\"DYEN!\" the flag, together and missile command sharply - a ceremonial hall, palace and temple!",
+      "primitives": []
+    },
+    {
+      "id": 2702,
+      "character": "戴",
+      "pinyin": "dai",
+      "tone": 4,
+      "meaning": "have on",
+      "story": "\"DAI!\" he commands sharply - to have on, wear and don!",
+      "primitives": []
+    },
+    {
+      "id": 2703,
+      "character": "翼",
+      "pinyin": "yi",
+      "tone": 4,
+      "meaning": "wings",
+      "story": "\"YEE!\" the different wings command sharply - wings, feathers for the clan!",
+      "primitives": []
+    },
+    {
+      "id": 2704,
+      "character": "糞",
+      "pinyin": "fen",
+      "tone": 4,
+      "meaning": "dung",
+      "story": "\"FUN!\" the rice and different command sharply - dung, manure and fertilizer!",
+      "primitives": []
+    },
+    {
+      "id": 2705,
+      "character": "撰",
+      "pinyin": "zhuan",
+      "tone": 4,
+      "meaning": "compose",
+      "story": "\"JWAN!\" the fingers and two snakeskins and together command sharply - to compose, write and author!",
       "primitives": []
     }
   ]

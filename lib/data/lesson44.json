@@ -2,165 +2,210 @@
   "lesson": 44,
   "characters": [
     {
-      "id": 775,
-      "character": "便",
-      "pinyin": "bian",
-      "tone": 4,
-      "meaning": "convenient",
-      "story": "Convenient person change commands \"Bian!\" sharply handy!",
-      "primitives": []
-    },
-    {
-      "id": 776,
-      "character": "丈",
-      "pinyin": "zhang",
-      "tone": 4,
-      "meaning": "100 Chinese Inches",
-      "story": "100 Chinese inches commands \"Zhang!\" sharply measuring!",
-      "primitives": []
-    },
-    {
-      "id": 777,
-      "character": "使",
-      "pinyin": "shi",
-      "tone": 3,
-      "meaning": "to use",
-      "story": "To use person officer bends down drooping saying \"Shi\"!",
-      "primitives": []
-    },
-    {
-      "id": 778,
-      "character": "久",
-      "pinyin": "jiu",
-      "tone": 3,
-      "meaning": "long time",
-      "story": "Long time person bend down drooping saying \"Jyo\"!",
-      "primitives": []
-    },
-    {
-      "id": 779,
-      "character": "畝",
-      "pinyin": "mu",
-      "tone": 3,
-      "meaning": "Chinese Acre",
-      "story": "Chinese acre field long time bends down drooping saying \"Moo\"!",
-      "primitives": []
-    },
-    {
-      "id": 780,
-      "character": "丙",
-      "pinyin": "bing",
-      "tone": 3,
-      "meaning": "third",
-      "story": "Third one inside bends down drooping saying \"Bing\"!",
-      "primitives": []
-    },
-    {
-      "id": 781,
-      "character": "柄",
-      "pinyin": "bing",
-      "tone": 3,
-      "meaning": "a Handle",
-      "story": "A handle tree third bends down drooping saying \"Bing\"!",
-      "primitives": []
-    },
-    {
-      "id": 782,
-      "character": "肉",
-      "pinyin": "rou",
-      "tone": 4,
-      "meaning": "Meat",
-      "story": "Meat person inside commands \"Ro!\" sharply meaty!",
-      "primitives": []
-    },
-    {
-      "id": 783,
-      "character": "腐",
-      "pinyin": "fu",
-      "tone": 3,
-      "meaning": "rotten",
-      "story": "Rotten meat office bends down drooping saying \"Foo\"!",
-      "primitives": []
-    },
-    {
-      "id": 784,
-      "character": "眾",
-      "pinyin": "zhong",
-      "tone": 4,
-      "meaning": "Multitude",
-      "story": "Multitude three people yell \"Zhong!\" sharply many!",
-      "primitives": []
-    },
-    {
-      "id": 785,
-      "character": "坐",
-      "pinyin": "zuo",
-      "tone": 4,
-      "meaning": "to sit",
-      "story": "To sit two people earth commands \"Zwoh!\" sharply seated!",
-      "primitives": []
-    },
-    {
-      "id": 786,
-      "character": "座",
-      "pinyin": "zuo",
-      "tone": 4,
-      "meaning": "Seat",
-      "story": "A seat building sit yells \"Zwoh!\" sharply positioned!",
-      "primitives": []
-    },
-    {
-      "id": 787,
-      "character": "檢",
-      "pinyin": "jian",
-      "tone": 3,
-      "meaning": "to examine",
-      "story": "To examine tree check bends down drooping saying \"Jian\"!",
-      "primitives": []
-    },
-    {
-      "id": 788,
-      "character": "臉",
-      "pinyin": "lian",
-      "tone": 3,
-      "meaning": "a Face",
-      "story": "A face flesh check bends down drooping saying \"Lian\"!",
-      "primitives": []
-    },
-    {
-      "id": 789,
-      "character": "來",
-      "pinyin": "lai",
+      "id": 1262,
+      "character": "形",
+      "pinyin": "xing",
       "tone": 2,
-      "meaning": "to come",
-      "story": "To come wheat questions \"Lai? Arriving?\" curiously!",
+      "meaning": "Shape",
+      "story": "Shape open hands questions \"Shing? Appearance?\" curiously - form!",
       "primitives": []
     },
     {
-      "id": 790,
-      "character": "麥",
-      "pinyin": "mai",
-      "tone": 4,
-      "meaning": "Wheat",
-      "story": "Wheat walking grain commands \"Mai!\" sharply growing!",
-      "primitives": []
-    },
-    {
-      "id": 791,
-      "character": "喝",
-      "pinyin": "he",
-      "tone": 1,
-      "meaning": "to drink",
-      "story": "To drink mouth wheat sings \"Huh!\" cheerfully gulping!",
-      "primitives": []
-    },
-    {
-      "id": 792,
-      "character": "渴",
-      "pinyin": "ke",
+      "id": 1263,
+      "character": "影",
+      "pinyin": "ying",
       "tone": 3,
-      "meaning": "thirsty",
-      "story": "Thirsty water drink bends down drooping saying \"Kuh\"!",
+      "meaning": "Shadow",
+      "story": "Shadow shape sun bends down drooping \"Ying\" - reflection picture image!",
+      "primitives": []
+    },
+    {
+      "id": 1264,
+      "character": "彩",
+      "pinyin": "cai",
+      "tone": 3,
+      "meaning": "Hue",
+      "story": "Hue shape tree bends down drooping \"Tsigh\" - color coloring!",
+      "primitives": []
+    },
+    {
+      "id": 1265,
+      "character": "須",
+      "pinyin": "xu",
+      "tone": 1,
+      "meaning": "to have to",
+      "story": "To have to shape page sings \"Shyoo!\" cheerfully - must necessary ought!",
+      "primitives": []
+    },
+    {
+      "id": 1266,
+      "character": "珍",
+      "pinyin": "zhen",
+      "tone": 1,
+      "meaning": "rare",
+      "story": "Rare jewel shape sings \"Jun!\" cheerfully - precious treasure!",
+      "primitives": []
+    },
+    {
+      "id": 1267,
+      "character": "參",
+      "pinyin": "can",
+      "tone": 1,
+      "meaning": "to participate",
+      "story": "To participate hairs private sings \"Tsahn!\" cheerfully - join visit ginseng!",
+      "primitives": []
+    },
+    {
+      "id": 1268,
+      "character": "慘",
+      "pinyin": "can",
+      "tone": 3,
+      "meaning": "wretched",
+      "story": "Wretched heart participate bends down drooping \"Tsahn\" - miserable sad pitiful!",
+      "primitives": []
+    },
+    {
+      "id": 1269,
+      "character": "修",
+      "pinyin": "xiu",
+      "tone": 1,
+      "meaning": "to repair",
+      "story": "To repair person shape sings \"Shyo!\" cheerfully - cultivate study discipline!",
+      "primitives": []
+    },
+    {
+      "id": 1270,
+      "character": "文",
+      "pinyin": "wen",
+      "tone": 2,
+      "meaning": "Literature",
+      "story": "Literature scholar questions \"Wuhn? Writing?\" curiously - culture sentence!",
+      "primitives": []
+    },
+    {
+      "id": 1271,
+      "character": "蚊",
+      "pinyin": "wen",
+      "tone": 2,
+      "meaning": "Mosquito",
+      "story": "Mosquito insect literature questions \"Wuhn? Biting?\" curiously - buzzing pest!",
+      "primitives": []
+    },
+    {
+      "id": 1272,
+      "character": "彥",
+      "pinyin": "yan",
+      "tone": 4,
+      "meaning": "erudite",
+      "story": "Erudite colorful scholar commands sharply \"Yahn!\" - accomplished learned elegant lad!",
+      "primitives": []
+    },
+    {
+      "id": 1273,
+      "character": "顏",
+      "pinyin": "yan",
+      "tone": 2,
+      "meaning": "Countenance",
+      "story": "Countenance page erudite questions \"Yahn? Face?\" curiously - color!",
+      "primitives": []
+    },
+    {
+      "id": 1274,
+      "character": "產",
+      "pinyin": "chan",
+      "tone": 3,
+      "meaning": "Products",
+      "story": "Products cliff life bends down drooping \"Chahn\" - resources give birth!",
+      "primitives": []
+    },
+    {
+      "id": 1275,
+      "character": "率",
+      "pinyin": "shuai",
+      "tone": 4,
+      "meaning": "a Rate",
+      "story": "A rate shape field commands sharply \"Shwigh!\" - ratio limit lead!",
+      "primitives": []
+    },
+    {
+      "id": 1276,
+      "character": "摔",
+      "pinyin": "shuai",
+      "tone": 1,
+      "meaning": "to tumble",
+      "story": "To tumble hand rate sings \"Shwigh!\" cheerfully - fall stumble trip!",
+      "primitives": []
+    },
+    {
+      "id": 1277,
+      "character": "央",
+      "pinyin": "yang",
+      "tone": 1,
+      "meaning": "Center",
+      "story": "Center big sings \"Yahng!\" cheerfully - middle beg!",
+      "primitives": []
+    },
+    {
+      "id": 1278,
+      "character": "英",
+      "pinyin": "ying",
+      "tone": 1,
+      "meaning": "England",
+      "story": "England flowers center sings \"Ying!\" cheerfully - brave Britain!",
+      "primitives": []
+    },
+    {
+      "id": 1279,
+      "character": "巴",
+      "pinyin": "ba",
+      "tone": 1,
+      "meaning": "Crust",
+      "story": "Crust snake mouth sings \"Bah!\" cheerfully - desire Palestine comma-design!",
+      "primitives": []
+    },
+    {
+      "id": 1280,
+      "character": "把",
+      "pinyin": "ba",
+      "tone": 3,
+      "meaning": "to grasp",
+      "story": "To grasp hand crust bends down drooping \"Bah\" - take hold of!",
+      "primitives": []
+    },
+    {
+      "id": 1281,
+      "character": "爸",
+      "pinyin": "ba",
+      "tone": 4,
+      "meaning": "Papa",
+      "story": "Papa father crust commands sharply \"Bah!\" - dad!",
+      "primitives": []
+    },
+    {
+      "id": 1282,
+      "character": "吧",
+      "pinyin": "ba",
+      "tone": 1,
+      "meaning": "Bar",
+      "story": "Bar mouth crust says \"bah\" neutrally - onomatopoeia for bar!",
+      "primitives": []
+    },
+    {
+      "id": 1283,
+      "character": "色",
+      "pinyin": "se",
+      "tone": 4,
+      "meaning": "Color",
+      "story": "Color knife snake commands sharply \"Suh!\" - look appearance hue!",
+      "primitives": []
+    },
+    {
+      "id": 1284,
+      "character": "絕",
+      "pinyin": "jue",
+      "tone": 2,
+      "meaning": "to discontinue",
+      "story": "To discontinue thread color questions \"Jyueh? Break off?\" curiously - extinct!",
       "primitives": []
     }
   ]

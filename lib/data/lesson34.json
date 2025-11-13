@@ -2,165 +2,48 @@
   "lesson": 34,
   "characters": [
     {
-      "id": 595,
-      "character": "觀",
-      "pinyin": "guan",
+      "id": 1000,
+      "character": "邊",
+      "pinyin": "bian",
       "tone": 1,
-      "meaning": "to observe",
-      "story": "To observe again see sings \"Gwan!\" cheerfully watching!",
+      "meaning": "Border",
+      "story": "Along the border road, your nose catches the scent, singing \"Bian!\" cheerfully as you cross the edge!",
       "primitives": []
     },
     {
-      "id": 596,
-      "character": "歡",
-      "pinyin": "huan",
+      "id": 1001,
+      "character": "深",
+      "pinyin": "shen",
       "tone": 1,
-      "meaning": "joyous",
-      "story": "Joyous again lack sings \"Hwan!\" cheerfully happy!",
+      "meaning": "deep",
+      "story": "Deep water sings \"Shen!\" cheerfully as you dive down into the profound darkness!",
       "primitives": []
     },
     {
-      "id": 597,
-      "character": "投",
-      "pinyin": "tou",
-      "tone": 2,
-      "meaning": "to throw",
-      "story": "To throw hand reach questions \"Toe? Tossing?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 598,
-      "character": "沒",
-      "pinyin": "mei",
-      "tone": 2,
-      "meaning": "to not have",
-      "story": "To not have water reach questions \"May? None?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 599,
-      "character": "設",
-      "pinyin": "she",
+      "id": 1002,
+      "character": "探",
+      "pinyin": "tan",
       "tone": 4,
-      "meaning": "to establish",
-      "story": "To establish words reach yells \"Shuh!\" sharply founding!",
+      "meaning": "a Spy",
+      "story": "A spy with hands reaching into the cave commands \"Tan!\" sharply, exploring every hidden corner!",
       "primitives": []
     },
     {
-      "id": 600,
-      "character": "股",
-      "pinyin": "gu",
-      "tone": 3,
-      "meaning": "Thigh",
-      "story": "A thigh flesh ancient bends down drooping saying \"Goo\"!",
-      "primitives": []
-    },
-    {
-      "id": 601,
-      "character": "支",
-      "pinyin": "zhi",
+      "id": 1003,
+      "character": "丘",
+      "pinyin": "qiu",
       "tone": 1,
-      "meaning": "Offshoot",
-      "story": "An offshoot branch sings \"Zhi!\" cheerfully dividing!",
+      "meaning": "Hill",
+      "story": "The hill rises like a hobbit-home, singing \"Chyo!\" cheerfully round and grassy!",
       "primitives": []
     },
     {
-      "id": 602,
-      "character": "技",
-      "pinyin": "ji",
-      "tone": 4,
-      "meaning": "Skill",
-      "story": "Skill hand branch commands \"Ji!\" sharply able!",
-      "primitives": []
-    },
-    {
-      "id": 603,
-      "character": "枝",
-      "pinyin": "zhi",
+      "id": 1004,
+      "character": "兵",
+      "pinyin": "bing",
       "tone": 1,
-      "meaning": "Branch",
-      "story": "Branch tree offshoot sings \"Zhi!\" cheerfully extending!",
-      "primitives": []
-    },
-    {
-      "id": 604,
-      "character": "叔",
-      "pinyin": "shu",
-      "tone": 2,
-      "meaning": "(Paternal Older) Uncle",
-      "story": "Uncle small hand questions \"Shoo? Uncle?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 605,
-      "character": "督",
-      "pinyin": "du",
-      "tone": 1,
-      "meaning": "Superintend",
-      "story": "Superintend uncle eye sings \"Doo!\" cheerfully supervising!",
-      "primitives": []
-    },
-    {
-      "id": 606,
-      "character": "寂",
-      "pinyin": "ji",
-      "tone": 2,
-      "meaning": "lonely",
-      "story": "Lonely house uncle questions \"Ji? Alone?\" curiously!",
-      "primitives": []
-    },
-    {
-      "id": 607,
-      "character": "反",
-      "pinyin": "fan",
-      "tone": 3,
-      "meaning": "against",
-      "story": "Against cliff hand bends down drooping saying \"Fan\"!",
-      "primitives": []
-    },
-    {
-      "id": 608,
-      "character": "板",
-      "pinyin": "ban",
-      "tone": 3,
-      "meaning": "Plank",
-      "story": "A plank tree against bends down drooping saying \"Ban\"!",
-      "primitives": []
-    },
-    {
-      "id": 609,
-      "character": "返",
-      "pinyin": "fan",
-      "tone": 3,
-      "meaning": "to go back",
-      "story": "To go back walk against bends down drooping saying \"Fan\"!",
-      "primitives": []
-    },
-    {
-      "id": 610,
-      "character": "派",
-      "pinyin": "pai",
-      "tone": 4,
-      "meaning": "Faction",
-      "story": "A faction water against commands \"Pai!\" sharply grouping!",
-      "primitives": []
-    },
-    {
-      "id": 611,
-      "character": "脈",
-      "pinyin": "mai",
-      "tone": 4,
-      "meaning": "Blood Vessels",
-      "story": "Blood vessels flesh against yell \"Mai!\" sharply flowing!",
-      "primitives": []
-    },
-    {
-      "id": 612,
-      "character": "爪",
-      "pinyin": "zhao",
-      "tone": 3,
-      "meaning": "a Claw",
-      "story": "A claw bends down drooping saying \"Zhao\"!",
+      "meaning": "Troops",
+      "story": "Troops with axes march cheerfully singing \"Bing!\" as soldiers in formation!",
       "primitives": []
     }
   ]
