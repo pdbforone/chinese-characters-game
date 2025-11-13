@@ -4,7 +4,7 @@
     {
       "id": 1,
       "character": "一",
-      "pinyin": "yi",
+      "pinyin": "yī",
       "tone": 1,
       "meaning": "one",
       "story": "A single happy line sings \"Yeeee!\" at number one!",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "character": "二",
-      "pinyin": "er",
+      "pinyin": "èr",
       "tone": 4,
       "meaning": "two",
       "story": "Two angry lines yell \"ERR!\" when you make a mistake!",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "character": "三",
-      "pinyin": "san",
+      "pinyin": "sān",
       "tone": 1,
       "meaning": "three",
       "story": "Three cheerful lines sing \"Saaaan-shine\" together!",
@@ -31,7 +31,7 @@
     {
       "id": 4,
       "character": "四",
-      "pinyin": "si",
+      "pinyin": "sì",
       "tone": 4,
       "meaning": "four",
       "story": "Inside the box, your four items command \"See this!\" sharply!",
@@ -40,7 +40,7 @@
     {
       "id": 5,
       "character": "五",
-      "pinyin": "wu",
+      "pinyin": "wǔ",
       "tone": 3,
       "meaning": "five",
       "story": "Five fingers bend down drooping as you say \"Woo\" sadly!",
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "character": "六",
-      "pinyin": "liu",
+      "pinyin": "liù",
       "tone": 4,
       "meaning": "six",
       "story": "A lid over eight yells \"Leo!\" for six sharp reasons!",
@@ -58,7 +58,7 @@
     {
       "id": 7,
       "character": "七",
-      "pinyin": "qi",
+      "pinyin": "qī",
       "tone": 1,
       "meaning": "seven",
       "story": "Seven slashes happily high in the sky, singing \"Chee!\"",
@@ -67,7 +67,7 @@
     {
       "id": 8,
       "character": "八",
-      "pinyin": "ba",
+      "pinyin": "bā",
       "tone": 1,
       "meaning": "eight",
       "story": "Eight paths split cheerfully as you sing \"Baaaa!\"",
@@ -76,7 +76,7 @@
     {
       "id": 9,
       "character": "九",
-      "pinyin": "jiu",
+      "pinyin": "jiǔ",
       "tone": 3,
       "meaning": "nine",
       "story": "Nine hooks bend and dip down, curving like \"Jiu\" bends!",
@@ -85,7 +85,7 @@
     {
       "id": 10,
       "character": "十",
-      "pinyin": "shi",
+      "pinyin": "shí",
       "tone": 2,
       "meaning": "ten",
       "story": "A cross at ten keeps asking \"Shi? Why ten?\" curiously!",
@@ -94,7 +94,7 @@
     {
       "id": 11,
       "character": "口",
-      "pinyin": "kou",
+      "pinyin": "kǒu",
       "tone": 3,
       "meaning": "Mouth",
       "story": "Your mouth bends down drooping when you say \"Ko\" with a frown!",
@@ -103,7 +103,7 @@
     {
       "id": 12,
       "character": "日",
-      "pinyin": "ri",
+      "pinyin": "rì",
       "tone": 4,
       "meaning": "Day",
       "story": "The sun yells \"REE!\" sharply to wake you each day!",
@@ -112,7 +112,7 @@
     {
       "id": 13,
       "character": "月",
-      "pinyin": "yue",
+      "pinyin": "yuè",
       "tone": 4,
       "meaning": "Month",
       "story": "The moon commands \"Yue!\" sharply each month it appears!",
@@ -121,7 +121,7 @@
     {
       "id": 14,
       "character": "田",
-      "pinyin": "tian",
+      "pinyin": "tián",
       "tone": 2,
       "meaning": "Rice Field",
       "story": "In the rice field, farmers ask \"Tian? Why so muddy?\" curiously!",
@@ -130,7 +130,7 @@
     {
       "id": 15,
       "character": "目",
-      "pinyin": "mu",
+      "pinyin": "mù",
       "tone": 4,
       "meaning": "Eye",
       "story": "Your eye angrily yells \"MOO!\" when dust gets in it!",

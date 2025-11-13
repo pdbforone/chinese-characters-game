@@ -4,7 +4,7 @@
     {
       "id": 191,
       "character": "木",
-      "pinyin": "mu",
+      "pinyin": "mù",
       "tone": 4,
       "meaning": "Tree",
       "story": "A tree stands tall, commanding \"Moo!\" sharply with branches!",
@@ -13,7 +13,7 @@
     {
       "id": 192,
       "character": "林",
-      "pinyin": "lin",
+      "pinyin": "lín",
       "tone": 2,
       "meaning": "Woods",
       "story": "Woods of two trees question \"Lin? Why so many?\" curiously!",
@@ -22,7 +22,7 @@
     {
       "id": 193,
       "character": "森",
-      "pinyin": "sen",
+      "pinyin": "sēn",
       "tone": 1,
       "meaning": "Forest",
       "story": "A forest of three trees sings \"Sen!\" cheerfully dense!",
@@ -31,7 +31,7 @@
     {
       "id": 194,
       "character": "植",
-      "pinyin": "zhi",
+      "pinyin": "zhí",
       "tone": 2,
       "meaning": "to plant",
       "story": "To plant trees straight questions \"Zhi? Where to grow?\" curiously!",
@@ -40,7 +40,7 @@
     {
       "id": 195,
       "character": "杏",
-      "pinyin": "xing",
+      "pinyin": "xìng",
       "tone": 4,
       "meaning": "Apricot",
       "story": "An apricot tree mouth commands \"Shing!\" sharply ripening!",
@@ -49,7 +49,7 @@
     {
       "id": 196,
       "character": "呆",
-      "pinyin": "dai",
+      "pinyin": "dāi",
       "tone": 1,
       "meaning": "dim-witted",
       "story": "A dim-witted person with wood mouth sings \"Dai!\" stupidly happy!",
@@ -58,7 +58,7 @@
     {
       "id": 197,
       "character": "枯",
-      "pinyin": "ku",
+      "pinyin": "kū",
       "tone": 1,
       "meaning": "withered",
       "story": "A withered tree with ancient wood sings \"Koo!\" sadly high!",
@@ -67,7 +67,7 @@
     {
       "id": 198,
       "character": "村",
-      "pinyin": "cun",
+      "pinyin": "cūn",
       "tone": 1,
       "meaning": "Village",
       "story": "A village of trees and inches sings \"Tsun!\" cheerfully together!",
@@ -76,7 +76,7 @@
     {
       "id": 199,
       "character": "相",
-      "pinyin": "xiang",
+      "pinyin": "xiāng",
       "tone": 1,
       "meaning": "one another",
       "story": "One another with tree and eye sings \"Shyang!\" happily seeing each other!",
@@ -85,7 +85,7 @@
     {
       "id": 200,
       "character": "本",
-      "pinyin": "ben",
+      "pinyin": "běn",
       "tone": 3,
       "meaning": "notebook",
       "story": "A notebook tree root bends down drooping saying \"Ben\"!",
@@ -94,7 +94,7 @@
     {
       "id": 201,
       "character": "案",
-      "pinyin": "an",
+      "pinyin": "àn",
       "tone": 4,
       "meaning": "legal case",
       "story": "A legal case at the tree table commands \"An!\" sharply in judgment!",
@@ -103,7 +103,7 @@
     {
       "id": 202,
       "character": "未",
-      "pinyin": "wei",
+      "pinyin": "wèi",
       "tone": 4,
       "meaning": "not yet",
       "story": "Not yet finished tree yells \"Way!\" sharply incomplete!",
@@ -112,7 +112,7 @@
     {
       "id": 203,
       "character": "末",
-      "pinyin": "mo",
+      "pinyin": "mò",
       "tone": 4,
       "meaning": "Last",
       "story": "Last branch of tree commands \"Mwoh!\" sharply at the end!",
@@ -121,7 +121,7 @@
     {
       "id": 204,
       "character": "沫",
-      "pinyin": "mo",
+      "pinyin": "mò",
       "tone": 4,
       "meaning": "Foam",
       "story": "Foam water at last yells \"Mwoh!\" sharply bubbling!",
@@ -130,7 +130,7 @@
     {
       "id": 205,
       "character": "味",
-      "pinyin": "wei",
+      "pinyin": "wèi",
       "tone": 4,
       "meaning": "Flavor",
       "story": "Flavor of mouth not yet commands \"Way!\" sharply tasting!",
@@ -139,7 +139,7 @@
     {
       "id": 206,
       "character": "妹",
-      "pinyin": "mei",
+      "pinyin": "mèi",
       "tone": 4,
       "meaning": "younger sister",
       "story": "Younger sister woman not yet yells \"May!\" sharply young!",
@@ -148,7 +148,7 @@
     {
       "id": 207,
       "character": "查",
-      "pinyin": "cha",
+      "pinyin": "chá",
       "tone": 2,
       "meaning": "to investigate",
       "story": "To investigate tree at dawn questions \"Cha? What happened?\" curiously!",
@@ -157,7 +157,7 @@
     {
       "id": 208,
       "character": "渣",
-      "pinyin": "zha",
+      "pinyin": "zhā",
       "tone": 1,
       "meaning": "sediment",
       "story": "Sediment water investigated sings \"Zha!\" cheerfully settling!",
@@ -166,7 +166,7 @@
     {
       "id": 209,
       "character": "染",
-      "pinyin": "ran",
+      "pinyin": "rǎn",
       "tone": 3,
       "meaning": "to dye",
       "story": "To dye water with nine trees bends down drooping saying \"Ran\"!",
@@ -175,7 +175,7 @@
     {
       "id": 210,
       "character": "李",
-      "pinyin": "li",
+      "pinyin": "lǐ",
       "tone": 3,
       "meaning": "Plum",
       "story": "A plum tree child bends down drooping saying \"Lee\"!",
@@ -184,7 +184,7 @@
     {
       "id": 211,
       "character": "桌",
-      "pinyin": "zhuo",
+      "pinyin": "zhuō",
       "tone": 1,
       "meaning": "Table",
       "story": "A table tree卓 sings \"Zhuo!\" cheerfully high and eminent!",
@@ -193,7 +193,7 @@
     {
       "id": 212,
       "character": "若",
-      "pinyin": "ruo",
+      "pinyin": "ruò",
       "tone": 4,
       "meaning": "as if",
       "story": "As if grass with right hand commands \"Ruo!\" sharply comparing!",
@@ -202,7 +202,7 @@
     {
       "id": 213,
       "character": "草",
-      "pinyin": "cao",
+      "pinyin": "cǎo",
       "tone": 3,
       "meaning": "grass",
       "story": "Grass with early heads bends down drooping saying \"Tsao\"!",
@@ -211,7 +211,7 @@
     {
       "id": 214,
       "character": "苦",
-      "pinyin": "ku",
+      "pinyin": "kǔ",
       "tone": 3,
       "meaning": "Suffering",
       "story": "Suffering grass and ancient bend down drooping saying \"Koo\"!",
@@ -220,7 +220,7 @@
     {
       "id": 215,
       "character": "寬",
-      "pinyin": "kuan",
+      "pinyin": "kuān",
       "tone": 1,
       "meaning": "wide",
       "story": "Wide grass house sings \"Kuan!\" cheerfully spacious!",
@@ -229,7 +229,7 @@
     {
       "id": 216,
       "character": "葉",
-      "pinyin": "ye",
+      "pinyin": "yè",
       "tone": 4,
       "meaning": "Leaf",
       "story": "A leaf of grass and tree page commands \"Yeh!\" sharply falling!",
@@ -238,7 +238,7 @@
     {
       "id": 217,
       "character": "莫",
-      "pinyin": "mo",
+      "pinyin": "mò",
       "tone": 4,
       "meaning": "nobody",
       "story": "Nobody in grass sunset commands \"Mwoh!\" sharply absent!",
@@ -247,7 +247,7 @@
     {
       "id": 218,
       "character": "模",
-      "pinyin": "mo",
+      "pinyin": "mó",
       "tone": 2,
       "meaning": "to imitate",
       "story": "To imitate nobody with tree questions \"Mwo? How to copy?\" curiously!",
@@ -256,7 +256,7 @@
     {
       "id": 219,
       "character": "漠",
-      "pinyin": "mo",
+      "pinyin": "mò",
       "tone": 4,
       "meaning": "Desert",
       "story": "A desert of water and nobody yells \"Mwoh!\" sharply empty!",
@@ -265,7 +265,7 @@
     {
       "id": 220,
       "character": "墓",
-      "pinyin": "mu",
+      "pinyin": "mù",
       "tone": 4,
       "meaning": "a Grave",
       "story": "A grave with soil and nobody commands \"Moo!\" sharply buried!",
@@ -274,7 +274,7 @@
     {
       "id": 221,
       "character": "苗",
-      "pinyin": "miao",
+      "pinyin": "miáo",
       "tone": 2,
       "meaning": "Seedling",
       "story": "A seedling grass field questions \"Miao? Will it grow?\" curiously!",
@@ -283,7 +283,7 @@
     {
       "id": 222,
       "character": "瞄",
-      "pinyin": "miao",
+      "pinyin": "miáo",
       "tone": 2,
       "meaning": "to aim",
       "story": "To aim eye at seedling questions \"Miao? Is that the target?\" curiously!",

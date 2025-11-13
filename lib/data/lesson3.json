@@ -4,7 +4,7 @@
     {
       "id": 32,
       "character": "自",
-      "pinyin": "zi",
+      "pinyin": "zì",
       "tone": 4,
       "meaning": "oneself",
       "story": "A nose points to oneself, yelling \"Zi!\" sharply with pride!",
@@ -13,7 +13,7 @@
     {
       "id": 33,
       "character": "白",
-      "pinyin": "bai",
+      "pinyin": "bái",
       "tone": 2,
       "meaning": "white",
       "story": "The white sun asks \"Bai? Why so bright?\" questioning curiously!",
@@ -22,7 +22,7 @@
     {
       "id": 34,
       "character": "百",
-      "pinyin": "bai",
+      "pinyin": "bǎi",
       "tone": 3,
       "meaning": "hundred",
       "story": "A hundred bends down drooping under one white sun saying \"Bai\"!",
@@ -31,7 +31,7 @@
     {
       "id": 35,
       "character": "皂",
-      "pinyin": "zao",
+      "pinyin": "zào",
       "tone": 4,
       "meaning": "Soap",
       "story": "Soap commands \"Zao!\" sharply to clean everything white!",
@@ -40,7 +40,7 @@
     {
       "id": 36,
       "character": "中",
-      "pinyin": "zhong",
+      "pinyin": "zhōng",
       "tone": 1,
       "meaning": "Middle",
       "story": "An arrow happily sings \"Zhong!\" straight through the middle target!",
@@ -49,7 +49,7 @@
     {
       "id": 37,
       "character": "千",
-      "pinyin": "qian",
+      "pinyin": "qiān",
       "tone": 1,
       "meaning": "thousand",
       "story": "A thousand people sing \"Chian!\" cheerfully marching together!",
@@ -58,7 +58,7 @@
     {
       "id": 38,
       "character": "舌",
-      "pinyin": "she",
+      "pinyin": "shé",
       "tone": 2,
       "meaning": "Tongue",
       "story": "Your tongue in your mouth asks \"She? Why taste this?\" questioning!",
@@ -67,7 +67,7 @@
     {
       "id": 39,
       "character": "升",
-      "pinyin": "sheng",
+      "pinyin": "shēng",
       "tone": 1,
       "meaning": "Liter",
       "story": "A liter rises up cheerfully singing \"Sheng!\" to the top!",
@@ -76,7 +76,7 @@
     {
       "id": 40,
       "character": "昇",
-      "pinyin": "sheng",
+      "pinyin": "shēng",
       "tone": 1,
       "meaning": "to rise up",
       "story": "The sun rises high, happily singing \"Sheng!\" at dawn!",
@@ -85,7 +85,7 @@
     {
       "id": 41,
       "character": "丸",
-      "pinyin": "wan",
+      "pinyin": "wán",
       "tone": 2,
       "meaning": "Pill",
       "story": "A round pill asks \"Wan? Why swallow me?\" questioning curiously!",
@@ -94,7 +94,7 @@
     {
       "id": 42,
       "character": "卜",
-      "pinyin": "bu",
+      "pinyin": "bǔ",
       "tone": 3,
       "meaning": "Divination",
       "story": "The divination stick bends down drooping as it says \"Bu\"!",
@@ -103,7 +103,7 @@
     {
       "id": 43,
       "character": "占",
-      "pinyin": "zhan",
+      "pinyin": "zhàn",
       "tone": 4,
       "meaning": "to tell fortunes",
       "story": "Your mouth commands the divination sharply \"Zhan! Tell my fortune!\"",
@@ -112,7 +112,7 @@
     {
       "id": 44,
       "character": "上",
-      "pinyin": "shang",
+      "pinyin": "shàng",
       "tone": 4,
       "meaning": "above",
       "story": "Above the line, an arrow yells \"Shang!\" pointing up sharply!",
@@ -121,7 +121,7 @@
     {
       "id": 45,
       "character": "下",
-      "pinyin": "xia",
+      "pinyin": "xià",
       "tone": 4,
       "meaning": "below",
       "story": "Below the line, an arrow commands \"Xia!\" pointing down sharply!",
@@ -130,7 +130,7 @@
     {
       "id": 46,
       "character": "卡",
-      "pinyin": "ka",
+      "pinyin": "kǎ",
       "tone": 3,
       "meaning": "Card",
       "story": "A card bends and dips between above and below saying \"Ka\"!",
@@ -139,7 +139,7 @@
     {
       "id": 47,
       "character": "卓",
-      "pinyin": "zhuo",
+      "pinyin": "zhuó",
       "tone": 2,
       "meaning": "eminent",
       "story": "An eminent person stands above, questioning \"Zhuo? Am I tall enough?\" curiously!",
@@ -148,7 +148,7 @@
     {
       "id": 48,
       "character": "朝",
-      "pinyin": "chao",
+      "pinyin": "cháo",
       "tone": 2,
       "meaning": "Dynasty",
       "story": "The dynasty sun and moon question \"Chao? Why our reign?\" curiously!",
@@ -157,7 +157,7 @@
     {
       "id": 49,
       "character": "嘲",
-      "pinyin": "chao",
+      "pinyin": "cháo",
       "tone": 2,
       "meaning": "to ridicule",
       "story": "The mouth ridicules, questioning \"Chao? You call that a dynasty?\" mockingly!",

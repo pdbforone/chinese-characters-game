@@ -7,10 +7,10 @@ export interface LessonProgress {
   lastPlayed: string;
 }
 
-const STORAGE_KEY = "rth_lesson_progress";
+const STORAGE_KEY = 'rth_lesson_progress';
 
 export function getLessonProgress(lessonId: number): LessonProgress {
-  if (typeof window === "undefined") {
+  if (typeof window === 'undefined') {
     return getDefaultProgress(lessonId);
   }
 
@@ -25,13 +25,13 @@ export function getLessonProgress(lessonId: number): LessonProgress {
 
     return allProgress[key] || getDefaultProgress(lessonId);
   } catch (error) {
-    console.error("Error reading lesson progress:", error);
+    console.error('Error reading lesson progress:', error);
     return getDefaultProgress(lessonId);
   }
 }
 
 export function markIntroductionComplete(lessonId: number): void {
-  if (typeof window === "undefined") return;
+  if (typeof window === 'undefined') return;
 
   try {
     const progress = getLessonProgress(lessonId);
@@ -39,16 +39,12 @@ export function markIntroductionComplete(lessonId: number): void {
     progress.lastPlayed = new Date().toISOString();
     saveProgress(lessonId, progress);
   } catch (error) {
-    console.error("Error marking introduction complete:", error);
+    console.error('Error marking introduction complete:', error);
   }
 }
 
-export function saveGameScore(
-  lessonId: number,
-  score: number,
-  accuracy: number,
-): void {
-  if (typeof window === "undefined") return;
+export function saveGameScore(lessonId: number, score: number, accuracy: number): void {
+  if (typeof window === 'undefined') return;
 
   try {
     const progress = getLessonProgress(lessonId);
@@ -58,12 +54,12 @@ export function saveGameScore(
     progress.lastPlayed = new Date().toISOString();
     saveProgress(lessonId, progress);
   } catch (error) {
-    console.error("Error saving game score:", error);
+    console.error('Error saving game score:', error);
   }
 }
 
 export function resetLessonProgress(lessonId: number): void {
-  if (typeof window === "undefined") return;
+  if (typeof window === 'undefined') return;
 
   try {
     const data = localStorage.getItem(STORAGE_KEY);
@@ -75,7 +71,7 @@ export function resetLessonProgress(lessonId: number): void {
 
     localStorage.setItem(STORAGE_KEY, JSON.stringify(allProgress));
   } catch (error) {
-    console.error("Error resetting lesson progress:", error);
+    console.error('Error resetting lesson progress:', error);
   }
 }
 
@@ -88,7 +84,7 @@ function saveProgress(lessonId: number, progress: LessonProgress): void {
     allProgress[key] = progress;
     localStorage.setItem(STORAGE_KEY, JSON.stringify(allProgress));
   } catch (error) {
-    console.error("Error saving progress:", error);
+    console.error('Error saving progress:', error);
   }
 }
 

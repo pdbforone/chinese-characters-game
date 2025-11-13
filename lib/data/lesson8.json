@@ -4,7 +4,7 @@
     {
       "id": 123,
       "character": "川",
-      "pinyin": "chuan",
+      "pinyin": "chuān",
       "tone": 1,
       "meaning": "Stream",
       "story": "A stream flows cheerfully singing \"Chuan!\" in three happy channels!",
@@ -13,7 +13,7 @@
     {
       "id": 124,
       "character": "州",
-      "pinyin": "zhou",
+      "pinyin": "zhōu",
       "tone": 1,
       "meaning": "a state",
       "story": "A state with stream and dots sings \"Joe!\" cheerfully united!",
@@ -22,7 +22,7 @@
     {
       "id": 125,
       "character": "順",
-      "pinyin": "shun",
+      "pinyin": "shùn",
       "tone": 4,
       "meaning": "to obey",
       "story": "To obey, the stream flows by the page, commanding \"Shun!\" sharply!",
@@ -31,7 +31,7 @@
     {
       "id": 126,
       "character": "水",
-      "pinyin": "shui",
+      "pinyin": "shuǐ",
       "tone": 3,
       "meaning": "Water",
       "story": "Water bends down drooping in streams saying \"Shway\"!",
@@ -40,7 +40,7 @@
     {
       "id": 127,
       "character": "永",
-      "pinyin": "yong",
+      "pinyin": "yǒng",
       "tone": 3,
       "meaning": "Eternity",
       "story": "Eternity of water bends down drooping forever saying \"Yong\"!",
@@ -49,7 +49,7 @@
     {
       "id": 128,
       "character": "求",
-      "pinyin": "qiu",
+      "pinyin": "qiú",
       "tone": 2,
       "meaning": "to request",
       "story": "To request with water drop asks \"Chyo? May I have some?\" questioning!",
@@ -58,7 +58,7 @@
     {
       "id": 129,
       "character": "泉",
-      "pinyin": "quan",
+      "pinyin": "quán",
       "tone": 2,
       "meaning": "a Spring",
       "story": "A spring of white water questions \"Chuan? Where does it come from?\" curiously!",
@@ -67,7 +67,7 @@
     {
       "id": 130,
       "character": "原",
-      "pinyin": "yuan",
+      "pinyin": "yuán",
       "tone": 2,
       "meaning": "flatlands",
       "story": "Flatlands with cliff spring and white question \"Yuan? Why so flat?\" curiously!",
@@ -76,7 +76,7 @@
     {
       "id": 131,
       "character": "願",
-      "pinyin": "yuan",
+      "pinyin": "yuàn",
       "tone": 4,
       "meaning": "a wish",
       "story": "A wish from flatlands page commands \"Yuan! Grant it!\" sharply!",
@@ -85,7 +85,7 @@
     {
       "id": 132,
       "character": "沖",
-      "pinyin": "chong",
+      "pinyin": "chōng",
       "tone": 1,
       "meaning": "to wash away",
       "story": "To wash away, water sings \"Chong!\" cheerfully rinsing middle!",
@@ -94,7 +94,7 @@
     {
       "id": 133,
       "character": "泳",
-      "pinyin": "yong",
+      "pinyin": "yǒng",
       "tone": 3,
       "meaning": "to swim",
       "story": "To swim in eternal water bends down drooping saying \"Yong\"!",
@@ -103,7 +103,7 @@
     {
       "id": 134,
       "character": "洲",
-      "pinyin": "zhou",
+      "pinyin": "zhōu",
       "tone": 1,
       "meaning": "Continent",
       "story": "A continent with water and state sings \"Joe!\" cheerfully and large!",
@@ -112,7 +112,7 @@
     {
       "id": 135,
       "character": "沼",
-      "pinyin": "zhao",
+      "pinyin": "zhǎo",
       "tone": 3,
       "meaning": "Marsh",
       "story": "A marsh where water bends down drooping in summoned pools saying \"Zhao\"!",
@@ -121,7 +121,7 @@
     {
       "id": 136,
       "character": "沙",
-      "pinyin": "sha",
+      "pinyin": "shā",
       "tone": 1,
       "meaning": "Sand",
       "story": "Sand in water sings \"Sha!\" cheerfully and few like gravel!",
@@ -130,7 +130,7 @@
     {
       "id": 137,
       "character": "江",
-      "pinyin": "jiang",
+      "pinyin": "jiāng",
       "tone": 1,
       "meaning": "Yangtze",
       "story": "The Yangtze water flows cheerfully singing \"Jiang!\" through the work!",
@@ -139,7 +139,7 @@
     {
       "id": 138,
       "character": "汁",
-      "pinyin": "zhi",
+      "pinyin": "zhī",
       "tone": 1,
       "meaning": "Juice",
       "story": "Juice from water ten sings \"Zhi!\" happily extracted!",
@@ -148,7 +148,7 @@
     {
       "id": 139,
       "character": "潮",
-      "pinyin": "chao",
+      "pinyin": "cháo",
       "tone": 2,
       "meaning": "Tide",
       "story": "The tide of dynasty water questions \"Chao? Why rise and fall?\" curiously!",
@@ -157,7 +157,7 @@
     {
       "id": 140,
       "character": "源",
-      "pinyin": "yuan",
+      "pinyin": "yuán",
       "tone": 2,
       "meaning": "source",
       "story": "The source of water flatlands questions \"Yuan? Where does it begin?\" curiously!",
@@ -166,7 +166,7 @@
     {
       "id": 141,
       "character": "活",
-      "pinyin": "huo",
+      "pinyin": "huó",
       "tone": 2,
       "meaning": "lively",
       "story": "Lively water tongue asks \"Huo? Why so active?\" questioning vibrantly!",
@@ -175,7 +175,7 @@
     {
       "id": 142,
       "character": "消",
-      "pinyin": "xiao",
+      "pinyin": "xiāo",
       "tone": 1,
       "meaning": "to extinguish",
       "story": "To extinguish water moon sings \"Shyao!\" cheerfully fading away!",
@@ -184,7 +184,7 @@
     {
       "id": 143,
       "character": "況",
-      "pinyin": "kuang",
+      "pinyin": "kuàng",
       "tone": 4,
       "meaning": "Situation",
       "story": "The situation of water mouth yells \"Kwang!\" sharply describing!",
@@ -193,7 +193,7 @@
     {
       "id": 144,
       "character": "河",
-      "pinyin": "he",
+      "pinyin": "hé",
       "tone": 2,
       "meaning": "river",
       "story": "The river water questions \"Huh? Why flow here?\" curiously with mouth!",
@@ -202,7 +202,7 @@
     {
       "id": 145,
       "character": "湖",
-      "pinyin": "hu",
+      "pinyin": "hú",
       "tone": 2,
       "meaning": "lake",
       "story": "A lake of water questions \"Who? Hu?\" curiously like reckless whiskers!",
@@ -211,7 +211,7 @@
     {
       "id": 146,
       "character": "測",
-      "pinyin": "ce",
+      "pinyin": "cè",
       "tone": 4,
       "meaning": "to fathom",
       "story": "To fathom water rules, commanding \"Tsuh!\" sharply measuring!",
@@ -220,7 +220,7 @@
     {
       "id": 147,
       "character": "土",
-      "pinyin": "tu",
+      "pinyin": "tǔ",
       "tone": 3,
       "meaning": "Soil",
       "story": "Soil bends down drooping in the ground saying \"Too\"!",
@@ -229,7 +229,7 @@
     {
       "id": 148,
       "character": "均",
-      "pinyin": "jun",
+      "pinyin": "jūn",
       "tone": 1,
       "meaning": "to equal",
       "story": "To equal, soil sings \"June!\" cheerfully divided evenly!",
@@ -247,7 +247,7 @@
     {
       "id": 150,
       "character": "填",
-      "pinyin": "tian",
+      "pinyin": "tián",
       "tone": 2,
       "meaning": "to fill in",
       "story": "To fill in real fields of soil questions \"Tian? Why complete?\" curiously!",
@@ -256,7 +256,7 @@
     {
       "id": 151,
       "character": "吐",
-      "pinyin": "tu",
+      "pinyin": "tǔ",
       "tone": 3,
       "meaning": "to spit",
       "story": "To spit from mouth and soil bends down drooping saying \"Too\"!",
@@ -265,7 +265,7 @@
     {
       "id": 152,
       "character": "哇",
-      "pinyin": "wa",
+      "pinyin": "wā",
       "tone": 1,
       "meaning": "Waaah!",
       "story": "\"Waaah!\" cries the mouth happily singing \"Wa!\" high and loud!",
@@ -274,7 +274,7 @@
     {
       "id": 153,
       "character": "寸",
-      "pinyin": "cun",
+      "pinyin": "cùn",
       "tone": 4,
       "meaning": "Chinese Inch",
       "story": "A Chinese inch hand measures, commanding \"Tsun!\" sharply and small!",
@@ -283,7 +283,7 @@
     {
       "id": 154,
       "character": "封",
-      "pinyin": "feng",
+      "pinyin": "fēng",
       "tone": 1,
       "meaning": "to seal",
       "story": "To seal with earth and inch sings \"Fung!\" cheerfully shut!",
@@ -292,7 +292,7 @@
     {
       "id": 155,
       "character": "寺",
-      "pinyin": "si",
+      "pinyin": "sì",
       "tone": 4,
       "meaning": "Buddhist Temple",
       "story": "Buddhist temple with earth and inch commands \"Sih!\" sharply in prayer!",
@@ -301,7 +301,7 @@
     {
       "id": 156,
       "character": "時",
-      "pinyin": "shi",
+      "pinyin": "shí",
       "tone": 2,
       "meaning": "Time",
       "story": "Time at temple with sun questions \"Shi? What hour?\" curiously!",
@@ -310,7 +310,7 @@
     {
       "id": 157,
       "character": "火",
-      "pinyin": "huo",
+      "pinyin": "huǒ",
       "tone": 3,
       "meaning": "Fire",
       "story": "Fire bends down drooping and flickering saying \"Huo\"!",
@@ -319,7 +319,7 @@
     {
       "id": 158,
       "character": "灰",
-      "pinyin": "hui",
+      "pinyin": "huī",
       "tone": 1,
       "meaning": "ashes",
       "story": "Ashes under fire sing \"Hway!\" cheerfully scattered!",
@@ -328,7 +328,7 @@
     {
       "id": 159,
       "character": "煩",
-      "pinyin": "fan",
+      "pinyin": "fán",
       "tone": 2,
       "meaning": "vexed",
       "story": "Vexed with page fire questions \"Fan? Why so troubled?\" sighing!",
@@ -337,7 +337,7 @@
     {
       "id": 160,
       "character": "炎",
-      "pinyin": "yan",
+      "pinyin": "yán",
       "tone": 2,
       "meaning": "Inflammation",
       "story": "Inflammation of two fires questions \"Yan? Why so hot?\" burning curiously!",
@@ -346,7 +346,7 @@
     {
       "id": 161,
       "character": "淡",
-      "pinyin": "dan",
+      "pinyin": "dàn",
       "tone": 4,
       "meaning": "thin (watery/bland)",
       "story": "Thin water flames yell \"Dan!\" sharply weakened!",
@@ -355,7 +355,7 @@
     {
       "id": 162,
       "character": "災",
-      "pinyin": "zai",
+      "pinyin": "zāi",
       "tone": 1,
       "meaning": "Disaster",
       "story": "Disaster with river under fire sings \"Zai!\" sadly but high!",
@@ -364,7 +364,7 @@
     {
       "id": 163,
       "character": "照",
-      "pinyin": "zhao",
+      "pinyin": "zhào",
       "tone": 4,
       "meaning": "to illuminate",
       "story": "To illuminate, summon fire commands \"Zhao!\" sharply shining!",
@@ -373,7 +373,7 @@
     {
       "id": 164,
       "character": "魚",
-      "pinyin": "yu",
+      "pinyin": "yú",
       "tone": 2,
       "meaning": "a Fish",
       "story": "A fish with fire tail questions \"Yu? Why swim?\" curiously!",
@@ -382,7 +382,7 @@
     {
       "id": 165,
       "character": "漁",
-      "pinyin": "yu",
+      "pinyin": "yú",
       "tone": 2,
       "meaning": "Fishing",
       "story": "Fishing for water fish questions \"Yu? Where are they?\" asking curiously!",
@@ -391,7 +391,7 @@
     {
       "id": 166,
       "character": "堯",
-      "pinyin": "yao",
+      "pinyin": "yáo",
       "tone": 2,
       "meaning": "Yáo",
       "story": "Emperor Yao on high earth questions \"Yao? How lofty?\" curiously!",
@@ -400,7 +400,7 @@
     {
       "id": 167,
       "character": "燒",
-      "pinyin": "shao",
+      "pinyin": "shāo",
       "tone": 1,
       "meaning": "Fever",
       "story": "Fever fire burns Yao high, singing \"Shao!\" cheerfully hot!",
@@ -409,7 +409,7 @@
     {
       "id": 168,
       "character": "曉",
-      "pinyin": "xiao",
+      "pinyin": "xiǎo",
       "tone": 3,
       "meaning": "Dawn",
       "story": "Dawn sun bends down drooping like Yao saying \"Shyao\"!",

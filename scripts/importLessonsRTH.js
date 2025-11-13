@@ -1,5 +1,5 @@
-const fs = require("fs");
-const path = require("path");
+const fs = require('fs');
+const path = require('path');
 
 // RTH Lesson boundaries from the actual book structure
 const lessonBoundaries = [
@@ -118,42 +118,42 @@ const lessonBoundaries = [
   { lesson: 110, start: 2912, end: 2978 },
 
   // Additional sections
-  { lesson: 111, start: 2979, end: 3000, name: "Compounds" },
-  { lesson: 112, start: 3001, end: 3035, name: "Postscripts" },
+  { lesson: 111, start: 2979, end: 3000, name: 'Compounds' },
+  { lesson: 112, start: 3001, end: 3035, name: 'Postscripts' },
 ];
 
 // Tone mark to letter mapping for pinyin normalization
 const toneMap = {
-  ā: "a",
-  á: "a",
-  ǎ: "a",
-  à: "a",
-  ē: "e",
-  é: "e",
-  ě: "e",
-  è: "e",
-  ī: "i",
-  í: "i",
-  ǐ: "i",
-  ì: "i",
-  ō: "o",
-  ó: "o",
-  ǒ: "o",
-  ò: "o",
-  ū: "u",
-  ú: "u",
-  ǔ: "u",
-  ù: "u",
-  ǖ: "ü",
-  ǘ: "ü",
-  ǚ: "ü",
-  ǜ: "ü",
+  ā: 'a',
+  á: 'a',
+  ǎ: 'a',
+  à: 'a',
+  ē: 'e',
+  é: 'e',
+  ě: 'e',
+  è: 'e',
+  ī: 'i',
+  í: 'i',
+  ǐ: 'i',
+  ì: 'i',
+  ō: 'o',
+  ó: 'o',
+  ǒ: 'o',
+  ò: 'o',
+  ū: 'u',
+  ú: 'u',
+  ǔ: 'u',
+  ù: 'u',
+  ǖ: 'ü',
+  ǘ: 'ü',
+  ǚ: 'ü',
+  ǜ: 'ü',
 };
 
 function normalizePinyin(pinyin) {
   let normalized = pinyin;
   for (const [marked, unmarked] of Object.entries(toneMap)) {
-    normalized = normalized.replace(new RegExp(marked, "g"), unmarked);
+    normalized = normalized.replace(new RegExp(marked, 'g'), unmarked);
   }
   return normalized;
 }
@@ -162,50 +162,48 @@ function loadExistingPrimitives() {
   const primitivesMap = new Map();
 
   try {
-    const lesson1Path = path.join(process.cwd(), "lib", "data", "lesson1.json");
+    const lesson1Path = path.join(process.cwd(), 'lib', 'data', 'lesson1.json');
     if (fs.existsSync(lesson1Path)) {
-      const lesson1Content = fs.readFileSync(lesson1Path, "utf-8");
+      const lesson1Content = fs.readFileSync(lesson1Path, 'utf-8');
       const lesson1Data = JSON.parse(lesson1Content);
 
       for (const char of lesson1Data.characters) {
         primitivesMap.set(char.character, char.primitives || []);
       }
 
-      console.log(
-        `✅ Loaded primitives for ${primitivesMap.size} characters from lesson1.json`,
-      );
+      console.log(`✅ Loaded primitives for ${primitivesMap.size} characters from lesson1.json`);
     }
   } catch (error) {
-    console.warn("⚠️  Could not load primitives from lesson1.json");
+    console.warn('⚠️  Could not load primitives from lesson1.json');
   }
 
   return primitivesMap;
 }
 
 async function main() {
-  console.log("🚀 Starting RTH lesson import with character_stories.txt...\n");
+  console.log('🚀 Starting RTH lesson import with character_stories.txt...\n');
 
-  const storiesFilePath = path.join(process.cwd(), "character_stories.txt");
+  const storiesFilePath = path.join(process.cwd(), 'character_stories.txt');
 
   if (!fs.existsSync(storiesFilePath)) {
-    console.error("❌ Error: character_stories.txt not found!");
+    console.error('❌ Error: character_stories.txt not found!');
     process.exit(1);
   }
 
-  const fileData = fs.readFileSync(storiesFilePath, "utf-8");
-  const lines = fileData.split("\n").filter((line) => line.trim());
+  const fileData = fs.readFileSync(storiesFilePath, 'utf-8');
+  const lines = fileData.split('\n').filter((line) => line.trim());
 
-  const headers = lines[0].split("\t");
-  console.log(`📋 Columns: ${headers.join(", ")}\n`);
+  const headers = lines[0].split('\t');
+  console.log(`📋 Columns: ${headers.join(', ')}\n`);
 
   const primitivesMap = loadExistingPrimitives();
-  console.log("");
+  console.log('');
 
   // Parse all characters
   const allCharacters = [];
 
   for (let i = 1; i < lines.length; i++) {
-    const values = lines[i].split("\t");
+    const values = lines[i].split('\t');
 
     if (values.length < 5) {
       console.warn(`⚠️  Skipping line ${i + 1}: insufficient columns`);
@@ -239,7 +237,7 @@ async function main() {
   allCharacters.forEach((char) => charMap.set(char.id, char));
 
   // Generate lessons based on RTH boundaries
-  const dataDir = path.join(process.cwd(), "lib", "data");
+  const dataDir = path.join(process.cwd(), 'lib', 'data');
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
@@ -255,9 +253,7 @@ async function main() {
       if (char) {
         lessonCharacters.push(char);
       } else {
-        console.warn(
-          `⚠️  Character ${charId} not found in character_stories.txt`,
-        );
+        console.warn(`⚠️  Character ${charId} not found in character_stories.txt`);
         missedCharacters++;
       }
     }
@@ -269,35 +265,31 @@ async function main() {
       };
 
       const filename = path.join(dataDir, `lesson${boundary.lesson}.json`);
-      fs.writeFileSync(filename, JSON.stringify(lessonData, null, 2), "utf-8");
+      fs.writeFileSync(filename, JSON.stringify(lessonData, null, 2), 'utf-8');
 
-      const lessonName = boundary.name ? ` (${boundary.name})` : "";
+      const lessonName = boundary.name ? ` (${boundary.name})` : '';
       console.log(
-        `✅ Lesson ${boundary.lesson}${lessonName}: ${lessonCharacters.length} characters (${boundary.start}-${boundary.end})`,
+        `✅ Lesson ${boundary.lesson}${lessonName}: ${lessonCharacters.length} characters (${boundary.start}-${boundary.end})`
       );
 
       totalCharactersProcessed += lessonCharacters.length;
     }
   }
 
-  console.log("\n📊 Import Summary:");
+  console.log('\n📊 Import Summary:');
   console.log(`   Total Lessons: ${lessonBoundaries.length}`);
   console.log(`   Total Characters Processed: ${totalCharactersProcessed}`);
   console.log(`   Characters in Source File: ${allCharacters.length}`);
   console.log(`   Missing Characters: ${missedCharacters}\n`);
 
   // Generate lessonLoader.ts
-  console.log("📝 Generating lessonLoader.ts...\n");
+  console.log('📝 Generating lessonLoader.ts...\n');
 
   const imports = lessonBoundaries
-    .map(
-      (b) => `import lesson${b.lesson} from './data/lesson${b.lesson}.json';`,
-    )
-    .join("\n");
+    .map((b) => `import lesson${b.lesson} from './data/lesson${b.lesson}.json';`)
+    .join('\n');
 
-  const mapping = lessonBoundaries
-    .map((b) => `  ${b.lesson}: lesson${b.lesson},`)
-    .join("\n");
+  const mapping = lessonBoundaries.map((b) => `  ${b.lesson}: lesson${b.lesson},`).join('\n');
 
   const loaderContent = `${imports}
 
@@ -337,16 +329,12 @@ export function getAllLessonsMetadata() {
 }
 `;
 
-  fs.writeFileSync(
-    path.join(process.cwd(), "lib", "lessonLoader.ts"),
-    loaderContent,
-    "utf-8",
-  );
+  fs.writeFileSync(path.join(process.cwd(), 'lib', 'lessonLoader.ts'), loaderContent, 'utf-8');
 
-  console.log("✅ Updated lib/lessonLoader.ts\n");
+  console.log('✅ Updated lib/lessonLoader.ts\n');
 
   // Validation
-  console.log("🔍 Running validation...\n");
+  console.log('🔍 Running validation...\n');
 
   let hasErrors = false;
   let warningCount = 0;
@@ -354,13 +342,11 @@ export function getAllLessonsMetadata() {
   lessonBoundaries.forEach((boundary) => {
     const filename = path.join(dataDir, `lesson${boundary.lesson}.json`);
     if (fs.existsSync(filename)) {
-      const lessonData = JSON.parse(fs.readFileSync(filename, "utf-8"));
+      const lessonData = JSON.parse(fs.readFileSync(filename, 'utf-8'));
 
       lessonData.characters.forEach((char, idx) => {
         if (!char.character) {
-          console.error(
-            `❌ Lesson ${boundary.lesson}, Index ${idx}: Missing character`,
-          );
+          console.error(`❌ Lesson ${boundary.lesson}, Index ${idx}: Missing character`);
           hasErrors = true;
         }
         if (!char.story || char.story.length < 10) {
@@ -368,7 +354,7 @@ export function getAllLessonsMetadata() {
         }
         if (char.tone < 1 || char.tone > 5) {
           console.error(
-            `❌ Lesson ${boundary.lesson}, Character ${char.character}: Invalid tone ${char.tone}`,
+            `❌ Lesson ${boundary.lesson}, Character ${char.character}: Invalid tone ${char.tone}`
           );
           hasErrors = true;
         }
@@ -376,36 +362,36 @@ export function getAllLessonsMetadata() {
     }
   });
 
-  console.log("");
+  console.log('');
   if (!hasErrors) {
-    console.log("✅ All critical validations passed!");
+    console.log('✅ All critical validations passed!');
   } else {
-    console.log("❌ Some errors found.");
+    console.log('❌ Some errors found.');
   }
 
   if (warningCount > 0) {
     console.log(`⚠️  ${warningCount} warnings (short stories)`);
   }
 
-  console.log("\n🎉 RTH lesson import complete!\n");
+  console.log('\n🎉 RTH lesson import complete!\n');
 
   // Show sample lessons
-  console.log("📋 Sample lessons:");
+  console.log('📋 Sample lessons:');
   [1, 10, 22, 31, 55, 77, 103, 110, 111, 112].forEach((lessonNum) => {
     const boundary = lessonBoundaries.find((b) => b.lesson === lessonNum);
     if (boundary) {
       const count = boundary.end - boundary.start + 1;
-      const name = boundary.name ? ` (${boundary.name})` : "";
+      const name = boundary.name ? ` (${boundary.name})` : '';
       console.log(
-        `   Lesson ${lessonNum}${name}: ${count} chars (${boundary.start}-${boundary.end})`,
+        `   Lesson ${lessonNum}${name}: ${count} chars (${boundary.start}-${boundary.end})`
       );
     }
   });
 
-  console.log("\n✅ All RTH lessons imported with correct boundaries!\n");
+  console.log('\n✅ All RTH lessons imported with correct boundaries!\n');
 }
 
 main().catch((error) => {
-  console.error("❌ Fatal error:", error);
+  console.error('❌ Fatal error:', error);
   process.exit(1);
 });

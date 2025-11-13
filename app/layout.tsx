@@ -1,9 +1,11 @@
-import type { Metadata } from "next";
-import "./globals.css";
+import type { Metadata } from 'next';
+import './globals.css';
+import ErrorBoundary from './components/ErrorBoundary';
 
 export const metadata: Metadata = {
-  title: "Chinese Characters Matching Game",
-  description: "Learn Traditional Chinese Characters using the RTH method",
+  title: 'Chinese Characters Learning Game | RTH Method',
+  description:
+    'Master 3,035 Traditional Chinese Characters through story-based memory and progressive difficulty testing',
 };
 
 export default function RootLayout({
@@ -14,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="antialiased min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
-        {children}
+        <ErrorBoundary>{children}</ErrorBoundary>
       </body>
     </html>
   );

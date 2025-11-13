@@ -4,7 +4,7 @@
     {
       "id": 1103,
       "character": "概",
-      "pinyin": "gai",
+      "pinyin": "gài",
       "tone": 4,
       "meaning": "approximate",
       "story": "Approximate tree already commands \"Gai!\" sharply - general outline!",
@@ -13,7 +13,7 @@
     {
       "id": 1104,
       "character": "平",
-      "pinyin": "ping",
+      "pinyin": "píng",
       "tone": 2,
       "meaning": "even",
       "story": "Even ground flat questions \"Ping? Level?\" curiously balanced!",
@@ -22,7 +22,7 @@
     {
       "id": 1105,
       "character": "評",
-      "pinyin": "ping",
+      "pinyin": "píng",
       "tone": 2,
       "meaning": "to evaluate",
       "story": "To evaluate words even questions \"Ping? Fair judgment?\" curiously criticizing!",
@@ -31,7 +31,7 @@
     {
       "id": 1106,
       "character": "坪",
-      "pinyin": "ping",
+      "pinyin": "píng",
       "tone": 2,
       "meaning": "Level Ground",
       "story": "Level ground earth even questions \"Ping? Flat plain?\" curiously measuring two-mat area!",
@@ -40,7 +40,7 @@
     {
       "id": 1107,
       "character": "乎",
-      "pinyin": "hu",
+      "pinyin": "hū",
       "tone": 1,
       "meaning": "ooh!",
       "story": "\"Ooh!\" exclaims cheerfully singing \"Hoo!\" high with surprise!",
@@ -49,7 +49,7 @@
     {
       "id": 1108,
       "character": "呼",
-      "pinyin": "hu",
+      "pinyin": "hū",
       "tone": 1,
       "meaning": "to shout",
       "story": "To shout mouth ooh sings \"Hoo!\" cheerfully exhaling loudly!",
@@ -58,7 +58,7 @@
     {
       "id": 1109,
       "character": "希",
-      "pinyin": "xi",
+      "pinyin": "xī",
       "tone": 1,
       "meaning": "to hope",
       "story": "To hope cloth scarce sings \"Shee!\" cheerfully expecting the rare!",
@@ -67,7 +67,7 @@
     {
       "id": 1110,
       "character": "稀",
-      "pinyin": "xi",
+      "pinyin": "xī",
       "tone": 1,
       "meaning": "scarce",
       "story": "Scarce grain hope sings \"Shee!\" cheerfully sparse and diluted!",
@@ -76,7 +76,7 @@
     {
       "id": 1111,
       "character": "學",
-      "pinyin": "xue",
+      "pinyin": "xué",
       "tone": 2,
       "meaning": "to study",
       "story": "To study child roof questions \"Shueh? Learning?\" curiously - science and -ology!",
@@ -85,7 +85,7 @@
     {
       "id": 1112,
       "character": "覺",
-      "pinyin": "jue",
+      "pinyin": "jué",
       "tone": 2,
       "meaning": "Senses",
       "story": "Senses study see questions \"Jueh? Aware?\" curiously waking to consciousness!",
@@ -94,7 +94,7 @@
     {
       "id": 1113,
       "character": "攪",
-      "pinyin": "jiao",
+      "pinyin": "jiǎo",
       "tone": 3,
       "meaning": "to stir",
       "story": "To stir hand senses bends down drooping saying \"Jiao\" - mixing and disturbing!",
@@ -103,7 +103,7 @@
     {
       "id": 1114,
       "character": "凶",
-      "pinyin": "xiong",
+      "pinyin": "xiōng",
       "tone": 1,
       "meaning": "sinister",
       "story": "Sinister box opening sings \"Shyong!\" terribly - ominous villain within!",
@@ -112,7 +112,7 @@
     {
       "id": 1115,
       "character": "兇",
-      "pinyin": "xiong",
+      "pinyin": "xiōng",
       "tone": 1,
       "meaning": "cruel",
       "story": "Cruel sinister brother sings \"Shyong!\" brutally - ferocious and atrocious!",
@@ -121,7 +121,7 @@
     {
       "id": 1116,
       "character": "胸",
-      "pinyin": "xiong",
+      "pinyin": "xiōng",
       "tone": 1,
       "meaning": "Bosom",
       "story": "Bosom flesh cruel sings \"Shyong!\" powerfully - chest and heart!",
@@ -130,7 +130,7 @@
     {
       "id": 1117,
       "character": "離",
-      "pinyin": "li",
+      "pinyin": "lí",
       "tone": 2,
       "meaning": "to leave",
       "story": "To leave bird departing questions \"Lee? Going away?\" curiously detaching!",
@@ -139,7 +139,7 @@
     {
       "id": 1118,
       "character": "禽",
-      "pinyin": "qin",
+      "pinyin": "qín",
       "tone": 2,
       "meaning": "Fowl",
       "story": "Fowl birds on person question \"Chin? What birds?\" curiously - captured fowl!",
@@ -148,7 +148,7 @@
     {
       "id": 1119,
       "character": "辛",
-      "pinyin": "xin",
+      "pinyin": "xīn",
       "tone": 1,
       "meaning": "peppery",
       "story": "Peppery standing offends, singing \"Shin!\" bitterly - 8th stem pungent and laborious!",
@@ -157,7 +157,7 @@
     {
       "id": 1120,
       "character": "辦",
-      "pinyin": "ban",
+      "pinyin": "bàn",
       "tone": 4,
       "meaning": "to manage",
       "story": "To manage two peppery commands \"Ban!\" sharply - handling affairs!",
@@ -166,7 +166,7 @@
     {
       "id": 1121,
       "character": "辯",
-      "pinyin": "bian",
+      "pinyin": "biàn",
       "tone": 4,
       "meaning": "to dispute",
       "story": "To dispute words pepper commands \"Bian!\" sharply - arguing and debating!",
@@ -175,7 +175,7 @@
     {
       "id": 1122,
       "character": "壁",
-      "pinyin": "bi",
+      "pinyin": "bì",
       "tone": 4,
       "meaning": "Partition",
       "story": "Partition earth peppery commands \"Bee!\" sharply - wall as rampart!",
@@ -184,7 +184,7 @@
     {
       "id": 1123,
       "character": "避",
-      "pinyin": "bi",
+      "pinyin": "bì",
       "tone": 4,
       "meaning": "to evade",
       "story": "To evade walk partition yells \"Bee!\" sharply - fleeing and hiding!",
@@ -193,7 +193,7 @@
     {
       "id": 1124,
       "character": "新",
-      "pinyin": "xin",
+      "pinyin": "xīn",
       "tone": 1,
       "meaning": "new",
       "story": "New standing tree ax sings \"Shin!\" cheerfully fresh and newly made!",
@@ -202,7 +202,7 @@
     {
       "id": 1125,
       "character": "薪",
-      "pinyin": "xin",
+      "pinyin": "xīn",
       "tone": 1,
       "meaning": "Fuel",
       "story": "Fuel grass new sings \"Shin!\" cheerfully - firewood and salary burning!",
@@ -211,7 +211,7 @@
     {
       "id": 1126,
       "character": "親",
-      "pinyin": "qin",
+      "pinyin": "qīn",
       "tone": 1,
       "meaning": "Relatives",
       "story": "Relatives stand tree see sing \"Chin!\" cheerfully - dear and intimate relations!",
@@ -220,7 +220,7 @@
     {
       "id": 1127,
       "character": "襯",
-      "pinyin": "chen",
+      "pinyin": "chèn",
       "tone": 4,
       "meaning": "Inner Garments",
       "story": "Inner garments clothes relatives command \"Chen!\" sharply - underwear beneath!",
@@ -229,7 +229,7 @@
     {
       "id": 1128,
       "character": "幸",
-      "pinyin": "xing",
+      "pinyin": "xìng",
       "tone": 4,
       "meaning": "Good Fortune",
       "story": "Good fortune hands bound command \"Shing!\" sharply - lucky and fortunate!",
@@ -238,7 +238,7 @@
     {
       "id": 1129,
       "character": "執",
-      "pinyin": "zhi",
+      "pinyin": "zhí",
       "tone": 2,
       "meaning": "to clench",
       "story": "To clench fortune hand questions \"Zhi? Grasping?\" tenaciously holding!",
@@ -247,7 +247,7 @@
     {
       "id": 1130,
       "character": "報",
-      "pinyin": "bao",
+      "pinyin": "bào",
       "tone": 4,
       "meaning": "Newspaper",
       "story": "Newspaper fortune strike commands \"Bao!\" sharply - announcing reports!",
@@ -256,7 +256,7 @@
     {
       "id": 1131,
       "character": "叫",
-      "pinyin": "jiao",
+      "pinyin": "jiào",
       "tone": 4,
       "meaning": "to call",
       "story": "To call mouth compare commands \"Jiao!\" sharply - shouting orders!",
@@ -265,7 +265,7 @@
     {
       "id": 1132,
       "character": "收",
-      "pinyin": "shou",
+      "pinyin": "shōu",
       "tone": 1,
       "meaning": "to receive",
       "story": "To receive hand again sings \"Show!\" cheerfully accepting - income collected!",
@@ -274,7 +274,7 @@
     {
       "id": 1133,
       "character": "陸",
-      "pinyin": "lu",
+      "pinyin": "lù",
       "tone": 4,
       "meaning": "Land",
       "story": "Land mound solid commands \"Loo!\" sharply - continental shore!",
@@ -283,7 +283,7 @@
     {
       "id": 1134,
       "character": "勢",
-      "pinyin": "shi",
+      "pinyin": "shì",
       "tone": 4,
       "meaning": "Force",
       "story": "Force land strike yells \"Shi!\" sharply - powerful influence!",
@@ -292,7 +292,7 @@
     {
       "id": 1135,
       "character": "熱",
-      "pinyin": "re",
+      "pinyin": "rè",
       "tone": 4,
       "meaning": "Heat",
       "story": "Heat force fire commands \"Ruh!\" sharply - fervent and hot weather!",
@@ -301,7 +301,7 @@
     {
       "id": 1136,
       "character": "藝",
-      "pinyin": "yi",
+      "pinyin": "yì",
       "tone": 4,
       "meaning": "Technique",
       "story": "Technique grass cloud person yells \"Yi!\" sharply - skillful art!",
@@ -310,7 +310,7 @@
     {
       "id": 1137,
       "character": "亥",
-      "pinyin": "hai",
+      "pinyin": "hài",
       "tone": 4,
       "meaning": "Sign Of The Hog",
       "story": "Sign of the hog at 9pm commands \"Hai!\" sharply - 12th earthly branch pig!",
@@ -319,7 +319,7 @@
     {
       "id": 1138,
       "character": "核",
-      "pinyin": "he",
+      "pinyin": "hé",
       "tone": 2,
       "meaning": "Nucleus",
       "story": "Nucleus tree hog questions \"Huh? Center?\" curiously - atomic core!",
@@ -328,7 +328,7 @@
     {
       "id": 1139,
       "character": "孩",
-      "pinyin": "hai",
+      "pinyin": "hái",
       "tone": 2,
       "meaning": "Tot",
       "story": "A tot child hog questions \"Hai? Little one?\" curiously young!",
@@ -337,7 +337,7 @@
     {
       "id": 1140,
       "character": "刻",
-      "pinyin": "ke",
+      "pinyin": "kè",
       "tone": 4,
       "meaning": "to carve",
       "story": "To carve hog knife commands \"Kuh!\" sharply - engraving quarter-hours!",
@@ -346,7 +346,7 @@
     {
       "id": 1141,
       "character": "該",
-      "pinyin": "gai",
+      "pinyin": "gāi",
       "tone": 1,
       "meaning": "should",
       "story": "Should words carve sing \"Gai!\" cheerfully - ought to as above-stated!",
@@ -355,7 +355,7 @@
     {
       "id": 1142,
       "character": "述",
-      "pinyin": "shu",
+      "pinyin": "shù",
       "tone": 4,
       "meaning": "to narrate",
       "story": "To narrate walk hog commands \"Shoo!\" sharply - telling and relating!",
@@ -364,7 +364,7 @@
     {
       "id": 1143,
       "character": "術",
-      "pinyin": "shu",
+      "pinyin": "shù",
       "tone": 4,
       "meaning": "Art",
       "story": "Art go narrate yells \"Shoo!\" sharply - skillful method and technique!",
@@ -373,7 +373,7 @@
     {
       "id": 1144,
       "character": "殺",
-      "pinyin": "sha",
+      "pinyin": "shā",
       "tone": 1,
       "meaning": "to kill",
       "story": "To kill tree art sings \"Sha!\" darkly - murdering and slaughtering!",
@@ -382,7 +382,7 @@
     {
       "id": 1145,
       "character": "襄",
-      "pinyin": "xiang",
+      "pinyin": "xiāng",
       "tone": 1,
       "meaning": "to aid",
       "story": "To aid clothes high sings \"Shyang!\" cheerfully assisting!",
@@ -391,7 +391,7 @@
     {
       "id": 1146,
       "character": "讓",
-      "pinyin": "rang",
+      "pinyin": "ràng",
       "tone": 4,
       "meaning": "to yield",
       "story": "To yield words aid commands \"Rang!\" sharply - allowing and permitting!",
@@ -400,7 +400,7 @@
     {
       "id": 1147,
       "character": "壤",
-      "pinyin": "rang",
+      "pinyin": "rǎng",
       "tone": 3,
       "meaning": "Territory",
       "story": "Territory earth yield bends down drooping saying \"Rang\" - soil and lot!",
@@ -409,7 +409,7 @@
     {
       "id": 1148,
       "character": "寒",
-      "pinyin": "han",
+      "pinyin": "hán",
       "tone": 2,
       "meaning": "frigid",
       "story": "Frigid house territory questions \"Han? Cold?\" curiously trembling poor!",

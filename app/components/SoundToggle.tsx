@@ -1,7 +1,7 @@
-"use client";
+'use client';
 
-import { useState, useEffect } from "react";
-import { getSoundManager } from "@/lib/sounds";
+import { useState, useEffect } from 'react';
+import { getSoundManager } from '@/lib/sounds';
 
 export default function SoundToggle() {
   const [isMuted, setIsMuted] = useState(false);
@@ -28,17 +28,11 @@ export default function SoundToggle() {
     <button
       onClick={toggleMute}
       className="text-gray-600 hover:text-gray-800 font-medium flex items-center gap-2 transition-colors"
-      aria-label={isMuted ? "Unmute sounds" : "Mute sounds"}
-      title={
-        isMuted
-          ? "Sounds off - Click to enable"
-          : "Sounds on - Click to disable"
-      }
+      aria-label={isMuted ? 'Unmute sounds' : 'Mute sounds'}
+      title={isMuted ? 'Sounds off - Click to enable' : 'Sounds on - Click to disable'}
     >
-      <span className="text-xl">{isMuted ? "🔇" : "🔊"}</span>
-      <span className="text-sm hidden sm:inline">
-        {isMuted ? "Sound Off" : "Sound On"}
-      </span>
+      <span className="text-xl">{isMuted ? '🔇' : '🔊'}</span>
+      <span className="text-sm hidden sm:inline">{isMuted ? 'Sound Off' : 'Sound On'}</span>
     </button>
   );
 }

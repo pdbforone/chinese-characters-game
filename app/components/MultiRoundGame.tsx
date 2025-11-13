@@ -1,11 +1,11 @@
-"use client";
+'use client';
 
-import { useState } from "react";
-import { Character, GameMode } from "@/lib/types";
-import { saveGameScore } from "@/lib/storage";
-import { playRoundCompleteSound, playLevelUnlockSound } from "@/lib/sounds";
-import GameBoard from "./GameBoard";
-import SoundToggle from "./SoundToggle";
+import { useState } from 'react';
+import { Character, GameMode } from '@/lib/types';
+import { saveGameScore } from '@/lib/storage';
+import { playRoundCompleteSound, playLevelUnlockSound } from '@/lib/sounds';
+import GameBoard from './GameBoard';
+import SoundToggle from './SoundToggle';
 
 interface MultiRoundGameProps {
   characters: Character[];
@@ -29,9 +29,7 @@ export default function MultiRoundGame({
   // Page = which set of 4 characters (0, 1, 2, etc.)
   const [currentRound, setCurrentRound] = useState(1); // 1, 2, or 3
   const [currentPage, setCurrentPage] = useState(0);
-  const [roundScores, setRoundScores] = useState<
-    { accuracy: number; score: number }[]
-  >([]);
+  const [roundScores, setRoundScores] = useState<{ accuracy: number; score: number }[]>([]);
   const [showTransition, setShowTransition] = useState(false);
 
   const getPageCharacters = () => {
@@ -41,9 +39,9 @@ export default function MultiRoundGame({
   };
 
   const getGameMode = (): GameMode => {
-    if (currentRound === 1) return "story-to-character";
-    if (currentRound === 2) return "character-to-story";
-    return "character-to-pinyin";
+    if (currentRound === 1) return 'story-to-character';
+    if (currentRound === 2) return 'character-to-story';
+    return 'character-to-pinyin';
   };
 
   const handlePageComplete = (accuracy: number, score: number) => {
@@ -62,12 +60,9 @@ export default function MultiRoundGame({
     }
   };
 
-  const handleRoundComplete = (
-    scores: { accuracy: number; score: number }[],
-  ) => {
+  const handleRoundComplete = (scores: { accuracy: number; score: number }[]) => {
     // Calculate overall stats for this round
-    const avgAccuracy =
-      scores.reduce((sum, s) => sum + s.accuracy, 0) / scores.length;
+    const avgAccuracy = scores.reduce((sum, s) => sum + s.accuracy, 0) / scores.length;
     const totalScore = scores.reduce((sum, s) => sum + s.score, 0);
 
     // Save progress
@@ -98,17 +93,15 @@ export default function MultiRoundGame({
   };
 
   const getRoundName = (): string => {
-    if (currentRound === 1) return "Round 1: Story → Character";
-    if (currentRound === 2) return "Round 2: Character → Story";
-    return "Round 3: Character → Pinyin";
+    if (currentRound === 1) return 'Round 1: Story → Character';
+    if (currentRound === 2) return 'Round 2: Character → Story';
+    return 'Round 3: Character → Pinyin';
   };
 
   const getRoundDescription = (): string => {
-    if (currentRound === 1)
-      return "Match stories to characters (pinyin & meaning shown)";
-    if (currentRound === 2)
-      return "Match characters to stories (only pinyin shown)";
-    return "Match characters to pinyin (no hints!)";
+    if (currentRound === 1) return 'Match stories to characters (pinyin & meaning shown)';
+    if (currentRound === 2) return 'Match characters to stories (only pinyin shown)';
+    return 'Match characters to pinyin (no hints!)';
   };
 
   if (showTransition) {
@@ -122,12 +115,10 @@ export default function MultiRoundGame({
             <>
               <div className="text-center mb-6">
                 <div className="text-5xl mb-4">
-                  {currentRound === 1 ? "📚" : currentRound === 2 ? "🎯" : "🏆"}
+                  {currentRound === 1 ? '📚' : currentRound === 2 ? '🎯' : '🏆'}
                 </div>
                 <h2 className="text-2xl font-bold text-gray-800 mb-2">
-                  {currentRound > 1
-                    ? "New Challenge Unlocked!"
-                    : "Ready to Begin!"}
+                  {currentRound > 1 ? 'New Challenge Unlocked!' : 'Ready to Begin!'}
                 </h2>
                 <p className="text-gray-600">
                   {currentRound > 1
@@ -137,9 +128,7 @@ export default function MultiRoundGame({
               </div>
 
               <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-4 mb-6">
-                <h3 className="font-semibold text-gray-800 mb-1">
-                  {getRoundName()}
-                </h3>
+                <h3 className="font-semibold text-gray-800 mb-1">{getRoundName()}</h3>
                 <p className="text-sm text-gray-600">{getRoundDescription()}</p>
                 <p className="text-xs text-gray-500 mt-2">
                   {totalPages} pages • {characters.length} characters total
@@ -157,14 +146,10 @@ export default function MultiRoundGame({
             <>
               <div className="text-center mb-6">
                 <div className="text-5xl mb-4">✓</div>
-                <h2 className="text-2xl font-bold text-gray-800 mb-2">
-                  Page Complete!
-                </h2>
+                <h2 className="text-2xl font-bold text-gray-800 mb-2">Page Complete!</h2>
                 <div className="text-lg text-gray-600">
-                  Accuracy:{" "}
-                  <span className="font-bold text-blue-600">
-                    {lastScore.accuracy.toFixed(0)}%
-                  </span>
+                  Accuracy:{' '}
+                  <span className="font-bold text-blue-600">{lastScore.accuracy.toFixed(0)}%</span>
                 </div>
               </div>
 

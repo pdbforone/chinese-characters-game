@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 interface ReturnUserModalProps {
   lessonNumber: number;
@@ -18,10 +18,10 @@ export default function ReturnUserModal({
   onStartGame,
 }: ReturnUserModalProps) {
   const getStarRating = (accuracy: number): string => {
-    if (accuracy >= 90) return "⭐⭐⭐";
-    if (accuracy >= 80) return "⭐⭐";
-    if (accuracy >= 60) return "⭐";
-    return "—";
+    if (accuracy >= 90) return '⭐⭐⭐';
+    if (accuracy >= 80) return '⭐⭐';
+    if (accuracy >= 60) return '⭐';
+    return '—';
   };
 
   return (
@@ -29,9 +29,7 @@ export default function ReturnUserModal({
       <div className="bg-white rounded-lg shadow-2xl p-8 max-w-md w-full">
         {/* Header */}
         <div className="text-center mb-6">
-          <h2 className="text-3xl font-bold text-gray-800 mb-2">
-            Welcome Back!
-          </h2>
+          <h2 className="text-3xl font-bold text-gray-800 mb-2">Welcome Back!</h2>
           <p className="text-gray-600">Lesson {lessonNumber}</p>
         </div>
 
@@ -49,15 +47,11 @@ export default function ReturnUserModal({
                 <div className="text-xs text-gray-600">Rating</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-indigo-600">
-                  {bestAccuracy.toFixed(0)}%
-                </div>
+                <div className="text-2xl font-bold text-indigo-600">{bestAccuracy.toFixed(0)}%</div>
                 <div className="text-xs text-gray-600">Accuracy</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-purple-600">
-                  {gamesPlayed}
-                </div>
+                <div className="text-2xl font-bold text-purple-600">{gamesPlayed}</div>
                 <div className="text-xs text-gray-600">Games</div>
               </div>
             </div>
@@ -77,9 +71,7 @@ export default function ReturnUserModal({
             <span className="text-2xl">📖</span>
             <div className="text-left">
               <div className="font-bold">Review Characters</div>
-              <div className="text-sm text-amber-100">
-                Go through the introduction again
-              </div>
+              <div className="text-sm text-amber-100">Go through the introduction again</div>
             </div>
           </button>
 
@@ -90,9 +82,7 @@ export default function ReturnUserModal({
             <span className="text-2xl">🎮</span>
             <div className="text-left">
               <div className="font-bold">Start Matching Game</div>
-              <div className="text-sm text-blue-100">
-                Jump straight to the challenge
-              </div>
+              <div className="text-sm text-blue-100">Jump straight to the challenge</div>
             </div>
           </button>
         </div>
