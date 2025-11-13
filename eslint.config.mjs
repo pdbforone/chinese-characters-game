@@ -16,6 +16,8 @@ export default [
       '**/coverage/**',
       '**/playwright-report/**',
       '**/test-results/**',
+      '**/scripts/**',
+      '**/*.config.{js,ts,mjs}',
     ],
   },
   js.configs.recommended,
