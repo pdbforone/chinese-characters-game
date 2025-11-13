@@ -1,13 +1,20 @@
 // Sound utility using Web Audio API for game feedback sounds
 
+// Type definition for browser compatibility
+interface WindowWithWebkit extends Window {
+  webkitAudioContext?: typeof AudioContext;
+}
+
 class SoundManager {
   private audioContext: AudioContext | null = null;
   private isMuted: boolean = false;
 
   constructor() {
     if (typeof window !== 'undefined') {
-      // Initialize AudioContext
-      this.audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+      // Initialize AudioContext with browser compatibility
+      const AudioContextClass =
+        window.AudioContext || (window as WindowWithWebkit).webkitAudioContext;
+      this.audioContext = AudioContextClass ? new AudioContextClass() : null;
       // Load mute preference from localStorage
       const savedMute = localStorage.getItem('rth_sounds_muted');
       this.isMuted = savedMute === 'true';
@@ -16,7 +23,9 @@ class SoundManager {
 
   private getContext(): AudioContext | null {
     if (!this.audioContext && typeof window !== 'undefined') {
-      this.audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+      const AudioContextClass =
+        window.AudioContext || (window as WindowWithWebkit).webkitAudioContext;
+      this.audioContext = AudioContextClass ? new AudioContextClass() : null;
     }
     return this.audioContext;
   }
