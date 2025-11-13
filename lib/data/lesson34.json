@@ -4,7 +4,7 @@
     {
       "id": 981,
       "character": "很",
-      "pinyin": "Hěn",
+      "pinyin": "hěn",
       "tone": 3,
       "meaning": "very",
       "story": "very bends down drooping saying \"Hen\"!",
@@ -13,7 +13,7 @@
     {
       "id": 982,
       "character": "根",
-      "pinyin": "Gēn",
+      "pinyin": "gēn",
       "tone": 1,
       "meaning": "Root",
       "story": "Root sings \"Gen!\" cheerfully!",
@@ -22,7 +22,7 @@
     {
       "id": 983,
       "character": "即",
-      "pinyin": "Jí",
+      "pinyin": "jí",
       "tone": 2,
       "meaning": "immediately",
       "story": "immediately questions \"Ji? Why?\" curiously!",
@@ -31,7 +31,7 @@
     {
       "id": 984,
       "character": "節",
-      "pinyin": "Jié",
+      "pinyin": "jié",
       "tone": 2,
       "meaning": "Holiday",
       "story": "Holiday questions \"Jie? Why?\" curiously!",
@@ -40,7 +40,7 @@
     {
       "id": 985,
       "character": "退",
-      "pinyin": "Tuì",
+      "pinyin": "tuì",
       "tone": 4,
       "meaning": "to retreat",
       "story": "to retreat commands \"Tui!\" yells!",
@@ -49,7 +49,7 @@
     {
       "id": 986,
       "character": "腿",
-      "pinyin": "Tuǐ",
+      "pinyin": "tuǐ",
       "tone": 3,
       "meaning": "Leg",
       "story": "Leg bends down drooping saying \"Tui\"!",
@@ -58,7 +58,7 @@
     {
       "id": 987,
       "character": "限",
-      "pinyin": "Xiàn",
+      "pinyin": "xiàn",
       "tone": 4,
       "meaning": "Limit",
       "story": "Limit commands \"Xian!\" yells!",
@@ -67,7 +67,7 @@
     {
       "id": 988,
       "character": "眼",
-      "pinyin": "Yǎn",
+      "pinyin": "yǎn",
       "tone": 3,
       "meaning": "Eyelet",
       "story": "Eyelet bends down drooping saying \"Yan\"!",
@@ -76,7 +76,7 @@
     {
       "id": 989,
       "character": "良",
-      "pinyin": "Liáng",
+      "pinyin": "liáng",
       "tone": 2,
       "meaning": "high-quality",
       "story": "high-quality questions \"Liang? Why?\" curiously!",
@@ -85,7 +85,7 @@
     {
       "id": 990,
       "character": "浪",
-      "pinyin": "Làng",
+      "pinyin": "làng",
       "tone": 4,
       "meaning": "Breakers",
       "story": "Breakers commands \"Lang!\" yells!",
@@ -94,7 +94,7 @@
     {
       "id": 991,
       "character": "娘",
-      "pinyin": "Niáng",
+      "pinyin": "niáng",
       "tone": 2,
       "meaning": "Mom",
       "story": "Mom questions \"Niang? Why?\" curiously!",
@@ -103,7 +103,7 @@
     {
       "id": 992,
       "character": "食",
-      "pinyin": "Shí",
+      "pinyin": "shí",
       "tone": 2,
       "meaning": "Food",
       "story": "Food questions \"Shi? Why?\" curiously!",
@@ -112,7 +112,7 @@
     {
       "id": 993,
       "character": "飯",
-      "pinyin": "Fàn",
+      "pinyin": "fàn",
       "tone": 4,
       "meaning": "Meal",
       "story": "Meal commands \"Fan!\" yells!",
@@ -121,7 +121,7 @@
     {
       "id": 994,
       "character": "餐",
-      "pinyin": "Cān",
+      "pinyin": "cān",
       "tone": 1,
       "meaning": "to dine",
       "story": "to dine sings \"Can!\" cheerfully!",
@@ -130,7 +130,7 @@
     {
       "id": 995,
       "character": "館",
-      "pinyin": "Guǎn",
+      "pinyin": "guǎn",
       "tone": 3,
       "meaning": "Bldg.",
       "story": "Bldg. bends down drooping saying \"Guan\"!",
@@ -139,7 +139,7 @@
     {
       "id": 996,
       "character": "養",
-      "pinyin": "Yǎng",
+      "pinyin": "yǎng",
       "tone": 3,
       "meaning": "to raise",
       "story": "to raise bends down drooping saying \"Yang\"!",
@@ -148,7 +148,7 @@
     {
       "id": 997,
       "character": "既",
-      "pinyin": "Jì",
+      "pinyin": "jì",
       "tone": 4,
       "meaning": "since",
       "story": "since commands \"Ji!\" yells!",
@@ -157,7 +157,7 @@
     {
       "id": 998,
       "character": "概",
-      "pinyin": "Gài",
+      "pinyin": "gài",
       "tone": 4,
       "meaning": "approximate",
       "story": "approximate commands \"Gai!\" yells!",
@@ -166,7 +166,7 @@
     {
       "id": 999,
       "character": "平",
-      "pinyin": "Píng",
+      "pinyin": "píng",
       "tone": 2,
       "meaning": "even",
       "story": "even questions \"Ping? Why?\" curiously!",
@@ -175,7 +175,7 @@
     {
       "id": 1000,
       "character": "評",
-      "pinyin": "Píng",
+      "pinyin": "píng",
       "tone": 2,
       "meaning": "to evaluate",
       "story": "to evaluate questions \"Ping? Why?\" curiously!",
