@@ -8,6 +8,7 @@ import StoryCard from './StoryCard';
 import CharacterCard from './CharacterCard';
 import PinyinCard from './PinyinCard';
 import ProgressBar from './ProgressBar';
+import HintToast from './HintToast';
 
 interface GameBoardProps {
   characters: Character[];
@@ -41,6 +42,8 @@ export default function GameBoard({
   });
   const [showCompletion, setShowCompletion] = useState(false);
   const [shuffleKey, setShuffleKey] = useState(0);
+  const [hintMessage, setHintMessage] = useState<string>('');
+  const [showHint, setShowHint] = useState(false);
 
   // Shuffle right column for display (but keep left in order)
   // Use useMemo to avoid setState in effect
@@ -121,6 +124,15 @@ export default function GameBoard({
         totalAttempts: newAttempts,
         accuracy: (gameStats.correctMatches / newAttempts) * 100,
       });
+
+      // Show hint with the correct story (only in rounds 2 and 3 where stories aren't visible)
+      if (round >= 2) {
+        const correctChar = characters.find((c) => c.id === leftId);
+        if (correctChar) {
+          setHintMessage(correctChar.story);
+          setShowHint(true);
+        }
+      }
 
       // Reset after animation
       setTimeout(() => {
@@ -323,6 +335,9 @@ export default function GameBoard({
           </div>
         </div>
       )}
+
+      {/* Hint Toast */}
+      <HintToast show={showHint} message={hintMessage} onClose={() => setShowHint(false)} />
     </div>
   );
 }

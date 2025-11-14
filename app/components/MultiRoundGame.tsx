@@ -1,9 +1,10 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Character, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
 import { playRoundCompleteSound, playLevelUnlockSound } from '@/lib/sounds';
+import { recordReview } from '@/lib/spacedRepetition';
 import GameBoard from './GameBoard';
 import SoundToggle from './SoundToggle';
 import ConfirmDialog from './ConfirmDialog';
@@ -70,6 +71,14 @@ export default function MultiRoundGame({
     // Save progress
     saveGameScore(lessonNumber, totalScore, avgAccuracy);
 
+    // Record spaced repetition data for each character
+    // Only record after Round 3 (final assessment) for accurate mastery tracking
+    if (currentRound === 3) {
+      characters.forEach((char) => {
+        recordReview(lessonNumber, char.id, char.character, avgAccuracy);
+      });
+    }
+
     // Check if we should advance to next round (difficulty level)
     if (currentRound < 3 && avgAccuracy >= 70) {
       // Advance to next difficulty
@@ -106,6 +115,27 @@ export default function MultiRoundGame({
   const handleCancelExit = () => {
     setShowExitConfirm(false);
   };
+
+  // Handle browser back button - show confirmation instead of immediate exit
+  useEffect(() => {
+    // Push a dummy state when component mounts
+    window.history.pushState({ preventBack: true }, '');
+
+    const handlePopState = (event: PopStateEvent) => {
+      if (event.state?.preventBack) {
+        // User pressed back button - show confirmation
+        setShowExitConfirm(true);
+        // Re-push the state to keep them on the page
+        window.history.pushState({ preventBack: true }, '');
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+    };
+  }, []);
 
   const getRoundName = (): string => {
     if (currentRound === 1) return 'Round 1: Story → Character';

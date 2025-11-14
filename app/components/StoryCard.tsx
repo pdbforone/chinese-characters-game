@@ -36,6 +36,17 @@ export default function StoryCard({
   return (
     <div
       onClick={isMatched ? undefined : onClick}
+      onKeyDown={(e) => {
+        if (!isMatched && (e.key === 'Enter' || e.key === ' ')) {
+          e.preventDefault();
+          onClick();
+        }
+      }}
+      tabIndex={isMatched ? -1 : 0}
+      role="button"
+      aria-label={`Story: ${character.story.substring(0, 100)}...`}
+      aria-pressed={isSelected}
+      aria-disabled={isMatched}
       className={`
         ${borderClass}
         ${bgClass}
@@ -45,6 +56,7 @@ export default function StoryCard({
         ${isMatched ? 'opacity-50 cursor-not-allowed' : ''}
         min-h-[120px]
         flex flex-col justify-center
+        focus:outline-none focus:ring-4 focus:ring-blue-300
       `}
     >
       <p className="text-gray-800 text-sm leading-relaxed">{character.story}</p>
