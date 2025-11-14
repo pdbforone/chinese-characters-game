@@ -131,7 +131,7 @@ export default function CharacterIntroduction({
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
               {characters.map((char) => (
                 <div key={char.id} className="flex items-center gap-3 p-2 bg-gray-50 rounded">
-                  <span className="text-2xl font-serif">{char.character}</span>
+                  <span className="text-2xl font-serif text-gray-900">{char.character}</span>
                   <span className="text-sm text-gray-600">
                     ({char.pinyin}) - {char.meaning}
                   </span>
@@ -195,7 +195,9 @@ export default function CharacterIntroduction({
 
         {/* Character Display */}
         <div className="text-center mb-8">
-          <div className="text-9xl font-serif mb-4 leading-none">{currentChar.character}</div>
+          <div className="text-9xl font-serif mb-4 leading-none text-gray-900">
+            {currentChar.character}
+          </div>
 
           {/* Audio Replay Button */}
           <div className="flex justify-center mb-4">
