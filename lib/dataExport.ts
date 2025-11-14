@@ -209,7 +209,6 @@ function mergeProgress(backup: BackupData): void {
   );
   const importedAchievements = JSON.parse(backup.data.achievements);
 
-   
   for (const [achId, imported] of Object.entries(importedAchievements.achievements || {}) as [
     string,
     any,
