@@ -28,22 +28,36 @@ This document is the **philosophical foundation** of the Chinese Characters Lear
 
 This is not just a flashcard app. It's a **cognitive architecture** for learning Chinese characters through the power of story-based memory encoding.
 
-We implement the **Remember These Hanzi (RTH)** methodology, which recognizes that the human brain remembers stories better than abstract shapes. Each of the 3,035 traditional Chinese characters is encoded with:
+We implement an original mnemonic methodology developed by **Paul David Burton**, building upon foundational concepts from Remember These Hanzi (RTH). The human brain remembers stories better than abstract shapes. Each of the 3,035 traditional Chinese characters is encoded with:
 
 - A **vivid mnemonic story** that connects visual primitives to meaning and pronunciation
+- **Tone-based onomatopoeia** using English sound-alikes that encode both pinyin pronunciation and tonal patterns
 - **Progressive difficulty testing** through 4 rounds that mirror how memory consolidates
 - **Immediate feedback loops** that reinforce correct associations and gently correct errors
+
+### The Innovation
+
+The **tone-onomatopoeia system** is what makes this approach unique. Instead of memorizing abstract pronunciations, learners encode sounds through vivid English onomatopoeia that mirrors the Chinese tone:
+
+- **Tone 1 (flat):** "Yeeee!" for 一 (yī) — sustained, high pitch
+- **Tone 2 (rising):** "Why ten?" for 十 (shí) — questioning, upward inflection
+- **Tone 3 (dipping):** "Woo" for 五 (wǔ) — low, curved sound
+- **Tone 4 (falling):** "ERR!" for 二 (èr) — sharp, downward command
+
+This dual-encoding (visual story + phonetic onomatopoeia) creates stronger memory traces than either approach alone.
 
 ### Why This Matters
 
 Learning Chinese characters is often taught as rote memorization. Students trace shapes thousands of times without understanding _why_ a character means what it means.
 
-The RTH method transforms this:
+This method transforms learning:
 
 - **From:** "This shape means 'tree' because I memorized it"
-- **To:** "This shape means 'tree' because it _looks_ like a tree, and the story connects it to the sound 'mù'"
+- **To:** "This shape means 'tree' because it _looks_ like a tree, and the story connects it to the sound 'mù' through vivid onomatopoeia"
 
 We're not building software to replace teachers. We're building software to **amplify human memory** through thoughtful pedagogy.
+
+**Acknowledgment:** This methodology builds upon the story-based approach pioneered by Remember These Hanzi (RTH), with innovations in tone encoding and phonetic mnemonics developed by Paul David Burton.
 
 ---
 
