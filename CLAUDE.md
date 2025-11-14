@@ -28,7 +28,7 @@ This document is the **philosophical foundation** of the Chinese Characters Lear
 
 This is not just a flashcard app. It's a **cognitive architecture** for learning Chinese characters through the power of story-based memory encoding.
 
-We implement an original mnemonic methodology created by **Paul David Burton** (PaulDavidBurton@gmail.com), building upon foundational concepts from Remember These Hanzi (RTH). The human brain remembers stories better than abstract shapes. Each of the 3,035 traditional Chinese characters is encoded with:
+We implement an original mnemonic methodology created by **Paul David Burton** (PaulDavidBurton@gmail.com), building upon foundational concepts from _Remembering Traditional Hanzi_ by James W. Heisig and Timothy W. Richardson. The human brain remembers stories better than abstract shapes. Each of the 3,035 traditional Chinese characters is encoded with:
 
 - A **vivid mnemonic story** that connects visual primitives to meaning and pronunciation
 - **Tone-based onomatopoeia** using English sound-alikes that encode both pinyin pronunciation and tonal patterns
@@ -59,7 +59,7 @@ This method transforms learning:
 
 We're not building software to replace teachers. We're building software to **amplify human memory** through thoughtful pedagogy.
 
-**Acknowledgment:** The mnemonic methodology, story system structure, and tone-encoding innovations are the original work of **Paul David Burton**. Character stories were AI-generated using his system. This work builds upon the story-based foundation pioneered by Remember These Hanzi (RTH).
+**Acknowledgment:** The mnemonic methodology, story system structure, and tone-encoding innovations are the original work of **Paul David Burton**. Character stories were AI-generated using his system. This work builds upon the story-based foundation of _Remembering Traditional Hanzi_ by James W. Heisig and Timothy W. Richardson.
 
 **Contact:** For questions about the methodology, reach Paul David Burton at PaulDavidBurton@gmail.com
 

@@ -2,7 +2,7 @@
 
 **Master 3,035 Traditional Chinese Characters Through Story-Based Memory**
 
-Created by **Paul David Burton** using his innovative tone-onomatopoeia mnemonic system, built upon the story-based foundation of Remember These Hanzi (RTH). Learn Chinese characters through vivid mnemonic stories with English sound-alike onomatopoeia that encode tonal patterns—backed by cognitive science and built with modern web technologies.
+Created by **Paul David Burton** using his innovative tone-onomatopoeia mnemonic system, built upon the story-based foundation of _Remembering Traditional Hanzi_ by James W. Heisig and Timothy W. Richardson. Learn Chinese characters through vivid mnemonic stories with English sound-alike onomatopoeia that encode tonal patterns—backed by cognitive science and built with modern web technologies.
 
 ---
 
@@ -324,9 +324,9 @@ This application implements an original mnemonic methodology created by **Paul D
 - **Dual-encoding mnemonics**: Visual stories combined with phonetic memory aids
 - **AI-generated stories**: Character stories created using Paul's methodology (work in progress)
 
-This work builds upon the story-based foundation pioneered by **Remember These Hanzi (RTH)**, which has helped thousands of learners master Chinese characters through narrative memory encoding.
+This work builds upon the story-based foundation of **_Remembering Traditional Hanzi_** by James W. Heisig and Timothy W. Richardson, which has helped thousands of learners master Chinese characters through narrative memory encoding.
 
-**Learn more**: [Remember These Hanzi](https://www.youtube.com/watch?v=troxvPRmZm8) (foundational methodology)
+**Learn more**: [Remembering Traditional Hanzi](https://www.youtube.com/watch?v=troxvPRmZm8) (foundational methodology)
 
 ### Built With
 
