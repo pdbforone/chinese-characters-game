@@ -2,30 +2,34 @@
 
 **Master 3,035 Traditional Chinese Characters Through Story-Based Memory**
 
-A web-based learning application implementing the **Remember These Hanzi (RTH)** methodology. Learn Chinese characters through vivid mnemonic stories and progressive difficulty testing—backed by cognitive science and built with modern web technologies.
+Created by **Paul David Burton** using his innovative tone-onomatopoeia mnemonic system, built upon the story-based foundation of _Remembering Traditional Hanzi_ by James W. Heisig and Timothy W. Richardson. Learn Chinese characters through vivid mnemonic stories with English sound-alike onomatopoeia that encode tonal patterns—backed by cognitive science and built with modern web technologies.
 
 ---
 
 ## 🎯 Overview
 
-Traditional Chinese character learning often relies on rote memorization—tracing shapes thousands of times without understanding their meaning or structure. This app transforms that experience by:
+Traditional Chinese character learning often relies on rote memorization—tracing shapes thousands of times without understanding their meaning or structure. This app transforms that experience through an original methodology developed by Paul David Burton:
 
 - **Encoding characters as stories**: Each character has a vivid mnemonic that connects its visual form to meaning and pronunciation
+- **Tone-based onomatopoeia**: English sound-alikes that mirror Chinese tones (e.g., "Yeeee!" for flat tone 1, "ERR!" for falling tone 4)
 - **Testing through progressive difficulty**: 4 rounds that mirror how human memory consolidates information
 - **Providing immediate feedback**: Sound and visual cues create an engaging, game-like experience
 - **Tracking your progress**: localStorage keeps your best scores and learning history private and local
 
 **Built for learners.** No sign-ups, no ads, no tracking. Just you and 3,035 characters waiting to be learned.
 
+**Methodology Contact:** PaulDavidBurton@gmail.com
+
 ---
 
 ## ✨ Features
 
-### 📚 Complete RTH Curriculum
+### 📚 Complete Curriculum
 
 - **112 lessons** covering the full traditional Chinese character set
-- **3,035 characters** with pronunciation, meaning, stories, and visual primitives
+- **3,035 characters** with pronunciation, meaning, mnemonic stories, and tone-onomatopoeia
 - Characters organized by learning progression (simple → complex)
+- Stories AI-generated following Paul David Burton's methodology
 
 ### 🎮 4-Round Learning System
 
@@ -312,11 +316,17 @@ We welcome contributions! Whether you're:
 
 ## 🙏 Acknowledgments
 
-### Remember These Hanzi (RTH)
+### Methodology
 
-This application implements the pedagogical methodology developed by the RTH community. The mnemonic stories and character data are derived from the RTH system, which has helped thousands of learners master Chinese characters through story-based memory encoding.
+This application implements an original mnemonic methodology created by **Paul David Burton** (PaulDavidBurton@gmail.com). The system features:
 
-**Learn more**: [Remember These Hanzi](https://www.youtube.com/watch?v=troxvPRmZm8) (methodology overview)
+- **Tone-based onomatopoeia**: English sound-alikes that encode Chinese tonal patterns
+- **Dual-encoding mnemonics**: Visual stories combined with phonetic memory aids
+- **AI-generated stories**: Character stories created using Paul's methodology (work in progress)
+
+This work builds upon the story-based foundation of **_Remembering Traditional Hanzi_** by James W. Heisig and Timothy W. Richardson, which has helped thousands of learners master Chinese characters through narrative memory encoding.
+
+**Learn more**: [Remembering Traditional Hanzi](https://www.youtube.com/watch?v=troxvPRmZm8) (foundational methodology)
 
 ### Built With
 
@@ -331,7 +341,7 @@ This application implements the pedagogical methodology developed by the RTH com
 
 - **Issues**: [GitHub Issues](https://github.com/pdbforone/chinese-characters-game/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/pdbforone/chinese-characters-game/discussions)
-- **Email**: [Your contact if you want to add one]
+- **Methodology Questions**: PaulDavidBurton@gmail.com
 
 ---
 
