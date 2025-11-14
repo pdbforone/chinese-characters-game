@@ -105,7 +105,7 @@ export default function CharacterIntroduction({
           {/* Header */}
           <div className="mb-6">
             <h2 className="text-2xl font-bold text-gray-800 text-center mb-2">
-              RTH Lesson {lessonNumber} - Ready to Test!
+              Lesson {lessonNumber} - Ready to Test!
             </h2>
             <div className="w-full bg-green-200 rounded-full h-3">
               <div className="bg-green-600 h-full rounded-full" style={{ width: '100%' }} />
@@ -178,7 +178,7 @@ export default function CharacterIntroduction({
         <div className="mb-8">
           <div className="flex justify-between items-center mb-2">
             <h2 className="text-xl font-bold text-gray-800">
-              RTH Lesson {lessonNumber} - Learning Phase
+              Lesson {lessonNumber} - Learning Phase
             </h2>
             <span className="text-sm font-medium text-gray-600">
               Character {currentIndex + 1} of {characters.length}

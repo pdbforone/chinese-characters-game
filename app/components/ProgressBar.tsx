@@ -23,7 +23,7 @@ export default function ProgressBar({
     <div className="mb-6">
       <div className="flex justify-between items-center mb-2">
         <h2 className="text-xl font-bold text-gray-800">
-          RTH Lesson {lesson} - Round {round}
+          Lesson {lesson} - Round {round}
           {totalPages > 1 && (
             <span className="text-base text-gray-600 ml-2">
               (Page {page} of {totalPages})
