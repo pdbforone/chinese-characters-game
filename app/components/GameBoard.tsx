@@ -82,12 +82,36 @@ export default function GameBoard({
   const checkMatch = (leftId: number, rightId: number) => {
     const newAttempts = gameStats.totalAttempts + 1;
 
-    if (leftId === rightId) {
+    // Determine if this is a correct match based on game mode
+    let isCorrectMatch = false;
+
+    if (gameMode === 'character-to-pinyin') {
+      // Round 4: Match based on pinyin, not ID
+      // This handles homophonic characters (e.g., multiple characters with pinyin "mù")
+      const leftChar = characters.find((c) => c.id === leftId);
+      const rightChar = shuffledRight.find((c) => c.id === rightId);
+      isCorrectMatch = leftChar?.pinyin === rightChar?.pinyin;
+    } else {
+      // Rounds 1-3: Match based on exact ID (story/character matching)
+      isCorrectMatch = leftId === rightId;
+    }
+
+    if (isCorrectMatch) {
       // Correct match!
       playCorrectSound();
 
       const newMatched = new Set(matched);
-      newMatched.add(leftId);
+
+      // For pinyin matching, mark BOTH IDs as matched
+      // (they might be different characters with same pronunciation)
+      if (gameMode === 'character-to-pinyin') {
+        newMatched.add(leftId);
+        newMatched.add(rightId);
+      } else {
+        // For other modes, leftId === rightId, so we only need to add once
+        newMatched.add(leftId);
+      }
+
       setMatched(newMatched);
       setSelectedLeft(null);
       setSelectedRight(null);
