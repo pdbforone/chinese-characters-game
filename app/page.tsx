@@ -36,12 +36,20 @@ export default function Home() {
             Master <span className="font-bold text-indigo-600">3,035</span> Traditional Chinese
             Characters through story-based memory and progressive difficulty
           </p>
-          <Link
-            href="/achievements"
-            className="inline-flex items-center gap-2 text-amber-600 hover:text-amber-800 font-semibold transition-colors"
-          >
-            🏆 View Achievements
-          </Link>
+          <div className="flex justify-center gap-4 flex-wrap">
+            <Link
+              href="/achievements"
+              className="inline-flex items-center gap-2 text-amber-600 hover:text-amber-800 font-semibold transition-colors"
+            >
+              🏆 View Achievements
+            </Link>
+            <Link
+              href="/settings"
+              className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold transition-colors"
+            >
+              ⚙️ Settings
+            </Link>
+          </div>
         </header>
 
         {/* User Stats Panel */}
