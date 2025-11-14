@@ -4,11 +4,24 @@ import ErrorBoundary from './components/ErrorBoundary';
 import InstallPrompt from './components/InstallPrompt';
 
 export const metadata: Metadata = {
-  title: 'Chinese Characters Learning Game | RTH Method',
+  title: '汉字 Learning Game - Master Chinese Characters',
   description:
-    'Master 3,035 Traditional Chinese Characters through story-based memory and progressive difficulty testing',
+    'Master 3,035 Traditional Chinese Characters. Created by Paul David Burton using his tone-onomatopoeia mnemonic system, built upon RTH foundations.',
   manifest: '/manifest.json',
   themeColor: '#4F46E5',
+  openGraph: {
+    title: '汉字 Learning Game by Paul David Burton',
+    description:
+      'Master 3,035 Traditional Chinese Characters using the Paul David Burton mnemonic method - story-based memory with tone-encoding onomatopoeia. Built upon RTH foundations.',
+    type: 'website',
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: '汉字 Learning Game by Paul David Burton',
+    description:
+      'Master 3,035 Traditional Chinese Characters with tone-based onomatopoeia mnemonics. Built upon RTH foundations.',
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',

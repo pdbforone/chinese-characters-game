@@ -73,7 +73,7 @@ describe('CharacterIntroduction', () => {
       <CharacterIntroduction characters={mockCharacters} lessonNumber={1} onComplete={onComplete} />
     );
 
-    expect(screen.getByText(/RTH Lesson 1/i)).toBeInTheDocument();
+    expect(screen.getByText(/Lesson 1/i)).toBeInTheDocument();
   });
 
   it('renders navigation buttons', () => {
