@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useMemo } from 'react';
 import { getAllLessonsMetadata } from '@/lib/lessonLoader';
 import { getLessonProgress, type LessonProgress } from '@/lib/storage';
+import { getMasteryStats } from '@/lib/spacedRepetition';
 import UserStatsPanel from './components/UserStatsPanel';
 
 export default function Home() {
@@ -18,25 +19,36 @@ export default function Home() {
     return progress;
   }, [lessons]);
 
+  // Load spaced repetition statistics
+  const masteryStats = useMemo(() => getMasteryStats(), []);
+
   return (
     <div className="min-h-screen py-8 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <header className="text-center mb-8">
-          <h1 className="text-5xl sm:text-6xl font-bold mb-3 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
-            汉字 Learning Game
-          </h1>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          <div className="flex justify-center items-center gap-4 mb-4">
+            <h1 className="text-5xl sm:text-6xl font-bold bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
+              汉字 Learning Game
+            </h1>
+          </div>
+          <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-4">
             Master <span className="font-bold text-indigo-600">3,035</span> Traditional Chinese
             Characters through story-based memory and progressive difficulty
           </p>
+          <Link
+            href="/achievements"
+            className="inline-flex items-center gap-2 text-amber-600 hover:text-amber-800 font-semibold transition-colors"
+          >
+            🏆 View Achievements
+          </Link>
         </header>
 
         {/* User Stats Panel */}
         <UserStatsPanel />
 
         {/* Quick Info Cards */}
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
           <div className="bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl p-4 text-white shadow-lg hover:shadow-xl transition-shadow">
             <div className="flex items-center gap-3">
               <div className="text-4xl">📚</div>
@@ -65,6 +77,23 @@ export default function Home() {
               <div>
                 <p className="text-sm opacity-90">4 Difficulty Rounds</p>
                 <p className="text-2xl font-bold">Progressive</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="bg-gradient-to-br from-amber-500 to-orange-600 rounded-xl p-4 text-white shadow-lg hover:shadow-xl transition-shadow">
+            <div className="flex items-center gap-3">
+              <div className="text-4xl">🧠</div>
+              <div>
+                <p className="text-sm opacity-90">Spaced Repetition</p>
+                <p className="text-2xl font-bold">
+                  {masteryStats.dueToday > 0 ? `${masteryStats.dueToday} Due` : 'Active'}
+                </p>
+                {masteryStats.totalLearned > 0 && (
+                  <p className="text-xs opacity-80 mt-1">
+                    {masteryStats.totalLearned} learned • Ease: {masteryStats.averageEaseFactor}
+                  </p>
+                )}
               </div>
             </div>
           </div>

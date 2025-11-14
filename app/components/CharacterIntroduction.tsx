@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from 'react';
 import { Character } from '@/lib/types';
+import { playCharacterPronunciation, preloadCharacterAudio } from '@/lib/audio';
 
 interface CharacterIntroductionProps {
   characters: Character[];
@@ -30,6 +31,7 @@ export default function CharacterIntroduction({
   onComplete,
 }: CharacterIntroductionProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [isPlayingAudio, setIsPlayingAudio] = useState(false);
 
   // Derive isLastCard directly instead of using useEffect
   const isLastCard = currentIndex === characters.length;
@@ -59,6 +61,38 @@ export default function CharacterIntroduction({
     return () => window.removeEventListener('keydown', handleKeyboard);
   }, [handleNext, handlePrevious, isLastCard, onComplete]);
 
+  // Preload audio for all characters on mount
+  useEffect(() => {
+    const allCharacters = characters.map((c) => c.character);
+    preloadCharacterAudio(allCharacters);
+  }, [characters]);
+
+  // Auto-play pronunciation when character changes
+  useEffect(() => {
+    if (!currentChar) return;
+
+    const playAudio = async () => {
+      await playCharacterPronunciation(
+        currentChar.character,
+        () => setIsPlayingAudio(true),
+        () => setIsPlayingAudio(false)
+      );
+    };
+
+    playAudio();
+  }, [currentChar]);
+
+  // Manual replay function
+  const handleReplayAudio = async () => {
+    if (!currentChar || isPlayingAudio) return;
+
+    await playCharacterPronunciation(
+      currentChar.character,
+      () => setIsPlayingAudio(true),
+      () => setIsPlayingAudio(false)
+    );
+  };
+
   const getToneInfo = (tone: number) => {
     return TONE_COLORS[tone as keyof typeof TONE_COLORS] || TONE_COLORS[5];
   };
@@ -81,9 +115,14 @@ export default function CharacterIntroduction({
           {/* Celebration */}
           <div className="text-center mb-8">
             <div className="text-6xl mb-4">🎓</div>
-            <h3 className="text-xl font-semibold text-gray-700 mb-4">
+            <h3 className="text-xl font-semibold text-gray-700 mb-2">
               You&apos;ve learned all {characters.length} characters!
             </h3>
+            <p className="text-sm text-gray-600 bg-blue-50 border border-blue-200 rounded-lg p-3 max-w-md mx-auto">
+              💡 <strong>Don&apos;t worry!</strong> You&apos;ll practice these in small groups of{' '}
+              <strong>4 characters</strong> at a time to reduce cognitive load and improve
+              retention.
+            </p>
           </div>
 
           {/* Summary List */}
@@ -158,6 +197,25 @@ export default function CharacterIntroduction({
         <div className="text-center mb-8">
           <div className="text-9xl font-serif mb-4 leading-none">{currentChar.character}</div>
 
+          {/* Audio Replay Button */}
+          <div className="flex justify-center mb-4">
+            <button
+              onClick={handleReplayAudio}
+              disabled={isPlayingAudio}
+              aria-label={`Play pronunciation for ${currentChar.character}`}
+              className={`flex items-center gap-2 px-4 py-2 rounded-lg font-medium transition-all ${
+                isPlayingAudio
+                  ? 'bg-blue-100 text-blue-400 cursor-not-allowed'
+                  : 'bg-blue-500 hover:bg-blue-600 text-white hover:shadow-lg'
+              }`}
+            >
+              <span className="text-xl">{isPlayingAudio ? '🔊' : '🔊'}</span>
+              <span className="text-sm">
+                {isPlayingAudio ? 'Playing...' : 'Replay Pronunciation'}
+              </span>
+            </button>
+          </div>
+
           <div className="text-3xl text-gray-700 mb-2">({currentChar.pinyin})</div>
 
           <div className={`text-xl font-semibold ${toneInfo.color} mb-1`}>
@@ -206,12 +264,13 @@ export default function CharacterIntroduction({
         </div>
 
         {/* Skip Option */}
-        <div className="text-center">
+        <div className="text-center bg-gray-50 rounded-lg p-3 border border-gray-200">
+          <p className="text-xs text-gray-600 mb-2">Already familiar with these characters?</p>
           <button
             onClick={onComplete}
-            className="text-sm text-gray-500 hover:text-gray-700 underline"
+            className="text-sm font-medium text-blue-600 hover:text-blue-800 underline"
           >
-            Skip to Matching Game →
+            Skip Introduction & Start Game →
           </button>
         </div>
 

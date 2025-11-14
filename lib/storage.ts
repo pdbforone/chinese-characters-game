@@ -98,3 +98,33 @@ function getDefaultProgress(lessonId: number): LessonProgress {
     lastPlayed: new Date().toISOString(),
   };
 }
+
+export function getAllLessonProgress(): Record<number, LessonProgress> {
+  if (typeof window === 'undefined') {
+    return {};
+  }
+
+  try {
+    const data = localStorage.getItem(STORAGE_KEY);
+    if (!data) {
+      return {};
+    }
+
+    const allProgress = JSON.parse(data);
+    const result: Record<number, LessonProgress> = {};
+
+    // Convert from lesson_N keys to numeric keys
+    Object.keys(allProgress).forEach((key) => {
+      const match = key.match(/lesson_(\d+)/);
+      if (match) {
+        const lessonId = parseInt(match[1], 10);
+        result[lessonId] = allProgress[key];
+      }
+    });
+
+    return result;
+  } catch (error) {
+    console.error('Error reading all lesson progress:', error);
+    return {};
+  }
+}

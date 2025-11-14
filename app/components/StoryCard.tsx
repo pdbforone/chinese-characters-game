@@ -36,6 +36,17 @@ export default function StoryCard({
   return (
     <div
       onClick={isMatched ? undefined : onClick}
+      onKeyDown={(e) => {
+        if (!isMatched && (e.key === 'Enter' || e.key === ' ')) {
+          e.preventDefault();
+          onClick();
+        }
+      }}
+      tabIndex={isMatched ? -1 : 0}
+      role="button"
+      aria-label={`Story: ${character.story.substring(0, 100)}...`}
+      aria-pressed={isSelected}
+      aria-disabled={isMatched}
       className={`
         ${borderClass}
         ${bgClass}
@@ -45,12 +56,24 @@ export default function StoryCard({
         ${isMatched ? 'opacity-50 cursor-not-allowed' : ''}
         min-h-[120px]
         flex flex-col justify-center
+        focus:outline-none focus:ring-4 focus:ring-blue-300
       `}
     >
       <p className="text-gray-800 text-sm leading-relaxed">{character.story}</p>
       {isMatched && (
-        <div className="mt-2 flex justify-end">
-          <span className="text-green-600 text-xl">✓</span>
+        <div className="mt-2 flex items-center gap-2">
+          <span className="text-green-600 text-2xl font-bold" aria-label="Correct match">
+            ✓
+          </span>
+          <span className="text-green-700 font-semibold text-sm">Correct!</span>
+        </div>
+      )}
+      {isIncorrect && (
+        <div className="mt-2 flex items-center gap-2">
+          <span className="text-red-600 text-2xl font-bold" aria-label="Incorrect match">
+            ✗
+          </span>
+          <span className="text-red-700 font-semibold text-sm">Try again</span>
         </div>
       )}
     </div>

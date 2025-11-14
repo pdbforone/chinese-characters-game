@@ -15,6 +15,7 @@ const config: Config = {
       animation: {
         shake: "shake 0.5s",
         "pulse-green": "pulse-green 0.5s",
+        "slide-up": "slide-up 0.3s ease-out",
       },
       keyframes: {
         shake: {
@@ -30,6 +31,16 @@ const config: Config = {
           "50%": {
             backgroundColor: "rgb(74 222 128)",
             transform: "scale(1.05)",
+          },
+        },
+        "slide-up": {
+          "0%": {
+            transform: "translateY(100px) translateX(-50%)",
+            opacity: "0",
+          },
+          "100%": {
+            transform: "translateY(0) translateX(-50%)",
+            opacity: "1",
           },
         },
       },
