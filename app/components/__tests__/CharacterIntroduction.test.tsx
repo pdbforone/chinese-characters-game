@@ -97,6 +97,6 @@ describe('CharacterIntroduction', () => {
       <CharacterIntroduction characters={mockCharacters} lessonNumber={1} onComplete={onComplete} />
     );
 
-    expect(screen.getByText(/Skip to Matching Game/i)).toBeInTheDocument();
+    expect(screen.getByText(/Skip Introduction & Start Game/i)).toBeInTheDocument();
   });
 });

@@ -49,8 +49,19 @@ export default function PinyinCard({
     >
       <div className="text-4xl font-semibold text-gray-900 mb-2">{character.pinyin}</div>
       {isMatched && (
-        <div className="mt-2">
-          <span className="text-green-600 text-xl">✓</span>
+        <div className="mt-2 flex items-center gap-2">
+          <span className="text-green-600 text-2xl font-bold" aria-label="Correct match">
+            ✓
+          </span>
+          <span className="text-green-700 font-semibold text-sm">Correct!</span>
+        </div>
+      )}
+      {isIncorrect && (
+        <div className="mt-2 flex items-center gap-2">
+          <span className="text-red-600 text-2xl font-bold" aria-label="Incorrect match">
+            ✗
+          </span>
+          <span className="text-red-700 font-semibold text-sm">Try again</span>
         </div>
       )}
     </div>

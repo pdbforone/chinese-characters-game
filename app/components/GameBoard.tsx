@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { Character, GameStats, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
 import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
@@ -137,6 +137,13 @@ export default function GameBoard({
     if (accuracy >= 60) return '⭐ Bronze';
     return 'Try Again';
   };
+
+  // Scroll to top when completion modal appears (UX improvement)
+  useEffect(() => {
+    if (showCompletion) {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }, [showCompletion]);
 
   const resetGame = () => {
     setSelectedLeft(null);

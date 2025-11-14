@@ -81,9 +81,14 @@ export default function CharacterIntroduction({
           {/* Celebration */}
           <div className="text-center mb-8">
             <div className="text-6xl mb-4">🎓</div>
-            <h3 className="text-xl font-semibold text-gray-700 mb-4">
+            <h3 className="text-xl font-semibold text-gray-700 mb-2">
               You&apos;ve learned all {characters.length} characters!
             </h3>
+            <p className="text-sm text-gray-600 bg-blue-50 border border-blue-200 rounded-lg p-3 max-w-md mx-auto">
+              💡 <strong>Don&apos;t worry!</strong> You&apos;ll practice these in small groups of{' '}
+              <strong>4 characters</strong> at a time to reduce cognitive load and improve
+              retention.
+            </p>
           </div>
 
           {/* Summary List */}
@@ -206,12 +211,13 @@ export default function CharacterIntroduction({
         </div>
 
         {/* Skip Option */}
-        <div className="text-center">
+        <div className="text-center bg-gray-50 rounded-lg p-3 border border-gray-200">
+          <p className="text-xs text-gray-600 mb-2">Already familiar with these characters?</p>
           <button
             onClick={onComplete}
-            className="text-sm text-gray-500 hover:text-gray-700 underline"
+            className="text-sm font-medium text-blue-600 hover:text-blue-800 underline"
           >
-            Skip to Matching Game →
+            Skip Introduction & Start Game →
           </button>
         </div>
 

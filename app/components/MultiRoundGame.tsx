@@ -6,6 +6,7 @@ import { saveGameScore } from '@/lib/storage';
 import { playRoundCompleteSound, playLevelUnlockSound } from '@/lib/sounds';
 import GameBoard from './GameBoard';
 import SoundToggle from './SoundToggle';
+import ConfirmDialog from './ConfirmDialog';
 
 interface MultiRoundGameProps {
   characters: Character[];
@@ -31,6 +32,7 @@ export default function MultiRoundGame({
   const [currentPage, setCurrentPage] = useState(0);
   const [roundScores, setRoundScores] = useState<{ accuracy: number; score: number }[]>([]);
   const [showTransition, setShowTransition] = useState(false);
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
 
   const getPageCharacters = () => {
     const start = currentPage * CHARACTERS_PER_PAGE;
@@ -90,6 +92,19 @@ export default function MultiRoundGame({
   const handleContinue = () => {
     setShowTransition(false);
     setCurrentPage(currentPage + 1);
+  };
+
+  const handleBackClick = () => {
+    setShowExitConfirm(true);
+  };
+
+  const handleConfirmExit = () => {
+    setShowExitConfirm(false);
+    onBackToLessons();
+  };
+
+  const handleCancelExit = () => {
+    setShowExitConfirm(false);
   };
 
   const getRoundName = (): string => {
@@ -185,10 +200,22 @@ export default function MultiRoundGame({
 
   return (
     <div className="min-h-screen py-8">
+      {/* Confirmation Dialog */}
+      <ConfirmDialog
+        isOpen={showExitConfirm}
+        title="Leave Lesson?"
+        message="Your progress has been saved, but you'll exit the current game. Are you sure you want to return to the lesson list?"
+        confirmText="Yes, Exit"
+        cancelText="Stay Here"
+        onConfirm={handleConfirmExit}
+        onCancel={handleCancelExit}
+        variant="warning"
+      />
+
       {/* Navigation Header */}
       <div className="max-w-7xl mx-auto px-4 mb-6 flex justify-between items-center">
         <button
-          onClick={onBackToLessons}
+          onClick={handleBackClick}
           className="text-blue-600 hover:text-blue-800 font-medium flex items-center gap-2"
         >
           ← Back to Lessons

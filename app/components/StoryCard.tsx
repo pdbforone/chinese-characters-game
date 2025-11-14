@@ -49,8 +49,19 @@ export default function StoryCard({
     >
       <p className="text-gray-800 text-sm leading-relaxed">{character.story}</p>
       {isMatched && (
-        <div className="mt-2 flex justify-end">
-          <span className="text-green-600 text-xl">✓</span>
+        <div className="mt-2 flex items-center gap-2">
+          <span className="text-green-600 text-2xl font-bold" aria-label="Correct match">
+            ✓
+          </span>
+          <span className="text-green-700 font-semibold text-sm">Correct!</span>
+        </div>
+      )}
+      {isIncorrect && (
+        <div className="mt-2 flex items-center gap-2">
+          <span className="text-red-600 text-2xl font-bold" aria-label="Incorrect match">
+            ✗
+          </span>
+          <span className="text-red-700 font-semibold text-sm">Try again</span>
         </div>
       )}
     </div>

@@ -40,6 +40,17 @@ export default function CharacterCard({
   return (
     <div
       onClick={isMatched ? undefined : onClick}
+      onKeyDown={(e) => {
+        if (!isMatched && (e.key === 'Enter' || e.key === ' ')) {
+          e.preventDefault();
+          onClick();
+        }
+      }}
+      tabIndex={isMatched ? -1 : 0}
+      role="button"
+      aria-label={`Character ${character.character}, pronounced ${character.pinyin}${showMeaning ? `, meaning ${character.meaning}` : ''}`}
+      aria-pressed={isSelected}
+      aria-disabled={isMatched}
       className={`
         ${borderClass}
         ${bgClass}
@@ -49,6 +60,7 @@ export default function CharacterCard({
         ${isMatched ? 'opacity-50 cursor-not-allowed' : ''}
         min-h-[160px]
         flex flex-col items-center justify-center
+        focus:outline-none focus:ring-4 focus:ring-blue-300
       `}
     >
       <div className="text-6xl mb-2 font-serif text-gray-900">{character.character}</div>
@@ -59,8 +71,19 @@ export default function CharacterCard({
         </div>
       )}
       {isMatched && (
-        <div className="mt-2">
-          <span className="text-green-600 text-xl">✓</span>
+        <div className="mt-2 flex items-center gap-2">
+          <span className="text-green-600 text-2xl font-bold" aria-label="Correct match">
+            ✓
+          </span>
+          <span className="text-green-700 font-semibold text-sm">Correct!</span>
+        </div>
+      )}
+      {isIncorrect && (
+        <div className="mt-2 flex items-center gap-2">
+          <span className="text-red-600 text-2xl font-bold" aria-label="Incorrect match">
+            ✗
+          </span>
+          <span className="text-red-700 font-semibold text-sm">Try again</span>
         </div>
       )}
     </div>
