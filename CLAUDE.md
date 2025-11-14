@@ -28,7 +28,7 @@ This document is the **philosophical foundation** of the Chinese Characters Lear
 
 This is not just a flashcard app. It's a **cognitive architecture** for learning Chinese characters through the power of story-based memory encoding.
 
-We implement an original mnemonic methodology developed by **Paul David Burton**, building upon foundational concepts from Remember These Hanzi (RTH). The human brain remembers stories better than abstract shapes. Each of the 3,035 traditional Chinese characters is encoded with:
+We implement an original mnemonic methodology created by **Paul David Burton** (PaulDavidBurton@gmail.com), building upon foundational concepts from Remember These Hanzi (RTH). The human brain remembers stories better than abstract shapes. Each of the 3,035 traditional Chinese characters is encoded with:
 
 - A **vivid mnemonic story** that connects visual primitives to meaning and pronunciation
 - **Tone-based onomatopoeia** using English sound-alikes that encode both pinyin pronunciation and tonal patterns
@@ -37,7 +37,9 @@ We implement an original mnemonic methodology developed by **Paul David Burton**
 
 ### The Innovation
 
-The **tone-onomatopoeia system** is what makes this approach unique. Instead of memorizing abstract pronunciations, learners encode sounds through vivid English onomatopoeia that mirrors the Chinese tone:
+The **mnemonic system and tone-onomatopoeia methodology** is the original work of Paul David Burton. The specific character stories implementing this system were AI-generated following his methodology. This is a **work in progress**, with stories and methodology continuing to evolve.
+
+Instead of memorizing abstract pronunciations, learners encode sounds through vivid English onomatopoeia that mirrors the Chinese tone:
 
 - **Tone 1 (flat):** "Yeeee!" for 一 (yī) — sustained, high pitch
 - **Tone 2 (rising):** "Why ten?" for 十 (shí) — questioning, upward inflection
@@ -57,7 +59,9 @@ This method transforms learning:
 
 We're not building software to replace teachers. We're building software to **amplify human memory** through thoughtful pedagogy.
 
-**Acknowledgment:** This methodology builds upon the story-based approach pioneered by Remember These Hanzi (RTH), with innovations in tone encoding and phonetic mnemonics developed by Paul David Burton.
+**Acknowledgment:** The mnemonic methodology, story system structure, and tone-encoding innovations are the original work of **Paul David Burton**. Character stories were AI-generated using his system. This work builds upon the story-based foundation pioneered by Remember These Hanzi (RTH).
+
+**Contact:** For questions about the methodology, reach Paul David Burton at PaulDavidBurton@gmail.com
 
 ---
 
