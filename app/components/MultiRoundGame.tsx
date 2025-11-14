@@ -2,12 +2,18 @@
 
 import { useState, useEffect } from 'react';
 import { Character, GameMode } from '@/lib/types';
-import { saveGameScore } from '@/lib/storage';
+import { saveGameScore, getAllLessonProgress } from '@/lib/storage';
 import { playRoundCompleteSound, playLevelUnlockSound } from '@/lib/sounds';
 import { recordReview } from '@/lib/spacedRepetition';
+import {
+  checkGameAchievements,
+  type AchievementDef,
+  type AchievementState,
+} from '@/lib/achievements';
 import GameBoard from './GameBoard';
 import SoundToggle from './SoundToggle';
 import ConfirmDialog from './ConfirmDialog';
+import AchievementToast from './AchievementToast';
 
 interface MultiRoundGameProps {
   characters: Character[];
@@ -32,8 +38,15 @@ export default function MultiRoundGame({
   const [currentRound, setCurrentRound] = useState(1); // 1, 2, or 3
   const [currentPage, setCurrentPage] = useState(0);
   const [roundScores, setRoundScores] = useState<{ accuracy: number; score: number }[]>([]);
+  const [allRoundAccuracies, setAllRoundAccuracies] = useState<number[]>([]);
   const [showTransition, setShowTransition] = useState(false);
   const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [currentAchievement, setCurrentAchievement] = useState<
+    (AchievementDef & AchievementState) | null
+  >(null);
+  const [achievementQueue, setAchievementQueue] = useState<
+    Array<AchievementDef & AchievementState>
+  >([]);
 
   const getPageCharacters = () => {
     const start = currentPage * CHARACTERS_PER_PAGE;
@@ -71,6 +84,10 @@ export default function MultiRoundGame({
     // Save progress
     saveGameScore(lessonNumber, totalScore, avgAccuracy);
 
+    // Track accuracy for this round (for achievements)
+    const updatedAccuracies = [...allRoundAccuracies, avgAccuracy];
+    setAllRoundAccuracies(updatedAccuracies);
+
     // Record spaced repetition data for each character
     // Only record after Round 3 (final assessment) for accurate mastery tracking
     if (currentRound === 3) {
@@ -88,13 +105,54 @@ export default function MultiRoundGame({
       setRoundScores([]);
       setShowTransition(true);
     } else if (currentRound === 3) {
-      // All 3 rounds complete!
+      // All 3 rounds complete! Check achievements before completing
+      checkAchievementsAfterGame(updatedAccuracies);
       onComplete();
     } else {
       // Failed to advance - restart current round
       setCurrentPage(0);
       setRoundScores([]);
       setShowTransition(true);
+    }
+  };
+
+  // Check and display achievements after game completion
+  const checkAchievementsAfterGame = (accuracies: number[]) => {
+    // Calculate total characters completed across all lessons
+    const allProgress = getAllLessonProgress();
+    const totalCharacters = Object.values(allProgress).reduce(
+      (sum, p) => sum + (p.bestAccuracy >= 70 ? 15 : 0), // Assume 15 chars per lesson
+      0
+    );
+
+    // Note: Current implementation only has 3 rounds, not 4
+    // Padding accuracies array to match achievement system expectations
+    const paddedAccuracies = [
+      accuracies[0] || 0, // Round 1: Story → Character
+      accuracies[1] || 0, // Round 2: Character → Story
+      accuracies[2] || 0, // Round 3: Meaning → Character (missing, use Round 3)
+      accuracies[2] || 0, // Round 4: Character → Pinyin (actual Round 3)
+    ];
+
+    const newAchievements = checkGameAchievements(paddedAccuracies, totalCharacters);
+
+    if (newAchievements.length > 0) {
+      // Show first achievement immediately
+      setCurrentAchievement(newAchievements[0]);
+      // Queue remaining achievements
+      if (newAchievements.length > 1) {
+        setAchievementQueue(newAchievements.slice(1));
+      }
+    }
+  };
+
+  // Handle achievement toast dismissal - show next in queue
+  const handleAchievementClose = () => {
+    if (achievementQueue.length > 0) {
+      setCurrentAchievement(achievementQueue[0]);
+      setAchievementQueue(achievementQueue.slice(1));
+    } else {
+      setCurrentAchievement(null);
     }
   };
 
@@ -273,6 +331,9 @@ export default function MultiRoundGame({
         onRoundComplete={handlePageComplete}
         onBackToLessons={onBackToLessons}
       />
+
+      {/* Achievement Toast */}
+      <AchievementToast achievement={currentAchievement} onClose={handleAchievementClose} />
     </div>
   );
 }

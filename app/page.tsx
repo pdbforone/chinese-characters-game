@@ -27,13 +27,21 @@ export default function Home() {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <header className="text-center mb-8">
-          <h1 className="text-5xl sm:text-6xl font-bold mb-3 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
-            汉字 Learning Game
-          </h1>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          <div className="flex justify-center items-center gap-4 mb-4">
+            <h1 className="text-5xl sm:text-6xl font-bold bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent">
+              汉字 Learning Game
+            </h1>
+          </div>
+          <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-4">
             Master <span className="font-bold text-indigo-600">3,035</span> Traditional Chinese
             Characters through story-based memory and progressive difficulty
           </p>
+          <Link
+            href="/achievements"
+            className="inline-flex items-center gap-2 text-amber-600 hover:text-amber-800 font-semibold transition-colors"
+          >
+            🏆 View Achievements
+          </Link>
         </header>
 
         {/* User Stats Panel */}
