@@ -66,14 +66,14 @@ export const ACHIEVEMENT_DEFINITIONS: AchievementDef[] = [
   {
     id: 'memory-master',
     name: 'Memory Master',
-    description: 'Achieve 90%+ accuracy in Round 3 (meaning → character)',
+    description: 'Achieve 90%+ accuracy in Round 2 (character → story)',
     emoji: '🧠',
     category: 'mastery',
   },
   {
     id: 'tone-perfect',
     name: 'Tone Perfect',
-    description: '100% accuracy in Round 4 (character → pinyin)',
+    description: '100% accuracy in Round 3 (character → pinyin)',
     emoji: '🔥',
     category: 'mastery',
   },
@@ -315,11 +315,16 @@ export function updateProgress(
 /**
  * Check achievements after game completion
  *
- * Called from MultiRoundGame after all rounds complete.
+ * Called from MultiRoundGame after all 3 rounds complete.
  * Returns array of newly unlocked achievements.
+ *
+ * Round structure:
+ * - Round 1: Story → Character (recognition with full context)
+ * - Round 2: Character → Story (recall with partial context)
+ * - Round 3: Character → Pinyin (pronunciation mastery)
  */
 export function checkGameAchievements(
-  accuracies: number[], // [round1, round2, round3, round4]
+  accuracies: number[], // [round1, round2, round3]
   totalCharactersCompleted: number
 ): Array<AchievementDef & AchievementState> {
   const newlyUnlocked: Array<AchievementDef & AchievementState> = [];
@@ -333,16 +338,16 @@ export function checkGameAchievements(
     }
   }
 
-  // Memory Master: Round 3 (meaning → character) ≥90%
-  if (accuracies[2] >= 90) {
+  // Memory Master: Round 2 (character → story) ≥90%
+  if (accuracies[1] >= 90) {
     if (unlockAchievement('memory-master')) {
       const ach = getAchievement('memory-master');
       if (ach) newlyUnlocked.push(ach);
     }
   }
 
-  // Tone Perfect: Round 4 (character → pinyin) = 100%
-  if (accuracies[3] >= 100) {
+  // Tone Perfect: Round 3 (character → pinyin) = 100%
+  if (accuracies[2] >= 100) {
     if (unlockAchievement('tone-perfect')) {
       const ach = getAchievement('tone-perfect');
       if (ach) newlyUnlocked.push(ach);

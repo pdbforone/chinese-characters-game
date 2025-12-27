@@ -125,16 +125,11 @@ export default function MultiRoundGame({
       0
     );
 
-    // Note: Current implementation only has 3 rounds, not 4
-    // Padding accuracies array to match achievement system expectations
-    const paddedAccuracies = [
-      accuracies[0] || 0, // Round 1: Story → Character
-      accuracies[1] || 0, // Round 2: Character → Story
-      accuracies[2] || 0, // Round 3: Meaning → Character (missing, use Round 3)
-      accuracies[2] || 0, // Round 4: Character → Pinyin (actual Round 3)
-    ];
-
-    const newAchievements = checkGameAchievements(paddedAccuracies, totalCharacters);
+    // Pass accuracies directly - achievement system now expects 3 rounds:
+    // Round 1: Story → Character
+    // Round 2: Character → Story
+    // Round 3: Character → Pinyin
+    const newAchievements = checkGameAchievements(accuracies, totalCharacters);
 
     if (newAchievements.length > 0) {
       // Show first achievement immediately
