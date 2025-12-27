@@ -4,6 +4,105 @@ Use these blocks to prompt Claude or Gemini for lesson narrative generation.
 
 ---
 
+## 5-Layer Mnemonic Framework (Story Rewriter)
+
+Use this framework to rewrite character stories with maximum memorability. Each story should incorporate all 5 layers.
+
+### The 5 Layers
+
+1. **Visual Etymology**: Connect the character's shape to its meaning through radical/primitive analysis
+2. **Sound Bridge**: Map pinyin to English approximation (see `sound-bridge-dictionary.json`)
+3. **Tone-Emotion**: Encode the tone through verb/adverb choice:
+   - **Tone 1** (high flat): _sings, calls, chants_ + _cheerfully, brightly, proudly_
+   - **Tone 2** (rising): _asks, questions, wonders_ + _curiously, inquisitively_
+   - **Tone 3** (dipping): _whispers, murmurs, sighs_ + _softly, gently, contemplatively_
+   - **Tone 4** (falling): _commands, shouts, yells_ + _sharply, decisively, forcefully_
+   - **Tone 5** (neutral): _says, mentions, adds_ + _neutrally, casually, lightly_
+4. **Pithy Formula**: 8-12 word core sentence that captures the essence
+5. **Bizarreness**: Add multisensory, absurd details (smell, texture, sound, impossible physics)
+
+### Batch Rewrite Prompt Template
+
+```
+SYSTEM CONTEXT:
+You are rewriting Chinese character mnemonics using a 5-layer framework for maximum memorability.
+
+REFERENCE FILES (load these):
+- tone-emotion-system.json: Tone-to-emotion mappings and verb palettes
+- sound-bridge-dictionary.json: Pinyin-to-English approximations
+- similar-character-warnings.json: Orthographic neighbors to flag
+
+INPUT FORMAT:
+For each character, you receive: character, pinyin, tone (1-5), meaning, primitives[], current_story
+
+OUTPUT FORMAT (JSON):
+{
+  "character": "木",
+  "pinyin": "mù",
+  "tone": 4,
+  "meaning": "tree",
+  "layers": {
+    "visual_etymology": "Trunk with roots below and branches above - a tree's silhouette",
+    "sound_bridge": {
+      "pinyin": "mù",
+      "english_approximation": "Moo",
+      "rhymes_with": ["moo", "boo", "who"]
+    },
+    "tone_emotion": {
+      "tone": 4,
+      "emotion": "commanding",
+      "quality": "sharp, decisive"
+    },
+    "pithy_formula": "A TREE commands 'MOO!' when the wind shakes its branches."
+  },
+  "story": "The TREE stands with its trunk rooted deep and branches reaching high. When a strong wind shakes it, the tree COMMANDS 'MOO!' sharply - a deep, falling sound like wood creaking under stress. You can HEAR the bark groaning, SMELL the pine sap, FEEL the rough texture as the mighty tree protests the wind!",
+  "bizarreness": {
+    "sensory": "Creaking wood, pine sap smell, rough bark texture",
+    "absurd_detail": "The tree wears a cowboy hat and refuses to bend",
+    "action": "Branches waving like angry fists"
+  },
+  "similar_warning": null
+}
+
+CRITICAL RULES:
+1. Tone verb MUST match the tone number (T1=sing, T2=ask, T3=whisper, T4=command)
+2. Sound bridge must use accurate pinyin mapping (Q=chee, X=she, Z=dz, etc.)
+3. Pithy formula must be 8-12 words
+4. Bizarreness must include at least 2 senses (sight + sound/smell/touch)
+5. Flag similar_warning if character resembles another (日/目, 八/入, etc.)
+
+BATCH TO PROCESS:
+[Insert lesson characters here]
+```
+
+### Quick Reference: Trap Sounds
+
+| Pinyin | English     | NOT            |
+| ------ | ----------- | -------------- |
+| q      | "chee"      | "kw"           |
+| x      | "she"       | "ks"           |
+| z      | "dz"        | "z"            |
+| c      | "ts"        | "k"            |
+| zh     | "j" (jar)   | over-retroflex |
+| r      | "r" + buzz  | plain "r"      |
+| ü      | "ee" + lips | "oo"           |
+| ian    | "yen"       | "ee-an"        |
+| ui     | "way"       | "oo-ee"        |
+| iu     | "yo"        | "ee-oo"        |
+
+### Quality Checklist
+
+Before accepting a rewritten story, verify:
+
+- [ ] Tone verb matches tone number
+- [ ] Sound approximation is phonetically accurate
+- [ ] Pithy formula is 8-12 words
+- [ ] At least 2 senses engaged in bizarreness
+- [ ] Similar character warning included if applicable
+- [ ] Story connects visual shape to meaning
+
+---
+
 ## Lesson 1 Prompt Block
 
 ```
