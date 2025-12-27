@@ -30,7 +30,7 @@
   "license": "ISC",
   "dependencies": {
     "howler": "^2.2.4",
-    "next": "^16.0.2",
+    "next": "^16.1.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
@@ -49,7 +49,7 @@
     "@typescript-eslint/parser": "^8.46.4",
     "@vitejs/plugin-react": "^5.1.1",
     "autoprefixer": "^10.4.22",
-    "eslint-config-next": "^16.0.2",
+    "eslint-config-next": "^16.1.1",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
     "eslint-plugin-react": "^7.37.5",
