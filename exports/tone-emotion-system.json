@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "name": "Tone-Emotion Mapping System",
+    "version": "1.0.0",
+    "description": "Maps Mandarin tones to emotional archetypes and sentence patterns for memorable mnemonics",
+    "source": "Synthesized from cognitive research on dual-coding and emotional memory enhancement"
+  },
+  "tones": {
+    "1": {
+      "name": "First Tone (High-Level)",
+      "pinyin_mark": "ˉ",
+      "contour": "55 (high flat)",
+      "emotion": "singing",
+      "archetype": "The Cheerful Singer",
+      "physical_quality": "sustained, bright, unwavering",
+      "sentence_patterns": [
+        "sings '{sound}!' cheerfully",
+        "calls out '{sound}!' high and bright",
+        "hums '{sound}' with steady joy"
+      ],
+      "verb_palette": ["sings", "calls", "chants", "proclaims", "announces"],
+      "adverb_palette": ["cheerfully", "brightly", "steadily", "clearly", "proudly"],
+      "example_stories": [
+        "A stream flows cheerfully singing 'Chuan!' in three happy channels!",
+        "The Yangtze water flows cheerfully singing 'Jiang!' through the work!"
+      ],
+      "mnemonic_cues": {
+        "visual": "Character positioned high, floating upward",
+        "spatial": "Top of scene, sky-level, elevated platform",
+        "color_suggestion": "bright yellow, gold, sunshine"
+      }
+    },
+    "2": {
+      "name": "Second Tone (Rising)",
+      "pinyin_mark": "ˊ",
+      "contour": "35 (mid to high)",
+      "emotion": "questioning",
+      "archetype": "The Curious Questioner",
+      "physical_quality": "rising intonation, like asking 'what?'",
+      "sentence_patterns": [
+        "asks '{sound}? Why so {adjective}?' curiously",
+        "questions '{sound}? How did this happen?'",
+        "wonders '{sound}?' with rising curiosity"
+      ],
+      "verb_palette": ["asks", "questions", "wonders", "inquires", "puzzles"],
+      "adverb_palette": ["curiously", "inquisitively", "wonderingly", "quizzically"],
+      "example_stories": [
+        "In the rice field, farmers ask 'Tian? Why so muddy?' curiously!",
+        "A lake of water questions 'Who? Hu?' curiously like reckless whiskers!"
+      ],
+      "mnemonic_cues": {
+        "visual": "Character tilting upward, arrow pointing up",
+        "spatial": "Climbing stairs, ascending mountain, rising sun",
+        "color_suggestion": "orange, amber, dawn colors"
+      }
+    },
+    "3": {
+      "name": "Third Tone (Dipping)",
+      "pinyin_mark": "ˇ",
+      "contour": "214 (low dip)",
+      "emotion": "brooding",
+      "archetype": "The Thoughtful Murmurer",
+      "physical_quality": "low, dipping, contemplative, like a sigh",
+      "sentence_patterns": [
+        "whispers '{sound}' softly like {imagery}",
+        "murmurs '{sound}' in low contemplation",
+        "sighs '{sound}' with a gentle dip"
+      ],
+      "verb_palette": ["whispers", "murmurs", "sighs", "ponders", "reflects"],
+      "adverb_palette": ["softly", "gently", "thoughtfully", "quietly", "contemplatively"],
+      "example_stories": [
+        "The soil takes shape, whispering 'Too' softly - a vivid image to remember!",
+        "See how the water forms to swim? It whispers 'Yong' softly like ripples spreading!"
+      ],
+      "mnemonic_cues": {
+        "visual": "Character sinking into ground, curved valley",
+        "spatial": "Cave, underwater, valley floor, basement",
+        "color_suggestion": "deep blue, purple, twilight"
+      }
+    },
+    "4": {
+      "name": "Fourth Tone (Falling)",
+      "pinyin_mark": "ˋ",
+      "contour": "51 (high to low)",
+      "emotion": "commanding",
+      "archetype": "The Sharp Commander",
+      "physical_quality": "sharp, decisive, like a command or exclamation",
+      "sentence_patterns": [
+        "commands '{sound}!' sharply",
+        "shouts '{sound}!' with decisive force",
+        "yells '{sound}!' like a sharp order"
+      ],
+      "verb_palette": ["commands", "shouts", "yells", "demands", "declares"],
+      "adverb_palette": ["sharply", "decisively", "forcefully", "emphatically", "firmly"],
+      "example_stories": [
+        "Two parallel lines stack up, yelling 'ERR!' when you count twice!",
+        "Inside the box, your four items command 'See this!' sharply!"
+      ],
+      "mnemonic_cues": {
+        "visual": "Character dropping, arrow pointing down, guillotine",
+        "spatial": "Falling from height, diving, hammer striking",
+        "color_suggestion": "red, crimson, bold"
+      }
+    },
+    "5": {
+      "name": "Fifth Tone (Neutral)",
+      "pinyin_mark": "",
+      "contour": "depends on preceding tone",
+      "emotion": "neutral",
+      "archetype": "The Casual Speaker",
+      "physical_quality": "light, unstressed, conversational",
+      "sentence_patterns": [
+        "says '{sound}' neutrally",
+        "mentions '{sound}' in passing",
+        "adds '{sound}' lightly"
+      ],
+      "verb_palette": ["says", "mentions", "adds", "notes", "remarks"],
+      "adverb_palette": ["neutrally", "casually", "lightly", "simply", "plainly"],
+      "example_stories": ["A belly of flesh and soil says 'doo' neutrally round!"],
+      "mnemonic_cues": {
+        "visual": "Character floating freely, no direction",
+        "spatial": "Background element, passing cloud",
+        "color_suggestion": "gray, neutral tones"
+      }
+    }
+  },
+  "usage_guide": {
+    "principle": "Every mnemonic story should encode the tone through emotional verb/adverb choice",
+    "formula": "[Character imagery] + [tone-appropriate verb] + [sound approximation] + [tone-appropriate adverb]",
+    "examples": {
+      "tone1_yī": "A single proud line stands alone, singing 'Yeeee!' cheerfully - this is number one!",
+      "tone2_shí": "A cross at ten keeps asking 'Shi? Why ten?' curiously!",
+      "tone3_wǔ": "Five strokes converge at the crossing point, whispering 'Woo' softly!",
+      "tone4_sì": "Inside the box, four items command 'See this!' sharply!"
+    }
+  }
+}

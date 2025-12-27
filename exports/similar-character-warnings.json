@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "name": "Similar Character Warning System",
+    "version": "1.0.0",
+    "description": "Flags orthographic neighbors - characters that look similar and could be confused. Critical for preventing interference during learning.",
+    "research_basis": "Based on research showing learners confuse visually similar characters, especially during acquisition phase (orthographic neighbor interference)",
+    "usage": "When teaching a character, check if it has similar_warnings. If so, explicitly address the differences."
+  },
+  "warning_categories": {
+    "stroke_count_neighbors": {
+      "description": "Characters with same stroke count but different meanings",
+      "risk_level": "medium",
+      "mitigation": "Emphasize the distinctive stroke"
+    },
+    "radical_variants": {
+      "description": "Same radical but different phonetic components",
+      "risk_level": "high",
+      "mitigation": "Create contrasting stories for each variant"
+    },
+    "mirror_images": {
+      "description": "Characters that are approximate mirror images",
+      "risk_level": "very_high",
+      "mitigation": "Teach together with explicit contrast, use hand gestures"
+    },
+    "subset_characters": {
+      "description": "One character contains another as a component",
+      "risk_level": "medium",
+      "mitigation": "Teach the component first, then the compound"
+    },
+    "stroke_order_confusions": {
+      "description": "Characters with similar strokes but different order/direction",
+      "risk_level": "high",
+      "mitigation": "Emphasize writing direction in story"
+    }
+  },
+  "common_confusions": [
+    {
+      "pair": ["日", "目"],
+      "meanings": ["sun/day", "eye"],
+      "category": "stroke_count_neighbors",
+      "visual_difference": "日 has ONE internal line; 目 has TWO internal lines",
+      "mnemonic_contrast": {
+        "日": "The SUN has ONE bar of light inside (sunrise to sunset)",
+        "目": "The EYE has TWO eyelids inside (upper and lower)"
+      },
+      "memory_trick": "Count the lines: 1 line = 1 sun, 2 lines = 2 eyelids"
+    },
+    {
+      "pair": ["人", "入"],
+      "meanings": ["person", "to enter"],
+      "category": "mirror_images",
+      "visual_difference": "人 has left stroke longer; 入 has right stroke longer",
+      "mnemonic_contrast": {
+        "人": "A PERSON walks with left foot forward (longer left stroke)",
+        "入": "To ENTER, you push the door with right hand (longer right stroke)"
+      },
+      "memory_trick": "Person leads with left; entering pushes with right"
+    },
+    {
+      "pair": ["八", "入"],
+      "meanings": ["eight", "to enter"],
+      "category": "mirror_images",
+      "visual_difference": "八 strokes diverge OUTWARD; 入 strokes converge INWARD",
+      "mnemonic_contrast": {
+        "八": "EIGHT paths SPLIT apart (spreading out)",
+        "入": "To ENTER you must go IN (coming together)"
+      },
+      "memory_trick": "8 divides out; enter goes in"
+    },
+    {
+      "pair": ["己", "已", "巳"],
+      "meanings": ["self", "already", "6th earthly branch"],
+      "category": "stroke_order_confusions",
+      "visual_difference": "己 is open on top; 已 is half-closed; 巳 is fully closed",
+      "mnemonic_contrast": {
+        "己": "Your SELF is open-minded (open top)",
+        "已": "ALREADY done, partially closed",
+        "巳": "The SNAKE is fully curled (closed)"
+      },
+      "memory_trick": "Open self, closing already, closed snake"
+    },
+    {
+      "pair": ["土", "士"],
+      "meanings": ["soil/earth", "scholar/warrior"],
+      "category": "stroke_count_neighbors",
+      "visual_difference": "土 has longer bottom stroke; 士 has longer top stroke",
+      "mnemonic_contrast": {
+        "土": "SOIL spreads wide at the BOTTOM (ground level)",
+        "士": "A SCHOLAR wears a wide hat on TOP"
+      },
+      "memory_trick": "Soil is grounded (wide bottom); scholars are top-heavy (wide top)"
+    },
+    {
+      "pair": ["大", "太", "犬"],
+      "meanings": ["big", "too much", "dog"],
+      "category": "subset_characters",
+      "visual_difference": "大 is base; 太 adds a dot below; 犬 adds a dot on top-right",
+      "mnemonic_contrast": {
+        "大": "A person spreading arms wide = BIG",
+        "太": "TOO big - so big there's a drop below (sweat)",
+        "犬": "A DOG has a head (dot) on top"
+      },
+      "memory_trick": "Big person, too much sweat below, dog head on top"
+    },
+    {
+      "pair": ["末", "未"],
+      "meanings": ["end/tip", "not yet"],
+      "category": "stroke_count_neighbors",
+      "visual_difference": "末 has longer top stroke; 未 has longer bottom stroke",
+      "mnemonic_contrast": {
+        "末": "The END is TOP-heavy (everything piled up at the top)",
+        "未": "NOT YET growing - the bottom (roots) are still developing"
+      },
+      "memory_trick": "End = top heavy (falling); not yet = bottom heavy (growing)"
+    },
+    {
+      "pair": ["田", "由", "甲", "申"],
+      "meanings": ["field", "from/reason", "armor/first", "to extend"],
+      "category": "subset_characters",
+      "visual_difference": "田 is enclosed; others extend in various directions",
+      "mnemonic_contrast": {
+        "田": "FIELD is perfectly enclosed (fenced in)",
+        "由": "FROM - extends down (origin below)",
+        "甲": "ARMOR - extends up (helmet on top)",
+        "申": "EXTEND - stretches both ways"
+      },
+      "memory_trick": "Field is fenced; from below, armor above, extend both ways"
+    },
+    {
+      "pair": ["千", "干"],
+      "meanings": ["thousand", "dry/stem"],
+      "category": "stroke_count_neighbors",
+      "visual_difference": "千 has a slanted top stroke; 干 has a horizontal top stroke",
+      "mnemonic_contrast": {
+        "千": "THOUSAND - the top tilts like a mountain range (vast numbers)",
+        "干": "DRY - flat and level like parched earth"
+      },
+      "memory_trick": "Thousand tilts (many mountains); dry is flat (cracked earth)"
+    },
+    {
+      "pair": ["口", "囗"],
+      "meanings": ["mouth", "enclosure radical"],
+      "category": "radical_variants",
+      "visual_difference": "口 is smaller; 囗 is larger (used as outer enclosure)",
+      "mnemonic_contrast": {
+        "口": "MOUTH - small square for speaking",
+        "囗": "ENCLOSURE - large square that contains other elements"
+      },
+      "memory_trick": "Small mouth speaks; large enclosure surrounds"
+    },
+    {
+      "pair": ["四", "西"],
+      "meanings": ["four", "west"],
+      "category": "radical_variants",
+      "visual_difference": "四 has legs inside; 西 has a horizontal line through",
+      "mnemonic_contrast": {
+        "四": "FOUR - four legs of a table visible through window",
+        "西": "WEST - the sun setting through a window, line = horizon"
+      },
+      "memory_trick": "Four has legs; west has the horizon line"
+    },
+    {
+      "pair": ["九", "丸"],
+      "meanings": ["nine", "pill/ball"],
+      "category": "stroke_count_neighbors",
+      "visual_difference": "九 is open; 丸 has a dot inside",
+      "mnemonic_contrast": {
+        "九": "NINE - an open hook (cats curling)",
+        "丸": "PILL - has a dot inside (the medicine core)"
+      },
+      "memory_trick": "Nine is empty (counting); pill has a dot (medicine inside)"
+    }
+  ],
+  "teaching_strategies": {
+    "immediate_contrast": {
+      "description": "When teaching character A, immediately show similar character B",
+      "example": "Teaching 日? Show 目 right after and ask: 'What's the difference?'"
+    },
+    "distinctive_feature_focus": {
+      "description": "Create stories that emphasize the distinguishing feature",
+      "example": "For 日 vs 目: 'ONE line = ONE sun; TWO lines = TWO eyelids'"
+    },
+    "physical_gesture": {
+      "description": "Associate each confused pair with different hand gestures",
+      "example": "八 = hands spreading apart; 入 = hands coming together"
+    },
+    "delayed_introduction": {
+      "description": "Don't teach easily confused characters in the same lesson",
+      "example": "Teach 日 in lesson 1, wait until lesson 5+ for 目"
+    },
+    "quiz_with_foils": {
+      "description": "In review, always include the similar character as a wrong option",
+      "example": "What means 'sun'? Options: 日, 目, 白, 田"
+    }
+  },
+  "integration_guide": {
+    "in_stories": "When writing a mnemonic for a character with warnings, include a phrase like 'not to be confused with X which has Y difference'",
+    "in_lesson_flow": "After introduction phase, add a 'Similar Characters' mini-quiz",
+    "in_reviews": "Track confusion rates between similar pairs and increase review frequency for problematic pairs"
+  }
+}
