@@ -1,6 +1,7 @@
 'use client';
 
 import { Character } from '@/lib/types';
+import { getCardClassNames, createCardKeyHandler } from '@/lib/useCardState';
 
 interface StoryCardProps {
   character: Character;
@@ -17,40 +18,25 @@ export default function StoryCard({
   isIncorrect,
   onClick,
 }: StoryCardProps) {
-  let borderClass = 'border-2 border-gray-300';
-  let bgClass = 'bg-white hover:bg-gray-50';
-  let animationClass = '';
-
-  if (isMatched) {
-    borderClass = 'border-2 border-green-500';
-    bgClass = 'bg-green-50';
-  } else if (isIncorrect) {
-    borderClass = 'border-2 border-red-500';
-    bgClass = 'bg-red-50';
-    animationClass = 'animate-shake';
-  } else if (isSelected) {
-    borderClass = 'border-2 border-blue-500';
-    bgClass = 'bg-blue-50';
-  }
+  const classNames = getCardClassNames(
+    { isSelected, isMatched, isIncorrect },
+    { showPulseOnMatch: false }
+  );
+  const handleKeyDown = createCardKeyHandler(onClick, isMatched);
 
   return (
     <div
       onClick={isMatched ? undefined : onClick}
-      onKeyDown={(e) => {
-        if (!isMatched && (e.key === 'Enter' || e.key === ' ')) {
-          e.preventDefault();
-          onClick();
-        }
-      }}
+      onKeyDown={handleKeyDown}
       tabIndex={isMatched ? -1 : 0}
       role="button"
       aria-label={`Story: ${character.story.substring(0, 100)}...`}
       aria-pressed={isSelected}
       aria-disabled={isMatched}
       className={`
-        ${borderClass}
-        ${bgClass}
-        ${animationClass}
+        ${classNames.border}
+        ${classNames.background}
+        ${classNames.animation}
         rounded-lg p-4 cursor-pointer
         transition-all duration-200
         ${isMatched ? 'opacity-50 cursor-not-allowed' : ''}
