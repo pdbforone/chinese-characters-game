@@ -1,0 +1,161 @@
+{
+  "lesson": 70,
+  "characterCount": 17,
+  "characterList": "贖晝津釐枚牧玫敦諾謂詢罰訂詠諜註諒",
+  "themes": ["time"],
+  "characters": [
+    {
+      "id": 1612,
+      "character": "贖",
+      "pinyin": "shú",
+      "tone": 2,
+      "meaning": "redeem",
+      "story": "See how the shellfish forms redeem? It asks \"Shoo? Atone?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1613,
+      "character": "晝",
+      "pinyin": "zhòu",
+      "tone": 4,
+      "meaning": "daylight",
+      "story": "Picture daylight taking form - it shouts \"Joh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1614,
+      "character": "津",
+      "pinyin": "jīn",
+      "tone": 1,
+      "meaning": "Tianjin",
+      "story": "Like water, this character means tianjin and sings \"Jin!\" like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1615,
+      "character": "釐",
+      "pinyin": "lí",
+      "tone": 2,
+      "meaning": "smidgen",
+      "story": "The strokes unite to show smidgen, asking \"Lee? Tiny?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1616,
+      "character": "枚",
+      "pinyin": "méi",
+      "tone": 2,
+      "meaning": "small objects",
+      "story": "\"May, how many items?\" The tree questioned the taskmaster curiously - small objects, a classifier!",
+      "primitives": []
+    },
+    {
+      "id": 1617,
+      "character": "牧",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "herd",
+      "story": "This character represents herd, shouting \"Moo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1618,
+      "character": "玫",
+      "pinyin": "méi",
+      "tone": 2,
+      "meaning": "rose",
+      "story": "Picture rose taking form - it asks \"May? Flower?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1619,
+      "character": "敦",
+      "pinyin": "dūn",
+      "tone": 1,
+      "meaning": "candid",
+      "story": "Picture candid taking form - it sings \"Dwun!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1620,
+      "character": "諾",
+      "pinyin": "nuò",
+      "tone": 4,
+      "meaning": "promise",
+      "story": "A striking symbol for promise that shouts \"Nwoh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1621,
+      "character": "謂",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "meaning",
+      "story": "A striking symbol for meaning that shouts \"Way!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1622,
+      "character": "詢",
+      "pinyin": "xún",
+      "tone": 2,
+      "meaning": "inquire",
+      "story": "The strokes unite to show inquire, asking \"Shyoon? Ask?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1623,
+      "character": "罰",
+      "pinyin": "fá",
+      "tone": 2,
+      "meaning": "penalize",
+      "story": "This character represents penalize, asking \"Fah? Fine?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1624,
+      "character": "訂",
+      "pinyin": "dìng",
+      "tone": 4,
+      "meaning": "place an order",
+      "story": "The nail takes the shape of place an order, shouting \"Ding!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1625,
+      "character": "詠",
+      "pinyin": "yǒng",
+      "tone": 3,
+      "meaning": "chant",
+      "story": "Picture chant taking form - it sings \"Yohng\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1626,
+      "character": "諜",
+      "pinyin": "dié",
+      "tone": 2,
+      "meaning": "espionage",
+      "story": "See how the tree forms espionage? It asks \"Dyeh, is that a spy?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1627,
+      "character": "註",
+      "pinyin": "zhù",
+      "tone": 4,
+      "meaning": "annotate",
+      "story": "The strokes unite to show annotate, shouting \"Joo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1628,
+      "character": "諒",
+      "pinyin": "liàng",
+      "tone": 4,
+      "meaning": "forgive",
+      "story": "\"Lyahng!\" Words about roof beam commanded sharply - forgiveness, excuse and pardon!",
+      "primitives": []
+    }
+  ]
+}

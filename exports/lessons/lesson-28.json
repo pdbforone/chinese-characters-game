@@ -1,0 +1,215 @@
+{
+  "lesson": 28,
+  "characterCount": 23,
+  "characterList": "旅施游遊勿忽物易賜屍尼呢泥屋握居鋸層局戶房雇顧",
+  "themes": ["water", "action"],
+  "characters": [
+    {
+      "id": 811,
+      "character": "旅",
+      "pinyin": "lǚ",
+      "tone": 3,
+      "meaning": "to travel",
+      "story": "This character represents to travel, whispering \"Lyu\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 812,
+      "character": "施",
+      "pinyin": "shī",
+      "tone": 1,
+      "meaning": "to execute",
+      "story": "\"Shi!\" To travel was to execute the plan cheerfully.",
+      "primitives": []
+    },
+    {
+      "id": 813,
+      "character": "游",
+      "pinyin": "yóu",
+      "tone": 2,
+      "meaning": "to go swimming",
+      "story": "The water takes the shape of to go swimming, asking \"Yo? Swimming?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 814,
+      "character": "遊",
+      "pinyin": "yóu",
+      "tone": 2,
+      "meaning": "to tour",
+      "story": "\"Yo, are we wandering?\" The walk through water questioned the tour route.",
+      "primitives": []
+    },
+    {
+      "id": 815,
+      "character": "勿",
+      "pinyin": "wù",
+      "tone": 4,
+      "meaning": "not",
+      "story": "The strokes unite to show not, shouting \"Woo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 816,
+      "character": "忽",
+      "pinyin": "hū",
+      "tone": 1,
+      "meaning": "suddenly",
+      "story": "See how the heart forms suddenly? It sings \"Hoo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 817,
+      "character": "物",
+      "pinyin": "wù",
+      "tone": 4,
+      "meaning": "Thing",
+      "story": "Picture thing taking form - it shouts \"Woo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 818,
+      "character": "易",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "easy",
+      "story": "Picture a moon beside a sun: that's easy, shouting \"Yi!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 819,
+      "character": "賜",
+      "pinyin": "cì",
+      "tone": 4,
+      "meaning": "to grant",
+      "story": "The shellfish stands for to grant, shouting \"Tsih!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 820,
+      "character": "屍",
+      "pinyin": "shī",
+      "tone": 1,
+      "meaning": "Corpse",
+      "story": "Like a body, this character means corpse and sings \"Shi!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 821,
+      "character": "尼",
+      "pinyin": "ní",
+      "tone": 2,
+      "meaning": "Nun",
+      "story": "Picture nun taking form - it asks \"Nee? Religious?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 822,
+      "character": "呢",
+      "pinyin": "ne",
+      "tone": 5,
+      "meaning": "Woolen Cloth",
+      "story": "Like a mouth, this character means woolen cloth and calls \"nuh\"!",
+      "primitives": []
+    },
+    {
+      "id": 823,
+      "character": "泥",
+      "pinyin": "ní",
+      "tone": 2,
+      "meaning": "Mud",
+      "story": "The earth and water unite to create mud, asking \"Nee? Wet earth?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 824,
+      "character": "屋",
+      "pinyin": "wū",
+      "tone": 1,
+      "meaning": "Habitation",
+      "story": "A striking symbol for habitation that sings \"Woo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 825,
+      "character": "握",
+      "pinyin": "wò",
+      "tone": 4,
+      "meaning": "to grip",
+      "story": "\"Woh!\" The hand formed a house shape, gripping sharply.",
+      "primitives": []
+    },
+    {
+      "id": 826,
+      "character": "居",
+      "pinyin": "jū",
+      "tone": 1,
+      "meaning": "to reside",
+      "story": "\"Jyu!\" The ancient corpse sang cheerfully where it would reside.",
+      "primitives": []
+    },
+    {
+      "id": 827,
+      "character": "鋸",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "a Saw",
+      "story": "The gold stands for a saw, shouting \"Jyu!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 828,
+      "character": "層",
+      "pinyin": "céng",
+      "tone": 2,
+      "meaning": "Story",
+      "story": "Picture story taking form - it asks \"Tseng? Which floor?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 829,
+      "character": "局",
+      "pinyin": "jú",
+      "tone": 2,
+      "meaning": "Bureau",
+      "story": "This character represents bureau, asking \"Jyu? Office?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 830,
+      "character": "戶",
+      "pinyin": "hù",
+      "tone": 4,
+      "meaning": "Door",
+      "story": "The door takes the shape of door, shouting \"Hoo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 831,
+      "character": "房",
+      "pinyin": "fáng",
+      "tone": 2,
+      "meaning": "Domicile",
+      "story": "See how the door forms domicile? It asks \"Fang? House?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 832,
+      "character": "雇",
+      "pinyin": "gù",
+      "tone": 4,
+      "meaning": "to hire",
+      "story": "\"Goo!\" The bird at the door commanded sharply whom to hire.",
+      "primitives": []
+    },
+    {
+      "id": 833,
+      "character": "顧",
+      "pinyin": "gù",
+      "tone": 4,
+      "meaning": "to look back",
+      "story": "Picture to look back taking form - it shouts \"Goo!\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "lesson": 12,
+  "characterCount": 27,
+  "characterList": "介界茶會合哈塔王玉球現玩狂皇煌呈全理主注金銅釣針釘銘鎮",
+  "themes": ["action"],
+  "characters": [
+    {
+      "id": 241,
+      "character": "介",
+      "pinyin": "jiè",
+      "tone": 4,
+      "meaning": "to introduce",
+      "story": "See how the person forms to introduce? It shouts \"Jieh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 242,
+      "character": "界",
+      "pinyin": "jiè",
+      "tone": 4,
+      "meaning": "World",
+      "story": "The world field introduced yells \"Jieh!\" sharply bounded!",
+      "primitives": []
+    },
+    {
+      "id": 243,
+      "character": "茶",
+      "pinyin": "chá",
+      "tone": 2,
+      "meaning": "Tea",
+      "story": "\"Cha want some tea?\" she asked, made from grass for people.",
+      "primitives": []
+    },
+    {
+      "id": 244,
+      "character": "會",
+      "pinyin": "huì",
+      "tone": 4,
+      "meaning": "Meeting",
+      "story": "The people stands for meeting, shouting \"Hway!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 245,
+      "character": "合",
+      "pinyin": "hé",
+      "tone": 2,
+      "meaning": "to fit",
+      "story": "When the mouth meets the person, they form to fit, asking \"Huh? Does it match?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 246,
+      "character": "哈",
+      "pinyin": "hā",
+      "tone": 1,
+      "meaning": "Ha!",
+      "story": "\"Ha!\" laughs the mouth happily singing \"Ha!\" high and loud!",
+      "primitives": []
+    },
+    {
+      "id": 247,
+      "character": "塔",
+      "pinyin": "tǎ",
+      "tone": 3,
+      "meaning": "Pagoda",
+      "story": "Like soil, this character means pagoda and whispers \"Ta\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 248,
+      "character": "王",
+      "pinyin": "wáng",
+      "tone": 2,
+      "meaning": "King",
+      "story": "A king with three levels questions \"Wang? Why rule?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 249,
+      "character": "玉",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "Jade",
+      "story": "The dot stands for jade, shouting \"Yu!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 250,
+      "character": "球",
+      "pinyin": "qiú",
+      "tone": 2,
+      "meaning": "Balls",
+      "story": "\"Chyo, play ball?\" he questioned, tossing jade-colored spheres.",
+      "primitives": []
+    },
+    {
+      "id": 251,
+      "character": "現",
+      "pinyin": "xiàn",
+      "tone": 4,
+      "meaning": "present",
+      "story": "This character represents present, shouting \"Shian!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 252,
+      "character": "玩",
+      "pinyin": "wán",
+      "tone": 2,
+      "meaning": "to play",
+      "story": "Picture to play taking form - it asks \"Wan? How fun?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 253,
+      "character": "狂",
+      "pinyin": "kuáng",
+      "tone": 2,
+      "meaning": "crazy",
+      "story": "This character represents crazy, asking \"Kwang? Why mad?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 254,
+      "character": "皇",
+      "pinyin": "huáng",
+      "tone": 2,
+      "meaning": "Emperor",
+      "story": "See how the white forms emperor? It asks \"Hwang, why should I reign?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 255,
+      "character": "煌",
+      "pinyin": "huáng",
+      "tone": 2,
+      "meaning": "resplendent",
+      "story": "See how the fire forms resplendent? It asks \"Hwang? Why shine?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 256,
+      "character": "呈",
+      "pinyin": "chéng",
+      "tone": 2,
+      "meaning": "to submit",
+      "story": "\"Is it ready to submit?\" the king questioned from his mouth-throne.",
+      "primitives": []
+    },
+    {
+      "id": 257,
+      "character": "全",
+      "pinyin": "quán",
+      "tone": 2,
+      "meaning": "whole",
+      "story": "\"Is it complete?\" The whole jade roof was finally done.",
+      "primitives": []
+    },
+    {
+      "id": 258,
+      "character": "理",
+      "pinyin": "lǐ",
+      "tone": 3,
+      "meaning": "Logic",
+      "story": "Picture logic taking form - it whispers \"Lee\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 259,
+      "character": "主",
+      "pinyin": "zhǔ",
+      "tone": 3,
+      "meaning": "Lord",
+      "story": "Like a dot, this character means lord and whispers \"Zhu\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 260,
+      "character": "注",
+      "pinyin": "zhù",
+      "tone": 4,
+      "meaning": "to pour",
+      "story": "\"Joo, watch!\" he commanded, pouring water for the lord.",
+      "primitives": []
+    },
+    {
+      "id": 261,
+      "character": "金",
+      "pinyin": "jīn",
+      "tone": 1,
+      "meaning": "the Gold",
+      "story": "See how the gold forms the gold? It sings \"Jeen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 262,
+      "character": "銅",
+      "pinyin": "tóng",
+      "tone": 2,
+      "meaning": "Copper",
+      "story": "The gold takes the shape of copper, asking \"Tong? Bronze?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 263,
+      "character": "釣",
+      "pinyin": "diào",
+      "tone": 4,
+      "meaning": "to go fishin'",
+      "story": "Picture gold beside a hook: that's to go fishin', shouting \"Diao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 264,
+      "character": "針",
+      "pinyin": "zhēn",
+      "tone": 1,
+      "meaning": "Needle",
+      "story": "The gold takes the shape of needle, singing \"Zhen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 265,
+      "character": "釘",
+      "pinyin": "dīng",
+      "tone": 1,
+      "meaning": "Nail",
+      "story": "The gold and nail unite to create nail, singing \"Ding!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 266,
+      "character": "銘",
+      "pinyin": "míng",
+      "tone": 2,
+      "meaning": "Inscription",
+      "story": "The gold inscription read \"Ming?\" - questioning what it said.",
+      "primitives": []
+    },
+    {
+      "id": 267,
+      "character": "鎮",
+      "pinyin": "zhèn",
+      "tone": 4,
+      "meaning": "at ease",
+      "story": "\"Jen, calm down!\" The real gold helped him feel at ease.",
+      "primitives": []
+    }
+  ]
+}

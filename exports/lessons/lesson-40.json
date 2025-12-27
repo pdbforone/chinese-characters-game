@@ -1,0 +1,143 @@
+{
+  "lesson": 40,
+  "characterCount": 15,
+  "characterList": "睡今含念陰蔭西要腰票漂標賈價煙",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1186,
+      "character": "睡",
+      "pinyin": "shuì",
+      "tone": 4,
+      "meaning": "to sleep",
+      "story": "Like an eye, this character means to sleep and shouts \"Shway!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1187,
+      "character": "今",
+      "pinyin": "jīn",
+      "tone": 1,
+      "meaning": "now",
+      "story": "The strokes unite to show now, singing \"Jin!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1188,
+      "character": "含",
+      "pinyin": "hán",
+      "tone": 2,
+      "meaning": "to harbor",
+      "story": "\"Hahn, are you keeping it?\" The mouth questioned now curiously - harboring and containing!",
+      "primitives": []
+    },
+    {
+      "id": 1189,
+      "character": "念",
+      "pinyin": "niàn",
+      "tone": 4,
+      "meaning": "to miss",
+      "story": "\"Nyen!\" The heart commanded now sharply - to miss, recall and wish!",
+      "primitives": []
+    },
+    {
+      "id": 1190,
+      "character": "陰",
+      "pinyin": "yīn",
+      "tone": 1,
+      "meaning": "Yin",
+      "story": "See how the wall forms yin? It sings \"Yin!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1191,
+      "character": "蔭",
+      "pinyin": "yìn",
+      "tone": 4,
+      "meaning": "shady",
+      "story": "See how the shelter forms shady? It shouts \"Yin!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1192,
+      "character": "西",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "West",
+      "story": "The strokes unite to show west, singing \"Shee!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1193,
+      "character": "要",
+      "pinyin": "yào",
+      "tone": 4,
+      "meaning": "want",
+      "story": "A striking symbol for want that shouts \"Yao!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1194,
+      "character": "腰",
+      "pinyin": "yāo",
+      "tone": 1,
+      "meaning": "Waist",
+      "story": "The body stands for waist, singing \"Yao!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1195,
+      "character": "票",
+      "pinyin": "piào",
+      "tone": 4,
+      "meaning": "Ticket",
+      "story": "Picture ticket taking form - it shouts \"Pyao!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1196,
+      "character": "漂",
+      "pinyin": "piào",
+      "tone": 4,
+      "meaning": "to drift",
+      "story": "\"Pyao!\" Water carried the ticket sharply - drifting and floating, tossed about!",
+      "primitives": []
+    },
+    {
+      "id": 1197,
+      "character": "標",
+      "pinyin": "biāo",
+      "tone": 1,
+      "meaning": "a Mark",
+      "story": "Like a tree, this character means a mark and sings \"Byao!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1198,
+      "character": "賈",
+      "pinyin": "gǔ",
+      "tone": 3,
+      "meaning": "Merchant",
+      "story": "Like a shellfish, this character means merchant and whispers \"Goo\"!",
+      "primitives": []
+    },
+    {
+      "id": 1199,
+      "character": "價",
+      "pinyin": "jià",
+      "tone": 4,
+      "meaning": "Price",
+      "story": "Like a person, this character means price and shouts \"Jyah!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1200,
+      "character": "煙",
+      "pinyin": "yan",
+      "tone": 5,
+      "meaning": "the Smoke",
+      "story": "The fire takes the shape of the smoke, singing \"Yan\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

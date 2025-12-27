@@ -1,0 +1,53 @@
+{
+  "lesson": 60,
+  "characterCount": 5,
+  "characterList": "囂顛叨刮盯",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1507,
+      "character": "囂",
+      "pinyin": "xiāo",
+      "tone": 1,
+      "meaning": "hubbub",
+      "story": "The strokes unite to show hubbub, singing \"Shyao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1508,
+      "character": "顛",
+      "pinyin": "diān",
+      "tone": 1,
+      "meaning": "invert",
+      "story": "This character represents invert, singing \"Dyan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1509,
+      "character": "叨",
+      "pinyin": "dāo",
+      "tone": 1,
+      "meaning": "talkative",
+      "story": "Picture a knife beside a mouth: that's talkative, singing \"Dao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1510,
+      "character": "刮",
+      "pinyin": "guā",
+      "tone": 1,
+      "meaning": "scrape",
+      "story": "Picture a knife beside a tongue: that's scrape, singing \"Gwah!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1511,
+      "character": "盯",
+      "pinyin": "dīng",
+      "tone": 1,
+      "meaning": "stare at",
+      "story": "\"Ding!\" The eye like a nail sang cheerfully - staring at something, gazing fixedly!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "lesson": 49,
+  "characterCount": 12,
+  "characterList": "響段鍛幻司詞舟船般盤搬瓜",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1345,
+      "character": "響",
+      "pinyin": "xiǎng",
+      "tone": 3,
+      "meaning": "an Echo",
+      "story": "An striking symbol for an echo that whispers \"Shyahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1346,
+      "character": "段",
+      "pinyin": "duàn",
+      "tone": 4,
+      "meaning": "Section",
+      "story": "A striking symbol for section that shouts \"Dwahn!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1347,
+      "character": "鍛",
+      "pinyin": "duàn",
+      "tone": 4,
+      "meaning": "to forge",
+      "story": "\"Dwahn!\" Metal sections commanded sharply to forge - tempering what was wrought!",
+      "primitives": []
+    },
+    {
+      "id": 1348,
+      "character": "幻",
+      "pinyin": "huàn",
+      "tone": 4,
+      "meaning": "unreal",
+      "story": "This character represents unreal, shouting \"Hwahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1349,
+      "character": "司",
+      "pinyin": "sī",
+      "tone": 1,
+      "meaning": "to take charge of",
+      "story": "See how the mouth forms to take charge of? It sings \"Suh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1350,
+      "character": "詞",
+      "pinyin": "cí",
+      "tone": 2,
+      "meaning": "Word",
+      "story": "The strokes unite to show word, asking \"Tsuh? Phrase?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1351,
+      "character": "舟",
+      "pinyin": "zhōu",
+      "tone": 1,
+      "meaning": "Boat",
+      "story": "This character represents boat, singing \"Joh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1352,
+      "character": "船",
+      "pinyin": "chuán",
+      "tone": 2,
+      "meaning": "Ship",
+      "story": "The strokes unite to show ship, asking \"Chwahn? Vessel?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1353,
+      "character": "般",
+      "pinyin": "bān",
+      "tone": 1,
+      "meaning": "the Sort",
+      "story": "\"Bahn!\" Two boats sang cheerfully - one sort, kind, class of carrier!",
+      "primitives": []
+    },
+    {
+      "id": 1354,
+      "character": "盤",
+      "pinyin": "pán",
+      "tone": 2,
+      "meaning": "Tray",
+      "story": "A striking symbol for tray that asks \"Pahn? Plate?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1355,
+      "character": "搬",
+      "pinyin": "bān",
+      "tone": 1,
+      "meaning": "to relocate",
+      "story": "\"Bahn!\" The hand sorted things cheerfully to relocate - moving, shifting, transferring like a conveyor!",
+      "primitives": []
+    },
+    {
+      "id": 1356,
+      "character": "瓜",
+      "pinyin": "guā",
+      "tone": 1,
+      "meaning": "Melon",
+      "story": "Picture melon taking form - it sings \"Gwah!\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

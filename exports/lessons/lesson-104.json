@@ -1,0 +1,188 @@
+{
+  "lesson": 104,
+  "characterCount": 20,
+  "characterList": "叼殷壽濤鑄禱籌伺飼舶航艇艦艙沿鉛狐瓣溢暇",
+  "themes": ["body", "numbers", "time"],
+  "characters": [
+    {
+      "id": 2748,
+      "character": "叼",
+      "pinyin": "diāo",
+      "tone": 1,
+      "meaning": "hold in the mouth",
+      "story": "\"DYAO!\" the wily mouth sings cheerfully, holding something in the mouth - gripping and biting!",
+      "primitives": []
+    },
+    {
+      "id": 2749,
+      "character": "殷",
+      "pinyin": "yīn",
+      "tone": 1,
+      "meaning": "ardent",
+      "story": "\"YIN!\" the sun sings cheerfully with ardent passion - earnest and fervent enthusiasm!",
+      "primitives": []
+    },
+    {
+      "id": 2750,
+      "character": "壽",
+      "pinyin": "shòu",
+      "tone": 4,
+      "meaning": "longevity",
+      "story": "\"SHOH!\" the long grey beard commands sharply - longevity, lifespan, and cigarettes for the elderly!",
+      "primitives": []
+    },
+    {
+      "id": 2751,
+      "character": "濤",
+      "pinyin": "táo",
+      "tone": 2,
+      "meaning": "large waves",
+      "story": "\"TAO?\" the water and long grey beard question curiously - are those large waves surging in the ocean?",
+      "primitives": []
+    },
+    {
+      "id": 2752,
+      "character": "鑄",
+      "pinyin": "zhù",
+      "tone": 4,
+      "meaning": "cast",
+      "story": "\"JOO!\" the metal commands sharply - to cast, forge, and mold into shape!",
+      "primitives": []
+    },
+    {
+      "id": 2753,
+      "character": "禱",
+      "pinyin": "dǎo",
+      "tone": 3,
+      "meaning": "pray",
+      "story": "The altar and long grey beard bend down drooping to pray, worship, and petition the gods.",
+      "primitives": []
+    },
+    {
+      "id": 2754,
+      "character": "籌",
+      "pinyin": "chóu",
+      "tone": 2,
+      "meaning": "make arrangements",
+      "story": "\"CHOH?\" the bamboo and long grey beard question curiously - how to make arrangements, plan, and coordinate?",
+      "primitives": []
+    },
+    {
+      "id": 2755,
+      "character": "伺",
+      "pinyin": "cì",
+      "tone": 4,
+      "meaning": "attend to",
+      "story": "\"TSIH!\" the person takes charge and commands sharply - to attend to and serve, like a server!",
+      "primitives": []
+    },
+    {
+      "id": 2756,
+      "character": "飼",
+      "pinyin": "sì",
+      "tone": 4,
+      "meaning": "rear",
+      "story": "\"SIH!\" the food commands sharply - to rear, raise, and feed the animals!",
+      "primitives": []
+    },
+    {
+      "id": 2757,
+      "character": "舶",
+      "pinyin": "bó",
+      "tone": 2,
+      "meaning": "liner",
+      "story": "\"BWOH?\" the boat questions curiously - is that a liner, an ocean ship that moors?",
+      "primitives": []
+    },
+    {
+      "id": 2758,
+      "character": "航",
+      "pinyin": "háng",
+      "tone": 2,
+      "meaning": "navigate",
+      "story": "\"HAHNG?\" the boat questions curiously - how to navigate, sail by aviation?",
+      "primitives": []
+    },
+    {
+      "id": 2759,
+      "character": "艇",
+      "pinyin": "tǐng",
+      "tone": 3,
+      "meaning": "light boat",
+      "story": "A striking symbol for light boat that whispers \"Tǐng!\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2760,
+      "character": "艦",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "warship",
+      "story": "\"JYEN!\" the supervising boat commands sharply - a warship, a battleship for the navy!",
+      "primitives": []
+    },
+    {
+      "id": 2761,
+      "character": "艙",
+      "pinyin": "cāng",
+      "tone": 1,
+      "meaning": "ship's cabin",
+      "story": "\"TSAHNG!\" the boat and storehouse sing cheerfully - the ship's cabin, business class seating!",
+      "primitives": []
+    },
+    {
+      "id": 2762,
+      "character": "沿",
+      "pinyin": "yán",
+      "tone": 2,
+      "meaning": "along",
+      "story": "\"YEN?\" the water questions curiously - flowing along, beside, and following the shore?",
+      "primitives": []
+    },
+    {
+      "id": 2763,
+      "character": "鉛",
+      "pinyin": "qiān",
+      "tone": 1,
+      "meaning": "lead",
+      "story": "\"CHYEN!\" the metal belch sings cheerfully - lead, the element for pencils!",
+      "primitives": []
+    },
+    {
+      "id": 2764,
+      "character": "狐",
+      "pinyin": "hú",
+      "tone": 2,
+      "meaning": "fox",
+      "story": "\"HOO?\" the pack of wild dogs questions curiously - is that a fox, a cunning animal?",
+      "primitives": []
+    },
+    {
+      "id": 2765,
+      "character": "瓣",
+      "pinyin": "bàn",
+      "tone": 4,
+      "meaning": "petal",
+      "story": "\"BAN!\" the two chili peppers and melon command sharply - a petal, flower part used in bean sauce!",
+      "primitives": []
+    },
+    {
+      "id": 2766,
+      "character": "溢",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "brim over",
+      "story": "\"YEE!\" the water commands sharply - to brim over, overflow with yin iron resentment!",
+      "primitives": []
+    },
+    {
+      "id": 2767,
+      "character": "暇",
+      "pinyin": "xiá",
+      "tone": 2,
+      "meaning": "spare time",
+      "story": "\"SHYAH?\" the sun questions curiously - is there spare time? The gods have leisure but can't carry themselves.",
+      "primitives": []
+    }
+  ]
+}

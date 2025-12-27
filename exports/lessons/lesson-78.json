@@ -1,0 +1,152 @@
+{
+  "lesson": 78,
+  "characterCount": 16,
+  "characterList": "蔬崩岩崎崖炭碳盼頒芬扮岔頌訟翁裕",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1878,
+      "character": "蔬",
+      "pinyin": "shū",
+      "tone": 1,
+      "meaning": "veggies",
+      "story": "A striking symbol for veggies that sings \"Shoo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1879,
+      "character": "崩",
+      "pinyin": "bēng",
+      "tone": 1,
+      "meaning": "crumble",
+      "story": "Like a mountain, this character means crumble and sings \"Bung!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1880,
+      "character": "岩",
+      "pinyin": "yán",
+      "tone": 2,
+      "meaning": "rock",
+      "story": "Picture a mountain beside a stone: that's rock, asking \"Yahn? Boulder?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1881,
+      "character": "崎",
+      "pinyin": "qí",
+      "tone": 2,
+      "meaning": "rugged",
+      "story": "See how the mountain forms rugged? It asks \"Chee? Terrain?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1882,
+      "character": "崖",
+      "pinyin": "yá",
+      "tone": 2,
+      "meaning": "cliff",
+      "story": "With a mountain combined with a tooth, you get cliff - \"Yah? Precipice?\" rings out curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1883,
+      "character": "炭",
+      "pinyin": "tàn",
+      "tone": 4,
+      "meaning": "charcoal",
+      "story": "The mountain stands for charcoal, shouting \"Tahn!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1884,
+      "character": "碳",
+      "pinyin": "tàn",
+      "tone": 4,
+      "meaning": "carbon",
+      "story": "The stone takes the shape of carbon, shouting \"Tahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1885,
+      "character": "盼",
+      "pinyin": "pàn",
+      "tone": 4,
+      "meaning": "await hopefully",
+      "story": "\"Pahn!\" Parted eyes commanded sharply - await hopefully, look forward and expect!",
+      "primitives": []
+    },
+    {
+      "id": 1886,
+      "character": "頒",
+      "pinyin": "bān",
+      "tone": 1,
+      "meaning": "promulgate",
+      "story": "Picture promulgate taking form - it sings \"Bahn!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1887,
+      "character": "芬",
+      "pinyin": "fēn",
+      "tone": 1,
+      "meaning": "essence",
+      "story": "This character represents essence, singing \"Fen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1888,
+      "character": "扮",
+      "pinyin": "bàn",
+      "tone": 4,
+      "meaning": "play the part of",
+      "story": "Like a hand, this character means play the part of and shouts \"Bahn!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1889,
+      "character": "岔",
+      "pinyin": "chà",
+      "tone": 4,
+      "meaning": "diverge",
+      "story": "The mountain stands for diverge, shouting \"Chah!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1890,
+      "character": "頌",
+      "pinyin": "sòng",
+      "tone": 4,
+      "meaning": "extol",
+      "story": "The strokes unite to show extol, shouting \"Sohng!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1891,
+      "character": "訟",
+      "pinyin": "sòng",
+      "tone": 4,
+      "meaning": "litigate",
+      "story": "A striking symbol for litigate that shouts \"Sohng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1892,
+      "character": "翁",
+      "pinyin": "wēng",
+      "tone": 1,
+      "meaning": "elderly man",
+      "story": "\"Wung!\" Public feathers sang cheerfully - an elderly man, old gentleman!",
+      "primitives": []
+    },
+    {
+      "id": 1893,
+      "character": "裕",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "abundant",
+      "story": "This character represents abundant, shouting \"Yoo!\" sharply!",
+      "primitives": []
+    }
+  ]
+}

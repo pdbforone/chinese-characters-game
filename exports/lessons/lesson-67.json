@@ -1,0 +1,170 @@
+{
+  "lesson": 67,
+  "characterCount": 18,
+  "characterList": "贊舍啥洽旺碧汪枉珠噩鱷鬥栓柱鉤鈔銷鎖",
+  "themes": ["numbers"],
+  "characters": [
+    {
+      "id": 1574,
+      "character": "贊",
+      "pinyin": "zàn",
+      "tone": 4,
+      "meaning": "succor",
+      "story": "The shellfish stands for succor, shouting \"Dzahn!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1575,
+      "character": "舍",
+      "pinyin": "shè",
+      "tone": 4,
+      "meaning": "abode",
+      "story": "When the tongue meets the roof, they form abode, shouting \"Shuh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1576,
+      "character": "啥",
+      "pinyin": "shá",
+      "tone": 2,
+      "meaning": "wha?",
+      "story": "The mouth stands for wha?, asking \"Shah? What?\" curiously spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1577,
+      "character": "洽",
+      "pinyin": "qià",
+      "tone": 4,
+      "meaning": "in agreement",
+      "story": "\"Chyah!\" Water fit commanded sharply - in agreement, harmonious accord!",
+      "primitives": []
+    },
+    {
+      "id": 1578,
+      "character": "旺",
+      "pinyin": "wàng",
+      "tone": 4,
+      "meaning": "thriving",
+      "story": "The sun takes the shape of thriving, shouting \"Wahng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1579,
+      "character": "碧",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "green jade",
+      "story": "The stone stands for green jade, shouting \"Bee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1580,
+      "character": "汪",
+      "pinyin": "wāng",
+      "tone": 1,
+      "meaning": "tearful",
+      "story": "See how the water forms tearful? It sings \"Wahng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1581,
+      "character": "枉",
+      "pinyin": "wǎng",
+      "tone": 3,
+      "meaning": "crooked",
+      "story": "The tree takes the shape of crooked, whispering \"Wahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1582,
+      "character": "珠",
+      "pinyin": "zhū",
+      "tone": 1,
+      "meaning": "pearl",
+      "story": "Picture pearl taking form - it sings \"Joo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1583,
+      "character": "噩",
+      "pinyin": "è",
+      "tone": 4,
+      "meaning": "shocking",
+      "story": "A striking symbol for shocking that shouts \"Uh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1584,
+      "character": "鱷",
+      "pinyin": "è",
+      "tone": 4,
+      "meaning": "crocodile",
+      "story": "Picture crocodile taking form - it shouts \"Uh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1585,
+      "character": "鬥",
+      "pinyin": "dòu",
+      "tone": 4,
+      "meaning": "fight",
+      "story": "This character represents fight, shouting \"Doh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1586,
+      "character": "栓",
+      "pinyin": "shuān",
+      "tone": 1,
+      "meaning": "plug",
+      "story": "The tree takes the shape of plug, singing \"Shwahn!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1587,
+      "character": "柱",
+      "pinyin": "zhù",
+      "tone": 4,
+      "meaning": "pillar",
+      "story": "The tree stands for pillar, shouting \"Joo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1588,
+      "character": "鉤",
+      "pinyin": "gōu",
+      "tone": 1,
+      "meaning": "hook",
+      "story": "When the hook meets the metal, they form hook, singing \"Goh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1589,
+      "character": "鈔",
+      "pinyin": "chāo",
+      "tone": 1,
+      "meaning": "paper money",
+      "story": "\"Chao!\" Few pieces of metal sang cheerfully - paper money, banknotes, currency!",
+      "primitives": []
+    },
+    {
+      "id": 1590,
+      "character": "銷",
+      "pinyin": "xiāo",
+      "tone": 1,
+      "meaning": "put up for sale",
+      "story": "The metal stands for put up for sale, singing \"Shyao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1591,
+      "character": "鎖",
+      "pinyin": "suǒ",
+      "tone": 3,
+      "meaning": "lock",
+      "story": "The metal stands for lock, whispering \"Swoh\" softly - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

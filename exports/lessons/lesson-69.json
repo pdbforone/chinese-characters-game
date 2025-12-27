@@ -1,0 +1,80 @@
+{
+  "lesson": 69,
+  "characterCount": 8,
+  "characterList": "略暈渾膏亨哼淳鯨",
+  "themes": ["action", "numbers"],
+  "characters": [
+    {
+      "id": 1604,
+      "character": "略",
+      "pinyin": "lüè",
+      "tone": 4,
+      "meaning": "abbreviation",
+      "story": "The field stands for abbreviation, shouting \"Lyueh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1605,
+      "character": "暈",
+      "pinyin": "yūn",
+      "tone": 1,
+      "meaning": "dizzy",
+      "story": "See how the sun forms dizzy? It sings \"Yoon!\" cheerfully as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 1606,
+      "character": "渾",
+      "pinyin": "hún",
+      "tone": 2,
+      "meaning": "muddled",
+      "story": "The water takes the shape of muddled, asking \"Hwun? Batter?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1607,
+      "character": "膏",
+      "pinyin": "gāo",
+      "tone": 1,
+      "meaning": "ointment",
+      "story": "\"Gao!\" The Eiffel tower of flesh sang cheerfully - ointment, salve or cream!",
+      "primitives": []
+    },
+    {
+      "id": 1608,
+      "character": "亨",
+      "pinyin": "hēng",
+      "tone": 1,
+      "meaning": "go smoothly",
+      "story": "\"Hung!\" High lid sang cheerfully - to go smoothly, prosperous and unobstructed!",
+      "primitives": []
+    },
+    {
+      "id": 1609,
+      "character": "哼",
+      "pinyin": "hēng",
+      "tone": 1,
+      "meaning": "hum",
+      "story": "Like a mouth, this character means hum and sings \"Hung!\" spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1610,
+      "character": "淳",
+      "pinyin": "chún",
+      "tone": 2,
+      "meaning": "honest",
+      "story": "The water stands for honest, asking \"Chwun? Sincere?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1611,
+      "character": "鯨",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "whale",
+      "story": "A striking symbol for whale that sings \"Jing!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

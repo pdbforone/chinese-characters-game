@@ -1,0 +1,44 @@
+{
+  "lesson": 62,
+  "characterCount": 4,
+  "characterList": "兢碩砌哨",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1517,
+      "character": "兢",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "cautious",
+      "story": "This character represents cautious, singing \"Jing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1518,
+      "character": "碩",
+      "pinyin": "shuò",
+      "tone": 4,
+      "meaning": "big",
+      "story": "The stone stands for big, shouting \"Shwoh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1519,
+      "character": "砌",
+      "pinyin": "qì",
+      "tone": 4,
+      "meaning": "lay brick",
+      "story": "\"Chee!\" Stone together commanded sharply - lay brick for building a wall!",
+      "primitives": []
+    },
+    {
+      "id": 1520,
+      "character": "哨",
+      "pinyin": "shào",
+      "tone": 4,
+      "meaning": "whistle",
+      "story": "See how the mouth forms whistle? It shouts \"Shao!\" sharply spoken through parted lips!",
+      "primitives": []
+    }
+  ]
+}

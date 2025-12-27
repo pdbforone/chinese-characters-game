@@ -1,0 +1,665 @@
+{
+  "lesson": 81,
+  "characterCount": 73,
+  "characterList": "筋伍仇倡伯仲估偵俱側佑佐仔俏倘倚佳侍伙宿伏袱偷伐佩佈僑億傾侮倍仿傲僧悠俄儀侄仙俗償臥傍俺淹掩催摧攜符貸荷仗杖夾俠頰狹挾峽傘聚挫劍斂撿簽儉萊葛褐竭歇",
+  "themes": ["numbers", "action", "family", "time"],
+  "characters": [
+    {
+      "id": 1990,
+      "character": "筋",
+      "pinyin": "jīn",
+      "tone": 1,
+      "meaning": "tendon",
+      "story": "The bamboo takes the shape of tendon, singing \"Jin!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1991,
+      "character": "伍",
+      "pinyin": "wǔ",
+      "tone": 3,
+      "meaning": "V",
+      "story": "Like a person, this character means v and whispers \"Woo\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1992,
+      "character": "仇",
+      "pinyin": "chóu",
+      "tone": 2,
+      "meaning": "animosity",
+      "story": "The person takes the shape of animosity, asking \"Choh? Enmity?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1993,
+      "character": "倡",
+      "pinyin": "chàng",
+      "tone": 4,
+      "meaning": "start",
+      "story": "The person stands for start, shouting \"Chahng!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1994,
+      "character": "伯",
+      "pinyin": "bó",
+      "tone": 2,
+      "meaning": "father's older brother",
+      "story": "When the white meets the person, they form father's older brother, asking \"Bwo? Uncle?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1995,
+      "character": "仲",
+      "pinyin": "zhòng",
+      "tone": 4,
+      "meaning": "mid—",
+      "story": "Like a person, this character means mid— and shouts \"Johng!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1996,
+      "character": "估",
+      "pinyin": "gū",
+      "tone": 1,
+      "meaning": "estimate",
+      "story": "See how the person forms estimate? It sings \"Goo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1997,
+      "character": "偵",
+      "pinyin": "zhēn",
+      "tone": 1,
+      "meaning": "detect",
+      "story": "Like a person, this character means detect and sings \"Jun!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1998,
+      "character": "俱",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "altogether",
+      "story": "See how the person forms altogether? It shouts \"Jyoo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1999,
+      "character": "側",
+      "pinyin": "cè",
+      "tone": 4,
+      "meaning": "lateral",
+      "story": "See how the person forms lateral? It shouts \"Tsuh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2000,
+      "character": "佑",
+      "pinyin": "yòu",
+      "tone": 4,
+      "meaning": "bless",
+      "story": "The person stands for bless, shouting \"Yoh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2001,
+      "character": "佐",
+      "pinyin": "zuǒ",
+      "tone": 3,
+      "meaning": "assistant",
+      "story": "The person stands for assistant, whispering \"Dzwoh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2002,
+      "character": "仔",
+      "pinyin": "zǐ",
+      "tone": 3,
+      "meaning": "meticulous",
+      "story": "The person stands for meticulous, whispering \"Dzir\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2003,
+      "character": "俏",
+      "pinyin": "qiào",
+      "tone": 4,
+      "meaning": "comely",
+      "story": "See how the person forms comely? It shouts \"Chyao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2004,
+      "character": "倘",
+      "pinyin": "tǎng",
+      "tone": 3,
+      "meaning": "if",
+      "story": "The person stands for if, whispering \"Tahng\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2005,
+      "character": "倚",
+      "pinyin": "yǐ",
+      "tone": 3,
+      "meaning": "count on",
+      "story": "The person takes the shape of count on, whispering \"Yee\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2006,
+      "character": "佳",
+      "pinyin": "jiā",
+      "tone": 1,
+      "meaning": "superb",
+      "story": "See how the person forms superb? It sings \"Jyah!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2007,
+      "character": "侍",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "serve",
+      "story": "\"Shir!\" A person at the Buddhist temple commanded sharply to serve - attend and wait on!",
+      "primitives": []
+    },
+    {
+      "id": 2008,
+      "character": "伙",
+      "pinyin": "huǒ",
+      "tone": 3,
+      "meaning": "mate",
+      "story": "When the fire meets the person, they form mate, whispering \"Hwoh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2009,
+      "character": "宿",
+      "pinyin": "sù",
+      "tone": 4,
+      "meaning": "stay overnight",
+      "story": "This character represents stay overnight, shouting \"Soo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2010,
+      "character": "伏",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "bend over",
+      "story": "\"Foo, should we prostrate?\" The person questioned the dog curiously - bend over and lie down!",
+      "primitives": []
+    },
+    {
+      "id": 2011,
+      "character": "袱",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "wrapping cloth",
+      "story": "This character represents wrapping cloth, asking \"Foo? Bundle?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2012,
+      "character": "偷",
+      "pinyin": "tōu",
+      "tone": 1,
+      "meaning": "steal",
+      "story": "The person stands for steal, singing \"Toh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2013,
+      "character": "伐",
+      "pinyin": "fá",
+      "tone": 2,
+      "meaning": "fell",
+      "story": "With a tree combined with a person, you get fell - \"Fah? Cut tree?\" rings out curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2014,
+      "character": "佩",
+      "pinyin": "pèi",
+      "tone": 4,
+      "meaning": "wear at the waist",
+      "story": "Like a person, this character means wear at the waist and shouts \"Pay!\"!",
+      "primitives": []
+    },
+    {
+      "id": 2015,
+      "character": "佈",
+      "pinyin": "bù",
+      "tone": 4,
+      "meaning": "announce",
+      "story": "The person takes the shape of announce, shouting \"Boo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2016,
+      "character": "僑",
+      "pinyin": "qiáo",
+      "tone": 2,
+      "meaning": "live abroad",
+      "story": "\"Chyao, are you an expatriate?\" The person questioned the angel curiously - living abroad, overseas!",
+      "primitives": []
+    },
+    {
+      "id": 2017,
+      "character": "億",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "one hundred million",
+      "story": "The person stands for one hundred million, shouting \"Yee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2018,
+      "character": "傾",
+      "pinyin": "qīng",
+      "tone": 1,
+      "meaning": "incline",
+      "story": "See how the person forms incline? It sings \"Ching!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2019,
+      "character": "侮",
+      "pinyin": "wǔ",
+      "tone": 3,
+      "meaning": "insult",
+      "story": "The person stands for insult, whispering \"Woo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2020,
+      "character": "倍",
+      "pinyin": "bèi",
+      "tone": 4,
+      "meaning": "times-multiplier",
+      "story": "The person stands for times-multiplier, shouting \"Bay!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2021,
+      "character": "仿",
+      "pinyin": "fǎng",
+      "tone": 3,
+      "meaning": "mimic",
+      "story": "Like a person, this character means mimic and whispers \"Fahng\"!",
+      "primitives": []
+    },
+    {
+      "id": 2022,
+      "character": "傲",
+      "pinyin": "ào",
+      "tone": 4,
+      "meaning": "haughty",
+      "story": "The person takes the shape of haughty, shouting \"Ao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2023,
+      "character": "僧",
+      "pinyin": "sēng",
+      "tone": 1,
+      "meaning": "Buddhist monk",
+      "story": "\"Sung!\" The person increased cheerfully - a Buddhist monk, too many monks make not enough porridge!",
+      "primitives": []
+    },
+    {
+      "id": 2024,
+      "character": "悠",
+      "pinyin": "yōu",
+      "tone": 1,
+      "meaning": "without haste",
+      "story": "With a stick combined with a heart, you get without haste - \"Yoh!\" rings out cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2025,
+      "character": "俄",
+      "pinyin": "é",
+      "tone": 2,
+      "meaning": "Russia",
+      "story": "The person stands for russia, asking \"Uh? Soviet?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2026,
+      "character": "儀",
+      "pinyin": "yí",
+      "tone": 2,
+      "meaning": "rite",
+      "story": "The person stands for rite, asking \"Yee? Ceremony?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2027,
+      "character": "侄",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "nephew",
+      "story": "\"Jir, is that my brother's son?\" The person reaching out questioned the nephew curiously - crazy since childhood!",
+      "primitives": []
+    },
+    {
+      "id": 2028,
+      "character": "仙",
+      "pinyin": "xiān",
+      "tone": 1,
+      "meaning": "immortal",
+      "story": "With a mountain combined with a person, you get immortal - \"Shyan!\" rings out cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2029,
+      "character": "俗",
+      "pinyin": "sú",
+      "tone": 2,
+      "meaning": "custom",
+      "story": "Like a person, this character means custom and asks \"Soo? Tradition?\"!",
+      "primitives": []
+    },
+    {
+      "id": 2030,
+      "character": "償",
+      "pinyin": "cháng",
+      "tone": 2,
+      "meaning": "repay",
+      "story": "The person stands for repay, asking \"Chahng? Compensate?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2031,
+      "character": "臥",
+      "pinyin": "wò",
+      "tone": 4,
+      "meaning": "for sleeping",
+      "story": "\"Woh!\" For sleeping and lying down, they commanded sharply - recline in the bedroom!",
+      "primitives": []
+    },
+    {
+      "id": 2032,
+      "character": "傍",
+      "pinyin": "páng",
+      "tone": 2,
+      "meaning": "close to",
+      "story": "\"Pahng, are we near?\" The person questioned the compass curiously - close to nightfall!",
+      "primitives": []
+    },
+    {
+      "id": 2033,
+      "character": "俺",
+      "pinyin": "ǎn",
+      "tone": 3,
+      "meaning": "we (exclusive)",
+      "story": "The person takes the shape of we (exclusive), whispering \"Ahn\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2034,
+      "character": "淹",
+      "pinyin": "yān",
+      "tone": 1,
+      "meaning": "inundate",
+      "story": "\"Yan!\" Water flooded the hang glider cheerfully - inundate and drown!",
+      "primitives": []
+    },
+    {
+      "id": 2035,
+      "character": "掩",
+      "pinyin": "yǎn",
+      "tone": 3,
+      "meaning": "conceal",
+      "story": "The fingers takes the shape of conceal, whispering \"Yahn\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2036,
+      "character": "催",
+      "pinyin": "cuī",
+      "tone": 1,
+      "meaning": "prod",
+      "story": "See how the person forms prod? It sings \"Tsway!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2037,
+      "character": "摧",
+      "pinyin": "cuī",
+      "tone": 1,
+      "meaning": "wreck",
+      "story": "Like fingers, this character means wreck and sings \"Tsway!\"!",
+      "primitives": []
+    },
+    {
+      "id": 2038,
+      "character": "攜",
+      "pinyin": "xié",
+      "tone": 2,
+      "meaning": "take along",
+      "story": "See how the mouth forms take along? It asks \"Shyeh? Bring?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2039,
+      "character": "符",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "symbol",
+      "story": "Like bamboo, this character means symbol and asks \"Foo? Sign?\"!",
+      "primitives": []
+    },
+    {
+      "id": 2040,
+      "character": "貸",
+      "pinyin": "dài",
+      "tone": 4,
+      "meaning": "loan",
+      "story": "\"Digh!\" Substitute shells commanded sharply - a loan to lend and borrow!",
+      "primitives": []
+    },
+    {
+      "id": 2041,
+      "character": "荷",
+      "pinyin": "hé",
+      "tone": 2,
+      "meaning": "Holland",
+      "story": "The strokes unite to show holland, asking \"Huh? Lotus?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2042,
+      "character": "仗",
+      "pinyin": "zhàng",
+      "tone": 4,
+      "meaning": "battle",
+      "story": "Like a person, this character means battle and shouts \"Jahng!\"!",
+      "primitives": []
+    },
+    {
+      "id": 2043,
+      "character": "杖",
+      "pinyin": "zhàng",
+      "tone": 4,
+      "meaning": "cane",
+      "story": "Picture a tree beside a stick: that's cane, shouting \"Jahng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2044,
+      "character": "夾",
+      "pinyin": "jiā",
+      "tone": 1,
+      "meaning": "press from both sides",
+      "story": "The people takes the shape of press from both sides, singing \"Jyah!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2045,
+      "character": "俠",
+      "pinyin": "xiá",
+      "tone": 2,
+      "meaning": "chivalrous person",
+      "story": "See how the person forms chivalrous person? It asks \"Shyah? Hero?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2046,
+      "character": "頰",
+      "pinyin": "jiá",
+      "tone": 2,
+      "meaning": "cheek",
+      "story": "This character represents cheek, asking \"Jyah? Face?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2047,
+      "character": "狹",
+      "pinyin": "xiá",
+      "tone": 2,
+      "meaning": "narrow",
+      "story": "A striking symbol for narrow that asks \"Shyah? Tight?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2048,
+      "character": "挾",
+      "pinyin": "xié",
+      "tone": 2,
+      "meaning": "coerce",
+      "story": "See how the hand forms coerce? It asks \"Shyeh? Force?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2049,
+      "character": "峽",
+      "pinyin": "xiá",
+      "tone": 2,
+      "meaning": "gorge",
+      "story": "The mountain takes the shape of gorge, asking \"Shyah? Canyon?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2050,
+      "character": "傘",
+      "pinyin": "sǎn",
+      "tone": 3,
+      "meaning": "umbrella",
+      "story": "With a people combined with rain, you get umbrella - \"Sahn\" rings out softly!",
+      "primitives": []
+    },
+    {
+      "id": 2051,
+      "character": "聚",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "assemble",
+      "story": "See how the ear forms assemble? It shouts \"Jyoo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2052,
+      "character": "挫",
+      "pinyin": "cuò",
+      "tone": 4,
+      "meaning": "frustrate",
+      "story": "See how the fingers forms frustrate? It shouts \"Tswoh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2053,
+      "character": "劍",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "saber",
+      "story": "When the sword meets the blade, they form saber, shouting \"Jyan!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2054,
+      "character": "斂",
+      "pinyin": "liǎn",
+      "tone": 3,
+      "meaning": "restrain",
+      "story": "The strokes unite to show restrain, asking \"Lyan\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2055,
+      "character": "撿",
+      "pinyin": "jiǎn",
+      "tone": 3,
+      "meaning": "pick up",
+      "story": "The hand stands for pick up, whispering \"Jyan\" softly reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 2056,
+      "character": "簽",
+      "pinyin": "qiān",
+      "tone": 1,
+      "meaning": "sign",
+      "story": "Like bamboo, this character means sign and sings \"Chyan!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2057,
+      "character": "儉",
+      "pinyin": "jiǎn",
+      "tone": 3,
+      "meaning": "thrifty",
+      "story": "See how the person forms thrifty? It whispers \"Jyan\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2058,
+      "character": "萊",
+      "pinyin": "lái",
+      "tone": 2,
+      "meaning": "lambsquarters",
+      "story": "This character represents lambsquarters, asking \"Ligh? Pigweed?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2059,
+      "character": "葛",
+      "pinyin": "gé",
+      "tone": 2,
+      "meaning": "kudzu",
+      "story": "This character represents kudzu, asking \"Guh? Vine?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2060,
+      "character": "褐",
+      "pinyin": "hè",
+      "tone": 4,
+      "meaning": "brown",
+      "story": "A striking symbol for brown that shouts \"Huh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2061,
+      "character": "竭",
+      "pinyin": "jié",
+      "tone": 2,
+      "meaning": "use up",
+      "story": "\"Jyeh, are we exhausted?\" Standing for a siesta questioned using up curiously - deplete!",
+      "primitives": []
+    },
+    {
+      "id": 2062,
+      "character": "歇",
+      "pinyin": "xiē",
+      "tone": 1,
+      "meaning": "take a rest",
+      "story": "Picture take a rest taking form - it sings \"Shyeh!\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "lesson": 64,
+  "characterCount": 8,
+  "characterList": "澆哩鯉嘿丹喧賓濱",
+  "themes": ["action", "water"],
+  "characters": [
+    {
+      "id": 1534,
+      "character": "澆",
+      "pinyin": "jiāo",
+      "tone": 1,
+      "meaning": "sprinkle",
+      "story": "See how the water forms sprinkle? It sings \"Jyao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1535,
+      "character": "哩",
+      "pinyin": "lǐ",
+      "tone": 3,
+      "meaning": "mile",
+      "story": "The mouth takes the shape of mile, whispering \"Lee\" softly spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1536,
+      "character": "鯉",
+      "pinyin": "lǐ",
+      "tone": 3,
+      "meaning": "carp",
+      "story": "Picture carp taking form - it whispers \"Lee\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1537,
+      "character": "嘿",
+      "pinyin": "hēi",
+      "tone": 1,
+      "meaning": "Hey!",
+      "story": "The mouth stands for hey!, singing \"Hay!\" cheerfully spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1538,
+      "character": "丹",
+      "pinyin": "dān",
+      "tone": 1,
+      "meaning": "cinnabar red",
+      "story": "This character represents cinnabar red, singing \"Dahn!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1539,
+      "character": "喧",
+      "pinyin": "xuān",
+      "tone": 1,
+      "meaning": "boisterous",
+      "story": "The mouth stands for boisterous, singing \"Shyuan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1540,
+      "character": "賓",
+      "pinyin": "bīn",
+      "tone": 1,
+      "meaning": "visitor",
+      "story": "The shellfish and roof unite to create visitor, singing \"Bin!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1541,
+      "character": "濱",
+      "pinyin": "bīn",
+      "tone": 1,
+      "meaning": "water's edge",
+      "story": "The water takes the shape of water's edge, singing \"Bin!\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "lesson": 73,
+  "characterCount": 42,
+  "characterList": "婿裁襪滾衰衷禪猿吊帕帖帆幅錦沛柿鬧棘棗蕾吞妖沃轎垃啼蒂滴頃匙乖乘剩棍諧柴敏霉迄砍坎炊",
+  "themes": ["family", "action", "body", "water", "fire"],
+  "characters": [
+    {
+      "id": 1648,
+      "character": "婿",
+      "pinyin": "xù",
+      "tone": 4,
+      "meaning": "son-in-law",
+      "story": "The moon takes the shape of son-in-law, shouting \"Shyoo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1649,
+      "character": "裁",
+      "pinyin": "cái",
+      "tone": 2,
+      "meaning": "tailor",
+      "story": "This character represents tailor, asking \"Tsigh? Cut?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1650,
+      "character": "襪",
+      "pinyin": "wà",
+      "tone": 4,
+      "meaning": "socks",
+      "story": "See how the foot forms socks? It shouts \"Wah!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1651,
+      "character": "滾",
+      "pinyin": "gǔn",
+      "tone": 3,
+      "meaning": "trundle",
+      "story": "See how the water forms trundle? It whispers \"Gwun\" softly like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1652,
+      "character": "衰",
+      "pinyin": "shuāi",
+      "tone": 1,
+      "meaning": "decline",
+      "story": "\"Shwigh!\" Grief and walking stick sang cheerfully - decline, weakening and deteriorating!",
+      "primitives": []
+    },
+    {
+      "id": 1653,
+      "character": "衷",
+      "pinyin": "zhōng",
+      "tone": 1,
+      "meaning": "innermost feelings",
+      "story": "When the stick meets the heart, they form innermost feelings, singing \"Johng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1654,
+      "character": "禪",
+      "pinyin": "chán",
+      "tone": 2,
+      "meaning": "meditation",
+      "story": "A striking symbol for meditation that sings \"Chahn? Zen?\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1655,
+      "character": "猿",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "ape",
+      "story": "This character represents ape, asking \"Yuan? Primate?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1656,
+      "character": "吊",
+      "pinyin": "diào",
+      "tone": 4,
+      "meaning": "dangle",
+      "story": "Like a mouth, this character means dangle and shouts \"Dyao!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1657,
+      "character": "帕",
+      "pinyin": "pà",
+      "tone": 4,
+      "meaning": "handkerchief",
+      "story": "Like a white, this character means handkerchief and shouts \"Pah!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1658,
+      "character": "帖",
+      "pinyin": "tiē",
+      "tone": 1,
+      "meaning": "note",
+      "story": "\"Tyeh!\" Towel for fortune-telling sang cheerfully - a note, memo or invitation!",
+      "primitives": []
+    },
+    {
+      "id": 1659,
+      "character": "帆",
+      "pinyin": "fán",
+      "tone": 2,
+      "meaning": "sail",
+      "story": "The strokes unite to show sail, asking \"Fahn? Catching breeze?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1660,
+      "character": "幅",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "width of cloth",
+      "story": "A striking symbol for width of cloth that asks \"Foo? Measure?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1661,
+      "character": "錦",
+      "pinyin": "jǐn",
+      "tone": 3,
+      "meaning": "brocade",
+      "story": "Picture a white beside metal: that's brocade, whispering \"Jin\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1662,
+      "character": "沛",
+      "pinyin": "pèi",
+      "tone": 4,
+      "meaning": "copious",
+      "story": "Like water, this character means copious and shouts \"Pay!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1663,
+      "character": "柿",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "persimmon",
+      "story": "Like a tree, this character means persimmon and shouts \"Shir!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1664,
+      "character": "鬧",
+      "pinyin": "nào",
+      "tone": 4,
+      "meaning": "stir up trouble",
+      "story": "See how the gate forms stir up trouble? It shouts \"Nao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1665,
+      "character": "棘",
+      "pinyin": "jí",
+      "tone": 2,
+      "meaning": "thorn bushes",
+      "story": "\"Jee, is it prickly?\" Two thorns questioned curiously - thorn bushes and brambles!",
+      "primitives": []
+    },
+    {
+      "id": 1666,
+      "character": "棗",
+      "pinyin": "zǎo",
+      "tone": 3,
+      "meaning": "jujube",
+      "story": "Picture jujube taking form - it whispers \"Dzao\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1667,
+      "character": "蕾",
+      "pinyin": "lěi",
+      "tone": 3,
+      "meaning": "flower bud",
+      "story": "The strokes unite to show flower bud, whispering \"Lay\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1668,
+      "character": "吞",
+      "pinyin": "tūn",
+      "tone": 1,
+      "meaning": "gulp down",
+      "story": "\"Twun!\" The mouth swallowed cheerfully - gulp down and devour!",
+      "primitives": []
+    },
+    {
+      "id": 1669,
+      "character": "妖",
+      "pinyin": "yāo",
+      "tone": 1,
+      "meaning": "bewitching",
+      "story": "\"Yao!\" The woman died young cheerfully - bewitching, an enchanting demon!",
+      "primitives": []
+    },
+    {
+      "id": 1670,
+      "character": "沃",
+      "pinyin": "wò",
+      "tone": 4,
+      "meaning": "fertile",
+      "story": "\"Woh!\" Water made dying young sharp - fertile, productive rich soil!",
+      "primitives": []
+    },
+    {
+      "id": 1671,
+      "character": "轎",
+      "pinyin": "jiào",
+      "tone": 4,
+      "meaning": "sedan chair",
+      "story": "\"Jyao!\" Tall car commanded sharply - a sedan chair, palanquin or carriage!",
+      "primitives": []
+    },
+    {
+      "id": 1672,
+      "character": "垃",
+      "pinyin": "lā",
+      "tone": 1,
+      "meaning": "garbage",
+      "story": "See how the soil forms garbage? It sings \"Lah!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1673,
+      "character": "啼",
+      "pinyin": "tí",
+      "tone": 2,
+      "meaning": "weep aloud",
+      "story": "\"Tee, why cry?\" The sovereign mouth questioned weeping aloud curiously - rooster crow and wail!",
+      "primitives": []
+    },
+    {
+      "id": 1674,
+      "character": "蒂",
+      "pinyin": "dì",
+      "tone": 4,
+      "meaning": "fruit stem",
+      "story": "\"Dee!\" Sovereign flowers commanded sharply - fruit stem, plant base, clitoris!",
+      "primitives": []
+    },
+    {
+      "id": 1675,
+      "character": "滴",
+      "pinyin": "dī",
+      "tone": 1,
+      "meaning": "drip",
+      "story": "The water stands for drip, singing \"Dee!\" cheerfully like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1676,
+      "character": "頃",
+      "pinyin": "qǐng",
+      "tone": 3,
+      "meaning": "100 Chinese acres",
+      "story": "Picture 100 chinese acres taking form - it whispers \"Ching\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1677,
+      "character": "匙",
+      "pinyin": "chí",
+      "tone": 2,
+      "meaning": "spoon",
+      "story": "The box stands for spoon, asking \"Chir? Utensil?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1678,
+      "character": "乖",
+      "pinyin": "guāi",
+      "tone": 1,
+      "meaning": "well-behaved",
+      "story": "A striking symbol for well-behaved that sings \"Gwigh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1679,
+      "character": "乘",
+      "pinyin": "chéng",
+      "tone": 2,
+      "meaning": "hitch a ride",
+      "story": "The wood stands for hitch a ride, asking \"Chung? Board?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1680,
+      "character": "剩",
+      "pinyin": "shèng",
+      "tone": 4,
+      "meaning": "leftover",
+      "story": "See how the sword forms leftover? It shouts \"Shung!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1681,
+      "character": "棍",
+      "pinyin": "gùn",
+      "tone": 4,
+      "meaning": "club",
+      "story": "The tree and stick unite to create club, shouting \"Gwun!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1682,
+      "character": "諧",
+      "pinyin": "xié",
+      "tone": 2,
+      "meaning": "in accord",
+      "story": "An striking symbol for in accord that asks \"Shyeh? Harmony?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1683,
+      "character": "柴",
+      "pinyin": "chái",
+      "tone": 2,
+      "meaning": "firewood",
+      "story": "The tree and wood unite to create firewood, asking \"Chigh? Kindling?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1684,
+      "character": "敏",
+      "pinyin": "mǐn",
+      "tone": 3,
+      "meaning": "quick-witted",
+      "story": "The strokes unite to show quick-witted, asking \"Min\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1685,
+      "character": "霉",
+      "pinyin": "méi",
+      "tone": 2,
+      "meaning": "mildew",
+      "story": "Picture mildew taking form - it asks \"May? Mold?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1686,
+      "character": "迄",
+      "pinyin": "qì",
+      "tone": 4,
+      "meaning": "so far",
+      "story": "\"Chee!\" The road to beg commanded sharply - so far, until now!",
+      "primitives": []
+    },
+    {
+      "id": 1687,
+      "character": "砍",
+      "pinyin": "kǎn",
+      "tone": 3,
+      "meaning": "chop",
+      "story": "The stone takes the shape of chop, whispering \"Kahn\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1688,
+      "character": "坎",
+      "pinyin": "kǎn",
+      "tone": 3,
+      "meaning": "hump",
+      "story": "The soil stands for hump, whispering \"Kahn\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1689,
+      "character": "炊",
+      "pinyin": "chuī",
+      "tone": 1,
+      "meaning": "cook",
+      "story": "See how the fire forms cook? It sings \"Chway!\" cheerfully with flickering flames dancing high!",
+      "primitives": []
+    }
+  ]
+}

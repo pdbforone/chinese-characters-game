@@ -1,0 +1,206 @@
+{
+  "lesson": 15,
+  "characterCount": 22,
+  "characterList": "書畫劃攻敗故救敬敞言警計獄討訓話詩語讀調談這",
+  "themes": ["family"],
+  "characters": [
+    {
+      "id": 311,
+      "character": "書",
+      "pinyin": "shū",
+      "tone": 1,
+      "meaning": "Book",
+      "story": "A book hand speaks cheerfully singing \"Shoo!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 312,
+      "character": "畫",
+      "pinyin": "huà",
+      "tone": 4,
+      "meaning": "a Drawing",
+      "story": "Picture a field beside lines: that's a drawing, shouting \"Hwa!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 313,
+      "character": "劃",
+      "pinyin": "huá",
+      "tone": 2,
+      "meaning": "to scratch",
+      "story": "\"Where should I cut?\" she questioned, using power to scratch the drawing.",
+      "primitives": []
+    },
+    {
+      "id": 314,
+      "character": "攻",
+      "pinyin": "gōng",
+      "tone": 1,
+      "meaning": "to attack",
+      "story": "The workers went on strike, attacking the company with their demands.",
+      "primitives": []
+    },
+    {
+      "id": 315,
+      "character": "敗",
+      "pinyin": "bài",
+      "tone": 4,
+      "meaning": "to fail",
+      "story": "Like a shellfish, this character means to fail and shouts \"Bai!\"!",
+      "primitives": []
+    },
+    {
+      "id": 316,
+      "character": "故",
+      "pinyin": "gù",
+      "tone": 4,
+      "meaning": "deliberately",
+      "story": "Picture deliberately taking form - it shouts \"Goo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 317,
+      "character": "救",
+      "pinyin": "jiù",
+      "tone": 4,
+      "meaning": "to rescue",
+      "story": "Picture to rescue taking form - it shouts \"Jyo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 318,
+      "character": "敬",
+      "pinyin": "jìng",
+      "tone": 4,
+      "meaning": "to revere",
+      "story": "\"Jing!\" he commanded sharply, showing alarm and respect to revere elders.",
+      "primitives": []
+    },
+    {
+      "id": 319,
+      "character": "敞",
+      "pinyin": "chǎng",
+      "tone": 3,
+      "meaning": "spacious",
+      "story": "The strokes unite to show spacious, whispering \"Chang\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 320,
+      "character": "言",
+      "pinyin": "yán",
+      "tone": 2,
+      "meaning": "to say",
+      "story": "This character represents to say, asking \"Yan? What speak?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 321,
+      "character": "警",
+      "pinyin": "jǐng",
+      "tone": 3,
+      "meaning": "Police",
+      "story": "Picture police taking form - it whispers \"Jing\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 322,
+      "character": "計",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "a Plan",
+      "story": "Picture a plan taking form - it shouts \"Ji!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 323,
+      "character": "獄",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "Prison",
+      "story": "This character represents prison, shouting \"Yu!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 324,
+      "character": "討",
+      "pinyin": "tǎo",
+      "tone": 3,
+      "meaning": "to condemn",
+      "story": "Picture to condemn taking form - it whispers \"Tao\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 325,
+      "character": "訓",
+      "pinyin": "xùn",
+      "tone": 4,
+      "meaning": "Instruction",
+      "story": "\"Shun, listen!\" The teacher gave instructions, commanding words like a river.",
+      "primitives": []
+    },
+    {
+      "id": 326,
+      "character": "話",
+      "pinyin": "huà",
+      "tone": 4,
+      "meaning": "the talk",
+      "story": "\"Hwa!\" Her tongue spoke sharply, talking and telling stories.",
+      "primitives": []
+    },
+    {
+      "id": 327,
+      "character": "詩",
+      "pinyin": "shī",
+      "tone": 1,
+      "meaning": "Poem",
+      "story": "Picture poem taking form - it sings \"Shi!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 328,
+      "character": "語",
+      "pinyin": "yǔ",
+      "tone": 3,
+      "meaning": "Language",
+      "story": "Picture language taking form - it whispers \"Yu\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 329,
+      "character": "讀",
+      "pinyin": "dú",
+      "tone": 2,
+      "meaning": "to read",
+      "story": "\"Doo you understand what it says?\" she questioned, reading the words to sell the idea.",
+      "primitives": []
+    },
+    {
+      "id": 330,
+      "character": "調",
+      "pinyin": "diào",
+      "tone": 4,
+      "meaning": "Tune",
+      "story": "This character represents tune, shouting \"Diao!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 331,
+      "character": "談",
+      "pinyin": "tán",
+      "tone": 2,
+      "meaning": "to discuss",
+      "story": "\"Tan, what should we talk about?\" The words flamed up in discussion.",
+      "primitives": []
+    },
+    {
+      "id": 332,
+      "character": "這",
+      "pinyin": "zhè",
+      "tone": 4,
+      "meaning": "this",
+      "story": "The strokes unite to show this, shouting \"Zhuh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

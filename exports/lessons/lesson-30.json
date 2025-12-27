@@ -1,0 +1,377 @@
+{
+  "lesson": 30,
+  "characterCount": 41,
+  "characterList": "斤所近斬暫漸質斥訴乍怎昨作雪急尋婦掃錄碌爭淨事唐糖康尹伊君裙群而需儒瑞端曲斗料科用",
+  "themes": ["time", "numbers"],
+  "characters": [
+    {
+      "id": 856,
+      "character": "斤",
+      "pinyin": "jīn",
+      "tone": 1,
+      "meaning": "a Catty",
+      "story": "This character represents a catty, singing \"Jeen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 857,
+      "character": "所",
+      "pinyin": "suǒ",
+      "tone": 3,
+      "meaning": "a Place",
+      "story": "See how the door forms a place? It whispers \"Swoh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 858,
+      "character": "近",
+      "pinyin": "jìn",
+      "tone": 4,
+      "meaning": "near",
+      "story": "The strokes unite to show near, shouting \"Jin!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 859,
+      "character": "斬",
+      "pinyin": "zhǎn",
+      "tone": 3,
+      "meaning": "hew",
+      "story": "A striking symbol for hew that whispers \"Zhan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 860,
+      "character": "暫",
+      "pinyin": "zhàn",
+      "tone": 4,
+      "meaning": "temporary",
+      "story": "See how the sun forms temporary? It shouts \"Zhan!\" sharply as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 861,
+      "character": "漸",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "gradually",
+      "story": "Like water, this character means gradually and shouts \"Jian!\"!",
+      "primitives": []
+    },
+    {
+      "id": 862,
+      "character": "質",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "Quality",
+      "story": "See how the shellfish forms quality? It asks \"Zhi? Grade?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 863,
+      "character": "斥",
+      "pinyin": "chì",
+      "tone": 4,
+      "meaning": "to reprimand",
+      "story": "\"Chi!\" The ax and dot commanded a sharp reprimand, scolding loudly.",
+      "primitives": []
+    },
+    {
+      "id": 864,
+      "character": "訴",
+      "pinyin": "sù",
+      "tone": 4,
+      "meaning": "to accuse",
+      "story": "The strokes unite to show to accuse, shouting \"Soo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 865,
+      "character": "乍",
+      "pinyin": "zhà",
+      "tone": 4,
+      "meaning": "for the first time",
+      "story": "\"Zha!\" For the first time, it happened sharply and initially.",
+      "primitives": []
+    },
+    {
+      "id": 866,
+      "character": "怎",
+      "pinyin": "zěn",
+      "tone": 3,
+      "meaning": "how?",
+      "story": "See how the heart forms how?? It whispers \"Zen\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 867,
+      "character": "昨",
+      "pinyin": "zuó",
+      "tone": 2,
+      "meaning": "Yesterday",
+      "story": "\"Zwoh, was that the past?\" The sun questioned yesterday curiously.",
+      "primitives": []
+    },
+    {
+      "id": 868,
+      "character": "作",
+      "pinyin": "zuò",
+      "tone": 4,
+      "meaning": "to do",
+      "story": "Like a person, this character means to do and shouts \"Zwoh!\"!",
+      "primitives": []
+    },
+    {
+      "id": 869,
+      "character": "雪",
+      "pinyin": "xuě",
+      "tone": 3,
+      "meaning": "the Snow",
+      "story": "The rain takes the shape of the snow, whispering \"Shueh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 870,
+      "character": "急",
+      "pinyin": "jí",
+      "tone": 2,
+      "meaning": "anxious",
+      "story": "See how the heart forms anxious? It asks \"Ji? Worried?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 871,
+      "character": "尋",
+      "pinyin": "xún",
+      "tone": 2,
+      "meaning": "to seek",
+      "story": "The roof stands for to seek, asking \"Shun? Looking for?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 872,
+      "character": "婦",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "Married Woman",
+      "story": "\"Foo!\" The woman with the broom commanded sharply - she was a married woman, a wife.",
+      "primitives": []
+    },
+    {
+      "id": 873,
+      "character": "掃",
+      "pinyin": "sǎo",
+      "tone": 3,
+      "meaning": "to sweep",
+      "story": "The hand stands for to sweep, whispering \"Sao\" softly reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 874,
+      "character": "錄",
+      "pinyin": "lù",
+      "tone": 4,
+      "meaning": "to record",
+      "story": "\"Loo!\" Gold and broom commanded sharply to record and document everything.",
+      "primitives": []
+    },
+    {
+      "id": 875,
+      "character": "碌",
+      "pinyin": "lù",
+      "tone": 4,
+      "meaning": "commonplace",
+      "story": "Like a stone, this character means commonplace and shouts \"Loo!\"!",
+      "primitives": []
+    },
+    {
+      "id": 876,
+      "character": "爭",
+      "pinyin": "zhēng",
+      "tone": 1,
+      "meaning": "to contend",
+      "story": "\"Zheng!\" The claw and hand fought cheerfully, contending for victory.",
+      "primitives": []
+    },
+    {
+      "id": 877,
+      "character": "淨",
+      "pinyin": "jìng",
+      "tone": 4,
+      "meaning": "clean",
+      "story": "Like water, this character means clean and shouts \"Jing!\" like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 878,
+      "character": "事",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Matter",
+      "story": "See how the hand forms matter? It shouts \"Shi!\" sharply reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 879,
+      "character": "唐",
+      "pinyin": "táng",
+      "tone": 2,
+      "meaning": "Tang",
+      "story": "Like a mouth, this character means tang and asks \"Tang? Dynasty?\"!",
+      "primitives": []
+    },
+    {
+      "id": 880,
+      "character": "糖",
+      "pinyin": "táng",
+      "tone": 2,
+      "meaning": "Sugar",
+      "story": "A striking symbol for sugar that asks \"Tang? Sweet?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 881,
+      "character": "康",
+      "pinyin": "kāng",
+      "tone": 1,
+      "meaning": "hale",
+      "story": "The roof stands for hale, singing \"Kang!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 882,
+      "character": "尹",
+      "pinyin": "yǐn",
+      "tone": 3,
+      "meaning": "Overseer",
+      "story": "The hand stands for overseer, whispering \"Yin\" softly reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 883,
+      "character": "伊",
+      "pinyin": "yī",
+      "tone": 1,
+      "meaning": "Queen Elizabeth",
+      "story": "The person stands for queen elizabeth, singing \"Yi!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 884,
+      "character": "君",
+      "pinyin": "jūn",
+      "tone": 1,
+      "meaning": "Monarch",
+      "story": "The mouth stands for monarch, singing \"June!\" cheerfully spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 885,
+      "character": "裙",
+      "pinyin": "qún",
+      "tone": 2,
+      "meaning": "Skirt",
+      "story": "The strokes unite to show skirt, asking \"Chun? Dress?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 886,
+      "character": "群",
+      "pinyin": "qún",
+      "tone": 2,
+      "meaning": "Crowd",
+      "story": "Picture crowd taking form - it asks \"Chun? Many?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 887,
+      "character": "而",
+      "pinyin": "ér",
+      "tone": 2,
+      "meaning": "and",
+      "story": "Picture and taking form - it asks \"Er? Also?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 888,
+      "character": "需",
+      "pinyin": "xū",
+      "tone": 1,
+      "meaning": "to need",
+      "story": "\"Shyu!\" Rain sang cheerfully - it was needed and required.",
+      "primitives": []
+    },
+    {
+      "id": 889,
+      "character": "儒",
+      "pinyin": "rú",
+      "tone": 2,
+      "meaning": "Confucian",
+      "story": "Like a person, this character means confucian and asks \"Roo? Scholar?\"!",
+      "primitives": []
+    },
+    {
+      "id": 890,
+      "character": "瑞",
+      "pinyin": "ruì",
+      "tone": 4,
+      "meaning": "auspicious",
+      "story": "Like a mountain, this character means auspicious and shouts \"Rway!\"!",
+      "primitives": []
+    },
+    {
+      "id": 891,
+      "character": "端",
+      "pinyin": "duān",
+      "tone": 1,
+      "meaning": "upright",
+      "story": "Like a mountain, this character means upright and sings \"Dwan!\"!",
+      "primitives": []
+    },
+    {
+      "id": 892,
+      "character": "曲",
+      "pinyin": "qū",
+      "tone": 1,
+      "meaning": "bent",
+      "story": "This character represents bent, singing \"Chu!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 893,
+      "character": "斗",
+      "pinyin": "dǒu",
+      "tone": 3,
+      "meaning": "Big Dipper",
+      "story": "Picture big dipper taking form - it whispers \"Doe\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 894,
+      "character": "料",
+      "pinyin": "liào",
+      "tone": 4,
+      "meaning": "Material",
+      "story": "This character represents material, shouting \"Liao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 895,
+      "character": "科",
+      "pinyin": "kē",
+      "tone": 1,
+      "meaning": "Academic Discipline",
+      "story": "\"Kuh!\" The grain in the dipper sang cheerfully - an academic discipline in the field!",
+      "primitives": []
+    },
+    {
+      "id": 896,
+      "character": "用",
+      "pinyin": "yòng",
+      "tone": 4,
+      "meaning": "to utilize",
+      "story": "The door stands for to utilize, shouting \"Yong!\" sharply - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

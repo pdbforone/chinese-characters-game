@@ -1,0 +1,80 @@
+{
+  "lesson": 66,
+  "characterCount": 8,
+  "characterList": "暮燃咒獸狸嗅牡牢",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1566,
+      "character": "暮",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "sunset",
+      "story": "See how the sun forms sunset? It shouts \"Moo!\" sharply as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 1567,
+      "character": "燃",
+      "pinyin": "rán",
+      "tone": 2,
+      "meaning": "ignite",
+      "story": "See how the fire forms ignite? It asks \"Rahn? Kindle?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1568,
+      "character": "咒",
+      "pinyin": "zhòu",
+      "tone": 4,
+      "meaning": "curse",
+      "story": "See how the mouth forms curse? It shouts \"Joh!\" sharply spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1569,
+      "character": "獸",
+      "pinyin": "shòu",
+      "tone": 4,
+      "meaning": "beast",
+      "story": "The mouth stands for beast, shouting \"Shoh!\" sharply spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1570,
+      "character": "狸",
+      "pinyin": "lí",
+      "tone": 2,
+      "meaning": "raccoon dog",
+      "story": "\"Lee, is that a tanuki?\" The inside of the dog questioned raccoon curiously - fox-like!",
+      "primitives": []
+    },
+    {
+      "id": 1571,
+      "character": "嗅",
+      "pinyin": "xiù",
+      "tone": 4,
+      "meaning": "sniff",
+      "story": "The mouth stands for sniff, shouting \"Shyo!\" sharply spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1572,
+      "character": "牡",
+      "pinyin": "mǔ",
+      "tone": 3,
+      "meaning": "dude",
+      "story": "Like soil, this character means dude and whispers \"Moo\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1573,
+      "character": "牢",
+      "pinyin": "láo",
+      "tone": 2,
+      "meaning": "jail",
+      "story": "See how the roof forms jail? It asks \"Lao? Prison?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

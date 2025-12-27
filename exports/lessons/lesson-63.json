@@ -1,0 +1,125 @@
+{
+  "lesson": 63,
+  "characterCount": 13,
+  "characterList": "晃泊汰沾渺腺坦娃涯吋肘灼炒",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1521,
+      "character": "晃",
+      "pinyin": "huàng",
+      "tone": 4,
+      "meaning": "sway",
+      "story": "The sun takes the shape of sway, shouting \"Hwahng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1522,
+      "character": "泊",
+      "pinyin": "bó",
+      "tone": 2,
+      "meaning": "moor",
+      "story": "The white and water unite to create moor, asking \"Bwo? Anchor?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1523,
+      "character": "汰",
+      "pinyin": "tài",
+      "tone": 4,
+      "meaning": "get rid of",
+      "story": "The water takes the shape of get rid of, shouting \"Tigh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1524,
+      "character": "沾",
+      "pinyin": "zhān",
+      "tone": 1,
+      "meaning": "soak",
+      "story": "The water takes the shape of soak, singing \"Jahn!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1525,
+      "character": "渺",
+      "pinyin": "miǎo",
+      "tone": 3,
+      "meaning": "insignificant",
+      "story": "Picture water beside an eye: that's insignificant, whispering \"Myao\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1526,
+      "character": "腺",
+      "pinyin": "xiàn",
+      "tone": 4,
+      "meaning": "gland",
+      "story": "The body stands for gland, shouting \"Shyan!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1527,
+      "character": "坦",
+      "pinyin": "tǎn",
+      "tone": 3,
+      "meaning": "level",
+      "story": "See how the earth forms level? It whispers \"Tahn\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1528,
+      "character": "娃",
+      "pinyin": "wá",
+      "tone": 2,
+      "meaning": "newborn",
+      "story": "This character represents newborn, asking \"Wah? Baby?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1529,
+      "character": "涯",
+      "pinyin": "yá",
+      "tone": 2,
+      "meaning": "bank",
+      "story": "See how the water forms bank? It asks \"Yah? Riverbank?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1530,
+      "character": "吋",
+      "pinyin": "cùn",
+      "tone": 4,
+      "meaning": "inch",
+      "story": "See how the mouth forms inch? It shouts \"Tsoon!\" sharply spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1531,
+      "character": "肘",
+      "pinyin": "zhǒu",
+      "tone": 3,
+      "meaning": "elbow",
+      "story": "See how the body forms elbow? It whispers \"Joh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1532,
+      "character": "灼",
+      "pinyin": "zhuó",
+      "tone": 2,
+      "meaning": "scorch",
+      "story": "The fire stands for scorch, asking \"Jwoh? Burn?\" curiously with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 1533,
+      "character": "炒",
+      "pinyin": "chǎo",
+      "tone": 3,
+      "meaning": "stir-fry",
+      "story": "See how the fire forms stir-fry? It sings \"Chao\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

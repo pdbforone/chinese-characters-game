@@ -1,0 +1,53 @@
+{
+  "lesson": 61,
+  "characterCount": 5,
+  "characterList": "呵姦嬰姑姆",
+  "themes": ["family"],
+  "characters": [
+    {
+      "id": 1512,
+      "character": "呵",
+      "pinyin": "ā",
+      "tone": 1,
+      "meaning": "rebuke",
+      "story": "Like a mouth, this character means rebuke and sings \"Ah!\" spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1513,
+      "character": "姦",
+      "pinyin": "jiān",
+      "tone": 1,
+      "meaning": "adultery",
+      "story": "An striking symbol for adultery that sings \"Jyan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1514,
+      "character": "嬰",
+      "pinyin": "yīng",
+      "tone": 1,
+      "meaning": "baby",
+      "story": "The strokes unite to show baby, singing \"Ying!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1515,
+      "character": "姑",
+      "pinyin": "gū",
+      "tone": 1,
+      "meaning": "father's sister",
+      "story": "This character represents father's sister, singing \"Goo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1516,
+      "character": "姆",
+      "pinyin": "mǔ",
+      "tone": 3,
+      "meaning": "nanny",
+      "story": "Picture nanny taking form - it whispers \"Moo\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

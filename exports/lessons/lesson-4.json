@@ -1,0 +1,170 @@
+{
+  "lesson": 4,
+  "characterCount": 18,
+  "characterList": "只貝貼貞員見元頁頑凡肌負勻句旬勺的首",
+  "themes": ["numbers", "body"],
+  "characters": [
+    {
+      "id": 50,
+      "character": "只",
+      "pinyin": "zhǐ",
+      "tone": 3,
+      "meaning": "only",
+      "story": "Like a mouth, this character means only and whispers \"Zhi\" spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 51,
+      "character": "貝",
+      "pinyin": "bèi",
+      "tone": 4,
+      "meaning": "Shellfish",
+      "story": "With a shellfish combined with a shell, you get shellfish - \"Bay!\" rings out sharply!",
+      "primitives": []
+    },
+    {
+      "id": 52,
+      "character": "貼",
+      "pinyin": "tiē",
+      "tone": 1,
+      "meaning": "to paste",
+      "story": "When the stick meets the shellfish, they form to paste, singing \"Tieh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 53,
+      "character": "貞",
+      "pinyin": "zhēn",
+      "tone": 1,
+      "meaning": "chaste",
+      "story": "The shellfish stands for chaste, singing \"Zhen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 54,
+      "character": "員",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "Employee",
+      "story": "Your employee shellfish asks \"Yuan? Where's my paycheck?\" questioning!",
+      "primitives": []
+    },
+    {
+      "id": 55,
+      "character": "見",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "to see",
+      "story": "Eyes on legs command \"Jian! See this!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 56,
+      "character": "元",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "Beginning",
+      "story": "At the beginning, two legs question \"Yuan? Why start here?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 57,
+      "character": "頁",
+      "pinyin": "yè",
+      "tone": 4,
+      "meaning": "Page",
+      "story": "The page head yells \"Yeh!\" sharply when turned!",
+      "primitives": []
+    },
+    {
+      "id": 58,
+      "character": "頑",
+      "pinyin": "wán",
+      "tone": 2,
+      "meaning": "stubborn",
+      "story": "A stubborn head questions \"Wan? Why should I?\" refusing to budge!",
+      "primitives": []
+    },
+    {
+      "id": 59,
+      "character": "凡",
+      "pinyin": "fán",
+      "tone": 2,
+      "meaning": "ordinary",
+      "story": "An ordinary table sighs \"Fan? Why so plain?\" questioning its fate!",
+      "primitives": []
+    },
+    {
+      "id": 60,
+      "character": "肌",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "Muscle",
+      "story": "Muscles sing \"Jee!\" cheerfully when flexing happily!",
+      "primitives": []
+    },
+    {
+      "id": 61,
+      "character": "負",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "defeated",
+      "story": "The shell takes the shape of defeated, shouting \"Fu!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 62,
+      "character": "勻",
+      "pinyin": "yún",
+      "tone": 2,
+      "meaning": "uniform",
+      "story": "An striking symbol for uniform that asks \"Yun? Why equal?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 63,
+      "character": "句",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "Sentence",
+      "story": "The mouth takes the shape of sentence, shouting \"Ju!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 64,
+      "character": "旬",
+      "pinyin": "xún",
+      "tone": 2,
+      "meaning": "Decameron",
+      "story": "Ten days question \"Shun? Already a decameron?\" asking where time went!",
+      "primitives": []
+    },
+    {
+      "id": 65,
+      "character": "勺",
+      "pinyin": "sháo",
+      "tone": 2,
+      "meaning": "Ladle",
+      "story": "The ladle asks \"Shao? Why scoop this?\" questioning curiously!",
+      "primitives": []
+    },
+    {
+      "id": 66,
+      "character": "的",
+      "pinyin": "de",
+      "tone": 5,
+      "meaning": "Bull's Eye",
+      "story": "The white ladle hits the bull's eye, saying \"duh\" neutrally!",
+      "primitives": []
+    },
+    {
+      "id": 67,
+      "character": "首",
+      "pinyin": "shǒu",
+      "tone": 3,
+      "meaning": "Heads",
+      "story": "Picture heads taking form - it whispers \"Sho\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

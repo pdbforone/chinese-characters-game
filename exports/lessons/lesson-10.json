@@ -1,0 +1,296 @@
+{
+  "lesson": 10,
+  "characterCount": 32,
+  "characterList": "木林森植杏呆枯村相本案未末沫味妹查渣染李桌若草苦寬葉莫模漠墓苗瞄",
+  "themes": ["nature", "numbers"],
+  "characters": [
+    {
+      "id": 191,
+      "character": "木",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "Tree",
+      "story": "A tree stands tall, commanding \"Moo!\" sharply with branches!",
+      "primitives": []
+    },
+    {
+      "id": 192,
+      "character": "林",
+      "pinyin": "lín",
+      "tone": 2,
+      "meaning": "Woods",
+      "story": "\"Lin-da, why are there so many trees?\" he asked in the woods.",
+      "primitives": []
+    },
+    {
+      "id": 193,
+      "character": "森",
+      "pinyin": "sēn",
+      "tone": 1,
+      "meaning": "Forest",
+      "story": "The dense forest had three layers of trees stacked high.",
+      "primitives": []
+    },
+    {
+      "id": 194,
+      "character": "植",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "to plant",
+      "story": "\"Where should we plant the straight trees?\" she asked curiously.",
+      "primitives": []
+    },
+    {
+      "id": 195,
+      "character": "杏",
+      "pinyin": "xìng",
+      "tone": 4,
+      "meaning": "Apricot",
+      "story": "An apricot tree mouth-watering and ripe, ready for picking!",
+      "primitives": []
+    },
+    {
+      "id": 196,
+      "character": "呆",
+      "pinyin": "dāi",
+      "tone": 1,
+      "meaning": "dim-witted",
+      "story": "A dim-witted person with wood mouth sings \"Dai!\" stupidly happy!",
+      "primitives": []
+    },
+    {
+      "id": 197,
+      "character": "枯",
+      "pinyin": "kū",
+      "tone": 1,
+      "meaning": "withered",
+      "story": "With a tree combined with a wood, you get withered - \"Koo!\" rings out cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 198,
+      "character": "村",
+      "pinyin": "cūn",
+      "tone": 1,
+      "meaning": "Village",
+      "story": "The strokes unite to show village, singing \"Tsun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 199,
+      "character": "相",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "meaning": "one another",
+      "story": "The tree and eye unite to create one another, singing \"Shyang!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 200,
+      "character": "本",
+      "pinyin": "běn",
+      "tone": 3,
+      "meaning": "notebook",
+      "story": "The tree takes the shape of notebook, whispering \"Ben\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 201,
+      "character": "案",
+      "pinyin": "àn",
+      "tone": 4,
+      "meaning": "legal case",
+      "story": "A legal case at the tree table commands \"An!\" sharply in judgment!",
+      "primitives": []
+    },
+    {
+      "id": 202,
+      "character": "未",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "not yet",
+      "story": "The tree takes the shape of not yet, shouting \"Way!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 203,
+      "character": "末",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "Last",
+      "story": "The last branch at the end of the tree was bare.",
+      "primitives": []
+    },
+    {
+      "id": 204,
+      "character": "沫",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "Foam",
+      "story": "Like water, this character means foam and shouts \"Mwoh!\" like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 205,
+      "character": "味",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "Flavor",
+      "story": "See how the mouth forms flavor? It shouts \"Way!\" sharply spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 206,
+      "character": "妹",
+      "pinyin": "mèi",
+      "tone": 4,
+      "meaning": "younger sister",
+      "story": "Picture younger sister taking form - it shouts \"May!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 207,
+      "character": "查",
+      "pinyin": "chá",
+      "tone": 2,
+      "meaning": "to investigate",
+      "story": "See how the tree forms to investigate? It asks \"Cha? What happened?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 208,
+      "character": "渣",
+      "pinyin": "zhā",
+      "tone": 1,
+      "meaning": "sediment",
+      "story": "The water stands for sediment, singing \"Zha!\" cheerfully like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 209,
+      "character": "染",
+      "pinyin": "rǎn",
+      "tone": 3,
+      "meaning": "to dye",
+      "story": "Like water, this character means to dye and whispers \"Ran\"!",
+      "primitives": []
+    },
+    {
+      "id": 210,
+      "character": "李",
+      "pinyin": "lǐ",
+      "tone": 3,
+      "meaning": "Plum",
+      "story": "The tree takes the shape of plum, whispering \"Lee\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 211,
+      "character": "桌",
+      "pinyin": "zhuō",
+      "tone": 1,
+      "meaning": "Table",
+      "story": "The tall table stood high and eminent in the dining room.",
+      "primitives": []
+    },
+    {
+      "id": 212,
+      "character": "若",
+      "pinyin": "ruò",
+      "tone": 4,
+      "meaning": "as if",
+      "story": "The grass and hand unite to create as if, shouting \"Ruo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 213,
+      "character": "草",
+      "pinyin": "cǎo",
+      "tone": 3,
+      "meaning": "grass",
+      "story": "See how the grass forms grass? It whispers \"Tsao\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 214,
+      "character": "苦",
+      "pinyin": "kǔ",
+      "tone": 3,
+      "meaning": "Suffering",
+      "story": "The grass stand for suffering, whispering \"Koo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 215,
+      "character": "寬",
+      "pinyin": "kuān",
+      "tone": 1,
+      "meaning": "wide",
+      "story": "\"Wow, what a spacious house!\" she exclaimed at the wide grass courtyard.",
+      "primitives": []
+    },
+    {
+      "id": 216,
+      "character": "葉",
+      "pinyin": "yè",
+      "tone": 4,
+      "meaning": "Leaf",
+      "story": "When the grass meets the tree, they form leaf, shouting \"Yeh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 217,
+      "character": "莫",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "nobody",
+      "story": "\"Nobody's here at sunset,\" he commanded, absent from the grass field.",
+      "primitives": []
+    },
+    {
+      "id": 218,
+      "character": "模",
+      "pinyin": "mó",
+      "tone": 2,
+      "meaning": "to imitate",
+      "story": "See how the tree forms to imitate? It asks \"Mwo? How to copy?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 219,
+      "character": "漠",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "Desert",
+      "story": "A desert of water and nobody yells \"Mwoh!\" sharply empty!",
+      "primitives": []
+    },
+    {
+      "id": 220,
+      "character": "墓",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "a Grave",
+      "story": "See how the soil forms a grave? It shouts \"Moo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 221,
+      "character": "苗",
+      "pinyin": "miáo",
+      "tone": 2,
+      "meaning": "Seedling",
+      "story": "A seedling grass field questions \"Miao? Will it grow?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 222,
+      "character": "瞄",
+      "pinyin": "miáo",
+      "tone": 2,
+      "meaning": "to aim",
+      "story": "With a target combined with an eye, you get to aim - \"Miao? Is that the target?\" rings out curiously!",
+      "primitives": []
+    }
+  ]
+}

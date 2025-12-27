@@ -1,0 +1,170 @@
+{
+  "lesson": 11,
+  "characterCount": 18,
+  "characterList": "兆桃犬尤默然哭器臭狗厭壓牛特告浩先洗",
+  "themes": ["numbers", "fire"],
+  "characters": [
+    {
+      "id": 223,
+      "character": "兆",
+      "pinyin": "zhào",
+      "tone": 4,
+      "meaning": "Portent",
+      "story": "A striking symbol for portent that shouts \"Zhao!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 224,
+      "character": "桃",
+      "pinyin": "táo",
+      "tone": 2,
+      "meaning": "peach",
+      "story": "Like a tree, this character means peach and asks \"Tao? When ripe?\"!",
+      "primitives": []
+    },
+    {
+      "id": 225,
+      "character": "犬",
+      "pinyin": "quǎn",
+      "tone": 3,
+      "meaning": "Pooch",
+      "story": "This character represents pooch, whispering \"Chuan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 226,
+      "character": "尤",
+      "pinyin": "yóu",
+      "tone": 2,
+      "meaning": "remarkable",
+      "story": "The person stands for remarkable, asking \"Yo? Really?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 227,
+      "character": "默",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "silence",
+      "story": "The black dog stayed silent, quiet and still.",
+      "primitives": []
+    },
+    {
+      "id": 228,
+      "character": "然",
+      "pinyin": "rán",
+      "tone": 2,
+      "meaning": "sort of thing",
+      "story": "The fire takes the shape of sort of thing, asking \"Ran? Is it so?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 229,
+      "character": "哭",
+      "pinyin": "kū",
+      "tone": 1,
+      "meaning": "to cry",
+      "story": "The mouth takes the shape of to cry, singing \"Koo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 230,
+      "character": "器",
+      "pinyin": "qì",
+      "tone": 4,
+      "meaning": "Utensil",
+      "story": "A utensil of four dogs and one mouth yells \"Chi!\" sharply used!",
+      "primitives": []
+    },
+    {
+      "id": 231,
+      "character": "臭",
+      "pinyin": "chòu",
+      "tone": 4,
+      "meaning": "stinking",
+      "story": "\"Ugh, cho disgusting!\" The stinking smell came from the dog's nose.",
+      "primitives": []
+    },
+    {
+      "id": 232,
+      "character": "狗",
+      "pinyin": "gǒu",
+      "tone": 3,
+      "meaning": "Dog",
+      "story": "Picture dog taking form - it whispers \"Go\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 233,
+      "character": "厭",
+      "pinyin": "yàn",
+      "tone": 4,
+      "meaning": "to detest",
+      "story": "This character represents to detest, shouting \"Yan!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 234,
+      "character": "壓",
+      "pinyin": "yā",
+      "tone": 1,
+      "meaning": "pressure",
+      "story": "The cliff created pressure, squashing everything below like a dog pile.",
+      "primitives": []
+    },
+    {
+      "id": 235,
+      "character": "牛",
+      "pinyin": "niú",
+      "tone": 2,
+      "meaning": "Cow",
+      "story": "The strokes unite to show cow, asking \"Nyo? Moo?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 236,
+      "character": "特",
+      "pinyin": "tè",
+      "tone": 4,
+      "meaning": "special",
+      "story": "This character represents special, shouting \"Tuh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 237,
+      "character": "告",
+      "pinyin": "gào",
+      "tone": 4,
+      "meaning": "to declare",
+      "story": "The mouth takes the shape of to declare, shouting \"Gao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 238,
+      "character": "浩",
+      "pinyin": "hào",
+      "tone": 4,
+      "meaning": "vast",
+      "story": "The water takes the shape of vast, shouting \"Hao!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 239,
+      "character": "先",
+      "pinyin": "xiān",
+      "tone": 1,
+      "meaning": "before",
+      "story": "The strokes unite to show before, singing \"Shian!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 240,
+      "character": "洗",
+      "pinyin": "xǐ",
+      "tone": 3,
+      "meaning": "to wash",
+      "story": "Like water, this character means to wash and whispers \"Shee\"!",
+      "primitives": []
+    }
+  ]
+}

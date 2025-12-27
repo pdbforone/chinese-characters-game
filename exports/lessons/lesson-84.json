@@ -1,0 +1,206 @@
+{
+  "lesson": 84,
+  "characterCount": 22,
+  "characterList": "扇奈款祟祝祥祕慰蔚蒜棕宙軸袖笛坤呻暢夥巢棵裸",
+  "themes": ["nature"],
+  "characters": [
+    {
+      "id": 2099,
+      "character": "扇",
+      "pinyin": "shàn",
+      "tone": 4,
+      "meaning": "fan",
+      "story": "The door takes the shape of fan, shouting \"Shahn!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2100,
+      "character": "奈",
+      "pinyin": "nài",
+      "tone": 4,
+      "meaning": "can't help but",
+      "story": "This character represents can't help but, shouting \"Nigh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2101,
+      "character": "款",
+      "pinyin": "kuǎn",
+      "tone": 3,
+      "meaning": "funds",
+      "story": "Like a shellfish, this character means funds and whispers \"Kwahn\"!",
+      "primitives": []
+    },
+    {
+      "id": 2102,
+      "character": "祟",
+      "pinyin": "suì",
+      "tone": 4,
+      "meaning": "evil spirit",
+      "story": "\"Sway!\" Altar mountain commanded sharply - evil spirit, demon malevolent cultivators must exorcise!",
+      "primitives": []
+    },
+    {
+      "id": 2103,
+      "character": "祝",
+      "pinyin": "zhù",
+      "tone": 4,
+      "meaning": "wish well",
+      "story": "\"Joo!\" Altar brother commanded sharply - wish well, bless and congratulate!",
+      "primitives": []
+    },
+    {
+      "id": 2104,
+      "character": "祥",
+      "pinyin": "xiáng",
+      "tone": 2,
+      "meaning": "propitious",
+      "story": "\"Shyahng, is it auspicious?\" Altar piggy bank questioned propitious curiously - lucky and fortunate!",
+      "primitives": []
+    },
+    {
+      "id": 2105,
+      "character": "祕",
+      "pinyin": "mì",
+      "tone": 4,
+      "meaning": "confidential",
+      "story": "Picture confidential taking form - it shouts \"Mee!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2106,
+      "character": "慰",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "console",
+      "story": "The heart takes the shape of console, shouting \"Way!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2107,
+      "character": "蔚",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "luxuriant",
+      "story": "Picture luxuriant taking form - it shouts \"Way!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2108,
+      "character": "蒜",
+      "pinyin": "suàn",
+      "tone": 4,
+      "meaning": "garlic",
+      "story": "A striking symbol for garlic that shouts \"Swahn!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2109,
+      "character": "棕",
+      "pinyin": "zōng",
+      "tone": 1,
+      "meaning": "palm tree",
+      "story": "The tree takes the shape of palm tree, singing \"Dzohng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2110,
+      "character": "宙",
+      "pinyin": "zhòu",
+      "tone": 4,
+      "meaning": "universe",
+      "story": "An striking symbol for universe that shouts \"Joh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2111,
+      "character": "軸",
+      "pinyin": "zhóu",
+      "tone": 2,
+      "meaning": "axle",
+      "story": "An striking symbol for axle that asks \"Joh? Pivot?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2112,
+      "character": "袖",
+      "pinyin": "xiù",
+      "tone": 4,
+      "meaning": "sleeve",
+      "story": "A striking symbol for sleeve that shouts \"Shyo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2113,
+      "character": "笛",
+      "pinyin": "dí",
+      "tone": 2,
+      "meaning": "flute",
+      "story": "A striking symbol for flute that asks \"Dee? Whistle?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2114,
+      "character": "坤",
+      "pinyin": "kūn",
+      "tone": 1,
+      "meaning": "female",
+      "story": "Picture earth beside soil: that's female, singing \"Kwun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2115,
+      "character": "呻",
+      "pinyin": "shēn",
+      "tone": 1,
+      "meaning": "groan",
+      "story": "The mouth stands for groan, singing \"Shun!\" cheerfully spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 2116,
+      "character": "暢",
+      "pinyin": "chàng",
+      "tone": 4,
+      "meaning": "smooth",
+      "story": "Like a sun, this character means smooth and shouts \"Chahng!\"!",
+      "primitives": []
+    },
+    {
+      "id": 2117,
+      "character": "夥",
+      "pinyin": "huǒ",
+      "tone": 3,
+      "meaning": "partnership",
+      "story": "See how the fire forms partnership? It whispers \"Hwoh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2118,
+      "character": "巢",
+      "pinyin": "cháo",
+      "tone": 2,
+      "meaning": "nest",
+      "story": "Like a tree, this character means nest and asks \"Chao? Lair?\"!",
+      "primitives": []
+    },
+    {
+      "id": 2119,
+      "character": "棵",
+      "pinyin": "kē",
+      "tone": 1,
+      "meaning": "flora",
+      "story": "See how the tree forms flora? It sings \"Kuh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2120,
+      "character": "裸",
+      "pinyin": "luǒ",
+      "tone": 3,
+      "meaning": "naked",
+      "story": "A striking symbol for naked that whispers \"Lwoh\" softly - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

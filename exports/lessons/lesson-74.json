@@ -1,0 +1,161 @@
+{
+  "lesson": 74,
+  "characterCount": 17,
+  "characterList": "欽剖菩芒荒謊茫贏訊坊芳訪熬菸榜磅膀",
+  "themes": ["action"],
+  "characters": [
+    {
+      "id": 1690,
+      "character": "欽",
+      "pinyin": "qīn",
+      "tone": 1,
+      "meaning": "think highly of",
+      "story": "The gold stands for think highly of, singing \"Chin!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1691,
+      "character": "剖",
+      "pinyin": "pōu",
+      "tone": 1,
+      "meaning": "cut open",
+      "story": "\"Poh!\" Dividing with a sword sang cheerfully - cut open, dissect and split!",
+      "primitives": []
+    },
+    {
+      "id": 1692,
+      "character": "菩",
+      "pinyin": "pú",
+      "tone": 2,
+      "meaning": "bodhisattva",
+      "story": "The heart stands for bodhisattva, asking \"Poo? Enlightened?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1693,
+      "character": "芒",
+      "pinyin": "máng",
+      "tone": 2,
+      "meaning": "mango",
+      "story": "The strokes unite to show mango, asking \"Mahng? Fruit?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1694,
+      "character": "荒",
+      "pinyin": "huāng",
+      "tone": 1,
+      "meaning": "wasteland",
+      "story": "See how the river forms wasteland? It sings \"Hwahng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1695,
+      "character": "謊",
+      "pinyin": "huǎng",
+      "tone": 3,
+      "meaning": "lie",
+      "story": "This character represents lie, whispering \"Hwahng\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1696,
+      "character": "茫",
+      "pinyin": "máng",
+      "tone": 2,
+      "meaning": "boundless",
+      "story": "When the people meets the water, they form boundless, asking \"Mahng? Vast?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1697,
+      "character": "贏",
+      "pinyin": "yíng",
+      "tone": 2,
+      "meaning": "win",
+      "story": "See how the shellfish forms win? It asks \"Ying? Victory?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1698,
+      "character": "訊",
+      "pinyin": "xùn",
+      "tone": 4,
+      "meaning": "interrogate",
+      "story": "The strokes unite to show interrogate, shouting \"Shyoon!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1699,
+      "character": "坊",
+      "pinyin": "fáng",
+      "tone": 2,
+      "meaning": "workshop",
+      "story": "See how the soil forms workshop? It asks \"Fahng? Workplace?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1700,
+      "character": "芳",
+      "pinyin": "fāng",
+      "tone": 1,
+      "meaning": "aromatic",
+      "story": "The strokes unite to show aromatic, singing \"Fahng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1701,
+      "character": "訪",
+      "pinyin": "fǎng",
+      "tone": 3,
+      "meaning": "call on",
+      "story": "This character represents call on, whispering \"Fahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1702,
+      "character": "熬",
+      "pinyin": "áo",
+      "tone": 2,
+      "meaning": "stew",
+      "story": "\"Ao, should we simmer?\" Turkey on cooking fire questioned stewing curiously - boil and endure!",
+      "primitives": []
+    },
+    {
+      "id": 1703,
+      "character": "菸",
+      "pinyin": "yān",
+      "tone": 1,
+      "meaning": "tobacco",
+      "story": "The strokes unite to show tobacco, singing \"Yan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1704,
+      "character": "榜",
+      "pinyin": "bǎng",
+      "tone": 3,
+      "meaning": "roster",
+      "story": "Like a tree, this character means roster and whispers \"Bahng\"!",
+      "primitives": []
+    },
+    {
+      "id": 1705,
+      "character": "磅",
+      "pinyin": "bàng",
+      "tone": 4,
+      "meaning": "pound",
+      "story": "The stone stands for pound, shouting \"Bahng!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1706,
+      "character": "膀",
+      "pinyin": "bǎng",
+      "tone": 3,
+      "meaning": "upper arm",
+      "story": "The body takes the shape of upper arm, whispering \"Bahng\" softly!",
+      "primitives": []
+    }
+  ]
+}

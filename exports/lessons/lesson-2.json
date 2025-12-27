@@ -1,0 +1,152 @@
+{
+  "lesson": 2,
+  "characterCount": 16,
+  "characterList": "古胡吾朋明唱晶品昌早旭世胃旦凹凸",
+  "themes": ["action", "time"],
+  "characters": [
+    {
+      "id": 16,
+      "character": "古",
+      "pinyin": "gǔ",
+      "tone": 3,
+      "meaning": "ancient",
+      "story": "The stone takes the shape of ancient, calling out \"Gu\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 17,
+      "character": "胡",
+      "pinyin": "hú",
+      "tone": 2,
+      "meaning": "recklessly",
+      "story": "A reckless fool with wild whiskers asks \"Who? Hu?\" questioning everything!",
+      "primitives": []
+    },
+    {
+      "id": 18,
+      "character": "吾",
+      "pinyin": "wú",
+      "tone": 2,
+      "meaning": "I (literary)",
+      "story": "\"I,\" says the mouth, questioning \"Wu? Am I important?\" with a sigh!",
+      "primitives": []
+    },
+    {
+      "id": 19,
+      "character": "朋",
+      "pinyin": "péng",
+      "tone": 2,
+      "meaning": "Companion",
+      "story": "Two moons ask \"Peng? Why are we companions?\" questioning their friendship!",
+      "primitives": []
+    },
+    {
+      "id": 20,
+      "character": "明",
+      "pinyin": "míng",
+      "tone": 2,
+      "meaning": "bright",
+      "story": "The sun and moon together question \"Ming? Why so bright?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 21,
+      "character": "唱",
+      "pinyin": "chàng",
+      "tone": 4,
+      "meaning": "to sing",
+      "story": "With your mouth, you command the sun to sing \"Chang!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 22,
+      "character": "晶",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "sparkling",
+      "story": "Three suns sparkle cheerfully, singing \"Jing!\" high and happy!",
+      "primitives": []
+    },
+    {
+      "id": 23,
+      "character": "品",
+      "pinyin": "pǐn",
+      "tone": 3,
+      "meaning": "Goods",
+      "story": "Three mouths bend down, drooping as they inspect goods saying \"Pin\"!",
+      "primitives": []
+    },
+    {
+      "id": 24,
+      "character": "昌",
+      "pinyin": "chāng",
+      "tone": 1,
+      "meaning": "prosperous",
+      "story": "Two suns rise high, singing \"Chang!\" to celebrate prosperity!",
+      "primitives": []
+    },
+    {
+      "id": 25,
+      "character": "早",
+      "pinyin": "zǎo",
+      "tone": 3,
+      "meaning": "early",
+      "story": "The morning sun still hangs low at dawn's early hour, yawning \"Zao\"!",
+      "primitives": []
+    },
+    {
+      "id": 26,
+      "character": "旭",
+      "pinyin": "xù",
+      "tone": 4,
+      "meaning": "Rising Sun",
+      "story": "See how the sun forms rising sun? It shouts \"Shu!\" sharply as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 27,
+      "character": "世",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Generation",
+      "story": "Three tens stack up, yelling \"Shi!\" for each generation sharply!",
+      "primitives": []
+    },
+    {
+      "id": 28,
+      "character": "胃",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "Stomach",
+      "story": "Your stomach with a field inside yells \"Way!\" angrily when hungry!",
+      "primitives": []
+    },
+    {
+      "id": 29,
+      "character": "旦",
+      "pinyin": "dàn",
+      "tone": 4,
+      "meaning": "Daybreak",
+      "story": "At daybreak, the sun commands \"Dan!\" sharply above the horizon!",
+      "primitives": []
+    },
+    {
+      "id": 30,
+      "character": "凹",
+      "pinyin": "āo",
+      "tone": 1,
+      "meaning": "concave",
+      "story": "The strokes unite to show concave, singing \"Aaooo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 31,
+      "character": "凸",
+      "pinyin": "tū",
+      "tone": 1,
+      "meaning": "convex",
+      "story": "The stick stands for convex, singing \"Too!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

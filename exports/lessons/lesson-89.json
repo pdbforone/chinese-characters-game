@@ -1,0 +1,170 @@
+{
+  "lesson": 89,
+  "characterCount": 18,
+  "characterList": "陌隙陡障陪隧墜陋挖窯窺窟窄榨窘窮窩腔",
+  "themes": [],
+  "characters": [
+    {
+      "id": 2277,
+      "character": "陌",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "footpath",
+      "story": "The white stands for footpath, shouting \"Mwo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2278,
+      "character": "隙",
+      "pinyin": "xì",
+      "tone": 4,
+      "meaning": "rift",
+      "story": "\"Shee!\" Pinnacle with few springs commanded sharply - a rift, gap, crack and crevice!",
+      "primitives": []
+    },
+    {
+      "id": 2279,
+      "character": "陡",
+      "pinyin": "dǒu",
+      "tone": 3,
+      "meaning": "steep",
+      "story": "A striking symbol for steep that whispers \"Doh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2280,
+      "character": "障",
+      "pinyin": "zhàng",
+      "tone": 4,
+      "meaning": "barrier",
+      "story": "The thread stands for barrier, shouting \"Jahng!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2281,
+      "character": "陪",
+      "pinyin": "péi",
+      "tone": 2,
+      "meaning": "accompany",
+      "story": "This character represents accompany, asking \"Pay? Escort?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2282,
+      "character": "隧",
+      "pinyin": "suì",
+      "tone": 4,
+      "meaning": "tunnel",
+      "story": "The strokes unite to show tunnel, shouting \"Sway!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2283,
+      "character": "墜",
+      "pinyin": "zhuì",
+      "tone": 4,
+      "meaning": "plunge",
+      "story": "See how the soil forms plunge? It shouts \"Jway!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2284,
+      "character": "陋",
+      "pinyin": "lòu",
+      "tone": 4,
+      "meaning": "undesirable",
+      "story": "An striking symbol for undesirable that shouts \"Loh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2285,
+      "character": "挖",
+      "pinyin": "wā",
+      "tone": 1,
+      "meaning": "dig",
+      "story": "Like a hand, this character means dig and sings \"Wah!\" reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 2286,
+      "character": "窯",
+      "pinyin": "yáo",
+      "tone": 2,
+      "meaning": "kiln",
+      "story": "See how the fire forms kiln? It asks \"Yao? Oven?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2287,
+      "character": "窺",
+      "pinyin": "kuī",
+      "tone": 1,
+      "meaning": "peep",
+      "story": "The strokes unite to show peep, singing \"Kway!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2288,
+      "character": "窟",
+      "pinyin": "kū",
+      "tone": 1,
+      "meaning": "den",
+      "story": "See how the stone forms den? It sings \"Koo!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2289,
+      "character": "窄",
+      "pinyin": "zhǎi",
+      "tone": 3,
+      "meaning": "strait",
+      "story": "The strokes unite to show strait, whispering \"Jigh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2290,
+      "character": "榨",
+      "pinyin": "zhà",
+      "tone": 4,
+      "meaning": "extract",
+      "story": "Like a tree, this character means extract and shouts \"Jah!\"!",
+      "primitives": []
+    },
+    {
+      "id": 2291,
+      "character": "窘",
+      "pinyin": "jiǒng",
+      "tone": 3,
+      "meaning": "poverty-stricken",
+      "story": "Picture poverty-stricken taking form - it whispers \"Jyohng\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2292,
+      "character": "窮",
+      "pinyin": "qiǒng",
+      "tone": 3,
+      "meaning": "poor",
+      "story": "See how the body forms poor? It whispers \"Chyohng\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2293,
+      "character": "窩",
+      "pinyin": "wō",
+      "tone": 1,
+      "meaning": "hollow",
+      "story": "Picture hollow taking form - it sings \"Woh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2294,
+      "character": "腔",
+      "pinyin": "qiāng",
+      "tone": 1,
+      "meaning": "body cavity",
+      "story": "\"Chyahng!\" Empty flesh sang cheerfully - body cavity, chamber, accent, Taiwan sandhi!",
+      "primitives": []
+    }
+  ]
+}

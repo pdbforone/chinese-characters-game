@@ -1,0 +1,206 @@
+{
+  "lesson": 42,
+  "characterCount": 22,
+  "characterList": "衛干岸幹旱趕于宇余餘除途束速辣整練揀重懂動種",
+  "themes": ["nature", "action"],
+  "characters": [
+    {
+      "id": 1225,
+      "character": "衛",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "to defend",
+      "story": "\"Way!\" Marching with hide commanded sharply to defend - guard, protect with defense!",
+      "primitives": []
+    },
+    {
+      "id": 1226,
+      "character": "干",
+      "pinyin": "gān",
+      "tone": 1,
+      "meaning": "to offend",
+      "story": "The strokes unite to show to offend, singing \"Gahn!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1227,
+      "character": "岸",
+      "pinyin": "àn",
+      "tone": 4,
+      "meaning": "Shore",
+      "story": "The mountain takes the shape of shore, shouting \"Ahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1228,
+      "character": "幹",
+      "pinyin": "gàn",
+      "tone": 4,
+      "meaning": "Trunk (like a tree)",
+      "story": "The tree takes the shape of trunk (like a tree), shouting \"Gahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1229,
+      "character": "旱",
+      "pinyin": "hàn",
+      "tone": 4,
+      "meaning": "Drought",
+      "story": "Like a sun, this character means drought and shouts \"Hahn!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1230,
+      "character": "趕",
+      "pinyin": "gǎn",
+      "tone": 3,
+      "meaning": "to hurry",
+      "story": "Picture to hurry taking form - it whispers \"Gahn\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1231,
+      "character": "于",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "Yu",
+      "story": "Picture yu taking form - it asks \"Yoo? Surname?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1232,
+      "character": "宇",
+      "pinyin": "yǔ",
+      "tone": 3,
+      "meaning": "Eaves",
+      "story": "This character represents eaves, whispering \"Yoo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1233,
+      "character": "余",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "moi",
+      "story": "Picture moi taking form - it asks \"Yoo? Me?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1234,
+      "character": "餘",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "Excess",
+      "story": "This character represents excess, asking \"Yoo? Surplus?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1235,
+      "character": "除",
+      "pinyin": "chú",
+      "tone": 2,
+      "meaning": "to eliminate",
+      "story": "\"Choo, should we remove this?\" The mound questioned elimination curiously - excluding and wiping out!",
+      "primitives": []
+    },
+    {
+      "id": 1236,
+      "character": "途",
+      "pinyin": "tú",
+      "tone": 2,
+      "meaning": "Route",
+      "story": "Like a path, this character means route and asks \"Too? Way?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1237,
+      "character": "束",
+      "pinyin": "shù",
+      "tone": 4,
+      "meaning": "to bundle up",
+      "story": "With a tree combined with a mouth, you get to bundle up - \"Shoo!\" rings out sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1238,
+      "character": "速",
+      "pinyin": "sù",
+      "tone": 4,
+      "meaning": "quick",
+      "story": "Picture quick taking form - it shouts \"Soo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1239,
+      "character": "辣",
+      "pinyin": "là",
+      "tone": 4,
+      "meaning": "spicy hot",
+      "story": "\"Lah!\" A bundle of peppers commanded sharp spicy heat - pungent and hot!",
+      "primitives": []
+    },
+    {
+      "id": 1240,
+      "character": "整",
+      "pinyin": "zhěng",
+      "tone": 3,
+      "meaning": "entire",
+      "story": "Picture entire taking form - it asks \"Jung\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1241,
+      "character": "練",
+      "pinyin": "liàn",
+      "tone": 4,
+      "meaning": "to practice",
+      "story": "\"Lyen!\" Thread from the east commanded sharply to practice - train, drill and perfect skill!",
+      "primitives": []
+    },
+    {
+      "id": 1242,
+      "character": "揀",
+      "pinyin": "jiǎn",
+      "tone": 3,
+      "meaning": "to opt for",
+      "story": "See how the hand forms to opt for? It whispers \"Jyan\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1243,
+      "character": "重",
+      "pinyin": "zhòng",
+      "tone": 4,
+      "meaning": "heavy",
+      "story": "Picture heavy taking form - it shouts \"Jung!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1244,
+      "character": "懂",
+      "pinyin": "dǒng",
+      "tone": 3,
+      "meaning": "to understand",
+      "story": "See how the heart forms to understand? It whispers \"Dohng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1245,
+      "character": "動",
+      "pinyin": "dòng",
+      "tone": 4,
+      "meaning": "to move",
+      "story": "\"Dohng!\" Heavy power commanded sharply to move - movement and action!",
+      "primitives": []
+    },
+    {
+      "id": 1246,
+      "character": "種",
+      "pinyin": "zhǒng",
+      "tone": 3,
+      "meaning": "Species",
+      "story": "This character represents species, whispering \"Johng\" softly!",
+      "primitives": []
+    }
+  ]
+}

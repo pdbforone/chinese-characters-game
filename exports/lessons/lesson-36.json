@@ -1,0 +1,179 @@
+{
+  "lesson": 36,
+  "characterCount": 19,
+  "characterList": "孫卻腳服命留溜聊柳令冷零領通勇犯危脆印",
+  "themes": ["family"],
+  "characters": [
+    {
+      "id": 1042,
+      "character": "孫",
+      "pinyin": "sūn",
+      "tone": 1,
+      "meaning": "Grandchild",
+      "story": "\"Sun!\" The child on the family line sang cheerfully - a grandson continuing the thread!",
+      "primitives": []
+    },
+    {
+      "id": 1043,
+      "character": "卻",
+      "pinyin": "què",
+      "tone": 4,
+      "meaning": "to withdraw",
+      "story": "\"Chueh!\" Divination commanded withdrawal sharply - retreat, yet stand firm!",
+      "primitives": []
+    },
+    {
+      "id": 1044,
+      "character": "腳",
+      "pinyin": "jiǎo",
+      "tone": 3,
+      "meaning": "Foot",
+      "story": "The foot takes the shape of foot, whispering \"Jiao\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1045,
+      "character": "服",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "Apparel",
+      "story": "\"Foo, what clothing should I wear?\" The moon and hand questioned apparel curiously.",
+      "primitives": []
+    },
+    {
+      "id": 1046,
+      "character": "命",
+      "pinyin": "mìng",
+      "tone": 4,
+      "meaning": "Fate",
+      "story": "Fate's mouth opens, commanding \"Ming!\" sharply - life's destiny spoken!",
+      "primitives": []
+    },
+    {
+      "id": 1047,
+      "character": "留",
+      "pinyin": "liú",
+      "tone": 2,
+      "meaning": "to stay",
+      "story": "\"Lyo, should I remain here?\" The field questioned whether to stay, detained.",
+      "primitives": []
+    },
+    {
+      "id": 1048,
+      "character": "溜",
+      "pinyin": "liū",
+      "tone": 1,
+      "meaning": "to slide",
+      "story": "\"Lyo!\" On the water they sang cheerfully, sliding away, skating and slipping!",
+      "primitives": []
+    },
+    {
+      "id": 1049,
+      "character": "聊",
+      "pinyin": "liáo",
+      "tone": 2,
+      "meaning": "to chat",
+      "story": "\"Liao, want to talk more?\" The ear questioned how to chat curiously, passing time!",
+      "primitives": []
+    },
+    {
+      "id": 1050,
+      "character": "柳",
+      "pinyin": "liǔ",
+      "tone": 3,
+      "meaning": "Willow",
+      "story": "Like a tree, this character means willow and whispers \"Lyo\"!",
+      "primitives": []
+    },
+    {
+      "id": 1051,
+      "character": "令",
+      "pinyin": "lìng",
+      "tone": 4,
+      "meaning": "Orders",
+      "story": "\"Ling!\" The seal stamped orders sharply - the decree was issued!",
+      "primitives": []
+    },
+    {
+      "id": 1052,
+      "character": "冷",
+      "pinyin": "lěng",
+      "tone": 3,
+      "meaning": "cold",
+      "story": "A striking symbol for cold that whispers \"Leng\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1053,
+      "character": "零",
+      "pinyin": "líng",
+      "tone": 2,
+      "meaning": "zero",
+      "story": "The rain stands for zero, asking \"Ling? Nothing left?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1054,
+      "character": "領",
+      "pinyin": "lǐng",
+      "tone": 3,
+      "meaning": "Collar",
+      "story": "The strokes unite to show collar, whispering \"Ling\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1055,
+      "character": "通",
+      "pinyin": "tōng",
+      "tone": 1,
+      "meaning": "to communicate",
+      "story": "See how the stick forms to communicate? It sings \"Tong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1056,
+      "character": "勇",
+      "pinyin": "yǒng",
+      "tone": 3,
+      "meaning": "courageous",
+      "story": "This character represents courageous, whispering \"Yong\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1057,
+      "character": "犯",
+      "pinyin": "fàn",
+      "tone": 4,
+      "meaning": "Criminal",
+      "story": "A criminal dog half-committed commands \"Fan!\" sharply violating rules!",
+      "primitives": []
+    },
+    {
+      "id": 1058,
+      "character": "危",
+      "pinyin": "wēi",
+      "tone": 1,
+      "meaning": "Danger",
+      "story": "Danger! Rock climbing bound by fingerprints sings \"Way!\" anxiously high on the cliff!",
+      "primitives": []
+    },
+    {
+      "id": 1059,
+      "character": "脆",
+      "pinyin": "cuì",
+      "tone": 4,
+      "meaning": "fragile",
+      "story": "\"Tsway!\" Flesh in danger commanded sharply - fragile, brittle, and easily broken!",
+      "primitives": []
+    },
+    {
+      "id": 1060,
+      "character": "印",
+      "pinyin": "yìn",
+      "tone": 4,
+      "meaning": "Print",
+      "story": "\"Yin!\" The hand pressed the seal sharply to print - a stamp marking India's mark!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "lesson": 93,
+  "characterCount": 40,
+  "characterList": "慨萍秤淆艾哎拔攀屯頓噸純屆齒齣齡洶籬辜宰辨辮臂劈譬僻譯擇澤墊摯糾凌菱陵咳剎嚷釀塞",
+  "themes": ["action", "water"],
+  "characters": [
+    {
+      "id": 2465,
+      "character": "慨",
+      "pinyin": "kǎi",
+      "tone": 3,
+      "meaning": "incensed",
+      "story": "Picture incensed taking form - it whispers \"Kǎi!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2466,
+      "character": "萍",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "duckweed",
+      "story": "\"Ping?\" the flowers, water and water lily question curiously - is it duckweed, a floating plant?",
+      "primitives": []
+    },
+    {
+      "id": 2467,
+      "character": "秤",
+      "pinyin": "chèng",
+      "tone": 4,
+      "meaning": "scale",
+      "story": "\"CHANGE!\" the wild rice and water lily command sharply - use the scale for weighing, a balance!",
+      "primitives": []
+    },
+    {
+      "id": 2468,
+      "character": "淆",
+      "pinyin": "yáo",
+      "tone": 2,
+      "meaning": "confuse",
+      "story": "\"Yow?\" the water questions curiously - to confuse, mix up the imp and monster!",
+      "primitives": []
+    },
+    {
+      "id": 2469,
+      "character": "艾",
+      "pinyin": "ài",
+      "tone": 4,
+      "meaning": "Chinese mugwort",
+      "story": "\"AYE!\" the flowers command sharply - Chinese mugwort, an herb, wormwood!",
+      "primitives": []
+    },
+    {
+      "id": 2470,
+      "character": "哎",
+      "pinyin": "āi",
+      "tone": 1,
+      "meaning": "Good grief",
+      "story": "\"AI!\" the mouth sings cheerfully - Good grief! An exclamation, alas!",
+      "primitives": []
+    },
+    {
+      "id": 2471,
+      "character": "拔",
+      "pinyin": "bá",
+      "tone": 2,
+      "meaning": "pull out",
+      "story": "\"Bah?\" the fingers question curiously - to pull out, extract, remove and yank!",
+      "primitives": []
+    },
+    {
+      "id": 2472,
+      "character": "攀",
+      "pinyin": "pān",
+      "tone": 1,
+      "meaning": "climb",
+      "story": "\"PAN!\" the fingers and tree sing cheerfully - to climb, scale and ascend!",
+      "primitives": []
+    },
+    {
+      "id": 2473,
+      "character": "屯",
+      "pinyin": "tún",
+      "tone": 2,
+      "meaning": "stockpile",
+      "story": "\"Tune?\" he questions curiously about where to stockpile, store and accumulate.",
+      "primitives": []
+    },
+    {
+      "id": 2474,
+      "character": "頓",
+      "pinyin": "dùn",
+      "tone": 4,
+      "meaning": "pause",
+      "story": "\"DUN!\" the head commands sharply - to pause, stop for a meal suddenly!",
+      "primitives": []
+    },
+    {
+      "id": 2475,
+      "character": "噸",
+      "pinyin": "dùn",
+      "tone": 4,
+      "meaning": "ton",
+      "story": "\"DUN!\" the mouth and pause command sharply - that's one ton, a weight measure!",
+      "primitives": []
+    },
+    {
+      "id": 2476,
+      "character": "純",
+      "pinyin": "chún",
+      "tone": 2,
+      "meaning": "unadulterated",
+      "story": "\"Churn?\" the thread questions curiously - is it pure, unadulterated and genuine?",
+      "primitives": []
+    },
+    {
+      "id": 2477,
+      "character": "屆",
+      "pinyin": "jiè",
+      "tone": 4,
+      "meaning": "fall due",
+      "story": "\"JAY!\" he commands sharply - the deadline to fall due, the session and term arrive!",
+      "primitives": []
+    },
+    {
+      "id": 2478,
+      "character": "齒",
+      "pinyin": "chǐ",
+      "tone": 3,
+      "meaning": "teeth",
+      "story": "The teeth bend down drooping to bite and pierce with molars.",
+      "primitives": []
+    },
+    {
+      "id": 2479,
+      "character": "齣",
+      "pinyin": "chū",
+      "tone": 1,
+      "meaning": "shows",
+      "story": "\"CHEW!\" the teeth and sentence sing cheerfully - watch the shows, the performance and act!",
+      "primitives": []
+    },
+    {
+      "id": 2480,
+      "character": "齡",
+      "pinyin": "líng",
+      "tone": 2,
+      "meaning": "length of service",
+      "story": "\"Ling?\" the teeth question curiously about orders - what's the length of service, the age in years?",
+      "primitives": []
+    },
+    {
+      "id": 2481,
+      "character": "洶",
+      "pinyin": "xiōng",
+      "tone": 1,
+      "meaning": "turbulent",
+      "story": "\"SHYUNG!\" the water sings cheerfully when bound up with sinister forces - turbulent, fierce and violent!",
+      "primitives": []
+    },
+    {
+      "id": 2482,
+      "character": "籬",
+      "pinyin": "lí",
+      "tone": 2,
+      "meaning": "fence",
+      "story": "\"Lee?\" the bamboo questions curiously as it leaves - building a fence, a barrier and railing.",
+      "primitives": []
+    },
+    {
+      "id": 2483,
+      "character": "辜",
+      "pinyin": "gū",
+      "tone": 1,
+      "meaning": "crime",
+      "story": "\"GOO!\" the sinner sings cheerfully despite the crime, guilt and offense.",
+      "primitives": []
+    },
+    {
+      "id": 2484,
+      "character": "宰",
+      "pinyin": "zǎi",
+      "tone": 3,
+      "meaning": "butcher",
+      "story": "The house and chili pepper bend down - time to butcher, slaughter and kill!",
+      "primitives": []
+    },
+    {
+      "id": 2485,
+      "character": "辨",
+      "pinyin": "biàn",
+      "tone": 4,
+      "meaning": "differentiate",
+      "story": "\"BEN!\" he commands sharply, trying to differentiate, distinguish and recognize.",
+      "primitives": []
+    },
+    {
+      "id": 2486,
+      "character": "辮",
+      "pinyin": "biàn",
+      "tone": 4,
+      "meaning": "braid",
+      "story": "\"BEN!\" she commands sharply about the thread - make a braid, a plait for the twisted beard!",
+      "primitives": []
+    },
+    {
+      "id": 2487,
+      "character": "臂",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "arm",
+      "story": "\"BEE!\" the flesh commands sharply - the arm, limb and shoulder!",
+      "primitives": []
+    },
+    {
+      "id": 2488,
+      "character": "劈",
+      "pinyin": "pī",
+      "tone": 1,
+      "meaning": "split",
+      "story": "\"PEE!\" the hot sauce and dagger sing cheerfully - to split, chop and cleave the mountain!",
+      "primitives": []
+    },
+    {
+      "id": 2489,
+      "character": "譬",
+      "pinyin": "pì",
+      "tone": 4,
+      "meaning": "analogy",
+      "story": "\"PEE!\" the words command sharply - make an analogy, a comparison and metaphor!",
+      "primitives": []
+    },
+    {
+      "id": 2490,
+      "character": "僻",
+      "pinyin": "pì",
+      "tone": 4,
+      "meaning": "out-of-the-way",
+      "story": "\"PEE!\" the person commands sharply about the out-of-the-way, remote and secluded alley!",
+      "primitives": []
+    },
+    {
+      "id": 2491,
+      "character": "譯",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "translate",
+      "story": "\"EE!\" the words command sharply - to translate, interpret and convert!",
+      "primitives": []
+    },
+    {
+      "id": 2492,
+      "character": "擇",
+      "pinyin": "zé",
+      "tone": 2,
+      "meaning": "select",
+      "story": "\"Zeh?\" the fingers question curiously - which to select, choose and pick?",
+      "primitives": []
+    },
+    {
+      "id": 2493,
+      "character": "澤",
+      "pinyin": "zé",
+      "tone": 2,
+      "meaning": "swamp",
+      "story": "\"Zeh?\" the water questions curiously - is this a swamp, a marsh with aroma?",
+      "primitives": []
+    },
+    {
+      "id": 2494,
+      "character": "墊",
+      "pinyin": "diàn",
+      "tone": 4,
+      "meaning": "pad",
+      "story": "\"DEN!\" the clench and soil command sharply - use a pad, a cushion of newspaper for the pockets!",
+      "primitives": []
+    },
+    {
+      "id": 2495,
+      "character": "摯",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "earnest",
+      "story": "\"GEEZ!\" the clenched hand commands sharply - being earnest and sincere about this best friend!",
+      "primitives": []
+    },
+    {
+      "id": 2496,
+      "character": "糾",
+      "pinyin": "jiū",
+      "tone": 1,
+      "meaning": "entangle",
+      "story": "\"JOE!\" the thread and cornucopia sing cheerfully, tangling to twist in a dispute!",
+      "primitives": []
+    },
+    {
+      "id": 2497,
+      "character": "凌",
+      "pinyin": "líng",
+      "tone": 2,
+      "meaning": "bully",
+      "story": "\"Ling?\" the ice questions curiously - will you bully, insult and violate?",
+      "primitives": []
+    },
+    {
+      "id": 2498,
+      "character": "菱",
+      "pinyin": "líng",
+      "tone": 2,
+      "meaning": "water caltrop",
+      "story": "\"Ling?\" the flowers and minute ricemen question curiously - is this water caltrop, an aquatic nut?",
+      "primitives": []
+    },
+    {
+      "id": 2499,
+      "character": "陵",
+      "pinyin": "líng",
+      "tone": 2,
+      "meaning": "mausoleum",
+      "story": "\"Ling?\" the pinnacle and minute ricemen question curiously - is this a mausoleum, a tomb on a hill?",
+      "primitives": []
+    },
+    {
+      "id": 2500,
+      "character": "咳",
+      "pinyin": "ké",
+      "tone": 2,
+      "meaning": "cough",
+      "story": "\"Kuh?\" the mouth and acorn question curiously - did you just cough, hack and wheeze?",
+      "primitives": []
+    },
+    {
+      "id": 2501,
+      "character": "剎",
+      "pinyin": "shā",
+      "tone": 1,
+      "meaning": "brake",
+      "story": "\"SHAH!\" the sheaf, resin and saber sing cheerfully - to brake, stop and halt!",
+      "primitives": []
+    },
+    {
+      "id": 2502,
+      "character": "嚷",
+      "pinyin": "rǎng",
+      "tone": 3,
+      "meaning": "cry out",
+      "story": "The mouth and pigeon coop bend down drooping - to cry out, shout and yell!",
+      "primitives": []
+    },
+    {
+      "id": 2503,
+      "character": "釀",
+      "pinyin": "niàng",
+      "tone": 4,
+      "meaning": "brew",
+      "story": "\"NYAHNG!\" the whisky bottle and pigeon coop command sharply - to brew, ferment and distill!",
+      "primitives": []
+    },
+    {
+      "id": 2504,
+      "character": "塞",
+      "pinyin": "sài",
+      "tone": 4,
+      "meaning": "stronghold",
+      "story": "\"SAI!\" the soil commands sharply - building a stronghold, fortress and barrier to block!",
+      "primitives": []
+    }
+  ]
+}

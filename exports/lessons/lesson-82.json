@@ -1,0 +1,107 @@
+{
+  "lesson": 82,
+  "characterCount": 11,
+  "characterList": "揭淫挺瓦瓷瓶鋁宮瑩螢撈",
+  "themes": ["fire"],
+  "characters": [
+    {
+      "id": 2063,
+      "character": "揭",
+      "pinyin": "jiē",
+      "tone": 1,
+      "meaning": "reveal",
+      "story": "The fingers takes the shape of reveal, singing \"Jyeh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2064,
+      "character": "淫",
+      "pinyin": "yín",
+      "tone": 2,
+      "meaning": "promiscuous",
+      "story": "Like water, this character means promiscuous and asks \"Yin? Lewd?\"!",
+      "primitives": []
+    },
+    {
+      "id": 2065,
+      "character": "挺",
+      "pinyin": "tǐng",
+      "tone": 3,
+      "meaning": "erect",
+      "story": "Like a hand, this character means erect and whispers \"Ting\"!",
+      "primitives": []
+    },
+    {
+      "id": 2066,
+      "character": "瓦",
+      "pinyin": "wǎ",
+      "tone": 3,
+      "meaning": "tile",
+      "story": "The roof stands for tile, whispering \"Wah\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2067,
+      "character": "瓷",
+      "pinyin": "cí",
+      "tone": 2,
+      "meaning": "porcelain",
+      "story": "A striking symbol for porcelain that asks \"Tsuh? China?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2068,
+      "character": "瓶",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "bottle",
+      "story": "Picture bottle taking form - it asks \"Ping? Container?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2069,
+      "character": "鋁",
+      "pinyin": "lǚ",
+      "tone": 3,
+      "meaning": "aluminum",
+      "story": "The metal takes the shape of aluminum, whispering \"Lyoo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2070,
+      "character": "宮",
+      "pinyin": "gōng",
+      "tone": 1,
+      "meaning": "palace",
+      "story": "Picture palace taking form - it sings \"Gohng!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2071,
+      "character": "瑩",
+      "pinyin": "yíng",
+      "tone": 2,
+      "meaning": "lustrous",
+      "story": "The fire stands for lustrous, asking \"Ying? Shining?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2072,
+      "character": "螢",
+      "pinyin": "yíng",
+      "tone": 2,
+      "meaning": "firefly",
+      "story": "The strokes unite to show firefly, asking \"Ying? Glow bug?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2073,
+      "character": "撈",
+      "pinyin": "lāo",
+      "tone": 1,
+      "meaning": "scoop up",
+      "story": "\"Lao!\" Hand through the door sang cheerfully - scoop up and dip out fortune!",
+      "primitives": []
+    }
+  ]
+}

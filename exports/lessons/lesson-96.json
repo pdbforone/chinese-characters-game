@@ -1,0 +1,251 @@
+{
+  "lesson": 96,
+  "characterCount": 27,
+  "characterList": "飄闆闊閉潤閣擱闡閱悶閃閥閘闢蒼搶菲輩悲徘殲籤纖喉猴韓違",
+  "themes": ["numbers", "fire", "time"],
+  "characters": [
+    {
+      "id": 2545,
+      "character": "飄",
+      "pinyin": "piāo",
+      "tone": 1,
+      "meaning": "flutter",
+      "story": "\"PYAO!\" the food sings cheerfully - to flutter, float and drift!",
+      "primitives": []
+    },
+    {
+      "id": 2546,
+      "character": "闆",
+      "pinyin": "bǎn",
+      "tone": 3,
+      "meaning": "boss",
+      "story": "See how the gate forms boss? It whispers \"Bǎn!\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2547,
+      "character": "闊",
+      "pinyin": "kuò",
+      "tone": 4,
+      "meaning": "broad",
+      "story": "\"KWOH!\" the gate and lively command sharply - broad, wide and spacious!",
+      "primitives": []
+    },
+    {
+      "id": 2548,
+      "character": "閉",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "close",
+      "story": "The gate stands for close, shouting \"BEE!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2549,
+      "character": "潤",
+      "pinyin": "rùn",
+      "tone": 4,
+      "meaning": "moisten",
+      "story": "\"RWUN!\" the water commands sharply - to moisten, wet and lubricate!",
+      "primitives": []
+    },
+    {
+      "id": 2550,
+      "character": "閣",
+      "pinyin": "gé",
+      "tone": 2,
+      "meaning": "cabinet",
+      "story": "\"Guh?\" the gate questions curiously - is this a cabinet, a pavilion in the loft?",
+      "primitives": []
+    },
+    {
+      "id": 2551,
+      "character": "擱",
+      "pinyin": "gē",
+      "tone": 1,
+      "meaning": "put aside",
+      "story": "\"GUH!\" the fingers and cabinet sing cheerfully - to put aside, but don't waste time!",
+      "primitives": []
+    },
+    {
+      "id": 2552,
+      "character": "闡",
+      "pinyin": "chǎn",
+      "tone": 3,
+      "meaning": "explicate",
+      "story": "The gate and list bend down drooping - to explicate, clarify and expound!",
+      "primitives": []
+    },
+    {
+      "id": 2553,
+      "character": "閱",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "peruse",
+      "story": "\"YWEH!\" the gate commands sharply - to peruse, read and inspect!",
+      "primitives": []
+    },
+    {
+      "id": 2554,
+      "character": "悶",
+      "pinyin": "mèn",
+      "tone": 4,
+      "meaning": "stuffy",
+      "story": "\"MUN!\" the heart and gate command sharply - stuffy, silent and stifling!",
+      "primitives": []
+    },
+    {
+      "id": 2555,
+      "character": "閃",
+      "pinyin": "shǎn",
+      "tone": 3,
+      "meaning": "flash",
+      "story": "See how the gate forms flash? It whispers \"Shǎn!\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2556,
+      "character": "閥",
+      "pinyin": "fá",
+      "tone": 2,
+      "meaning": "valve",
+      "story": "\"Fah?\" the gate questions curiously - is it a valve for the honorable family to control?",
+      "primitives": []
+    },
+    {
+      "id": 2557,
+      "character": "閘",
+      "pinyin": "zhá",
+      "tone": 2,
+      "meaning": "floodgate",
+      "story": "\"JAH?\" the gate and radish question curiously - the floodgate, sluice and dam?",
+      "primitives": []
+    },
+    {
+      "id": 2558,
+      "character": "闢",
+      "pinyin": "pì",
+      "tone": 4,
+      "meaning": "repudiate",
+      "story": "\"PEE!\" the gate and hot sauce command sharply - to repudiate, refute and open!",
+      "primitives": []
+    },
+    {
+      "id": 2559,
+      "character": "蒼",
+      "pinyin": "cāng",
+      "tone": 1,
+      "meaning": "ash-colored",
+      "story": "\"TSAHNG!\" the flowers sing cheerfully - ash-colored, pale blue in the district!",
+      "primitives": []
+    },
+    {
+      "id": 2560,
+      "character": "搶",
+      "pinyin": "qiǎng",
+      "tone": 3,
+      "meaning": "rob",
+      "story": "The fingers bend down drooping - to rob, seize and snatch by stealing!",
+      "primitives": []
+    },
+    {
+      "id": 2561,
+      "character": "菲",
+      "pinyin": "fěi",
+      "tone": 3,
+      "meaning": "humble",
+      "story": "The flowers and jail cell bend down drooping - humble, modest and meager!",
+      "primitives": []
+    },
+    {
+      "id": 2562,
+      "character": "輩",
+      "pinyin": "bèi",
+      "tone": 4,
+      "meaning": "lifetime",
+      "story": "\"BAY!\" the car commands sharply - a lifetime, generation of peers!",
+      "primitives": []
+    },
+    {
+      "id": 2563,
+      "character": "悲",
+      "pinyin": "bēi",
+      "tone": 1,
+      "meaning": "sad",
+      "story": "\"BAY!\" the heart sings cheerfully despite being sad - sorrow and grief!",
+      "primitives": []
+    },
+    {
+      "id": 2564,
+      "character": "徘",
+      "pinyin": "pái",
+      "tone": 2,
+      "meaning": "irresolute",
+      "story": "\"Pai?\" the queue and jail cell question curiously - irresolute, hesitant and pacing!",
+      "primitives": []
+    },
+    {
+      "id": 2565,
+      "character": "殲",
+      "pinyin": "jiān",
+      "tone": 1,
+      "meaning": "annihilate",
+      "story": "\"JYEN!\" the bones and jailbreak sing cheerfully - to annihilate, destroy and wipe out!",
+      "primitives": []
+    },
+    {
+      "id": 2566,
+      "character": "籤",
+      "pinyin": "qiān",
+      "tone": 1,
+      "meaning": "bamboo slip",
+      "story": "\"CHYEN!\" the bamboo and jailbreak sing cheerfully - a bamboo slip, a divination stick!",
+      "primitives": []
+    },
+    {
+      "id": 2567,
+      "character": "纖",
+      "pinyin": "xiān",
+      "tone": 1,
+      "meaning": "fiber",
+      "story": "\"SHYEN!\" the thread and jailbreak sing cheerfully - fiber, delicate and tiny for the body!",
+      "primitives": []
+    },
+    {
+      "id": 2568,
+      "character": "喉",
+      "pinyin": "hóu",
+      "tone": 2,
+      "meaning": "gullet",
+      "story": "\"HOH?\" the mouth questions curiously - the gullet, throat and larynx?",
+      "primitives": []
+    },
+    {
+      "id": 2569,
+      "character": "猴",
+      "pinyin": "hóu",
+      "tone": 2,
+      "meaning": "monkey",
+      "story": "\"HOH?\" the pack and marquis question curiously - a monkey? To kill a chicken as an example?",
+      "primitives": []
+    },
+    {
+      "id": 2570,
+      "character": "韓",
+      "pinyin": "hán",
+      "tone": 2,
+      "meaning": "Korea",
+      "story": "Picture korea taking form - it asks \"HAN?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2571,
+      "character": "違",
+      "pinyin": "wéi",
+      "tone": 2,
+      "meaning": "disobey",
+      "story": "\"WAY?\" the road questions curiously - will you disobey, violate and oppose?",
+      "primitives": []
+    }
+  ]
+}

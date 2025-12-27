@@ -1,0 +1,206 @@
+{
+  "lesson": 29,
+  "characterCount": 22,
+  "characterList": "示社視福禁襟宗崇祭察擦由抽油甲押申伸神果課顆",
+  "themes": ["numbers", "action", "family"],
+  "characters": [
+    {
+      "id": 834,
+      "character": "示",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "to show",
+      "story": "A striking symbol for to show that shouts \"Shi!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 835,
+      "character": "社",
+      "pinyin": "shè",
+      "tone": 4,
+      "meaning": "Society",
+      "story": "The earth stands for society, shouting \"Shuh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 836,
+      "character": "視",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "to inspect",
+      "story": "\"Shi!\" Show me what you see - inspect it sharply!",
+      "primitives": []
+    },
+    {
+      "id": 837,
+      "character": "福",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "Happiness",
+      "story": "\"Foo, are we blessed?\" One mouth shown questioned happiness.",
+      "primitives": []
+    },
+    {
+      "id": 838,
+      "character": "禁",
+      "pinyin": "jìn",
+      "tone": 4,
+      "meaning": "to prohibit",
+      "story": "\"Jin!\" Show the forest the sharp command to prohibit entry.",
+      "primitives": []
+    },
+    {
+      "id": 839,
+      "character": "襟",
+      "pinyin": "jīn",
+      "tone": 1,
+      "meaning": "Front of a Garment",
+      "story": "The strokes unite to show front of a garment, singing \"Jeen!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 840,
+      "character": "宗",
+      "pinyin": "zōng",
+      "tone": 1,
+      "meaning": "Religion",
+      "story": "Like a roof, this character means religion and sings \"Zong!\"!",
+      "primitives": []
+    },
+    {
+      "id": 841,
+      "character": "崇",
+      "pinyin": "chóng",
+      "tone": 2,
+      "meaning": "to worship",
+      "story": "\"Chong, should we revere this?\" The mountain religion questioned worship.",
+      "primitives": []
+    },
+    {
+      "id": 842,
+      "character": "祭",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "to offer sacrifice",
+      "story": "A striking symbol for to offer sacrifice that shouts \"Ji!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 843,
+      "character": "察",
+      "pinyin": "chá",
+      "tone": 2,
+      "meaning": "to scrutinize",
+      "story": "\"Cha, should we examine it?\" The roof over the sacrifice questioned scrutiny.",
+      "primitives": []
+    },
+    {
+      "id": 844,
+      "character": "擦",
+      "pinyin": "cā",
+      "tone": 1,
+      "meaning": "to scrub",
+      "story": "\"Tsa!\" The hand scrutinized cheerfully while scrubbing and wiping.",
+      "primitives": []
+    },
+    {
+      "id": 845,
+      "character": "由",
+      "pinyin": "yóu",
+      "tone": 2,
+      "meaning": "Wherefore",
+      "story": "The field stands for wherefore, asking \"Yo? Why?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 846,
+      "character": "抽",
+      "pinyin": "chōu",
+      "tone": 1,
+      "meaning": "to draw out",
+      "story": "Like a hand, this character means to draw out and sings \"Cho!\"!",
+      "primitives": []
+    },
+    {
+      "id": 847,
+      "character": "油",
+      "pinyin": "yóu",
+      "tone": 2,
+      "meaning": "Oil",
+      "story": "The water stands for oil, asking \"Yo? Lubricating?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 848,
+      "character": "甲",
+      "pinyin": "jiǎ",
+      "tone": 3,
+      "meaning": "first",
+      "story": "Like a shell, this character means first and whispers \"Jia\"!",
+      "primitives": []
+    },
+    {
+      "id": 849,
+      "character": "押",
+      "pinyin": "yā",
+      "tone": 1,
+      "meaning": "to pawn",
+      "story": "\"Ya!\" Her hand pawned the item cheerfully, making a deposit.",
+      "primitives": []
+    },
+    {
+      "id": 850,
+      "character": "申",
+      "pinyin": "shēn",
+      "tone": 1,
+      "meaning": "to express",
+      "story": "\"Shen!\" In the middle of the day, he expressed himself cheerfully.",
+      "primitives": []
+    },
+    {
+      "id": 851,
+      "character": "伸",
+      "pinyin": "shēn",
+      "tone": 1,
+      "meaning": "to extend",
+      "story": "\"Shen!\" The person extended their body cheerfully, stretching out.",
+      "primitives": []
+    },
+    {
+      "id": 852,
+      "character": "神",
+      "pinyin": "shén",
+      "tone": 2,
+      "meaning": "Gods",
+      "story": "Picture gods taking form - it asks \"Shen? Divine?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 853,
+      "character": "果",
+      "pinyin": "guǒ",
+      "tone": 3,
+      "meaning": "Fruit",
+      "story": "When the tree meets the field, they form fruit, whispering \"Gwoh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 854,
+      "character": "課",
+      "pinyin": "kè",
+      "tone": 4,
+      "meaning": "Lesson",
+      "story": "A striking symbol for lesson that shouts \"Kuh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 855,
+      "character": "顆",
+      "pinyin": "kē",
+      "tone": 1,
+      "meaning": "Granule",
+      "story": "Picture granule taking form - it sings \"Kuh!\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "lesson": 17,
+  "characterCount": 22,
+  "characterList": "止步涉頻肯企歲武賦正政定走超越是題建延誕楚礎",
+  "themes": ["time", "action"],
+  "characters": [
+    {
+      "id": 353,
+      "character": "止",
+      "pinyin": "zhǐ",
+      "tone": 3,
+      "meaning": "to stop",
+      "story": "The foot stands for to stop, whispering \"Zhi\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 354,
+      "character": "步",
+      "pinyin": "bù",
+      "tone": 4,
+      "meaning": "Footstep",
+      "story": "This character represents footstep, shouting \"Boo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 355,
+      "character": "涉",
+      "pinyin": "shè",
+      "tone": 4,
+      "meaning": "to ford",
+      "story": "\"Shuh, watch your step!\" She commanded, crossing through the water to ford it.",
+      "primitives": []
+    },
+    {
+      "id": 356,
+      "character": "頻",
+      "pinyin": "pín",
+      "tone": 2,
+      "meaning": "repeatedly",
+      "story": "Picture repeatedly taking form - it asks \"Pin? Again?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 357,
+      "character": "肯",
+      "pinyin": "kěn",
+      "tone": 3,
+      "meaning": "to agree",
+      "story": "This character represents to agree, whispering \"Ken\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 358,
+      "character": "企",
+      "pinyin": "qǐ",
+      "tone": 3,
+      "meaning": "to look forward to",
+      "story": "The person takes the shape of to look forward to, whispering \"Chi\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 359,
+      "character": "歲",
+      "pinyin": "suì",
+      "tone": 4,
+      "meaning": "Years of Age",
+      "story": "This character represents years of age, shouting \"Sway!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 360,
+      "character": "武",
+      "pinyin": "wǔ",
+      "tone": 3,
+      "meaning": "military",
+      "story": "The strokes unite to show military, whispering \"Woo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 361,
+      "character": "賦",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "Levy",
+      "story": "The shellfish takes the shape of levy, shouting \"Foo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 362,
+      "character": "正",
+      "pinyin": "zhèng",
+      "tone": 4,
+      "meaning": "correct",
+      "story": "A striking symbol for correct that shouts \"Zheng!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 363,
+      "character": "政",
+      "pinyin": "zhèng",
+      "tone": 4,
+      "meaning": "Politics",
+      "story": "This character represents politics, shouting \"Zheng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 364,
+      "character": "定",
+      "pinyin": "dìng",
+      "tone": 4,
+      "meaning": "to settle on",
+      "story": "This character represents to settle on, shouting \"Ding!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 365,
+      "character": "走",
+      "pinyin": "zǒu",
+      "tone": 3,
+      "meaning": "to walk",
+      "story": "The earth takes the shape of to walk, whispering \"Zo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 366,
+      "character": "超",
+      "pinyin": "chāo",
+      "tone": 1,
+      "meaning": "to transcend",
+      "story": "\"Chao!\" he sang cheerfully, transcending limits as he walked to summon others beyond.",
+      "primitives": []
+    },
+    {
+      "id": 367,
+      "character": "越",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "to surpass",
+      "story": "\"Yueh!\" The halberd-carrier walked beyond, surpassing all expectations.",
+      "primitives": []
+    },
+    {
+      "id": 368,
+      "character": "是",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "to be",
+      "story": "The sun stands for to be, shouting \"Shi!\" sharply as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 369,
+      "character": "題",
+      "pinyin": "tí",
+      "tone": 2,
+      "meaning": "Topic",
+      "story": "This character represents topic, asking \"Ti? What about?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 370,
+      "character": "建",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "to build",
+      "story": "\"Jian, let's build it!\" They constructed the brush walk together.",
+      "primitives": []
+    },
+    {
+      "id": 371,
+      "character": "延",
+      "pinyin": "yán",
+      "tone": 2,
+      "meaning": "to prolong",
+      "story": "\"Yan, how long should we extend?\" they questioned, walking to prolong the path.",
+      "primitives": []
+    },
+    {
+      "id": 372,
+      "character": "誕",
+      "pinyin": "dàn",
+      "tone": 4,
+      "meaning": "Nativity",
+      "story": "A striking symbol for nativity that shouts \"Dan!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 373,
+      "character": "楚",
+      "pinyin": "chǔ",
+      "tone": 3,
+      "meaning": "clear",
+      "story": "The tree takes the shape of clear, whispering \"Choo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 374,
+      "character": "礎",
+      "pinyin": "chǔ",
+      "tone": 3,
+      "meaning": "Foundation",
+      "story": "Like a stone, this character means foundation and whispers \"Choo\"!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "lesson": 50,
+  "characterCount": 17,
+  "characterList": "孤益假蝦氣汽飛面麵革鞋馨聲吳娛誤承",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1357,
+      "character": "孤",
+      "pinyin": "gū",
+      "tone": 1,
+      "meaning": "Orphan",
+      "story": "The strokes unite to show orphan, singing \"Goo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1358,
+      "character": "益",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "a Benefit",
+      "story": "The water stands for a benefit, shouting \"Yee!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1359,
+      "character": "假",
+      "pinyin": "jià",
+      "tone": 4,
+      "meaning": "Vacation",
+      "story": "Like a person, this character means vacation and shouts \"Jyah!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1360,
+      "character": "蝦",
+      "pinyin": "xiá",
+      "tone": 2,
+      "meaning": "Shrimp",
+      "story": "Like a shellfish, this character means shrimp and asks \"Shyah? Prawn?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1361,
+      "character": "氣",
+      "pinyin": "qì",
+      "tone": 4,
+      "meaning": "Air",
+      "story": "An striking symbol for air that shouts \"Chee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1362,
+      "character": "汽",
+      "pinyin": "qì",
+      "tone": 4,
+      "meaning": "Vapor",
+      "story": "The water stands for vapor, shouting \"Chee!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1363,
+      "character": "飛",
+      "pinyin": "fēi",
+      "tone": 1,
+      "meaning": "to fly",
+      "story": "\"Fay!\" Wings soared cheerfully - time to fly, going airborne!",
+      "primitives": []
+    },
+    {
+      "id": 1364,
+      "character": "面",
+      "pinyin": "miàn",
+      "tone": 4,
+      "meaning": "face-to-face",
+      "story": "A striking symbol for face-to-face that shouts \"Myan!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1365,
+      "character": "麵",
+      "pinyin": "miàn",
+      "tone": 4,
+      "meaning": "Noodles",
+      "story": "A striking symbol for noodles that shouts \"Myan!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1366,
+      "character": "革",
+      "pinyin": "gé",
+      "tone": 2,
+      "meaning": "Leather",
+      "story": "Picture leather taking form - it asks \"Guh? Skin?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1367,
+      "character": "鞋",
+      "pinyin": "xié",
+      "tone": 2,
+      "meaning": "Shoes",
+      "story": "Like soil, this character means shoes and asks \"Shyeh? Footwear?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1368,
+      "character": "馨",
+      "pinyin": "xīn",
+      "tone": 1,
+      "meaning": "fragrant",
+      "story": "The strokes unite to show fragrant, singing \"Shin!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1369,
+      "character": "聲",
+      "pinyin": "shēng",
+      "tone": 1,
+      "meaning": "Voice",
+      "story": "The ear stands for voice, singing \"Shung!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1370,
+      "character": "吳",
+      "pinyin": "wú",
+      "tone": 2,
+      "meaning": "Wu",
+      "story": "See how the mouth forms wu? It asks \"Woo? Jiangsu?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1371,
+      "character": "娛",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "Amusement",
+      "story": "An striking symbol for amusement that asks \"Yoo? Pleasure?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1372,
+      "character": "誤",
+      "pinyin": "wù",
+      "tone": 4,
+      "meaning": "Error",
+      "story": "This character represents error, shouting \"Woo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1373,
+      "character": "承",
+      "pinyin": "chéng",
+      "tone": 2,
+      "meaning": "to undertake",
+      "story": "\"Chung, can you bear it?\" Hands questioned receiving curiously - ready to undertake and take charge!",
+      "primitives": []
+    }
+  ]
+}

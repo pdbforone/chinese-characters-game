@@ -1,0 +1,449 @@
+{
+  "lesson": 88,
+  "characterCount": 49,
+  "characterList": "姊躺躲躬嗜拷暑睹賭奢堵煮諸儲屠署薯歸篩棺爹斧咬狡趴踏蹄捉踩蹦跌促踢躁噪澡藻操燥躍戳耀猾髓髒渦鍋蝸禍",
+  "themes": ["fire", "action", "numbers"],
+  "characters": [
+    {
+      "id": 2228,
+      "character": "姊",
+      "pinyin": "zǐ",
+      "tone": 3,
+      "meaning": "elder sister",
+      "story": "Picture elder sister taking form - it whispers \"Dzir\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2229,
+      "character": "躺",
+      "pinyin": "tǎng",
+      "tone": 3,
+      "meaning": "lie down",
+      "story": "Like a body, this character means lie down and whispers \"Tahng\"!",
+      "primitives": []
+    },
+    {
+      "id": 2230,
+      "character": "躲",
+      "pinyin": "duǒ",
+      "tone": 3,
+      "meaning": "dodge",
+      "story": "Like a body, this character means dodge and whispers \"Dwoh\"!",
+      "primitives": []
+    },
+    {
+      "id": 2231,
+      "character": "躬",
+      "pinyin": "gōng",
+      "tone": 1,
+      "meaning": "stoop",
+      "story": "See how the body forms stoop? It sings \"Gohng!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2232,
+      "character": "嗜",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "hanker",
+      "story": "The mouth takes the shape of hanker, shouting \"Shir!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2233,
+      "character": "拷",
+      "pinyin": "kǎo",
+      "tone": 3,
+      "meaning": "flog",
+      "story": "The hand stands for flog, whispering \"Kao\" softly reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 2234,
+      "character": "暑",
+      "pinyin": "shǔ",
+      "tone": 3,
+      "meaning": "summer heat",
+      "story": "See how the sun forms summer heat? It whispers \"Shoo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2235,
+      "character": "睹",
+      "pinyin": "dǔ",
+      "tone": 3,
+      "meaning": "behold",
+      "story": "The strokes unite to show behold, whispering \"Doo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2236,
+      "character": "賭",
+      "pinyin": "dǔ",
+      "tone": 3,
+      "meaning": "gamble",
+      "story": "Like a shellfish, this character means gamble and whispers \"Doo\"!",
+      "primitives": []
+    },
+    {
+      "id": 2237,
+      "character": "奢",
+      "pinyin": "shē",
+      "tone": 1,
+      "meaning": "extravagant",
+      "story": "Picture extravagant taking form - it sings \"Shuh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2238,
+      "character": "堵",
+      "pinyin": "dǔ",
+      "tone": 3,
+      "meaning": "stop up",
+      "story": "See how the soil forms stop up? It whispers \"Doo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2239,
+      "character": "煮",
+      "pinyin": "zhǔ",
+      "tone": 3,
+      "meaning": "boil",
+      "story": "The fire stands for boil, whispering \"Joo\" softly with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 2240,
+      "character": "諸",
+      "pinyin": "zhū",
+      "tone": 1,
+      "meaning": "various",
+      "story": "A striking symbol for various that sings \"Joo!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2241,
+      "character": "儲",
+      "pinyin": "chǔ",
+      "tone": 3,
+      "meaning": "put in storage",
+      "story": "The person stands for put in storage, whispering \"Choo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2242,
+      "character": "屠",
+      "pinyin": "tú",
+      "tone": 2,
+      "meaning": "slaughter",
+      "story": "This character represents slaughter, asking \"Too? Kill?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2243,
+      "character": "署",
+      "pinyin": "shǔ",
+      "tone": 3,
+      "meaning": "add your John Hancock",
+      "story": "Picture add your john hancock taking form - it whispers \"Shoo\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2244,
+      "character": "薯",
+      "pinyin": "shǔ",
+      "tone": 3,
+      "meaning": "yam",
+      "story": "A striking symbol for yam that whispers \"Shoo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2245,
+      "character": "歸",
+      "pinyin": "guī",
+      "tone": 1,
+      "meaning": "come back",
+      "story": "A striking symbol for come back that sings \"Gway!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2246,
+      "character": "篩",
+      "pinyin": "shāi",
+      "tone": 1,
+      "meaning": "sift",
+      "story": "The bamboo stands for sift, singing \"Shigh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2247,
+      "character": "棺",
+      "pinyin": "guān",
+      "tone": 1,
+      "meaning": "coffin",
+      "story": "The tree stands for coffin, singing \"Gwahn!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2248,
+      "character": "爹",
+      "pinyin": "diē",
+      "tone": 1,
+      "meaning": "dad",
+      "story": "This character represents dad, singing \"Dyeh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2249,
+      "character": "斧",
+      "pinyin": "fǔ",
+      "tone": 3,
+      "meaning": "axe",
+      "story": "This character represents axe, whispering \"Foo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2250,
+      "character": "咬",
+      "pinyin": "yǎo",
+      "tone": 3,
+      "meaning": "bite",
+      "story": "Like a mouth, this character means bite and whispers \"Yao\" spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 2251,
+      "character": "狡",
+      "pinyin": "jiǎo",
+      "tone": 3,
+      "meaning": "sly",
+      "story": "This character represents sly, whispering \"Jyao\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2252,
+      "character": "趴",
+      "pinyin": "pā",
+      "tone": 1,
+      "meaning": "prostrate oneself",
+      "story": "\"Pah!\" Eight runners sang cheerfully - prostrate oneself, head down, fatso don't move!",
+      "primitives": []
+    },
+    {
+      "id": 2253,
+      "character": "踏",
+      "pinyin": "tà",
+      "tone": 4,
+      "meaning": "trample",
+      "story": "\"Tah!\" Wooden leg stomped water sharply - trample and step, stamp!",
+      "primitives": []
+    },
+    {
+      "id": 2254,
+      "character": "蹄",
+      "pinyin": "tí",
+      "tone": 2,
+      "meaning": "hoof",
+      "story": "\"Tee, is that an animal foot?\" Wooden leg questioned the sovereign curiously - hoof, horse hooves!",
+      "primitives": []
+    },
+    {
+      "id": 2255,
+      "character": "捉",
+      "pinyin": "zhuō",
+      "tone": 1,
+      "meaning": "catch",
+      "story": "When the leg meets the hand, they form catch, singing \"Jwoh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2256,
+      "character": "踩",
+      "pinyin": "cǎi",
+      "tone": 3,
+      "meaning": "step on",
+      "story": "The leg takes the shape of step on, whispering \"Tsigh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2257,
+      "character": "蹦",
+      "pinyin": "bèng",
+      "tone": 4,
+      "meaning": "hop",
+      "story": "\"Bung!\" Wooden leg scaled the mountain sharply - hop, jump and bounce!",
+      "primitives": []
+    },
+    {
+      "id": 2258,
+      "character": "跌",
+      "pinyin": "diē",
+      "tone": 1,
+      "meaning": "slump",
+      "story": "\"Dyeh!\" Wooden leg stumbled cheerfully - slump, fall and tumble face up!",
+      "primitives": []
+    },
+    {
+      "id": 2259,
+      "character": "促",
+      "pinyin": "cù",
+      "tone": 4,
+      "meaning": "urge",
+      "story": "\"Tsoo!\" Person with wooden leg commanded sharply - urge, hasten and rush!",
+      "primitives": []
+    },
+    {
+      "id": 2260,
+      "character": "踢",
+      "pinyin": "tī",
+      "tone": 1,
+      "meaning": "kick",
+      "story": "\"Tee!\" Wooden leg found it easy cheerfully - kick, boot and strike!",
+      "primitives": []
+    },
+    {
+      "id": 2261,
+      "character": "躁",
+      "pinyin": "zào",
+      "tone": 4,
+      "meaning": "impetuous",
+      "story": "\"Dzao!\" Body of wood pulp commanded sharply - impetuous, irritable and jittery!",
+      "primitives": []
+    },
+    {
+      "id": 2262,
+      "character": "噪",
+      "pinyin": "zào",
+      "tone": 4,
+      "meaning": "chirping",
+      "story": "\"Dzao!\" Mouth like wood pulp commanded sharply - chirping, noisy twitter and static!",
+      "primitives": []
+    },
+    {
+      "id": 2263,
+      "character": "澡",
+      "pinyin": "zǎo",
+      "tone": 3,
+      "meaning": "bath",
+      "story": "When the wood meets the water, they form bath, whispering \"Dzao\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2264,
+      "character": "藻",
+      "pinyin": "zǎo",
+      "tone": 3,
+      "meaning": "algae",
+      "story": "See how the water forms algae? It whispers \"Dzao\" softly like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 2265,
+      "character": "操",
+      "pinyin": "cāo",
+      "tone": 1,
+      "meaning": "exercise",
+      "story": "\"Tsao!\" Hand worked wood pulp cheerfully - exercise, drill and practice!",
+      "primitives": []
+    },
+    {
+      "id": 2266,
+      "character": "燥",
+      "pinyin": "zào",
+      "tone": 4,
+      "meaning": "parched",
+      "story": "\"Dzao!\" Fire burned wood pulp sharply - parched, dry and arid!",
+      "primitives": []
+    },
+    {
+      "id": 2267,
+      "character": "躍",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "leap",
+      "story": "\"Yueh!\" Wooden leg with wings commanded sharply - leap, jump and bound!",
+      "primitives": []
+    },
+    {
+      "id": 2268,
+      "character": "戳",
+      "pinyin": "chuō",
+      "tone": 1,
+      "meaning": "jab",
+      "story": "Picture jab taking form - it sings \"Chwoh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2269,
+      "character": "耀",
+      "pinyin": "yào",
+      "tone": 4,
+      "meaning": "show off",
+      "story": "\"Yao!\" Light on feathers commanded sharply - show off, glory, dazzle with honor!",
+      "primitives": []
+    },
+    {
+      "id": 2270,
+      "character": "猾",
+      "pinyin": "huá",
+      "tone": 2,
+      "meaning": "cunning",
+      "story": "A striking symbol for cunning that asks \"Hwah? Crafty?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2271,
+      "character": "髓",
+      "pinyin": "suǐ",
+      "tone": 3,
+      "meaning": "marrow",
+      "story": "Like a bone, this character means marrow and whispers \"Sway\"!",
+      "primitives": []
+    },
+    {
+      "id": 2272,
+      "character": "髒",
+      "pinyin": "zāng",
+      "tone": 1,
+      "meaning": "dirty",
+      "story": "\"Dzahng!\" Skeleton held stolen goods cheerfully - dirty, filthy and unclean!",
+      "primitives": []
+    },
+    {
+      "id": 2273,
+      "character": "渦",
+      "pinyin": "wō",
+      "tone": 1,
+      "meaning": "whirlpool",
+      "story": "Like water, this character means whirlpool and sings \"Woh!\"!",
+      "primitives": []
+    },
+    {
+      "id": 2274,
+      "character": "鍋",
+      "pinyin": "guō",
+      "tone": 1,
+      "meaning": "pot",
+      "story": "See how the metal forms pot? It sings \"Gwoh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2275,
+      "character": "蝸",
+      "pinyin": "wō",
+      "tone": 1,
+      "meaning": "snail",
+      "story": "Picture snail taking form - it sings \"Woh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2276,
+      "character": "禍",
+      "pinyin": "huò",
+      "tone": 4,
+      "meaning": "misfortune",
+      "story": "This character represents misfortune, shouting \"Hwoh!\" sharply!",
+      "primitives": []
+    }
+  ]
+}

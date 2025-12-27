@@ -1,0 +1,107 @@
+{
+  "lesson": 71,
+  "characterCount": 11,
+  "characterList": "讚貳膩洩划嘎域栽戚蔑喊",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1629,
+      "character": "讚",
+      "pinyin": "zàn",
+      "tone": 4,
+      "meaning": "praise",
+      "story": "\"Dzahn!\" Words with two shellfish commanded sharply - praise, compliments and likes!",
+      "primitives": []
+    },
+    {
+      "id": 1630,
+      "character": "貳",
+      "pinyin": "èr",
+      "tone": 4,
+      "meaning": "II",
+      "story": "II two shellfish commands sharply \"Urr!\" - number two formal!",
+      "primitives": []
+    },
+    {
+      "id": 1631,
+      "character": "膩",
+      "pinyin": "nì",
+      "tone": 4,
+      "meaning": "sick and tired of",
+      "story": "Like a body, this character means sick and tired of and shouts \"Nee!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1632,
+      "character": "洩",
+      "pinyin": "xiè",
+      "tone": 4,
+      "meaning": "discharge",
+      "story": "Like water, this character means discharge and shouts \"Shyeh!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1633,
+      "character": "划",
+      "pinyin": "huá",
+      "tone": 2,
+      "meaning": "paddle",
+      "story": "With a knife combined with a stroke, you get paddle - \"Hwah? Row?\" rings out curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1634,
+      "character": "嘎",
+      "pinyin": "gá",
+      "tone": 2,
+      "meaning": "caw",
+      "story": "The mouth takes the shape of caw, asking \"Gah? What doing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1635,
+      "character": "域",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "domain",
+      "story": "Like soil, this character means domain and shouts \"Yoo!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1636,
+      "character": "栽",
+      "pinyin": "zāi",
+      "tone": 1,
+      "meaning": "sow",
+      "story": "The strokes unite to show sow, singing \"Dzigh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1637,
+      "character": "戚",
+      "pinyin": "qī",
+      "tone": 1,
+      "meaning": "kin",
+      "story": "Picture kin taking form - it sings \"Chee!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1638,
+      "character": "蔑",
+      "pinyin": "miè",
+      "tone": 4,
+      "meaning": "despise",
+      "story": "The strokes unite to show despise, shouting \"Myeh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1639,
+      "character": "喊",
+      "pinyin": "hǎn",
+      "tone": 3,
+      "meaning": "yell",
+      "story": "The mouth stands for yell, shouting \"Hahn\" sharply spoken through parted lips!",
+      "primitives": []
+    }
+  ]
+}

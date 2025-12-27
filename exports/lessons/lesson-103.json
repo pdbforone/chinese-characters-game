@@ -1,0 +1,242 @@
+{
+  "lesson": 103,
+  "characterCount": 26,
+  "characterList": "哺鋪輔捕敷浦蒲薄簿傅縛郭廓鄙耶爺郊邦綁郵鄧擲廊擁緞刁",
+  "themes": ["water", "body", "family"],
+  "characters": [
+    {
+      "id": 2722,
+      "character": "哺",
+      "pinyin": "bǔ",
+      "tone": 3,
+      "meaning": "breastfeed",
+      "story": "See how the mouth forms breastfeed? It whispers \"Bǔ!\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2723,
+      "character": "鋪",
+      "pinyin": "pù",
+      "tone": 4,
+      "meaning": "shop",
+      "story": "\"POO!\" the metal sign commands sharply outside the shop - a store spreading goods for sale!",
+      "primitives": []
+    },
+    {
+      "id": 2724,
+      "character": "輔",
+      "pinyin": "fǔ",
+      "tone": 3,
+      "meaning": "supplement",
+      "story": "This character represents supplement, whispering \"Fǔ!\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2725,
+      "character": "捕",
+      "pinyin": "bǔ",
+      "tone": 3,
+      "meaning": "capture",
+      "story": "The detective's fingers bend down drooping as he captures the thief - trying to catch and seize him!",
+      "primitives": []
+    },
+    {
+      "id": 2726,
+      "character": "敷",
+      "pinyin": "fū",
+      "tone": 1,
+      "meaning": "apply",
+      "story": "An striking symbol for apply that sings \"FOO!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2727,
+      "character": "浦",
+      "pinyin": "pǔ",
+      "tone": 3,
+      "meaning": "river mouth",
+      "story": "Picture a river beside a mouth: that's river mouth, whispering \"Pǔ!\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2728,
+      "character": "蒲",
+      "pinyin": "pú",
+      "tone": 2,
+      "meaning": "cattail",
+      "story": "\"POO?\" the flower at the river mouth questions curiously - is this a cattail, a reed plant growing in marshes?",
+      "primitives": []
+    },
+    {
+      "id": 2729,
+      "character": "薄",
+      "pinyin": "bó",
+      "tone": 2,
+      "meaning": "slight",
+      "story": "\"BWOH?\" the flowers question curiously - is the fabric slight, thin, and weak?",
+      "primitives": []
+    },
+    {
+      "id": 2730,
+      "character": "簿",
+      "pinyin": "bù",
+      "tone": 4,
+      "meaning": "register",
+      "story": "\"BOO!\" the bamboo commands sharply - write in the register, the ledger and notebook for records!",
+      "primitives": []
+    },
+    {
+      "id": 2731,
+      "character": "傅",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "mentor",
+      "story": "\"FOO!\" the master craftsman commands sharply - a mentor with the gummed label teaching his driver!",
+      "primitives": []
+    },
+    {
+      "id": 2732,
+      "character": "縛",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "bind fast",
+      "story": "\"FOO?\" the thread questions curiously - should we bind fast with the net, tying up the immortals?",
+      "primitives": []
+    },
+    {
+      "id": 2733,
+      "character": "郭",
+      "pinyin": "guō",
+      "tone": 1,
+      "meaning": "outer walls",
+      "story": "\"GWOH!\" the city walls sing cheerfully outside - the outer walls surrounding the city, for the surname Guo!",
+      "primitives": []
+    },
+    {
+      "id": 2734,
+      "character": "廓",
+      "pinyin": "kuò",
+      "tone": 4,
+      "meaning": "limitless",
+      "story": "\"KWOH!\" the cave and outer walls command sharply - limitless, vast, and boundless space!",
+      "primitives": []
+    },
+    {
+      "id": 2735,
+      "character": "鄙",
+      "pinyin": "bǐ",
+      "tone": 3,
+      "meaning": "despicable",
+      "story": "The city walls bend down drooping - despicable, contemptible, and vulgar behavior in the town.",
+      "primitives": []
+    },
+    {
+      "id": 2736,
+      "character": "耶",
+      "pinyin": "yē",
+      "tone": 1,
+      "meaning": "Jerusalem",
+      "story": "A striking symbol for jerusalem that sings \"YEH!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2737,
+      "character": "爺",
+      "pinyin": "yé",
+      "tone": 2,
+      "meaning": "grandfather",
+      "story": "\"YEH?\" he questions curiously - is that grandfather, grandpa, or an old man?",
+      "primitives": []
+    },
+    {
+      "id": 2738,
+      "character": "郊",
+      "pinyin": "jiāo",
+      "tone": 1,
+      "meaning": "outskirts",
+      "story": "\"JYAO!\" the city walls sing cheerfully - the outskirts, the suburbs where we do boxing training!",
+      "primitives": []
+    },
+    {
+      "id": 2739,
+      "character": "邦",
+      "pinyin": "bāng",
+      "tone": 1,
+      "meaning": "nation",
+      "story": "\"BAHNG!\" the city walls sing cheerfully - a nation, a country, a state!",
+      "primitives": []
+    },
+    {
+      "id": 2740,
+      "character": "綁",
+      "pinyin": "bǎng",
+      "tone": 3,
+      "meaning": "truss",
+      "story": "The thread stands for truss, whispering \"Bǎng!\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2741,
+      "character": "郵",
+      "pinyin": "yóu",
+      "tone": 2,
+      "meaning": "post",
+      "story": "\"YOH?\" the city walls question curiously - where's the post office to mail and deliver letters?",
+      "primitives": []
+    },
+    {
+      "id": 2742,
+      "character": "鄧",
+      "pinyin": "dèng",
+      "tone": 4,
+      "meaning": "Deng",
+      "story": "\"DUNG!\" the stepladder by the city walls commands sharply - the surname Deng, like Deng Xiaoping!",
+      "primitives": []
+    },
+    {
+      "id": 2743,
+      "character": "擲",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "hurl",
+      "story": "\"JIH!\" the fingers command sharply as they hurl the ball - throwing and casting it far!",
+      "primitives": []
+    },
+    {
+      "id": 2744,
+      "character": "廊",
+      "pinyin": "láng",
+      "tone": 2,
+      "meaning": "hallway",
+      "story": "\"LAHNG?\" the cave questions curiously - is this a hallway, a corridor, a passage?",
+      "primitives": []
+    },
+    {
+      "id": 2745,
+      "character": "擁",
+      "pinyin": "yōng",
+      "tone": 1,
+      "meaning": "hug",
+      "story": "\"YUNG!\" the fingers sing cheerfully to hug, embrace, and hold tight!",
+      "primitives": []
+    },
+    {
+      "id": 2746,
+      "character": "緞",
+      "pinyin": "duàn",
+      "tone": 4,
+      "meaning": "satin",
+      "story": "\"DWAN!\" the thread commands sharply - satin, silk ribbon for her hair!",
+      "primitives": []
+    },
+    {
+      "id": 2747,
+      "character": "刁",
+      "pinyin": "diāo",
+      "tone": 1,
+      "meaning": "wily",
+      "story": "\"DYAO!\" the clothes hanger drops and sings cheerfully - wily, cunning, and difficult!",
+      "primitives": []
+    }
+  ]
+}

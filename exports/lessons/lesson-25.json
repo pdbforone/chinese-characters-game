@@ -1,0 +1,242 @@
+{
+  "lesson": 25,
+  "characterCount": 26,
+  "characterList": "禾程和移秋愁利香季委秀透誘歷米迷謎類竹笑箱筆等算答策",
+  "themes": ["action", "family"],
+  "characters": [
+    {
+      "id": 710,
+      "character": "禾",
+      "pinyin": "hé",
+      "tone": 2,
+      "meaning": "Standing Grain",
+      "story": "Picture standing grain taking form - it asks \"Huh? Harvest?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 711,
+      "character": "程",
+      "pinyin": "chéng",
+      "tone": 2,
+      "meaning": "Journey",
+      "story": "The strokes unite to show journey, asking \"Cheng? How far?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 712,
+      "character": "和",
+      "pinyin": "hé",
+      "tone": 2,
+      "meaning": "Harmony",
+      "story": "The mouth takes the shape of harmony, asking \"Huh? Peace?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 713,
+      "character": "移",
+      "pinyin": "yí",
+      "tone": 2,
+      "meaning": "to shift",
+      "story": "\"Yi, are we moving?\" The grain questioned as many bundles began to shift.",
+      "primitives": []
+    },
+    {
+      "id": 714,
+      "character": "秋",
+      "pinyin": "qiū",
+      "tone": 1,
+      "meaning": "Autumn",
+      "story": "The fire stands for autumn, singing \"Chyo!\" cheerfully with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 715,
+      "character": "愁",
+      "pinyin": "chóu",
+      "tone": 2,
+      "meaning": "gloomy",
+      "story": "The heart takes the shape of gloomy, asking \"Cho? Sad?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 716,
+      "character": "利",
+      "pinyin": "lì",
+      "tone": 4,
+      "meaning": "a Profit",
+      "story": "The knife takes the shape of a profit, shouting \"Lee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 717,
+      "character": "香",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "meaning": "Perfume",
+      "story": "Like a sun, this character means perfume and sings \"Shyang!\"!",
+      "primitives": []
+    },
+    {
+      "id": 718,
+      "character": "季",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "Seasons",
+      "story": "This character represents seasons, shouting \"Ji!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 719,
+      "character": "委",
+      "pinyin": "wěi",
+      "tone": 3,
+      "meaning": "Committee",
+      "story": "This character represents committee, whispering \"Way\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 720,
+      "character": "秀",
+      "pinyin": "xiù",
+      "tone": 4,
+      "meaning": "elegant",
+      "story": "This character represents elegant, shouting \"Shyo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 721,
+      "character": "透",
+      "pinyin": "tòu",
+      "tone": 4,
+      "meaning": "to penetrate",
+      "story": "Picture to penetrate taking form - it shouts \"Toe!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 722,
+      "character": "誘",
+      "pinyin": "yòu",
+      "tone": 4,
+      "meaning": "to entice",
+      "story": "\"Yo!\" Penetrating words enticed sharply, commanding temptation.",
+      "primitives": []
+    },
+    {
+      "id": 723,
+      "character": "歷",
+      "pinyin": "lì",
+      "tone": 4,
+      "meaning": "Experience",
+      "story": "This character represents experience, shouting \"Lee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 724,
+      "character": "米",
+      "pinyin": "mǐ",
+      "tone": 3,
+      "meaning": "Rice",
+      "story": "A striking symbol for rice that whispers \"Mee\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 725,
+      "character": "迷",
+      "pinyin": "mí",
+      "tone": 2,
+      "meaning": "lost",
+      "story": "This character represents lost, asking \"Mee? Where am I?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 726,
+      "character": "謎",
+      "pinyin": "mí",
+      "tone": 2,
+      "meaning": "Riddle",
+      "story": "The strokes unite to show riddle, asking \"Mee? What answer?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 727,
+      "character": "類",
+      "pinyin": "lèi",
+      "tone": 4,
+      "meaning": "the Kind",
+      "story": "This character represents the kind, shouting \"Lay!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 728,
+      "character": "竹",
+      "pinyin": "zhú",
+      "tone": 2,
+      "meaning": "Bamboo",
+      "story": "The bamboo stands for bamboo, asking \"Zhoo? Growing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 729,
+      "character": "笑",
+      "pinyin": "xiào",
+      "tone": 4,
+      "meaning": "to laugh",
+      "story": "\"Shyao!\" The young bamboo laughed sharply, giggling with joy.",
+      "primitives": []
+    },
+    {
+      "id": 730,
+      "character": "箱",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "meaning": "Box",
+      "story": "With bamboo combined with a box, you get box - \"Shyang!\" rings out cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 731,
+      "character": "筆",
+      "pinyin": "bǐ",
+      "tone": 3,
+      "meaning": "Pen",
+      "story": "Picture bamboo beside a hand: that's pen, whispering \"Bee\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 732,
+      "character": "等",
+      "pinyin": "děng",
+      "tone": 3,
+      "meaning": "etc.",
+      "story": "See how the bamboo forms etc.? It whispers \"Dung\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 733,
+      "character": "算",
+      "pinyin": "suàn",
+      "tone": 4,
+      "meaning": "to calculate",
+      "story": "\"Swan!\" Bamboo eyes calculated sharply, computing the answer.",
+      "primitives": []
+    },
+    {
+      "id": 734,
+      "character": "答",
+      "pinyin": "dá",
+      "tone": 2,
+      "meaning": "to answer",
+      "story": "\"Da, should I reply?\" The bamboo questioned how to fit an answer.",
+      "primitives": []
+    },
+    {
+      "id": 735,
+      "character": "策",
+      "pinyin": "cè",
+      "tone": 4,
+      "meaning": "Strategy",
+      "story": "When the tree meets the bamboo, they form strategy, shouting \"Tsuh!\" sharply!",
+      "primitives": []
+    }
+  ]
+}

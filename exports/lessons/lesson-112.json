@@ -1,0 +1,323 @@
+{
+  "lesson": 112,
+  "characterCount": 35,
+  "characterList": "劉潘梁沈鄭譚姚魯姜范薛涂彭郁馮魏岳彿莉湘甸滄穆娜瓊琳鈞喲砲蒐芙蓉Biang踐趙",
+  "themes": [],
+  "characters": [
+    {
+      "id": 3001,
+      "character": "劉",
+      "pinyin": "liú",
+      "tone": 2,
+      "meaning": "Liu",
+      "story": "Picture liu taking form - it asks \"LYOH?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 3002,
+      "character": "潘",
+      "pinyin": "pān",
+      "tone": 1,
+      "meaning": "Pan",
+      "story": "Like water, this character means pan and sings \"PAN!\" like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 3003,
+      "character": "梁",
+      "pinyin": "liáng",
+      "tone": 2,
+      "meaning": "Liang",
+      "story": "\"LYAHNG?\" the water, blade, drop and tree question curiously - was Liang Qichao good or bad?",
+      "primitives": []
+    },
+    {
+      "id": 3004,
+      "character": "沈",
+      "pinyin": "shěn",
+      "tone": 3,
+      "meaning": "Shen",
+      "story": "The water takes the shape of shen, whispering \"Shěn!\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 3005,
+      "character": "鄭",
+      "pinyin": "zhèng",
+      "tone": 4,
+      "meaning": "Zheng",
+      "story": "\"JUNG!\" the city walls command sharply - the surname Zheng!",
+      "primitives": []
+    },
+    {
+      "id": 3006,
+      "character": "譚",
+      "pinyin": "tán",
+      "tone": 2,
+      "meaning": "Tam",
+      "story": "\"TAN?\" the words question curiously - the surname Tam?",
+      "primitives": []
+    },
+    {
+      "id": 3007,
+      "character": "姚",
+      "pinyin": "yáo",
+      "tone": 2,
+      "meaning": "Yao",
+      "story": "The strokes unite to show yao, asking \"YAO?\" curiously - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 3008,
+      "character": "魯",
+      "pinyin": "lǔ",
+      "tone": 3,
+      "meaning": "Lu",
+      "story": "Picture lu taking form - it whispers \"Lǔ!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 3009,
+      "character": "姜",
+      "pinyin": "jiāng",
+      "tone": 1,
+      "meaning": "Jiang",
+      "story": "The strokes unite to show jiang, singing \"JYAHNG!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 3010,
+      "character": "范",
+      "pinyin": "fàn",
+      "tone": 4,
+      "meaning": "Fan",
+      "story": "A striking symbol for fan that shouts \"FAN!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 3011,
+      "character": "薛",
+      "pinyin": "xuē",
+      "tone": 1,
+      "meaning": "Xue",
+      "story": "\"SHWEH!\" the flowers sing cheerfully - the surname Xue!",
+      "primitives": []
+    },
+    {
+      "id": 3012,
+      "character": "涂",
+      "pinyin": "tú",
+      "tone": 2,
+      "meaning": "Tu",
+      "story": "The water takes the shape of tu, asking \"TOO?\" curiously like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 3013,
+      "character": "彭",
+      "pinyin": "péng",
+      "tone": 2,
+      "meaning": "Peng",
+      "story": "The strokes unite to show peng, asking \"PUNG?\" curiously - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 3014,
+      "character": "郁",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "Yu",
+      "story": "\"YOO!\" the city walls command sharply - the surname Yu!",
+      "primitives": []
+    },
+    {
+      "id": 3015,
+      "character": "馮",
+      "pinyin": "féng",
+      "tone": 2,
+      "meaning": "Feng",
+      "story": "The strokes unite to show feng, asking \"FUNG?\" curiously - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 3016,
+      "character": "魏",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "Wei",
+      "story": "Picture wei taking form - it shouts \"WAY!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 3017,
+      "character": "岳",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "Yue",
+      "story": "Like a mountain, this character means yue and shouts \"YWEH!\"!",
+      "primitives": []
+    },
+    {
+      "id": 3018,
+      "character": "彿",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "as though",
+      "story": "This character represents as though, asking \"FOO?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 3019,
+      "character": "莉",
+      "pinyin": "lì",
+      "tone": 4,
+      "meaning": "jasmine",
+      "story": "Picture jasmine taking form - it shouts \"LEE!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 3020,
+      "character": "湘",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "meaning": "Hunan",
+      "story": "\"SHYAHNG!\" the water sings cheerfully through Hunan Province!",
+      "primitives": []
+    },
+    {
+      "id": 3021,
+      "character": "甸",
+      "pinyin": "diàn",
+      "tone": 4,
+      "meaning": "outlying areas",
+      "story": "\"DYEN!\" the field commands sharply across the outlying areas of the province!",
+      "primitives": []
+    },
+    {
+      "id": 3022,
+      "character": "滄",
+      "pinyin": "cāng",
+      "tone": 1,
+      "meaning": "dark blue",
+      "story": "\"TSAHNG!\" the water sings cheerfully in dark blue waves across the sea!",
+      "primitives": []
+    },
+    {
+      "id": 3023,
+      "character": "穆",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "reverent",
+      "story": "\"MOO!\" the grain commands sharply with reverent respect in the solemn ceremony!",
+      "primitives": []
+    },
+    {
+      "id": 3024,
+      "character": "娜",
+      "pinyin": "ná",
+      "tone": 2,
+      "meaning": "na",
+      "story": "\"NAH?\" the woman questions curiously - is her name Anna or Diana?",
+      "primitives": []
+    },
+    {
+      "id": 3025,
+      "character": "瓊",
+      "pinyin": "qióng",
+      "tone": 2,
+      "meaning": "fine jade",
+      "story": "\"CHYUNG?\" the jewel questions curiously - is this fine jade or green jade?",
+      "primitives": []
+    },
+    {
+      "id": 3026,
+      "character": "琳",
+      "pinyin": "lín",
+      "tone": 2,
+      "meaning": "gem",
+      "story": "\"LIN?\" the jewel questions curiously - a beautiful gem often used in girls' names.",
+      "primitives": []
+    },
+    {
+      "id": 3027,
+      "character": "鈞",
+      "pinyin": "jūn",
+      "tone": 1,
+      "meaning": "30 catties",
+      "story": "\"JYOON!\" the metal sings cheerfully - thirty catties, about 15 kg, often in boys' names!",
+      "primitives": []
+    },
+    {
+      "id": 3028,
+      "character": "喲",
+      "pinyin": "yo",
+      "tone": 5,
+      "meaning": "Oh",
+      "story": "\"YOH,\" the mouth says neutrally - Oh! Like \"yo!\" between teens!",
+      "primitives": []
+    },
+    {
+      "id": 3029,
+      "character": "砲",
+      "pinyin": "pào",
+      "tone": 4,
+      "meaning": "cannon",
+      "story": "\"PAO!\" the stone commands sharply - a cannon firing artillery!",
+      "primitives": []
+    },
+    {
+      "id": 3030,
+      "character": "蒐",
+      "pinyin": "sōu",
+      "tone": 1,
+      "meaning": "search for",
+      "story": "\"SOH!\" the flowers sing cheerfully as we search for them - to seek and find!",
+      "primitives": []
+    },
+    {
+      "id": 3031,
+      "character": "芙",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "hibiscus (A)",
+      "story": "\"FOO?\" the flower questions curiously - hibiscus, the first part, like a lotus flower.",
+      "primitives": []
+    },
+    {
+      "id": 3032,
+      "character": "蓉",
+      "pinyin": "róng",
+      "tone": 2,
+      "meaning": "hibiscus (B)",
+      "story": "\"RUNG?\" the flower questions curiously - hibiscus, the second part, cottonrose bloom!",
+      "primitives": []
+    },
+    {
+      "id": 3033,
+      "character": "Biang",
+      "pinyin": "biáng",
+      "tone": 2,
+      "meaning": "Biang",
+      "story": "The heart takes the shape of biang, asking \"Byahng?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 3034,
+      "character": "踐",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "tread on",
+      "story": "The leg takes the shape of tread on, shouting \"Jyen!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 3035,
+      "character": "趙",
+      "pinyin": "zhào",
+      "tone": 4,
+      "meaning": "Zhao",
+      "story": "\"JAO!\" he commands sharply when introducing himself - the surname Zhao, like from the ancient dynasty!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "lesson": 80,
+  "characterCount": 49,
+  "characterList": "銜禿頹秒稍穌蘇萎黏黎漆膝稠稿穎稅稼菌稚穫私秩殼穀鍬揪梨犁曆糕糊粘糧菊糙粒燦粉瞇幣斃蔽撇弊筍筒築笨箭",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1941,
+      "character": "銜",
+      "pinyin": "xián",
+      "tone": 2,
+      "meaning": "title",
+      "story": "When the mouth meets the metal, they form title, asking \"Shyan? Rank?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1942,
+      "character": "禿",
+      "pinyin": "tū",
+      "tone": 1,
+      "meaning": "bald",
+      "story": "A striking symbol for bald that sings \"Too!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1943,
+      "character": "頹",
+      "pinyin": "tuí",
+      "tone": 2,
+      "meaning": "decrepit",
+      "story": "A striking symbol for decrepit that asks \"Tway? Decayed?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1944,
+      "character": "秒",
+      "pinyin": "miǎo",
+      "tone": 3,
+      "meaning": "seconds",
+      "story": "This character represents seconds, whispering \"Myao\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1945,
+      "character": "稍",
+      "pinyin": "shāo",
+      "tone": 1,
+      "meaning": "a little",
+      "story": "The strokes unite to show a little, singing \"Shao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1946,
+      "character": "穌",
+      "pinyin": "sū",
+      "tone": 1,
+      "meaning": "rise again",
+      "story": "This character represents rise again, singing \"Soo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1947,
+      "character": "蘇",
+      "pinyin": "sū",
+      "tone": 1,
+      "meaning": "revive",
+      "story": "The strokes unite to show revive, singing \"Soo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1948,
+      "character": "萎",
+      "pinyin": "wēi",
+      "tone": 1,
+      "meaning": "wilt",
+      "story": "Picture wilt taking form - it sings \"Way!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1949,
+      "character": "黏",
+      "pinyin": "nián",
+      "tone": 2,
+      "meaning": "sticky",
+      "story": "\"Nyan, is it adhesive?\" Rumpelbrella questioned fortune-telling curiously - sticky and gluey!",
+      "primitives": []
+    },
+    {
+      "id": 1950,
+      "character": "黎",
+      "pinyin": "lí",
+      "tone": 2,
+      "meaning": "host",
+      "story": "The people takes the shape of host, asking \"Lee? Masses?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1951,
+      "character": "漆",
+      "pinyin": "qī",
+      "tone": 1,
+      "meaning": "wall paint",
+      "story": "Picture a wall beside water: that's wall paint, singing \"Chee!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1952,
+      "character": "膝",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "knees",
+      "story": "The leg stands for knees, singing \"Shee!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1953,
+      "character": "稠",
+      "pinyin": "chóu",
+      "tone": 2,
+      "meaning": "dense",
+      "story": "\"Choh, is it thick?\" Wild rice questioned the lap curiously - dense and concentrated!",
+      "primitives": []
+    },
+    {
+      "id": 1954,
+      "character": "稿",
+      "pinyin": "gǎo",
+      "tone": 3,
+      "meaning": "draft",
+      "story": "This character represents draft, whispering \"Gao\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1955,
+      "character": "穎",
+      "pinyin": "yǐng",
+      "tone": 3,
+      "meaning": "clever",
+      "story": "Picture clever taking form - it whispers \"Ying\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1956,
+      "character": "稅",
+      "pinyin": "shuì",
+      "tone": 4,
+      "meaning": "tax",
+      "story": "\"Shway!\" Wild rice exchanged sharply - tax, levy and duty!",
+      "primitives": []
+    },
+    {
+      "id": 1957,
+      "character": "稼",
+      "pinyin": "jià",
+      "tone": 4,
+      "meaning": "crops",
+      "story": "\"Jyah!\" Wild rice housed sharply - crops, grain and plants!",
+      "primitives": []
+    },
+    {
+      "id": 1958,
+      "character": "菌",
+      "pinyin": "jūn",
+      "tone": 1,
+      "meaning": "fungus",
+      "story": "This character represents fungus, singing \"Jyoon!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1959,
+      "character": "稚",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "immature",
+      "story": "\"Jir!\" Young wild rice commanded sharply - immature, childish and naive!",
+      "primitives": []
+    },
+    {
+      "id": 1960,
+      "character": "穫",
+      "pinyin": "huò",
+      "tone": 4,
+      "meaning": "harvest",
+      "story": "This character represents harvest, shouting \"Hwoh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1961,
+      "character": "私",
+      "pinyin": "sī",
+      "tone": 1,
+      "meaning": "private",
+      "story": "The strokes unite to show private, singing \"Suh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1962,
+      "character": "秩",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "order",
+      "story": "\"Jir!\" Wild rice lost its sharp command - order, in sequence with peace!",
+      "primitives": []
+    },
+    {
+      "id": 1963,
+      "character": "殼",
+      "pinyin": "ké",
+      "tone": 2,
+      "meaning": "shell",
+      "story": "See how the shell forms shell? It sings \"Kuh? Husk?\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1964,
+      "character": "穀",
+      "pinyin": "gǔ",
+      "tone": 3,
+      "meaning": "cereal",
+      "story": "The strokes unite to show cereal, whispering \"Goo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1965,
+      "character": "鍬",
+      "pinyin": "qiāo",
+      "tone": 1,
+      "meaning": "shovel",
+      "story": "Like metal, this character means shovel and sings \"Chyao!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1966,
+      "character": "揪",
+      "pinyin": "jiū",
+      "tone": 1,
+      "meaning": "hold tight",
+      "story": "\"Jyoh!\" Fingers held autumn cheerfully - grasp tight, clutching the collar!",
+      "primitives": []
+    },
+    {
+      "id": 1967,
+      "character": "梨",
+      "pinyin": "lí",
+      "tone": 2,
+      "meaning": "pear",
+      "story": "The tree takes the shape of pear, asking \"Lee? Fruit?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1968,
+      "character": "犁",
+      "pinyin": "lí",
+      "tone": 2,
+      "meaning": "plow",
+      "story": "This character represents plow, asking \"Lee? Till?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1969,
+      "character": "曆",
+      "pinyin": "lì",
+      "tone": 4,
+      "meaning": "calendar",
+      "story": "The sun stands for calendar, shouting \"Lee!\" sharply as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 1970,
+      "character": "糕",
+      "pinyin": "gāo",
+      "tone": 1,
+      "meaning": "cake",
+      "story": "The strokes unite to show cake, singing \"Gao!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1971,
+      "character": "糊",
+      "pinyin": "hú",
+      "tone": 2,
+      "meaning": "batter",
+      "story": "This character represents batter, asking \"Hoo? Mix?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1972,
+      "character": "粘",
+      "pinyin": "nián",
+      "tone": 2,
+      "meaning": "glue",
+      "story": "The stick stands for glue, asking \"Nyan? Stick?\" curiously - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1973,
+      "character": "糧",
+      "pinyin": "liáng",
+      "tone": 2,
+      "meaning": "provisions",
+      "story": "Picture provisions taking form - it asks \"Lyahng? Food?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1974,
+      "character": "菊",
+      "pinyin": "jú",
+      "tone": 2,
+      "meaning": "chrysanthemum",
+      "story": "A striking symbol for chrysanthemum that asks \"Jyoo? Bloom?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1975,
+      "character": "糙",
+      "pinyin": "cāo",
+      "tone": 1,
+      "meaning": "rough",
+      "story": "This character represents rough, singing \"Tsao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1976,
+      "character": "粒",
+      "pinyin": "lì",
+      "tone": 4,
+      "meaning": "grain",
+      "story": "Picture grain taking form - it shouts \"Lee!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1977,
+      "character": "燦",
+      "pinyin": "càn",
+      "tone": 4,
+      "meaning": "brilliant",
+      "story": "See how the fire forms brilliant? It shouts \"Tsahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1978,
+      "character": "粉",
+      "pinyin": "fěn",
+      "tone": 3,
+      "meaning": "powder",
+      "story": "This character represents powder, whispering \"Fun\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1979,
+      "character": "瞇",
+      "pinyin": "mī",
+      "tone": 1,
+      "meaning": "squint",
+      "story": "Like an eye, this character means squint and sings \"Mee!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1980,
+      "character": "幣",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "currency",
+      "story": "The strokes unite to show currency, shouting \"Bee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1981,
+      "character": "斃",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "die a violent death",
+      "story": "This character represents die a violent death, shouting \"Bee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1982,
+      "character": "蔽",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "shelter",
+      "story": "The shelter takes the shape of shelter, shouting \"Bee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1983,
+      "character": "撇",
+      "pinyin": "piē",
+      "tone": 1,
+      "meaning": "cast aside",
+      "story": "\"Pyeh!\" The hand separated cheerfully - cast aside, abandon while left-handed!",
+      "primitives": []
+    },
+    {
+      "id": 1984,
+      "character": "弊",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "fraud",
+      "story": "Picture fraud taking form - it shouts \"Bee!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1985,
+      "character": "筍",
+      "pinyin": "sǔn",
+      "tone": 3,
+      "meaning": "bamboo shoot",
+      "story": "See how the bamboo forms bamboo shoot? It whispers \"Swun\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1986,
+      "character": "筒",
+      "pinyin": "tǒng",
+      "tone": 3,
+      "meaning": "tube",
+      "story": "The bamboo takes the shape of tube, whispering \"Tohng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1987,
+      "character": "築",
+      "pinyin": "zhú",
+      "tone": 2,
+      "meaning": "construct",
+      "story": "With a tree combined with bamboo, you get construct - \"Joo? Build?\" rings out curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1988,
+      "character": "笨",
+      "pinyin": "bèn",
+      "tone": 4,
+      "meaning": "stupid",
+      "story": "Like bamboo, this character means stupid and shouts \"Bun!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1989,
+      "character": "箭",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "arrow",
+      "story": "\"Jyan!\" Bamboo in front commanded sharply - an arrow, projectile to shoot!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "lesson": 18,
+  "characterCount": 72,
+  "characterList": "衣裡哀袁遠壞初巾布帽幕棉幫市肺帶滯刺制製云雨雲雷電霜冰冬天夭喬橋嬌立泣站章競帝童鐘商適敵匕北背比昆混皆此些它旨脂每梅海乞吃乾複腹欠吹歌軟次資姿諮",
+  "themes": ["fire", "numbers", "action", "family"],
+  "characters": [
+    {
+      "id": 375,
+      "character": "衣",
+      "pinyin": "yī",
+      "tone": 1,
+      "meaning": "Clothing",
+      "story": "This character represents clothing, singing \"Yee!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 376,
+      "character": "裡",
+      "pinyin": "lǐ",
+      "tone": 3,
+      "meaning": "inside",
+      "story": "The strokes unite to show inside, whispering \"Lee\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 377,
+      "character": "哀",
+      "pinyin": "āi",
+      "tone": 1,
+      "meaning": "Grief",
+      "story": "When the mouth meets the eye, they form grief, singing \"Eye!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 378,
+      "character": "袁",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "Yuan",
+      "story": "A striking symbol for yuan that asks \"Yuan? Who's that?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 379,
+      "character": "遠",
+      "pinyin": "yuǎn",
+      "tone": 3,
+      "meaning": "distant",
+      "story": "A striking symbol for distant that whispers \"Yuan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 380,
+      "character": "壞",
+      "pinyin": "huài",
+      "tone": 4,
+      "meaning": "bad",
+      "story": "Like earth, this character means bad and shouts \"Hwai!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 381,
+      "character": "初",
+      "pinyin": "chū",
+      "tone": 1,
+      "meaning": "elementary",
+      "story": "The knife stands for elementary, singing \"Choo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 382,
+      "character": "巾",
+      "pinyin": "jīn",
+      "tone": 1,
+      "meaning": "Towel",
+      "story": "A towel hangs cheerfully singing \"Jeen!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 383,
+      "character": "布",
+      "pinyin": "bù",
+      "tone": 4,
+      "meaning": "Cloth",
+      "story": "Picture cloth taking form - it shouts \"Boo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 384,
+      "character": "帽",
+      "pinyin": "mào",
+      "tone": 4,
+      "meaning": "Hat",
+      "story": "The eye stands for hat, shouting \"Mao!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 385,
+      "character": "幕",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "Curtain",
+      "story": "A curtain towel nobody yells \"Moo!\" sharply hanging!",
+      "primitives": []
+    },
+    {
+      "id": 386,
+      "character": "棉",
+      "pinyin": "mián",
+      "tone": 2,
+      "meaning": "Cotton",
+      "story": "The tree stands for cotton, asking \"Mian? Is it soft?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 387,
+      "character": "幫",
+      "pinyin": "bāng",
+      "tone": 1,
+      "meaning": "to help",
+      "story": "\"Bang!\" The towel and city sang cheerfully, helping to assist.",
+      "primitives": []
+    },
+    {
+      "id": 388,
+      "character": "市",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Market",
+      "story": "This character represents market, shouting \"Shi!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 389,
+      "character": "肺",
+      "pinyin": "fèi",
+      "tone": 4,
+      "meaning": "Lungs",
+      "story": "A striking symbol for lungs that shouts \"Fay!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 390,
+      "character": "帶",
+      "pinyin": "dài",
+      "tone": 4,
+      "meaning": "Sash",
+      "story": "Picture sash taking form - it shouts \"Dai!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 391,
+      "character": "滯",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "stagnant",
+      "story": "The water takes the shape of stagnant, shouting \"Zhi!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 392,
+      "character": "刺",
+      "pinyin": "cì",
+      "tone": 4,
+      "meaning": "Thorn",
+      "story": "The tree takes the shape of thorn, shouting \"Tsih!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 393,
+      "character": "制",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "System",
+      "story": "The knife takes the shape of system, shouting \"Zhi!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 394,
+      "character": "製",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "to manufacture",
+      "story": "Picture to manufacture taking form - it shouts \"Zhi!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 395,
+      "character": "云",
+      "pinyin": "yún",
+      "tone": 2,
+      "meaning": "to utter",
+      "story": "\"Yun, what did you say?\" Two clouds questioned the utterance.",
+      "primitives": []
+    },
+    {
+      "id": 396,
+      "character": "雨",
+      "pinyin": "yǔ",
+      "tone": 3,
+      "meaning": "the Rain",
+      "story": "See how the rain forms the rain? It whispers \"Yu\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 397,
+      "character": "雲",
+      "pinyin": "yún",
+      "tone": 2,
+      "meaning": "Cloud",
+      "story": "A cloud rain uttering questions \"Yun? Why float?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 398,
+      "character": "雷",
+      "pinyin": "léi",
+      "tone": 2,
+      "meaning": "Thunder",
+      "story": "With a field combined with rain, you get thunder - \"Lay? Why boom?\" rings out curiously!",
+      "primitives": []
+    },
+    {
+      "id": 399,
+      "character": "電",
+      "pinyin": "diàn",
+      "tone": 4,
+      "meaning": "Electricity",
+      "story": "The rain takes the shape of electricity, shouting \"Dian!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 400,
+      "character": "霜",
+      "pinyin": "shuāng",
+      "tone": 1,
+      "meaning": "Frost",
+      "story": "The tree and rain unite to create frost, singing \"Shwang!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 401,
+      "character": "冰",
+      "pinyin": "bīng",
+      "tone": 1,
+      "meaning": "Ice",
+      "story": "Like water, this character means ice and sings \"Bing!\" like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 402,
+      "character": "冬",
+      "pinyin": "dōng",
+      "tone": 1,
+      "meaning": "Winter",
+      "story": "The strokes unite to show winter, singing \"Dong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 403,
+      "character": "天",
+      "pinyin": "tiān",
+      "tone": 1,
+      "meaning": "Heavens",
+      "story": "\"Tian!\" Heaven stretched high above, where the big person sang happily.",
+      "primitives": []
+    },
+    {
+      "id": 404,
+      "character": "夭",
+      "pinyin": "yāo",
+      "tone": 1,
+      "meaning": "to die young",
+      "story": "Picture to die young taking form - it sings \"Yao!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 405,
+      "character": "喬",
+      "pinyin": "qiáo",
+      "tone": 2,
+      "meaning": "to pretend",
+      "story": "\"Chiao, is it really that high?\" he questioned, pretending to reach tall heaven.",
+      "primitives": []
+    },
+    {
+      "id": 406,
+      "character": "橋",
+      "pinyin": "qiáo",
+      "tone": 2,
+      "meaning": "Bridge",
+      "story": "A bridge tree pretend questions \"Chiao? Can it cross?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 407,
+      "character": "嬌",
+      "pinyin": "jiāo",
+      "tone": 1,
+      "meaning": "attractive",
+      "story": "The attractive woman sang \"Jiao!\" charmingly while pretending to be coy.",
+      "primitives": []
+    },
+    {
+      "id": 408,
+      "character": "立",
+      "pinyin": "lì",
+      "tone": 4,
+      "meaning": "standing up",
+      "story": "This character represents standing up, shouting \"Lee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 409,
+      "character": "泣",
+      "pinyin": "qì",
+      "tone": 4,
+      "meaning": "to weep",
+      "story": "See how the water forms to weep? It shouts \"Chi!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 410,
+      "character": "站",
+      "pinyin": "zhàn",
+      "tone": 4,
+      "meaning": "Station",
+      "story": "A striking symbol for station that shouts \"Zhan!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 411,
+      "character": "章",
+      "pinyin": "zhāng",
+      "tone": 1,
+      "meaning": "Chapter",
+      "story": "This character represents chapter, singing \"Zhang!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 412,
+      "character": "競",
+      "pinyin": "jìng",
+      "tone": 4,
+      "meaning": "to compete",
+      "story": "\"Jing!\" The brothers commanded sharply, standing together to compete and race.",
+      "primitives": []
+    },
+    {
+      "id": 413,
+      "character": "帝",
+      "pinyin": "dì",
+      "tone": 4,
+      "meaning": "Sovereign",
+      "story": "This character represents sovereign, shouting \"Dee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 414,
+      "character": "童",
+      "pinyin": "tóng",
+      "tone": 2,
+      "meaning": "Juvenile",
+      "story": "A juvenile standing heavy questions \"Tong? Still young?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 415,
+      "character": "鐘",
+      "pinyin": "zhōng",
+      "tone": 1,
+      "meaning": "Bell",
+      "story": "The gold takes the shape of bell, singing \"Zhong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 416,
+      "character": "商",
+      "pinyin": "shāng",
+      "tone": 1,
+      "meaning": "Salesman",
+      "story": "Like a mouth, this character means salesman and sings \"Shang!\"!",
+      "primitives": []
+    },
+    {
+      "id": 417,
+      "character": "適",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "suitable",
+      "story": "The strokes unite to show suitable, shouting \"Shi!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 418,
+      "character": "敵",
+      "pinyin": "dí",
+      "tone": 2,
+      "meaning": "Enemy",
+      "story": "\"Di, want to fight?\" The enemy salesman questioned after being struck.",
+      "primitives": []
+    },
+    {
+      "id": 419,
+      "character": "匕",
+      "pinyin": "bǐ",
+      "tone": 3,
+      "meaning": "Ancient Spoon",
+      "story": "Picture ancient spoon taking form - it whispers \"Bee\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 420,
+      "character": "北",
+      "pinyin": "běi",
+      "tone": 3,
+      "meaning": "North",
+      "story": "The strokes unite to show north, whispering \"Bay\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 421,
+      "character": "背",
+      "pinyin": "bèi",
+      "tone": 4,
+      "meaning": "Back",
+      "story": "Picture back taking form - it shouts \"Bay!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 422,
+      "character": "比",
+      "pinyin": "bǐ",
+      "tone": 3,
+      "meaning": "to compare",
+      "story": "Picture to compare taking form - it whispers \"Bee\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 423,
+      "character": "昆",
+      "pinyin": "kūn",
+      "tone": 1,
+      "meaning": "Descendants",
+      "story": "Like a sun, this character means descendants and sings \"Koon!\"!",
+      "primitives": []
+    },
+    {
+      "id": 424,
+      "character": "混",
+      "pinyin": "hùn",
+      "tone": 4,
+      "meaning": "to mix",
+      "story": "The water stands for to mix, shouting \"Hoon!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 425,
+      "character": "皆",
+      "pinyin": "jiē",
+      "tone": 1,
+      "meaning": "all",
+      "story": "The white stands for all, singing \"Jieh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 426,
+      "character": "此",
+      "pinyin": "cǐ",
+      "tone": 3,
+      "meaning": "this",
+      "story": "A striking symbol for this that whispers \"Tsih\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 427,
+      "character": "些",
+      "pinyin": "xiē",
+      "tone": 1,
+      "meaning": "somewhat",
+      "story": "Picture somewhat taking form - it sings \"Shieh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 428,
+      "character": "它",
+      "pinyin": "tuō",
+      "tone": 1,
+      "meaning": "it",
+      "story": "The roof takes the shape of it, singing \"Twoh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 429,
+      "character": "旨",
+      "pinyin": "zhǐ",
+      "tone": 3,
+      "meaning": "Purpose",
+      "story": "Like a sun, this character means purpose and whispers \"Zhi\"!",
+      "primitives": []
+    },
+    {
+      "id": 430,
+      "character": "脂",
+      "pinyin": "zhī",
+      "tone": 1,
+      "meaning": "Grease",
+      "story": "Picture grease taking form - it sings \"Zhi!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 431,
+      "character": "每",
+      "pinyin": "měi",
+      "tone": 3,
+      "meaning": "every",
+      "story": "This character represents every, whispering \"May\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 432,
+      "character": "梅",
+      "pinyin": "méi",
+      "tone": 2,
+      "meaning": "Small Plum",
+      "story": "\"May they be ripe yet?\" he questioned the small plum trees every day.",
+      "primitives": []
+    },
+    {
+      "id": 433,
+      "character": "海",
+      "pinyin": "hǎi",
+      "tone": 3,
+      "meaning": "Sea",
+      "story": "The water stands for sea, whispering \"Hai\" softly like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 434,
+      "character": "乞",
+      "pinyin": "qǐ",
+      "tone": 3,
+      "meaning": "to beg",
+      "story": "Like a person, this character means to beg and whispers \"Chi\"!",
+      "primitives": []
+    },
+    {
+      "id": 435,
+      "character": "吃",
+      "pinyin": "chī",
+      "tone": 1,
+      "meaning": "to eat",
+      "story": "\"Chi, I'm hungry!\" His mouth begged to eat and consume food.",
+      "primitives": []
+    },
+    {
+      "id": 436,
+      "character": "乾",
+      "pinyin": "gān",
+      "tone": 1,
+      "meaning": "dry",
+      "story": "Picture dry taking form - it sings \"Gan!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 437,
+      "character": "複",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "to duplicate",
+      "story": "\"Foo!\" he commanded, duplicating the dry clothes by repeating the pattern.",
+      "primitives": []
+    },
+    {
+      "id": 438,
+      "character": "腹",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "Abdomen",
+      "story": "This character represents abdomen, shouting \"Foo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 439,
+      "character": "欠",
+      "pinyin": "qiàn",
+      "tone": 4,
+      "meaning": "to lack",
+      "story": "The person takes the shape of to lack, shouting \"Chian!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 440,
+      "character": "吹",
+      "pinyin": "chuī",
+      "tone": 1,
+      "meaning": "to blow",
+      "story": "\"Chway!\" she sang, blowing puffs of air from her mouth for lack of a fan.",
+      "primitives": []
+    },
+    {
+      "id": 441,
+      "character": "歌",
+      "pinyin": "gē",
+      "tone": 1,
+      "meaning": "Song",
+      "story": "The mouth stands for song, singing \"Guh!\" cheerfully spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 442,
+      "character": "軟",
+      "pinyin": "ruǎn",
+      "tone": 3,
+      "meaning": "soft",
+      "story": "A striking symbol for soft that whispers \"Ruan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 443,
+      "character": "次",
+      "pinyin": "cì",
+      "tone": 4,
+      "meaning": "next",
+      "story": "The strokes unite to show next, shouting \"Tsih!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 444,
+      "character": "資",
+      "pinyin": "zī",
+      "tone": 1,
+      "meaning": "Assets",
+      "story": "Like a shellfish, this character means assets and sings \"Zi!\"!",
+      "primitives": []
+    },
+    {
+      "id": 445,
+      "character": "姿",
+      "pinyin": "zī",
+      "tone": 1,
+      "meaning": "Looks",
+      "story": "The strokes unite to show looks, singing \"Zi!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 446,
+      "character": "諮",
+      "pinyin": "zī",
+      "tone": 1,
+      "meaning": "to consult with",
+      "story": "\"Zee, can I ask?\" The words consulted with the next person.",
+      "primitives": []
+    }
+  ]
+}
