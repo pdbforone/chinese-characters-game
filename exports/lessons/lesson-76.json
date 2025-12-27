@@ -1,0 +1,395 @@
+{
+  "lesson": 76,
+  "characterCount": 43,
+  "characterList": "翰咽姻廟廂嘛磨廈廁悟忠悼慎恕悄恍惰恢恆慕恰惶愉愈惑怔怖添悔慌悅憎忌惟懼患惹恩憶媳熄瑟泌",
+  "themes": ["numbers", "family"],
+  "characters": [
+    {
+      "id": 1747,
+      "character": "翰",
+      "pinyin": "hàn",
+      "tone": 4,
+      "meaning": "writing brush",
+      "story": "This character represents writing brush, shouting \"Hahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1748,
+      "character": "咽",
+      "pinyin": "yàn",
+      "tone": 4,
+      "meaning": "throat",
+      "story": "The mouth stands for throat, shouting \"Yahn!\" sharply spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1749,
+      "character": "姻",
+      "pinyin": "yīn",
+      "tone": 1,
+      "meaning": "in-law",
+      "story": "This character represents in-law, singing \"Yin!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1750,
+      "character": "廟",
+      "pinyin": "miào",
+      "tone": 4,
+      "meaning": "temple",
+      "story": "Picture temple taking form - it shouts \"Myao!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1751,
+      "character": "廂",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "meaning": "side room",
+      "story": "Picture side room taking form - it sings \"Shyahng!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1752,
+      "character": "嘛",
+      "pinyin": "ma",
+      "tone": 5,
+      "meaning": "(pause marker)",
+      "story": "The mouth takes the shape of (pause marker), calling out \"mah\"!",
+      "primitives": []
+    },
+    {
+      "id": 1753,
+      "character": "磨",
+      "pinyin": "mó",
+      "tone": 2,
+      "meaning": "grind",
+      "story": "Like a stone, this character means grind and asks \"Mwo? Rub?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1754,
+      "character": "廈",
+      "pinyin": "shà",
+      "tone": 4,
+      "meaning": "skyscraper",
+      "story": "The strokes unite to show skyscraper, shouting \"Shah!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1755,
+      "character": "廁",
+      "pinyin": "cè",
+      "tone": 4,
+      "meaning": "toilet",
+      "story": "Picture toilet taking form - it shouts \"Tsuh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1756,
+      "character": "悟",
+      "pinyin": "wù",
+      "tone": 4,
+      "meaning": "realize",
+      "story": "The heart takes the shape of realize, shouting \"Woo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1757,
+      "character": "忠",
+      "pinyin": "zhōng",
+      "tone": 1,
+      "meaning": "loyal",
+      "story": "The heart takes the shape of loyal, singing \"Johng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1758,
+      "character": "悼",
+      "pinyin": "dào",
+      "tone": 4,
+      "meaning": "mourn",
+      "story": "This character represents mourn, shouting \"Dao!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1759,
+      "character": "慎",
+      "pinyin": "shèn",
+      "tone": 4,
+      "meaning": "prudent",
+      "story": "The heart takes the shape of prudent, shouting \"Shun!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1760,
+      "character": "恕",
+      "pinyin": "shù",
+      "tone": 4,
+      "meaning": "pardon",
+      "story": "The heart takes the shape of pardon, shouting \"Shoo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1761,
+      "character": "悄",
+      "pinyin": "qiāo",
+      "tone": 1,
+      "meaning": "noiseless",
+      "story": "The heart takes the shape of noiseless, singing \"Chyao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1762,
+      "character": "恍",
+      "pinyin": "huǎng",
+      "tone": 3,
+      "meaning": "all of a sudden",
+      "story": "Picture all of a sudden taking form - it whispers \"Hwahng\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1763,
+      "character": "惰",
+      "pinyin": "duò",
+      "tone": 4,
+      "meaning": "indolent",
+      "story": "The heart stands for indolent, shouting \"Dwoh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1764,
+      "character": "恢",
+      "pinyin": "huī",
+      "tone": 1,
+      "meaning": "immense",
+      "story": "Like a heart, this character means immense and sings \"Hway!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1765,
+      "character": "恆",
+      "pinyin": "héng",
+      "tone": 2,
+      "meaning": "permanent",
+      "story": "The heart stands for permanent, asking \"Hung? Lasting?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1766,
+      "character": "慕",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "admire",
+      "story": "The heart stands for admire, shouting \"Moo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1767,
+      "character": "恰",
+      "pinyin": "qià",
+      "tone": 4,
+      "meaning": "just right",
+      "story": "\"Chyah!\" Heart fit commanded sharply - just right, appropriate and exactly!",
+      "primitives": []
+    },
+    {
+      "id": 1768,
+      "character": "惶",
+      "pinyin": "huáng",
+      "tone": 2,
+      "meaning": "fearful",
+      "story": "See how the heart forms fearful? It asks \"Hwahng? Anxious?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1769,
+      "character": "愉",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "overjoyed",
+      "story": "Like a heart, this character means overjoyed and asks \"Yoo? Happy?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1770,
+      "character": "愈",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "more and more",
+      "story": "The heart takes the shape of more and more, shouting \"Yoo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1771,
+      "character": "惑",
+      "pinyin": "huò",
+      "tone": 4,
+      "meaning": "be bewildered",
+      "story": "The strokes unite to show be bewildered, shouting \"Hwoh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1772,
+      "character": "怔",
+      "pinyin": "zhèng",
+      "tone": 4,
+      "meaning": "terror-stricken",
+      "story": "The heart takes the shape of terror-stricken, shouting \"Jung!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1773,
+      "character": "怖",
+      "pinyin": "bù",
+      "tone": 4,
+      "meaning": "be scared of",
+      "story": "See how the heart forms be scared of? It shouts \"Boo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1774,
+      "character": "添",
+      "pinyin": "tiān",
+      "tone": 1,
+      "meaning": "augment",
+      "story": "When the water meets the heart, they form augment, singing \"Tyan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1775,
+      "character": "悔",
+      "pinyin": "huǐ",
+      "tone": 3,
+      "meaning": "be sorry about",
+      "story": "The heart takes the shape of be sorry about, whispering \"Hway\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1776,
+      "character": "慌",
+      "pinyin": "huāng",
+      "tone": 1,
+      "meaning": "nervous",
+      "story": "The heart stands for nervous, singing \"Hwahng!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1777,
+      "character": "悅",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "delighted",
+      "story": "The strokes unite to show delighted, shouting \"Yueh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1778,
+      "character": "憎",
+      "pinyin": "zēng",
+      "tone": 1,
+      "meaning": "loathe",
+      "story": "See how the heart forms loathe? It sings \"Dzung!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1779,
+      "character": "忌",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "shun",
+      "story": "See how the heart forms shun? It shouts \"Jee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1780,
+      "character": "惟",
+      "pinyin": "wéi",
+      "tone": 2,
+      "meaning": "thinking",
+      "story": "Picture thinking taking form - it asks \"Way? Pondering?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1781,
+      "character": "懼",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "be frightened",
+      "story": "\"Jyoo!\" Heart with tool commanded sharply - be frightened, afraid and terrified!",
+      "primitives": []
+    },
+    {
+      "id": 1782,
+      "character": "患",
+      "pinyin": "huàn",
+      "tone": 4,
+      "meaning": "troubles",
+      "story": "The heart takes the shape of troubles, shouting \"Hwahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1783,
+      "character": "惹",
+      "pinyin": "rě",
+      "tone": 3,
+      "meaning": "provoke",
+      "story": "The heart takes the shape of provoke, whispering \"Ruh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1784,
+      "character": "恩",
+      "pinyin": "ēn",
+      "tone": 1,
+      "meaning": "kindness",
+      "story": "See how the heart forms kindness? It sings \"Un!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1785,
+      "character": "憶",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "recall",
+      "story": "Like a heart, this character means recall and shouts \"Yee!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1786,
+      "character": "媳",
+      "pinyin": "xí",
+      "tone": 2,
+      "meaning": "daughter-in-law",
+      "story": "This character represents daughter-in-law, asking \"Shee? Bride?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1787,
+      "character": "熄",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "put out",
+      "story": "\"Shee!\" Fire and breath sang cheerfully - put out, extinguish and quench!",
+      "primitives": []
+    },
+    {
+      "id": 1788,
+      "character": "瑟",
+      "pinyin": "sè",
+      "tone": 4,
+      "meaning": "Chinese harp",
+      "story": "\"Suh!\" Jewel commanded the must sharply - Chinese harp, lute or zither!",
+      "primitives": []
+    },
+    {
+      "id": 1789,
+      "character": "泌",
+      "pinyin": "mì",
+      "tone": 4,
+      "meaning": "secrete",
+      "story": "See how the water forms secrete? It shouts \"Mee!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    }
+  ]
+}

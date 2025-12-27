@@ -1,0 +1,368 @@
+{
+  "lesson": 75,
+  "characterCount": 40,
+  "characterList": "銳虹蝠蛙蝗蟬楓胞炮袍雹逐遂蒙朦豪啄琢嫁腸楊燙蕩詳羨唯堆焦瞧礁蕉雕截准雀霍奮奪翹塌",
+  "themes": ["fire", "action", "body", "numbers"],
+  "characters": [
+    {
+      "id": 1707,
+      "character": "銳",
+      "pinyin": "ruì",
+      "tone": 4,
+      "meaning": "sharp",
+      "story": "The metal stands for sharp, shouting \"Rway!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1708,
+      "character": "虹",
+      "pinyin": "hóng",
+      "tone": 2,
+      "meaning": "rainbow",
+      "story": "The strokes unite to show rainbow, asking \"Hohng? Arc?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1709,
+      "character": "蝠",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "bat",
+      "story": "The strokes unite to show bat, asking \"Foo? Flying?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1710,
+      "character": "蛙",
+      "pinyin": "wā",
+      "tone": 1,
+      "meaning": "frog",
+      "story": "A striking symbol for frog that sings \"Wah!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1711,
+      "character": "蝗",
+      "pinyin": "huáng",
+      "tone": 2,
+      "meaning": "locust",
+      "story": "Picture locust taking form - it asks \"Hwahng? Swarm?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1712,
+      "character": "蟬",
+      "pinyin": "chán",
+      "tone": 2,
+      "meaning": "cicada",
+      "story": "A striking symbol for cicada that sings \"Chahn? Singing?\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1713,
+      "character": "楓",
+      "pinyin": "fēng",
+      "tone": 1,
+      "meaning": "maple",
+      "story": "The tree takes the shape of maple, singing \"Fung!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1714,
+      "character": "胞",
+      "pinyin": "bāo",
+      "tone": 1,
+      "meaning": "placenta",
+      "story": "The body takes the shape of placenta, singing \"Bao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1715,
+      "character": "炮",
+      "pinyin": "pào",
+      "tone": 4,
+      "meaning": "fireworks",
+      "story": "The fire stands for fireworks, shouting \"Pao!\" sharply with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 1716,
+      "character": "袍",
+      "pinyin": "páo",
+      "tone": 2,
+      "meaning": "robe",
+      "story": "A striking symbol for robe that asks \"Pao? Garment?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1717,
+      "character": "雹",
+      "pinyin": "báo",
+      "tone": 2,
+      "meaning": "hail",
+      "story": "The rain takes the shape of hail, asking \"Bao? Ice?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1718,
+      "character": "逐",
+      "pinyin": "zhú",
+      "tone": 2,
+      "meaning": "pursue",
+      "story": "The strokes unite to show pursue, asking \"Joo? Chase?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1719,
+      "character": "遂",
+      "pinyin": "suì",
+      "tone": 4,
+      "meaning": "satisfy",
+      "story": "\"Sway!\" Animal horns pursued sharply - to satisfy, accomplish and fulfill!",
+      "primitives": []
+    },
+    {
+      "id": 1720,
+      "character": "蒙",
+      "pinyin": "méng",
+      "tone": 2,
+      "meaning": "Mongolia",
+      "story": "Picture mongolia taking form - it asks \"Mung? Cover?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1721,
+      "character": "朦",
+      "pinyin": "méng",
+      "tone": 2,
+      "meaning": "dim",
+      "story": "The moon takes the shape of dim, asking \"Mung? Hazy?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1722,
+      "character": "豪",
+      "pinyin": "háo",
+      "tone": 2,
+      "meaning": "unrestrained",
+      "story": "The strokes unite to show unrestrained, asking \"Hao? Bold?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1723,
+      "character": "啄",
+      "pinyin": "zhuó",
+      "tone": 2,
+      "meaning": "peck",
+      "story": "Like a mouth, this character means peck and asks \"Jwoh? Bird strike?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1724,
+      "character": "琢",
+      "pinyin": "zuó",
+      "tone": 2,
+      "meaning": "chisel",
+      "story": "The strokes unite to show chisel, asking \"Dzwoh? Carve?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1725,
+      "character": "嫁",
+      "pinyin": "jià",
+      "tone": 4,
+      "meaning": "marry",
+      "story": "Picture marry taking form - it shouts \"Jyah!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1726,
+      "character": "腸",
+      "pinyin": "cháng",
+      "tone": 2,
+      "meaning": "intestines",
+      "story": "\"Chahng, where are the guts?\" Body questioned piggy bank curiously - intestines and bowels!",
+      "primitives": []
+    },
+    {
+      "id": 1727,
+      "character": "楊",
+      "pinyin": "yáng",
+      "tone": 2,
+      "meaning": "poplar",
+      "story": "The tree stands for poplar, asking \"Yahng, is that willow?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1728,
+      "character": "燙",
+      "pinyin": "tàng",
+      "tone": 4,
+      "meaning": "scald",
+      "story": "The fire and water unite to create scald, shouting \"Tahng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1729,
+      "character": "蕩",
+      "pinyin": "dàng",
+      "tone": 4,
+      "meaning": "licentious",
+      "story": "The strokes unite to show licentious, shouting \"Dahng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1730,
+      "character": "詳",
+      "pinyin": "xiáng",
+      "tone": 2,
+      "meaning": "detailed",
+      "story": "\"Shyahng, is it thorough?\" Words questioned piggy bank curiously - detailed and elaborate!",
+      "primitives": []
+    },
+    {
+      "id": 1731,
+      "character": "羨",
+      "pinyin": "xiàn",
+      "tone": 4,
+      "meaning": "envy",
+      "story": "Like water, this character means envy and shouts \"Shyan!\" like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1732,
+      "character": "唯",
+      "pinyin": "wéi",
+      "tone": 2,
+      "meaning": "soley",
+      "story": "The mouth stands for soley, asking \"Way? Only?\" curiously spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1733,
+      "character": "堆",
+      "pinyin": "duī",
+      "tone": 1,
+      "meaning": "pile",
+      "story": "Like soil, this character means pile and sings \"Dway!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1734,
+      "character": "焦",
+      "pinyin": "jiāo",
+      "tone": 1,
+      "meaning": "apprehensive",
+      "story": "An striking symbol for apprehensive that sings \"Jyao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1735,
+      "character": "瞧",
+      "pinyin": "qiáo",
+      "tone": 2,
+      "meaning": "lay eyes on",
+      "story": "The eye takes the shape of lay eyes on, asking \"Chyao? Look?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1736,
+      "character": "礁",
+      "pinyin": "jiāo",
+      "tone": 1,
+      "meaning": "reef",
+      "story": "\"Jyao!\" Stone with roast turkey sang cheerfully - a reef, rock or shoal!",
+      "primitives": []
+    },
+    {
+      "id": 1737,
+      "character": "蕉",
+      "pinyin": "jiāo",
+      "tone": 1,
+      "meaning": "banana",
+      "story": "\"Jyao!\" Flower like roast turkey sang cheerfully - banana, a tropical fruit!",
+      "primitives": []
+    },
+    {
+      "id": 1738,
+      "character": "雕",
+      "pinyin": "diāo",
+      "tone": 1,
+      "meaning": "sculpture",
+      "story": "The strokes unite to show sculpture, singing \"Dyao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1739,
+      "character": "截",
+      "pinyin": "jié",
+      "tone": 2,
+      "meaning": "lop off",
+      "story": "This character represents lop off, asking \"Jyeh? Sever?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1740,
+      "character": "准",
+      "pinyin": "zhǔn",
+      "tone": 3,
+      "meaning": "allow",
+      "story": "The water takes the shape of allow, whispering \"Jwun\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1741,
+      "character": "雀",
+      "pinyin": "què",
+      "tone": 4,
+      "meaning": "sparrow",
+      "story": "A striking symbol for sparrow that shouts \"Chyueh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1742,
+      "character": "霍",
+      "pinyin": "huò",
+      "tone": 4,
+      "meaning": "all at once",
+      "story": "The rain stands for all at once, shouting \"Hwoh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1743,
+      "character": "奮",
+      "pinyin": "fèn",
+      "tone": 4,
+      "meaning": "exert oneself",
+      "story": "The field takes the shape of exert oneself, shouting \"Fun!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1744,
+      "character": "奪",
+      "pinyin": "duó",
+      "tone": 2,
+      "meaning": "take by force",
+      "story": "This character represents take by force, asking \"Dwoh? Seize?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1745,
+      "character": "翹",
+      "pinyin": "qiào",
+      "tone": 4,
+      "meaning": "turn upward",
+      "story": "\"Chyao!\" Tall feathers commanded sharply - turn upward, stick up, cut class!",
+      "primitives": []
+    },
+    {
+      "id": 1746,
+      "character": "塌",
+      "pinyin": "tā",
+      "tone": 1,
+      "meaning": "fall down",
+      "story": "The soil and sun unite to create fall down, singing \"Tah!\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

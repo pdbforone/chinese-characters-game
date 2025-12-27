@@ -1,0 +1,188 @@
+{
+  "lesson": 16,
+  "characterCount": 20,
+  "characterList": "式試戈或賊載鐵茂成城誠威滅咸減單戰錢淺賤",
+  "themes": [],
+  "characters": [
+    {
+      "id": 333,
+      "character": "式",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Style",
+      "story": "Like an arrow, this character means style and shouts \"Shi!\"!",
+      "primitives": []
+    },
+    {
+      "id": 334,
+      "character": "試",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Test",
+      "story": "A test words style yells \"Shi!\" sharply examining!",
+      "primitives": []
+    },
+    {
+      "id": 335,
+      "character": "戈",
+      "pinyin": "gē",
+      "tone": 1,
+      "meaning": "Halberd",
+      "story": "The strokes unite to show halberd, singing \"Guh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 336,
+      "character": "或",
+      "pinyin": "huò",
+      "tone": 4,
+      "meaning": "or",
+      "story": "\"Huo should I choose - or this one?\" One mouth questioned the halberd choices.",
+      "primitives": []
+    },
+    {
+      "id": 337,
+      "character": "賊",
+      "pinyin": "zéi",
+      "tone": 2,
+      "meaning": "Burglar",
+      "story": "A burglar shellfish ten halberds questions \"Zay? Stealing what?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 338,
+      "character": "載",
+      "pinyin": "zài",
+      "tone": 4,
+      "meaning": "laden",
+      "story": "A striking symbol for laden that shouts \"Zai!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 339,
+      "character": "鐵",
+      "pinyin": "tiě",
+      "tone": 3,
+      "meaning": "Iron",
+      "story": "The gold stands for iron, whispering \"Tieh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 340,
+      "character": "茂",
+      "pinyin": "mào",
+      "tone": 4,
+      "meaning": "lush",
+      "story": "See how the grass forms lush? It shouts \"Mao!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 341,
+      "character": "成",
+      "pinyin": "chéng",
+      "tone": 2,
+      "meaning": "to turn into",
+      "story": "\"Cheng, what will it become?\" The halberds questioned their transformation.",
+      "primitives": []
+    },
+    {
+      "id": 342,
+      "character": "城",
+      "pinyin": "chéng",
+      "tone": 2,
+      "meaning": "City",
+      "story": "A city earth turn into questions \"Cheng? How big?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 343,
+      "character": "誠",
+      "pinyin": "chéng",
+      "tone": 2,
+      "meaning": "sincere",
+      "story": "\"Cheng, is it really true?\" The sincere words questioned honestly.",
+      "primitives": []
+    },
+    {
+      "id": 344,
+      "character": "威",
+      "pinyin": "wēi",
+      "tone": 1,
+      "meaning": "Might",
+      "story": "This character represents might, singing \"Way!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 345,
+      "character": "滅",
+      "pinyin": "miè",
+      "tone": 4,
+      "meaning": "to destroy",
+      "story": "Fire and halberds destroyed everything, extinguishing all hope.",
+      "primitives": []
+    },
+    {
+      "id": 346,
+      "character": "咸",
+      "pinyin": "xián",
+      "tone": 2,
+      "meaning": "everybody",
+      "story": "Like a mouth, this character means everybody and asks \"Shian? All here?\"!",
+      "primitives": []
+    },
+    {
+      "id": 347,
+      "character": "減",
+      "pinyin": "jiǎn",
+      "tone": 3,
+      "meaning": "to reduce",
+      "story": "See how the water forms to reduce? It whispers \"Jian\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 348,
+      "character": "單",
+      "pinyin": "dān",
+      "tone": 1,
+      "meaning": "a List",
+      "story": "The strokes unite to show a list, singing \"Dan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 349,
+      "character": "戰",
+      "pinyin": "zhàn",
+      "tone": 4,
+      "meaning": "War",
+      "story": "Picture war taking form - it shouts \"Zhan!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 350,
+      "character": "錢",
+      "pinyin": "qián",
+      "tone": 2,
+      "meaning": "Coin",
+      "story": "The gold stands for coin, asking \"Chian? How much?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 351,
+      "character": "淺",
+      "pinyin": "qiǎn",
+      "tone": 3,
+      "meaning": "shallow",
+      "story": "The water takes the shape of shallow, whispering \"Chian\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 352,
+      "character": "賤",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "cheap",
+      "story": "The shellfish stands for cheap, shouting \"Jian!\" sharply - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

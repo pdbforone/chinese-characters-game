@@ -1,0 +1,188 @@
+{
+  "lesson": 7,
+  "characterCount": 20,
+  "characterList": "小少吵大尖夕多夠外名厚石砂妙肖削光太省奇",
+  "themes": ["numbers"],
+  "characters": [
+    {
+      "id": 103,
+      "character": "小",
+      "pinyin": "xiǎo",
+      "tone": 3,
+      "meaning": "small",
+      "story": "The person stands for small, whispering \"Shyao\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 104,
+      "character": "少",
+      "pinyin": "shǎo",
+      "tone": 3,
+      "meaning": "few",
+      "story": "Picture few taking form - it whispers \"Shao\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 105,
+      "character": "吵",
+      "pinyin": "chǎo",
+      "tone": 3,
+      "meaning": "noisy",
+      "story": "The mouth takes the shape of noisy, whispering \"Chao\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 106,
+      "character": "大",
+      "pinyin": "dà",
+      "tone": 4,
+      "meaning": "large",
+      "story": "Like a person, this character means large and shouts \"Da!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 107,
+      "character": "尖",
+      "pinyin": "jiān",
+      "tone": 1,
+      "meaning": "tip",
+      "story": "The tip where small meets large sings \"Jian!\" cheerfully and sharp!",
+      "primitives": []
+    },
+    {
+      "id": 108,
+      "character": "夕",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "Evening",
+      "story": "Like a moon, this character means evening and sings \"Shee!\"!",
+      "primitives": []
+    },
+    {
+      "id": 109,
+      "character": "多",
+      "pinyin": "duó",
+      "tone": 2,
+      "meaning": "many",
+      "story": "The strokes unite to show many, asking \"Duo? Why so many nights?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 110,
+      "character": "夠",
+      "pinyin": "gòu",
+      "tone": 4,
+      "meaning": "enough",
+      "story": "Picture enough taking form - it shouts \"Go!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 111,
+      "character": "外",
+      "pinyin": "wài",
+      "tone": 4,
+      "meaning": "outside",
+      "story": "Outside the evening divination yells \"Why!\" sharply beyond!",
+      "primitives": []
+    },
+    {
+      "id": 112,
+      "character": "名",
+      "pinyin": "míng",
+      "tone": 2,
+      "meaning": "a Name",
+      "story": "Like a mouth, this character means a name and asks \"Ming? Who am I?\"!",
+      "primitives": []
+    },
+    {
+      "id": 113,
+      "character": "厚",
+      "pinyin": "hòu",
+      "tone": 4,
+      "meaning": "thick",
+      "story": "Picture thick taking form - it shouts \"Ho!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 114,
+      "character": "石",
+      "pinyin": "shí",
+      "tone": 2,
+      "meaning": "stone",
+      "story": "A stone at the cliff asks \"Shi? How hard?\" questioning curiously!",
+      "primitives": []
+    },
+    {
+      "id": 115,
+      "character": "砂",
+      "pinyin": "shā",
+      "tone": 1,
+      "meaning": "Gravel",
+      "story": "This character represents gravel, singing \"Sha!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 116,
+      "character": "妙",
+      "pinyin": "miào",
+      "tone": 4,
+      "meaning": "wonderful",
+      "story": "Picture wonderful taking form - it shouts \"Miao!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 117,
+      "character": "肖",
+      "pinyin": "xiào",
+      "tone": 4,
+      "meaning": "to resemble",
+      "story": "A striking symbol for to resemble that shouts \"Shyao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 118,
+      "character": "削",
+      "pinyin": "xiāo",
+      "tone": 1,
+      "meaning": "to peel",
+      "story": "She used a knife to peel the apple, removing small bits at a time.",
+      "primitives": []
+    },
+    {
+      "id": 119,
+      "character": "光",
+      "pinyin": "guāng",
+      "tone": 1,
+      "meaning": "ray",
+      "story": "See how the fire forms ray? It sings \"Gwang!\" cheerfully with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 120,
+      "character": "太",
+      "pinyin": "tài",
+      "tone": 4,
+      "meaning": "overly",
+      "story": "See how the dot forms overly? It shouts \"Tai!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 121,
+      "character": "省",
+      "pinyin": "shěng",
+      "tone": 3,
+      "meaning": "to economize",
+      "story": "The eye stands for to economize, whispering \"Sheng\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 122,
+      "character": "奇",
+      "pinyin": "qí",
+      "tone": 2,
+      "meaning": "strange",
+      "story": "A strange large person questions \"Chi? Why so odd?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

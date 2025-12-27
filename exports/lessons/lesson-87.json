@@ -1,0 +1,233 @@
+{
+  "lesson": 87,
+  "characterCount": 25,
+  "characterList": "歪矯矮唉埃挨簇茅橘舒弘夷姨疆僵薑粥沸拂剃涕梯朽聘犧",
+  "themes": [],
+  "characters": [
+    {
+      "id": 2203,
+      "character": "歪",
+      "pinyin": "wāi",
+      "tone": 1,
+      "meaning": "askew",
+      "story": "The strokes unite to show askew, singing \"Wigh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2204,
+      "character": "矯",
+      "pinyin": "jiǎo",
+      "tone": 3,
+      "meaning": "rectify",
+      "story": "This character represents rectify, whispering \"Jyao\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2205,
+      "character": "矮",
+      "pinyin": "ǎi",
+      "tone": 3,
+      "meaning": "short of stature",
+      "story": "The strokes unite to show short of stature, whispering \"Igh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2206,
+      "character": "唉",
+      "pinyin": "āi",
+      "tone": 1,
+      "meaning": "sigh--ay-ay",
+      "story": "The mouth stands for sigh--ay-ay, singing \"Igh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2207,
+      "character": "埃",
+      "pinyin": "āi",
+      "tone": 1,
+      "meaning": "fine dust",
+      "story": "\"Igh!\" Soil from the crossbow sang cheerfully - fine dust and particles!",
+      "primitives": []
+    },
+    {
+      "id": 2208,
+      "character": "挨",
+      "pinyin": "ái",
+      "tone": 2,
+      "meaning": "suffer",
+      "story": "See how the fingers forms suffer? It asks \"Igh? Beaten?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2209,
+      "character": "簇",
+      "pinyin": "cù",
+      "tone": 4,
+      "meaning": "cluster",
+      "story": "See how the bamboo forms cluster? It shouts \"Tsoo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2210,
+      "character": "茅",
+      "pinyin": "máo",
+      "tone": 2,
+      "meaning": "thatch",
+      "story": "See how the grass forms thatch? It asks \"Mao? Straw?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2211,
+      "character": "橘",
+      "pinyin": "jú",
+      "tone": 2,
+      "meaning": "tangerine",
+      "story": "When the tree meets the mouth, they form tangerine, asking \"Jyoo? Citrus?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2212,
+      "character": "舒",
+      "pinyin": "shū",
+      "tone": 1,
+      "meaning": "relax",
+      "story": "See how the tongue forms relax? It sings \"Shoo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2213,
+      "character": "弘",
+      "pinyin": "hóng",
+      "tone": 2,
+      "meaning": "noble",
+      "story": "This character represents noble, asking \"Hohng? Grand?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2214,
+      "character": "夷",
+      "pinyin": "yí",
+      "tone": 2,
+      "meaning": "barbarian",
+      "story": "This character represents barbarian, asking \"Yee? Savage?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2215,
+      "character": "姨",
+      "pinyin": "yí",
+      "tone": 2,
+      "meaning": "maternal aunt",
+      "story": "\"Yee, is that my mother's sister?\" Woman questioned the barbarian curiously - maternal aunt, auntie!",
+      "primitives": []
+    },
+    {
+      "id": 2216,
+      "character": "疆",
+      "pinyin": "jiāng",
+      "tone": 1,
+      "meaning": "dividing line",
+      "story": "When the line meets the soil, they form dividing line, singing \"Jyahng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2217,
+      "character": "僵",
+      "pinyin": "jiāng",
+      "tone": 1,
+      "meaning": "stiff",
+      "story": "\"Jyahng!\" Person in a family feud sang cheerfully - stiff, rigid with frozen limbs!",
+      "primitives": []
+    },
+    {
+      "id": 2218,
+      "character": "薑",
+      "pinyin": "jiāng",
+      "tone": 1,
+      "meaning": "ginger",
+      "story": "\"Jyahng!\" Flowers in a family feud sang cheerfully - ginger, spicy root for soup!",
+      "primitives": []
+    },
+    {
+      "id": 2219,
+      "character": "粥",
+      "pinyin": "zhōu",
+      "tone": 1,
+      "meaning": "porridge",
+      "story": "This character represents porridge, singing \"Joh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2220,
+      "character": "沸",
+      "pinyin": "fèi",
+      "tone": 4,
+      "meaning": "bring to a boil",
+      "story": "Like water, this character means bring to a boil and shouts \"Fay!\"!",
+      "primitives": []
+    },
+    {
+      "id": 2221,
+      "character": "拂",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "caress",
+      "story": "\"Foo, should I stroke it?\" Fingers questioned the dollar sign curiously - caress, brush, embrace and hug!",
+      "primitives": []
+    },
+    {
+      "id": 2222,
+      "character": "剃",
+      "pinyin": "tì",
+      "tone": 4,
+      "meaning": "shave",
+      "story": "\"Tee!\" Younger brother's knife commanded sharply - shave and cut hair with a razor!",
+      "primitives": []
+    },
+    {
+      "id": 2223,
+      "character": "涕",
+      "pinyin": "tì",
+      "tone": 4,
+      "meaning": "snot",
+      "story": "\"Tee!\" Little brother's water commanded sharply - snot, nose mucus and tears!",
+      "primitives": []
+    },
+    {
+      "id": 2224,
+      "character": "梯",
+      "pinyin": "tī",
+      "tone": 1,
+      "meaning": "ladder",
+      "story": "\"Tee!\" Tree with younger brother sang cheerfully - a ladder, stairs and steps!",
+      "primitives": []
+    },
+    {
+      "id": 2225,
+      "character": "朽",
+      "pinyin": "xiǔ",
+      "tone": 3,
+      "meaning": "decayed",
+      "story": "See how the tree forms decayed? It whispers \"Shyo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2226,
+      "character": "聘",
+      "pinyin": "pìn",
+      "tone": 4,
+      "meaning": "employ",
+      "story": "\"Pin!\" Ear with sprout snare commanded sharply - employ, hire and appoint by letter!",
+      "primitives": []
+    },
+    {
+      "id": 2227,
+      "character": "犧",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "sacrifice",
+      "story": "This character represents sacrifice, singing \"Shee!\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "lesson": 6,
+  "characterCount": 12,
+  "characterList": "乙子孔吼了女好如母貫兄克",
+  "themes": ["family", "action"],
+  "characters": [
+    {
+      "id": 91,
+      "character": "乙",
+      "pinyin": "yǐ",
+      "tone": 3,
+      "meaning": "second",
+      "story": "The hook stands for second, whispering \"Yee\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 92,
+      "character": "子",
+      "pinyin": "zǐ",
+      "tone": 3,
+      "meaning": "child",
+      "story": "The strokes unite to show child, whispering \"Zi\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 93,
+      "character": "孔",
+      "pinyin": "kǒng",
+      "tone": 3,
+      "meaning": "cavity",
+      "story": "This character represents cavity, whispering \"Kong\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 94,
+      "character": "吼",
+      "pinyin": "hǒu",
+      "tone": 3,
+      "meaning": "to roar",
+      "story": "See how the mouth forms to roar? It whispers \"Ho!\" softly spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 95,
+      "character": "了",
+      "pinyin": "le",
+      "tone": 5,
+      "meaning": "-ed",
+      "story": "Completed action of child says \"luh\" neutrally when done!",
+      "primitives": []
+    },
+    {
+      "id": 96,
+      "character": "女",
+      "pinyin": "nǚ",
+      "tone": 3,
+      "meaning": "Woman",
+      "story": "A striking symbol for woman that whispers \"Nyu\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 97,
+      "character": "好",
+      "pinyin": "hǎo",
+      "tone": 3,
+      "meaning": "good",
+      "story": "A woman and child bend down drooping together, good and saying \"Hao\"!",
+      "primitives": []
+    },
+    {
+      "id": 98,
+      "character": "如",
+      "pinyin": "rú",
+      "tone": 2,
+      "meaning": "to be like",
+      "story": "A woman's mouth asks \"Ru? Are we alike?\" questioning similarity!",
+      "primitives": []
+    },
+    {
+      "id": 99,
+      "character": "母",
+      "pinyin": "mǔ",
+      "tone": 3,
+      "meaning": "Mother",
+      "story": "A striking symbol for mother that whispers \"Mu\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 100,
+      "character": "貫",
+      "pinyin": "guàn",
+      "tone": 4,
+      "meaning": "to pierce",
+      "story": "Pierce through the shell sharply commanding \"Guan!\" with mother above!",
+      "primitives": []
+    },
+    {
+      "id": 101,
+      "character": "兄",
+      "pinyin": "xiōng",
+      "tone": 1,
+      "meaning": "Elder Brother",
+      "story": "The strokes unite to show elder brother, singing \"Shyong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 102,
+      "character": "克",
+      "pinyin": "kè",
+      "tone": 4,
+      "meaning": "to overcome",
+      "story": "Picture to overcome taking form - it shouts \"Kuh!\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

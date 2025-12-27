@@ -1,0 +1,422 @@
+{
+  "lesson": 38,
+  "characterCount": 46,
+  "characterList": "概平評坪乎呼希稀學覺攪凶兇胸離禽辛辦辯壁避新薪親襯幸執報叫收陸勢熱藝亥核孩刻該述術殺襄讓壤寒",
+  "themes": ["action", "fire"],
+  "characters": [
+    {
+      "id": 1103,
+      "character": "概",
+      "pinyin": "gài",
+      "tone": 4,
+      "meaning": "approximate",
+      "story": "See how the tree forms approximate? It shouts \"Gai!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1104,
+      "character": "平",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "even",
+      "story": "An striking symbol for even that asks \"Ping? Level?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1105,
+      "character": "評",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "to evaluate",
+      "story": "\"Ping, is this a fair judgment?\" Words questioned evenly, evaluating and criticizing curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1106,
+      "character": "坪",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "Level Ground",
+      "story": "\"Ping, is this a flat plain?\" The earth questioned level ground curiously - measuring the two-mat area!",
+      "primitives": []
+    },
+    {
+      "id": 1107,
+      "character": "乎",
+      "pinyin": "hū",
+      "tone": 1,
+      "meaning": "ooh!",
+      "story": "\"Ooh!\" exclaims cheerfully singing \"Hoo!\" high with surprise!",
+      "primitives": []
+    },
+    {
+      "id": 1108,
+      "character": "呼",
+      "pinyin": "hū",
+      "tone": 1,
+      "meaning": "to shout",
+      "story": "\"Hoo!\" The mouth sang cheerfully, shouting and exhaling loudly!",
+      "primitives": []
+    },
+    {
+      "id": 1109,
+      "character": "希",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "to hope",
+      "story": "\"Shee!\" Scarce cloth sang cheerfully - hoping for the rare!",
+      "primitives": []
+    },
+    {
+      "id": 1110,
+      "character": "稀",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "scarce",
+      "story": "Picture scarce taking form - it sings \"Shee!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1111,
+      "character": "學",
+      "pinyin": "xué",
+      "tone": 2,
+      "meaning": "to study",
+      "story": "\"Shueh, are we learning?\" The child under the roof questioned study curiously - science and -ology!",
+      "primitives": []
+    },
+    {
+      "id": 1112,
+      "character": "覺",
+      "pinyin": "jué",
+      "tone": 2,
+      "meaning": "Senses",
+      "story": "Picture senses taking form - it asks \"Jueh? Aware?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1113,
+      "character": "攪",
+      "pinyin": "jiǎo",
+      "tone": 3,
+      "meaning": "to stir",
+      "story": "The hand stands for to stir, whispering \"Jiao\" softly reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 1114,
+      "character": "凶",
+      "pinyin": "xiōng",
+      "tone": 1,
+      "meaning": "sinister",
+      "story": "The box stands for sinister, singing \"Shyong!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1115,
+      "character": "兇",
+      "pinyin": "xiōng",
+      "tone": 1,
+      "meaning": "cruel",
+      "story": "Picture cruel taking form - it sings \"Shyong!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1116,
+      "character": "胸",
+      "pinyin": "xiōng",
+      "tone": 1,
+      "meaning": "Bosom",
+      "story": "See how the heart forms bosom? It sings \"Shyong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1117,
+      "character": "離",
+      "pinyin": "lí",
+      "tone": 2,
+      "meaning": "to leave",
+      "story": "\"Lee, are you going away?\" The departing bird questioned leaving curiously, detaching.",
+      "primitives": []
+    },
+    {
+      "id": 1118,
+      "character": "禽",
+      "pinyin": "qín",
+      "tone": 2,
+      "meaning": "Fowl",
+      "story": "See how the person forms fowl? It asks \"Chin, what birds are these?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1119,
+      "character": "辛",
+      "pinyin": "xīn",
+      "tone": 1,
+      "meaning": "peppery",
+      "story": "A striking symbol for peppery that sings \"Shin!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1120,
+      "character": "辦",
+      "pinyin": "bàn",
+      "tone": 4,
+      "meaning": "to manage",
+      "story": "This character represents to manage, shouting \"Ban!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1121,
+      "character": "辯",
+      "pinyin": "biàn",
+      "tone": 4,
+      "meaning": "to dispute",
+      "story": "\"Bian!\" Words as peppery as spice commanded sharply - disputing, arguing and debating!",
+      "primitives": []
+    },
+    {
+      "id": 1122,
+      "character": "壁",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "Partition",
+      "story": "The earth and wall unite to create partition, shouting \"Bee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1123,
+      "character": "避",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "to evade",
+      "story": "Picture to evade taking form - it shouts \"Bee!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1124,
+      "character": "新",
+      "pinyin": "xīn",
+      "tone": 1,
+      "meaning": "new",
+      "story": "\"Shin!\" Standing with tree and ax, they sang cheerfully - everything fresh and newly made!",
+      "primitives": []
+    },
+    {
+      "id": 1125,
+      "character": "薪",
+      "pinyin": "xīn",
+      "tone": 1,
+      "meaning": "Fuel",
+      "story": "See how the grass forms fuel? It sings \"Shin!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1126,
+      "character": "親",
+      "pinyin": "qīn",
+      "tone": 1,
+      "meaning": "Relatives",
+      "story": "\"Chin!\" Standing by the tree to see, they sang cheerfully - dear relatives and intimate relations!",
+      "primitives": []
+    },
+    {
+      "id": 1127,
+      "character": "襯",
+      "pinyin": "chèn",
+      "tone": 4,
+      "meaning": "Inner Garments",
+      "story": "\"Chen!\" Clothes for relatives commanded sharply - inner garments, underwear beneath!",
+      "primitives": []
+    },
+    {
+      "id": 1128,
+      "character": "幸",
+      "pinyin": "xìng",
+      "tone": 4,
+      "meaning": "Good Fortune",
+      "story": "\"Shing!\" Hands bound together commanded good fortune sharply - lucky and fortunate!",
+      "primitives": []
+    },
+    {
+      "id": 1129,
+      "character": "執",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "to clench",
+      "story": "The hand takes the shape of to clench, asking \"Zhi, should I keep grasping?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1130,
+      "character": "報",
+      "pinyin": "bào",
+      "tone": 4,
+      "meaning": "Newspaper",
+      "story": "Picture newspaper taking form - it shouts \"Bao!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1131,
+      "character": "叫",
+      "pinyin": "jiào",
+      "tone": 4,
+      "meaning": "to call",
+      "story": "\"Jiao!\" The mouth compared and commanded sharply - calling and shouting orders!",
+      "primitives": []
+    },
+    {
+      "id": 1132,
+      "character": "收",
+      "pinyin": "shōu",
+      "tone": 1,
+      "meaning": "to receive",
+      "story": "\"Show!\" The hand worked again cheerfully to receive - accepting income collected!",
+      "primitives": []
+    },
+    {
+      "id": 1133,
+      "character": "陸",
+      "pinyin": "lù",
+      "tone": 4,
+      "meaning": "Land",
+      "story": "The strokes unite to show land, shouting \"Loo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1134,
+      "character": "勢",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Force",
+      "story": "This character represents force, shouting \"Shi!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1135,
+      "character": "熱",
+      "pinyin": "rè",
+      "tone": 4,
+      "meaning": "Heat",
+      "story": "Like fire, this character means heat and shouts \"Ruh!\" with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 1136,
+      "character": "藝",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "Technique",
+      "story": "With grass combined with a person, you get technique - \"Yi!\" rings out sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1137,
+      "character": "亥",
+      "pinyin": "hài",
+      "tone": 4,
+      "meaning": "Sign Of The Hog",
+      "story": "The strokes unite to show sign of the hog, shouting \"Hai!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1138,
+      "character": "核",
+      "pinyin": "hé",
+      "tone": 2,
+      "meaning": "Nucleus",
+      "story": "See how the tree forms nucleus? It asks \"Huh? Center?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1139,
+      "character": "孩",
+      "pinyin": "hái",
+      "tone": 2,
+      "meaning": "Tot",
+      "story": "A tot child hog questions \"Hai? Little one?\" curiously young!",
+      "primitives": []
+    },
+    {
+      "id": 1140,
+      "character": "刻",
+      "pinyin": "kè",
+      "tone": 4,
+      "meaning": "to carve",
+      "story": "\"Kuh!\" The knife carved the hog sharply - engraving quarter-hours!",
+      "primitives": []
+    },
+    {
+      "id": 1141,
+      "character": "該",
+      "pinyin": "gāi",
+      "tone": 1,
+      "meaning": "should",
+      "story": "The strokes unite to show should, singing \"Gai!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1142,
+      "character": "述",
+      "pinyin": "shù",
+      "tone": 4,
+      "meaning": "to narrate",
+      "story": "\"Shoo!\" Walking with the hog, they commanded narration sharply - telling and relating!",
+      "primitives": []
+    },
+    {
+      "id": 1143,
+      "character": "術",
+      "pinyin": "shù",
+      "tone": 4,
+      "meaning": "Art",
+      "story": "The strokes unite to show art, shouting \"Shoo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1144,
+      "character": "殺",
+      "pinyin": "shā",
+      "tone": 1,
+      "meaning": "to kill",
+      "story": "\"Sha!\" The tree mastered the dark art - killing, murdering and slaughtering!",
+      "primitives": []
+    },
+    {
+      "id": 1145,
+      "character": "襄",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "meaning": "to aid",
+      "story": "\"Shyang!\" Clothes held high sang cheerfully - aiding and assisting!",
+      "primitives": []
+    },
+    {
+      "id": 1146,
+      "character": "讓",
+      "pinyin": "ràng",
+      "tone": 4,
+      "meaning": "to yield",
+      "story": "\"Rang!\" Words of aid commanded sharply to yield - allowing and permitting!",
+      "primitives": []
+    },
+    {
+      "id": 1147,
+      "character": "壤",
+      "pinyin": "rǎng",
+      "tone": 3,
+      "meaning": "Territory",
+      "story": "When the earth meets the soil, they form territory, whispering \"Rang\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1148,
+      "character": "寒",
+      "pinyin": "hán",
+      "tone": 2,
+      "meaning": "frigid",
+      "story": "The strokes unite to show frigid, asking \"Han? Cold?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

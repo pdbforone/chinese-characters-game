@@ -1,0 +1,161 @@
+{
+  "lesson": 23,
+  "characterCount": 17,
+  "characterList": "山出擊密入內吶分貧公松谷浴欲慾容溶",
+  "themes": ["nature"],
+  "characters": [
+    {
+      "id": 634,
+      "character": "山",
+      "pinyin": "shān",
+      "tone": 1,
+      "meaning": "Mountain",
+      "story": "This character represents mountain, singing \"Shan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 635,
+      "character": "出",
+      "pinyin": "chū",
+      "tone": 1,
+      "meaning": "to exit",
+      "story": "Like a mountain, this character means to exit and sings \"Choo!\"!",
+      "primitives": []
+    },
+    {
+      "id": 636,
+      "character": "擊",
+      "pinyin": "jí",
+      "tone": 2,
+      "meaning": "to beat",
+      "story": "\"Ji, should we strike?\" The hand on the car questioned how to beat.",
+      "primitives": []
+    },
+    {
+      "id": 637,
+      "character": "密",
+      "pinyin": "mì",
+      "tone": 4,
+      "meaning": "secret",
+      "story": "Like a mountain, this character means secret and shouts \"Mee!\"!",
+      "primitives": []
+    },
+    {
+      "id": 638,
+      "character": "入",
+      "pinyin": "rù",
+      "tone": 4,
+      "meaning": "to enter",
+      "story": "A striking symbol for to enter that shouts \"Roo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 639,
+      "character": "內",
+      "pinyin": "nèi",
+      "tone": 4,
+      "meaning": "internal",
+      "story": "The person takes the shape of internal, shouting \"Nay!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 640,
+      "character": "吶",
+      "pinyin": "na",
+      "tone": 5,
+      "meaning": "to holler",
+      "story": "Like a mouth, this character means to holler and calls \"na\"!",
+      "primitives": []
+    },
+    {
+      "id": 641,
+      "character": "分",
+      "pinyin": "fēn",
+      "tone": 1,
+      "meaning": "Part",
+      "story": "A part divides cheerfully singing \"Fen!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 642,
+      "character": "貧",
+      "pinyin": "pín",
+      "tone": 2,
+      "meaning": "impoverished",
+      "story": "Like a shellfish, this character means impoverished and asks \"Pin? So poor?\"!",
+      "primitives": []
+    },
+    {
+      "id": 643,
+      "character": "公",
+      "pinyin": "gōng",
+      "tone": 1,
+      "meaning": "public",
+      "story": "The person takes the shape of public, singing \"Gong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 644,
+      "character": "松",
+      "pinyin": "sōng",
+      "tone": 1,
+      "meaning": "Pine Tree",
+      "story": "The tree takes the shape of pine tree, singing \"Song!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 645,
+      "character": "谷",
+      "pinyin": "gǔ",
+      "tone": 3,
+      "meaning": "Valley",
+      "story": "The mouth takes the shape of valley, whispering \"Goo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 646,
+      "character": "浴",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "to bathe",
+      "story": "\"Yu!\" In the water valley, they bathed by command.",
+      "primitives": []
+    },
+    {
+      "id": 647,
+      "character": "欲",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "to desire",
+      "story": "This character represents to desire, shouting \"Yu!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 648,
+      "character": "慾",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "the Lust",
+      "story": "\"Yu!\" The heart's desire commanded sharply - pure lust.",
+      "primitives": []
+    },
+    {
+      "id": 649,
+      "character": "容",
+      "pinyin": "róng",
+      "tone": 2,
+      "meaning": "to contain",
+      "story": "\"Rong, will it fit inside?\" The valley under the roof questioned what it could contain.",
+      "primitives": []
+    },
+    {
+      "id": 650,
+      "character": "溶",
+      "pinyin": "róng",
+      "tone": 2,
+      "meaning": "to dissolve",
+      "story": "\"Rong, is it melting?\" The water questioned as it dissolved what it contained.",
+      "primitives": []
+    }
+  ]
+}

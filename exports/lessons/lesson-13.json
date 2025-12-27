@@ -1,0 +1,188 @@
+{
+  "lesson": 13,
+  "characterCount": 20,
+  "characterList": "道導迅造巡逛車連蓮前剪輸逾各格客額夏洛落",
+  "themes": ["numbers"],
+  "characters": [
+    {
+      "id": 268,
+      "character": "道",
+      "pinyin": "dào",
+      "tone": 4,
+      "meaning": "Way",
+      "story": "See how the foot forms way? It shouts \"Dao!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 269,
+      "character": "導",
+      "pinyin": "dǎo",
+      "tone": 3,
+      "meaning": "to guide",
+      "story": "Picture to guide taking form - it whispers \"Dao\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 270,
+      "character": "迅",
+      "pinyin": "xùn",
+      "tone": 4,
+      "meaning": "speedy",
+      "story": "Picture speedy taking form - it shouts \"Shun!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 271,
+      "character": "造",
+      "pinyin": "zào",
+      "tone": 4,
+      "meaning": "to create",
+      "story": "The strokes unite to show to create, shouting \"Zao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 272,
+      "character": "巡",
+      "pinyin": "xún",
+      "tone": 2,
+      "meaning": "to patrol",
+      "story": "\"Shun, all clear?\" the patrol questioned, walking around the perimeter.",
+      "primitives": []
+    },
+    {
+      "id": 273,
+      "character": "逛",
+      "pinyin": "guàng",
+      "tone": 4,
+      "meaning": "to stroll",
+      "story": "She wandered the wide streets, strolling and shopping.",
+      "primitives": []
+    },
+    {
+      "id": 274,
+      "character": "車",
+      "pinyin": "chē",
+      "tone": 1,
+      "meaning": "Car",
+      "story": "The strokes unite to show car, singing \"Chuh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 275,
+      "character": "連",
+      "pinyin": "lián",
+      "tone": 2,
+      "meaning": "one after another",
+      "story": "\"Lian, where next?\" One car after another questioned their route.",
+      "primitives": []
+    },
+    {
+      "id": 276,
+      "character": "蓮",
+      "pinyin": "lián",
+      "tone": 2,
+      "meaning": "Lotus",
+      "story": "A lotus grass connected questions \"Lian? Why float?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 277,
+      "character": "前",
+      "pinyin": "qián",
+      "tone": 2,
+      "meaning": "in front",
+      "story": "\"Are we ahead?\" the boat questioned, walking in front.",
+      "primitives": []
+    },
+    {
+      "id": 278,
+      "character": "剪",
+      "pinyin": "jiǎn",
+      "tone": 3,
+      "meaning": "Shears",
+      "story": "This character represents shears, whispering \"Jian\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 279,
+      "character": "輸",
+      "pinyin": "shū",
+      "tone": 1,
+      "meaning": "to transport",
+      "story": "The strokes unite to show to transport, singing \"Shoo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 280,
+      "character": "逾",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "to exceed",
+      "story": "\"Yoo, too far?\" they questioned, walking beyond the limit to exceed it.",
+      "primitives": []
+    },
+    {
+      "id": 281,
+      "character": "各",
+      "pinyin": "gè",
+      "tone": 4,
+      "meaning": "each",
+      "story": "Like a mouth, this character means each and shouts \"Guh!\" spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 282,
+      "character": "格",
+      "pinyin": "gé",
+      "tone": 2,
+      "meaning": "Pattern",
+      "story": "Like a tree, this character means pattern and asks \"Guh? What style?\"!",
+      "primitives": []
+    },
+    {
+      "id": 283,
+      "character": "客",
+      "pinyin": "kè",
+      "tone": 4,
+      "meaning": "Guest",
+      "story": "This character represents guest, shouting \"Kuh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 284,
+      "character": "額",
+      "pinyin": "é",
+      "tone": 2,
+      "meaning": "Forehead",
+      "story": "\"Uh, why such a big forehead?\" The guest's page-sized head was surprising!",
+      "primitives": []
+    },
+    {
+      "id": 285,
+      "character": "夏",
+      "pinyin": "xià",
+      "tone": 4,
+      "meaning": "Summer",
+      "story": "This character represents summer, shouting \"Shya!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 286,
+      "character": "洛",
+      "pinyin": "luò",
+      "tone": 4,
+      "meaning": "L.A.",
+      "story": "Like water, this character means l.a. and shouts \"Luo!\" like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 287,
+      "character": "落",
+      "pinyin": "luò",
+      "tone": 4,
+      "meaning": "to fall",
+      "story": "Picture grass beside water: that's to fall, shouting \"Luo!\" sharply!",
+      "primitives": []
+    }
+  ]
+}

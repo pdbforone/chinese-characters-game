@@ -1,0 +1,278 @@
+{
+  "lesson": 33,
+  "characterCount": 30,
+  "characterList": "勇犯危脆印興酒配酋尊遵豆頭短禮體鼓喜廚樹血盡儘蓋溫監籃藍銀跟",
+  "themes": [],
+  "characters": [
+    {
+      "id": 951,
+      "character": "勇",
+      "pinyin": "yǒng",
+      "tone": 3,
+      "meaning": "courageous",
+      "story": "This character represents courageous, whispering \"Yong\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 952,
+      "character": "犯",
+      "pinyin": "fàn",
+      "tone": 4,
+      "meaning": "Criminal",
+      "story": "A criminal dog half-committed commands \"Fan!\" sharply violating rules!",
+      "primitives": []
+    },
+    {
+      "id": 953,
+      "character": "危",
+      "pinyin": "wēi [普], wei [國]",
+      "tone": 1,
+      "meaning": "Danger",
+      "story": "Danger! Rock climbing bound by fingerprints sings \"Way!\" anxiously high on the cliff!",
+      "primitives": []
+    },
+    {
+      "id": 954,
+      "character": "脆",
+      "pinyin": "cuì",
+      "tone": 4,
+      "meaning": "fragile",
+      "story": "\"Tsway!\" Flesh in danger commanded sharply - fragile, brittle, and easily broken!",
+      "primitives": []
+    },
+    {
+      "id": 955,
+      "character": "印",
+      "pinyin": "yìn",
+      "tone": 4,
+      "meaning": "Print",
+      "story": "\"Yin!\" The hand pressed the seal sharply to print - a stamp marking India's mark!",
+      "primitives": []
+    },
+    {
+      "id": 956,
+      "character": "興",
+      "pinyin": "xìng",
+      "tone": 4,
+      "meaning": "Excitement",
+      "story": "An striking symbol for excitement that shouts \"Shing!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 957,
+      "character": "酒",
+      "pinyin": "jiǔ",
+      "tone": 3,
+      "meaning": "Liquor",
+      "story": "A striking symbol for liquor that whispers \"Jyo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 958,
+      "character": "配",
+      "pinyin": "pèi",
+      "tone": 4,
+      "meaning": "to distribute",
+      "story": "The strokes unite to show to distribute, shouting \"Pay!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 959,
+      "character": "酋",
+      "pinyin": "qiú",
+      "tone": 2,
+      "meaning": "Chieftain",
+      "story": "A chieftain with wine questions \"Chyo? Am I chief?\" curiously leading the tribe!",
+      "primitives": []
+    },
+    {
+      "id": 960,
+      "character": "尊",
+      "pinyin": "zūn",
+      "tone": 1,
+      "meaning": "to venerate",
+      "story": "To venerate the wine altar sings \"Zun!\" cheerfully honoring with respect!",
+      "primitives": []
+    },
+    {
+      "id": 961,
+      "character": "遵",
+      "pinyin": "zūn",
+      "tone": 1,
+      "meaning": "to abide by",
+      "story": "To abide by the walk of veneration sings \"Zun!\" cheerfully following rules!",
+      "primitives": []
+    },
+    {
+      "id": 962,
+      "character": "豆",
+      "pinyin": "dòu",
+      "tone": 4,
+      "meaning": "Beans",
+      "story": "\"Doe!\" Beans in a dish commanded sharply - peas stacked high!",
+      "primitives": []
+    },
+    {
+      "id": 963,
+      "character": "頭",
+      "pinyin": "tóu",
+      "tone": 2,
+      "meaning": "Head",
+      "story": "A head with beans questions \"Toe? Where's the chief?\" curiously at the top!",
+      "primitives": []
+    },
+    {
+      "id": 964,
+      "character": "短",
+      "pinyin": "duǎn",
+      "tone": 3,
+      "meaning": "short",
+      "story": "See how the arrow forms short? It whispers \"Dwan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 965,
+      "character": "禮",
+      "pinyin": "lǐ",
+      "tone": 3,
+      "meaning": "Ceremony",
+      "story": "This character represents ceremony, whispering \"Lee\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 966,
+      "character": "體",
+      "pinyin": "tǐ",
+      "tone": 3,
+      "meaning": "Body",
+      "story": "The body takes the shape of body, whispering \"Ti\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 967,
+      "character": "鼓",
+      "pinyin": "gǔ",
+      "tone": 3,
+      "meaning": "a Drum",
+      "story": "The strokes unite to show a drum, singing \"Goo\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 968,
+      "character": "喜",
+      "pinyin": "xǐ",
+      "tone": 3,
+      "meaning": "joyful",
+      "story": "The mouth takes the shape of joyful, whispering \"Shi\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 969,
+      "character": "廚",
+      "pinyin": "chú",
+      "tone": 2,
+      "meaning": "Kitchen",
+      "story": "\"Choo, what's cooking?\" The cliff with beans questioned the kitchen curiously!",
+      "primitives": []
+    },
+    {
+      "id": 970,
+      "character": "樹",
+      "pinyin": "shù",
+      "tone": 4,
+      "meaning": "Timber",
+      "story": "\"Shoo!\" Tree and drum commanded sharply - timber leaking glue when beaten!",
+      "primitives": []
+    },
+    {
+      "id": 971,
+      "character": "血",
+      "pinyin": "xuě [普], xie [國]",
+      "tone": 3,
+      "meaning": "Blood",
+      "story": "The strokes unite to show blood, whispering \"Shueh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 972,
+      "character": "盡",
+      "pinyin": "jìn",
+      "tone": 4,
+      "meaning": "exhausted",
+      "story": "The strokes unite to show exhausted, shouting \"Jin!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 973,
+      "character": "儘",
+      "pinyin": "jǐn",
+      "tone": 3,
+      "meaning": "to the utmost",
+      "story": "The person stands for to the utmost, whispering \"Jeen\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 974,
+      "character": "蓋",
+      "pinyin": "gài",
+      "tone": 4,
+      "meaning": "Lid",
+      "story": "A lid of grass covers blood, commanding \"Gai!\" sharply - canopy on top!",
+      "primitives": []
+    },
+    {
+      "id": 975,
+      "character": "溫",
+      "pinyin": "wēn",
+      "tone": 1,
+      "meaning": "temperature",
+      "story": "Temperature of water sings \"Wen!\" warmly - Marilyn giving bowl to prisoner feels lukewarm!",
+      "primitives": []
+    },
+    {
+      "id": 976,
+      "character": "監",
+      "pinyin": "jiān",
+      "tone": 1,
+      "meaning": "to supervise",
+      "story": "A striking symbol for to supervise that sings \"Jian!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 977,
+      "character": "籃",
+      "pinyin": "lán",
+      "tone": 2,
+      "meaning": "Basket",
+      "story": "A basket of bamboo supervises, questioning \"Lan? What's inside?\" curiously holding goods!",
+      "primitives": []
+    },
+    {
+      "id": 978,
+      "character": "藍",
+      "pinyin": "lán",
+      "tone": 2,
+      "meaning": "blue",
+      "story": "The grass takes the shape of blue, asking \"Lan? Why this color?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 979,
+      "character": "銀",
+      "pinyin": "yín",
+      "tone": 2,
+      "meaning": "Silver",
+      "story": "\"Yin, is this precious metal?\" Gold questioned silver curiously, shining bright!",
+      "primitives": []
+    },
+    {
+      "id": 980,
+      "character": "跟",
+      "pinyin": "gēn",
+      "tone": 1,
+      "meaning": "Heel",
+      "story": "A heel foot following sings \"Gen!\" cheerfully accompanying behind!",
+      "primitives": []
+    }
+  ]
+}

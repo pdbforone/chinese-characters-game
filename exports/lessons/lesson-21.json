@@ -1,0 +1,314 @@
+{
+  "lesson": 21,
+  "characterCount": 34,
+  "characterList": "困固國圓因園回迴圖店庫褲廠床麻心忘忍認志誌思意想息恐感憾憂怕忙慣懷必",
+  "themes": ["body"],
+  "characters": [
+    {
+      "id": 514,
+      "character": "困",
+      "pinyin": "kùn",
+      "tone": 4,
+      "meaning": "trapped",
+      "story": "\"Koon!\" The tree was trapped in a box, stuck and confined.",
+      "primitives": []
+    },
+    {
+      "id": 515,
+      "character": "固",
+      "pinyin": "gù",
+      "tone": 4,
+      "meaning": "solid",
+      "story": "The strokes unite to show solid, shouting \"Goo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 516,
+      "character": "國",
+      "pinyin": "guó",
+      "tone": 2,
+      "meaning": "Country",
+      "story": "A country enclosure solid questions \"Gwoh? Which nation?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 517,
+      "character": "圓",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "round",
+      "story": "A striking symbol for round that asks \"Yuan? Is it circular?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 518,
+      "character": "因",
+      "pinyin": "yīn",
+      "tone": 1,
+      "meaning": "a Cause",
+      "story": "An striking symbol for a cause that sings \"Yin!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 519,
+      "character": "園",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "Park",
+      "story": "A park enclosure soil questions \"Yuan? Nice garden?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 520,
+      "character": "回",
+      "pinyin": "huí",
+      "tone": 2,
+      "meaning": "to return",
+      "story": "A striking symbol for to return that asks \"Hway? Back?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 521,
+      "character": "迴",
+      "pinyin": "huí",
+      "tone": 2,
+      "meaning": "to revolve",
+      "story": "\"Hway, why are we spinning?\" they questioned, walking in circles to revolve.",
+      "primitives": []
+    },
+    {
+      "id": 522,
+      "character": "圖",
+      "pinyin": "tú",
+      "tone": 2,
+      "meaning": "Picture",
+      "story": "A picture enclosure winter questions \"Too? What image?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 523,
+      "character": "店",
+      "pinyin": "diàn",
+      "tone": 4,
+      "meaning": "a Store",
+      "story": "An striking symbol for a store that shouts \"Dian!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 524,
+      "character": "庫",
+      "pinyin": "kù",
+      "tone": 4,
+      "meaning": "Warehouse",
+      "story": "A warehouse building vehicle yells \"Koo!\" sharply storing!",
+      "primitives": []
+    },
+    {
+      "id": 525,
+      "character": "褲",
+      "pinyin": "kù",
+      "tone": 4,
+      "meaning": "Trousers",
+      "story": "This character represents trousers, shouting \"Koo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 526,
+      "character": "廠",
+      "pinyin": "chǎng",
+      "tone": 3,
+      "meaning": "Factory",
+      "story": "Picture factory taking form - it whispers \"Chang\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 527,
+      "character": "床",
+      "pinyin": "chuáng",
+      "tone": 2,
+      "meaning": "Bed",
+      "story": "The tree stands for bed, asking \"Chwang? Sleep here?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 528,
+      "character": "麻",
+      "pinyin": "má",
+      "tone": 2,
+      "meaning": "Hemp",
+      "story": "\"Ma, why so rough?\" The hemp plant under the roof was coarse and fibrous.",
+      "primitives": []
+    },
+    {
+      "id": 529,
+      "character": "心",
+      "pinyin": "xīn",
+      "tone": 1,
+      "meaning": "Heart",
+      "story": "A heart beats cheerfully singing \"Shin!\" high!",
+      "primitives": []
+    },
+    {
+      "id": 530,
+      "character": "忘",
+      "pinyin": "wàng",
+      "tone": 4,
+      "meaning": "to forget",
+      "story": "\"Wang!\" The deceased heart forgot everything sharply.",
+      "primitives": []
+    },
+    {
+      "id": 531,
+      "character": "忍",
+      "pinyin": "rěn",
+      "tone": 3,
+      "meaning": "to endure",
+      "story": "With a heart combined with a blade, you get to endure - \"Ren\" rings out softly!",
+      "primitives": []
+    },
+    {
+      "id": 532,
+      "character": "認",
+      "pinyin": "rèn",
+      "tone": 4,
+      "meaning": "to recognize",
+      "story": "Picture to recognize taking form - it shouts \"Ren!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 533,
+      "character": "志",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "Aspiration",
+      "story": "See how the heart forms aspiration? It shouts \"Zhi!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 534,
+      "character": "誌",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "Annals",
+      "story": "The strokes unite to show annals, shouting \"Zhi!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 535,
+      "character": "思",
+      "pinyin": "sī",
+      "tone": 1,
+      "meaning": "to consider",
+      "story": "\"Si!\" The heart considered the field, thinking cheerfully about planting.",
+      "primitives": []
+    },
+    {
+      "id": 536,
+      "character": "意",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "Idea",
+      "story": "\"Yi!\" The sound reached the heart, commanding an idea sharply.",
+      "primitives": []
+    },
+    {
+      "id": 537,
+      "character": "想",
+      "pinyin": "xiǎng",
+      "tone": 3,
+      "meaning": "to think",
+      "story": "See how the tree forms to think? It whispers \"Shyang\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 538,
+      "character": "息",
+      "pinyin": "xí",
+      "tone": 2,
+      "meaning": "Breath",
+      "story": "See how the heart forms breath? It asks \"Shi? Breathing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 539,
+      "character": "恐",
+      "pinyin": "kǒng",
+      "tone": 3,
+      "meaning": "to fear",
+      "story": "See how the heart forms to fear? It whispers \"Kong\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 540,
+      "character": "感",
+      "pinyin": "gǎn",
+      "tone": 3,
+      "meaning": "to feel",
+      "story": "The heart stands for to feel, whispering \"Gan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 541,
+      "character": "憾",
+      "pinyin": "hàn",
+      "tone": 4,
+      "meaning": "a Regret",
+      "story": "Like a heart, this character means a regret and shouts \"Han!\"!",
+      "primitives": []
+    },
+    {
+      "id": 542,
+      "character": "憂",
+      "pinyin": "yōu",
+      "tone": 1,
+      "meaning": "worried",
+      "story": "See how the heart forms worried? It sings \"Yo!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 543,
+      "character": "怕",
+      "pinyin": "pà",
+      "tone": 4,
+      "meaning": "to dread",
+      "story": "\"Pa!\" The white heart feared sharply, filled with dread.",
+      "primitives": []
+    },
+    {
+      "id": 544,
+      "character": "忙",
+      "pinyin": "máng",
+      "tone": 2,
+      "meaning": "busy",
+      "story": "See how the heart forms busy? It asks \"Mang? Too much?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 545,
+      "character": "慣",
+      "pinyin": "guàn",
+      "tone": 4,
+      "meaning": "accustomed to",
+      "story": "See how the heart forms accustomed to? It shouts \"Gwan!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 546,
+      "character": "懷",
+      "pinyin": "huái",
+      "tone": 2,
+      "meaning": "to cherish",
+      "story": "\"Hwai, should I care for it?\" The bad situation made the heart question what to cherish.",
+      "primitives": []
+    },
+    {
+      "id": 547,
+      "character": "必",
+      "pinyin": "bì",
+      "tone": 4,
+      "meaning": "certainly",
+      "story": "Like a heart, this character means certainly and shouts \"Bee!\"!",
+      "primitives": []
+    }
+  ]
+}

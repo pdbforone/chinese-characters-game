@@ -1,0 +1,350 @@
+{
+  "lesson": 20,
+  "characterCount": 38,
+  "characterList": "也她地池蟲蛇蛋風諷己改記已包泡起家場湯羊美洋鮮達樣差集進準誰售雖確午許羽習翔",
+  "themes": ["action"],
+  "characters": [
+    {
+      "id": 476,
+      "character": "也",
+      "pinyin": "yě",
+      "tone": 3,
+      "meaning": "also",
+      "story": "An striking symbol for also that whispers \"Yeh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 477,
+      "character": "她",
+      "pinyin": "tā",
+      "tone": 1,
+      "meaning": "she",
+      "story": "The strokes unite to show she, singing \"Ta!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 478,
+      "character": "地",
+      "pinyin": "dì",
+      "tone": 4,
+      "meaning": "Ground",
+      "story": "The earth stands for ground, shouting \"Dee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 479,
+      "character": "池",
+      "pinyin": "chí",
+      "tone": 2,
+      "meaning": "Pond",
+      "story": "Like water, this character means pond and asks \"Chi? Deep?\"!",
+      "primitives": []
+    },
+    {
+      "id": 480,
+      "character": "蟲",
+      "pinyin": "chóng",
+      "tone": 2,
+      "meaning": "Insects",
+      "story": "An striking symbol for insects that asks \"Chong? Where going?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 481,
+      "character": "蛇",
+      "pinyin": "shé",
+      "tone": 2,
+      "meaning": "Serpent",
+      "story": "A serpent insect also questions \"Shuh? Slithering?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 482,
+      "character": "蛋",
+      "pinyin": "dàn",
+      "tone": 4,
+      "meaning": "Egg",
+      "story": "\"Dan!\" the egg commanded as it finished hatching, an insect emerging.",
+      "primitives": []
+    },
+    {
+      "id": 483,
+      "character": "風",
+      "pinyin": "fēng",
+      "tone": 1,
+      "meaning": "the Wind",
+      "story": "This character represents the wind, singing \"Fung!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 484,
+      "character": "諷",
+      "pinyin": "fěng",
+      "tone": 3,
+      "meaning": "to mock",
+      "story": "Picture to mock taking form - it whispers \"Fung\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 485,
+      "character": "己",
+      "pinyin": "jǐ",
+      "tone": 3,
+      "meaning": "self",
+      "story": "A striking symbol for self that whispers \"Ji\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 486,
+      "character": "改",
+      "pinyin": "gǎi",
+      "tone": 3,
+      "meaning": "to alter",
+      "story": "Picture to alter taking form - it whispers \"Gai\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 487,
+      "character": "記",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "to remember",
+      "story": "Picture to remember taking form - it shouts \"Ji!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 488,
+      "character": "已",
+      "pinyin": "yǐ",
+      "tone": 3,
+      "meaning": "already",
+      "story": "An striking symbol for already that whispers \"Yi\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 489,
+      "character": "包",
+      "pinyin": "bāo",
+      "tone": 1,
+      "meaning": "to wrap",
+      "story": "\"Bao!\" he sang cheerfully, kneeling down to wrap and enclose the package himself.",
+      "primitives": []
+    },
+    {
+      "id": 490,
+      "character": "泡",
+      "pinyin": "pào",
+      "tone": 4,
+      "meaning": "Bubbles",
+      "story": "Like water, this character means bubbles and shouts \"Pao!\"!",
+      "primitives": []
+    },
+    {
+      "id": 491,
+      "character": "起",
+      "pinyin": "qǐ",
+      "tone": 3,
+      "meaning": "to begin",
+      "story": "Picture to begin taking form - it whispers \"Chi\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 492,
+      "character": "家",
+      "pinyin": "jiā",
+      "tone": 1,
+      "meaning": "House",
+      "story": "Like a roof, this character means house and sings \"Jia!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 493,
+      "character": "場",
+      "pinyin": "chǎng",
+      "tone": 3,
+      "meaning": "Site",
+      "story": "See how the earth forms site? It whispers \"Chang\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 494,
+      "character": "湯",
+      "pinyin": "tāng",
+      "tone": 1,
+      "meaning": "Soup",
+      "story": "Like water, this character means soup and sings \"Tang!\" like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 495,
+      "character": "羊",
+      "pinyin": "yáng",
+      "tone": 2,
+      "meaning": "Sheep",
+      "story": "A striking symbol for sheep that asks \"Yang? Baaa?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 496,
+      "character": "美",
+      "pinyin": "měi",
+      "tone": 3,
+      "meaning": "beautiful",
+      "story": "The strokes unite to show beautiful, whispering \"May\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 497,
+      "character": "洋",
+      "pinyin": "yáng",
+      "tone": 2,
+      "meaning": "Ocean",
+      "story": "The water stands for ocean, asking \"Yang? How vast?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 498,
+      "character": "鮮",
+      "pinyin": "xiān",
+      "tone": 1,
+      "meaning": "fresh",
+      "story": "A striking symbol for fresh that sings \"Shian!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 499,
+      "character": "達",
+      "pinyin": "dá",
+      "tone": 2,
+      "meaning": "to reach",
+      "story": "\"Da, are we there yet?\" The sheep questioned on the walk to reach their destination.",
+      "primitives": []
+    },
+    {
+      "id": 500,
+      "character": "樣",
+      "pinyin": "yàng",
+      "tone": 4,
+      "meaning": "Appearance",
+      "story": "The tree stands for appearance, shouting \"Yang!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 501,
+      "character": "差",
+      "pinyin": "chà",
+      "tone": 4,
+      "meaning": "to fall short of",
+      "story": "To fall short sheep work yells \"Cha!\" sharply lacking!",
+      "primitives": []
+    },
+    {
+      "id": 502,
+      "character": "集",
+      "pinyin": "jí",
+      "tone": 2,
+      "meaning": "to gather",
+      "story": "\"Jee, are all the birds here?\" The tree questioned as they gathered together.",
+      "primitives": []
+    },
+    {
+      "id": 503,
+      "character": "進",
+      "pinyin": "jìn",
+      "tone": 4,
+      "meaning": "to advance",
+      "story": "\"Jin, move forward!\" The birds commanded sharply, walking to advance.",
+      "primitives": []
+    },
+    {
+      "id": 504,
+      "character": "準",
+      "pinyin": "zhǔn",
+      "tone": 3,
+      "meaning": "Standard",
+      "story": "The water stands for standard, whispering \"Zhun\" softly like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 505,
+      "character": "誰",
+      "pinyin": "shuí2",
+      "tone": 2,
+      "meaning": "who?",
+      "story": "This character represents who?, asking \"Shway? Who is it?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 506,
+      "character": "售",
+      "pinyin": "shòu",
+      "tone": 4,
+      "meaning": "to vend",
+      "story": "\"Show what you're selling!\" The bird's mouth commanded, vending goods.",
+      "primitives": []
+    },
+    {
+      "id": 507,
+      "character": "雖",
+      "pinyin": "suī",
+      "tone": 1,
+      "meaning": "although",
+      "story": "This character represents although, singing \"Sway!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 508,
+      "character": "確",
+      "pinyin": "què",
+      "tone": 4,
+      "meaning": "reliable",
+      "story": "See how the stone forms reliable? It shouts \"Chueh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 509,
+      "character": "午",
+      "pinyin": "wǔ",
+      "tone": 3,
+      "meaning": "Noon",
+      "story": "This character represents noon, whispering \"Woo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 510,
+      "character": "許",
+      "pinyin": "xǔ",
+      "tone": 3,
+      "meaning": "to permit",
+      "story": "A striking symbol for to permit that whispers \"Shu\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 511,
+      "character": "羽",
+      "pinyin": "yǔ",
+      "tone": 3,
+      "meaning": "Feathers",
+      "story": "Picture feathers taking form - it whispers \"Yu\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 512,
+      "character": "習",
+      "pinyin": "xí",
+      "tone": 2,
+      "meaning": "to learn",
+      "story": "\"Shi, how do we practice?\" White feathers questioned as students learned.",
+      "primitives": []
+    },
+    {
+      "id": 513,
+      "character": "翔",
+      "pinyin": "xiáng",
+      "tone": 2,
+      "meaning": "to soar",
+      "story": "\"Shyang, are we flying?\" The sheep with feathers soared through the sky.",
+      "primitives": []
+    }
+  ]
+}

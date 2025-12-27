@@ -1,0 +1,224 @@
+{
+  "lesson": 41,
+  "characterCount": 24,
+  "characterList": "南門們閒問間簡開聞倉槍創非排罪靠侯候決快筷韋圍偉",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1201,
+      "character": "南",
+      "pinyin": "nán",
+      "tone": 2,
+      "meaning": "South",
+      "story": "This character represents south, asking \"Nahn? Direction?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1202,
+      "character": "門",
+      "pinyin": "mén",
+      "tone": 2,
+      "meaning": "Gate",
+      "story": "The gate takes the shape of gate, asking \"Muhn? Entrance?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1203,
+      "character": "們",
+      "pinyin": "men",
+      "tone": 5,
+      "meaning": "[plural]",
+      "story": "Plural marker gate person says \"men\" neutrally - we/they/you all!",
+      "primitives": []
+    },
+    {
+      "id": 1204,
+      "character": "閒",
+      "pinyin": "xián",
+      "tone": 2,
+      "meaning": "Leisure",
+      "story": "The tree and gate unite to create leisure, asking \"Shyan? Idle?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1205,
+      "character": "問",
+      "pinyin": "wèn",
+      "tone": 4,
+      "meaning": "to ask",
+      "story": "The gate and mouth unite to create to ask, shouting \"Wuhn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1206,
+      "character": "間",
+      "pinyin": "jiān",
+      "tone": 1,
+      "meaning": "Interval",
+      "story": "Picture a gate beside a sun: that's interval, singing \"Jyan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1207,
+      "character": "簡",
+      "pinyin": "jiǎn",
+      "tone": 3,
+      "meaning": "simple",
+      "story": "See how the bamboo forms simple? It whispers \"Jyan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1208,
+      "character": "開",
+      "pinyin": "kāi",
+      "tone": 1,
+      "meaning": "to open",
+      "story": "The gate takes the shape of to open, singing \"Kigh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1209,
+      "character": "聞",
+      "pinyin": "wén",
+      "tone": 2,
+      "meaning": "to hear",
+      "story": "\"Wuhn, are you sniffing?\" The ear at the gate questioned hearing curiously - listening!",
+      "primitives": []
+    },
+    {
+      "id": 1210,
+      "character": "倉",
+      "pinyin": "cāng",
+      "tone": 1,
+      "meaning": "Storehouse",
+      "story": "The mouth takes the shape of storehouse, singing \"Tsahng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1211,
+      "character": "槍",
+      "pinyin": "qiāng",
+      "tone": 1,
+      "meaning": "Gun",
+      "story": "See how the tree forms gun? It sings \"Chyahng!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1212,
+      "character": "創",
+      "pinyin": "chuàng",
+      "tone": 4,
+      "meaning": "to initiate",
+      "story": "The sword takes the shape of to initiate, shouting \"Chwahng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1213,
+      "character": "非",
+      "pinyin": "fēi",
+      "tone": 1,
+      "meaning": "non—",
+      "story": "The strokes unite to show non—, singing \"Fay!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1214,
+      "character": "排",
+      "pinyin": "pái",
+      "tone": 2,
+      "meaning": "Row",
+      "story": "When the line meets the hand, they form row, asking \"Pigh? Line?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1215,
+      "character": "罪",
+      "pinyin": "zuì",
+      "tone": 4,
+      "meaning": "Guilt",
+      "story": "This character represents guilt, shouting \"Dzway!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1216,
+      "character": "靠",
+      "pinyin": "kào",
+      "tone": 4,
+      "meaning": "to lean on",
+      "story": "A striking symbol for to lean on that shouts \"Cow!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1217,
+      "character": "侯",
+      "pinyin": "hóu",
+      "tone": 2,
+      "meaning": "Marquis",
+      "story": "With an arrow combined with a target, you get marquis - \"Ho? Lord?\" rings out curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1218,
+      "character": "候",
+      "pinyin": "hòu",
+      "tone": 4,
+      "meaning": "to wait",
+      "story": "\"Ho!\" The marquis walking commanded sharply to wait - expecting the climate!",
+      "primitives": []
+    },
+    {
+      "id": 1219,
+      "character": "決",
+      "pinyin": "jué",
+      "tone": 2,
+      "meaning": "to decide",
+      "story": "\"Jyueh, what are we determining?\" Water and husband questioned deciding curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1220,
+      "character": "快",
+      "pinyin": "kuài",
+      "tone": 4,
+      "meaning": "fast",
+      "story": "Like a heart, this character means fast and shouts \"Kwigh!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1221,
+      "character": "筷",
+      "pinyin": "kuài",
+      "tone": 4,
+      "meaning": "Chopsticks",
+      "story": "See how the bamboo forms chopsticks? It shouts \"Kwigh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1222,
+      "character": "韋",
+      "pinyin": "wéi",
+      "tone": 2,
+      "meaning": "Tanned Hide",
+      "story": "\"Way, is this skin?\" The soft leather questioned tanned hide curiously - processed!",
+      "primitives": []
+    },
+    {
+      "id": 1223,
+      "character": "圍",
+      "pinyin": "wéi",
+      "tone": 2,
+      "meaning": "to surround",
+      "story": "\"Way, should we circle it?\" The hide in an enclosure questioned surrounding curiously - corralling!",
+      "primitives": []
+    },
+    {
+      "id": 1224,
+      "character": "偉",
+      "pinyin": "wěi",
+      "tone": 3,
+      "meaning": "great",
+      "story": "See how the person forms great? It whispers \"Way\" softly - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

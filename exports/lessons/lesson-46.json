@@ -1,0 +1,98 @@
+{
+  "lesson": 46,
+  "characterCount": 10,
+  "characterList": "助並普業對共供異巷港",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1302,
+      "character": "助",
+      "pinyin": "zhù",
+      "tone": 4,
+      "meaning": "to assist",
+      "story": "\"Joo!\" Moreover, power commanded sharply to assist and help!",
+      "primitives": []
+    },
+    {
+      "id": 1303,
+      "character": "並",
+      "pinyin": "bìng",
+      "tone": 4,
+      "meaning": "side by side",
+      "story": "This character represents side by side, shouting \"Bing!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1304,
+      "character": "普",
+      "pinyin": "pǔ",
+      "tone": 3,
+      "meaning": "universal",
+      "story": "The sun stands for universal, whispering \"Poo\" softly as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 1305,
+      "character": "業",
+      "pinyin": "yè",
+      "tone": 4,
+      "meaning": "Profession",
+      "story": "When the grass meets the tree, they form profession, shouting \"Yeh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1306,
+      "character": "對",
+      "pinyin": "duì",
+      "tone": 4,
+      "meaning": "that's right",
+      "story": "This character represents that's right, shouting \"Dway!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1307,
+      "character": "共",
+      "pinyin": "gòng",
+      "tone": 4,
+      "meaning": "together",
+      "story": "The grass takes the shape of together, shouting \"Gohng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1308,
+      "character": "供",
+      "pinyin": "gōng",
+      "tone": 1,
+      "meaning": "Supply",
+      "story": "The person stands for supply, singing \"Gohng!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1309,
+      "character": "異",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "different",
+      "story": "See how the field forms different? It shouts \"Yee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1310,
+      "character": "巷",
+      "pinyin": "xiàng",
+      "tone": 4,
+      "meaning": "Lane",
+      "story": "Picture lane taking form - it shouts \"Shyahng!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1311,
+      "character": "港",
+      "pinyin": "gǎng",
+      "tone": 3,
+      "meaning": "Port",
+      "story": "The water takes the shape of port, whispering \"Gahng\" softly!",
+      "primitives": []
+    }
+  ]
+}

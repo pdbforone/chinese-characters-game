@@ -1,0 +1,188 @@
+{
+  "lesson": 51,
+  "characterCount": 20,
+  "characterList": "蒸牙穿呀釋番翻播毛尾宅託為偽長張漲套髮展",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1374,
+      "character": "蒸",
+      "pinyin": "zhēng",
+      "tone": 1,
+      "meaning": "to steam",
+      "story": "\"Jung!\" Flowers undertook cooking cheerfully - time to steam with vapor!",
+      "primitives": []
+    },
+    {
+      "id": 1375,
+      "character": "牙",
+      "pinyin": "yá",
+      "tone": 2,
+      "meaning": "Tooth",
+      "story": "Like a tooth, this character means tooth and asks \"Yah? Ivory?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1376,
+      "character": "穿",
+      "pinyin": "chuān",
+      "tone": 1,
+      "meaning": "to pass through",
+      "story": "Like a tooth, this character means to pass through and sings \"Chwahn!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1377,
+      "character": "呀",
+      "pinyin": "ya",
+      "tone": 5,
+      "meaning": "wow!",
+      "story": "Picture a mouth beside a tooth: that's wow!, calling out \"yah\"!",
+      "primitives": []
+    },
+    {
+      "id": 1378,
+      "character": "釋",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "to explain",
+      "story": "\"Shir!\" Rice and metal commanded sharply to explain - elucidating and interpreting the explanation!",
+      "primitives": []
+    },
+    {
+      "id": 1379,
+      "character": "番",
+      "pinyin": "fān",
+      "tone": 1,
+      "meaning": "a Try",
+      "story": "The field stands for a try, singing \"Fahn!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1380,
+      "character": "翻",
+      "pinyin": "fān",
+      "tone": 1,
+      "meaning": "to turn over",
+      "story": "A striking symbol for to turn over that sings \"Fahn!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1381,
+      "character": "播",
+      "pinyin": "bō",
+      "tone": 1,
+      "meaning": "to broadcast",
+      "story": "See how the hand forms to broadcast? It sings \"Bwo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1382,
+      "character": "毛",
+      "pinyin": "máo",
+      "tone": 2,
+      "meaning": "Fur",
+      "story": "A striking symbol for fur that asks \"Mao? Fluffy?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1383,
+      "character": "尾",
+      "pinyin": "wěi",
+      "tone": 3,
+      "meaning": "Tail",
+      "story": "The body stands for tail, whispering \"Way\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1384,
+      "character": "宅",
+      "pinyin": "zhái",
+      "tone": 2,
+      "meaning": "a Dwelling",
+      "story": "Like a roof, this character means a dwelling and asks \"Jigh? Residence?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1385,
+      "character": "託",
+      "pinyin": "tuō",
+      "tone": 1,
+      "meaning": "to entrust",
+      "story": "\"Twoh!\" Words about dwelling sang cheerfully - ready to entrust, rely and consign!",
+      "primitives": []
+    },
+    {
+      "id": 1386,
+      "character": "為",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "to act",
+      "story": "\"Way!\" Claws and elephant commanded sharply to act - do, handle and govern!",
+      "primitives": []
+    },
+    {
+      "id": 1387,
+      "character": "偽",
+      "pinyin": "wěi",
+      "tone": 3,
+      "meaning": "bogus",
+      "story": "Like a person, this character means bogus and whispers \"Way\"!",
+      "primitives": []
+    },
+    {
+      "id": 1388,
+      "character": "長",
+      "pinyin": "cháng",
+      "tone": 2,
+      "meaning": "long",
+      "story": "The strokes unite to show long, asking \"Chahng? Forever?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1389,
+      "character": "張",
+      "pinyin": "zhāng",
+      "tone": 1,
+      "meaning": "to stretch",
+      "story": "\"Jahng!\" The long bow sang cheerfully to stretch - extending, expanding and lengthening!",
+      "primitives": []
+    },
+    {
+      "id": 1390,
+      "character": "漲",
+      "pinyin": "zhàng",
+      "tone": 4,
+      "meaning": "to swell",
+      "story": "\"Jahng!\" Water stretched sharply - time to swell, inflate and rise in price!",
+      "primitives": []
+    },
+    {
+      "id": 1391,
+      "character": "套",
+      "pinyin": "tào",
+      "tone": 4,
+      "meaning": "a Cover",
+      "story": "An striking symbol for a cover that shouts \"Tao!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1392,
+      "character": "髮",
+      "pinyin": "fǎ",
+      "tone": 3,
+      "meaning": "Hair of the Head",
+      "story": "The strokes unite to show hair of the head, whispering \"Fah\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1393,
+      "character": "展",
+      "pinyin": "zhǎn",
+      "tone": 3,
+      "meaning": "to unfold",
+      "story": "Like a body, this character means to unfold and whispers \"Jahn\"!",
+      "primitives": []
+    }
+  ]
+}

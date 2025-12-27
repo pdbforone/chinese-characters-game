@@ -1,0 +1,80 @@
+{
+  "lesson": 72,
+  "characterCount": 8,
+  "characterList": "濺址澀蘋赴趟堤鍵",
+  "themes": ["action"],
+  "characters": [
+    {
+      "id": 1640,
+      "character": "濺",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "splatter",
+      "story": "The water stands for splatter, shouting \"Jyan!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1641,
+      "character": "址",
+      "pinyin": "zhǐ",
+      "tone": 3,
+      "meaning": "address",
+      "story": "The soil takes the shape of address, whispering \"Jir\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1642,
+      "character": "澀",
+      "pinyin": "sè",
+      "tone": 4,
+      "meaning": "astringent",
+      "story": "The water stands for astringent, shouting \"Suh!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1643,
+      "character": "蘋",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "apple",
+      "story": "An striking symbol for apple that asks \"Ping? Fruit?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1644,
+      "character": "赴",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "go to",
+      "story": "A striking symbol for go to that shouts \"Foo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1645,
+      "character": "趟",
+      "pinyin": "tàng",
+      "tone": 4,
+      "meaning": "trip",
+      "story": "A striking symbol for trip that shouts \"Tahng!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1646,
+      "character": "堤",
+      "pinyin": "tí",
+      "tone": 2,
+      "meaning": "dike",
+      "story": "\"Tee, is this a dam?\" Soil questioned being curiously - a dike, embankment or levee!",
+      "primitives": []
+    },
+    {
+      "id": 1647,
+      "character": "鍵",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "keyboard keys",
+      "story": "\"Jyan!\" Metal building commanded sharply - keyboard keys, buttons for typing!",
+      "primitives": []
+    }
+  ]
+}

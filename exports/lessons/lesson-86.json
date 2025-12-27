@@ -1,0 +1,296 @@
+{
+  "lesson": 86,
+  "characterCount": 32,
+  "characterList": "甩惜措棄燕遮畔拌叛券藤狀牆鼎寢侵浸贓藏臟獎漿槳蔣淵肅嘯蕭鏽芝貶泛",
+  "themes": ["body", "action"],
+  "characters": [
+    {
+      "id": 2171,
+      "character": "甩",
+      "pinyin": "shuǎi",
+      "tone": 3,
+      "meaning": "fling",
+      "story": "The hand takes the shape of fling, whispering \"Shwigh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2172,
+      "character": "惜",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "rue",
+      "story": "Like a heart, this character means rue and sings \"Shee!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2173,
+      "character": "措",
+      "pinyin": "cuò",
+      "tone": 4,
+      "meaning": "arrange",
+      "story": "The hand stands for arrange, shouting \"Tswoh!\" sharply reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 2174,
+      "character": "棄",
+      "pinyin": "qì",
+      "tone": 4,
+      "meaning": "forsake",
+      "story": "The tree stands for forsake, shouting \"Chee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2175,
+      "character": "燕",
+      "pinyin": "yàn",
+      "tone": 4,
+      "meaning": "swallow",
+      "story": "The mouth takes the shape of swallow, shouting \"Yahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2176,
+      "character": "遮",
+      "pinyin": "zhē",
+      "tone": 1,
+      "meaning": "screen",
+      "story": "The fire stands for screen, singing \"Juh!\" cheerfully with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 2177,
+      "character": "畔",
+      "pinyin": "pàn",
+      "tone": 4,
+      "meaning": "littoral",
+      "story": "The field takes the shape of littoral, shouting \"Pahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2178,
+      "character": "拌",
+      "pinyin": "bàn",
+      "tone": 4,
+      "meaning": "blend",
+      "story": "See how the hand forms blend? It shouts \"Bahn!\" sharply reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 2179,
+      "character": "叛",
+      "pinyin": "pàn",
+      "tone": 4,
+      "meaning": "betray",
+      "story": "Picture betray taking form - it shouts \"Pahn!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2180,
+      "character": "券",
+      "pinyin": "quàn",
+      "tone": 4,
+      "meaning": "voucher",
+      "story": "The strokes unite to show voucher, shouting \"Chyuan!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2181,
+      "character": "藤",
+      "pinyin": "téng",
+      "tone": 2,
+      "meaning": "rattan",
+      "story": "A striking symbol for rattan that asks \"Tung? Vine?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2182,
+      "character": "狀",
+      "pinyin": "zhuàng",
+      "tone": 4,
+      "meaning": "state of affairs",
+      "story": "Picture state of affairs taking form - it shouts \"Jwahng!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2183,
+      "character": "牆",
+      "pinyin": "qiáng",
+      "tone": 2,
+      "meaning": "wall",
+      "story": "When the earth meets the wall, they form wall, asking \"Chyahng? Barrier?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2184,
+      "character": "鼎",
+      "pinyin": "dǐng",
+      "tone": 3,
+      "meaning": "old cooking pot",
+      "story": "The ear takes the shape of old cooking pot, whispering \"Ding\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2185,
+      "character": "寢",
+      "pinyin": "qǐn",
+      "tone": 3,
+      "meaning": "get some shuteye",
+      "story": "This character represents get some shuteye, whispering \"Chin\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2186,
+      "character": "侵",
+      "pinyin": "qīn",
+      "tone": 1,
+      "meaning": "invade",
+      "story": "The person stands for invade, singing \"Chin!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2187,
+      "character": "浸",
+      "pinyin": "jìn",
+      "tone": 4,
+      "meaning": "immerse",
+      "story": "Like water, this character means immerse and shouts \"Jin!\"!",
+      "primitives": []
+    },
+    {
+      "id": 2188,
+      "character": "贓",
+      "pinyin": "zāng",
+      "tone": 1,
+      "meaning": "stolen goods",
+      "story": "\"Dzahng!\" Shells went surfboarding cheerfully - stolen goods, loot and plunder!",
+      "primitives": []
+    },
+    {
+      "id": 2189,
+      "character": "藏",
+      "pinyin": "cáng",
+      "tone": 2,
+      "meaning": "hide",
+      "story": "\"Tsahng, should we conceal it?\" Flowers questioned stolen goods curiously - hide and stash in Tibet!",
+      "primitives": []
+    },
+    {
+      "id": 2190,
+      "character": "臟",
+      "pinyin": "zàng",
+      "tone": 4,
+      "meaning": "guts",
+      "story": "\"Dzahng!\" Body held stolen goods sharply - guts, internal organs, dirty!",
+      "primitives": []
+    },
+    {
+      "id": 2191,
+      "character": "獎",
+      "pinyin": "jiǎng",
+      "tone": 3,
+      "meaning": "award",
+      "story": "This character represents award, whispering \"Jyahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2192,
+      "character": "漿",
+      "pinyin": "jiāng",
+      "tone": 1,
+      "meaning": "thick liquid",
+      "story": "\"Jyahng!\" General commanded water cheerfully - thick liquid, starch and paste!",
+      "primitives": []
+    },
+    {
+      "id": 2193,
+      "character": "槳",
+      "pinyin": "jiǎng",
+      "tone": 3,
+      "meaning": "oar",
+      "story": "See how the tree forms oar? It whispers \"Jyahng\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2194,
+      "character": "蔣",
+      "pinyin": "jiǎng",
+      "tone": 3,
+      "meaning": "Jiang",
+      "story": "This character represents jiang, whispering \"Jyahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2195,
+      "character": "淵",
+      "pinyin": "yuān",
+      "tone": 1,
+      "meaning": "abyss",
+      "story": "\"Yuan!\" Water in the rice field sang cheerfully - an abyss, deep chasm!",
+      "primitives": []
+    },
+    {
+      "id": 2196,
+      "character": "肅",
+      "pinyin": "sù",
+      "tone": 4,
+      "meaning": "solemn",
+      "story": "Like a body, this character means solemn and shouts \"Soo!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2197,
+      "character": "嘯",
+      "pinyin": "xiào",
+      "tone": 4,
+      "meaning": "howl",
+      "story": "The mouth takes the shape of howl, shouting \"Shyao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2198,
+      "character": "蕭",
+      "pinyin": "xiāo",
+      "tone": 1,
+      "meaning": "desolate",
+      "story": "\"Shyao!\" Flowers in the grand canyon sang cheerfully - desolate, bleak and decrepit!",
+      "primitives": []
+    },
+    {
+      "id": 2199,
+      "character": "鏽",
+      "pinyin": "xiù",
+      "tone": 4,
+      "meaning": "rust",
+      "story": "Like metal, this character means rust and shouts \"Shyo!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2200,
+      "character": "芝",
+      "pinyin": "zhī",
+      "tone": 1,
+      "meaning": "sesame",
+      "story": "The strokes unite to show sesame, singing \"Jir!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2201,
+      "character": "貶",
+      "pinyin": "biǎn",
+      "tone": 3,
+      "meaning": "devalue",
+      "story": "See how the shellfish forms devalue? It whispers \"Byan\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2202,
+      "character": "泛",
+      "pinyin": "fàn",
+      "tone": 4,
+      "meaning": "nonspecific",
+      "story": "See how the water forms nonspecific? It shouts \"Fahn!\" sharply!",
+      "primitives": []
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "lesson": 44,
+  "characterCount": 23,
+  "characterList": "廢形影彩須珍參慘修文蚊彥顏產率摔央英巴把爸吧色",
+  "themes": ["numbers"],
+  "characters": [
+    {
+      "id": 1262,
+      "character": "廢",
+      "pinyin": "fèi",
+      "tone": 4,
+      "meaning": "to discard",
+      "story": "Picture to discard taking form - it shouts \"Fay!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1263,
+      "character": "形",
+      "pinyin": "xíng",
+      "tone": 2,
+      "meaning": "Shape",
+      "story": "This character represents shape, asking \"Shing? Appearance?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1264,
+      "character": "影",
+      "pinyin": "yǐng",
+      "tone": 3,
+      "meaning": "Shadow",
+      "story": "Like a sun, this character means shadow and whispers \"Ying\"!",
+      "primitives": []
+    },
+    {
+      "id": 1265,
+      "character": "彩",
+      "pinyin": "cǎi",
+      "tone": 3,
+      "meaning": "Hue",
+      "story": "See how the tree forms hue? It whispers \"Tsigh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1266,
+      "character": "須",
+      "pinyin": "xū",
+      "tone": 1,
+      "meaning": "to have to",
+      "story": "This character represents to have to, singing \"Shyoo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1267,
+      "character": "珍",
+      "pinyin": "zhēn",
+      "tone": 1,
+      "meaning": "rare",
+      "story": "This character represents rare, singing \"Jun!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1268,
+      "character": "參",
+      "pinyin": "cān",
+      "tone": 1,
+      "meaning": "to participate",
+      "story": "\"Tsahn!\" Hairs and private parts sang cheerfully to participate - join, visit for ginseng!",
+      "primitives": []
+    },
+    {
+      "id": 1269,
+      "character": "慘",
+      "pinyin": "cǎn",
+      "tone": 3,
+      "meaning": "wretched",
+      "story": "See how the heart forms wretched? It whispers \"Tsahn\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1270,
+      "character": "修",
+      "pinyin": "xiū",
+      "tone": 1,
+      "meaning": "to repair",
+      "story": "\"Shyo!\" The person's shape sang cheerfully to repair - cultivate, study with discipline!",
+      "primitives": []
+    },
+    {
+      "id": 1271,
+      "character": "文",
+      "pinyin": "wén",
+      "tone": 2,
+      "meaning": "Literature",
+      "story": "The strokes unite to show literature, asking \"Wuhn? Writing?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1272,
+      "character": "蚊",
+      "pinyin": "wén",
+      "tone": 2,
+      "meaning": "Mosquito",
+      "story": "This character represents mosquito, asking \"Wuhn? Biting?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1273,
+      "character": "彥",
+      "pinyin": "yàn",
+      "tone": 4,
+      "meaning": "erudite",
+      "story": "Picture erudite taking form - it shouts \"Yahn!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1274,
+      "character": "顏",
+      "pinyin": "yán",
+      "tone": 2,
+      "meaning": "Countenance",
+      "story": "This character represents countenance, asking \"Yahn? Face?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1275,
+      "character": "產",
+      "pinyin": "chǎn",
+      "tone": 3,
+      "meaning": "Products",
+      "story": "Picture products taking form - it whispers \"Chahn\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1276,
+      "character": "率",
+      "pinyin": "shuài",
+      "tone": 4,
+      "meaning": "a Rate",
+      "story": "Like a field, this character means a rate and shouts \"Shwigh!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1277,
+      "character": "摔",
+      "pinyin": "shuāi",
+      "tone": 1,
+      "meaning": "to tumble",
+      "story": "\"Shwigh!\" Hand calculated the rate cheerfully - tumbling, falling, stumbling and tripping!",
+      "primitives": []
+    },
+    {
+      "id": 1278,
+      "character": "央",
+      "pinyin": "yāng",
+      "tone": 1,
+      "meaning": "Center",
+      "story": "A striking symbol for center that sings \"Yahng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1279,
+      "character": "英",
+      "pinyin": "yīng",
+      "tone": 1,
+      "meaning": "England",
+      "story": "This character represents england, singing \"Ying!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1280,
+      "character": "巴",
+      "pinyin": "bā",
+      "tone": 1,
+      "meaning": "Crust",
+      "story": "See how the mouth forms crust? It sings \"Bah!\" cheerfully spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1281,
+      "character": "把",
+      "pinyin": "bǎ",
+      "tone": 3,
+      "meaning": "to grasp",
+      "story": "The hand stands for to grasp, whispering \"Bah\" softly reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 1282,
+      "character": "爸",
+      "pinyin": "bà",
+      "tone": 4,
+      "meaning": "Papa",
+      "story": "The strokes unite to show papa, shouting \"Bah!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1283,
+      "character": "吧",
+      "pinyin": "ba",
+      "tone": 5,
+      "meaning": "Bar",
+      "story": "Like a mouth, this character means bar and calls \"bah\" spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1284,
+      "character": "色",
+      "pinyin": "sè",
+      "tone": 4,
+      "meaning": "Color",
+      "story": "The knife stands for color, shouting \"Suh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    }
+  ]
+}

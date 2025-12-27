@@ -1,0 +1,215 @@
+{
+  "lesson": 14,
+  "characterCount": 23,
+  "characterList": "冗沉軍輝運冠夢坑高享熟亭亮京涼景就周週士吉買賣",
+  "themes": [],
+  "characters": [
+    {
+      "id": 288,
+      "character": "冗",
+      "pinyin": "rǒng",
+      "tone": 3,
+      "meaning": "superfluous",
+      "story": "See how the roof forms superfluous? It whispers \"Rong\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 289,
+      "character": "沉",
+      "pinyin": "chén",
+      "tone": 2,
+      "meaning": "profound",
+      "story": "The water takes the shape of profound, asking \"Chen? How deep?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 290,
+      "character": "軍",
+      "pinyin": "jūn",
+      "tone": 1,
+      "meaning": "Army",
+      "story": "This character represents army, singing \"June!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 291,
+      "character": "輝",
+      "pinyin": "huī",
+      "tone": 1,
+      "meaning": "Radiance",
+      "story": "The strokes unite to show radiance, singing \"Hway!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 292,
+      "character": "運",
+      "pinyin": "yùn",
+      "tone": 4,
+      "meaning": "to carry",
+      "story": "The army walked and moved supplies, carrying everything.",
+      "primitives": []
+    },
+    {
+      "id": 293,
+      "character": "冠",
+      "pinyin": "guān",
+      "tone": 1,
+      "meaning": "Crown",
+      "story": "Like a roof, this character means crown and sings \"Gwan!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 294,
+      "character": "夢",
+      "pinyin": "mèng",
+      "tone": 4,
+      "meaning": "a Dream",
+      "story": "Like grass, this character means a dream and shouts \"Mung!\"!",
+      "primitives": []
+    },
+    {
+      "id": 295,
+      "character": "坑",
+      "pinyin": "kēng",
+      "tone": 1,
+      "meaning": "Pit",
+      "story": "The soil takes the shape of pit, singing \"Kung!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 296,
+      "character": "高",
+      "pinyin": "gāo",
+      "tone": 1,
+      "meaning": "tall",
+      "story": "\"Gao!\" The tall building reached high into the sky.",
+      "primitives": []
+    },
+    {
+      "id": 297,
+      "character": "享",
+      "pinyin": "xiǎng",
+      "tone": 3,
+      "meaning": "to enjoy",
+      "story": "A striking symbol for to enjoy that whispers \"Shyang\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 298,
+      "character": "熟",
+      "pinyin": "shú",
+      "tone": 2,
+      "meaning": "ripe",
+      "story": "Like fire, this character means ripe and asks \"Shoo? Is it done?\"!",
+      "primitives": []
+    },
+    {
+      "id": 299,
+      "character": "亭",
+      "pinyin": "tíng",
+      "tone": 2,
+      "meaning": "Pavilion",
+      "story": "A pavilion tall nail questions \"Ting? Rest here?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 300,
+      "character": "亮",
+      "pinyin": "liàng",
+      "tone": 4,
+      "meaning": "shining",
+      "story": "A striking symbol for shining that shouts \"Lyang!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 301,
+      "character": "京",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "Capital",
+      "story": "The mouth takes the shape of capital, singing \"Jing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 302,
+      "character": "涼",
+      "pinyin": "liáng",
+      "tone": 2,
+      "meaning": "cool",
+      "story": "Like water, this character means cool and asks \"Lyang? Refreshing?\"!",
+      "primitives": []
+    },
+    {
+      "id": 303,
+      "character": "景",
+      "pinyin": "jǐng",
+      "tone": 3,
+      "meaning": "Scenery",
+      "story": "The sun stands for scenery, whispering \"Jing\" softly as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 304,
+      "character": "就",
+      "pinyin": "jiù",
+      "tone": 4,
+      "meaning": "at once",
+      "story": "\"Jyo, do it now!\" he commanded, immediately at once with the capital dog.",
+      "primitives": []
+    },
+    {
+      "id": 305,
+      "character": "周",
+      "pinyin": "zhōu",
+      "tone": 1,
+      "meaning": "Circumference",
+      "story": "The mouth stands for circumference, singing \"Joe!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 306,
+      "character": "週",
+      "pinyin": "zhōu",
+      "tone": 1,
+      "meaning": "Week",
+      "story": "The strokes unite to show week, singing \"Joe!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 307,
+      "character": "士",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Soldier",
+      "story": "The strokes unite to show soldier, shouting \"Shi!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 308,
+      "character": "吉",
+      "pinyin": "jí",
+      "tone": 2,
+      "meaning": "lucky",
+      "story": "The mouth stands for lucky, asking \"Ji? Good fortune?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 309,
+      "character": "買",
+      "pinyin": "mǎi",
+      "tone": 3,
+      "meaning": "to buy",
+      "story": "A striking symbol for to buy that whispers \"Mai\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 310,
+      "character": "賣",
+      "pinyin": "mài",
+      "tone": 4,
+      "meaning": "to sell",
+      "story": "\"Buy low, sell high!\" She traded shellfish at market.",
+      "primitives": []
+    }
+  ]
+}

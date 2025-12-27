@@ -1,0 +1,224 @@
+{
+  "lesson": 34,
+  "characterCount": 24,
+  "characterList": "很根即節退腿限眼良浪娘食飯餐館養既概平評邊深探丘",
+  "themes": ["time", "body"],
+  "characters": [
+    {
+      "id": 981,
+      "character": "很",
+      "pinyin": "hěn",
+      "tone": 3,
+      "meaning": "very",
+      "story": "Picture very taking form - it whispers \"Hen\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 982,
+      "character": "根",
+      "pinyin": "gēn",
+      "tone": 1,
+      "meaning": "Root",
+      "story": "A root tree at heel sings \"Gen!\" cheerfully - the basis below!",
+      "primitives": []
+    },
+    {
+      "id": 983,
+      "character": "即",
+      "pinyin": "jí",
+      "tone": 2,
+      "meaning": "immediately",
+      "story": "Like a person, this character means immediately and asks \"Ji? Right now?\"!",
+      "primitives": []
+    },
+    {
+      "id": 984,
+      "character": "節",
+      "pinyin": "jié",
+      "tone": 2,
+      "meaning": "Holiday",
+      "story": "Like bamboo, this character means holiday and asks \"Jieh? Festival time?\"!",
+      "primitives": []
+    },
+    {
+      "id": 985,
+      "character": "退",
+      "pinyin": "tuì",
+      "tone": 4,
+      "meaning": "to retreat",
+      "story": "\"Tway!\" Walking backwards, they retreated sharply, withdrawing step by step!",
+      "primitives": []
+    },
+    {
+      "id": 986,
+      "character": "腿",
+      "pinyin": "tuǐ",
+      "tone": 3,
+      "meaning": "Leg",
+      "story": "Like a leg, this character means leg and whispers \"Tway\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 987,
+      "character": "限",
+      "pinyin": "xiàn",
+      "tone": 4,
+      "meaning": "Limit",
+      "story": "The strokes unite to show limit, shouting \"Shian!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 988,
+      "character": "眼",
+      "pinyin": "yǎn",
+      "tone": 3,
+      "meaning": "Eyelet",
+      "story": "Like an eye, this character means eyelet and whispers \"Yan\"!",
+      "primitives": []
+    },
+    {
+      "id": 989,
+      "character": "良",
+      "pinyin": "liáng",
+      "tone": 2,
+      "meaning": "high-quality",
+      "story": "A striking symbol for high-quality that asks \"Lyang? Very good?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 990,
+      "character": "浪",
+      "pinyin": "làng",
+      "tone": 4,
+      "meaning": "Breakers",
+      "story": "Like water, this character means breakers and shouts \"Lang!\"!",
+      "primitives": []
+    },
+    {
+      "id": 991,
+      "character": "娘",
+      "pinyin": "niáng",
+      "tone": 2,
+      "meaning": "Mom",
+      "story": "A striking symbol for mom that asks \"Nyang? Mother dear?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 992,
+      "character": "食",
+      "pinyin": "shí",
+      "tone": 2,
+      "meaning": "Food",
+      "story": "Like a person, this character means food and asks \"Shi? What to eat?\"!",
+      "primitives": []
+    },
+    {
+      "id": 993,
+      "character": "飯",
+      "pinyin": "fàn",
+      "tone": 4,
+      "meaning": "Meal",
+      "story": "A striking symbol for meal that shouts \"Fan!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 994,
+      "character": "餐",
+      "pinyin": "cān",
+      "tone": 1,
+      "meaning": "to dine",
+      "story": "\"Tsan!\" They dined with food cheerfully - a repast eaten together!",
+      "primitives": []
+    },
+    {
+      "id": 995,
+      "character": "館",
+      "pinyin": "guǎn",
+      "tone": 3,
+      "meaning": "Bldg.",
+      "story": "This character represents bldg., whispering \"Gwan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 996,
+      "character": "養",
+      "pinyin": "yǎng",
+      "tone": 3,
+      "meaning": "to raise",
+      "story": "This character represents to raise, whispering \"Yang\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 997,
+      "character": "既",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "since",
+      "story": "A striking symbol for since that shouts \"Ji!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 998,
+      "character": "概",
+      "pinyin": "gài",
+      "tone": 4,
+      "meaning": "approximate",
+      "story": "See how the tree forms approximate? It shouts \"Gai!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 999,
+      "character": "平",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "even",
+      "story": "An striking symbol for even that asks \"Ping? Level?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1000,
+      "character": "評",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "to evaluate",
+      "story": "\"Ping, is this a fair judgment?\" Words questioned evenly, evaluating and criticizing curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1001,
+      "character": "邊",
+      "pinyin": "biān",
+      "tone": 1,
+      "meaning": "Border",
+      "story": "Along the border road, your nose catches the scent, singing \"Bian!\" cheerfully as you cross the edge!",
+      "primitives": []
+    },
+    {
+      "id": 1002,
+      "character": "深",
+      "pinyin": "shēn",
+      "tone": 1,
+      "meaning": "deep",
+      "story": "\"Shen!\" she sang cheerfully as water depths grew deeper - diving down into the profound darkness!",
+      "primitives": []
+    },
+    {
+      "id": 1003,
+      "character": "探",
+      "pinyin": "tàn",
+      "tone": 4,
+      "meaning": "a Spy",
+      "story": "This character represents a spy, shouting \"Tan!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1004,
+      "character": "丘",
+      "pinyin": "qiū",
+      "tone": 1,
+      "meaning": "Hill",
+      "story": "The hill rises like a hobbit-home, singing \"Chyo!\" cheerfully round and grassy!",
+      "primitives": []
+    }
+  ]
+}

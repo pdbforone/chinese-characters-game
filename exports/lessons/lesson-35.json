@@ -1,0 +1,341 @@
+{
+  "lesson": 35,
+  "characterCount": 37,
+  "characterList": "兵絲線維羅續統給結終級紀紅約細緊織網綠彎灣戀變經輕後幾機斷繼顯樂藥雞麼系係",
+  "themes": ["numbers"],
+  "characters": [
+    {
+      "id": 1005,
+      "character": "兵",
+      "pinyin": "bīng",
+      "tone": 1,
+      "meaning": "Troops",
+      "story": "The strokes unite to show troops, singing \"Bing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1006,
+      "character": "絲",
+      "pinyin": "sī",
+      "tone": 1,
+      "meaning": "Silk",
+      "story": "The silk stands for silk, singing \"Si!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1007,
+      "character": "線",
+      "pinyin": "xiàn",
+      "tone": 4,
+      "meaning": "Line",
+      "story": "A line of silk commands \"Shian!\" sharply, connecting thread to thread in perfect rows!",
+      "primitives": []
+    },
+    {
+      "id": 1008,
+      "character": "維",
+      "pinyin": "wéi",
+      "tone": 2,
+      "meaning": "to maintain",
+      "story": "The silk takes the shape of to maintain, asking \"Way? How to hold together?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1009,
+      "character": "羅",
+      "pinyin": "luó",
+      "tone": 2,
+      "meaning": "Silk Gauze",
+      "story": "Like silk, this character means silk gauze and asks \"Lwo? Strong enough?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1010,
+      "character": "續",
+      "pinyin": "xù",
+      "tone": 4,
+      "meaning": "to continue",
+      "story": "To continue the silk sale, you command \"Shu!\" sharply, extending the thread further!",
+      "primitives": []
+    },
+    {
+      "id": 1011,
+      "character": "統",
+      "pinyin": "tǒng",
+      "tone": 3,
+      "meaning": "continuum",
+      "story": "A continuum of silk flows, bending down drooping like \"Tong\" - all unified together!",
+      "primitives": []
+    },
+    {
+      "id": 1012,
+      "character": "給",
+      "pinyin": "gěi",
+      "tone": 3,
+      "meaning": "to give",
+      "story": "The silk takes the shape of to give, whispering \"Gay\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1013,
+      "character": "結",
+      "pinyin": "jié",
+      "tone": 2,
+      "meaning": "to tie",
+      "story": "See how the silk forms to tie? It asks \"Jieh? Married?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1014,
+      "character": "終",
+      "pinyin": "zhōng",
+      "tone": 1,
+      "meaning": "end",
+      "story": "The end of silk and winter sings \"Zhong!\" cheerfully as threads finish!",
+      "primitives": []
+    },
+    {
+      "id": 1015,
+      "character": "級",
+      "pinyin": "jí",
+      "tone": 2,
+      "meaning": "a Rank",
+      "story": "A rank of silk and reach questions \"Ji? What level?\" like Spider-man taking the JLPT!",
+      "primitives": []
+    },
+    {
+      "id": 1016,
+      "character": "紀",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "Epoch",
+      "story": "An epoch of silk history commands \"Ji!\" sharply, chronicling ages in threads!",
+      "primitives": []
+    },
+    {
+      "id": 1017,
+      "character": "紅",
+      "pinyin": "hóng",
+      "tone": 2,
+      "meaning": "red",
+      "story": "\"Hong, why so crimson?\" The silk and work questioned curiously, blushing red.",
+      "primitives": []
+    },
+    {
+      "id": 1018,
+      "character": "約",
+      "pinyin": "yuē",
+      "tone": 1,
+      "meaning": "to make an appointment",
+      "story": "The silk takes the shape of to make an appointment, singing \"Yueh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1019,
+      "character": "細",
+      "pinyin": "xì",
+      "tone": 4,
+      "meaning": "fine",
+      "story": "\"Shi!\" Silk as fine as field threads commanded sharply - delicate as a hair!",
+      "primitives": []
+    },
+    {
+      "id": 1020,
+      "character": "緊",
+      "pinyin": "jǐn",
+      "tone": 3,
+      "meaning": "tight",
+      "story": "See how the silk forms tight? It whispers \"Jeen\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1021,
+      "character": "織",
+      "pinyin": "zhī",
+      "tone": 1,
+      "meaning": "to weave",
+      "story": "Like silk, this character means to weave and sings \"Zhi!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1022,
+      "character": "網",
+      "pinyin": "wǎng",
+      "tone": 3,
+      "meaning": "Net",
+      "story": "See how the silk forms net? It whispers \"Wang\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1023,
+      "character": "綠",
+      "pinyin": "lǜ",
+      "tone": 4,
+      "meaning": "green",
+      "story": "With grass combined with water, you get green - \"Lyu!\" rings out sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1024,
+      "character": "彎",
+      "pinyin": "wān",
+      "tone": 1,
+      "meaning": "curved",
+      "story": "\"Wan!\" Thread and bow curved cheerfully, bending in an arc!",
+      "primitives": []
+    },
+    {
+      "id": 1025,
+      "character": "灣",
+      "pinyin": "wān",
+      "tone": 1,
+      "meaning": "Bay",
+      "story": "A bay of water curves, singing \"Wan!\" cheerfully like a gulf!",
+      "primitives": []
+    },
+    {
+      "id": 1026,
+      "character": "戀",
+      "pinyin": "liàn",
+      "tone": 4,
+      "meaning": "to be enamored of",
+      "story": "To be enamored, thread and heart command \"Lian!\" sharply - romance pulls tight!",
+      "primitives": []
+    },
+    {
+      "id": 1027,
+      "character": "變",
+      "pinyin": "biàn",
+      "tone": 4,
+      "meaning": "to change",
+      "story": "See how the thread forms to change? It shouts \"Bian!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1028,
+      "character": "經",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "Scripture",
+      "story": "Picture scripture taking form - it sings \"Jing!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1029,
+      "character": "輕",
+      "pinyin": "qīng",
+      "tone": 1,
+      "meaning": "lightweight",
+      "story": "The silk takes the shape of lightweight, singing \"Ching!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1030,
+      "character": "後",
+      "pinyin": "hòu",
+      "tone": 4,
+      "meaning": "behind",
+      "story": "Behind the path with thread commands \"Ho!\" sharply at the rear!",
+      "primitives": []
+    },
+    {
+      "id": 1031,
+      "character": "幾",
+      "pinyin": "jǐ",
+      "tone": 3,
+      "meaning": "how many?",
+      "story": "How many small threads bend down drooping saying \"Ji?\" - just a few!",
+      "primitives": []
+    },
+    {
+      "id": 1032,
+      "character": "機",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "Machine",
+      "story": "A machine of trees and threads sings \"Ji!\" cheerfully - an opportunity clicking like an abacus!",
+      "primitives": []
+    },
+    {
+      "id": 1033,
+      "character": "斷",
+      "pinyin": "duàn",
+      "tone": 4,
+      "meaning": "to sever",
+      "story": "See how the silk forms to sever? It shouts \"Dwan!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1034,
+      "character": "繼",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "to carry on",
+      "story": "With a thread combined with silk, you get to carry on - \"Ji!\" rings out sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1035,
+      "character": "顯",
+      "pinyin": "xiǎn",
+      "tone": 3,
+      "meaning": "obvious",
+      "story": "The thread stands for obvious, whispering \"Shian\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1036,
+      "character": "樂",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "Music",
+      "story": "\"Yueh!\" The white tree commanded music sharply - melodies sang with joy!",
+      "primitives": []
+    },
+    {
+      "id": 1037,
+      "character": "藥",
+      "pinyin": "yào",
+      "tone": 4,
+      "meaning": "Medicine",
+      "story": "The grass takes the shape of medicine, shouting \"Yao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1038,
+      "character": "雞",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "Chicken",
+      "story": "A chicken bird sings \"Ji!\" cheerfully - part griffin, part turkey!",
+      "primitives": []
+    },
+    {
+      "id": 1039,
+      "character": "麼",
+      "pinyin": "me",
+      "tone": 5,
+      "meaning": "[interrogative suffix]",
+      "story": "\"What, me?\" says the hemp thread neutrally, questioning at sentence's end!",
+      "primitives": []
+    },
+    {
+      "id": 1040,
+      "character": "系",
+      "pinyin": "xì",
+      "tone": 4,
+      "meaning": "Lineage",
+      "story": "Like silk, this character means lineage and shouts \"Shi!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1041,
+      "character": "係",
+      "pinyin": "xì",
+      "tone": 4,
+      "meaning": "related to",
+      "story": "\"Shi!\" The person's lineage commanded sharply - they were related by connection!",
+      "primitives": []
+    }
+  ]
+}

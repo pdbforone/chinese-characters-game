@@ -1,0 +1,161 @@
+{
+  "lesson": 48,
+  "characterCount": 17,
+  "characterList": "典氏紙昏婚低底民眠甫補博搏都部郎鄉",
+  "themes": ["family"],
+  "characters": [
+    {
+      "id": 1328,
+      "character": "典",
+      "pinyin": "diǎn",
+      "tone": 3,
+      "meaning": "Canon",
+      "story": "The strokes unite to show canon, whispering \"Dyan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1329,
+      "character": "氏",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Family Name",
+      "story": "\"Shir!\" The clan line commanded sharply - stating the family name, the maiden name!",
+      "primitives": []
+    },
+    {
+      "id": 1330,
+      "character": "紙",
+      "pinyin": "zhǐ",
+      "tone": 3,
+      "meaning": "Paper",
+      "story": "The thread stands for paper, whispering \"Jir\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1331,
+      "character": "昏",
+      "pinyin": "hūn",
+      "tone": 1,
+      "meaning": "Dusk",
+      "story": "\"Hwun!\" The sun set on the family name cheerfully - dusk, nightfall, twilight turning dark!",
+      "primitives": []
+    },
+    {
+      "id": 1332,
+      "character": "婚",
+      "pinyin": "hūn",
+      "tone": 1,
+      "meaning": "Marriage",
+      "story": "The strokes unite to show marriage, singing \"Hwun!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1333,
+      "character": "低",
+      "pinyin": "dī",
+      "tone": 1,
+      "meaning": "low",
+      "story": "The person stands for low, singing \"Dee!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1334,
+      "character": "底",
+      "pinyin": "dǐ",
+      "tone": 3,
+      "meaning": "Bottom",
+      "story": "A striking symbol for bottom that whispers \"Dee\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1335,
+      "character": "民",
+      "pinyin": "mín",
+      "tone": 2,
+      "meaning": "People",
+      "story": "The people takes the shape of people, asking \"Min? Citizen?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1336,
+      "character": "眠",
+      "pinyin": "mián",
+      "tone": 2,
+      "meaning": "the Slumber",
+      "story": "\"Myan, are you sleeping?\" The people's eyes questioned slumber curiously - time to rest!",
+      "primitives": []
+    },
+    {
+      "id": 1337,
+      "character": "甫",
+      "pinyin": "fǔ",
+      "tone": 3,
+      "meaning": "Fu3",
+      "story": "The field takes the shape of fu3, whispering \"Foo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1338,
+      "character": "補",
+      "pinyin": "bǔ",
+      "tone": 3,
+      "meaning": "to patch",
+      "story": "Picture to patch taking form - it whispers \"Boo\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1339,
+      "character": "博",
+      "pinyin": "bó",
+      "tone": 2,
+      "meaning": "knowledgeable",
+      "story": "Picture knowledgeable taking form - it asks \"Bwo? Extensive?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1340,
+      "character": "搏",
+      "pinyin": "bó",
+      "tone": 2,
+      "meaning": "to wrestle",
+      "story": "\"Bwo, should we fight?\" The knowledgeable hand questioned wrestling curiously - ready to combat and seize!",
+      "primitives": []
+    },
+    {
+      "id": 1341,
+      "character": "都",
+      "pinyin": "dū",
+      "tone": 1,
+      "meaning": "Metropolis",
+      "story": "Picture metropolis taking form - it sings \"Doh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1342,
+      "character": "部",
+      "pinyin": "bù",
+      "tone": 4,
+      "meaning": "Department",
+      "story": "A striking symbol for department that shouts \"Boo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1343,
+      "character": "郎",
+      "pinyin": "láng",
+      "tone": 2,
+      "meaning": "Young Man",
+      "story": "This character represents young man, asking \"Lahng, is that the youth?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1344,
+      "character": "鄉",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "meaning": "Countryside",
+      "story": "This character represents countryside, singing \"Shyahng!\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

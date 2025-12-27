@@ -1,0 +1,539 @@
+{
+  "lesson": 24,
+  "characterCount": 59,
+  "characterList": "當檔黨常堂皮波婆破被歹列烈死葬耳取趣最職聖敢嚴曼慢漫環還夫規替失臣臨賢堅力另別拐男功奴努加賀架協行律復得待往德聽廳微街",
+  "themes": ["numbers", "water", "nature"],
+  "characters": [
+    {
+      "id": 651,
+      "character": "當",
+      "pinyin": "dāng",
+      "tone": 1,
+      "meaning": "to work as",
+      "story": "See how the field forms to work as? It sings \"Dang!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 652,
+      "character": "檔",
+      "pinyin": "dǎng",
+      "tone": 3,
+      "meaning": "Files",
+      "story": "Like a tree, this character means files and whispers \"Dang\"!",
+      "primitives": []
+    },
+    {
+      "id": 653,
+      "character": "黨",
+      "pinyin": "dǎng",
+      "tone": 3,
+      "meaning": "Political Party",
+      "story": "Picture political party taking form - it whispers \"Dang\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 654,
+      "character": "常",
+      "pinyin": "cháng",
+      "tone": 2,
+      "meaning": "often",
+      "story": "Picture often taking form - it asks \"Chang, how often?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 655,
+      "character": "堂",
+      "pinyin": "táng",
+      "tone": 2,
+      "meaning": "Main Room",
+      "story": "\"Tang, is this the central hall?\" The earth often questioned where the main room was.",
+      "primitives": []
+    },
+    {
+      "id": 656,
+      "character": "皮",
+      "pinyin": "pí",
+      "tone": 2,
+      "meaning": "Covering",
+      "story": "The hand takes the shape of covering, asking \"Pi? Skin?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 657,
+      "character": "波",
+      "pinyin": "bō",
+      "tone": 1,
+      "meaning": "Waves",
+      "story": "See how the water forms waves? It sings \"Bwo!\" cheerfully like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 658,
+      "character": "婆",
+      "pinyin": "pó",
+      "tone": 2,
+      "meaning": "Old Woman",
+      "story": "This character represents old woman, asking \"Pwo? Grandmother?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 659,
+      "character": "破",
+      "pinyin": "pò",
+      "tone": 4,
+      "meaning": "to break",
+      "story": "\"Pwoh!\" The stone broke through skin sharply, shattering it.",
+      "primitives": []
+    },
+    {
+      "id": 660,
+      "character": "被",
+      "pinyin": "bèi",
+      "tone": 4,
+      "meaning": "a Quilt",
+      "story": "The strokes unite to show a quilt, shouting \"Bay!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 661,
+      "character": "歹",
+      "pinyin": "dǎi",
+      "tone": 3,
+      "meaning": "malicious",
+      "story": "A striking symbol for malicious that whispers \"Dai\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 662,
+      "character": "列",
+      "pinyin": "liè",
+      "tone": 4,
+      "meaning": "to line up",
+      "story": "\"Lieh!\" The daggers lined up sharply in formation.",
+      "primitives": []
+    },
+    {
+      "id": 663,
+      "character": "烈",
+      "pinyin": "liè",
+      "tone": 4,
+      "meaning": "intense",
+      "story": "With fire combined with a line, you get intense - \"Lieh!\" rings out sharply!",
+      "primitives": []
+    },
+    {
+      "id": 664,
+      "character": "死",
+      "pinyin": "sǐ",
+      "tone": 3,
+      "meaning": "Death",
+      "story": "This character represents death, whispering \"Si\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 665,
+      "character": "葬",
+      "pinyin": "zàng",
+      "tone": 4,
+      "meaning": "to inter",
+      "story": "\"Zang!\" The grass and death commanded sharply to inter the body.",
+      "primitives": []
+    },
+    {
+      "id": 666,
+      "character": "耳",
+      "pinyin": "ěr",
+      "tone": 3,
+      "meaning": "Ear",
+      "story": "The ear stands for ear, whispering \"Er\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 667,
+      "character": "取",
+      "pinyin": "qǔ",
+      "tone": 3,
+      "meaning": "to take",
+      "story": "When the hand meets the ear, they form to take, whispering \"Chu\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 668,
+      "character": "趣",
+      "pinyin": "qù",
+      "tone": 4,
+      "meaning": "an Interest",
+      "story": "\"Chu!\" Taking a walk created sharp interest and engagement.",
+      "primitives": []
+    },
+    {
+      "id": 669,
+      "character": "最",
+      "pinyin": "zuì",
+      "tone": 4,
+      "meaning": "most",
+      "story": "Picture an ear beside a sun: that's most, shouting \"Zway!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 670,
+      "character": "職",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "Job",
+      "story": "The ear stands for job, asking \"Zhi? Working?\" curiously - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 671,
+      "character": "聖",
+      "pinyin": "shèng",
+      "tone": 4,
+      "meaning": "holy",
+      "story": "Like an ear, this character means holy and shouts \"Sheng!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 672,
+      "character": "敢",
+      "pinyin": "gǎn",
+      "tone": 3,
+      "meaning": "brave",
+      "story": "The ear stands for brave, whispering \"Gan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 673,
+      "character": "嚴",
+      "pinyin": "yán",
+      "tone": 2,
+      "meaning": "strict",
+      "story": "The mouth takes the shape of strict, asking \"Yan? Severe?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 674,
+      "character": "曼",
+      "pinyin": "màn",
+      "tone": 4,
+      "meaning": "drawn out",
+      "story": "\"Man!\" The sun stretched over the eye sharply - drawn out and extended.",
+      "primitives": []
+    },
+    {
+      "id": 675,
+      "character": "慢",
+      "pinyin": "màn",
+      "tone": 4,
+      "meaning": "slow",
+      "story": "The heart stands for slow, shouting \"Man!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 676,
+      "character": "漫",
+      "pinyin": "màn",
+      "tone": 4,
+      "meaning": "to overflow",
+      "story": "\"Man!\" The slow water overflowed sharply, flooding everything.",
+      "primitives": []
+    },
+    {
+      "id": 677,
+      "character": "環",
+      "pinyin": "huán",
+      "tone": 2,
+      "meaning": "a Ring",
+      "story": "An striking symbol for a ring that asks \"Hwan? Circular?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 678,
+      "character": "還",
+      "pinyin": "huán",
+      "tone": 2,
+      "meaning": "to give back",
+      "story": "Picture to give back taking form - it asks \"Hwan? Return?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 679,
+      "character": "夫",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "Husband",
+      "story": "This character represents husband, asking \"Foo? My man?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 680,
+      "character": "規",
+      "pinyin": "guī",
+      "tone": 1,
+      "meaning": "Regulations",
+      "story": "The strokes unite to show regulations, singing \"Gway!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 681,
+      "character": "替",
+      "pinyin": "tì",
+      "tone": 4,
+      "meaning": "to replace",
+      "story": "Picture to replace taking form - it shouts \"Ti!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 682,
+      "character": "失",
+      "pinyin": "shī",
+      "tone": 1,
+      "meaning": "to lose",
+      "story": "\"Shi!\" The husband's hand sang sadly as he lost everything.",
+      "primitives": []
+    },
+    {
+      "id": 683,
+      "character": "臣",
+      "pinyin": "chén",
+      "tone": 2,
+      "meaning": "Feudal Official",
+      "story": "A striking symbol for feudal official that asks \"Chen? Serving?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 684,
+      "character": "臨",
+      "pinyin": "lín",
+      "tone": 2,
+      "meaning": "to be about to",
+      "story": "This character represents to be about to, asking \"Lin? Soon?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 685,
+      "character": "賢",
+      "pinyin": "xián",
+      "tone": 2,
+      "meaning": "worthy",
+      "story": "Like a shellfish, this character means worthy and asks \"Shian? Virtuous?\"!",
+      "primitives": []
+    },
+    {
+      "id": 686,
+      "character": "堅",
+      "pinyin": "jiān",
+      "tone": 1,
+      "meaning": "firm",
+      "story": "\"Jian!\" The earth and official stood firm together - solid and resolute.",
+      "primitives": []
+    },
+    {
+      "id": 687,
+      "character": "力",
+      "pinyin": "lì",
+      "tone": 4,
+      "meaning": "Power",
+      "story": "A striking symbol for power that shouts \"Lee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 688,
+      "character": "另",
+      "pinyin": "lìng",
+      "tone": 4,
+      "meaning": "another",
+      "story": "An striking symbol for another that shouts \"Ling!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 689,
+      "character": "別",
+      "pinyin": "bié",
+      "tone": 2,
+      "meaning": "don't",
+      "story": "Like a sword, this character means don't and asks \"Bieh? Please not?\"!",
+      "primitives": []
+    },
+    {
+      "id": 690,
+      "character": "拐",
+      "pinyin": "guǎi",
+      "tone": 3,
+      "meaning": "to turn",
+      "story": "See how the hand forms to turn? It whispers \"Gwai\" softly reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 691,
+      "character": "男",
+      "pinyin": "nán",
+      "tone": 2,
+      "meaning": "Male",
+      "story": "The field stands for male, asking \"Nan? Man?\" curiously - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 692,
+      "character": "功",
+      "pinyin": "gōng",
+      "tone": 1,
+      "meaning": "Achievement",
+      "story": "This character represents achievement, singing \"Gong!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 693,
+      "character": "奴",
+      "pinyin": "nú",
+      "tone": 2,
+      "meaning": "Slave",
+      "story": "Picture slave taking form - it asks \"Noo? Serve?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 694,
+      "character": "努",
+      "pinyin": "nǔ",
+      "tone": 3,
+      "meaning": "to toil",
+      "story": "A striking symbol for to toil that whispers \"Noo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 695,
+      "character": "加",
+      "pinyin": "jiā",
+      "tone": 1,
+      "meaning": "to add",
+      "story": "\"Jia!\" Power from the mouth added cheerfully, increasing the total.",
+      "primitives": []
+    },
+    {
+      "id": 696,
+      "character": "賀",
+      "pinyin": "hè",
+      "tone": 4,
+      "meaning": "to congratulate",
+      "story": "See how the shellfish forms to congratulate? It shouts \"Huh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 697,
+      "character": "架",
+      "pinyin": "jià",
+      "tone": 4,
+      "meaning": "Shelf",
+      "story": "A shelf add tree yells \"Jia!\" sharply supporting!",
+      "primitives": []
+    },
+    {
+      "id": 698,
+      "character": "協",
+      "pinyin": "xié",
+      "tone": 2,
+      "meaning": "to cooperate",
+      "story": "\"Shieh, should we work together?\" Ten sources of power questioned how to cooperate.",
+      "primitives": []
+    },
+    {
+      "id": 699,
+      "character": "行",
+      "pinyin": "háng",
+      "tone": 2,
+      "meaning": "Line Of Business",
+      "story": "\"Hang, what trade do you follow?\" Each step questioned the line of business.",
+      "primitives": []
+    },
+    {
+      "id": 700,
+      "character": "律",
+      "pinyin": "lǜ",
+      "tone": 4,
+      "meaning": "Law",
+      "story": "This character represents law, shouting \"Lyu!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 701,
+      "character": "復",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "to recover",
+      "story": "The strokes unite to show to recover, shouting \"Foo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 702,
+      "character": "得",
+      "pinyin": "dé",
+      "tone": 2,
+      "meaning": "must",
+      "story": "Like a hand, this character means must and asks \"Duh? Have to?\"!",
+      "primitives": []
+    },
+    {
+      "id": 703,
+      "character": "待",
+      "pinyin": "dài",
+      "tone": 4,
+      "meaning": "to treat",
+      "story": "\"Dai!\" At the temple, each step commanded how to treat guests sharply.",
+      "primitives": []
+    },
+    {
+      "id": 704,
+      "character": "往",
+      "pinyin": "wǎng",
+      "tone": 3,
+      "meaning": "toward",
+      "story": "This character represents toward, whispering \"Wang\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 705,
+      "character": "德",
+      "pinyin": "dé",
+      "tone": 2,
+      "meaning": "Morality",
+      "story": "\"Duh, is this virtuous?\" Each step questioned whether going straight showed morality.",
+      "primitives": []
+    },
+    {
+      "id": 706,
+      "character": "聽",
+      "pinyin": "tīng",
+      "tone": 1,
+      "meaning": "to listen",
+      "story": "When the eye meets the ear, they form to listen, singing \"Ting!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 707,
+      "character": "廳",
+      "pinyin": "tīng",
+      "tone": 1,
+      "meaning": "Hall",
+      "story": "Picture hall taking form - it sings \"Ting!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 708,
+      "character": "微",
+      "pinyin": "wéi",
+      "tone": 2,
+      "meaning": "tiny",
+      "story": "The mountain takes the shape of tiny, asking \"Way? So small?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 709,
+      "character": "街",
+      "pinyin": "jiē",
+      "tone": 1,
+      "meaning": "Street",
+      "story": "The earth takes the shape of street, singing \"Jieh!\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

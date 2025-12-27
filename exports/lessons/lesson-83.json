@@ -1,0 +1,233 @@
+{
+  "lesson": 83,
+  "characterCount": 25,
+  "characterList": "煥旋吻匆錫惕屑尿刷犀遲漏屁履屎屏屈掘尺眉媚肩妒淚啓",
+  "themes": ["body", "numbers"],
+  "characters": [
+    {
+      "id": 2074,
+      "character": "煥",
+      "pinyin": "huàn",
+      "tone": 4,
+      "meaning": "glowing",
+      "story": "\"Hwahn!\" Fire and sled dogs commanded sharply - glowing, radiant and brilliant!",
+      "primitives": []
+    },
+    {
+      "id": 2075,
+      "character": "旋",
+      "pinyin": "xuán",
+      "tone": 2,
+      "meaning": "whirl",
+      "story": "The strokes unite to show whirl, asking \"Shyuan? Spin?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2076,
+      "character": "吻",
+      "pinyin": "wěn",
+      "tone": 3,
+      "meaning": "kiss",
+      "story": "This character represents kiss, whispering \"Wun\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2077,
+      "character": "匆",
+      "pinyin": "cōng",
+      "tone": 1,
+      "meaning": "hurriedly",
+      "story": "\"Tsohng!\" Bound up heart sang cheerfully - hurriedly, hastily and rushed!",
+      "primitives": []
+    },
+    {
+      "id": 2078,
+      "character": "錫",
+      "pinyin": "xí",
+      "tone": 2,
+      "meaning": "tin",
+      "story": "The metal takes the shape of tin, asking \"Shee? Metal?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2079,
+      "character": "惕",
+      "pinyin": "tì",
+      "tone": 4,
+      "meaning": "watchful",
+      "story": "The heart takes the shape of watchful, shouting \"Tee!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2080,
+      "character": "屑",
+      "pinyin": "xiè",
+      "tone": 4,
+      "meaning": "bits",
+      "story": "This character represents bits, shouting \"Shyeh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2081,
+      "character": "尿",
+      "pinyin": "niào",
+      "tone": 4,
+      "meaning": "urine",
+      "story": "See how the water forms urine? It shouts \"Nyao!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 2082,
+      "character": "刷",
+      "pinyin": "shuā",
+      "tone": 1,
+      "meaning": "brush",
+      "story": "Picture brush taking form - it sings \"Shwah!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2083,
+      "character": "犀",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "rhinoceros",
+      "story": "A striking symbol for rhinoceros that sings \"Shee!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2084,
+      "character": "遲",
+      "pinyin": "chí",
+      "tone": 2,
+      "meaning": "tardy",
+      "story": "Picture tardy taking form - it asks \"Chir? Late?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2085,
+      "character": "漏",
+      "pinyin": "lòu",
+      "tone": 4,
+      "meaning": "leak",
+      "story": "With rain combined with water, you get leak - \"Loh!\" rings out sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2086,
+      "character": "屁",
+      "pinyin": "pì",
+      "tone": 4,
+      "meaning": "fart",
+      "story": "The strokes unite to show fart, shouting \"Pee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2087,
+      "character": "履",
+      "pinyin": "lǚ",
+      "tone": 3,
+      "meaning": "footwear",
+      "story": "Picture footwear taking form - it whispers \"Lyoo\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2088,
+      "character": "屎",
+      "pinyin": "shǐ",
+      "tone": 3,
+      "meaning": "excrement",
+      "story": "The strokes unite to show excrement, whispering \"Shir\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2089,
+      "character": "屏",
+      "pinyin": "píng",
+      "tone": 2,
+      "meaning": "folding screen",
+      "story": "The strokes unite to show folding screen, asking \"Ping, is that a partition?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2090,
+      "character": "屈",
+      "pinyin": "qū",
+      "tone": 1,
+      "meaning": "knuckle under",
+      "story": "\"Chyoo!\" The flag at the exit sang cheerfully - knuckle under, yield and submit!",
+      "primitives": []
+    },
+    {
+      "id": 2091,
+      "character": "掘",
+      "pinyin": "jué",
+      "tone": 2,
+      "meaning": "excavate",
+      "story": "Like a hand, this character means excavate and asks \"Jyueh? Dig?\"!",
+      "primitives": []
+    },
+    {
+      "id": 2092,
+      "character": "尺",
+      "pinyin": "chǐ",
+      "tone": 3,
+      "meaning": "ruler",
+      "story": "A striking symbol for ruler that whispers \"Chir\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2093,
+      "character": "眉",
+      "pinyin": "méi",
+      "tone": 2,
+      "meaning": "eyebrows",
+      "story": "Like an eye, this character means eyebrows and asks \"May? Brow?\"!",
+      "primitives": []
+    },
+    {
+      "id": 2094,
+      "character": "媚",
+      "pinyin": "mèi",
+      "tone": 4,
+      "meaning": "flatter",
+      "story": "Picture flatter taking form - it shouts \"May!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2095,
+      "character": "肩",
+      "pinyin": "jiān",
+      "tone": 1,
+      "meaning": "shoulder",
+      "story": "When the door meets the body, they form shoulder, singing \"Jyan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 2096,
+      "character": "妒",
+      "pinyin": "dù",
+      "tone": 4,
+      "meaning": "jealous of",
+      "story": "\"Doo!\" Woman at the door commanded sharply - jealous of, envious hateful bully!",
+      "primitives": []
+    },
+    {
+      "id": 2097,
+      "character": "淚",
+      "pinyin": "lèi",
+      "tone": 4,
+      "meaning": "tears",
+      "story": "When the door meets the water, they form tears, shouting \"Lay!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2098,
+      "character": "啓",
+      "pinyin": "qǐ",
+      "tone": 3,
+      "meaning": "enlighten",
+      "story": "With a door combined with a mouth, you get enlighten - \"Chee\" rings out curiously!",
+      "primitives": []
+    }
+  ]
+}

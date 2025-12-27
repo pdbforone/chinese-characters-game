@@ -1,0 +1,431 @@
+{
+  "lesson": 79,
+  "characterCount": 47,
+  "characterList": "榕賞嘗嚐掌擋膛頗坡披彼皺雛趨菠殖殊殘咧裂耿恥輯攝娶扶熙腎募脅劣勳勸劫怒茄彷征徒徊徵懲循徹役衍衡",
+  "themes": ["body", "numbers", "action"],
+  "characters": [
+    {
+      "id": 1894,
+      "character": "榕",
+      "pinyin": "róng",
+      "tone": 2,
+      "meaning": "banyan",
+      "story": "Like a tree, this character means banyan and asks \"Rohng? Epiphyte?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1895,
+      "character": "賞",
+      "pinyin": "shǎng",
+      "tone": 3,
+      "meaning": "prize",
+      "story": "The shellfish stands for prize, whispering \"Shahng\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1896,
+      "character": "嘗",
+      "pinyin": "cháng",
+      "tone": 2,
+      "meaning": "attempt",
+      "story": "An striking symbol for attempt that asks \"Chahng? Try?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1897,
+      "character": "嚐",
+      "pinyin": "cháng",
+      "tone": 2,
+      "meaning": "taste",
+      "story": "See how the mouth forms taste? It asks \"Chahng? Sample?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1898,
+      "character": "掌",
+      "pinyin": "zhǎng",
+      "tone": 3,
+      "meaning": "palm of the hand",
+      "story": "See how the hand forms palm of the hand? It whispers \"Jahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1899,
+      "character": "擋",
+      "pinyin": "dǎng",
+      "tone": 3,
+      "meaning": "fend off",
+      "story": "See how the hand forms fend off? It whispers \"Dahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1900,
+      "character": "膛",
+      "pinyin": "táng",
+      "tone": 2,
+      "meaning": "chest",
+      "story": "The body stands for chest, asking \"Tahng? Torso?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1901,
+      "character": "頗",
+      "pinyin": "pō",
+      "tone": 1,
+      "meaning": "quite",
+      "story": "A striking symbol for quite that sings \"Pwoh!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1902,
+      "character": "坡",
+      "pinyin": "pō",
+      "tone": 1,
+      "meaning": "slope",
+      "story": "Like soil, this character means slope and sings \"Pwoh!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1903,
+      "character": "披",
+      "pinyin": "pī",
+      "tone": 1,
+      "meaning": "drape over the shoulders",
+      "story": "The hand stands for drape over the shoulders, singing \"Pee!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1904,
+      "character": "彼",
+      "pinyin": "bǐ",
+      "tone": 3,
+      "meaning": "the other",
+      "story": "Picture the other taking form - it whispers \"Bee\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1905,
+      "character": "皺",
+      "pinyin": "zhòu",
+      "tone": 4,
+      "meaning": "wrinkles",
+      "story": "\"Joh!\" Hay bales covered everything sharply - wrinkles, creases and furrows!",
+      "primitives": []
+    },
+    {
+      "id": 1906,
+      "character": "雛",
+      "pinyin": "chú",
+      "tone": 2,
+      "meaning": "chick",
+      "story": "\"Choo, is that a baby bird?\" Hay bales questioned the turkey curiously - a chick, fledgling!",
+      "primitives": []
+    },
+    {
+      "id": 1907,
+      "character": "趨",
+      "pinyin": "qū",
+      "tone": 1,
+      "meaning": "hasten",
+      "story": "\"Chyoo!\" Walking on hay bales sang cheerfully - hasten, hurry and tend toward!",
+      "primitives": []
+    },
+    {
+      "id": 1908,
+      "character": "菠",
+      "pinyin": "bō",
+      "tone": 1,
+      "meaning": "spinach",
+      "story": "The strokes unite to show spinach, singing \"Bwo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1909,
+      "character": "殖",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "breed",
+      "story": "A striking symbol for breed that asks \"Jir? Multiply?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1910,
+      "character": "殊",
+      "pinyin": "shū",
+      "tone": 1,
+      "meaning": "dissimilar",
+      "story": "The strokes unite to show dissimilar, singing \"Shoo!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1911,
+      "character": "殘",
+      "pinyin": "cán",
+      "tone": 2,
+      "meaning": "incomplete",
+      "story": "An striking symbol for incomplete that asks \"Tsahn? Damaged?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1912,
+      "character": "咧",
+      "pinyin": "lie",
+      "tone": 5,
+      "meaning": "grin",
+      "story": "When the line meets the mouth, they form grin, calling out \"lyeh\"!",
+      "primitives": []
+    },
+    {
+      "id": 1913,
+      "character": "裂",
+      "pinyin": "liè",
+      "tone": 4,
+      "meaning": "crack",
+      "story": "A striking symbol for crack that shouts \"Lyeh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1914,
+      "character": "耿",
+      "pinyin": "gěng",
+      "tone": 3,
+      "meaning": "dedicated",
+      "story": "The fire and ear unite to create dedicated, whispering \"Gung\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1915,
+      "character": "恥",
+      "pinyin": "chǐ",
+      "tone": 3,
+      "meaning": "shame",
+      "story": "When the heart meets the ear, they form shame, whispering \"Chir\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1916,
+      "character": "輯",
+      "pinyin": "jí",
+      "tone": 2,
+      "meaning": "edit",
+      "story": "The strokes unite to show edit, asking \"Jee? Compile?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1917,
+      "character": "攝",
+      "pinyin": "shè",
+      "tone": 4,
+      "meaning": "take a photo",
+      "story": "The hand stands for take a photo, shouting \"Shuh!\" sharply reached by outstretched fingers!",
+      "primitives": []
+    },
+    {
+      "id": 1918,
+      "character": "娶",
+      "pinyin": "qǔ",
+      "tone": 3,
+      "meaning": "take a wife",
+      "story": "The strokes unite to show take a wife, whispering \"Chyoo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1919,
+      "character": "扶",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "lend a hand",
+      "story": "See how the hand forms lend a hand? It asks \"Foo? Support?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1920,
+      "character": "熙",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "splendid",
+      "story": "Picture fire beside a mouth: that's splendid, singing \"Shee!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1921,
+      "character": "腎",
+      "pinyin": "shèn",
+      "tone": 4,
+      "meaning": "kidneys",
+      "story": "Like a body, this character means kidneys and shouts \"Shun!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1922,
+      "character": "募",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "recruit",
+      "story": "Picture recruit taking form - it shouts \"Moo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1923,
+      "character": "脅",
+      "pinyin": "xié",
+      "tone": 2,
+      "meaning": "threaten",
+      "story": "The body stands for threaten, asking \"Shyeh? Coerce?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1924,
+      "character": "劣",
+      "pinyin": "liè",
+      "tone": 4,
+      "meaning": "inferior",
+      "story": "Picture inferior taking form - it shouts \"Lyeh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1925,
+      "character": "勳",
+      "pinyin": "xūn",
+      "tone": 1,
+      "meaning": "merit",
+      "story": "\"Shyoon!\" Thousand black muscles sang cheerfully - merit, achievement and honor!",
+      "primitives": []
+    },
+    {
+      "id": 1926,
+      "character": "勸",
+      "pinyin": "quàn",
+      "tone": 4,
+      "meaning": "advise",
+      "story": "This character represents advise, shouting \"Chyuan!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1927,
+      "character": "劫",
+      "pinyin": "jié",
+      "tone": 2,
+      "meaning": "plunder",
+      "story": "The strokes unite to show plunder, asking \"Jyeh? Rob?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1928,
+      "character": "怒",
+      "pinyin": "nù",
+      "tone": 4,
+      "meaning": "anger",
+      "story": "The heart takes the shape of anger, shouting \"Noo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1929,
+      "character": "茄",
+      "pinyin": "jiā",
+      "tone": 1,
+      "meaning": "eggplant",
+      "story": "An striking symbol for eggplant that sings \"Jyah!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1930,
+      "character": "彷",
+      "pinyin": "fǎng",
+      "tone": 3,
+      "meaning": "seemingly",
+      "story": "The strokes unite to show seemingly, whispering \"Fahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1931,
+      "character": "征",
+      "pinyin": "zhēng",
+      "tone": 1,
+      "meaning": "go on an expedition",
+      "story": "Picture go on an expedition taking form - it shouts \"Jung!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1932,
+      "character": "徒",
+      "pinyin": "tú",
+      "tone": 2,
+      "meaning": "follower",
+      "story": "Picture follower taking form - it asks \"Too? Disciple?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1933,
+      "character": "徊",
+      "pinyin": "huái",
+      "tone": 2,
+      "meaning": "undecided",
+      "story": "This character represents undecided, asking \"Hwigh? Wander?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1934,
+      "character": "徵",
+      "pinyin": "zhēng",
+      "tone": 1,
+      "meaning": "solicit",
+      "story": "The mountain stands for solicit, singing \"Jung!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1935,
+      "character": "懲",
+      "pinyin": "chéng",
+      "tone": 2,
+      "meaning": "chasten",
+      "story": "Like a heart, this character means chasten and asks \"Chung? Punish?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1936,
+      "character": "循",
+      "pinyin": "xún",
+      "tone": 2,
+      "meaning": "comply with",
+      "story": "\"Shyoon, should we follow?\" The queue and shield questioned compliance curiously - abide by custom!",
+      "primitives": []
+    },
+    {
+      "id": 1937,
+      "character": "徹",
+      "pinyin": "chè",
+      "tone": 4,
+      "meaning": "thorough",
+      "story": "\"Chuh!\" Going to bring about commanded sharply - thorough, complete and penetrating!",
+      "primitives": []
+    },
+    {
+      "id": 1938,
+      "character": "役",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "service",
+      "story": "The strokes unite to show service, shouting \"Yee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1939,
+      "character": "衍",
+      "pinyin": "yǎn",
+      "tone": 3,
+      "meaning": "develop",
+      "story": "The water stands for develop, whispering \"Yahn\" softly like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1940,
+      "character": "衡",
+      "pinyin": "héng",
+      "tone": 2,
+      "meaning": "weight",
+      "story": "A striking symbol for weight that asks \"Hung? Balance?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

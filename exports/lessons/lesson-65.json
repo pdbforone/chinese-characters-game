@@ -1,0 +1,224 @@
+{
+  "lesson": 65,
+  "characterCount": 24,
+  "characterList": "寡棚柏槓朵杜桂椅杰櫻梢桐宋淋焚昧朱株樑碟萌苛膜寞",
+  "themes": ["nature", "family", "fire", "action"],
+  "characters": [
+    {
+      "id": 1542,
+      "character": "寡",
+      "pinyin": "guǎ",
+      "tone": 3,
+      "meaning": "widowed",
+      "story": "The strokes unite to show widowed, whispering \"Gwah\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1543,
+      "character": "棚",
+      "pinyin": "péng",
+      "tone": 2,
+      "meaning": "shed",
+      "story": "Picture a tree beside a shelter: that's shed, asking \"Pung? Shelter?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1544,
+      "character": "柏",
+      "pinyin": "bǎi",
+      "tone": 3,
+      "meaning": "cypress",
+      "story": "Picture a tree beside a white: that's cypress, whispering \"Bigh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1545,
+      "character": "槓",
+      "pinyin": "gàng",
+      "tone": 4,
+      "meaning": "thick stick",
+      "story": "\"Gahng!\" Tree and work commanded sharply - a thick stick, pole or bar!",
+      "primitives": []
+    },
+    {
+      "id": 1546,
+      "character": "朵",
+      "pinyin": "duǒ",
+      "tone": 3,
+      "meaning": "flouds",
+      "story": "A striking symbol for flouds that whispers \"Dwoh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1547,
+      "character": "杜",
+      "pinyin": "dù",
+      "tone": 4,
+      "meaning": "prevent",
+      "story": "The earth and tree unite to create prevent, shouting \"Doo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1548,
+      "character": "桂",
+      "pinyin": "guì",
+      "tone": 4,
+      "meaning": "cassia-bark tree",
+      "story": "Like a tree, this character means cassia-bark tree and shouts \"Gway!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1549,
+      "character": "椅",
+      "pinyin": "yǐ",
+      "tone": 3,
+      "meaning": "chair",
+      "story": "The tree stands for chair, whispering \"Yee\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1550,
+      "character": "杰",
+      "pinyin": "jié",
+      "tone": 2,
+      "meaning": "hero",
+      "story": "The tree stands for hero, asking \"Jyeh? Exceptional?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1551,
+      "character": "櫻",
+      "pinyin": "yīng",
+      "tone": 1,
+      "meaning": "cherry",
+      "story": "See how the tree forms cherry? It sings \"Ying!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1552,
+      "character": "梢",
+      "pinyin": "shāo",
+      "tone": 1,
+      "meaning": "treetops",
+      "story": "The tree takes the shape of treetops, singing \"Shao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1553,
+      "character": "桐",
+      "pinyin": "tóng",
+      "tone": 2,
+      "meaning": "paulownia",
+      "story": "With a tree combined with a wood, you get paulownia - \"Tohng? Lumber?\" rings out curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1554,
+      "character": "宋",
+      "pinyin": "sòng",
+      "tone": 4,
+      "meaning": "Song (like the dynasty)",
+      "story": "See how the wood forms song (like the dynasty)? It shouts \"Sohng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1555,
+      "character": "淋",
+      "pinyin": "lín",
+      "tone": 2,
+      "meaning": "drench",
+      "story": "With rain combined with water, you get drench - \"Lin? Soak?\" rings out curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1556,
+      "character": "焚",
+      "pinyin": "fén",
+      "tone": 2,
+      "meaning": "burn",
+      "story": "Like fire, this character means burn and asks \"Fen? Blaze?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1557,
+      "character": "昧",
+      "pinyin": "mèi",
+      "tone": 4,
+      "meaning": "obscure",
+      "story": "See how the sun forms obscure? It shouts \"May!\" sharply as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 1558,
+      "character": "朱",
+      "pinyin": "zhū",
+      "tone": 1,
+      "meaning": "vermillion",
+      "story": "With a tree combined with a dot, you get vermillion - \"Joo!\" rings out cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1559,
+      "character": "株",
+      "pinyin": "zhū",
+      "tone": 1,
+      "meaning": "tree trunk",
+      "story": "\"Joo!\" Vermillion tree sang cheerfully - the tree trunk, stem or stump!",
+      "primitives": []
+    },
+    {
+      "id": 1560,
+      "character": "樑",
+      "pinyin": "liáng",
+      "tone": 2,
+      "meaning": "roof beam",
+      "story": "\"Lyahng, is it supporting?\" Good tree questioned curiously - a roof beam or rafter!",
+      "primitives": []
+    },
+    {
+      "id": 1561,
+      "character": "碟",
+      "pinyin": "dié",
+      "tone": 2,
+      "meaning": "saucer",
+      "story": "\"Dyeh, is it a plate?\" Stone family tree questioned curiously - a saucer, flying saucer dish!",
+      "primitives": []
+    },
+    {
+      "id": 1562,
+      "character": "萌",
+      "pinyin": "méng",
+      "tone": 2,
+      "meaning": "bud",
+      "story": "Picture bud taking form - it asks \"Mung? Sprout?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1563,
+      "character": "苛",
+      "pinyin": "kē",
+      "tone": 1,
+      "meaning": "exacting",
+      "story": "Picture exacting taking form - it sings \"Kuh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1564,
+      "character": "膜",
+      "pinyin": "mó",
+      "tone": 2,
+      "meaning": "membrane",
+      "story": "See how the body forms membrane? It asks \"Mwo? Thin layer?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1565,
+      "character": "寞",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "solitary",
+      "story": "Picture solitary taking form - it shouts \"Mwo!\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

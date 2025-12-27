@@ -1,0 +1,152 @@
+{
+  "lesson": 47,
+  "characterCount": 16,
+  "characterList": "選井亞惡角解嘴再稱講構扁篇編論輪",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1312,
+      "character": "選",
+      "pinyin": "xuǎn",
+      "tone": 3,
+      "meaning": "to choose",
+      "story": "A striking symbol for to choose that whispers \"Shyuan\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1313,
+      "character": "井",
+      "pinyin": "jǐng",
+      "tone": 3,
+      "meaning": "a Well",
+      "story": "An striking symbol for a well that whispers \"Jing\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1314,
+      "character": "亞",
+      "pinyin": "yǎ",
+      "tone": 3,
+      "meaning": "Asia",
+      "story": "The mouth takes the shape of asia, whispering \"Yah\" softly spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 1315,
+      "character": "惡",
+      "pinyin": "è",
+      "tone": 4,
+      "meaning": "Evil",
+      "story": "The heart takes the shape of evil, shouting \"Uh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1316,
+      "character": "角",
+      "pinyin": "jiǎo",
+      "tone": 3,
+      "meaning": "Angle",
+      "story": "See how the horn forms angle? It whispers \"Jyao\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1317,
+      "character": "解",
+      "pinyin": "jiě",
+      "tone": 3,
+      "meaning": "to untie",
+      "story": "The knife takes the shape of to untie, whispering \"Jyeh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1318,
+      "character": "嘴",
+      "pinyin": "zuǐ",
+      "tone": 3,
+      "meaning": "Orifice",
+      "story": "The mouth takes the shape of orifice, whispering \"Dzway\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1319,
+      "character": "再",
+      "pinyin": "zài",
+      "tone": 4,
+      "meaning": "once more",
+      "story": "\"Dzigh!\" One more helmet commanded sharply - once more, again, next time!",
+      "primitives": []
+    },
+    {
+      "id": 1320,
+      "character": "稱",
+      "pinyin": "chēng",
+      "tone": 1,
+      "meaning": "to weigh",
+      "story": "A striking symbol for to weigh that sings \"Chung!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1321,
+      "character": "講",
+      "pinyin": "jiǎng",
+      "tone": 3,
+      "meaning": "to lecture",
+      "story": "A striking symbol for to lecture that whispers \"Jyahng\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1322,
+      "character": "構",
+      "pinyin": "gòu",
+      "tone": 4,
+      "meaning": "to frame",
+      "story": "The tree takes the shape of to frame, shouting \"Goh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1323,
+      "character": "扁",
+      "pinyin": "biǎn",
+      "tone": 3,
+      "meaning": "flat",
+      "story": "The door stands for flat, whispering \"Byan\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1324,
+      "character": "篇",
+      "pinyin": "piān",
+      "tone": 1,
+      "meaning": "Piece of Writing",
+      "story": "See how the bamboo forms piece of writing? It sings \"Pyan!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1325,
+      "character": "編",
+      "pinyin": "biān",
+      "tone": 1,
+      "meaning": "to compile",
+      "story": "\"Byan!\" Flat threads sang cheerfully - time to compile, arrange, edit, knit a compilation!",
+      "primitives": []
+    },
+    {
+      "id": 1326,
+      "character": "論",
+      "pinyin": "lùn",
+      "tone": 4,
+      "meaning": "Theory",
+      "story": "A striking symbol for theory that shouts \"Lwun!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1327,
+      "character": "輪",
+      "pinyin": "lún",
+      "tone": 2,
+      "meaning": "Wheel",
+      "story": "A striking symbol for wheel that asks \"Lwun? Revolve?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

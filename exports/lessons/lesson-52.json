@@ -1,0 +1,197 @@
+{
+  "lesson": 52,
+  "characterCount": 21,
+  "characterList": "喪雁應鳥鷹鴨島遇萬邁岡剛缺寶遙搖兔逸免晚象",
+  "themes": ["action", "numbers"],
+  "characters": [
+    {
+      "id": 1394,
+      "character": "喪",
+      "pinyin": "sàng",
+      "tone": 4,
+      "meaning": "Funeral",
+      "story": "Like a mouth, this character means funeral and shouts \"Sahng!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1395,
+      "character": "雁",
+      "pinyin": "yàn",
+      "tone": 4,
+      "meaning": "Wild Goose",
+      "story": "\"Yahn!\" The bird at the funeral commanded sharply - a wild goose honking!",
+      "primitives": []
+    },
+    {
+      "id": 1396,
+      "character": "應",
+      "pinyin": "yīng",
+      "tone": 1,
+      "meaning": "ought to",
+      "story": "See how the heart forms ought to? It sings \"Ying!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1397,
+      "character": "鳥",
+      "pinyin": "niǎo",
+      "tone": 3,
+      "meaning": "Bird",
+      "story": "The strokes unite to show bird, whispering \"Nyao\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1398,
+      "character": "鷹",
+      "pinyin": "yīng",
+      "tone": 1,
+      "meaning": "Hawk",
+      "story": "\"Ying!\" The bird ought to sing cheerfully - a hawk, falcon or eagle!",
+      "primitives": []
+    },
+    {
+      "id": 1399,
+      "character": "鴨",
+      "pinyin": "yā",
+      "tone": 1,
+      "meaning": "Duck",
+      "story": "A striking symbol for duck that sings \"Yah!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1400,
+      "character": "島",
+      "pinyin": "dǎo",
+      "tone": 3,
+      "meaning": "Island",
+      "story": "See how the mountain forms island? It whispers \"Dao\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1401,
+      "character": "遇",
+      "pinyin": "yù",
+      "tone": 4,
+      "meaning": "to encounter",
+      "story": "\"Yoo!\" A bird on the road commanded sharply - time to encounter, meet for an interview!",
+      "primitives": []
+    },
+    {
+      "id": 1402,
+      "character": "萬",
+      "pinyin": "wàn",
+      "tone": 4,
+      "meaning": "ten thousand",
+      "story": "The strokes unite to show ten thousand, shouting \"Wahn!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1403,
+      "character": "邁",
+      "pinyin": "mài",
+      "tone": 4,
+      "meaning": "to stride",
+      "story": "Picture to stride taking form - it shouts \"Migh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1404,
+      "character": "岡",
+      "pinyin": "gāng",
+      "tone": 1,
+      "meaning": "Ridge of a Hill",
+      "story": "The mountain stands for ridge of a hill, singing \"Gahng!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1405,
+      "character": "剛",
+      "pinyin": "gāng",
+      "tone": 1,
+      "meaning": "just now",
+      "story": "\"Gahng!\" The ridge and sword sang cheerfully - just now, hard, firm, tough and sturdy!",
+      "primitives": []
+    },
+    {
+      "id": 1406,
+      "character": "缺",
+      "pinyin": "quē",
+      "tone": 1,
+      "meaning": "deficient",
+      "story": "Picture deficient taking form - it sings \"Chyueh!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1407,
+      "character": "寶",
+      "pinyin": "bǎo",
+      "tone": 3,
+      "meaning": "Treasure",
+      "story": "The shellfish takes the shape of treasure, whispering \"Bao\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1408,
+      "character": "遙",
+      "pinyin": "yáo",
+      "tone": 2,
+      "meaning": "remote",
+      "story": "A striking symbol for remote that asks \"Yao? Far away?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1409,
+      "character": "搖",
+      "pinyin": "yáo",
+      "tone": 2,
+      "meaning": "to shake",
+      "story": "\"Yao, should we rock it?\" The remote hand questioned shaking curiously - time to swing!",
+      "primitives": []
+    },
+    {
+      "id": 1410,
+      "character": "兔",
+      "pinyin": "tù",
+      "tone": 4,
+      "meaning": "Rabbit",
+      "story": "This character represents rabbit, shouting \"Too!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1411,
+      "character": "逸",
+      "pinyin": "yì",
+      "tone": 4,
+      "meaning": "to flee",
+      "story": "\"Yee!\" The rabbit on the road commanded sharply to flee - escape, elude and break loose!",
+      "primitives": []
+    },
+    {
+      "id": 1412,
+      "character": "免",
+      "pinyin": "miǎn",
+      "tone": 3,
+      "meaning": "to avoid",
+      "story": "This character represents to avoid, whispering \"Myan\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1413,
+      "character": "晚",
+      "pinyin": "wǎn",
+      "tone": 3,
+      "meaning": "Nightfall",
+      "story": "The sun takes the shape of nightfall, whispering \"Wahn\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1414,
+      "character": "象",
+      "pinyin": "xiàng",
+      "tone": 4,
+      "meaning": "Elephant",
+      "story": "Picture elephant taking form - it shouts \"Shyahng!\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

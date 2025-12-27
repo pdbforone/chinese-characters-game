@@ -1,0 +1,422 @@
+{
+  "lesson": 8,
+  "characterCount": 46,
+  "characterList": "川州順水永求泉原願沖泳洲沼沙江汁潮源活消況河湖測土均肚填吐哇寸封寺時火灰煩炎淡災照魚漁堯燒曉",
+  "themes": ["water", "fire", "action", "nature", "time"],
+  "characters": [
+    {
+      "id": 123,
+      "character": "川",
+      "pinyin": "chuān",
+      "tone": 1,
+      "meaning": "Stream",
+      "story": "A stream flows cheerfully singing \"Chuan!\" in three happy channels!",
+      "primitives": []
+    },
+    {
+      "id": 124,
+      "character": "州",
+      "pinyin": "zhōu",
+      "tone": 1,
+      "meaning": "a state",
+      "story": "Picture a state taking form - it sings \"Joe!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 125,
+      "character": "順",
+      "pinyin": "shùn",
+      "tone": 4,
+      "meaning": "to obey",
+      "story": "To obey, the stream flows by the page, commanding \"Shun!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 126,
+      "character": "水",
+      "pinyin": "shuǐ",
+      "tone": 3,
+      "meaning": "Water",
+      "story": "Like water, this character means water and whispers \"Shway\"!",
+      "primitives": []
+    },
+    {
+      "id": 127,
+      "character": "永",
+      "pinyin": "yǒng",
+      "tone": 3,
+      "meaning": "Eternity",
+      "story": "Like water, this character means eternity and whispers \"Yong\"!",
+      "primitives": []
+    },
+    {
+      "id": 128,
+      "character": "求",
+      "pinyin": "qiú",
+      "tone": 2,
+      "meaning": "to request",
+      "story": "Like water, this character means to request and asks \"Chyo? May I have some?\"!",
+      "primitives": []
+    },
+    {
+      "id": 129,
+      "character": "泉",
+      "pinyin": "quán",
+      "tone": 2,
+      "meaning": "a Spring",
+      "story": "A spring of white water questions \"Chuan? Where does it come from?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 130,
+      "character": "原",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "flatlands",
+      "story": "See how the white forms flatlands? It asks \"Yuan? Why so flat?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 131,
+      "character": "願",
+      "pinyin": "yuàn",
+      "tone": 4,
+      "meaning": "a wish",
+      "story": "An striking symbol for a wish that shouts \"Yuan! Grant it!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 132,
+      "character": "沖",
+      "pinyin": "chōng",
+      "tone": 1,
+      "meaning": "to wash away",
+      "story": "To wash away, water sings \"Chong!\" cheerfully rinsing middle!",
+      "primitives": []
+    },
+    {
+      "id": 133,
+      "character": "泳",
+      "pinyin": "yǒng",
+      "tone": 3,
+      "meaning": "to swim",
+      "story": "See how the water forms to swim? It whispers \"Yong\" softly like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 134,
+      "character": "洲",
+      "pinyin": "zhōu",
+      "tone": 1,
+      "meaning": "Continent",
+      "story": "A continent with water and state sings \"Joe!\" cheerfully and large!",
+      "primitives": []
+    },
+    {
+      "id": 135,
+      "character": "沼",
+      "pinyin": "zhǎo",
+      "tone": 3,
+      "meaning": "Marsh",
+      "story": "The water stands for marsh, whispering \"Zhao\" softly like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 136,
+      "character": "沙",
+      "pinyin": "shā",
+      "tone": 1,
+      "meaning": "Sand",
+      "story": "The water stands for sand, singing \"Sha!\" cheerfully like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 137,
+      "character": "江",
+      "pinyin": "jiāng",
+      "tone": 1,
+      "meaning": "Yangtze",
+      "story": "The Yangtze water flows cheerfully singing \"Jiang!\" through the work!",
+      "primitives": []
+    },
+    {
+      "id": 138,
+      "character": "汁",
+      "pinyin": "zhī",
+      "tone": 1,
+      "meaning": "Juice",
+      "story": "\"Gee!\" he said, extracting juice from ten oranges using water pressure.",
+      "primitives": []
+    },
+    {
+      "id": 139,
+      "character": "潮",
+      "pinyin": "cháo",
+      "tone": 2,
+      "meaning": "Tide",
+      "story": "The tide of dynasty water questions \"Chao? Why rise and fall?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 140,
+      "character": "源",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "source",
+      "story": "The source of water flatlands questions \"Yuan? Where does it begin?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 141,
+      "character": "活",
+      "pinyin": "huó",
+      "tone": 2,
+      "meaning": "lively",
+      "story": "The water and tongue unite to create lively, asking \"Huo? Why so active?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 142,
+      "character": "消",
+      "pinyin": "xiāo",
+      "tone": 1,
+      "meaning": "to extinguish",
+      "story": "The moon faded away as dawn extinguished the night.",
+      "primitives": []
+    },
+    {
+      "id": 143,
+      "character": "況",
+      "pinyin": "kuàng",
+      "tone": 4,
+      "meaning": "Situation",
+      "story": "The situation of water mouth yells \"Kwang!\" sharply describing!",
+      "primitives": []
+    },
+    {
+      "id": 144,
+      "character": "河",
+      "pinyin": "hé",
+      "tone": 2,
+      "meaning": "river",
+      "story": "When the river meets the mouth, they form river, asking \"Huh? Why flow here?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 145,
+      "character": "湖",
+      "pinyin": "hú",
+      "tone": 2,
+      "meaning": "lake",
+      "story": "A lake of water questions \"Who? Hu?\" curiously like reckless whiskers!",
+      "primitives": []
+    },
+    {
+      "id": 146,
+      "character": "測",
+      "pinyin": "cè",
+      "tone": 4,
+      "meaning": "to fathom",
+      "story": "Like water, this character means to fathom and shouts \"Tsuh!\"!",
+      "primitives": []
+    },
+    {
+      "id": 147,
+      "character": "土",
+      "pinyin": "tǔ",
+      "tone": 3,
+      "meaning": "Soil",
+      "story": "The soil takes the shape of soil, whispering \"Too\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 148,
+      "character": "均",
+      "pinyin": "jūn",
+      "tone": 1,
+      "meaning": "to equal",
+      "story": "See how the soil forms to equal? It sings \"June!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 149,
+      "character": "肚",
+      "pinyin": "du",
+      "tone": 5,
+      "meaning": "belly",
+      "story": "A belly of flesh and soil says \"doo\" neutrally round!",
+      "primitives": []
+    },
+    {
+      "id": 150,
+      "character": "填",
+      "pinyin": "tián",
+      "tone": 2,
+      "meaning": "to fill in",
+      "story": "See how the soil forms to fill in? It asks \"Tian? Why complete?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 151,
+      "character": "吐",
+      "pinyin": "tǔ",
+      "tone": 3,
+      "meaning": "to spit",
+      "story": "With a mouth combined with soil, you get to spit - \"Too\" rings out softly!",
+      "primitives": []
+    },
+    {
+      "id": 152,
+      "character": "哇",
+      "pinyin": "wā",
+      "tone": 1,
+      "meaning": "Waaah!",
+      "story": "\"Waaah!\" cries the mouth happily singing \"Wa!\" high and loud!",
+      "primitives": []
+    },
+    {
+      "id": 153,
+      "character": "寸",
+      "pinyin": "cùn",
+      "tone": 4,
+      "meaning": "Chinese Inch",
+      "story": "A Chinese inch hand measures, commanding \"Tsun!\" sharply and small!",
+      "primitives": []
+    },
+    {
+      "id": 154,
+      "character": "封",
+      "pinyin": "fēng",
+      "tone": 1,
+      "meaning": "to seal",
+      "story": "See how the earth forms to seal? It sings \"Fung!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 155,
+      "character": "寺",
+      "pinyin": "sì",
+      "tone": 4,
+      "meaning": "Buddhist Temple",
+      "story": "The earth stands for buddhist temple, shouting \"Sih!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 156,
+      "character": "時",
+      "pinyin": "shí",
+      "tone": 2,
+      "meaning": "Time",
+      "story": "The sun takes the shape of time, asking \"Shi? What hour?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 157,
+      "character": "火",
+      "pinyin": "huǒ",
+      "tone": 3,
+      "meaning": "Fire",
+      "story": "The fire stands for fire, whispering \"Huo\" softly with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 158,
+      "character": "灰",
+      "pinyin": "huī",
+      "tone": 1,
+      "meaning": "ashes",
+      "story": "Like fire, this character means ashes and sings \"Hway!\" with flickering flames dancing high!",
+      "primitives": []
+    },
+    {
+      "id": 159,
+      "character": "煩",
+      "pinyin": "fán",
+      "tone": 2,
+      "meaning": "vexed",
+      "story": "\"Ugh, fan the flames!\" she sighed, vexed and troubled by all the pages.",
+      "primitives": []
+    },
+    {
+      "id": 160,
+      "character": "炎",
+      "pinyin": "yán",
+      "tone": 2,
+      "meaning": "Inflammation",
+      "story": "Two fires caused inflammation - \"Yan, why is it so hot?\" he wondered.",
+      "primitives": []
+    },
+    {
+      "id": 161,
+      "character": "淡",
+      "pinyin": "dàn",
+      "tone": 4,
+      "meaning": "thin (watery/bland)",
+      "story": "Thin water flames yell \"Dan!\" sharply weakened!",
+      "primitives": []
+    },
+    {
+      "id": 162,
+      "character": "災",
+      "pinyin": "zāi",
+      "tone": 1,
+      "meaning": "Disaster",
+      "story": "The river and fire unite to create disaster, singing \"Zai!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 163,
+      "character": "照",
+      "pinyin": "zhào",
+      "tone": 4,
+      "meaning": "to illuminate",
+      "story": "Like fire, this character means to illuminate and shouts \"Zhao!\"!",
+      "primitives": []
+    },
+    {
+      "id": 164,
+      "character": "魚",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "a Fish",
+      "story": "The fire stands for a fish, asking \"Yu? Why swim?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 165,
+      "character": "漁",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "Fishing",
+      "story": "\"Yoo-hoo, where are the fish?\" the fisherman called out across the water.",
+      "primitives": []
+    },
+    {
+      "id": 166,
+      "character": "堯",
+      "pinyin": "yáo",
+      "tone": 2,
+      "meaning": "Yáo",
+      "story": "Emperor Yao on high earth questions \"Yao? How lofty?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 167,
+      "character": "燒",
+      "pinyin": "shāo",
+      "tone": 1,
+      "meaning": "Fever",
+      "story": "The fire takes the shape of fever, singing \"Shao!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 168,
+      "character": "曉",
+      "pinyin": "xiǎo",
+      "tone": 3,
+      "meaning": "Dawn",
+      "story": "See how the sun forms dawn? It whispers \"Shyao\" softly as sunlight streams across the sky!",
+      "primitives": []
+    }
+  ]
+}

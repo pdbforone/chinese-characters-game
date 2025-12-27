@@ -1,0 +1,224 @@
+{
+  "lesson": 99,
+  "characterCount": 24,
+  "characterList": "杉彬衫彰膨趁診滲膠謬寥斑紋鏟薩脊函涵映殃肥爬疤艷",
+  "themes": ["nature", "body", "numbers", "action"],
+  "characters": [
+    {
+      "id": 2639,
+      "character": "杉",
+      "pinyin": "chān",
+      "tone": 1,
+      "meaning": "fir tree",
+      "story": "\"SHAN!\" the tree and rooster tail sing cheerfully - a fir tree, cedar and conifer!",
+      "primitives": []
+    },
+    {
+      "id": 2640,
+      "character": "彬",
+      "pinyin": "bīn",
+      "tone": 1,
+      "meaning": "well-mannered",
+      "story": "\"BIN!\" he sings cheerfully - well-mannered, refined, gentle and urbane!",
+      "primitives": []
+    },
+    {
+      "id": 2641,
+      "character": "衫",
+      "pinyin": "shān",
+      "tone": 1,
+      "meaning": "shirt",
+      "story": "\"SHAN!\" the clothes sing cheerfully - a shirt, garment and blouse!",
+      "primitives": []
+    },
+    {
+      "id": 2642,
+      "character": "彰",
+      "pinyin": "zhāng",
+      "tone": 1,
+      "meaning": "manifest",
+      "story": "\"JAHNG!\" it sings cheerfully - manifest, evident, revealing not failures!",
+      "primitives": []
+    },
+    {
+      "id": 2643,
+      "character": "膨",
+      "pinyin": "péng",
+      "tone": 2,
+      "meaning": "puffy",
+      "story": "\"PUNG?\" the flesh, drum and rooster tail question curiously - puffy, swollen and bloated?",
+      "primitives": []
+    },
+    {
+      "id": 2644,
+      "character": "趁",
+      "pinyin": "chèn",
+      "tone": 4,
+      "meaning": "take advantage of",
+      "story": "\"CHUN!\" he commands sharply - to take advantage of, seize the opportunity!",
+      "primitives": []
+    },
+    {
+      "id": 2645,
+      "character": "診",
+      "pinyin": "zhěn",
+      "tone": 3,
+      "meaning": "diagnose",
+      "story": "The words bend down drooping - to diagnose, examine and consult!",
+      "primitives": []
+    },
+    {
+      "id": 2646,
+      "character": "滲",
+      "pinyin": "shèn",
+      "tone": 4,
+      "meaning": "seep",
+      "story": "\"SHUN!\" the water commands sharply - to seep, permeate and ooze the stink!",
+      "primitives": []
+    },
+    {
+      "id": 2647,
+      "character": "膠",
+      "pinyin": "jiāo",
+      "tone": 1,
+      "meaning": "gum",
+      "story": "\"JYAO!\" the flesh sings cheerfully - gum, glue and adhesive!",
+      "primitives": []
+    },
+    {
+      "id": 2648,
+      "character": "謬",
+      "pinyin": "miù",
+      "tone": 4,
+      "meaning": "wrong",
+      "story": "\"MYOH!\" the words and kiddie cocktail command sharply - wrong, absurd and ridiculous!",
+      "primitives": []
+    },
+    {
+      "id": 2649,
+      "character": "寥",
+      "pinyin": "liáo",
+      "tone": 2,
+      "meaning": "deserted",
+      "story": "\"LYAO?\" the house questions curiously - is it deserted, sparse and desolate?",
+      "primitives": []
+    },
+    {
+      "id": 2650,
+      "character": "斑",
+      "pinyin": "bān",
+      "tone": 1,
+      "meaning": "speck",
+      "story": "\"BAN!\" the highlander sings cheerfully between two balls - a speck, spot and mottled!",
+      "primitives": []
+    },
+    {
+      "id": 2651,
+      "character": "紋",
+      "pinyin": "wén",
+      "tone": 2,
+      "meaning": "design",
+      "story": "\"WUN?\" the thread questions curiously - what's the design, pattern and texture?",
+      "primitives": []
+    },
+    {
+      "id": 2652,
+      "character": "鏟",
+      "pinyin": "chǎn",
+      "tone": 3,
+      "meaning": "small shovel",
+      "story": "See how the metal forms small shovel? It whispers \"Chǎn!\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2653,
+      "character": "薩",
+      "pinyin": "sà",
+      "tone": 4,
+      "meaning": "Samoa",
+      "story": "\"SAH!\" the flowers command sharply - Samoa, the name and island!",
+      "primitives": []
+    },
+    {
+      "id": 2654,
+      "character": "脊",
+      "pinyin": "jǐ",
+      "tone": 3,
+      "meaning": "backbone",
+      "story": "Picture backbone taking form - it whispers \"Jǐ!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2655,
+      "character": "函",
+      "pinyin": "hán",
+      "tone": 2,
+      "meaning": "letter",
+      "story": "\"HAN?\" the snare, sparkler and pit question curiously - is this a letter, a correspondence message?",
+      "primitives": []
+    },
+    {
+      "id": 2656,
+      "character": "涵",
+      "pinyin": "hán",
+      "tone": 2,
+      "meaning": "culvert",
+      "story": "\"HAN?\" the water questions curiously - a culvert for forgiveness and tolerance?",
+      "primitives": []
+    },
+    {
+      "id": 2657,
+      "character": "映",
+      "pinyin": "yìng",
+      "tone": 4,
+      "meaning": "reflect",
+      "story": "\"YING!\" the sun commands sharply - to reflect, image like a mirror and project!",
+      "primitives": []
+    },
+    {
+      "id": 2658,
+      "character": "殃",
+      "pinyin": "yāng",
+      "tone": 1,
+      "meaning": "calamity",
+      "story": "\"YAHNG!\" the bones and center sing cheerfully despite calamity, disaster and misfortune!",
+      "primitives": []
+    },
+    {
+      "id": 2659,
+      "character": "肥",
+      "pinyin": "féi",
+      "tone": 2,
+      "meaning": "plump",
+      "story": "\"FAY?\" the flesh questions curiously - is it plump, fat and chubby?",
+      "primitives": []
+    },
+    {
+      "id": 2660,
+      "character": "爬",
+      "pinyin": "pá",
+      "tone": 2,
+      "meaning": "crawl",
+      "story": "\"PAH?\" he questions curiously - will you crawl, creep and climb?",
+      "primitives": []
+    },
+    {
+      "id": 2661,
+      "character": "疤",
+      "pinyin": "bā",
+      "tone": 1,
+      "meaning": "scar",
+      "story": "\"BAH!\" the sickness sings cheerfully - a scar, a wound mark representing life!",
+      "primitives": []
+    },
+    {
+      "id": 2662,
+      "character": "艷",
+      "pinyin": "yàn",
+      "tone": 4,
+      "meaning": "gorgeous",
+      "story": "\"YEN!\" she commands sharply - gorgeous, beautiful with a romantic encounter!",
+      "primitives": []
+    }
+  ]
+}

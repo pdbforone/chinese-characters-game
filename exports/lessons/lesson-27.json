@@ -1,0 +1,170 @@
+{
+  "lesson": 27,
+  "characterCount": 18,
+  "characterList": "任廷庭以似併拼呂侶榮勞營善年夜液喚換",
+  "themes": ["time"],
+  "characters": [
+    {
+      "id": 793,
+      "character": "任",
+      "pinyin": "rèn",
+      "tone": 4,
+      "meaning": "to appoint",
+      "story": "\"Ren!\" The person with the burden commanded sharply whom to appoint.",
+      "primitives": []
+    },
+    {
+      "id": 794,
+      "character": "廷",
+      "pinyin": "tíng",
+      "tone": 2,
+      "meaning": "Royal Court",
+      "story": "The strokes unite to show royal court, asking \"Ting? Palace?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 795,
+      "character": "庭",
+      "pinyin": "tíng",
+      "tone": 2,
+      "meaning": "Court Of Law",
+      "story": "The strokes unite to show court of law, asking \"Ting? Trial?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 796,
+      "character": "以",
+      "pinyin": "yǐ",
+      "tone": 3,
+      "meaning": "by means of",
+      "story": "The strokes unite to show by means of, whispering \"Yi\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 797,
+      "character": "似",
+      "pinyin": "sì",
+      "tone": 4,
+      "meaning": "similar",
+      "story": "\"Sih!\" A person by similar means commanded sharply - they were alike.",
+      "primitives": []
+    },
+    {
+      "id": 798,
+      "character": "併",
+      "pinyin": "bìng",
+      "tone": 4,
+      "meaning": "to combine",
+      "story": "\"Bing!\" The person took each piece and combined them sharply.",
+      "primitives": []
+    },
+    {
+      "id": 799,
+      "character": "拼",
+      "pinyin": "pīn",
+      "tone": 1,
+      "meaning": "to piece together",
+      "story": "Like a hand, this character means to piece together and sings \"Pin!\"!",
+      "primitives": []
+    },
+    {
+      "id": 800,
+      "character": "呂",
+      "pinyin": "lǚ",
+      "tone": 3,
+      "meaning": "Spine",
+      "story": "Picture spine taking form - it whispers \"Lyu\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 801,
+      "character": "侶",
+      "pinyin": "lǚ",
+      "tone": 3,
+      "meaning": "an Associate",
+      "story": "Like a person, this character means an associate and whispers \"Lyu\"!",
+      "primitives": []
+    },
+    {
+      "id": 802,
+      "character": "榮",
+      "pinyin": "róng",
+      "tone": 2,
+      "meaning": "Glory",
+      "story": "Picture grass beside fire: that's glory, asking \"Rong? Honor?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 803,
+      "character": "勞",
+      "pinyin": "láo",
+      "tone": 2,
+      "meaning": "Labor",
+      "story": "See how the fire forms labor? It asks \"Lao? Working?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 804,
+      "character": "營",
+      "pinyin": "yíng",
+      "tone": 2,
+      "meaning": "a Camp",
+      "story": "Like fire, this character means a camp and asks \"Ying? Army?\"!",
+      "primitives": []
+    },
+    {
+      "id": 805,
+      "character": "善",
+      "pinyin": "shàn",
+      "tone": 4,
+      "meaning": "virtuous",
+      "story": "Like a mouth, this character means virtuous and shouts \"Shan!\"!",
+      "primitives": []
+    },
+    {
+      "id": 806,
+      "character": "年",
+      "pinyin": "nián",
+      "tone": 2,
+      "meaning": "Year",
+      "story": "Picture year taking form - it asks \"Nian? How long?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 807,
+      "character": "夜",
+      "pinyin": "yè",
+      "tone": 4,
+      "meaning": "Night",
+      "story": "\"Yeh!\" The person became like liquid in the darkness - it was night.",
+      "primitives": []
+    },
+    {
+      "id": 808,
+      "character": "液",
+      "pinyin": "yè",
+      "tone": 4,
+      "meaning": "Liquid",
+      "story": "See how the water forms liquid? It shouts \"Yeh!\" sharply like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 809,
+      "character": "喚",
+      "pinyin": "huàn",
+      "tone": 4,
+      "meaning": "to call out",
+      "story": "The mouth stands for to call out, shouting \"Hwan!\" sharply spoken through parted lips!",
+      "primitives": []
+    },
+    {
+      "id": 810,
+      "character": "換",
+      "pinyin": "huàn",
+      "tone": 4,
+      "meaning": "to exchange",
+      "story": "The hand takes the shape of to exchange, shouting \"Hwan!\" sharply!",
+      "primitives": []
+    }
+  ]
+}

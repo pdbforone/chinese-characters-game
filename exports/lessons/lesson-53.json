@@ -1,0 +1,179 @@
+{
+  "lesson": 53,
+  "characterCount": 19,
+  "characterList": "像馬媽罵嗎驗騎驚虎慮處戲劇據鹿塵麗熊能",
+  "themes": [],
+  "characters": [
+    {
+      "id": 1415,
+      "character": "像",
+      "pinyin": "xiàng",
+      "tone": 4,
+      "meaning": "Likeness",
+      "story": "The person stands for likeness, shouting \"Shyahng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1416,
+      "character": "馬",
+      "pinyin": "mǎ",
+      "tone": 3,
+      "meaning": "Horse",
+      "story": "Picture horse taking form - it whispers \"Mah\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1417,
+      "character": "媽",
+      "pinyin": "mā",
+      "tone": 1,
+      "meaning": "Mama",
+      "story": "Picture mama taking form - it sings \"Mah!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1418,
+      "character": "罵",
+      "pinyin": "mà",
+      "tone": 4,
+      "meaning": "to scold",
+      "story": "\"Mah!\" The net trapped the horse sharply - time to scold, curse, blame and insult!",
+      "primitives": []
+    },
+    {
+      "id": 1419,
+      "character": "嗎",
+      "pinyin": "ma",
+      "tone": 5,
+      "meaning": "yes or no",
+      "story": "Like a mouth, this character means yes or no and asks \"mah\"!",
+      "primitives": []
+    },
+    {
+      "id": 1420,
+      "character": "驗",
+      "pinyin": "yàn",
+      "tone": 4,
+      "meaning": "to check",
+      "story": "\"Yahn!\" The erudite horse commanded sharply to check - test, examine, inspect for verification!",
+      "primitives": []
+    },
+    {
+      "id": 1421,
+      "character": "騎",
+      "pinyin": "qí",
+      "tone": 2,
+      "meaning": "to ride",
+      "story": "\"Chee, are we astride?\" The horse tool questioned riding curiously - equestrian!",
+      "primitives": []
+    },
+    {
+      "id": 1422,
+      "character": "驚",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "startled",
+      "story": "The strokes unite to show startled, singing \"Jing!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1423,
+      "character": "虎",
+      "pinyin": "hǔ",
+      "tone": 3,
+      "meaning": "Tiger",
+      "story": "Picture tiger taking form - it whispers \"Hoo\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1424,
+      "character": "慮",
+      "pinyin": "lǜ",
+      "tone": 4,
+      "meaning": "to ponder",
+      "story": "\"Lyoo!\" The tiger heart commanded sharply to ponder - worry with prudence!",
+      "primitives": []
+    },
+    {
+      "id": 1425,
+      "character": "處",
+      "pinyin": "chù",
+      "tone": 4,
+      "meaning": "Location",
+      "story": "The strokes unite to show location, shouting \"Choo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1426,
+      "character": "戲",
+      "pinyin": "xì",
+      "tone": 4,
+      "meaning": "to frolic",
+      "story": "\"Shee!\" Tiger play commanded sharply to frolic - a theatrical show!",
+      "primitives": []
+    },
+    {
+      "id": 1427,
+      "character": "劇",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "Drama",
+      "story": "The sword takes the shape of drama, shouting \"Jyoo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1428,
+      "character": "據",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "Certificate",
+      "story": "See how the hand forms certificate? It shouts \"Jyoo!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1429,
+      "character": "鹿",
+      "pinyin": "lù",
+      "tone": 4,
+      "meaning": "Deer",
+      "story": "The strokes unite to show deer, shouting \"Loo!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1430,
+      "character": "塵",
+      "pinyin": "chén",
+      "tone": 2,
+      "meaning": "Dust",
+      "story": "The earth takes the shape of dust, asking \"Chun? Ashes?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1431,
+      "character": "麗",
+      "pinyin": "lì",
+      "tone": 4,
+      "meaning": "lovely",
+      "story": "A striking symbol for lovely that shouts \"Lee!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1432,
+      "character": "熊",
+      "pinyin": "xióng",
+      "tone": 2,
+      "meaning": "Bear",
+      "story": "Like fire, this character means bear and asks \"Shyohng? Powerful?\"!",
+      "primitives": []
+    },
+    {
+      "id": 1433,
+      "character": "能",
+      "pinyin": "néng",
+      "tone": 2,
+      "meaning": "Ability",
+      "story": "The moon and meat unite to create ability, asking \"Nung? Capable?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

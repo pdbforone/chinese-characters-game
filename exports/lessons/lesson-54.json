@@ -1,0 +1,116 @@
+{
+  "lesson": 54,
+  "characterCount": 12,
+  "characterList": "態寅演辰晨農濃送鬼魔塊龍",
+  "themes": ["action", "time"],
+  "characters": [
+    {
+      "id": 1434,
+      "character": "態",
+      "pinyin": "tài",
+      "tone": 4,
+      "meaning": "Attitude",
+      "story": "See how the heart forms attitude? It shouts \"Tigh!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1435,
+      "character": "寅",
+      "pinyin": "yín",
+      "tone": 2,
+      "meaning": "Sign Of The Tiger",
+      "story": "The roof takes the shape of sign of the tiger, asking \"Yin? 3am-5am?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1436,
+      "character": "演",
+      "pinyin": "yǎn",
+      "tone": 3,
+      "meaning": "to perform",
+      "story": "The water stands for to perform, whispering \"Yahn\" softly like ripples spreading across a pond!",
+      "primitives": []
+    },
+    {
+      "id": 1437,
+      "character": "辰",
+      "pinyin": "chén",
+      "tone": 2,
+      "meaning": "Sign Of The Dragon",
+      "story": "Picture sign of the dragon taking form - it shouts \"Chun?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1438,
+      "character": "晨",
+      "pinyin": "chén",
+      "tone": 2,
+      "meaning": "Morning",
+      "story": "\"Chun, is it dawn?\" The sun and dragon sign questioned morning curiously - daybreak, the morrow!",
+      "primitives": []
+    },
+    {
+      "id": 1439,
+      "character": "農",
+      "pinyin": "nóng",
+      "tone": 2,
+      "meaning": "Agriculture",
+      "story": "The strokes unite to show agriculture, asking \"Nohng? Farming?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1440,
+      "character": "濃",
+      "pinyin": "nóng",
+      "tone": 2,
+      "meaning": "concentrated",
+      "story": "See how the water forms concentrated? It asks \"Nohng? Thick?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1441,
+      "character": "送",
+      "pinyin": "sòng",
+      "tone": 4,
+      "meaning": "to deliver",
+      "story": "\"Sohng!\" The road commanded to give sharply - see off, send and dispatch for delivery!",
+      "primitives": []
+    },
+    {
+      "id": 1442,
+      "character": "鬼",
+      "pinyin": "guǐ",
+      "tone": 3,
+      "meaning": "Ghost",
+      "story": "Picture ghost taking form - it asks \"Gway\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1443,
+      "character": "魔",
+      "pinyin": "mó",
+      "tone": 2,
+      "meaning": "Demon",
+      "story": "The strokes unite to show demon, asking \"Mwo? Devil?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1444,
+      "character": "塊",
+      "pinyin": "kuài",
+      "tone": 4,
+      "meaning": "Lump",
+      "story": "A striking symbol for lump that shouts \"Kwigh!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1445,
+      "character": "龍",
+      "pinyin": "lóng",
+      "tone": 2,
+      "meaning": "Dragon",
+      "story": "A striking symbol for dragon that asks \"Lohng? Imperial?\" curiously!",
+      "primitives": []
+    }
+  ]
+}

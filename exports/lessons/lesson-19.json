@@ -1,0 +1,269 @@
+{
+  "lesson": 19,
+  "characterCount": 29,
+  "characterList": "賠培音暗韻識幟竟鏡境亡盲妄望方妨放激於旁兌脫說曾增贈東棟凍",
+  "themes": ["water", "action"],
+  "characters": [
+    {
+      "id": 447,
+      "character": "賠",
+      "pinyin": "péi",
+      "tone": 2,
+      "meaning": "to compensate",
+      "story": "\"Pay me back!\" he questioned, compensating with shellfish after standing trial.",
+      "primitives": []
+    },
+    {
+      "id": 448,
+      "character": "培",
+      "pinyin": "péi",
+      "tone": 2,
+      "meaning": "to cultivate",
+      "story": "\"Pay attention to how it grows!\" she questioned, cultivating soil as she stood.",
+      "primitives": []
+    },
+    {
+      "id": 449,
+      "character": "音",
+      "pinyin": "yīn",
+      "tone": 1,
+      "meaning": "Sound",
+      "story": "The sun takes the shape of sound, singing \"Yin!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 450,
+      "character": "暗",
+      "pinyin": "àn",
+      "tone": 4,
+      "meaning": "dark",
+      "story": "The sun takes the shape of dark, shouting \"An!\" sharply as sunlight streams across the sky!",
+      "primitives": []
+    },
+    {
+      "id": 451,
+      "character": "韻",
+      "pinyin": "yùn",
+      "tone": 4,
+      "meaning": "Rhyme",
+      "story": "Picture rhyme taking form - it shouts \"Yun!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 452,
+      "character": "識",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "Knowledge",
+      "story": "This character represents knowledge, shouting \"Shi!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 453,
+      "character": "幟",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "Streamer",
+      "story": "This character represents streamer, shouting \"Zhi!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 454,
+      "character": "竟",
+      "pinyin": "jìng",
+      "tone": 4,
+      "meaning": "unexpectedly",
+      "story": "The strokes unite to show unexpectedly, shouting \"Jing!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 455,
+      "character": "鏡",
+      "pinyin": "jìng",
+      "tone": 4,
+      "meaning": "Mirror",
+      "story": "Like gold, this character means mirror and shouts \"Jing!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 456,
+      "character": "境",
+      "pinyin": "jìng",
+      "tone": 4,
+      "meaning": "Boundary",
+      "story": "A boundary earth unexpectedly yells \"Jing!\" sharply bordering!",
+      "primitives": []
+    },
+    {
+      "id": 457,
+      "character": "亡",
+      "pinyin": "wáng",
+      "tone": 2,
+      "meaning": "deceased",
+      "story": "See how the person forms deceased? It asks \"Wang? Where died?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 458,
+      "character": "盲",
+      "pinyin": "máng",
+      "tone": 2,
+      "meaning": "blind",
+      "story": "The eye takes the shape of blind, asking \"Mang? Can't see?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 459,
+      "character": "妄",
+      "pinyin": "wàng",
+      "tone": 4,
+      "meaning": "absurd",
+      "story": "This character represents absurd, shouting \"Wang!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 460,
+      "character": "望",
+      "pinyin": "wàng",
+      "tone": 4,
+      "meaning": "to expect",
+      "story": "The moon takes the shape of to expect, shouting \"Wang!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 461,
+      "character": "方",
+      "pinyin": "fāng",
+      "tone": 1,
+      "meaning": "Direction",
+      "story": "This character represents direction, singing \"Fang!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 462,
+      "character": "妨",
+      "pinyin": "fáng",
+      "tone": 2,
+      "meaning": "to hinder",
+      "story": "\"Fang, are you blocking?\" The woman questioned which direction, hindering progress.",
+      "primitives": []
+    },
+    {
+      "id": 463,
+      "character": "放",
+      "pinyin": "fàng",
+      "tone": 4,
+      "meaning": "to release",
+      "story": "\"Fang!\" Strike to release! He freed the direction sharply.",
+      "primitives": []
+    },
+    {
+      "id": 464,
+      "character": "激",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "to excite",
+      "story": "The white and water unite to create to excite, singing \"Ji!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 465,
+      "character": "於",
+      "pinyin": "yú",
+      "tone": 2,
+      "meaning": "[all-purpose preposition]",
+      "story": "\"Yoo, where is it located?\" they questioned the place and direction.",
+      "primitives": []
+    },
+    {
+      "id": 466,
+      "character": "旁",
+      "pinyin": "páng",
+      "tone": 2,
+      "meaning": "Side",
+      "story": "Picture side taking form - it asks \"Pang? Which side?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 467,
+      "character": "兌",
+      "pinyin": "duì",
+      "tone": 4,
+      "meaning": "to convert",
+      "story": "\"Dway!\" The person's mouth commanded sharply, converting and exchanging currency.",
+      "primitives": []
+    },
+    {
+      "id": 468,
+      "character": "脫",
+      "pinyin": "tuō",
+      "tone": 1,
+      "meaning": "to undress",
+      "story": "\"Twoh!\" she sang cheerfully, removing her flesh-colored clothes to undress.",
+      "primitives": []
+    },
+    {
+      "id": 469,
+      "character": "說",
+      "pinyin": "shuō",
+      "tone": 1,
+      "meaning": "to speak",
+      "story": "\"Shwoh!\" The words talked and spoke cheerfully, converting ideas.",
+      "primitives": []
+    },
+    {
+      "id": 470,
+      "character": "曾",
+      "pinyin": "céng",
+      "tone": 2,
+      "meaning": "formerly",
+      "story": "Picture formerly taking form - it asks \"Tseng? Long ago?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 471,
+      "character": "增",
+      "pinyin": "zēng",
+      "tone": 1,
+      "meaning": "to increase",
+      "story": "\"Zeng!\" The earth grew cheerfully, increasing from what it was formerly.",
+      "primitives": []
+    },
+    {
+      "id": 472,
+      "character": "贈",
+      "pinyin": "zèng",
+      "tone": 4,
+      "meaning": "to make a present of",
+      "story": "The shellfish stands for to make a present of, shouting \"Zeng!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 473,
+      "character": "東",
+      "pinyin": "dōng",
+      "tone": 1,
+      "meaning": "East",
+      "story": "The tree stands for east, singing \"Dong!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 474,
+      "character": "棟",
+      "pinyin": "dòng",
+      "tone": 4,
+      "meaning": "Building",
+      "story": "The tree stands for building, shouting \"Dong!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 475,
+      "character": "凍",
+      "pinyin": "dòng",
+      "tone": 4,
+      "meaning": "to freeze",
+      "story": "Picture to freeze taking form - it shouts \"Dong!\" with vivid energy!",
+      "primitives": []
+    }
+  ]
+}

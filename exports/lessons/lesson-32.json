@@ -1,0 +1,224 @@
+{
+  "lesson": 32,
+  "characterCount": 24,
+  "characterList": "機斷繼顯樂藥雞麼系係孫卻腳服命留溜聊柳令冷零領通",
+  "themes": ["family"],
+  "characters": [
+    {
+      "id": 927,
+      "character": "機",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "Machine",
+      "story": "A machine of trees and threads sings \"Ji!\" cheerfully - an opportunity clicking like an abacus!",
+      "primitives": []
+    },
+    {
+      "id": 928,
+      "character": "斷",
+      "pinyin": "duàn",
+      "tone": 4,
+      "meaning": "to sever",
+      "story": "See how the silk forms to sever? It shouts \"Dwan!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 929,
+      "character": "繼",
+      "pinyin": "jì",
+      "tone": 4,
+      "meaning": "to carry on",
+      "story": "With a thread combined with silk, you get to carry on - \"Ji!\" rings out sharply!",
+      "primitives": []
+    },
+    {
+      "id": 930,
+      "character": "顯",
+      "pinyin": "xiǎn",
+      "tone": 3,
+      "meaning": "obvious",
+      "story": "The thread stands for obvious, whispering \"Shian\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 931,
+      "character": "樂",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "Music",
+      "story": "\"Yueh!\" The white tree commanded music sharply - melodies sang with joy!",
+      "primitives": []
+    },
+    {
+      "id": 932,
+      "character": "藥",
+      "pinyin": "yào",
+      "tone": 4,
+      "meaning": "Medicine",
+      "story": "The grass takes the shape of medicine, shouting \"Yao!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 933,
+      "character": "雞",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "Chicken",
+      "story": "A chicken bird sings \"Ji!\" cheerfully - part griffin, part turkey!",
+      "primitives": []
+    },
+    {
+      "id": 934,
+      "character": "麼",
+      "pinyin": "me",
+      "tone": 5,
+      "meaning": "[interrogative suffix]; [pause marker]",
+      "story": "\"What, me?\" says the hemp thread neutrally, questioning at sentence's end!",
+      "primitives": []
+    },
+    {
+      "id": 935,
+      "character": "系",
+      "pinyin": "xì",
+      "tone": 4,
+      "meaning": "Lineage",
+      "story": "Like silk, this character means lineage and shouts \"Shi!\" - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 936,
+      "character": "係",
+      "pinyin": "xì",
+      "tone": 4,
+      "meaning": "related to",
+      "story": "\"Shi!\" The person's lineage commanded sharply - they were related by connection!",
+      "primitives": []
+    },
+    {
+      "id": 937,
+      "character": "孫",
+      "pinyin": "sūn",
+      "tone": 1,
+      "meaning": "Grandchild",
+      "story": "\"Sun!\" The child on the family line sang cheerfully - a grandson continuing the thread!",
+      "primitives": []
+    },
+    {
+      "id": 938,
+      "character": "卻",
+      "pinyin": "què",
+      "tone": 4,
+      "meaning": "to withdraw (retreat, not banks)",
+      "story": "\"Chueh!\" Divination commanded withdrawal sharply - retreat, yet stand firm!",
+      "primitives": []
+    },
+    {
+      "id": 939,
+      "character": "腳",
+      "pinyin": "jiǎo",
+      "tone": 3,
+      "meaning": "Foot",
+      "story": "The foot takes the shape of foot, whispering \"Jiao\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 940,
+      "character": "服",
+      "pinyin": "fú",
+      "tone": 2,
+      "meaning": "Apparel",
+      "story": "\"Foo, what clothing should I wear?\" The moon and hand questioned apparel curiously.",
+      "primitives": []
+    },
+    {
+      "id": 941,
+      "character": "命",
+      "pinyin": "mìng",
+      "tone": 4,
+      "meaning": "Fate",
+      "story": "Fate's mouth opens, commanding \"Ming!\" sharply - life's destiny spoken!",
+      "primitives": []
+    },
+    {
+      "id": 942,
+      "character": "留",
+      "pinyin": "liú",
+      "tone": 2,
+      "meaning": "to stay",
+      "story": "\"Lyo, should I remain here?\" The field questioned whether to stay, detained.",
+      "primitives": []
+    },
+    {
+      "id": 943,
+      "character": "溜",
+      "pinyin": "liū",
+      "tone": 1,
+      "meaning": "to slide",
+      "story": "\"Lyo!\" On the water they sang cheerfully, sliding away, skating and slipping!",
+      "primitives": []
+    },
+    {
+      "id": 944,
+      "character": "聊",
+      "pinyin": "liáo",
+      "tone": 2,
+      "meaning": "to chat",
+      "story": "\"Liao, want to talk more?\" The ear questioned how to chat curiously, passing time!",
+      "primitives": []
+    },
+    {
+      "id": 945,
+      "character": "柳",
+      "pinyin": "liǔ",
+      "tone": 3,
+      "meaning": "Willow",
+      "story": "Like a tree, this character means willow and whispers \"Lyo\"!",
+      "primitives": []
+    },
+    {
+      "id": 946,
+      "character": "令",
+      "pinyin": "lìng",
+      "tone": 4,
+      "meaning": "Orders",
+      "story": "\"Ling!\" The seal stamped orders sharply - the decree was issued!",
+      "primitives": []
+    },
+    {
+      "id": 947,
+      "character": "冷",
+      "pinyin": "lěng",
+      "tone": 3,
+      "meaning": "cold",
+      "story": "A striking symbol for cold that whispers \"Leng\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 948,
+      "character": "零",
+      "pinyin": "líng",
+      "tone": 2,
+      "meaning": "zero",
+      "story": "The rain stands for zero, asking \"Ling? Nothing left?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 949,
+      "character": "領",
+      "pinyin": "lǐng",
+      "tone": 3,
+      "meaning": "Collar",
+      "story": "The strokes unite to show collar, whispering \"Ling\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 950,
+      "character": "通",
+      "pinyin": "tōng",
+      "tone": 1,
+      "meaning": "to communicate",
+      "story": "See how the stick forms to communicate? It sings \"Tong!\" cheerfully!",
+      "primitives": []
+    }
+  ]
+}

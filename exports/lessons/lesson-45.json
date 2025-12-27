@@ -1,0 +1,161 @@
+{
+  "lesson": 45,
+  "characterCount": 17,
+  "characterList": "絕甘某其期基斯甚貴遺舞無撫且姐組祖",
+  "themes": ["time"],
+  "characters": [
+    {
+      "id": 1285,
+      "character": "絕",
+      "pinyin": "jué",
+      "tone": 2,
+      "meaning": "to discontinue",
+      "story": "The thread stands for to discontinue, asking \"Jyueh, should we break off?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1286,
+      "character": "甘",
+      "pinyin": "gān",
+      "tone": 1,
+      "meaning": "sweet",
+      "story": "The tongue stands for sweet, singing \"Gahn!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1287,
+      "character": "某",
+      "pinyin": "mǒu",
+      "tone": 3,
+      "meaning": "such and such",
+      "story": "The tree stands for such and such, whispering \"Moh\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1288,
+      "character": "其",
+      "pinyin": "qí",
+      "tone": 2,
+      "meaning": "his-hers-its-theirs",
+      "story": "Picture his-hers-its-theirs taking form - it asks \"Chee? Whose?\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 1289,
+      "character": "期",
+      "pinyin": "qī",
+      "tone": 1,
+      "meaning": "Period of Time",
+      "story": "Like a moon, this character means period of time and sings \"Chee!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1290,
+      "character": "基",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "Base",
+      "story": "The strokes unite to show base, singing \"Jee!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1291,
+      "character": "斯",
+      "pinyin": "sī",
+      "tone": 1,
+      "meaning": "Sphinx",
+      "story": "This character represents sphinx, singing \"Suh!\" cheerfully!",
+      "primitives": []
+    },
+    {
+      "id": 1292,
+      "character": "甚",
+      "pinyin": "shèn",
+      "tone": 4,
+      "meaning": "tremendously",
+      "story": "This character represents tremendously, shouting \"Shun!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 1293,
+      "character": "貴",
+      "pinyin": "guì",
+      "tone": 4,
+      "meaning": "expensive",
+      "story": "Like a shellfish, this character means expensive and shouts \"Gway!\"!",
+      "primitives": []
+    },
+    {
+      "id": 1294,
+      "character": "遺",
+      "pinyin": "yí",
+      "tone": 2,
+      "meaning": "to bequeath",
+      "story": "\"Yee, did we lose it?\" The expensive item on the road was left behind - bequeathed and lost!",
+      "primitives": []
+    },
+    {
+      "id": 1295,
+      "character": "舞",
+      "pinyin": "wǔ",
+      "tone": 3,
+      "meaning": "Dance",
+      "story": "A striking symbol for dance that whispers \"Woo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1296,
+      "character": "無",
+      "pinyin": "wú",
+      "tone": 2,
+      "meaning": "nothing",
+      "story": "See how the fire forms nothing? It asks \"Woo? Lacking?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 1297,
+      "character": "撫",
+      "pinyin": "fǔ",
+      "tone": 3,
+      "meaning": "to comfort",
+      "story": "See how the hand forms to comfort? It whispers \"Foo\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1298,
+      "character": "且",
+      "pinyin": "qiě",
+      "tone": 3,
+      "meaning": "moreover",
+      "story": "This character represents moreover, whispering \"Chyeh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1299,
+      "character": "姐",
+      "pinyin": "jiě",
+      "tone": 3,
+      "meaning": "Older Sister",
+      "story": "An striking symbol for older sister that whispers \"Jyeh\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 1300,
+      "character": "組",
+      "pinyin": "zǔ",
+      "tone": 3,
+      "meaning": "Group",
+      "story": "See how the thread forms group? It whispers \"Dzoo\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 1301,
+      "character": "祖",
+      "pinyin": "zǔ",
+      "tone": 3,
+      "meaning": "Ancestor",
+      "story": "The strokes unite to show ancestor, whispering \"Dzoo\" softly!",
+      "primitives": []
+    }
+  ]
+}

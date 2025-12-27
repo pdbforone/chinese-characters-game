@@ -1,0 +1,656 @@
+{
+  "lesson": 92,
+  "characterCount": 72,
+  "characterList": "酬酌酷醇醋醉粹翠碎酸梭峻俊釁醬猶奠蹲逗豈凱豎嘉嘻盟孟猛盛盞盒鋪盜盪寧盈盆盃蘊濫鑑尷尬拋耽枕覽攬纜狠恨爵嚼懇墾豹貓貌朗狼飢饒飾飲蝕飽饅餅餃餓潛蠶溉",
+  "themes": ["action", "fire", "body"],
+  "characters": [
+    {
+      "id": 2393,
+      "character": "酬",
+      "pinyin": "chóu",
+      "tone": 2,
+      "meaning": "reward",
+      "story": "\"Chew on this?\" he questions curiously, offering wine as a reward to repay and recompense.",
+      "primitives": []
+    },
+    {
+      "id": 2394,
+      "character": "酌",
+      "pinyin": "zhuó",
+      "tone": 2,
+      "meaning": "pour wine",
+      "story": "\"Jaw?\" she questions curiously, considering whether to pour wine and ladle it carefully.",
+      "primitives": []
+    },
+    {
+      "id": 2395,
+      "character": "酷",
+      "pinyin": "kù",
+      "tone": 4,
+      "meaning": "brutal",
+      "story": "\"COOL!\" he commands sharply in a brutal, cruel, harsh but cool way with wine.",
+      "primitives": []
+    },
+    {
+      "id": 2396,
+      "character": "醇",
+      "pinyin": "chún",
+      "tone": 2,
+      "meaning": "mellow wine",
+      "story": "\"Chew?\" she questions curiously, tasting the mellow wine that's pure, rich and smooth.",
+      "primitives": []
+    },
+    {
+      "id": 2397,
+      "character": "醋",
+      "pinyin": "cù",
+      "tone": 4,
+      "meaning": "vinegar",
+      "story": "\"CUSS!\" he commands sharply, spitting out the sour, acidic vinegar wine with jealous disgust.",
+      "primitives": []
+    },
+    {
+      "id": 2398,
+      "character": "醉",
+      "pinyin": "zuì",
+      "tone": 4,
+      "meaning": "drunk",
+      "story": "\"SWAY!\" she commands sharply, the drunk wine making her intoxicated and inebriated.",
+      "primitives": []
+    },
+    {
+      "id": 2399,
+      "character": "粹",
+      "pinyin": "cuì",
+      "tone": 4,
+      "meaning": "unmixed",
+      "story": "\"QUICHE!\" he commands sharply - the rice must be pure, unadulterated essence, unmixed.",
+      "primitives": []
+    },
+    {
+      "id": 2400,
+      "character": "翠",
+      "pinyin": "cuì",
+      "tone": 4,
+      "meaning": "emerald green",
+      "story": "The foot takes the shape of emerald green, shouting \"QUICHE colored!\" sharply!",
+      "primitives": []
+    },
+    {
+      "id": 2401,
+      "character": "碎",
+      "pinyin": "suì",
+      "tone": 4,
+      "meaning": "shattered",
+      "story": "\"SWAY and break!\" he commands sharply as the stone becomes shattered, broken and fragmented.",
+      "primitives": []
+    },
+    {
+      "id": 2402,
+      "character": "酸",
+      "pinyin": "suān",
+      "tone": 1,
+      "meaning": "sour",
+      "story": "\"Sahn!\" she sings cheerfully, tasting the sour wine - tart and acidic!",
+      "primitives": []
+    },
+    {
+      "id": 2403,
+      "character": "梭",
+      "pinyin": "suō",
+      "tone": 1,
+      "meaning": "shuttle",
+      "story": "See how the tree forms shuttle? It sings \"So!\" cheerfully - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2404,
+      "character": "峻",
+      "pinyin": "jùn",
+      "tone": 4,
+      "meaning": "lofty",
+      "story": "\"JUNE peak!\" she commands sharply about the lofty mountain streetwalker - steep and towering!",
+      "primitives": []
+    },
+    {
+      "id": 2405,
+      "character": "俊",
+      "pinyin": "jùn",
+      "tone": 4,
+      "meaning": "pretty",
+      "story": "\"JUNE!\" the pretty person commands sharply - handsome and talented!",
+      "primitives": []
+    },
+    {
+      "id": 2406,
+      "character": "釁",
+      "pinyin": "xìn",
+      "tone": 4,
+      "meaning": "quarrel",
+      "story": "\"SEEN it!\" he commands sharply during the quarrel - the zipper, hood, spike, crown, whiskey bottle create a feud and dispute!",
+      "primitives": []
+    },
+    {
+      "id": 2407,
+      "character": "醬",
+      "pinyin": "jiàng",
+      "tone": 4,
+      "meaning": "thick sauce",
+      "story": "\"JELLY!\" she commands sharply about the thick sauce wine paste condiment.",
+      "primitives": []
+    },
+    {
+      "id": 2408,
+      "character": "猶",
+      "pinyin": "yóu",
+      "tone": 2,
+      "meaning": "just like",
+      "story": "\"Yo?\" the pack of wild dogs and chieftain question curiously - just like, still yet?",
+      "primitives": []
+    },
+    {
+      "id": 2409,
+      "character": "奠",
+      "pinyin": "diàn",
+      "tone": 4,
+      "meaning": "found",
+      "story": "\"DANE!\" he commands sharply, establishing the foundation base with an offering.",
+      "primitives": []
+    },
+    {
+      "id": 2410,
+      "character": "蹲",
+      "pinyin": "dún",
+      "tone": 2,
+      "meaning": "squat",
+      "story": "\"Dune?\" she questions curiously, squatting down with her wooden leg in veneration.",
+      "primitives": []
+    },
+    {
+      "id": 2411,
+      "character": "逗",
+      "pinyin": "dòu",
+      "tone": 4,
+      "meaning": "tease",
+      "story": "\"DOH!\" he commands sharply on the road, teasing to play tricks and provoke.",
+      "primitives": []
+    },
+    {
+      "id": 2412,
+      "character": "豈",
+      "pinyin": "qǐ",
+      "tone": 3,
+      "meaning": "rhetorical question",
+      "story": "The beans bend down drooping - \"How can this be?\"",
+      "primitives": []
+    },
+    {
+      "id": 2413,
+      "character": "凱",
+      "pinyin": "kǎi",
+      "tone": 3,
+      "meaning": "triumphant",
+      "story": "The mountain of beans and wind bend down - the triumphant, victorious warrior!",
+      "primitives": []
+    },
+    {
+      "id": 2414,
+      "character": "豎",
+      "pinyin": "shù",
+      "tone": 4,
+      "meaning": "perpendicular",
+      "story": "\"SHOOT up!\" the scrooge commands sharply at the beans - standing erect, vertical like a nobody!",
+      "primitives": []
+    },
+    {
+      "id": 2415,
+      "character": "嘉",
+      "pinyin": "jiā",
+      "tone": 1,
+      "meaning": "commend",
+      "story": "\"YAY!\" the drum and addition sing cheerfully - commending with praise for excellence!",
+      "primitives": []
+    },
+    {
+      "id": 2416,
+      "character": "嘻",
+      "pinyin": "xī",
+      "tone": 1,
+      "meaning": "giggling",
+      "story": "\"Hee-hee!\" the mouth sings cheerfully, giggling and laughing playfully!",
+      "primitives": []
+    },
+    {
+      "id": 2417,
+      "character": "盟",
+      "pinyin": "méng",
+      "tone": 2,
+      "meaning": "alliance",
+      "story": "\"Mingle?\" the dish questions curiously about forming an alliance, oath and league.",
+      "primitives": []
+    },
+    {
+      "id": 2418,
+      "character": "孟",
+      "pinyin": "mèng",
+      "tone": 4,
+      "meaning": "Mencius",
+      "story": "\"MUNG!\" the fledgling sage commands sharply - Mencius the philosopher!",
+      "primitives": []
+    },
+    {
+      "id": 2419,
+      "character": "猛",
+      "pinyin": "měng",
+      "tone": 3,
+      "meaning": "fierce",
+      "story": "This character represents fierce, whispering \"Měng!\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2420,
+      "character": "盛",
+      "pinyin": "shéng",
+      "tone": 2,
+      "meaning": "flourishing",
+      "story": "\"Sheng?\" she questions curiously as things turn into the dish - flourishing, vigorous and prosperous!",
+      "primitives": []
+    },
+    {
+      "id": 2421,
+      "character": "盞",
+      "pinyin": "zhǎn",
+      "tone": 3,
+      "meaning": "small cup",
+      "story": "The float bends in the dish - a small cup, lantern and lamp!",
+      "primitives": []
+    },
+    {
+      "id": 2422,
+      "character": "盒",
+      "pinyin": "hé",
+      "tone": 2,
+      "meaning": "small box",
+      "story": "\"Huh?\" he questions curiously about the small box dish - a container and case.",
+      "primitives": []
+    },
+    {
+      "id": 2423,
+      "character": "鋪",
+      "pinyin": "pù",
+      "tone": 4,
+      "meaning": "shop",
+      "story": "\"POO!\" the metal sign commands sharply outside the shop - a store spreading goods for sale!",
+      "primitives": []
+    },
+    {
+      "id": 2424,
+      "character": "盜",
+      "pinyin": "dào",
+      "tone": 4,
+      "meaning": "master thief",
+      "story": "\"DOW!\" the dish commands sharply - the master thief will rob and steal!",
+      "primitives": []
+    },
+    {
+      "id": 2425,
+      "character": "盪",
+      "pinyin": "dàng",
+      "tone": 4,
+      "meaning": "swing",
+      "story": "\"DONG!\" the dish commands sharply, swinging and swaying with oscillation!",
+      "primitives": []
+    },
+    {
+      "id": 2426,
+      "character": "寧",
+      "pinyin": "níng",
+      "tone": 2,
+      "meaning": "calm",
+      "story": "\"Ning?\" she questions curiously in a calm, peaceful and tranquil way.",
+      "primitives": []
+    },
+    {
+      "id": 2427,
+      "character": "盈",
+      "pinyin": "yíng",
+      "tone": 2,
+      "meaning": "replete",
+      "story": "\"Ying?\" the fist questions curiously again at the dish - is it replete and full, with tears overflowing?",
+      "primitives": []
+    },
+    {
+      "id": 2428,
+      "character": "盆",
+      "pinyin": "pén",
+      "tone": 2,
+      "meaning": "basin",
+      "story": "\"Pen?\" he questions curiously about the part-dish - the washbasin fire pot!",
+      "primitives": []
+    },
+    {
+      "id": 2429,
+      "character": "盃",
+      "pinyin": "bēi",
+      "tone": 1,
+      "meaning": "trophy",
+      "story": "\"BAY!\" she sings cheerfully - there's no dish, just the trophy cup award!",
+      "primitives": []
+    },
+    {
+      "id": 2430,
+      "character": "蘊",
+      "pinyin": "yùn",
+      "tone": 4,
+      "meaning": "amass",
+      "story": "\"YOU need to!\" he commands sharply, using flowers, thread, prisoner and dish to amass and accumulate contained wealth.",
+      "primitives": []
+    },
+    {
+      "id": 2431,
+      "character": "濫",
+      "pinyin": "làn",
+      "tone": 4,
+      "meaning": "indiscriminate",
+      "story": "\"LAN!\" she commands sharply as water and the hidden camera flood indiscriminately and excessively!",
+      "primitives": []
+    },
+    {
+      "id": 2432,
+      "character": "鑑",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "probe",
+      "story": "\"JANE!\" he commands sharply, using metal to probe, inspect and examine like a mirror.",
+      "primitives": []
+    },
+    {
+      "id": 2433,
+      "character": "尷",
+      "pinyin": "gān",
+      "tone": 1,
+      "meaning": "abashed",
+      "story": "\"GAN!\" Frankenbowser sings cheerfully with the hidden camera, feeling abashed and awkward!",
+      "primitives": []
+    },
+    {
+      "id": 2434,
+      "character": "尬",
+      "pinyin": "gà",
+      "tone": 4,
+      "meaning": "embarrassed",
+      "story": "\"GAH!\" Frankenbowser commands sharply when introduced - so embarrassed and uncomfortable!",
+      "primitives": []
+    },
+    {
+      "id": 2435,
+      "character": "拋",
+      "pinyin": "pāo",
+      "tone": 1,
+      "meaning": "toss",
+      "story": "\"POW!\" she sings cheerfully, using fingers to toss, throw and cast.",
+      "primitives": []
+    },
+    {
+      "id": 2436,
+      "character": "耽",
+      "pinyin": "dān",
+      "tone": 1,
+      "meaning": "indulge in",
+      "story": "\"DAN!\" the ear of Frankenbowser Rex sings cheerfully, indulging to delay and immerse!",
+      "primitives": []
+    },
+    {
+      "id": 2437,
+      "character": "枕",
+      "pinyin": "zhěn",
+      "tone": 3,
+      "meaning": "pillow",
+      "story": "The tree stands for pillow, whispering \"Zhěn!\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2438,
+      "character": "覽",
+      "pinyin": "lǎn",
+      "tone": 3,
+      "meaning": "view",
+      "story": "He bends down to view, survey and observe with the magnifying glass.",
+      "primitives": []
+    },
+    {
+      "id": 2439,
+      "character": "攬",
+      "pinyin": "lǎn",
+      "tone": 3,
+      "meaning": "take on",
+      "story": "She bends her fingers with the magnifying glass, taking on tasks to seize the moon and embrace it.",
+      "primitives": []
+    },
+    {
+      "id": 2440,
+      "character": "纜",
+      "pinyin": "lǎn",
+      "tone": 3,
+      "meaning": "cable",
+      "story": "The thread and magnifying glass bend down - the cable rope hawser.",
+      "primitives": []
+    },
+    {
+      "id": 2441,
+      "character": "狠",
+      "pinyin": "hěn",
+      "tone": 3,
+      "meaning": "ruthless",
+      "story": "A striking symbol for ruthless that whispers \"Hěn!\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2442,
+      "character": "恨",
+      "pinyin": "hèn",
+      "tone": 4,
+      "meaning": "hate",
+      "story": "\"HEN!\" the heart commands sharply with hate - to resent and loathe!",
+      "primitives": []
+    },
+    {
+      "id": 2443,
+      "character": "爵",
+      "pinyin": "jué",
+      "tone": 2,
+      "meaning": "upper crust",
+      "story": "An striking symbol for upper crust that asks \"Jewel?\" curiously!",
+      "primitives": []
+    },
+    {
+      "id": 2444,
+      "character": "嚼",
+      "pinyin": "jiáo",
+      "tone": 2,
+      "meaning": "chew",
+      "story": "\"Jaw?\" the mouth questions curiously about the upper crust - to chew, masticate and munch!",
+      "primitives": []
+    },
+    {
+      "id": 2445,
+      "character": "懇",
+      "pinyin": "kěn",
+      "tone": 3,
+      "meaning": "wholeheartedly",
+      "story": "The heart takes the shape of wholeheartedly, whispering \"Kěn!\" softly!",
+      "primitives": []
+    },
+    {
+      "id": 2446,
+      "character": "墾",
+      "pinyin": "kěn",
+      "tone": 3,
+      "meaning": "reclaim",
+      "story": "The leopard's solver bends in the soil - to reclaim and cultivate the land!",
+      "primitives": []
+    },
+    {
+      "id": 2447,
+      "character": "豹",
+      "pinyin": "bào",
+      "tone": 4,
+      "meaning": "leopard",
+      "story": "The strokes unite to show leopard, shouting \"POW!\" sharply - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2448,
+      "character": "貓",
+      "pinyin": "māo",
+      "tone": 1,
+      "meaning": "cat",
+      "story": "\"MEOW!\" the shells sing cheerfully - the cat, feline and kitty!",
+      "primitives": []
+    },
+    {
+      "id": 2449,
+      "character": "貌",
+      "pinyin": "mào",
+      "tone": 4,
+      "meaning": "mien",
+      "story": "\"MOW!\" the shells command sharply about mien - appearance and demeanor!",
+      "primitives": []
+    },
+    {
+      "id": 2450,
+      "character": "朗",
+      "pinyin": "lǎng",
+      "tone": 3,
+      "meaning": "lucent",
+      "story": "The moon stands for lucent, whispering \"Lǎng!\" softly in the soft glow of moonlight!",
+      "primitives": []
+    },
+    {
+      "id": 2451,
+      "character": "狼",
+      "pinyin": "láng",
+      "tone": 2,
+      "meaning": "wolf",
+      "story": "\"Long?\" the pack of wild dogs questions curiously - is it a wolf, a wild canine or a weasel?",
+      "primitives": []
+    },
+    {
+      "id": 2452,
+      "character": "飢",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "starving",
+      "story": "\"GEE!\" the food and wind sing cheerfully - starving, hungry and desperate!",
+      "primitives": []
+    },
+    {
+      "id": 2453,
+      "character": "饒",
+      "pinyin": "ráo",
+      "tone": 2,
+      "meaning": "spare",
+      "story": "\"Rao?\" the food questions curiously - will you spare, forgive and show mercy?",
+      "primitives": []
+    },
+    {
+      "id": 2454,
+      "character": "飾",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "ornaments",
+      "story": "\"SHEET!\" the food commands sharply - ornaments to decorate and adorn!",
+      "primitives": []
+    },
+    {
+      "id": 2455,
+      "character": "飲",
+      "pinyin": "yǐn",
+      "tone": 3,
+      "meaning": "beverage",
+      "story": "Picture beverage taking form - it whispers \"Yǐn!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2456,
+      "character": "蝕",
+      "pinyin": "shí",
+      "tone": 2,
+      "meaning": "eat away",
+      "story": "\"Shih?\" the food and insect question curiously, eating away to erode and corrode.",
+      "primitives": []
+    },
+    {
+      "id": 2457,
+      "character": "飽",
+      "pinyin": "bǎo",
+      "tone": 3,
+      "meaning": "sated",
+      "story": "Picture sated taking form - it whispers \"Bǎo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2458,
+      "character": "饅",
+      "pinyin": "mán",
+      "tone": 2,
+      "meaning": "bread",
+      "story": "\"Man?\" the food questions curiously - is it bread, a steamed bun?",
+      "primitives": []
+    },
+    {
+      "id": 2459,
+      "character": "餅",
+      "pinyin": "bǐng",
+      "tone": 3,
+      "meaning": "cookie",
+      "story": "A striking symbol for cookie that whispers \"Bǐng!\" softly - a vivid image to remember!",
+      "primitives": []
+    },
+    {
+      "id": 2460,
+      "character": "餃",
+      "pinyin": "jiǎo",
+      "tone": 3,
+      "meaning": "dumpling",
+      "story": "Picture dumpling taking form - it whispers \"Jiǎo!\" with vivid energy!",
+      "primitives": []
+    },
+    {
+      "id": 2461,
+      "character": "餓",
+      "pinyin": "è",
+      "tone": 4,
+      "meaning": "hungry",
+      "story": "\"UH!\" the food commands sharply - hungry, starving and ravenous!",
+      "primitives": []
+    },
+    {
+      "id": 2462,
+      "character": "潛",
+      "pinyin": "qián",
+      "tone": 2,
+      "meaning": "submerge",
+      "story": "\"Chen?\" the water questions curiously, submerging to dive underwater and hide.",
+      "primitives": []
+    },
+    {
+      "id": 2463,
+      "character": "蠶",
+      "pinyin": "cán",
+      "tone": 2,
+      "meaning": "silkworm",
+      "story": "\"Can?\" the waitresses, day and insects question curiously - the silkworm making cocoons and silk!",
+      "primitives": []
+    },
+    {
+      "id": 2464,
+      "character": "溉",
+      "pinyin": "gài",
+      "tone": 4,
+      "meaning": "irrigate",
+      "story": "\"GAI!\" the water commands sharply since - to irrigate and water the crops!",
+      "primitives": []
+    }
+  ]
+}
