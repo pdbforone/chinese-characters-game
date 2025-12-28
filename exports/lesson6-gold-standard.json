@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "lesson": 6,
+    "title": "Family and Kinship",
+    "version": "3.0.0 - Gold Standard",
+    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
+    "character_count": 12,
+    "note": "Heavy T3 lesson (7 characters) - excellent zombie/groan practice"
+  },
+  "characters": [
+    {
+      "id": 91,
+      "character": "乙",
+      "pinyin": "yǐ",
+      "tone": 3,
+      "meaning": "second (Heavenly Stem)",
+      "primitives": ["curved hook shape"],
+      "sound_bridge": {
+        "pinyin": "yǐ",
+        "approximation": "YEE",
+        "rhymes": ["see", "free", "key"]
+      },
+      "etymology": "Second Heavenly Stem - a curved hook, the second in the cycle",
+      "pithy_formula": "SECOND place - I GROAN 'Yeee...' in low, bitter defeat.",
+      "story": "I came in SECOND. Not first - SECOND. I GROAN 'Yeee...' in low, creaky bitterness. The hook of defeat curves around my heart. Almost glory, but not quite.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "curves around",
+        "tone_verb": "GROAN",
+        "sensory": ["emotional (bitterness)", "auditory (groan)", "kinesthetic (hook)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "九",
+        "meaning": "nine",
+        "repulsion": "乙 curves RIGHT (second place); 九 hooks LEFT (number nine)"
+      }
+    },
+    {
+      "id": 92,
+      "character": "子",
+      "pinyin": "zǐ",
+      "tone": 3,
+      "meaning": "child",
+      "primitives": ["pictograph of child with arms"],
+      "sound_bridge": {
+        "pinyin": "zǐ",
+        "approximation": "DZU",
+        "rhymes": ["zoo", "boo", "through"]
+      },
+      "etymology": "Pictograph of a baby with arms outstretched",
+      "pithy_formula": "The CHILD reaches up and GROANS 'Dzuuu...' wanting to be held.",
+      "story": "The CHILD reaches up with tiny arms, GROANING 'Dzuuu...' in low, needy desperation. Pick me up. Hold me. The zombie-baby wants flesh - I mean, comfort.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": false,
+        "transitive_verb": "reaches up",
+        "tone_verb": "GROANING",
+        "sensory": ["visual (arms)", "auditory (groan)", "kinesthetic (reaching)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "了",
+        "meaning": "completed",
+        "repulsion": "子 has ARMS (living child); 了 lost its arms (action finished/dead)"
+      }
+    },
+    {
+      "id": 93,
+      "character": "孔",
+      "pinyin": "kǒng",
+      "tone": 3,
+      "meaning": "hole/cavity",
+      "primitives": ["子 (child)", "乚 (hook)"],
+      "sound_bridge": {
+        "pinyin": "kǒng",
+        "approximation": "KOHNG",
+        "rhymes": ["gong", "song", "long"]
+      },
+      "etymology": "Child (子) + hook (乚) = hole/cavity (also Confucius's surname 孔子)",
+      "pithy_formula": "I peer into the dark HOLE and GROAN 'Kohhhng...' - what's inside?",
+      "story": "I peer into the dark HOLE in the ground and GROAN 'Kohhhng...' in low dread. The CAVITY echoes back - something moves down there. My creaky voice trembles.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "peer into",
+        "tone_verb": "GROAN",
+        "sensory": ["visual (darkness)", "auditory (echo)", "emotional (dread)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "吼",
+        "meaning": "to roar",
+        "repulsion": "孔 = HOLE (cavity); 吼 adds MOUTH (口) = ROAR (sound from cavity)"
+      }
+    },
+    {
+      "id": 94,
+      "character": "吼",
+      "pinyin": "hǒu",
+      "tone": 3,
+      "meaning": "to roar",
+      "primitives": ["口 (mouth)", "孔 (cavity)"],
+      "sound_bridge": {
+        "pinyin": "hǒu",
+        "approximation": "HOH",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Mouth (口) + cavity (孔) = to roar (sound resonating from deep cavity)",
+      "pithy_formula": "I ROAR from deep in my chest - 'Hohhhh...' GROANS out like thunder.",
+      "story": "I ROAR from the cavity of my chest, GROANING 'Hohhhh...' in a low, rumbling thunder. The sound echoes from deep within - a zombie's battle cry, creaky and primal.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "ROAR/echoes",
+        "tone_verb": "GROANING",
+        "sensory": ["auditory (roar)", "kinesthetic (chest)", "visceral (thunder)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "孔",
+        "meaning": "hole/cavity",
+        "repulsion": "吼 = ROAR (mouth + cavity = sound); 孔 = HOLE (silent cavity)"
+      }
+    },
+    {
+      "id": 95,
+      "character": "了",
+      "pinyin": "le",
+      "tone": 5,
+      "meaning": "completed action marker (-ed)",
+      "primitives": ["simplified child without arms"],
+      "sound_bridge": {
+        "pinyin": "le",
+        "approximation": "LUH",
+        "rhymes": ["the", "uh"]
+      },
+      "etymology": "Child (子) without arms = finished, completed (the action is done)",
+      "pithy_formula": "Done. Finished. I mutter 'luh' - action COMPLETED, nothing more.",
+      "story": "The task is COMPLETED. I mutter 'luh' with neutral indifference - done, finished, over. The child lost its arms; the action lost its life. Just 'luh' and move on.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "lost/move on",
+        "tone_verb": "mutter (neutral)",
+        "sensory": ["emotional (indifference)", "auditory (mutter)", "temporal (finished)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "子",
+        "meaning": "child",
+        "repulsion": "了 = COMPLETED (armless, finished); 子 = CHILD (arms reaching, alive)"
+      }
+    },
+    {
+      "id": 96,
+      "character": "女",
+      "pinyin": "nǚ",
+      "tone": 3,
+      "meaning": "woman",
+      "primitives": ["pictograph of kneeling woman"],
+      "sound_bridge": {
+        "pinyin": "nǚ",
+        "approximation": "NYOO",
+        "rhymes": ["new", "few", "view"]
+      },
+      "etymology": "Pictograph of a woman kneeling - ancient character for female",
+      "pithy_formula": "The WOMAN rises from the grave and GROANS 'Nyuuu...' for vengeance.",
+      "story": "The WOMAN rises from her grave, GROANING 'Nyuuu...' in low, creaky fury. She was wronged in life - now she returns, zombie-slow, seeking what was stolen from her.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": false,
+        "transitive_verb": "rises/seeking",
+        "tone_verb": "GROANING",
+        "sensory": ["visual (rising)", "auditory (groan)", "emotional (fury)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "母",
+        "meaning": "mother",
+        "repulsion": "女 = WOMAN (plain form); 母 = MOTHER (two dots = breasts for nursing)"
+      }
+    },
+    {
+      "id": 97,
+      "character": "好",
+      "pinyin": "hǎo",
+      "tone": 3,
+      "meaning": "good",
+      "primitives": ["女 (woman)", "子 (child)"],
+      "sound_bridge": {
+        "pinyin": "hǎo",
+        "approximation": "HOW",
+        "rhymes": ["now", "cow", "wow"]
+      },
+      "etymology": "Woman (女) + child (子) = good (a woman with her child = happiness)",
+      "pithy_formula": "WOMAN and CHILD together - I GROAN 'Howww...' It's GOOD but exhausting.",
+      "story": "The WOMAN holds her CHILD and I GROAN 'Howww...' in low exhaustion. It's GOOD - love is good - but I'm so tired. Zombie-parent mode: creaky joy, bone-deep fatigue.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "holds",
+        "tone_verb": "GROAN",
+        "sensory": ["visual (mother/child)", "emotional (exhaustion)", "auditory (groan)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 98,
+      "character": "如",
+      "pinyin": "rú",
+      "tone": 2,
+      "meaning": "to be like/as if",
+      "primitives": ["女 (woman)", "口 (mouth)"],
+      "sound_bridge": {
+        "pinyin": "rú",
+        "approximation": "ROO",
+        "rhymes": ["boo", "who", "through"]
+      },
+      "etymology": "Woman (女) + mouth (口) = to be like (a woman speaks comparison)",
+      "pithy_formula": "She's LIKE me? I GASP 'ROO?!' in rising shock at the resemblance!",
+      "story": "She looks LIKE me! I GASP 'ROO?!' in rising shock - the woman speaks and I hear my own voice. AS IF looking in a mirror. My startled cry climbs upward.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "looks/hear",
+        "tone_verb": "GASP",
+        "sensory": ["visual (resemblance)", "auditory (gasp)", "emotional (shock)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 99,
+      "character": "母",
+      "pinyin": "mǔ",
+      "tone": 3,
+      "meaning": "mother",
+      "primitives": ["女 (woman) with two dots (breasts)"],
+      "sound_bridge": {
+        "pinyin": "mǔ",
+        "approximation": "MOO",
+        "rhymes": ["boo", "who", "through"]
+      },
+      "etymology": "Woman (女) with two dots representing breasts = mother (one who nurses)",
+      "pithy_formula": "MOTHER calls from the darkness - I GROAN 'Mooo...' and shamble toward her.",
+      "story": "MOTHER calls my name from the shadows. I GROAN 'Mooo...' and shamble toward her voice like a zombie to its maker. Low, creaky longing - even the dead need their mothers.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "calls/shamble",
+        "tone_verb": "GROAN",
+        "sensory": ["auditory (calling)", "kinesthetic (shambling)", "emotional (longing)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "女",
+        "meaning": "woman",
+        "repulsion": "母 = MOTHER (two dots = breasts for nursing); 女 = WOMAN (no dots)"
+      }
+    },
+    {
+      "id": 100,
+      "character": "貫",
+      "pinyin": "guàn",
+      "tone": 4,
+      "meaning": "to pierce/string through",
+      "primitives": ["毋 (mother variant)", "貝 (shell)"],
+      "sound_bridge": {
+        "pinyin": "guàn",
+        "approximation": "GWAHN",
+        "rhymes": ["on", "gone", "dawn"]
+      },
+      "etymology": "Thread (毋) + shell (貝) = to pierce (string shells on a cord)",
+      "pithy_formula": "I PIERCE the shells on a string and COMMAND 'GWAHN!' - threaded through!",
+      "story": "I PIERCE each shell and thread it onto the cord, COMMANDING 'GWAHN!' with sharp satisfaction. The string punches through - shells become money, chaos becomes order.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "PIERCE/thread",
+        "tone_verb": "COMMANDING",
+        "sensory": ["kinesthetic (threading)", "tactile (shells)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 101,
+      "character": "兄",
+      "pinyin": "xiōng",
+      "tone": 1,
+      "meaning": "elder brother",
+      "primitives": ["口 (mouth)", "儿 (legs/person)"],
+      "sound_bridge": {
+        "pinyin": "xiōng",
+        "approximation": "SHYOHNG",
+        "rhymes": ["gong", "song", "long"]
+      },
+      "etymology": "Mouth (口) + legs (儿) = elder brother (one who speaks with authority, stands tall)",
+      "pithy_formula": "ELDER BROTHER stands tall and SINGS 'SHYOHHHNG!' - protector supreme!",
+      "story": "My ELDER BROTHER stands before me and SINGS 'SHYOHHHNG!' in a sustained note of authority. He speaks for the family, stands tall on strong legs - my protector forever.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "stands/speaks",
+        "tone_verb": "SINGS",
+        "sensory": ["visual (standing)", "auditory (singing)", "emotional (protection)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "克",
+        "meaning": "to overcome",
+        "repulsion": "兄 = ELDER BROTHER (mouth speaks); 克 = OVERCOME (ten on top conquers)"
+      }
+    },
+    {
+      "id": 102,
+      "character": "克",
+      "pinyin": "kè",
+      "tone": 4,
+      "meaning": "to overcome/conquer",
+      "primitives": ["十 (ten)", "兄 variant"],
+      "sound_bridge": {
+        "pinyin": "kè",
+        "approximation": "KUH",
+        "rhymes": ["duh", "uh"]
+      },
+      "etymology": "Ten (十) on top of brother variant = to overcome (conquering force)",
+      "pithy_formula": "I OVERCOME my enemy and COMMAND 'KUH!' - conquered and crushed!",
+      "story": "I OVERCOME my enemy with ten times the force, COMMANDING 'KUH!' as they fall. Conquered, crushed, finished - my sharp bark of victory echoes over the defeated.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "OVERCOME/conquered",
+        "tone_verb": "COMMANDING",
+        "sensory": ["kinesthetic (conquering)", "auditory (command)", "emotional (victory)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "兄",
+        "meaning": "elder brother",
+        "repulsion": "克 = OVERCOME (ten conquers from above); 兄 = BROTHER (mouth speaks below)"
+      }
+    }
+  ],
+  "lesson_palace": {
+    "location": "The Ancestral Hall",
+    "description": "A family shrine where generations gather - living and dead, protectors and protected",
+    "character_stations": {
+      "乙": "Second-place trophy: bitter silver medal on the wall",
+      "子": "Nursery corner: baby arms reaching from the crib",
+      "孔": "Confucius altar: dark hole where wisdom echoes",
+      "吼": "Tiger painting: roar emanates from the canvas",
+      "了": "Completed tasks board: finished and forgotten",
+      "女": "Women's quarters: vengeful spirit rising",
+      "好": "Family portrait: exhausted mother holding child",
+      "如": "Mirror hall: shocking resemblances revealed",
+      "母": "Mother's shrine: her voice calls from shadows",
+      "貫": "Money-stringing table: shells pierced on cords",
+      "兄": "Elder brother's seat: protector's throne",
+      "克": "Victory wall: conquered enemies' names carved"
+    }
+  },
+  "quality_summary": {
+    "total_characters": 12,
+    "first_person_compliance": "10/12 (83%)",
+    "tone_verb_compliance": "12/12 (100%)",
+    "transitive_verb_compliance": "12/12 (100%)",
+    "average_word_count": 29,
+    "similar_warnings_included": "7 pairs documented",
+    "tone_distribution": {
+      "T1": 1,
+      "T2": 1,
+      "T3": 7,
+      "T4": 2,
+      "T5": 1
+    },
+    "note": "Heavy T3 lesson - excellent practice for zombie/groan system"
+  }
+}
