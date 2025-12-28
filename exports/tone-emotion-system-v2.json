@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "name": "Tone-Emotion Mapping System",
+    "version": "2.0.0",
+    "description": "Research-validated mappings of Mandarin tones to emotional archetypes",
+    "changes_from_v1": [
+      "Tone 2: Changed from 'questioning' to 'surprised' to prevent L1 interference",
+      "Tone 3: Changed from 'brooding/dipping' to 'zombie/low/creaky' - focus on register, not contour",
+      "Added gesture, color, and voice quality specifications",
+      "Added L1 interference warnings"
+    ],
+    "research_basis": "L2 tone acquisition studies, NEVER model, embodied cognition research"
+  },
+  "tones": {
+    "1": {
+      "name": "First Tone (High-Level)",
+      "chao_number": "55",
+      "contour": "High flat, sustained",
+
+      "emotion": "SINGING",
+      "archetype": "The Opera Singer",
+      "one_word": "Sustain",
+
+      "physical": {
+        "gesture": "Flat horizontal hand at forehead level, held steady",
+        "voice_quality": "Sustained, no declination, like holding a musical note",
+        "color": "Blue (sky, high, bright)"
+      },
+
+      "sentence_patterns": [
+        "I sing '{sound}!' holding the note high and steady",
+        "The sound rings out '{sound}!' sustained like an opera note",
+        "I belt '{sound}!' and the note hangs in the air"
+      ],
+
+      "verb_palette": ["sing", "ring", "chant", "belt", "sustain", "hold"],
+      "adverb_palette": ["steadily", "brightly", "cheerfully", "continuously"],
+
+      "l1_interference_warning": "English speakers let pitch fall naturally. 'Singing' forces the sustain.",
+
+      "example": {
+        "character": "一",
+        "pinyin": "yī",
+        "story": "I trace a single line in the sky and SING 'YEEE!' - the note holds perfectly flat, ONE unbroken sound."
+      }
+    },
+
+    "2": {
+      "name": "Second Tone (Rising)",
+      "chao_number": "35",
+      "contour": "Mid to high, rising sharply",
+
+      "emotion": "SURPRISED",
+      "archetype": "The Startled Witness",
+      "one_word": "Gasp",
+
+      "physical": {
+        "gesture": "Sharp upward shrug, eyebrows raised, shoulders up",
+        "voice_quality": "Gasp, sudden upward energy, like 'Huh?!'",
+        "color": "Green (growing, rising, spring)"
+      },
+
+      "sentence_patterns": [
+        "I gasp '{sound}?!' in shock as I witness it",
+        "My voice rises in surprise: '{sound}?!'",
+        "I jolt upward, gasping '{sound}!' at the sight"
+      ],
+
+      "verb_palette": ["gasp", "jolt", "startle", "rise", "spring", "react"],
+      "adverb_palette": ["suddenly", "sharply", "with surprise", "in shock"],
+
+      "l1_interference_warning": "CRITICAL: Do NOT associate with syntactic questions. English speakers will apply T2 to all questions regardless of lexical tone. Frame as 'surprise reaction' not 'asking a question'. Drill T2 words in declarative sentences.",
+
+      "example": {
+        "character": "十",
+        "pinyin": "shí",
+        "story": "I see the cross marking treasure and GASP 'SHIH?!' - TEN gold coins burst from the ground!"
+      }
+    },
+
+    "3": {
+      "name": "Third Tone (Low)",
+      "chao_number": "214 (citation) / 21 (connected speech)",
+      "contour": "Low, creaky; full dip only in isolation",
+
+      "emotion": "ZOMBIE",
+      "archetype": "The Undead Groaner",
+      "one_word": "Groan",
+
+      "physical": {
+        "gesture": "Hand sinks low, palm down near hip, heavy",
+        "voice_quality": "Creaky voice (vocal fry), bottom of range, rumbling",
+        "color": "Brown/Black (earth, grave, low)"
+      },
+
+      "sentence_patterns": [
+        "I groan '{sound}...' from deep in my throat, voice creaking",
+        "A low rumble escapes: '{sound}...' like a zombie rising",
+        "I moan '{sound}' with creaky, gravelly voice"
+      ],
+
+      "verb_palette": ["groan", "moan", "rumble", "creak", "growl", "rasp"],
+      "adverb_palette": ["deeply", "heavily", "creakily", "from the grave"],
+
+      "l1_interference_warning": "CRITICAL: Do NOT teach as 'dipping'. In connected speech, T3 is almost never a full dip - it's just LOW. Focus on the creaky voice quality (vocal fry) at the bottom of the range. The 'dip-and-rise' only occurs in isolation or emphatic final position.",
+
+      "teaching_note": "The creaky voice is not a defect - it's a secondary cue that helps distinguish T3 from T2. Native speakers naturally produce creaky phonation at low pitches.",
+
+      "example": {
+        "character": "五",
+        "pinyin": "wǔ",
+        "story": "FIVE rotting fingers burst from the grave, and the zombie GROANS 'Wuuuu...' in creaky, low agony."
+      }
+    },
+
+    "4": {
+      "name": "Fourth Tone (Falling)",
+      "chao_number": "51",
+      "contour": "High to low, sharp fall",
+
+      "emotion": "COMMANDING",
+      "archetype": "The Drill Sergeant",
+      "one_word": "Chop",
+
+      "physical": {
+        "gesture": "Sharp downward karate chop, decisive",
+        "voice_quality": "Explosive, short duration, starts high and drops sharply",
+        "color": "Red (anger, force, blood)"
+      },
+
+      "sentence_patterns": [
+        "I COMMAND '{sound}!' with a sharp bark",
+        "I SHOUT '{sound}!' and my hand chops down",
+        "The word EXPLODES out: '{sound}!' decisive and final"
+      ],
+
+      "verb_palette": ["command", "shout", "bark", "chop", "slam", "strike"],
+      "adverb_palette": ["sharply", "decisively", "forcefully", "explosively"],
+
+      "l1_interference_warning": "This tone aligns well with English emphatic stress. Ensure the starting pitch is HIGH enough - learners often start too low. 'Commanding' triggers the necessary high onset.",
+
+      "example": {
+        "character": "四",
+        "pinyin": "sì",
+        "story": "I SLAM four items into the box and COMMAND 'SEE!' - my hand chops down with each count."
+      }
+    },
+
+    "5": {
+      "name": "Fifth Tone (Neutral)",
+      "chao_number": "variable (depends on preceding tone)",
+      "contour": "Light, unstressed, reduced",
+
+      "emotion": "MUMBLED",
+      "archetype": "The Afterthought",
+      "one_word": "Toss",
+
+      "physical": {
+        "gesture": "Loose hand wave, dismissive toss",
+        "voice_quality": "Reduced, attached to previous syllable, throwaway",
+        "color": "Gray (neutral, faded)"
+      },
+
+      "sentence_patterns": [
+        "...and I toss out '{sound}' as an afterthought",
+        "...the final '{sound}' barely escaping, unstressed",
+        "...mumbling '{sound}' attached to what came before"
+      ],
+
+      "verb_palette": ["toss", "mumble", "add", "attach", "drop"],
+      "adverb_palette": ["lightly", "carelessly", "as an afterthought"],
+
+      "example": {
+        "character": "的",
+        "pinyin": "de",
+        "story": "The arrow hits the target and I mumble 'duh' - just a throwaway connector."
+      }
+    }
+  },
+
+  "tone_pairs": {
+    "description": "Emotional transitions for two-syllable words",
+    "critical_pairs": {
+      "T2-T3": {
+        "pattern": "Surprised → Zombie",
+        "description": "The most difficult transition. Rising energy must immediately sink to creaky low.",
+        "example": "méiguǐ (rose): I GASP 'MAY-' in surprise, then GROAN '-gway' from the grave"
+      },
+      "T3-T3_sandhi": {
+        "pattern": "Zombie → Zombie becomes Surprised → Zombie",
+        "description": "Two zombies can't coexist. First one 'wakes up' (becomes T2).",
+        "mnemonic": "Two zombies fighting - one has to come alive!",
+        "example": "nǐ hǎo: I gasp 'NEE' (waking up) then groan 'how' (still dead)"
+      },
+      "T4-T4": {
+        "pattern": "Command → Command",
+        "description": "Double intensity. Two sharp chops.",
+        "example": "dàjiào: I SHOUT 'DAH!' and SHOUT 'jow!' - two explosive barks"
+      }
+    }
+  },
+
+  "sandhi_rules": {
+    "third_tone_sandhi": {
+      "rule": "T3 + T3 → T2 + T3",
+      "mnemonic": "Two zombies can't stand together. One must wake up (become surprised) to make room.",
+      "examples": ["nǐ hǎo → ní hǎo", "wǒ hěn → wó hěn"]
+    },
+    "yi_sandhi": {
+      "base": "yī (T1)",
+      "rules": ["Before T4: becomes T2 (yí)", "Before T1/T2/T3: becomes T4 (yì)"],
+      "teaching": "Learn as chunks: yígè, yìdiǎn, etc."
+    },
+    "bu_sandhi": {
+      "base": "bù (T4)",
+      "rule": "Before T4: becomes T2 (bú)",
+      "teaching": "Learn as chunks: búshì, búyào, etc."
+    }
+  },
+
+  "integration_with_stories": {
+    "principle": "Every story must encode the tone through verb choice",
+    "template": "[Visual action] + [TONE-VERB] + '[SOUND]!' + [consequence]",
+    "examples": {
+      "T1_example": "Tree → I SING 'MOOO!' as the wood rings with one clear note",
+      "T2_example": "Field → I GASP 'TYEN?!' seeing the rice flooded",
+      "T3_example": "Mouth → The jaw unhinges and GROANS 'kohhh...' from its depths",
+      "T4_example": "Sun → Light COMMANDS 'REE!' blasting me awake"
+    }
+  }
+}
