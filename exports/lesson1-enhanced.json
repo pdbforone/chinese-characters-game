@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "lesson": 1,
+    "title": "The First Ten Numbers & Basic Radicals",
+    "version": "2.0.0",
+    "framework": "5-Layer Mnemonic System",
+    "layers": [
+      "1. Visual Etymology (radical meaning & stroke logic)",
+      "2. Sound Bridge (pinyin → English approximation)",
+      "3. Tone-Emotion (T1=sing, T2=question, T3=whisper, T4=command)",
+      "4. Pithy Formula (8-12 word core story)",
+      "5. Bizarreness (multisensory, absurd imagery)"
+    ]
+  },
+  "characters": [
+    {
+      "id": 1,
+      "character": "一",
+      "pinyin": "yī",
+      "tone": 1,
+      "meaning": "one",
+      "primitives": ["horizontal line"],
+      "layers": {
+        "visual_etymology": "A single horizontal stroke - the simplest possible character. One line = one.",
+        "sound_bridge": {
+          "pinyin": "yī",
+          "english_approximation": "Yee",
+          "rhymes_with": ["bee", "see", "free"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, cheerful"
+        },
+        "pithy_formula": "One proud line sings 'Yeeee!' alone at the top."
+      },
+      "story": "A single proud line stands alone at the very top of the page, singing 'Yeeee!' in a high, sustained note. It's NUMBER ONE - first place - and it knows it, holding that cheerful high note forever!",
+      "bizarreness": {
+        "sensory": "Hear the sustained 'Yeeee!' like a victory cry",
+        "absurd_detail": "The line wears a tiny gold crown",
+        "action": "Vibrating with pride"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 2,
+      "character": "二",
+      "pinyin": "èr",
+      "tone": 4,
+      "meaning": "two",
+      "primitives": ["horizontal line"],
+      "layers": {
+        "visual_etymology": "Two horizontal strokes stacked. Double the lines = two.",
+        "sound_bridge": {
+          "pinyin": "èr",
+          "english_approximation": "Arr",
+          "rhymes_with": ["err", "stir", "blur"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, falling, decisive"
+        },
+        "pithy_formula": "Two stacked lines yell 'ERR!' - you counted twice!"
+      },
+      "story": "Two parallel lines stack up like bunk beds, and when you count them, they yell 'ERR!' sharply - an error sound! You made the mistake of counting TWICE when you should have known: two lines mean TWO!",
+      "bizarreness": {
+        "sensory": "Sharp descending buzzer sound",
+        "absurd_detail": "The lines flash red like error messages",
+        "action": "Vibrating angrily at your mistake"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 3,
+      "character": "三",
+      "pinyin": "sān",
+      "tone": 1,
+      "meaning": "three",
+      "primitives": ["horizontal line"],
+      "layers": {
+        "visual_etymology": "Three horizontal strokes. The pattern continues: three lines = three.",
+        "sound_bridge": {
+          "pinyin": "sān",
+          "english_approximation": "Sahn",
+          "rhymes_with": ["sun", "sunshine", "San Francisco"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, harmonious"
+        },
+        "pithy_formula": "Three sunny lines sing 'Saaaan-shine!' in harmony."
+      },
+      "story": "Three horizontal lines rise like stair steps, and they're a trio of singers harmonizing 'Saaaan-shine!' in a high, sustained melody. Three voices, three lines, three parts of a perfect chord singing about the SUN!",
+      "bizarreness": {
+        "sensory": "Three-part harmony ringing out",
+        "absurd_detail": "Each line wears sunglasses",
+        "action": "Stepping up like musical stairs"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 4,
+      "character": "四",
+      "pinyin": "sì",
+      "tone": 4,
+      "meaning": "four",
+      "primitives": ["box", "legs/items inside"],
+      "layers": {
+        "visual_etymology": "A box (口) with something inside - four legs of a table visible through a window.",
+        "sound_bridge": {
+          "pinyin": "sì",
+          "english_approximation": "Sih",
+          "rhymes_with": ["see", "sea", "this"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, decisive, pointing"
+        },
+        "pithy_formula": "Four legs in a box command 'SEE THIS!' sharply."
+      },
+      "story": "Look at the box with four items crammed inside! A drill sergeant points sharply and commands 'SEE THIS!' - four things, four corners, four walls of the box containing them. That falling tone is the sergeant's sharp order!",
+      "bizarreness": {
+        "sensory": "Drill sergeant's bark echoing",
+        "absurd_detail": "The box is a glass display case at a museum",
+        "action": "Sergeant's finger jabbing at exactly four objects"
+      },
+      "similar_warning": {
+        "similar_to": "西",
+        "meaning": "west",
+        "difference": "四 has internal strokes; 西 has a horizontal line through it"
+      }
+    },
+    {
+      "id": 5,
+      "character": "五",
+      "pinyin": "wǔ",
+      "tone": 3,
+      "meaning": "five",
+      "primitives": ["crossing strokes (hand/fingers)"],
+      "layers": {
+        "visual_etymology": "Abstract representation of five fingers crossing at the palm.",
+        "sound_bridge": {
+          "pinyin": "wǔ",
+          "english_approximation": "Woo",
+          "rhymes_with": ["who", "boo", "woo-hoo"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low dip, contemplative, ghostly"
+        },
+        "pithy_formula": "Five crossing fingers whisper ghostly 'Woooo...'"
+      },
+      "story": "Five strokes converge like five fingers meeting at the palm, and they whisper a ghostly 'Woooo...' with that low, dipping tone. It's a spooky hand reaching out with FIVE fingers, murmuring in the dark!",
+      "bizarreness": {
+        "sensory": "Cold ghost-breath on your neck",
+        "absurd_detail": "The hand glows pale green in darkness",
+        "action": "Fingers slowly curling, counting one by one"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 6,
+      "character": "六",
+      "pinyin": "liù",
+      "tone": 4,
+      "meaning": "six",
+      "primitives": ["lid (亠)", "eight (八)"],
+      "layers": {
+        "visual_etymology": "A lid (亠) on top of eight (八) - but it's SIX, not eight!",
+        "sound_bridge": {
+          "pinyin": "liù",
+          "english_approximation": "Leo",
+          "rhymes_with": ["Leo the lion", "Rio", "geo"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp roar, falling, powerful"
+        },
+        "pithy_formula": "Leo the lion roars 'SIX!' under his lid-mane."
+      },
+      "story": "Leo the Lion wears his glorious mane (the lid on top) and ROARS his number sharply: 'LEOOOO!' - which sounds like 'liù'! He's number SIX in the animal kingdom rankings, and that falling tone is his commanding roar!",
+      "bizarreness": {
+        "sensory": "Lion's roar shaking the ground",
+        "absurd_detail": "Leo wears a numbered jersey: #6",
+        "action": "Mane flowing like a lid catching wind"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 7,
+      "character": "七",
+      "pinyin": "qī",
+      "tone": 1,
+      "meaning": "seven",
+      "primitives": ["crossed slash"],
+      "layers": {
+        "visual_etymology": "A horizontal line cut by a hook - like cutting something in half, plus a bit more.",
+        "sound_bridge": {
+          "pinyin": "qī",
+          "english_approximation": "Chee",
+          "rhymes_with": ["cheese", "cheek", "cheer"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, cheerful, squeaky"
+        },
+        "pithy_formula": "Seven sparklers squeak 'CHEE!' slashing the night sky."
+      },
+      "story": "SEVEN kids wave sparklers on the 7th of July, slashing bright lines across the night sky! They squeak 'CHEE! CHEE! CHEE!' in high-pitched delight - seven voices, seven sparklers, all singing that sustained high note!",
+      "bizarreness": {
+        "sensory": "Sparkler crackle and sulfur smell",
+        "absurd_detail": "Sparklers write the number 7 in fire",
+        "action": "Kids jumping while slashing the air"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 8,
+      "character": "八",
+      "pinyin": "bā",
+      "tone": 1,
+      "meaning": "eight",
+      "primitives": ["split paths/diverging strokes"],
+      "layers": {
+        "visual_etymology": "Two strokes spreading apart - splitting, dividing, like 8 split in half = 4+4.",
+        "sound_bridge": {
+          "pinyin": "bā",
+          "english_approximation": "Bah",
+          "rhymes_with": ["baa (sheep)", "spa", "aha"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, bleating"
+        },
+        "pithy_formula": "Eight sheep paths split apart, bleating 'BAAAA!'"
+      },
+      "story": "EIGHT sheep stand at a fork in the road where paths SPLIT apart (just like the character!), and they all bleat 'BAAAA!' in a high, sustained chorus! Eight sheep, eight fleeces, eight voices bleating that long 'bā' sound!",
+      "bizarreness": {
+        "sensory": "Sheep wool texture, bleating chorus",
+        "absurd_detail": "Each sheep wears a number 1-8 on their wool",
+        "action": "Paths physically spreading like opening scissors"
+      },
+      "similar_warning": {
+        "similar_to": "入",
+        "meaning": "to enter",
+        "difference": "八 strokes separate outward; 入 strokes point inward"
+      }
+    },
+    {
+      "id": 9,
+      "character": "九",
+      "pinyin": "jiǔ",
+      "tone": 3,
+      "meaning": "nine",
+      "primitives": ["hook/bent stroke"],
+      "layers": {
+        "visual_etymology": "A bent stroke with a hook - like a snake curving, or the number 9 itself.",
+        "sound_bridge": {
+          "pinyin": "jiǔ",
+          "english_approximation": "Joe",
+          "rhymes_with": ["Joe", "jiu-jitsu", "yo"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low dip, curving, contemplative"
+        },
+        "pithy_formula": "Nine hooks curl and murmur 'Jiuuu...' like a cat."
+      },
+      "story": "NINE cats curl up on a couch, each one bent into a hook shape (just like 九!), and they purr a low, dipping 'Jiuuu...' sound. That third tone dips down like a cat settling into its curled position!",
+      "bizarreness": {
+        "sensory": "Cat purring vibration, warm fur",
+        "absurd_detail": "Each cat has a number tag: Cat #9, Cat #9, etc.",
+        "action": "Tails curling into hook shapes"
+      },
+      "similar_warning": {
+        "similar_to": "丸",
+        "meaning": "pill/ball",
+        "difference": "九 has an open hook; 丸 has a dot inside"
+      }
+    },
+    {
+      "id": 10,
+      "character": "十",
+      "pinyin": "shí",
+      "tone": 2,
+      "meaning": "ten",
+      "primitives": ["cross"],
+      "layers": {
+        "visual_etymology": "A simple cross - the Roman numeral X rotated, or counting sticks crossed.",
+        "sound_bridge": {
+          "pinyin": "shí",
+          "english_approximation": "Shih",
+          "rhymes_with": ["she", "Shih Tzu", "sheer"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, curious, inquisitive"
+        },
+        "pithy_formula": "A cross asks 'Shi? Why TEN?' with rising wonder."
+      },
+      "story": "A CROSS marks the spot where TEN treasures are buried! It keeps asking 'Shi? Why ten? Why here?' with that rising, questioning tone. That's how we remember: the cross wonders about the number TEN!",
+      "bizarreness": {
+        "sensory": "X marks treasure map, paper crinkle",
+        "absurd_detail": "The cross wears reading glasses while pondering",
+        "action": "Eyebrows raising with each question"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 11,
+      "character": "口",
+      "pinyin": "kǒu",
+      "tone": 3,
+      "meaning": "mouth",
+      "primitives": ["mouth/opening"],
+      "layers": {
+        "visual_etymology": "A square representing an open mouth - one of the most common radicals.",
+        "sound_bridge": {
+          "pinyin": "kǒu",
+          "english_approximation": "Ko",
+          "rhymes_with": ["go", "so", "co-"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, rounded, contemplative like an 'oh'"
+        },
+        "pithy_formula": "A square mouth whispers 'Kooou...' pondering speech."
+      },
+      "story": "Your MOUTH forms a perfect square (say 'oh' and look in a mirror!), and it whispers 'Kooou...' with that low, dipping third tone. The mouth contemplates: what words should I speak? That's 口 - the MOUTH radical!",
+      "bizarreness": {
+        "sensory": "Breath forming visible mist",
+        "absurd_detail": "The square mouth has tiny hinges at corners",
+        "action": "Opening and closing in slow motion"
+      },
+      "similar_warning": {
+        "similar_to": "囗",
+        "meaning": "enclosure radical",
+        "difference": "口 is smaller and means mouth; 囗 is larger and means enclosure"
+      }
+    },
+    {
+      "id": 12,
+      "character": "日",
+      "pinyin": "rì",
+      "tone": 4,
+      "meaning": "day/sun",
+      "primitives": ["sun"],
+      "layers": {
+        "visual_etymology": "A box with a line inside - the sun with a spot (or the horizon).",
+        "sound_bridge": {
+          "pinyin": "rì",
+          "english_approximation": "Ree",
+          "rhymes_with": ["free", "tree", "spree"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, bright, wake-up call"
+        },
+        "pithy_formula": "The SUN box yells 'REEE!' - commanding you awake!"
+      },
+      "story": "The SUN is a box of pure light with a bar of energy inside, and every DAY it YELLS 'REEE!' sharply to wake you up! That fourth tone is the sun's commanding morning alarm - get up, it's a new DAY!",
+      "bizarreness": {
+        "sensory": "Blinding light, alarm clock sound",
+        "absurd_detail": "Sun wears drill sergeant hat",
+        "action": "Rays shooting out like exclamation points"
+      },
+      "similar_warning": {
+        "similar_to": "目",
+        "meaning": "eye",
+        "difference": "日 has one internal line (sun); 目 has two internal lines (eyelids)"
+      }
+    },
+    {
+      "id": 13,
+      "character": "月",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "month/moon",
+      "primitives": ["moon"],
+      "layers": {
+        "visual_etymology": "A crescent moon with two marks inside - lunar phases or craters.",
+        "sound_bridge": {
+          "pinyin": "yuè",
+          "english_approximation": "Yue-eh",
+          "rhymes_with": ["duet", "cruet", "suet"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "decisive, marking time's passage"
+        },
+        "pithy_formula": "The crescent MOON commands 'YUE!' - marking the month."
+      },
+      "story": "The crescent MOON hangs in the sky and commands 'YUE!' with a sharp falling tone, marking the passage of each MONTH! The moon is time's commander, ordering the calendar to turn. One full cycle = one month!",
+      "bizarreness": {
+        "sensory": "Cool night air, silver glow",
+        "absurd_detail": "Moon holds a calendar, flipping pages sharply",
+        "action": "Crescent like a conductor's baton sweeping down"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 14,
+      "character": "田",
+      "pinyin": "tián",
+      "tone": 2,
+      "meaning": "rice field",
+      "primitives": ["field"],
+      "layers": {
+        "visual_etymology": "A square divided into four plots - aerial view of rice paddies.",
+        "sound_bridge": {
+          "pinyin": "tián",
+          "english_approximation": "Tyen",
+          "rhymes_with": ["yen", "hen", "ten"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, wondering, curious about the harvest"
+        },
+        "pithy_formula": "Four muddy plots ask 'TIAN? Why so muddy?'"
+      },
+      "story": "Looking down at a RICE FIELD divided into four square plots, the farmer wonders with a rising tone: 'Tián? Why is my field so muddy today?' That questioning second tone rises like steam from the wet paddies!",
+      "bizarreness": {
+        "sensory": "Squelching mud, green rice shoots",
+        "absurd_detail": "Each plot has a tiny question mark growing in it",
+        "action": "Farmer scratching head while looking down"
+      },
+      "similar_warning": {
+        "similar_to": "由",
+        "meaning": "from/reason",
+        "difference": "田 is enclosed; 由 extends below the box"
+      }
+    },
+    {
+      "id": 15,
+      "character": "目",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "eye",
+      "primitives": ["eye"],
+      "layers": {
+        "visual_etymology": "An eye turned sideways - two horizontal lines are the eyelids.",
+        "sound_bridge": {
+          "pinyin": "mù",
+          "english_approximation": "Moo",
+          "rhymes_with": ["moo", "boo", "who"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp reaction, protective reflex"
+        },
+        "pithy_formula": "The EYE yells 'MOO!' sharply when dust gets in!"
+      },
+      "story": "Your EYE is a rectangle with two eyelid lines inside, and when DUST gets in, it YELLS 'MOO!' sharply with that falling fourth tone - an involuntary shout of pain! The eye commands tears to flush it out!",
+      "bizarreness": {
+        "sensory": "Stinging dust, tears welling",
+        "absurd_detail": "The eye has tiny arms rubbing itself",
+        "action": "Blinking rapidly while shouting"
+      },
+      "similar_warning": {
+        "similar_to": "日",
+        "meaning": "day/sun",
+        "difference": "目 has two internal lines (eyelids); 日 has one internal line (sun)"
+      }
+    }
+  ],
+  "narrative_threads": {
+    "description": "Thematic connections for epic story weaving",
+    "numbers_1_10": {
+      "theme": "The Number Kingdom",
+      "connection": "Numbers 1-10 each have their own personality and sound",
+      "story_arc": "From the proud solo of One to the wondering cross of Ten"
+    },
+    "basic_radicals": {
+      "theme": "Body and Nature",
+      "connection": "口 (mouth), 日 (sun), 月 (moon), 田 (field), 目 (eye) form the foundation",
+      "story_arc": "The elements that make up a farmer's world"
+    }
+  }
+}

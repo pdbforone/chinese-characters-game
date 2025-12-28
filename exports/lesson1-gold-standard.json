@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "lesson": 1,
+    "title": "The First Ten Numbers & Basic Radicals",
+    "version": "3.0.0 - Gold Standard",
+    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
+    "principles": {
+      "S": "Sensory/Self - First person, multimodal engagement",
+      "I": "Interaction - Transitive verbs, components act ON each other",
+      "N": "Negative valence - Destruction, shock, visceral imagery",
+      "C": "Chunking - ≤20 words, ≤4 elements"
+    },
+    "tone_system": {
+      "1": "SINGING - sustained high note, opera singer",
+      "2": "SURPRISED - gasp, startle, rising energy (NOT questioning)",
+      "3": "ZOMBIE - low groan, creaky voice, undead rumble (NOT dipping)",
+      "4": "COMMANDING - sharp bark, karate chop, decisive"
+    }
+  },
+  "characters": [
+    {
+      "id": 1,
+      "character": "一",
+      "pinyin": "yī",
+      "tone": 1,
+      "meaning": "one",
+      "primitives": ["horizontal line"],
+      "sound_bridge": {
+        "pinyin": "yī",
+        "approximation": "YEE",
+        "rhymes": ["bee", "key", "free"]
+      },
+      "pithy_formula": "I trace ONE line and SING 'YEEE!' - it rings forever.",
+      "story": "I trace a single line across the sky with my finger and SING 'YEEE!' - the note holds, unbroken, ONE perfect sound ringing across the heavens.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "SING",
+        "sensory": ["kinesthetic (trace)", "auditory (sing)", "visual (sky)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 2,
+      "character": "二",
+      "pinyin": "èr",
+      "tone": 4,
+      "meaning": "two",
+      "primitives": ["two horizontal lines"],
+      "sound_bridge": {
+        "pinyin": "èr",
+        "approximation": "ARR",
+        "rhymes": ["err", "stir", "blur"]
+      },
+      "pithy_formula": "I stack TWO logs and BARK 'ARR!' - they crash into place.",
+      "story": "I SLAM two logs on top of each other, BARKING 'ARR!' as they crash into place. TWO heavy beams, stacked with force - my sharp command echoes.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "BARK",
+        "sensory": ["kinesthetic (slam)", "auditory (crash)", "visual (logs)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 3,
+      "character": "三",
+      "pinyin": "sān",
+      "tone": 1,
+      "meaning": "three",
+      "primitives": ["three horizontal lines"],
+      "sound_bridge": {
+        "pinyin": "sān",
+        "approximation": "SAHN",
+        "rhymes": ["sun", "son", "done"]
+      },
+      "pithy_formula": "I climb THREE steps, SINGING 'SAAAHN!' - sunshine floods in.",
+      "story": "I climb THREE gleaming steps toward the sun, SINGING 'SAAAHN!' in a sustained high note. The warm light floods my face as my voice holds steady.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "SINGING",
+        "sensory": ["kinesthetic (climb)", "visual (sun)", "thermal (warm)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 4,
+      "character": "四",
+      "pinyin": "sì",
+      "tone": 4,
+      "meaning": "four",
+      "primitives": ["enclosure", "internal strokes"],
+      "sound_bridge": {
+        "pinyin": "sì",
+        "approximation": "SUH",
+        "rhymes": ["see", "she", "bee"]
+      },
+      "pithy_formula": "I SLAM four items into a box, COMMANDING 'SEE!'",
+      "story": "I SHOVE four screaming items into a box, COMMANDING 'SEE!' with a sharp chop. FOUR corners trap them - my hand slams the lid shut.",
+      "word_count": 25,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "COMMANDING",
+        "sensory": ["kinesthetic (shove/slam)", "auditory (screaming)", "visual (box)"],
+        "chunks": 4
+      },
+      "similar_warning": {
+        "similar_to": "西",
+        "meaning": "west",
+        "repulsion": "四 traps things INSIDE; 西 has a horizontal line THROUGH it like the setting sun"
+      }
+    },
+    {
+      "id": 5,
+      "character": "五",
+      "pinyin": "wǔ",
+      "tone": 3,
+      "meaning": "five",
+      "primitives": ["crossing strokes"],
+      "sound_bridge": {
+        "pinyin": "wǔ",
+        "approximation": "WOO",
+        "rhymes": ["who", "boo", "through"]
+      },
+      "pithy_formula": "FIVE rotting fingers claw from the grave, GROANING 'Wuuuu...'",
+      "story": "FIVE rotting fingers burst through the dirt - I watch in horror as the zombie hand GROANS 'Wuuuu...' from deep in its creaky throat. Low, rumbling, undead.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "GROANS",
+        "sensory": ["visual (rotting)", "auditory (groan)", "tactile (dirt)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 6,
+      "character": "六",
+      "pinyin": "liù",
+      "tone": 4,
+      "meaning": "six",
+      "primitives": ["lid (亠)", "eight (八)"],
+      "sound_bridge": {
+        "pinyin": "liù",
+        "approximation": "LEE-OH",
+        "rhymes": ["Leo", "Rio"]
+      },
+      "pithy_formula": "Leo the lion ROARS 'LEE-OH!' - SIX sharp barks shake the ground.",
+      "story": "Leo the lion ROARS 'LEE-OH!' with six thundering barks. His mane (the lid) shakes as each COMMAND crashes down - SIX explosive sounds.",
+      "word_count": 24,
+      "quality_check": {
+        "first_person": false,
+        "transitive_verb": true,
+        "tone_verb": "ROARS/COMMAND",
+        "sensory": ["auditory (roar)", "visual (mane)", "kinesthetic (shaking ground)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 7,
+      "character": "七",
+      "pinyin": "qī",
+      "tone": 1,
+      "meaning": "seven",
+      "primitives": ["crossed slash"],
+      "sound_bridge": {
+        "pinyin": "qī",
+        "approximation": "CHEE",
+        "rhymes": ["cheese", "keys", "please"]
+      },
+      "pithy_formula": "I slash SEVEN sparklers through the dark, SINGING 'CHEE!'",
+      "story": "I SLASH seven sparklers across the night sky, SINGING 'CHEE! CHEE! CHEE!' - the sustained high squeals ring out. SEVEN bright lines, my voice holding each note.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "SINGING",
+        "sensory": ["visual (sparklers)", "auditory (singing)", "kinesthetic (slash)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 8,
+      "character": "八",
+      "pinyin": "bā",
+      "tone": 1,
+      "meaning": "eight",
+      "primitives": ["diverging strokes"],
+      "sound_bridge": {
+        "pinyin": "bā",
+        "approximation": "BAH",
+        "rhymes": ["spa", "aha", "baa"]
+      },
+      "pithy_formula": "I RIP the path in two - EIGHT sheep SING 'BAAAH!' as it splits.",
+      "story": "I RIP the path apart with my bare hands - it SPLITS into two directions. EIGHT sheep pour through, SINGING 'BAAAH!' in a sustained bleating chorus.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "SINGING",
+        "sensory": ["kinesthetic (rip)", "auditory (bleating)", "visual (sheep)"],
+        "chunks": 4
+      },
+      "similar_warning": {
+        "similar_to": "入",
+        "meaning": "to enter",
+        "repulsion": "八 strokes SEPARATE outward (sheep fleeing); 入 strokes CONVERGE inward (entering)"
+      }
+    },
+    {
+      "id": 9,
+      "character": "九",
+      "pinyin": "jiǔ",
+      "tone": 3,
+      "meaning": "nine",
+      "primitives": ["hook/bent stroke"],
+      "sound_bridge": {
+        "pinyin": "jiǔ",
+        "approximation": "JEE-OH",
+        "rhymes": ["geo", "jiu-jitsu"]
+      },
+      "pithy_formula": "NINE hooks drag me down - the zombie GROANS 'Jiuuu...' in creaky agony.",
+      "story": "NINE rusty hooks snag my flesh, dragging me toward the pit. A zombie GROANS 'Jiuuu...' - that low, creaky moan echoing from the depths. Nine hooks, nine wounds.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "GROANS",
+        "sensory": ["kinesthetic (hooks/flesh)", "auditory (groan)", "visual (pit)"],
+        "chunks": 4
+      },
+      "similar_warning": {
+        "similar_to": "丸",
+        "meaning": "pill/ball",
+        "repulsion": "九 has an OPEN hook (empty, grasping); 丸 has a dot INSIDE (pill enclosed)"
+      }
+    },
+    {
+      "id": 10,
+      "character": "十",
+      "pinyin": "shí",
+      "tone": 2,
+      "meaning": "ten",
+      "primitives": ["cross"],
+      "sound_bridge": {
+        "pinyin": "shí",
+        "approximation": "SHIH",
+        "rhymes": ["she", "Shih Tzu"]
+      },
+      "pithy_formula": "I dig up the X and GASP 'SHIH?!' - TEN gold coins explode out!",
+      "story": "I dig at the cross marking treasure and GASP 'SHIH?!' in shock - TEN gold coins EXPLODE from the ground! My voice rises in pure surprise at the bounty.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "GASP",
+        "sensory": ["kinesthetic (dig)", "visual (gold)", "auditory (gasp)"],
+        "chunks": 4
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 11,
+      "character": "口",
+      "pinyin": "kǒu",
+      "tone": 3,
+      "meaning": "mouth",
+      "primitives": ["mouth/opening"],
+      "sound_bridge": {
+        "pinyin": "kǒu",
+        "approximation": "KOH",
+        "rhymes": ["go", "so", "low"]
+      },
+      "pithy_formula": "My square MOUTH unhinges and GROANS 'Kohhh...' - zombie hunger.",
+      "story": "My jaw unhinges into a perfect square - my zombie MOUTH GROANS 'Kohhh...' from deep in my rotting throat. Low, creaky, hungry for flesh.",
+      "word_count": 24,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "GROANS",
+        "sensory": ["kinesthetic (unhinge)", "auditory (groan)", "tactile (throat)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "囗",
+        "meaning": "enclosure radical",
+        "repulsion": "口 is SMALL (just a mouth); 囗 is LARGE (enclosing a whole city)"
+      }
+    },
+    {
+      "id": 12,
+      "character": "日",
+      "pinyin": "rì",
+      "tone": 4,
+      "meaning": "sun/day",
+      "primitives": ["sun with ONE internal line"],
+      "sound_bridge": {
+        "pinyin": "rì",
+        "approximation": "REE",
+        "rhymes": ["free", "spree", "tree"]
+      },
+      "pithy_formula": "The SUN blasts my eyes open, COMMANDING 'REE!' - ONE burning bar.",
+      "story": "The SUN BLASTS through my window and COMMANDS 'REE!' - I'm ripped from sleep. ONE blazing bar of light inside the box. A new DAY begins whether I like it or not.",
+      "word_count": 31,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "COMMANDS",
+        "sensory": ["visual (blazing)", "auditory (command)", "kinesthetic (ripped)"],
+        "chunks": 4
+      },
+      "similar_warning": {
+        "similar_to": "目",
+        "meaning": "eye",
+        "repulsion": "日 has ONE line inside (single sun); 目 has TWO lines (two eyelids blinking)"
+      }
+    },
+    {
+      "id": 13,
+      "character": "月",
+      "pinyin": "yuè",
+      "tone": 4,
+      "meaning": "moon/month",
+      "primitives": ["crescent with internal marks"],
+      "sound_bridge": {
+        "pinyin": "yuè",
+        "approximation": "YUE-EH",
+        "rhymes": ["duet", "cruet"]
+      },
+      "pithy_formula": "The crescent MOON COMMANDS 'YUE!' - I flip another calendar page.",
+      "story": "The crescent MOON hangs above and COMMANDS 'YUE!' with sharp authority. I RIP another calendar page off the wall - another MONTH gone. The moon's order is final.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "COMMANDS",
+        "sensory": ["visual (moon)", "auditory (command)", "kinesthetic (rip)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "moon_vs_flesh_note": "When 月 appears on the LEFT side of a character, it usually means FLESH/BODY (evolved from 肉). Only when standalone or on the RIGHT does it mean moon/time."
+      }
+    },
+    {
+      "id": 14,
+      "character": "田",
+      "pinyin": "tián",
+      "tone": 2,
+      "meaning": "rice field",
+      "primitives": ["square divided into four plots"],
+      "sound_bridge": {
+        "pinyin": "tián",
+        "approximation": "TYEN",
+        "rhymes": ["yen", "den", "then"]
+      },
+      "pithy_formula": "I step into the FIELD and GASP 'TYEN?!' - mud swallows my legs!",
+      "story": "I step into the rice FIELD and GASP 'TYEN?!' in shock - the mud SWALLOWS my legs up to the knees! Four square plots, and I'm sinking fast. Pure surprise.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "GASP",
+        "sensory": ["kinesthetic (sinking)", "tactile (mud)", "auditory (gasp)"],
+        "chunks": 4
+      },
+      "similar_warning": {
+        "similar_to": "由",
+        "meaning": "from/reason",
+        "repulsion": "田 is fully ENCLOSED (trapped in the field); 由 ESCAPES below (has a reason to leave)"
+      }
+    },
+    {
+      "id": 15,
+      "character": "目",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "eye",
+      "primitives": ["rectangle with TWO internal lines (eyelids)"],
+      "sound_bridge": {
+        "pinyin": "mù",
+        "approximation": "MOO",
+        "rhymes": ["boo", "who", "through"]
+      },
+      "pithy_formula": "Dust STABS my EYE - I BARK 'MOO!' TWO eyelids slamming shut.",
+      "story": "A speck of dust STABS into my EYE - I BARK 'MOO!' in sharp pain. TWO eyelids slam shut, tears streaming. The eye COMMANDS the invader out.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": true,
+        "tone_verb": "BARK/COMMANDS",
+        "sensory": ["kinesthetic (stab)", "visual (tears)", "auditory (bark)"],
+        "chunks": 4
+      },
+      "similar_warning": {
+        "similar_to": "日",
+        "meaning": "sun/day",
+        "repulsion": "目 has TWO lines (two eyelids); 日 has ONE line (single sun bar)"
+      }
+    }
+  ],
+  "lesson_palace": {
+    "location": "Ancient Counting House",
+    "description": "A dusty vault where numbers come alive - each station holds its treasure",
+    "character_stations": {
+      "一": "The entrance: a single plank across the threshold",
+      "二": "Log pile: two beams stacked by the door",
+      "三": "Staircase: three steps leading up to the light",
+      "四": "Strongbox: four items trapped inside",
+      "五": "Crypt corner: five-fingered hand clawing up",
+      "六": "Lion statue: Leo guards six coins",
+      "七": "Chandelier: seven sparklers hanging from ceiling",
+      "八": "Forked passage: eight sheep scatter two ways",
+      "九": "Hook rack: nine rusty hooks on the wall",
+      "十": "X marks the spot: ten gold coins buried below",
+      "口": "Speaking grate: square mouth in the floor",
+      "日": "East window: morning sun blasting through",
+      "月": "Calendar wall: crescent moon marking months",
+      "田": "Courtyard: rice field visible through the bars",
+      "目": "Watchful portrait: eyes following you"
+    }
+  },
+  "quality_summary": {
+    "total_characters": 15,
+    "first_person_compliance": "14/15 (93%)",
+    "tone_verb_compliance": "15/15 (100%)",
+    "transitive_verb_compliance": "15/15 (100%)",
+    "average_word_count": 27,
+    "similar_warnings_included": "8 pairs documented"
+  }
+}

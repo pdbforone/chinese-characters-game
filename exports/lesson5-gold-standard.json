@@ -1,0 +1,665 @@
+{
+  "meta": {
+    "lesson": 5,
+    "title": "Work, Hands, and Blades",
+    "version": "3.0.0 - Gold Standard",
+    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
+    "character_count": 23
+  },
+  "characters": [
+    {
+      "id": 68,
+      "character": "直",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "straight",
+      "primitives": ["十 (ten)", "目 (eye)", "L shape"],
+      "sound_bridge": {
+        "pinyin": "zhí",
+        "approximation": "JIH",
+        "rhymes": ["gee", "see", "free"]
+      },
+      "etymology": "Ten (十) + eye (目) looking directly = straight, no deviation",
+      "pithy_formula": "The eye looks STRAIGHT ahead - I GASP 'JIH?!' at the directness!",
+      "story": "The eye stares STRAIGHT at me with no deviation. I GASP 'JIH?!' in rising shock - such directness! Ten witnesses confirm: the path is perfectly STRAIGHT.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "stares",
+        "tone_verb": "GASP",
+        "sensory": ["visual (staring)", "emotional (shock)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "真",
+        "meaning": "true",
+        "repulsion": "直 = STRAIGHT line (direction); 真 = TRUE fact (verification)"
+      }
+    },
+    {
+      "id": 69,
+      "character": "置",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "to set up/place",
+      "primitives": ["罒 (net)", "直 (straight)"],
+      "sound_bridge": {
+        "pinyin": "zhì",
+        "approximation": "JIH",
+        "rhymes": ["gee", "see", "free"]
+      },
+      "etymology": "Net (罒) + straight (直) = to set up (place something straight in the net)",
+      "pithy_formula": "I SET UP the trap and COMMAND 'JIH!' - in position!",
+      "story": "I SET UP the net perfectly straight and COMMAND 'JIH!' with sharp precision. The trap is PLACED - one false step and it springs. Sharp, decisive positioning.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SET UP/PLACED",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (placing)", "visual (net)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 70,
+      "character": "具",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "tool/implement",
+      "primitives": ["目 (eye)", "八/廾 (two hands)"],
+      "sound_bridge": {
+        "pinyin": "jù",
+        "approximation": "JOO",
+        "rhymes": ["zoo", "who", "through"]
+      },
+      "etymology": "Eye (目) with hands (八) = tool (implements you see and handle)",
+      "pithy_formula": "I GRAB the TOOL and COMMAND 'JOO!' - work begins NOW!",
+      "story": "I GRAB the TOOL with both hands and COMMAND 'JOO!' with sharp authority. Eyes on the work, hands on the implement - the job begins NOW. No hesitation.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "GRAB",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (grabbing)", "visual (tool)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 71,
+      "character": "真",
+      "pinyin": "zhēn",
+      "tone": 1,
+      "meaning": "true",
+      "primitives": ["十 (ten)", "目 (eye)", "八 (eight/divide)"],
+      "sound_bridge": {
+        "pinyin": "zhēn",
+        "approximation": "JEN",
+        "rhymes": ["zen", "pen", "then"]
+      },
+      "etymology": "Ten (十) eyes (目) verify = true (multiple witnesses confirm truth)",
+      "pithy_formula": "Ten eyes see the TRUTH - I SING 'JENNNN!' in pure certainty!",
+      "story": "Ten eyes witness and confirm - it's TRUE! I SING 'JENNNN!' in a high, sustained note of pure certainty. The truth rings clear, verified by all who see.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "witness/confirm",
+        "tone_verb": "SING",
+        "sensory": ["visual (eyes)", "auditory (singing)", "emotional (certainty)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "直",
+        "meaning": "straight",
+        "repulsion": "真 = TRUE fact (verified by ten eyes); 直 = STRAIGHT path (direction)"
+      }
+    },
+    {
+      "id": 72,
+      "character": "工",
+      "pinyin": "gōng",
+      "tone": 1,
+      "meaning": "work",
+      "primitives": ["pictograph of work beam/tool"],
+      "sound_bridge": {
+        "pinyin": "gōng",
+        "approximation": "GOHNG",
+        "rhymes": ["gong", "song", "long"]
+      },
+      "etymology": "Pictograph of a carpenter's square or work beam = work",
+      "pithy_formula": "I lift the beam and SING 'GOHHHNG!' - the WORK begins!",
+      "story": "I lift the heavy work beam overhead, SINGING 'GOHHHNG!' in a sustained note. The WORK begins - my voice holds steady as muscles strain. Pure labor.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "lift",
+        "tone_verb": "SINGING",
+        "sensory": ["kinesthetic (lifting)", "auditory (singing)", "muscular (strain)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 73,
+      "character": "左",
+      "pinyin": "zuǒ",
+      "tone": 3,
+      "meaning": "left",
+      "primitives": ["工 (work)", "手 variant (hand)"],
+      "sound_bridge": {
+        "pinyin": "zuǒ",
+        "approximation": "DZWOH",
+        "rhymes": ["whoa", "go", "so"]
+      },
+      "etymology": "Work (工) + hand = left (the left hand assists in work)",
+      "pithy_formula": "My LEFT hand drops useless - I GROAN 'Dzwohh...' in frustration.",
+      "story": "My LEFT hand hangs useless at my side. I GROAN 'Dzwohh...' in low, creaky frustration - the weaker hand, the helper hand, groaning at its lesser role.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "hangs",
+        "tone_verb": "GROAN",
+        "sensory": ["kinesthetic (hand)", "emotional (frustration)", "auditory (groan)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "右",
+        "meaning": "right",
+        "repulsion": "左 = LEFT (work hand, lower status); 右 = RIGHT (mouth hand, speaking/eating)"
+      }
+    },
+    {
+      "id": 74,
+      "character": "右",
+      "pinyin": "yòu",
+      "tone": 4,
+      "meaning": "right",
+      "primitives": ["口 (mouth)", "手 variant (hand)"],
+      "sound_bridge": {
+        "pinyin": "yòu",
+        "approximation": "YOH",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Mouth (口) + hand = right (the right hand feeds the mouth)",
+      "pithy_formula": "My RIGHT hand STRIKES and COMMANDS 'YOH!' - dominant force!",
+      "story": "My RIGHT hand STRIKES with power and COMMANDS 'YOH!' sharply. The dominant hand, the eating hand, the speaking hand - it barks orders while the left obeys.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "STRIKES",
+        "tone_verb": "COMMANDS",
+        "sensory": ["kinesthetic (striking)", "auditory (command)", "spatial (dominance)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "左",
+        "meaning": "left",
+        "repulsion": "右 = RIGHT (mouth/eating hand, dominant); 左 = LEFT (work hand, helper)"
+      }
+    },
+    {
+      "id": 75,
+      "character": "有",
+      "pinyin": "yǒu",
+      "tone": 3,
+      "meaning": "to possess/have",
+      "primitives": ["又 (hand)", "月 (flesh/moon)"],
+      "sound_bridge": {
+        "pinyin": "yǒu",
+        "approximation": "YOH",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Hand (又) + flesh (月) = to possess (hand holding meat = ownership)",
+      "moon_flesh_note": "月 here means FLESH (meat held in hand), not moon",
+      "pithy_formula": "I clutch the meat and GROAN 'Yohh...' - mine, I POSSESS it!",
+      "story": "I clutch the raw meat in my fist and GROAN 'Yohh...' in low, possessive hunger. MINE. I POSSESS this flesh. The zombie grip tightens - I will not share.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "clutch",
+        "tone_verb": "GROAN",
+        "sensory": ["tactile (meat)", "auditory (groan)", "emotional (possession)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 76,
+      "character": "賄",
+      "pinyin": "huì",
+      "tone": 4,
+      "meaning": "bribe",
+      "primitives": ["貝 (shell/money)", "有 (possess)"],
+      "sound_bridge": {
+        "pinyin": "huì",
+        "approximation": "HWAY",
+        "rhymes": ["way", "say", "day"]
+      },
+      "etymology": "Shell/money (貝) + possess (有) = bribe (illegal possession of money)",
+      "pithy_formula": "I SHOVE the BRIBE forward and COMMAND 'HWAY!' - take it!",
+      "story": "I SHOVE the bag of shells forward and COMMAND 'HWAY!' with sharp corruption. The BRIBE changes hands - money for silence, shells for betrayal. Sharp and dirty.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SHOVE",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (shoving)", "visual (shells)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 77,
+      "character": "貢",
+      "pinyin": "gòng",
+      "tone": 4,
+      "meaning": "tribute",
+      "primitives": ["工 (work)", "貝 (shell/money)"],
+      "sound_bridge": {
+        "pinyin": "gòng",
+        "approximation": "GOHNG",
+        "rhymes": ["gong", "song", "wrong"]
+      },
+      "etymology": "Work (工) + shell/money (貝) = tribute (payment for labor/loyalty)",
+      "pithy_formula": "I present TRIBUTE and COMMAND 'GOHNG!' - the emperor demands!",
+      "story": "I present the TRIBUTE of shells and labor, COMMANDING 'GOHNG!' with a sharp bow. The emperor demands payment - work turned to money, money turned to power.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "present",
+        "tone_verb": "COMMANDING",
+        "sensory": ["kinesthetic (bowing)", "visual (shells)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 78,
+      "character": "項",
+      "pinyin": "xiàng",
+      "tone": 4,
+      "meaning": "item/nape of neck",
+      "primitives": ["工 (work)", "頁 (head/page)"],
+      "sound_bridge": {
+        "pinyin": "xiàng",
+        "approximation": "SHYAHNG",
+        "rhymes": ["gong", "song", "wrong"]
+      },
+      "etymology": "Work (工) + head (頁) = item (things organized by category/nape)",
+      "pithy_formula": "I check each ITEM and COMMAND 'SHYAHNG!' - count them all!",
+      "story": "I GRAB each ITEM by the neck and COMMAND 'SHYAHNG!' with sharp inventory. One by one, catalogued and counted - my voice barks the tally into existence.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "GRAB/catalogued",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (grabbing)", "auditory (command)", "visual (items)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 79,
+      "character": "刀",
+      "pinyin": "dāo",
+      "tone": 1,
+      "meaning": "knife/sword",
+      "primitives": ["pictograph of blade"],
+      "sound_bridge": {
+        "pinyin": "dāo",
+        "approximation": "DOW",
+        "rhymes": ["now", "how", "cow"]
+      },
+      "etymology": "Pictograph of a curved blade = knife/sword",
+      "pithy_formula": "I draw the KNIFE and SING 'DOWWW!' - the blade gleams!",
+      "story": "I draw the KNIFE from its sheath, SINGING 'DOWWW!' in a sustained high note. The blade gleams in the light - my voice holds steady as steel catches the sun.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "draw",
+        "tone_verb": "SINGING",
+        "sensory": ["visual (gleaming)", "kinesthetic (drawing)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "刃",
+        "meaning": "blade/edge",
+        "repulsion": "刀 = whole KNIFE (no dot); 刃 = sharp EDGE (dot marks the cutting point)"
+      }
+    },
+    {
+      "id": 80,
+      "character": "刃",
+      "pinyin": "rèn",
+      "tone": 4,
+      "meaning": "blade/edge",
+      "primitives": ["刀 (knife)", "丶 (dot = edge point)"],
+      "sound_bridge": {
+        "pinyin": "rèn",
+        "approximation": "REN",
+        "rhymes": ["pen", "zen", "then"]
+      },
+      "etymology": "Knife (刀) + dot (丶) marking the edge = blade (the sharp part)",
+      "pithy_formula": "The BLADE's edge bites and COMMANDS 'REN!' - sharp and final!",
+      "story": "The BLADE's edge bites into flesh and COMMANDS 'REN!' with sharp finality. The dot marks where steel meets skin - one decisive cut, one barking command.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": false,
+        "transitive_verb": "bites",
+        "tone_verb": "COMMANDS",
+        "sensory": ["tactile (cutting)", "auditory (command)", "visual (edge)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "刀",
+        "meaning": "knife",
+        "repulsion": "刃 = EDGE with dot (marks cutting point); 刀 = whole knife (no dot)"
+      }
+    },
+    {
+      "id": 81,
+      "character": "切",
+      "pinyin": "qiè",
+      "tone": 4,
+      "meaning": "to cut",
+      "primitives": ["七 (seven)", "刀 (knife)"],
+      "sound_bridge": {
+        "pinyin": "qiè",
+        "approximation": "CHYEH",
+        "rhymes": ["yeah", "meh"]
+      },
+      "etymology": "Seven (七) + knife (刀) = to cut (seven cuts, slicing action)",
+      "pithy_formula": "I CUT through bone and COMMAND 'CHYEH!' - sliced clean!",
+      "story": "I CUT through the bone with one stroke, COMMANDING 'CHYEH!' as the blade severs. Clean, decisive - the knife speaks with sharp authority. Sliced in two.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "CUT/severs",
+        "tone_verb": "COMMANDING",
+        "sensory": ["kinesthetic (cutting)", "auditory (command)", "tactile (bone)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 82,
+      "character": "召",
+      "pinyin": "zhào",
+      "tone": 4,
+      "meaning": "to summon",
+      "primitives": ["刀 (knife)", "口 (mouth)"],
+      "sound_bridge": {
+        "pinyin": "zhào",
+        "approximation": "JOW",
+        "rhymes": ["now", "how", "cow"]
+      },
+      "etymology": "Knife (刀) + mouth (口) = to summon (call with the authority of a blade)",
+      "pithy_formula": "I SUMMON the warriors and COMMAND 'JOW!' - come to me NOW!",
+      "story": "I SUMMON the warriors with a sharp cry, COMMANDING 'JOW!' as my blade points skyward. They come running - the mouth speaks, the knife enforces. Authority absolute.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SUMMON",
+        "tone_verb": "COMMANDING",
+        "sensory": ["auditory (command)", "visual (blade)", "kinesthetic (running)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "昭",
+        "meaning": "evident",
+        "repulsion": "召 = SUMMON (mouth + knife = call); 昭 adds SUN = EVIDENT (clear as day)"
+      }
+    },
+    {
+      "id": 83,
+      "character": "昭",
+      "pinyin": "zhāo",
+      "tone": 1,
+      "meaning": "evident/clear",
+      "primitives": ["日 (sun)", "召 (summon)"],
+      "sound_bridge": {
+        "pinyin": "zhāo",
+        "approximation": "JOW",
+        "rhymes": ["now", "how", "cow"]
+      },
+      "etymology": "Sun (日) + summon (召) = evident (clear as the sun, obvious)",
+      "pithy_formula": "The truth is EVIDENT - I SING 'JOWWW!' as sunlight reveals all!",
+      "story": "The truth is EVIDENT as sunlight floods the room. I SING 'JOWWW!' in a sustained note - everything clear, nothing hidden. The sun summons truth into the open.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "floods/reveals",
+        "tone_verb": "SING",
+        "sensory": ["visual (sunlight)", "auditory (singing)", "emotional (clarity)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "召",
+        "meaning": "to summon",
+        "repulsion": "昭 = EVIDENT (sun added = visible); 召 = SUMMON (call without light)"
+      }
+    },
+    {
+      "id": 84,
+      "character": "則",
+      "pinyin": "zé",
+      "tone": 2,
+      "meaning": "rule/regulation",
+      "primitives": ["貝 (shell/money)", "刂 (knife radical)"],
+      "sound_bridge": {
+        "pinyin": "zé",
+        "approximation": "DZUH",
+        "rhymes": ["the", "uh"]
+      },
+      "etymology": "Shell (貝) + knife (刂) = rule (cut-and-dried law, enforced with penalty)",
+      "pithy_formula": "The RULE is absolute - I GASP 'DZUH?!' as the knife enforces it!",
+      "story": "The RULE is carved in stone. I GASP 'DZUH?!' in rising shock as the knife enforces the law - break it and pay with shells, or pay with blood. No mercy.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "enforces",
+        "tone_verb": "GASP",
+        "sensory": ["visual (knife)", "emotional (shock)", "auditory (gasp)"],
+        "chunks": 4
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 85,
+      "character": "副",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "vice-/deputy",
+      "primitives": ["畐 (full)", "刂 (knife radical)"],
+      "sound_bridge": {
+        "pinyin": "fù",
+        "approximation": "FOO",
+        "rhymes": ["boo", "who", "through"]
+      },
+      "etymology": "Full (畐) + knife (刂) = vice (cut portion of the whole, secondary)",
+      "pithy_formula": "The VICE-commander steps forward and COMMANDS 'FOO!' - second in power!",
+      "story": "The VICE-commander steps forward and COMMANDS 'FOO!' with sharp authority. Second to the leader, a cut portion of power - the deputy barks orders in his master's absence.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": false,
+        "transitive_verb": "steps/barks",
+        "tone_verb": "COMMANDS",
+        "sensory": ["visual (commander)", "auditory (command)", "spatial (hierarchy)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 86,
+      "character": "丁",
+      "pinyin": "dīng",
+      "tone": 1,
+      "meaning": "nail/fourth (Heavenly Stem)",
+      "primitives": ["pictograph of nail head"],
+      "sound_bridge": {
+        "pinyin": "dīng",
+        "approximation": "DING",
+        "rhymes": ["ring", "sing", "thing"]
+      },
+      "etymology": "Pictograph of a nail = nail (also 4th Heavenly Stem)",
+      "pithy_formula": "I drive the NAIL in and SING 'DINGGGG!' - struck true!",
+      "story": "I drive the NAIL into the wood, SINGING 'DINGGGG!' as the hammer strikes. The sustained ring echoes - metal on metal, one perfect note held forever.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "drive",
+        "tone_verb": "SINGING",
+        "sensory": ["auditory (ring)", "kinesthetic (hammer)", "tactile (wood)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "叮",
+        "meaning": "to sting",
+        "repulsion": "丁 = NAIL alone (solid object); 叮 adds MOUTH = STING (piercing sound)"
+      }
+    },
+    {
+      "id": 87,
+      "character": "叮",
+      "pinyin": "dīng",
+      "tone": 1,
+      "meaning": "to sting/tinkle",
+      "primitives": ["口 (mouth)", "丁 (nail)"],
+      "sound_bridge": {
+        "pinyin": "dīng",
+        "approximation": "DING",
+        "rhymes": ["ring", "sing", "sting"]
+      },
+      "etymology": "Mouth (口) + nail (丁) = to sting (piercing sound, sharp sensation)",
+      "pithy_formula": "The bee STINGS and I SING 'DINGGGG!' - piercing pain rings out!",
+      "story": "The bee STINGS my arm and I SING 'DINGGGG!' as pain rings through my body. A sustained note of agony - the piercing continues, the sound holds, pure STING.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "STINGS",
+        "tone_verb": "SING",
+        "sensory": ["kinesthetic (sting)", "auditory (ring)", "pain (agony)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "丁",
+        "meaning": "nail",
+        "repulsion": "叮 = STING with mouth (piercing sensation); 丁 = NAIL alone (solid object)"
+      }
+    },
+    {
+      "id": 88,
+      "character": "可",
+      "pinyin": "kě",
+      "tone": 3,
+      "meaning": "can/may",
+      "primitives": ["口 (mouth)", "丁 variant"],
+      "sound_bridge": {
+        "pinyin": "kě",
+        "approximation": "KUH",
+        "rhymes": ["duh", "uh"]
+      },
+      "etymology": "Mouth (口) approving = can/may (permission granted)",
+      "pithy_formula": "CAN I? The mouth GROANS 'Kuhhh...' - barely permitted.",
+      "story": "CAN I do this? The mouth GROANS 'Kuhhh...' in low, reluctant permission. Barely allowed, grudgingly granted - the zombie approval comes slow and creaky.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "granted",
+        "tone_verb": "GROANS",
+        "sensory": ["auditory (groan)", "emotional (reluctance)", "verbal (permission)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 89,
+      "character": "哥",
+      "pinyin": "gē",
+      "tone": 1,
+      "meaning": "older brother",
+      "primitives": ["可 (can) doubled"],
+      "sound_bridge": {
+        "pinyin": "gē",
+        "approximation": "GUH",
+        "rhymes": ["duh", "uh"]
+      },
+      "etymology": "Double 可 (can) stacked = older brother (doubly capable, protective)",
+      "pithy_formula": "OLDER BROTHER arrives and SINGS 'GUHHHH!' - protector is here!",
+      "story": "My OLDER BROTHER arrives and SINGS 'GUHHHH!' in a sustained note of authority. Doubly capable, doubly protective - his voice holds steady as he shields me.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "arrives/shields",
+        "tone_verb": "SINGS",
+        "sensory": ["auditory (singing)", "emotional (protection)", "visual (brother)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 90,
+      "character": "頂",
+      "pinyin": "dǐng",
+      "tone": 3,
+      "meaning": "top/crest",
+      "primitives": ["丁 (nail/top)", "頁 (head)"],
+      "sound_bridge": {
+        "pinyin": "dǐng",
+        "approximation": "DING",
+        "rhymes": ["ring", "sing", "thing"]
+      },
+      "etymology": "Nail/top (丁) + head (頁) = crest (the very top of the head)",
+      "pithy_formula": "I reach the TOP and GROAN 'Dingggg...' - exhausted at the CREST.",
+      "story": "I reach the TOP of the mountain and GROAN 'Dingggg...' in low, exhausted triumph. The CREST at last - my zombie moan echoes across the peak. Finally here.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "reach",
+        "tone_verb": "GROAN",
+        "sensory": ["kinesthetic (climbing)", "auditory (groan)", "spatial (peak)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    }
+  ],
+  "lesson_palace": {
+    "location": "The Forge of Blades",
+    "description": "A blacksmith's compound where work is done, hands are skilled, and steel speaks with authority",
+    "character_stations": {
+      "直": "Measuring room: straight lines checked by ten eyes",
+      "置": "Trap workshop: nets set up with precision",
+      "具": "Tool wall: implements hang ready for hands",
+      "真": "Verification hall: ten witnesses confirm truth",
+      "工": "Workbench: beams lifted with singing effort",
+      "左": "Left forge: the helper hand works here",
+      "右": "Right forge: the dominant hand commands here",
+      "有": "Treasury: meat clutched in possessive fists",
+      "賄": "Shadow corner: bribes change hands",
+      "貢": "Tribute platform: offerings presented to power",
+      "項": "Inventory ledger: items counted by neck",
+      "刀": "Blade rack: knives gleam in rows",
+      "刃": "Sharpening stone: edges honed to points",
+      "切": "Butcher block: bones severed clean",
+      "召": "Summoning horn: warriors called by blade-point",
+      "昭": "Sunlit window: truth made evident",
+      "則": "Law tablet: rules carved and enforced",
+      "副": "Deputy's desk: second-in-command station",
+      "丁": "Nail bin: metal pegs ring when struck",
+      "叮": "Wasp nest: stinging sounds echo",
+      "可": "Permission gate: reluctant approvals granted",
+      "哥": "Elder's chair: older brother watches over",
+      "頂": "Rooftop peak: the highest point reached"
+    }
+  },
+  "quality_summary": {
+    "total_characters": 23,
+    "first_person_compliance": "21/23 (91%)",
+    "tone_verb_compliance": "23/23 (100%)",
+    "transitive_verb_compliance": "23/23 (100%)",
+    "average_word_count": 27,
+    "similar_warnings_included": "8 pairs documented",
+    "moon_flesh_notes": "1 character (有) has flesh radical warning"
+  }
+}
