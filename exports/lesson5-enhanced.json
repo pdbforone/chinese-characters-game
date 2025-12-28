@@ -1,0 +1,716 @@
+{
+  "meta": {
+    "lesson": 5,
+    "title": "Work, Hands & Blades",
+    "version": "2.0.0",
+    "framework": "5-Layer Mnemonic System",
+    "character_count": 23
+  },
+  "characters": [
+    {
+      "id": 68,
+      "character": "直",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "straight/direct",
+      "primitives": ["ten (十)", "eye (目)", "line (一)"],
+      "layers": {
+        "visual_etymology": "Ten (十) eyes (目) looking in one direction - all looking STRAIGHT ahead!",
+        "sound_bridge": {
+          "pinyin": "zhí",
+          "english_approximation": "Jee",
+          "rhymes_with": ["gee", "tree", "free"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, checking alignment"
+        },
+        "pithy_formula": "Ten eyes ask 'JEE? Is this line perfectly straight?'"
+      },
+      "story": "TEN EYES (十 + 目) line up and ask: 'Zhí? Is this STRAIGHT?' That rising second tone is the checking motion - looking down the line to verify it's perfectly direct. All eyes must agree it's straight!",
+      "bizarreness": {
+        "sensory": "Laser beam sight, ruler edge, precise click",
+        "absurd_detail": "Ten floating eyeballs forming a perfectly straight line",
+        "action": "Eyes rotating to check alignment from different angles"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 69,
+      "character": "置",
+      "pinyin": "zhì",
+      "tone": 4,
+      "meaning": "to place/to set up",
+      "primitives": ["net (罒)", "straight (直)"],
+      "layers": {
+        "visual_etymology": "A net (罒) placed STRAIGHT (直) - to SET UP something properly!",
+        "sound_bridge": {
+          "pinyin": "zhì",
+          "english_approximation": "Jee",
+          "rhymes_with": ["gee", "tree", "see"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, decisive, positioning"
+        },
+        "pithy_formula": "A net commands 'JEE!' placing itself straight and sharp."
+      },
+      "story": "You SET UP a net (罒) STRAIGHT (直), and it COMMANDS 'ZHÌ!' sharply - PLACE it right there! That falling fourth tone is the decisive moment of installation. The net snaps into position!",
+      "bizarreness": {
+        "sensory": "Net stretching taut, snap sound, grid pattern appearing",
+        "absurd_detail": "The net has hands and positions itself perfectly",
+        "action": "Snapping into place with military precision"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 70,
+      "character": "具",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "tool/implement",
+      "primitives": ["eye (目)", "eight/legs (八)"],
+      "layers": {
+        "visual_etymology": "An eye (目) with legs (八) - a TOOL that helps you see and work!",
+        "sound_bridge": {
+          "pinyin": "jù",
+          "english_approximation": "Joo",
+          "rhymes_with": ["true", "blue", "new"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, functional, ready"
+        },
+        "pithy_formula": "A tool commands 'JOO! Use me!' standing ready."
+      },
+      "story": "The TOOL has eyes (目) to see what needs fixing and legs (八) to get there! It COMMANDS 'JÙ!' sharply - USE me! That fourth tone is the tool demanding to be put to work, ready and eager!",
+      "bizarreness": {
+        "sensory": "Metal weight in hand, grip texture, purpose feeling",
+        "absurd_detail": "A Swiss Army knife with actual eyes scanning for problems",
+        "action": "Walking toward broken things, ready to fix them"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 71,
+      "character": "真",
+      "pinyin": "zhēn",
+      "tone": 1,
+      "meaning": "true/real",
+      "primitives": ["straight (直)", "table (几)"],
+      "layers": {
+        "visual_etymology": "Something placed STRAIGHT (直) on a table (几) - what's TRUE stands upright!",
+        "sound_bridge": {
+          "pinyin": "zhēn",
+          "english_approximation": "Jun",
+          "rhymes_with": ["run", "sun", "fun"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, unwavering truth"
+        },
+        "pithy_formula": "Truth sings 'JUUUN!' standing straight and unwavering."
+      },
+      "story": "TRUTH stands STRAIGHT (直) on its foundation, singing 'ZHĒN!' in a high, sustained note! It doesn't waver, doesn't bend - TRUE things stand upright forever! That first tone is the constancy of what's REAL!",
+      "bizarreness": {
+        "sensory": "Clarity ringing, solid ground, bright white light",
+        "absurd_detail": "A glowing pillar of truth that literally can't be knocked over",
+        "action": "Lies melting when they touch its radiance"
+      },
+      "similar_warning": {
+        "similar_to": "直",
+        "meaning": "straight",
+        "difference": "真 has a base/table; 直 is just the upright structure"
+      }
+    },
+    {
+      "id": 72,
+      "character": "工",
+      "pinyin": "gōng",
+      "tone": 1,
+      "meaning": "work/craft",
+      "primitives": ["I-beam structure"],
+      "layers": {
+        "visual_etymology": "An I-beam - the fundamental shape of construction WORK!",
+        "sound_bridge": {
+          "pinyin": "gōng",
+          "english_approximation": "Goong",
+          "rhymes_with": ["gong", "song", "long"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, rhythmic labor"
+        },
+        "pithy_formula": "Workers sing 'GOONG!' rhythmically lifting I-beams together."
+      },
+      "story": "Construction workers lift the I-beam (工) and SING 'GŌNG!' in unison - a high, sustained work song! That first tone is the rhythmic chant of WORK, keeping everyone in sync as they build!",
+      "bizarreness": {
+        "sensory": "Steel clanging, sweat dripping, muscles straining",
+        "absurd_detail": "The I-beam joins in singing, vibrating with each note",
+        "action": "Workers and beam dancing together in construction ballet"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 73,
+      "character": "左",
+      "pinyin": "zuǒ",
+      "tone": 3,
+      "meaning": "left",
+      "primitives": ["hand (工 variant)", "work (工)"],
+      "layers": {
+        "visual_etymology": "A hand reaching LEFT to do work - the left hand helper!",
+        "sound_bridge": {
+          "pinyin": "zuǒ",
+          "english_approximation": "Dzwoh",
+          "rhymes_with": ["go", "so", "no"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, reaching, secondary"
+        },
+        "pithy_formula": "The left hand whispers 'Dzwǒ...' reaching out to help."
+      },
+      "story": "The LEFT hand reaches out and whispers 'Zuǒ...' in a low, contemplative third tone. It's the helper hand, the secondary one, reaching to assist. That dipping tone is the humble left, supporting the right!",
+      "bizarreness": {
+        "sensory": "Fingers stretching, supporting grip, secondary role",
+        "absurd_detail": "The left hand wears a 'Vice President' badge",
+        "action": "Catching things the right hand drops"
+      },
+      "similar_warning": {
+        "similar_to": "右",
+        "meaning": "right",
+        "difference": "左 has 工 below (work hand); 右 has 口 below (speaking hand)"
+      }
+    },
+    {
+      "id": 74,
+      "character": "右",
+      "pinyin": "yòu",
+      "tone": 4,
+      "meaning": "right",
+      "primitives": ["hand (ナ)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "A hand over a mouth - the RIGHT hand is the speaking/dominant hand!",
+        "sound_bridge": {
+          "pinyin": "yòu",
+          "english_approximation": "Yo",
+          "rhymes_with": ["go", "so", "yo-yo"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, dominant, primary"
+        },
+        "pithy_formula": "The right hand commands 'YO!' sharply taking charge."
+      },
+      "story": "The RIGHT hand raises and COMMANDS 'YÒU!' sharply - it's the dominant hand, the one with authority! The mouth (口) below shows this is the hand that speaks, that takes action decisively!",
+      "bizarreness": {
+        "sensory": "Strong grip, authority weight, confident gesture",
+        "absurd_detail": "The right hand wears a tiny crown and scepter",
+        "action": "Pointing decisively while the left hand applauds"
+      },
+      "similar_warning": {
+        "similar_to": "左",
+        "meaning": "left",
+        "difference": "右 has 口 (mouth/authority); 左 has 工 (work/helper)"
+      }
+    },
+    {
+      "id": 75,
+      "character": "有",
+      "pinyin": "yǒu",
+      "tone": 3,
+      "meaning": "to have/possess",
+      "primitives": ["hand (ナ)", "moon/flesh (月)"],
+      "layers": {
+        "visual_etymology": "A hand holding the moon/meat - to HAVE something tangible!",
+        "sound_bridge": {
+          "pinyin": "yǒu",
+          "english_approximation": "Yo",
+          "rhymes_with": ["go", "so", "know"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, grasping, possessive"
+        },
+        "pithy_formula": "A hand whispers 'Yǒu...' clutching the moon possessively."
+      },
+      "story": "Your hand reaches up and clutches the MOON (月), whispering 'Yǒu...' in a low, possessive third tone - I HAVE it! That dipping tone is the satisfaction of possession, holding something precious close!",
+      "bizarreness": {
+        "sensory": "Cool moon surface, tight grip, treasure feeling",
+        "absurd_detail": "Hand literally pulling the moon out of the sky into a pocket",
+        "action": "Checking repeatedly to make sure it's still there"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 76,
+      "character": "賄",
+      "pinyin": "huì",
+      "tone": 4,
+      "meaning": "to bribe",
+      "primitives": ["shell/money (貝)", "have (有)"],
+      "layers": {
+        "visual_etymology": "To HAVE (有) money/shells (貝) and give it illicitly - a BRIBE!",
+        "sound_bridge": {
+          "pinyin": "huì",
+          "english_approximation": "Hway",
+          "rhymes_with": ["way", "say", "day"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, corrupt, secretive transaction"
+        },
+        "pithy_formula": "Money commands 'HWAY!' sliding into corrupt hands sharply."
+      },
+      "story": "You HAVE (有) MONEY (貝) and it COMMANDS 'HUÌ!' sharply - passing into corrupt hands! That falling fourth tone is the swift, decisive moment of the BRIBE, no hesitation, no trail!",
+      "bizarreness": {
+        "sensory": "Crisp bills, sweaty palms, looking over shoulder",
+        "absurd_detail": "Money literally growing legs and running to the corrupt official",
+        "action": "Shell-coins doing secret handshakes"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 77,
+      "character": "貢",
+      "pinyin": "gòng",
+      "tone": 4,
+      "meaning": "tribute/to contribute",
+      "primitives": ["work (工)", "shell/money (貝)"],
+      "layers": {
+        "visual_etymology": "WORK (工) given as MONEY (貝) - paying TRIBUTE to the ruler!",
+        "sound_bridge": {
+          "pinyin": "gòng",
+          "english_approximation": "Goong",
+          "rhymes_with": ["gong", "song", "long"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, obligatory, presenting"
+        },
+        "pithy_formula": "Tribute commands 'GOONG!' presenting work as payment sharply."
+      },
+      "story": "Your WORK (工) becomes MONEY (貝) offered as TRIBUTE, and it COMMANDS 'GÒNG!' sharply - presented to the emperor! That fourth tone is the formal, obligatory presentation of taxes or tribute!",
+      "bizarreness": {
+        "sensory": "Throne room echo, kneeling, cold stone floor",
+        "absurd_detail": "Stacks of shells forming a pyramid before the throne",
+        "action": "Bowing deeply while placing tribute at royal feet"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 78,
+      "character": "項",
+      "pinyin": "xiàng",
+      "tone": 4,
+      "meaning": "item/nape of neck",
+      "primitives": ["work (工)", "page/head (頁)"],
+      "layers": {
+        "visual_etymology": "Work (工) on the head/page (頁) - an ITEM on a list, or the neck holding the head!",
+        "sound_bridge": {
+          "pinyin": "xiàng",
+          "english_approximation": "Shyahng",
+          "rhymes_with": ["gong", "song", "strong"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, listing, enumerating"
+        },
+        "pithy_formula": "An item commands 'SHYAHNG!' marking its place on the list."
+      },
+      "story": "Each ITEM on the list COMMANDS 'XIÀNG!' sharply - counting off! The work (工) supports the head (頁) like the neck, and each item demands to be counted. That fourth tone is the checklist being ticked off!",
+      "bizarreness": {
+        "sensory": "Pen clicking, paper rustling, checkmarks appearing",
+        "absurd_detail": "Items on a list physically shouting their numbers",
+        "action": "Neck stretching to show off each item it supports"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 79,
+      "character": "刀",
+      "pinyin": "dāo",
+      "tone": 1,
+      "meaning": "knife/sword",
+      "primitives": ["blade pictograph"],
+      "layers": {
+        "visual_etymology": "A curved blade - the basic shape of a KNIFE or sword!",
+        "sound_bridge": {
+          "pinyin": "dāo",
+          "english_approximation": "Dao",
+          "rhymes_with": ["cow", "now", "pow"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, gleaming"
+        },
+        "pithy_formula": "A blade sings 'DAAOOO!' gleaming bright and sharp."
+      },
+      "story": "The KNIFE curves in the light and SINGS 'DĀO!' in a high, sustained note - that's the gleam of polished steel! The first tone is the blade singing as it's drawn, a continuous ring of sharpness!",
+      "bizarreness": {
+        "sensory": "Metal ring, cold steel, sharp edge gleam",
+        "absurd_detail": "The knife blade has a tiny opera singer doing a high note",
+        "action": "Spinning and catching light like a lighthouse beam"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 80,
+      "character": "刃",
+      "pinyin": "rèn",
+      "tone": 4,
+      "meaning": "blade/edge",
+      "primitives": ["knife (刀)", "dot (丶)"],
+      "layers": {
+        "visual_etymology": "A knife (刀) with a dot marking the EDGE - the sharpest point!",
+        "sound_bridge": {
+          "pinyin": "rèn",
+          "english_approximation": "Ren",
+          "rhymes_with": ["when", "yen", "pen"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, cutting, dangerous"
+        },
+        "pithy_formula": "The edge commands 'REN!' cutting sharply at contact."
+      },
+      "story": "The BLADE has a dot marking its razor EDGE, and it COMMANDS 'RÈN!' sharply - don't touch! That falling fourth tone is the warning of the cutting edge, ready to slice anything that comes near!",
+      "bizarreness": {
+        "sensory": "Hair splitting, danger tingling, blood warning",
+        "absurd_detail": "The dot is actually a tiny skull warning 'DANGER'",
+        "action": "Cutting through falling feathers without effort"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 81,
+      "character": "切",
+      "pinyin": "qiè",
+      "tone": 4,
+      "meaning": "to cut/to slice",
+      "primitives": ["seven (七)", "knife (刀)"],
+      "layers": {
+        "visual_etymology": "Seven (七) cuts with a knife (刀) - to CUT into pieces!",
+        "sound_bridge": {
+          "pinyin": "qiè",
+          "english_approximation": "Chyeh",
+          "rhymes_with": ["yeah", "meh", "eh"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, slicing, decisive"
+        },
+        "pithy_formula": "Seven cuts command 'CHYEH!' slicing sharply through."
+      },
+      "story": "SEVEN (七) quick slices with the KNIFE (刀) - CHOP CHOP CHOP! The blade COMMANDS 'QIÈ!' sharply with each CUT! That fourth tone is the decisive slicing action, cutting through cleanly!",
+      "bizarreness": {
+        "sensory": "Knife thudding, vegetables flying, cutting board vibrating",
+        "absurd_detail": "The number 7 is doing the cutting, each stroke a slice",
+        "action": "Ingredients separating in slow motion like The Matrix"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 82,
+      "character": "召",
+      "pinyin": "zhào",
+      "tone": 4,
+      "meaning": "to summon/to call",
+      "primitives": ["sword/knife (刀)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "Mouth (口) with a sword (刀) - calling warriors to SUMMON them!",
+        "sound_bridge": {
+          "pinyin": "zhào",
+          "english_approximation": "Jao",
+          "rhymes_with": ["cow", "now", "wow"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, beckoning, authoritative"
+        },
+        "pithy_formula": "A mouth commands 'JAO!' summoning warriors to battle."
+      },
+      "story": "The MOUTH (口) of the commander holds a SWORD (刀) high and SUMMONS 'ZHÀO!' sharply - calling warriors to assemble! That fourth tone is the urgent command to gather, the battle cry that brings soldiers running!",
+      "bizarreness": {
+        "sensory": "War horn blowing, boots running, armor clanking",
+        "absurd_detail": "The mouth is a giant megaphone with a sword attached",
+        "action": "Sound waves physically dragging warriors toward the caller"
+      },
+      "similar_warning": {
+        "similar_to": "昭",
+        "meaning": "evident",
+        "difference": "召 has 口 (mouth to call); 昭 has 日 (sun making things evident)"
+      }
+    },
+    {
+      "id": 83,
+      "character": "昭",
+      "pinyin": "zhāo",
+      "tone": 1,
+      "meaning": "evident/clear",
+      "primitives": ["sun (日)", "summon (召)"],
+      "layers": {
+        "visual_etymology": "Sun (日) summoning (召) light - making everything EVIDENT!",
+        "sound_bridge": {
+          "pinyin": "zhāo",
+          "english_approximation": "Jao",
+          "rhymes_with": ["cow", "now", "wow"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, illuminating"
+        },
+        "pithy_formula": "The sun sings 'JAAAO!' making all things evident."
+      },
+      "story": "The SUN (日) rises and SINGS 'ZHĀO!' in a high, sustained note of clarity! Everything becomes EVIDENT in its light - no shadows, no hiding places! That first tone is the continuous revelation of truth!",
+      "bizarreness": {
+        "sensory": "Blinding clarity, secrets exposed, shadows fleeing",
+        "absurd_detail": "The sun is a detective with a magnifying glass",
+        "action": "Light beams physically pulling hidden things into view"
+      },
+      "similar_warning": {
+        "similar_to": "召",
+        "meaning": "to summon",
+        "difference": "昭 has 日 (sun for clarity); 召 has 口 (mouth for calling)"
+      }
+    },
+    {
+      "id": 84,
+      "character": "則",
+      "pinyin": "zé",
+      "tone": 2,
+      "meaning": "rule/regulation",
+      "primitives": ["shell/money (貝)", "knife (刂)"],
+      "layers": {
+        "visual_etymology": "Money (貝) plus knife (刂) - RULES are enforced with economic and physical power!",
+        "sound_bridge": {
+          "pinyin": "zé",
+          "english_approximation": "Dzuh",
+          "rhymes_with": ["huh", "duh", "uh"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, questioning authority"
+        },
+        "pithy_formula": "Money and blade ask 'DZUH? Why must we follow rules?'"
+      },
+      "story": "MONEY (貝) and KNIFE (刂) together form RULES - because laws are enforced by fines and force! They ask 'Zé? Why must we obey?' That rising second tone is the questioning of authority, even as we follow it!",
+      "bizarreness": {
+        "sensory": "Gavel banging, coins clinking, blade hovering",
+        "absurd_detail": "A rulebook with money and a sword as bookends",
+        "action": "Laws literally carved into stone by knife and paid for in shells"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 85,
+      "character": "副",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "vice/deputy/secondary",
+      "primitives": ["rich (畐)", "knife (刂)"],
+      "layers": {
+        "visual_etymology": "The rich one (畐) cut by knife (刂) - divided into VICE/secondary portions!",
+        "sound_bridge": {
+          "pinyin": "fù",
+          "english_approximation": "Foo",
+          "rhymes_with": ["boo", "who", "new"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, dividing, secondary authority"
+        },
+        "pithy_formula": "The vice commands 'FOO!' sharply taking second place."
+      },
+      "story": "The leader is CUT (刂) to create a VICE - a second in command! The deputy COMMANDS 'FÙ!' sharply - I'm the backup, the secondary authority! That fourth tone is the decisive division of power!",
+      "bizarreness": {
+        "sensory": "Scissors cutting, power dividing, echo of main command",
+        "absurd_detail": "A person literally being split into two, one wearing a 'VICE' badge",
+        "action": "The copy doing everything the original does, one step behind"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 86,
+      "character": "丁",
+      "pinyin": "dīng",
+      "tone": 1,
+      "meaning": "fourth (in sequence)/nail/adult male",
+      "primitives": ["nail/T-shape"],
+      "layers": {
+        "visual_etymology": "A nail or T-shape - the FOURTH item in the heavenly stems sequence!",
+        "sound_bridge": {
+          "pinyin": "dīng",
+          "english_approximation": "Ding",
+          "rhymes_with": ["ring", "sing", "bling"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, striking"
+        },
+        "pithy_formula": "A nail sings 'DIIIING!' ringing when struck happily."
+      },
+      "story": "The NAIL stands straight and SINGS 'DĪNG!' when struck - a high, clear, sustained ring! That first tone is the pure note of metal on metal, the FOURTH note in the sequence!",
+      "bizarreness": {
+        "sensory": "Hammer strike, vibrating metal, ringing tone",
+        "absurd_detail": "The nail is a tiny tuning fork that loves being hit",
+        "action": "Vibrating happily and creating visible sound waves"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 87,
+      "character": "叮",
+      "pinyin": "dīng",
+      "tone": 1,
+      "meaning": "to sting/to bite/to urge",
+      "primitives": ["mouth (口)", "nail (丁)"],
+      "layers": {
+        "visual_etymology": "A mouth (口) like a nail (丁) - a STINGING bite!",
+        "sound_bridge": {
+          "pinyin": "dīng",
+          "english_approximation": "Ding",
+          "rhymes_with": ["ring", "sing", "sting"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, piercing"
+        },
+        "pithy_formula": "A mouth sings 'DIIIING!' stinging like a sharp nail."
+      },
+      "story": "The MOUTH (口) becomes a NAIL (丁) and STINGS! It SINGS 'DĪNG!' in a high, piercing note - the sustained whine of a mosquito or bee before it bites! That first tone is the warning buzz!",
+      "bizarreness": {
+        "sensory": "Mosquito whine, sharp pain, itch starting",
+        "absurd_detail": "A mouth with a tiny nail sticking out like a stinger",
+        "action": "Buzzing in circles before striking"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 88,
+      "character": "可",
+      "pinyin": "kě",
+      "tone": 3,
+      "meaning": "can/may/possible",
+      "primitives": ["nail/T (丁)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "A mouth (口) saying something is possible - CAN do it!",
+        "sound_bridge": {
+          "pinyin": "kě",
+          "english_approximation": "Kuh",
+          "rhymes_with": ["huh", "duh", "uh"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, considering, permissive"
+        },
+        "pithy_formula": "A mouth whispers 'Kǔh...' considering if it's possible."
+      },
+      "story": "The MOUTH (口) considers and whispers 'Kě...' - CAN it be done? That dipping third tone is the contemplation of possibility, the thoughtful evaluation before saying yes, you MAY!",
+      "bizarreness": {
+        "sensory": "Chin stroking, hmm sound, mental calculation",
+        "absurd_detail": "The mouth has a tiny thinking cap while pondering",
+        "action": "Scales weighing possibility before nodding approval"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 89,
+      "character": "哥",
+      "pinyin": "gē",
+      "tone": 1,
+      "meaning": "older brother",
+      "primitives": ["can (可)", "can (可)"],
+      "layers": {
+        "visual_etymology": "Two 'can' (可可) stacked - OLDER BROTHER who can do twice as much!",
+        "sound_bridge": {
+          "pinyin": "gē",
+          "english_approximation": "Guh",
+          "rhymes_with": ["huh", "duh"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, affectionate"
+        },
+        "pithy_formula": "Two 'cans' sing 'GUH!' for the capable older brother."
+      },
+      "story": "OLDER BROTHER is TWO 'cans' (可可) stacked - he CAN do everything, TWICE! He SINGS 'GĒ!' in a high, affectionate note - that's what you call him with respect and love! The first tone is the admiration for big bro!",
+      "bizarreness": {
+        "sensory": "Protective presence, looking up, admiration feeling",
+        "absurd_detail": "Older brother literally wearing a cape made of 'CAN' badges",
+        "action": "Standing tall while younger sibling looks up adoringly"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 90,
+      "character": "頂",
+      "pinyin": "dǐng",
+      "tone": 3,
+      "meaning": "top/peak/crest",
+      "primitives": ["nail (丁)", "page/head (頁)"],
+      "layers": {
+        "visual_etymology": "A nail (丁) at the head (頁) - the TOP, the very PEAK!",
+        "sound_bridge": {
+          "pinyin": "dǐng",
+          "english_approximation": "Ding",
+          "rhymes_with": ["ring", "sing", "thing"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, reaching, culminating"
+        },
+        "pithy_formula": "The peak whispers 'Dǐng...' at the very top of the head."
+      },
+      "story": "The NAIL (丁) sits at the very TOP of the HEAD (頁) - the CREST, the PEAK! It whispers 'Dǐng...' in a low, satisfied third tone - I made it to the TOP! That dipping tone is the moment of reaching the summit!",
+      "bizarreness": {
+        "sensory": "Thin air, accomplishment feeling, wind at heights",
+        "absurd_detail": "The nail plants a tiny flag on the bald spot of the head",
+        "action": "Conquering the head-mountain and celebrating at the crown"
+      },
+      "similar_warning": null
+    }
+  ],
+  "narrative_threads": {
+    "description": "Thematic connections for epic story weaving",
+    "blades_and_cutting": {
+      "theme": "The Edge of Steel",
+      "characters": ["刀", "刃", "切", "則", "副"],
+      "connection": "From basic knife to cutting rules and dividing power"
+    },
+    "hands_and_direction": {
+      "theme": "Left and Right",
+      "characters": ["左", "右", "有", "工"],
+      "connection": "The hands that work and possess, left helper and right commander"
+    },
+    "truth_and_clarity": {
+      "theme": "Seeing Straight",
+      "characters": ["直", "真", "具", "置", "昭"],
+      "connection": "What's straight is true, and truth is evident in the light"
+    }
+  }
+}
