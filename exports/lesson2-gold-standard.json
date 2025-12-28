@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "lesson": 2,
+    "title": "Sun, Moon, and Mouth Compounds",
+    "version": "3.0.0 - Gold Standard",
+    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
+    "character_count": 16
+  },
+  "characters": [
+    {
+      "id": 16,
+      "character": "古",
+      "pinyin": "gǔ",
+      "tone": 3,
+      "meaning": "ancient",
+      "primitives": ["十 (ten)", "口 (mouth)"],
+      "sound_bridge": {
+        "pinyin": "gǔ",
+        "approximation": "GOO",
+        "rhymes": ["goo", "who", "boo"]
+      },
+      "etymology": "Ten (十) mouths (口) passing down stories = ancient times",
+      "pithy_formula": "Ten dead mouths GROAN 'Gooo...' from ANCIENT graves.",
+      "story": "I dig up TEN rotting mouths from an ANCIENT burial pit. They GROAN 'Gooo...' in creaky unison - ten generations of the dead, rumbling from deep underground.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "dig up",
+        "tone_verb": "GROAN",
+        "sensory": ["tactile (dig)", "auditory (groan)", "visual (rotting)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 17,
+      "character": "胡",
+      "pinyin": "hú",
+      "tone": 2,
+      "meaning": "recklessly",
+      "primitives": ["古 (ancient)", "月 (flesh radical)"],
+      "sound_bridge": {
+        "pinyin": "hú",
+        "approximation": "HOO",
+        "rhymes": ["who", "boo", "through"]
+      },
+      "etymology": "Ancient (古) + flesh (月) = barbarian/reckless (foreign tribes with beards)",
+      "moon_flesh_note": "月 on the LEFT means FLESH, not moon",
+      "pithy_formula": "Ancient flesh acts RECKLESSLY - I GASP 'HOO?!' at the carnage.",
+      "story": "Ancient rotting FLESH lurches RECKLESSLY through the village. I GASP 'HOO?!' in shock as it crashes through walls, leaving destruction everywhere.",
+      "word_count": 24,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "crashes through",
+        "tone_verb": "GASP",
+        "sensory": ["visual (lurching)", "auditory (crash)", "olfactory (rotting)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 18,
+      "character": "吾",
+      "pinyin": "wú",
+      "tone": 2,
+      "meaning": "I (literary)",
+      "primitives": ["五 (five)", "口 (mouth)"],
+      "sound_bridge": {
+        "pinyin": "wú",
+        "approximation": "WOO",
+        "rhymes": ["who", "boo", "through"]
+      },
+      "etymology": "Five (五) + mouth (口) = I/me (archaic first person)",
+      "pithy_formula": "FIVE fingers point at my MOUTH - I GASP 'WOO?!' It's ME!",
+      "story": "FIVE accusers point at my MOUTH. I GASP 'WOO?!' in shock - they're all pointing at ME! The literary I, singled out, voice rising in startled recognition.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "point at",
+        "tone_verb": "GASP",
+        "sensory": ["visual (pointing)", "kinesthetic (being accused)", "auditory (gasp)"],
+        "chunks": 4
+      },
+      "similar_warning": {
+        "similar_to": "五",
+        "meaning": "five",
+        "repulsion": "吾 has a MOUTH (口) at the bottom (speaking 'I'); 五 is just the number"
+      }
+    },
+    {
+      "id": 19,
+      "character": "朋",
+      "pinyin": "péng",
+      "tone": 2,
+      "meaning": "companion",
+      "primitives": ["月 (moon/shell)", "月 (moon/shell)"],
+      "sound_bridge": {
+        "pinyin": "péng",
+        "approximation": "PUNG",
+        "rhymes": ["among", "lung", "hung"]
+      },
+      "etymology": "Two shells (貝→月) strung together = companions bound by trade",
+      "pithy_formula": "Two moons COLLIDE - I GASP 'PUNG?!' as my COMPANION appears!",
+      "story": "Two moons SMASH together in the sky. I GASP 'PUNG?!' in shock - from the collision emerges my lost COMPANION, rising in the light. We're bound together now.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SMASH together",
+        "tone_verb": "GASP",
+        "sensory": ["visual (moons/light)", "auditory (collision)", "kinesthetic (bound)"],
+        "chunks": 4
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 20,
+      "character": "明",
+      "pinyin": "míng",
+      "tone": 2,
+      "meaning": "bright",
+      "primitives": ["日 (sun)", "月 (moon)"],
+      "sound_bridge": {
+        "pinyin": "míng",
+        "approximation": "MING",
+        "rhymes": ["zing", "bling", "ring"]
+      },
+      "etymology": "Sun (日) + moon (月) together = maximum brightness",
+      "pithy_formula": "Sun SLAMS into moon - I GASP 'MING?!' BLINDED by BRIGHTNESS!",
+      "story": "The SUN SLAMS into the MOON - I GASP 'MING?!' as BLINDING light explodes across my vision. So BRIGHT I stagger backward, voice rising in pure shock.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SLAMS into",
+        "tone_verb": "GASP",
+        "sensory": ["visual (blinding)", "kinesthetic (stagger)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 21,
+      "character": "唱",
+      "pinyin": "chàng",
+      "tone": 4,
+      "meaning": "to sing",
+      "primitives": ["口 (mouth)", "昌 (prosperous)"],
+      "sound_bridge": {
+        "pinyin": "chàng",
+        "approximation": "CHAHNG",
+        "rhymes": ["gong", "wrong", "strong"]
+      },
+      "etymology": "Mouth (口) + prosperous (昌) = to sing (voice brings prosperity)",
+      "pithy_formula": "My MOUTH COMMANDS 'CHAHNG!' - I SING and the crowd obeys.",
+      "story": "I open my MOUTH and COMMAND 'CHAHNG!' - my SINGING voice slices through the air. The crowd falls silent. When I SING, they listen. Sharp, decisive, powerful.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "slices through",
+        "tone_verb": "COMMAND",
+        "sensory": ["auditory (singing)", "kinesthetic (mouth open)", "visual (crowd)"],
+        "chunks": 4
+      },
+      "similar_warning": {
+        "similar_to": "昌",
+        "meaning": "prosperous",
+        "repulsion": "唱 has MOUTH (口) on the left (singing); 昌 is just two suns (prosperity)"
+      }
+    },
+    {
+      "id": 22,
+      "character": "晶",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "sparkling",
+      "primitives": ["日 (sun)", "日 (sun)", "日 (sun)"],
+      "sound_bridge": {
+        "pinyin": "jīng",
+        "approximation": "JING",
+        "rhymes": ["zing", "ring", "bling"]
+      },
+      "etymology": "Three suns (日日日) = maximum sparkle/crystal",
+      "pithy_formula": "THREE suns BLAZE - I SING 'JIIIING!' as SPARKLING light blinds me.",
+      "story": "THREE suns BLAZE above me and I SING 'JIIIING!' in a sustained high note. SPARKLING light pierces my eyes - three sources of pure crystalline radiance, ringing forever.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "pierces",
+        "tone_verb": "SING",
+        "sensory": ["visual (blazing)", "auditory (singing)", "kinesthetic (piercing eyes)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "品",
+        "meaning": "goods/quality",
+        "repulsion": "晶 = three SUNS (sparkling light); 品 = three MOUTHS (tasting goods)"
+      }
+    },
+    {
+      "id": 23,
+      "character": "品",
+      "pinyin": "pǐn",
+      "tone": 3,
+      "meaning": "goods",
+      "primitives": ["口 (mouth)", "口 (mouth)", "口 (mouth)"],
+      "sound_bridge": {
+        "pinyin": "pǐn",
+        "approximation": "PEEN",
+        "rhymes": ["been", "seen", "keen"]
+      },
+      "etymology": "Three mouths (口口口) = tasting/judging goods, quality inspection",
+      "pithy_formula": "THREE zombie mouths GROAN 'Piiin...' tasting rotten GOODS.",
+      "story": "THREE zombie mouths surround me, GROANING 'Piiin...' as they taste the GOODS. Low, creaky voices judging quality. I shudder as their rotting tongues inspect everything.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "taste/inspect",
+        "tone_verb": "GROANING",
+        "sensory": ["visual (mouths)", "auditory (groaning)", "tactile (shudder)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "晶",
+        "meaning": "sparkling",
+        "repulsion": "品 = three MOUTHS (tasting/judging); 晶 = three SUNS (sparkling light)"
+      }
+    },
+    {
+      "id": 24,
+      "character": "昌",
+      "pinyin": "chāng",
+      "tone": 1,
+      "meaning": "prosperous",
+      "primitives": ["日 (sun)", "日 (sun)"],
+      "sound_bridge": {
+        "pinyin": "chāng",
+        "approximation": "CHAHNG",
+        "rhymes": ["gong", "song", "long"]
+      },
+      "etymology": "Two suns (日日) stacked = double light = prosperity",
+      "phonetic_note": "昌 is a GOLD STANDARD phonetic: 猖, 娼, 鲳, 菖 all share this sound",
+      "pithy_formula": "TWO suns stack up - I SING 'CHAAANG!' in PROSPEROUS glory.",
+      "story": "TWO suns stack above my kingdom and I SING 'CHAAANG!' in a high, sustained note. Double light means double PROSPERITY - my voice rings across the wealthy land.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "rings across",
+        "tone_verb": "SING",
+        "sensory": ["visual (suns)", "auditory (singing)", "kinesthetic (glory)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 25,
+      "character": "早",
+      "pinyin": "zǎo",
+      "tone": 3,
+      "meaning": "early",
+      "primitives": ["日 (sun)", "十 (ten/cross)"],
+      "sound_bridge": {
+        "pinyin": "zǎo",
+        "approximation": "DZOW",
+        "rhymes": ["how", "now", "cow"]
+      },
+      "etymology": "Sun (日) above cross/grass (十) = sun rising over plants = early morning",
+      "pithy_formula": "The sun GROANS 'Dzowww...' rising EARLY - even IT hates mornings.",
+      "story": "The sun crawls over the horizon at an EARLY hour, GROANING 'Dzowww...' like a zombie dragging itself to work. Low, creaky, miserable. Even the sun hates getting up this early.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": false,
+        "transitive_verb": "crawls/dragging",
+        "tone_verb": "GROANING",
+        "sensory": ["visual (horizon)", "auditory (groan)", "kinesthetic (dragging)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "旦",
+        "meaning": "daybreak",
+        "repulsion": "早 has sun on TOP (still rising = early); 旦 has sun ABOVE ground line (breaking)"
+      }
+    },
+    {
+      "id": 26,
+      "character": "旭",
+      "pinyin": "xù",
+      "tone": 4,
+      "meaning": "rising sun",
+      "primitives": ["日 (sun)", "九 (nine/hook)"],
+      "sound_bridge": {
+        "pinyin": "xù",
+        "approximation": "SHOO",
+        "rhymes": ["shoe", "flew", "new"]
+      },
+      "etymology": "Sun (日) + nine/hook (九) = sun hooked to the horizon, just rising",
+      "pithy_formula": "The RISING SUN COMMANDS 'SHOO!' - I'm BLASTED awake.",
+      "story": "The RISING SUN hooks over the horizon and COMMANDS 'SHOO!' with explosive force. I'm BLASTED awake, thrown from my bed by the sharp bark of dawn.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "BLASTED/thrown",
+        "tone_verb": "COMMANDS",
+        "sensory": ["visual (sunrise)", "auditory (command)", "kinesthetic (thrown)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 27,
+      "character": "世",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "generation",
+      "primitives": ["three horizontal lines", "curved verticals"],
+      "sound_bridge": {
+        "pinyin": "shì",
+        "approximation": "SHIH",
+        "rhymes": ["she", "free", "key"]
+      },
+      "etymology": "Three decades (三十) connected = 30 years = one generation",
+      "pithy_formula": "Three GENERATIONS BARK 'SHIH!' - ancestors COMMANDING me to remember.",
+      "story": "Three GENERATIONS of ancestors rise behind me and BARK 'SHIH!' in sharp unison. Their voices COMMAND me to remember - I will not forget my lineage.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "COMMAND",
+        "tone_verb": "BARK",
+        "sensory": ["visual (ancestors)", "auditory (bark)", "kinesthetic (rising)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 28,
+      "character": "胃",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "stomach",
+      "primitives": ["田 (field)", "月 (flesh radical)"],
+      "sound_bridge": {
+        "pinyin": "wèi",
+        "approximation": "WAY",
+        "rhymes": ["say", "day", "pay"]
+      },
+      "etymology": "Field (田) + flesh (月) = the field inside your body = stomach",
+      "moon_flesh_note": "月 at the BOTTOM means FLESH (body organ), not moon",
+      "pithy_formula": "The STOMACH COMMANDS 'WAY!' - feed me NOW or suffer.",
+      "story": "My STOMACH ROARS 'WAY!' with a sharp, falling command. The field of flesh inside me demands food NOW. I clutch my gut as it barks orders - feed me or face the pain.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "demands/clutch",
+        "tone_verb": "ROARS/COMMANDS",
+        "sensory": ["kinesthetic (clutch gut)", "auditory (roar)", "visceral (hunger)"],
+        "chunks": 4
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 29,
+      "character": "旦",
+      "pinyin": "dàn",
+      "tone": 4,
+      "meaning": "daybreak",
+      "primitives": ["日 (sun)", "一 (ground/horizon)"],
+      "sound_bridge": {
+        "pinyin": "dàn",
+        "approximation": "DAHN",
+        "rhymes": ["on", "dawn", "gone"]
+      },
+      "etymology": "Sun (日) above horizon line (一) = the moment of daybreak",
+      "pithy_formula": "The sun SMASHES the horizon - DAYBREAK COMMANDS 'DAHN!'",
+      "story": "The sun SMASHES through the horizon line and COMMANDS 'DAHN!' - DAYBREAK explodes into existence. I shield my eyes as the sharp light cuts through darkness.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SMASHES/shield",
+        "tone_verb": "COMMANDS",
+        "sensory": ["visual (sun/light)", "auditory (command)", "kinesthetic (shield eyes)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "早",
+        "meaning": "early",
+        "repulsion": "旦 = sun ABOVE ground line (moment of daybreak); 早 = sun ON cross (still early morning)"
+      }
+    },
+    {
+      "id": 30,
+      "character": "凹",
+      "pinyin": "āo",
+      "tone": 1,
+      "meaning": "concave",
+      "primitives": ["pictograph of depression"],
+      "sound_bridge": {
+        "pinyin": "āo",
+        "approximation": "OW",
+        "rhymes": ["now", "how", "cow"]
+      },
+      "etymology": "Visual pictograph - the character itself shows a depression/dip",
+      "pithy_formula": "I fall into a CONCAVE pit, SINGING 'OWWW!' all the way down.",
+      "story": "I plunge into a CONCAVE pit, SINGING 'OWWW!' in a sustained high note as I fall. The depression swallows me - my voice echoing off the sunken walls forever.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "plunge/swallows",
+        "tone_verb": "SINGING",
+        "sensory": ["kinesthetic (falling)", "auditory (singing/echo)", "visual (pit)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "凸",
+        "meaning": "convex",
+        "repulsion": "凹 has a DIP in the middle (falling in); 凸 has a BUMP in the middle (sticking out)"
+      }
+    },
+    {
+      "id": 31,
+      "character": "凸",
+      "pinyin": "tū",
+      "tone": 1,
+      "meaning": "convex",
+      "primitives": ["pictograph of protrusion"],
+      "sound_bridge": {
+        "pinyin": "tū",
+        "approximation": "TOO",
+        "rhymes": ["two", "who", "through"]
+      },
+      "etymology": "Visual pictograph - the character itself shows a bump/protrusion",
+      "pithy_formula": "I SLAM into a CONVEX bump, SINGING 'TOOO!' as I bounce off.",
+      "story": "I SLAM face-first into a CONVEX bump, SINGING 'TOOO!' as it throws me backward. The protrusion sticks out - my sustained cry echoing as I fly through the air.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SLAM/throws",
+        "tone_verb": "SINGING",
+        "sensory": ["kinesthetic (slam/flying)", "auditory (singing)", "visual (bump)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "凹",
+        "meaning": "concave",
+        "repulsion": "凸 has a BUMP in the middle (sticking out); 凹 has a DIP in the middle (sinking in)"
+      }
+    }
+  ],
+  "lesson_palace": {
+    "location": "The Temple of Light and Shadow",
+    "description": "An ancient temple where celestial bodies collide and echoes never die",
+    "character_stations": {
+      "古": "Burial pit entrance: ten mouths groaning from below",
+      "胡": "Barbarian gate: wild flesh crashes through",
+      "吾": "Accusation hall: five fingers pointing at YOU",
+      "朋": "Twin moon courtyard: companions emerge from collision",
+      "明": "Solar-lunar altar: sun and moon merge in blinding flash",
+      "唱": "Performance stage: commanding voice silences all",
+      "晶": "Crystal chamber: three suns pierce from above",
+      "品": "Inspection room: three mouths taste and judge",
+      "昌": "Prosperity shrine: double suns bless the kingdom",
+      "早": "East dormitory: reluctant sun groans awake",
+      "旭": "Sunrise window: dawn's hook blasts you from sleep",
+      "世": "Ancestor hall: three generations bark commands",
+      "胃": "Dining hall: hungry stomachs roar for food",
+      "旦": "Horizon terrace: sun smashes through ground line",
+      "凹": "Sunken pit: voices echo in the depression",
+      "凸": "Raised platform: bump throws visitors backward"
+    }
+  },
+  "phonetic_patterns": {
+    "gold_standard": {
+      "昌_series": "昌 (chāng) → 猖, 娼, 鲳, 菖 all share this sound - reliable anchor"
+    }
+  },
+  "quality_summary": {
+    "total_characters": 16,
+    "first_person_compliance": "15/16 (94%)",
+    "tone_verb_compliance": "16/16 (100%)",
+    "transitive_verb_compliance": "16/16 (100%)",
+    "average_word_count": 28,
+    "similar_warnings_included": "7 pairs documented",
+    "moon_flesh_notes": "2 characters (胡, 胃) have flesh radical warnings"
+  }
+}
