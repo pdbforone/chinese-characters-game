@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "lesson": 2,
+    "title": "Ancient Times & Light",
+    "version": "2.0.0",
+    "framework": "5-Layer Mnemonic System",
+    "character_count": 16
+  },
+  "characters": [
+    {
+      "id": 16,
+      "character": "古",
+      "pinyin": "gǔ",
+      "tone": 3,
+      "meaning": "ancient",
+      "primitives": ["ten (十)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "Ten (十) mouths (口) passing down stories - that's how ANCIENT knowledge survives.",
+        "sound_bridge": {
+          "pinyin": "gǔ",
+          "english_approximation": "Goo",
+          "rhymes_with": ["goo", "boo", "who"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, contemplative, echoing from the past"
+        },
+        "pithy_formula": "Ten mouths whisper 'Goo...' passing down ancient secrets."
+      },
+      "story": "TEN mouths (十 over 口) have passed down stories through ANCIENT times, each one whispering 'Goo...' softly to the next generation. You can HEAR the echo of centuries in that low, dipping sound - like voices from a dusty tomb. The stories have turned thick and mysterious, like ancient goo seeping through the ages!",
+      "bizarreness": {
+        "sensory": "Dusty tomb smell, echoing whispers, cold stone texture",
+        "absurd_detail": "The mouths are carved into a crumbling stone tablet",
+        "action": "Each mouth passes a glowing orb of knowledge to the next"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 17,
+      "character": "胡",
+      "pinyin": "hú",
+      "tone": 2,
+      "meaning": "recklessly",
+      "primitives": ["ancient (古)", "moon/flesh (月)"],
+      "layers": {
+        "visual_etymology": "Ancient (古) flesh/body (月) acting without thought - behaving RECKLESSLY.",
+        "sound_bridge": {
+          "pinyin": "hú",
+          "english_approximation": "Who",
+          "rhymes_with": ["who", "boo", "true"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, confused, impulsive"
+        },
+        "pithy_formula": "Ancient flesh asks 'WHO cares?' and acts recklessly."
+      },
+      "story": "An ANCIENT body (古 + 月) doesn't think anymore - it just acts RECKLESSLY! It keeps asking 'WHO? Who cares about consequences?' with that rising, questioning tone. The old flesh has forgotten wisdom and now stumbles around wildly, asking 'Hú? Hú?' like a confused owl!",
+      "bizarreness": {
+        "sensory": "Owl hooting, stumbling footsteps, wild wind",
+        "absurd_detail": "An ancient mummy stumbling through a museum asking 'Who?'",
+        "action": "Knocking over priceless vases while shrugging"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 18,
+      "character": "吾",
+      "pinyin": "wú",
+      "tone": 2,
+      "meaning": "I (literary)",
+      "primitives": ["five (五)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "Five (五) above mouth (口) - when I speak, my FIVE senses express 'I'.",
+        "sound_bridge": {
+          "pinyin": "wú",
+          "english_approximation": "Woo",
+          "rhymes_with": ["woo", "true", "you"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, philosophical, self-examining"
+        },
+        "pithy_formula": "Five senses ask through my mouth: 'Woo am I?'"
+      },
+      "story": "FIVE senses (五) speak through the MOUTH (口) below, and together they question: 'Woo? Woo am I?' This is the literary, philosophical 'I' - not just any person, but someone deeply examining their own existence. The rising tone lifts upward like a soul searching for meaning!",
+      "bizarreness": {
+        "sensory": "Incense smoke, silk robes rustling, brush on paper",
+        "absurd_detail": "A scholar's five senses have tiny faces, all asking 'Who am I?'",
+        "action": "Writing poetry while pondering existence"
+      },
+      "similar_warning": {
+        "similar_to": "吴",
+        "meaning": "Wu (surname/kingdom)",
+        "difference": "吾 has 五 (five) on top; 吴 has 口 under 天"
+      }
+    },
+    {
+      "id": 19,
+      "character": "朋",
+      "pinyin": "péng",
+      "tone": 2,
+      "meaning": "companion",
+      "primitives": ["moon (月)", "moon (月)"],
+      "layers": {
+        "visual_etymology": "Two moons (月月) side by side - COMPANIONS traveling together through the night sky.",
+        "sound_bridge": {
+          "pinyin": "péng",
+          "english_approximation": "Pung",
+          "rhymes_with": ["hung", "rung", "among"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, curious about friendship"
+        },
+        "pithy_formula": "Two moons ask 'Peng? Why travel together as companions?'"
+      },
+      "story": "TWO MOONS hang side by side in the night sky, and they ask each other curiously: 'Péng? Why do we travel together?' They're COMPANIONS, always rising and setting in tandem! That questioning second tone rises like the moon itself, wondering about the nature of friendship!",
+      "bizarreness": {
+        "sensory": "Cool night air, silver moonlight doubled, owl calls",
+        "absurd_detail": "The two moons wear matching friendship bracelets",
+        "action": "Orbiting together, occasionally bumping and giggling"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 20,
+      "character": "明",
+      "pinyin": "míng",
+      "tone": 2,
+      "meaning": "bright",
+      "primitives": ["sun (日)", "moon (月)"],
+      "layers": {
+        "visual_etymology": "Sun (日) and moon (月) together - the two BRIGHTEST objects in the sky.",
+        "sound_bridge": {
+          "pinyin": "míng",
+          "english_approximation": "Ming",
+          "rhymes_with": ["ring", "sing", "bling"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, marveling at the light"
+        },
+        "pithy_formula": "Sun and moon ask 'Ming? Why so blindingly bright together?'"
+      },
+      "story": "The SUN (日) and MOON (月) appear together, and they ask in wonder: 'Míng? How can we be so BRIGHT together?' The combined light is blinding! That rising tone lifts like the brilliance itself, questioning how such radiance is possible when day and night unite!",
+      "bizarreness": {
+        "sensory": "Blinding white light, warmth on face, squinting eyes",
+        "absurd_detail": "Sun and moon wearing sunglasses because they're too bright for each other",
+        "action": "High-fiving and creating a supernova of light"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 21,
+      "character": "唱",
+      "pinyin": "chàng",
+      "tone": 4,
+      "meaning": "to sing",
+      "primitives": ["mouth (口)", "prosperous (昌)"],
+      "layers": {
+        "visual_etymology": "Mouth (口) plus prosperity (昌 = two suns) - when you SING, your voice brings prosperity!",
+        "sound_bridge": {
+          "pinyin": "chàng",
+          "english_approximation": "Chahng",
+          "rhymes_with": ["gong", "strong", "song"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, projecting, performing"
+        },
+        "pithy_formula": "A mouth commands 'CHAHNG!' belting out a powerful song."
+      },
+      "story": "Your MOUTH (口) opens wide and COMMANDS the room: 'CHÀNG!' That sharp, falling fourth tone is the sound of a singer projecting their voice to the back row! With two suns' worth of prosperity (昌) behind it, this is no quiet humming - this is BELTING a powerful song!",
+      "bizarreness": {
+        "sensory": "Voice echoing off walls, chest vibrating, spotlight heat",
+        "absurd_detail": "The mouth has a tiny opera cape and conductor's baton",
+        "action": "Shattering wine glasses with the power of the note"
+      },
+      "similar_warning": {
+        "similar_to": "昌",
+        "meaning": "prosperous",
+        "difference": "唱 has 口 (mouth) on the left; 昌 is just two suns stacked"
+      }
+    },
+    {
+      "id": 22,
+      "character": "晶",
+      "pinyin": "jīng",
+      "tone": 1,
+      "meaning": "sparkling",
+      "primitives": ["sun (日)", "sun (日)", "sun (日)"],
+      "layers": {
+        "visual_etymology": "Three suns (日日日) stacked - triple the light means SPARKLING brilliance!",
+        "sound_bridge": {
+          "pinyin": "jīng",
+          "english_approximation": "Jing",
+          "rhymes_with": ["ring", "bling", "ching"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, dazzling"
+        },
+        "pithy_formula": "Three suns sing 'JIIING!' sparkling with crystalline brilliance."
+      },
+      "story": "THREE SUNS (日日日) stack together and SING 'JĪĪĪNG!' in a high, sustained note of pure SPARKLING light! The sound rings out like crystal - that's why crystals are called 晶体 (jīngtǐ)! Each sun adds more sparkle, more bling, more JING!",
+      "bizarreness": {
+        "sensory": "Crystal chime sound, rainbow light refractions, cool gem surface",
+        "absurd_detail": "The three suns are disco balls at a party",
+        "action": "Spinning and casting diamonds of light everywhere"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 23,
+      "character": "品",
+      "pinyin": "pǐn",
+      "tone": 3,
+      "meaning": "goods/products",
+      "primitives": ["mouth (口)", "mouth (口)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "Three mouths (口口口) - many people tasting and evaluating GOODS.",
+        "sound_bridge": {
+          "pinyin": "pǐn",
+          "english_approximation": "Pin",
+          "rhymes_with": ["pin", "bin", "thin"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, evaluating, discerning"
+        },
+        "pithy_formula": "Three mouths whisper 'Pǐn...' carefully tasting the goods."
+      },
+      "story": "THREE MOUTHS (口口口) gather to evaluate GOODS, each one whispering 'Pǐn...' in low, contemplative tones. They're tasting, testing, judging the quality. That third tone dips down like a connoisseur's nod of approval - or disapproval. These mouths are the quality control department!",
+      "bizarreness": {
+        "sensory": "Wine swirling, cheese aroma, fabric texture between fingers",
+        "absurd_detail": "The three mouths wear monocles and hold clipboards",
+        "action": "Scribbling notes and occasionally spitting into buckets"
+      },
+      "similar_warning": {
+        "similar_to": "晶",
+        "meaning": "sparkling",
+        "difference": "品 has three 口 (mouths); 晶 has three 日 (suns)"
+      }
+    },
+    {
+      "id": 24,
+      "character": "昌",
+      "pinyin": "chāng",
+      "tone": 1,
+      "meaning": "prosperous",
+      "primitives": ["sun (日)", "sun (日)"],
+      "layers": {
+        "visual_etymology": "Two suns (日日) stacked - double the sunshine means PROSPERITY!",
+        "sound_bridge": {
+          "pinyin": "chāng",
+          "english_approximation": "Chahng",
+          "rhymes_with": ["gong", "strong", "song"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, celebratory, abundant"
+        },
+        "pithy_formula": "Two suns sing 'CHAAANG!' celebrating prosperity and abundance."
+      },
+      "story": "TWO SUNS (日日) rise together and SING 'CHĀNG!' in celebration of PROSPERITY! When the sun shines twice as bright, crops grow twice as tall, and wealth flows freely. That sustained first tone is the sound of abundance ringing through a thriving kingdom!",
+      "bizarreness": {
+        "sensory": "Warm golden light, coins jingling, harvest feast smells",
+        "absurd_detail": "The two suns are wearing crowns and throwing gold coins",
+        "action": "Blessing the land below with double sunbeams"
+      },
+      "similar_warning": {
+        "similar_to": "唱",
+        "meaning": "to sing",
+        "difference": "昌 is just two suns; 唱 adds 口 (mouth) for singing"
+      }
+    },
+    {
+      "id": 25,
+      "character": "早",
+      "pinyin": "zǎo",
+      "tone": 3,
+      "meaning": "early",
+      "primitives": ["sun (日)", "ten (十)"],
+      "layers": {
+        "visual_etymology": "Sun (日) still at the ten (十) o'clock position - it's EARLY morning!",
+        "sound_bridge": {
+          "pinyin": "zǎo",
+          "english_approximation": "Dzao",
+          "rhymes_with": ["cow", "now", "wow"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, sleepy, just waking"
+        },
+        "pithy_formula": "The sun whispers 'Dzǎo...' still drowsy in early morning."
+      },
+      "story": "The SUN (日) is still low, just at the TEN (十) position on the horizon. It's EARLY! The sun yawns and whispers 'Zǎo...' in a low, sleepy third tone - not ready to fully rise yet. That dipping tone is the sound of someone who was forced awake too soon!",
+      "bizarreness": {
+        "sensory": "Dewy grass smell, rooster crow, cold morning air",
+        "absurd_detail": "The sun is wearing pajamas and clutching a coffee mug",
+        "action": "Peeking over the horizon with half-closed eyes"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 26,
+      "character": "旭",
+      "pinyin": "xù",
+      "tone": 4,
+      "meaning": "rising sun",
+      "primitives": ["sun (日)", "nine (九)"],
+      "layers": {
+        "visual_etymology": "Sun (日) at nine (九) - the sun rises at 9 degrees above the horizon!",
+        "sound_bridge": {
+          "pinyin": "xù",
+          "english_approximation": "Shoo",
+          "rhymes_with": ["shoe", "true", "new"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, bursting, triumphant"
+        },
+        "pithy_formula": "The rising sun commands 'SHOO!' bursting over the horizon."
+      },
+      "story": "The RISING SUN (日 + 九) COMMANDS the darkness: 'XÙ!' - SHOO! Get out of here, night! That sharp fourth tone is the sun's triumphant burst over the horizon, chasing away shadows with authority. Nine degrees up and already taking charge!",
+      "bizarreness": {
+        "sensory": "Sudden warmth, birds erupting in song, shadows fleeing",
+        "absurd_detail": "The sun has a broom and is sweeping away the stars",
+        "action": "Kicking open the door of the sky"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 27,
+      "character": "世",
+      "pinyin": "shì",
+      "tone": 4,
+      "meaning": "generation/world",
+      "primitives": ["three horizontal lines", "vertical line"],
+      "layers": {
+        "visual_etymology": "Three horizontal levels connected by one vertical line - three GENERATIONS linked together.",
+        "sound_bridge": {
+          "pinyin": "shì",
+          "english_approximation": "Shih",
+          "rhymes_with": ["she", "tree", "free"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, definitive, marking time"
+        },
+        "pithy_formula": "Three generations command 'SHIH!' marking each world era."
+      },
+      "story": "THREE horizontal lines represent THREE GENERATIONS, and the vertical line connects them through time. Each generation COMMANDS 'SHÌ!' sharply - marking their era, their WORLD, their moment in history. That falling fourth tone is definitive: this is OUR time!",
+      "bizarreness": {
+        "sensory": "Grandfather's voice, old photographs crackling, incense smoke",
+        "absurd_detail": "Each generation wears different era clothing, arguing about who had it harder",
+        "action": "Passing a glowing torch down the vertical line"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 28,
+      "character": "胃",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "stomach",
+      "primitives": ["field (田)", "flesh/moon (月)"],
+      "layers": {
+        "visual_etymology": "A field (田) inside flesh (月) - your STOMACH is a field where food is processed!",
+        "sound_bridge": {
+          "pinyin": "wèi",
+          "english_approximation": "Way",
+          "rhymes_with": ["way", "say", "day"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, demanding, hungry"
+        },
+        "pithy_formula": "The stomach commands 'WAY! Feed me!' when hungry."
+      },
+      "story": "Your STOMACH is a FIELD (田) of flesh (月) that DEMANDS food! When empty, it COMMANDS 'WÈI!' sharply - WAY! Get out of my way, I need to eat NOW! That falling fourth tone is your hungry stomach's angry growl, ordering you to find food immediately!",
+      "bizarreness": {
+        "sensory": "Stomach growling loudly, hunger pangs, saliva flowing",
+        "absurd_detail": "The stomach has tiny arms reaching out of your belly",
+        "action": "Grabbing food from the table and pulling it in"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 29,
+      "character": "旦",
+      "pinyin": "dàn",
+      "tone": 4,
+      "meaning": "daybreak",
+      "primitives": ["sun (日)", "horizon line (一)"],
+      "layers": {
+        "visual_etymology": "Sun (日) sitting on a line (一) - the sun at the horizon means DAYBREAK!",
+        "sound_bridge": {
+          "pinyin": "dàn",
+          "english_approximation": "Dahn",
+          "rhymes_with": ["don", "on", "John"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, announcing, definitive"
+        },
+        "pithy_formula": "The sun commands 'DAHN!' announcing daybreak at the horizon."
+      },
+      "story": "The SUN (日) sits exactly on the HORIZON line (一) - it's DAYBREAK! The sun COMMANDS 'DÀN!' sharply, announcing the new day has begun. That falling fourth tone is the definitive moment when night officially ends. No more sleeping - the sun has spoken!",
+      "bizarreness": {
+        "sensory": "First ray of light, rooster screaming, cold dew evaporating",
+        "absurd_detail": "The sun is a judge's gavel banging on the horizon",
+        "action": "Cracking the horizon like an egg at breakfast"
+      },
+      "similar_warning": {
+        "similar_to": "早",
+        "meaning": "early",
+        "difference": "旦 has sun on horizon line; 早 has sun above ten (十)"
+      }
+    },
+    {
+      "id": 30,
+      "character": "凹",
+      "pinyin": "āo",
+      "tone": 1,
+      "meaning": "concave",
+      "primitives": ["pictograph of depression/indentation"],
+      "layers": {
+        "visual_etymology": "The character itself IS concave - it dips inward in the middle!",
+        "sound_bridge": {
+          "pinyin": "āo",
+          "english_approximation": "Ow",
+          "rhymes_with": ["ow", "cow", "wow"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, like an echo in a bowl"
+        },
+        "pithy_formula": "A dent sings 'AAOOO!' echoing inside its concave bowl."
+      },
+      "story": "Look at the character - it's literally CONCAVE, dipping inward in the middle! When you sing 'ĀO!' into this bowl-shaped depression, the sound echoes back in a high, sustained note. The shape IS the meaning - a visual dip that sings!",
+      "bizarreness": {
+        "sensory": "Echo bouncing, cool hollow space, smooth curved surface",
+        "absurd_detail": "A tiny opera singer stands in the dent, projecting their voice upward",
+        "action": "Sound waves bouncing around inside the concave space"
+      },
+      "similar_warning": {
+        "similar_to": "凸",
+        "meaning": "convex",
+        "difference": "凹 dips inward (concave); 凸 bumps outward (convex)"
+      }
+    },
+    {
+      "id": 31,
+      "character": "凸",
+      "pinyin": "tū",
+      "tone": 1,
+      "meaning": "convex",
+      "primitives": ["pictograph of protrusion/bump"],
+      "layers": {
+        "visual_etymology": "The character itself IS convex - it bumps outward in the middle!",
+        "sound_bridge": {
+          "pinyin": "tū",
+          "english_approximation": "Too",
+          "rhymes_with": ["too", "boo", "true"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, projecting outward"
+        },
+        "pithy_formula": "A bump sings 'TOOO!' projecting proudly outward."
+      },
+      "story": "Look at the character - it's literally CONVEX, bumping outward in the middle! It sings 'TŪ!' in a high, sustained note, projecting that sound outward just like its shape projects outward. TOO much bump! The shape IS the meaning - a visual bulge!",
+      "bizarreness": {
+        "sensory": "Popping bubble sound, firm rounded surface, springy bounce",
+        "absurd_detail": "The bump is a proud belly that won't be tucked in",
+        "action": "Pushing outward against anything that tries to flatten it"
+      },
+      "similar_warning": {
+        "similar_to": "凹",
+        "meaning": "concave",
+        "difference": "凸 bumps outward (convex); 凹 dips inward (concave)"
+      }
+    }
+  ],
+  "narrative_threads": {
+    "description": "Thematic connections for epic story weaving",
+    "light_and_time": {
+      "theme": "The Dance of Sun and Moon",
+      "characters": ["明", "晶", "昌", "早", "旭", "旦"],
+      "connection": "From daybreak to prosperity, the sun marks all moments of light"
+    },
+    "mouths_and_voices": {
+      "theme": "Speaking and Evaluating",
+      "characters": ["古", "吾", "唱", "品"],
+      "connection": "Mouths that pass down wisdom, question existence, sing, and judge quality"
+    },
+    "shapes": {
+      "theme": "Geometry Made Visual",
+      "characters": ["凹", "凸"],
+      "connection": "The only characters that literally ARE what they mean"
+    }
+  }
+}

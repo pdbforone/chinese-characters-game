@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "lesson": 4,
+    "title": "Shells, Seeing & Structure",
+    "version": "2.0.0",
+    "framework": "5-Layer Mnemonic System",
+    "character_count": 18
+  },
+  "characters": [
+    {
+      "id": 50,
+      "character": "只",
+      "pinyin": "zhǐ",
+      "tone": 3,
+      "meaning": "only/just",
+      "primitives": ["mouth (口)", "eight (八)"],
+      "layers": {
+        "visual_etymology": "A mouth (口) with eight (八) below - ONLY one mouth among eight people!",
+        "sound_bridge": {
+          "pinyin": "zhǐ",
+          "english_approximation": "Jee",
+          "rhymes_with": ["bee", "free", "see"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, limiting, exclusive"
+        },
+        "pithy_formula": "Only one mouth whispers 'Jǐ...' among the eight below."
+      },
+      "story": "Among EIGHT (八) people, ONLY one MOUTH (口) speaks. It whispers 'Zhǐ...' in a low, limiting third tone - ONLY this, JUST this, nothing more. That dipping tone is the sound of restriction, of being the sole exception!",
+      "bizarreness": {
+        "sensory": "Quiet room, single voice echoing, others silent",
+        "absurd_detail": "Seven people have their mouths sewn shut; only one can speak",
+        "action": "The speaking mouth glowing while others fade to gray"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 51,
+      "character": "貝",
+      "pinyin": "bèi",
+      "tone": 4,
+      "meaning": "shellfish/shell (currency)",
+      "primitives": ["eye (目)", "legs (八)"],
+      "layers": {
+        "visual_etymology": "An eye-shaped shell (目) with legs (八) - a SHELLFISH crawling! Shells were ancient money.",
+        "sound_bridge": {
+          "pinyin": "bèi",
+          "english_approximation": "Bay",
+          "rhymes_with": ["bay", "pay", "say"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, valuable, demanding payment"
+        },
+        "pithy_formula": "A shell commands 'BAY! Pay me!' as ancient currency."
+      },
+      "story": "The SHELLFISH crawls on its legs (八) with its shell-eye (目), and it COMMANDS 'BÈI!' sharply - because shells were MONEY in ancient China! That fourth tone is the shell demanding: PAY UP! I'm worth something!",
+      "bizarreness": {
+        "sensory": "Ocean salt smell, shell clicking on ground, coins jingling",
+        "absurd_detail": "The shell wears a banker's visor and counts other shells",
+        "action": "Crawling toward a cash register, demanding to be counted"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 52,
+      "character": "貼",
+      "pinyin": "tiē",
+      "tone": 1,
+      "meaning": "to paste/to stick",
+      "primitives": ["shell (貝)", "fortune-telling (占)"],
+      "layers": {
+        "visual_etymology": "Shell (貝) stuck to divination (占) - like PASTING a lucky charm!",
+        "sound_bridge": {
+          "pinyin": "tiē",
+          "english_approximation": "Tyeh",
+          "rhymes_with": ["yeah", "meh"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, adhesive"
+        },
+        "pithy_formula": "A shell sings 'TYEEE!' sticking firmly like paste."
+      },
+      "story": "You PASTE a shell (貝) charm onto your fortune-telling altar (占), and it SINGS 'TIĒ!' in a high, sustained note as it STICKS firmly! That first tone is the smooth, continuous action of adhesion - press and hold!",
+      "bizarreness": {
+        "sensory": "Glue smell, tacky texture, paper smoothing sound",
+        "absurd_detail": "The shell becomes a sticky note that won't come off",
+        "action": "Pressing flat against a surface and refusing to budge"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 53,
+      "character": "貞",
+      "pinyin": "zhēn",
+      "tone": 1,
+      "meaning": "chaste/virtuous",
+      "primitives": ["divination (卜)", "shell/money (貝)"],
+      "layers": {
+        "visual_etymology": "Divination (卜) and shell/money (貝) - virtue tested by fortune and wealth!",
+        "sound_bridge": {
+          "pinyin": "zhēn",
+          "english_approximation": "Jun",
+          "rhymes_with": ["run", "sun", "fun"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, pure"
+        },
+        "pithy_formula": "Virtue sings 'JUUN!' pure despite money's temptation."
+      },
+      "story": "CHASTE virtue is tested: will you stay pure when MONEY (貝) and FORTUNE (卜) tempt you? The virtuous person SINGS 'ZHĒN!' in a high, sustained note of purity - unmoved by bribes, untainted by greed!",
+      "bizarreness": {
+        "sensory": "White robes, gold coins scattered ignored, incense purity",
+        "absurd_detail": "Money literally bouncing off an invisible force field of virtue",
+        "action": "Shell-coins melting when they touch the pure one's hands"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 54,
+      "character": "員",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "employee/member",
+      "primitives": ["mouth (口)", "shell/money (貝)"],
+      "layers": {
+        "visual_etymology": "A mouth (口) above money (貝) - an EMPLOYEE asking about their paycheck!",
+        "sound_bridge": {
+          "pinyin": "yuán",
+          "english_approximation": "Ywen",
+          "rhymes_with": ["when", "yen", "men"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, inquiring about compensation"
+        },
+        "pithy_formula": "An employee asks 'YWEN? Where is my paycheck?'"
+      },
+      "story": "The EMPLOYEE'S MOUTH (口) hovers above MONEY (貝) and asks with rising curiosity: 'Yuán? Where's my paycheck?' That questioning second tone is every worker on payday, wondering when they'll get paid!",
+      "bizarreness": {
+        "sensory": "Timecard punching, office fluorescent hum, empty wallet feeling",
+        "absurd_detail": "The mouth is chasing coins that keep rolling away",
+        "action": "Standing by the money pile but not allowed to touch it yet"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 55,
+      "character": "見",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "to see",
+      "primitives": ["eye (目)", "legs (儿)"],
+      "layers": {
+        "visual_etymology": "An eye (目) on legs (儿) - walking around to SEE things!",
+        "sound_bridge": {
+          "pinyin": "jiàn",
+          "english_approximation": "Jyen",
+          "rhymes_with": ["yen", "pen", "when"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, demanding attention"
+        },
+        "pithy_formula": "An eye on legs commands 'JYEN! Look at this!' sharply."
+      },
+      "story": "An EYE (目) grows LEGS (儿) and walks around, COMMANDING 'JIÀN! SEE this!' That sharp fourth tone is the urgent demand to witness something important - the eye literally going places to observe!",
+      "bizarreness": {
+        "sensory": "Blinking sound, rapid footsteps, spotlight intensity",
+        "absurd_detail": "The eye wears running shoes and has a magnifying glass",
+        "action": "Sprinting toward interesting things, pupil dilating"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 56,
+      "character": "元",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "origin/dollar/primary",
+      "primitives": ["two (二)", "legs (儿)"],
+      "layers": {
+        "visual_etymology": "Two lines (二) above legs (儿) - the first steps at the BEGINNING of a journey!",
+        "sound_bridge": {
+          "pinyin": "yuán",
+          "english_approximation": "Ywen",
+          "rhymes_with": ["when", "yen", "men"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, wondering about origins"
+        },
+        "pithy_formula": "Two legs ask 'YWEN? Where does it all begin?'"
+      },
+      "story": "TWO legs (儿) take their first steps under the horizon line (二), questioning 'Yuán? Where did this all BEGIN?' That rising second tone is the eternal question about ORIGINS - where does everything start? Also the yuan dollar!",
+      "bizarreness": {
+        "sensory": "Baby's first step wobble, starting line anticipation, dawn light",
+        "absurd_detail": "The legs are standing at a giant 'START' sign",
+        "action": "Taking the first tentative step into the unknown"
+      },
+      "similar_warning": {
+        "similar_to": "員",
+        "meaning": "employee",
+        "difference": "元 is simple two-stroke top; 員 has 口 mouth on top"
+      }
+    },
+    {
+      "id": 57,
+      "character": "頁",
+      "pinyin": "yè",
+      "tone": 4,
+      "meaning": "page/leaf",
+      "primitives": ["one (一)", "self (自)", "legs (八)"],
+      "layers": {
+        "visual_etymology": "A head/face (自) with a crown (一) on legs (八) - the PAGE header at the top!",
+        "sound_bridge": {
+          "pinyin": "yè",
+          "english_approximation": "Yeh",
+          "rhymes_with": ["yeah", "meh", "bleh"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, decisive, turning"
+        },
+        "pithy_formula": "A page commands 'YEH!' sharply when you turn it."
+      },
+      "story": "The PAGE has a header (一) at the top like a crown, and when you turn it, it COMMANDS 'YÈ!' sharply - that's the sound of paper flipping decisively! Each page demands to be read before you move on!",
+      "bizarreness": {
+        "sensory": "Paper crisp sound, book spine cracking, ink smell",
+        "absurd_detail": "The page has a tiny face that yells when turned",
+        "action": "Flipping dramatically like a book trying to get your attention"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 58,
+      "character": "頑",
+      "pinyin": "wán",
+      "tone": 2,
+      "meaning": "stubborn/naughty",
+      "primitives": ["origin (元)", "page/head (頁)"],
+      "layers": {
+        "visual_etymology": "Origin (元) plus head (頁) - a head that won't change from its original position: STUBBORN!",
+        "sound_bridge": {
+          "pinyin": "wán",
+          "english_approximation": "Wahn",
+          "rhymes_with": ["on", "John", "con"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, defiant, challenging"
+        },
+        "pithy_formula": "A stubborn head asks 'WAHN? Why should I change?'"
+      },
+      "story": "A HEAD (頁) stuck at its ORIGIN (元) position asks defiantly: 'Wán? Why should I move?' That rising second tone is the STUBBORN challenge - the refusal to budge, the naughty defiance of a child who won't listen!",
+      "bizarreness": {
+        "sensory": "Feet planted firmly, crossed arms, 'hmph!' sound",
+        "absurd_detail": "The head is literally glued to its original spot",
+        "action": "Turning away dramatically when asked to change"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 59,
+      "character": "凡",
+      "pinyin": "fán",
+      "tone": 2,
+      "meaning": "ordinary/common",
+      "primitives": ["table/container frame"],
+      "layers": {
+        "visual_etymology": "A simple table or frame - the most ORDINARY piece of furniture!",
+        "sound_bridge": {
+          "pinyin": "fán",
+          "english_approximation": "Fahn",
+          "rhymes_with": ["on", "con", "John"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, wondering, unassuming"
+        },
+        "pithy_formula": "An ordinary table asks 'FAHN? Why am I so plain?'"
+      },
+      "story": "An ORDINARY table sits there and asks with a rising sigh: 'Fán? Why am I so plain? So common?' That questioning second tone is the lament of everything average - not special, just regular, nothing extraordinary!",
+      "bizarreness": {
+        "sensory": "Plain wood grain, factory smell, identical copies everywhere",
+        "absurd_detail": "The table is surrounded by fancier furniture looking down on it",
+        "action": "Trying to stand out but looking exactly like all the others"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 60,
+      "character": "肌",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "muscle/flesh",
+      "primitives": ["flesh (月)", "table/bench (几)"],
+      "layers": {
+        "visual_etymology": "Flesh (月) on a bench (几) - MUSCLES being worked out on gym equipment!",
+        "sound_bridge": {
+          "pinyin": "jī",
+          "english_approximation": "Jee",
+          "rhymes_with": ["gee", "bee", "free"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, flexing"
+        },
+        "pithy_formula": "Muscles sing 'JEEE!' flexing proudly on the bench."
+      },
+      "story": "FLESH (月) works out on the bench (几) and SINGS 'JĪ!' in a high, sustained note of pride! Those MUSCLES are flexing and holding the pose, showing off! That first tone is the sustained flex - look at these gains!",
+      "bizarreness": {
+        "sensory": "Gym sweat smell, iron clanking, muscle pump feeling",
+        "absurd_detail": "The muscle has a tiny face, grinning while flexing",
+        "action": "Bouncing pecs rhythmically to the held note"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 61,
+      "character": "負",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "to bear/to lose/negative",
+      "primitives": ["knife/cut (刀)", "shell/money (貝)"],
+      "layers": {
+        "visual_etymology": "A person bent over (刀) carrying shells/money (貝) - BEARING a burden, or losing money!",
+        "sound_bridge": {
+          "pinyin": "fù",
+          "english_approximation": "Foo",
+          "rhymes_with": ["boo", "who", "true"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, heavy, burdened"
+        },
+        "pithy_formula": "A bent back commands 'FOO!' crushed by debt's weight."
+      },
+      "story": "Someone bends over (刀) under the weight of money/debt (貝) and SHOUTS 'FÙ!' sharply - DEFEATED by the burden! That falling fourth tone is the sound of losing, of bearing too much, of going into the NEGATIVE!",
+      "bizarreness": {
+        "sensory": "Heavy weight on shoulders, crushing pressure, gasping breath",
+        "absurd_detail": "Giant coins stacked on the person's back, cracking the spine",
+        "action": "Knees buckling under the weight of financial burden"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 62,
+      "character": "勻",
+      "pinyin": "yún",
+      "tone": 2,
+      "meaning": "even/uniform",
+      "primitives": ["wrap (勹)", "two (二)"],
+      "layers": {
+        "visual_etymology": "Two (二) lines wrapped (勹) evenly - UNIFORM distribution!",
+        "sound_bridge": {
+          "pinyin": "yún",
+          "english_approximation": "Ywen",
+          "rhymes_with": ["tune", "moon", "soon"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, checking for balance"
+        },
+        "pithy_formula": "Two portions ask 'YWEN? Are we perfectly even?'"
+      },
+      "story": "TWO (二) equal portions are WRAPPED (勹) together, questioning 'Yún? Are we UNIFORM? Perfectly EVEN?' That rising second tone is the checking motion - comparing both sides to make sure they're equal!",
+      "bizarreness": {
+        "sensory": "Balance scale tipping, ruler measuring, smooth surface",
+        "absurd_detail": "Two twins wrapped in a blanket checking if they're the same height",
+        "action": "Measuring with precision instruments, nodding when equal"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 63,
+      "character": "句",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "sentence/phrase",
+      "primitives": ["wrap (勹)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "A mouth (口) wrapped up (勹) in words - a complete SENTENCE!",
+        "sound_bridge": {
+          "pinyin": "jù",
+          "english_approximation": "Joo",
+          "rhymes_with": ["true", "boo", "who"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, declarative, final"
+        },
+        "pithy_formula": "A mouth commands 'JOO!' completing the sentence sharply."
+      },
+      "story": "The MOUTH (口) WRAPS UP (勹) its words into a complete SENTENCE and COMMANDS 'JÙ!' sharply - period! End of statement! That falling fourth tone is the finality of a complete thought, the full stop!",
+      "bizarreness": {
+        "sensory": "Gavel bang, period stamping, microphone drop",
+        "absurd_detail": "Words literally wrapping around the mouth like a scarf",
+        "action": "Mouth spitting out a perfectly punctuated sentence that lands with a thud"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 64,
+      "character": "旬",
+      "pinyin": "xún",
+      "tone": 2,
+      "meaning": "ten-day period",
+      "primitives": ["wrap (勹)", "sun (日)"],
+      "layers": {
+        "visual_etymology": "A sun (日) wrapped up (勹) ten times - a TEN-DAY period called a decameron!",
+        "sound_bridge": {
+          "pinyin": "xún",
+          "english_approximation": "Shwen",
+          "rhymes_with": ["when", "yen", "pen"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, wondering about time"
+        },
+        "pithy_formula": "Ten suns ask 'SHWEN? Already ten days gone?'"
+      },
+      "story": "The SUN (日) is WRAPPED (勹) in a cycle of TEN days - a DECAMERON! It asks 'Xún? Has ten days already passed?' That rising second tone is the surprise of time flying - where did that week-and-a-half go?",
+      "bizarreness": {
+        "sensory": "Calendar pages flying, clock spinning, sun rising and setting rapidly",
+        "absurd_detail": "The sun is wrapped in a scroll that unrolls to show ten tick marks",
+        "action": "Ten tiny suns doing a relay race around the character"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 65,
+      "character": "勺",
+      "pinyin": "sháo",
+      "tone": 2,
+      "meaning": "ladle/spoon",
+      "primitives": ["wrap (勹)", "drop (丶)"],
+      "layers": {
+        "visual_etymology": "A wrap/scoop (勹) holding a drop (丶) - that's a LADLE scooping liquid!",
+        "sound_bridge": {
+          "pinyin": "sháo",
+          "english_approximation": "Shao",
+          "rhymes_with": ["cow", "now", "wow"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, curious about contents"
+        },
+        "pithy_formula": "A ladle asks 'SHAO? What am I scooping today?'"
+      },
+      "story": "The LADLE scoops (勹) a DROP (丶) of soup and asks curiously 'Sháo? What delicious thing am I scooping today?' That rising second tone is the anticipation of the first taste - what's in the pot?",
+      "bizarreness": {
+        "sensory": "Soup steam, metal ladle cold then hot, liquid sloshing",
+        "absurd_detail": "The ladle has a tiny nose sniffing its own contents",
+        "action": "Dipping into a pot and emerging with a question mark of steam"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 66,
+      "character": "的",
+      "pinyin": "de",
+      "tone": 5,
+      "meaning": "target/possessive particle",
+      "primitives": ["white (白)", "ladle (勺)"],
+      "layers": {
+        "visual_etymology": "White (白) ladle (勺) - a white bullseye TARGET! Also the most common word in Chinese.",
+        "sound_bridge": {
+          "pinyin": "de",
+          "english_approximation": "Duh",
+          "rhymes_with": ["duh", "huh", "the"]
+        },
+        "tone_emotion": {
+          "tone": 5,
+          "emotion": "neutral",
+          "quality": "light, unstressed, connecting"
+        },
+        "pithy_formula": "The target says 'duh' neutrally, just connecting things."
+      },
+      "story": "A WHITE (白) target with a LADLE (勺) shape in the center - that's the BULLSEYE! But 的 is also the most common word in Chinese, the possessive 'duh' that connects everything. It says 'de' neutrally, casually, just doing its job linking words together!",
+      "bizarreness": {
+        "sensory": "Arrow thwack, white flash, subtle connection feeling",
+        "absurd_detail": "The character is a bored traffic cop directing word flow",
+        "action": "Sitting between words, casually connecting them with a shrug"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 67,
+      "character": "首",
+      "pinyin": "shǒu",
+      "tone": 3,
+      "meaning": "head/chief/first",
+      "primitives": ["hair (丷)", "self (自)"],
+      "layers": {
+        "visual_etymology": "Hair (丷) on top of a nose/self (自) - the HEAD with hair on top!",
+        "sound_bridge": {
+          "pinyin": "shǒu",
+          "english_approximation": "Show",
+          "rhymes_with": ["go", "know", "flow"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, contemplative, leading"
+        },
+        "pithy_formula": "A head whispers 'Shǒu...' contemplating its leadership."
+      },
+      "story": "HAIR (丷) crowns the SELF/nose (自) - that's the HEAD, the CHIEF! It whispers 'Shǒu...' in a low, contemplative third tone - the heavy thoughts of a leader pondering decisions. The head that wears the crown thinks deeply!",
+      "bizarreness": {
+        "sensory": "Hair rustling, heavy crown weight, thinking furrow on brow",
+        "absurd_detail": "The head floats above the body like a balloon tied to the neck",
+        "action": "Hair standing up when important thoughts arrive"
+      },
+      "similar_warning": null
+    }
+  ],
+  "narrative_threads": {
+    "description": "Thematic connections for epic story weaving",
+    "money_and_value": {
+      "theme": "The Economy of Shells",
+      "characters": ["貝", "貼", "貞", "員", "負"],
+      "connection": "Ancient shell money and all the things you can do with wealth"
+    },
+    "wrapping_and_containment": {
+      "theme": "Things Wrapped Up",
+      "characters": ["勻", "句", "旬", "勺", "的"],
+      "connection": "The 勹 radical wrapping around concepts from equality to sentences to time"
+    },
+    "body_and_self": {
+      "theme": "Parts of Being",
+      "characters": ["只", "見", "肌", "頁", "首"],
+      "connection": "From single voice to seeing eyes to flexing muscle to the thinking head"
+    }
+  }
+}

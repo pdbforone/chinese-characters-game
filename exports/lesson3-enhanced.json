@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "lesson": 3,
+    "title": "Self, Color & Direction",
+    "version": "2.0.0",
+    "framework": "5-Layer Mnemonic System",
+    "character_count": 18
+  },
+  "characters": [
+    {
+      "id": 32,
+      "character": "自",
+      "pinyin": "zì",
+      "tone": 4,
+      "meaning": "oneself",
+      "primitives": ["nose (pictograph)"],
+      "layers": {
+        "visual_etymology": "A nose pointing at itself - when you point at yourself, you touch your nose!",
+        "sound_bridge": {
+          "pinyin": "zì",
+          "english_approximation": "Dzih",
+          "rhymes_with": ["see", "be", "free"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, proud, self-asserting"
+        },
+        "pithy_formula": "A nose commands 'DZIH!' pointing sharply at oneself."
+      },
+      "story": "When someone asks 'Who did this?' you point at your NOSE and command 'ZÌ!' - MYSELF! That sharp fourth tone is the proud declaration of taking responsibility. The nose IS the self in Chinese culture - you always point at your nose to say 'me'!",
+      "bizarreness": {
+        "sensory": "Finger tapping nose, proud chest puffing, confident stance",
+        "absurd_detail": "The nose has a tiny 'I did it!' badge pinned to it",
+        "action": "Nose growing slightly larger with pride like reverse Pinocchio"
+      },
+      "similar_warning": {
+        "similar_to": "白",
+        "meaning": "white",
+        "difference": "自 has an extra stroke on top (pointing finger); 白 is simpler"
+      }
+    },
+    {
+      "id": 33,
+      "character": "白",
+      "pinyin": "bái",
+      "tone": 2,
+      "meaning": "white",
+      "primitives": ["sun variant (日) with ray"],
+      "layers": {
+        "visual_etymology": "A sun so bright it bleaches everything WHITE - pure light!",
+        "sound_bridge": {
+          "pinyin": "bái",
+          "english_approximation": "Buy",
+          "rhymes_with": ["buy", "sky", "fly"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, wondering at the brightness"
+        },
+        "pithy_formula": "A bleaching sun asks 'Buy? Why so blindingly white?'"
+      },
+      "story": "The sun burns so hot it bleaches everything WHITE! It asks curiously with a rising tone: 'Bái? Why is everything losing color around me?' That questioning second tone rises like steam from sun-bleached bones in the desert!",
+      "bizarreness": {
+        "sensory": "Blinding light, bleach smell, hot dry air",
+        "absurd_detail": "The sun is accidentally washing the world in a giant washing machine",
+        "action": "Colors fleeing and hiding from the intense whiteness"
+      },
+      "similar_warning": {
+        "similar_to": "自",
+        "meaning": "oneself",
+        "difference": "白 is simpler; 自 has extra stroke on top"
+      }
+    },
+    {
+      "id": 34,
+      "character": "百",
+      "pinyin": "bǎi",
+      "tone": 3,
+      "meaning": "hundred",
+      "primitives": ["one (一)", "white (白)"],
+      "layers": {
+        "visual_etymology": "One (一) above white (白) - one hundred white things lined up!",
+        "sound_bridge": {
+          "pinyin": "bǎi",
+          "english_approximation": "Buy",
+          "rhymes_with": ["buy", "sky", "fly"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, contemplating the magnitude"
+        },
+        "pithy_formula": "One hundred whites whisper 'Bǎi...' in contemplation."
+      },
+      "story": "ONE (一) sits atop WHITE (白), and below are a HUNDRED white sheep to count. You whisper 'Bǎi...' softly, that third tone dipping as you drowsily count them: one hundred sheep... The repetition is meditative, contemplative, sleep-inducing...",
+      "bizarreness": {
+        "sensory": "Soft wool, counting rhythm, droopy eyelids",
+        "absurd_detail": "Each of the hundred sheep wears a number on its back",
+        "action": "Jumping over a fence one by one in slow motion"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 35,
+      "character": "皂",
+      "pinyin": "zào",
+      "tone": 4,
+      "meaning": "soap",
+      "primitives": ["white (白)", "seven (七)"],
+      "layers": {
+        "visual_etymology": "White (白) plus seven (七) - seven ingredients make white soap!",
+        "sound_bridge": {
+          "pinyin": "zào",
+          "english_approximation": "Dzow",
+          "rhymes_with": ["cow", "now", "pow"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, scrubbing, cleansing"
+        },
+        "pithy_formula": "White soap commands 'DZOW!' scrubbing dirt away sharply."
+      },
+      "story": "SOAP is WHITE (白) because it's made of SEVEN (七) pure ingredients! It COMMANDS 'ZÀO!' sharply as it scrubs dirt away. That falling fourth tone is the aggressive scrubbing action - DZOW! DZOW! DZOW! - attacking grime without mercy!",
+      "bizarreness": {
+        "sensory": "Lavender soap smell, bubbles popping, squeaky clean skin",
+        "absurd_detail": "The soap bar has tiny fists punching dirt particles",
+        "action": "Bubbles forming an army that attacks grime"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 36,
+      "character": "中",
+      "pinyin": "zhōng",
+      "tone": 1,
+      "meaning": "middle/center",
+      "primitives": ["box (口)", "arrow through center"],
+      "layers": {
+        "visual_etymology": "An arrow piercing through the exact center of a target!",
+        "sound_bridge": {
+          "pinyin": "zhōng",
+          "english_approximation": "Jong",
+          "rhymes_with": ["gong", "song", "long"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, triumphant bullseye"
+        },
+        "pithy_formula": "An arrow sings 'JOONG!' hitting the middle bullseye."
+      },
+      "story": "An arrow flies straight through the MIDDLE of the target (口) and the crowd SINGS 'ZHŌNG!' in a high, sustained cheer! BULLSEYE! Right in the CENTER! That first tone rings out like a gong celebrating perfect aim - JOONG!",
+      "bizarreness": {
+        "sensory": "Arrow thwack, crowd roar, target vibrating",
+        "absurd_detail": "The arrow wears a tiny gold medal for hitting the exact center",
+        "action": "Bullseye exploding with confetti and fireworks"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 37,
+      "character": "千",
+      "pinyin": "qiān",
+      "tone": 1,
+      "meaning": "thousand",
+      "primitives": ["ten (十) variant", "slanted stroke"],
+      "layers": {
+        "visual_etymology": "Ten (十) with a slant - ten times a hundred equals a THOUSAND!",
+        "sound_bridge": {
+          "pinyin": "qiān",
+          "english_approximation": "Chyen",
+          "rhymes_with": ["yen", "hen", "pen"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, vast multitude"
+        },
+        "pithy_formula": "A thousand marchers sing 'CHYEEN!' in sustained chorus."
+      },
+      "story": "A THOUSAND soldiers march together, and they SING 'QIĀN!' in a high, sustained chorus that echoes across the valley! The slanted stroke is their tilted spears, the cross their formation. That first tone carries across a THOUSAND voices!",
+      "bizarreness": {
+        "sensory": "Synchronized marching, dust clouds, drumbeats",
+        "absurd_detail": "Each soldier is exactly one thousand steps from home",
+        "action": "Spears tilting in unison like a wave across the army"
+      },
+      "similar_warning": {
+        "similar_to": "干",
+        "meaning": "dry/stem",
+        "difference": "千 has slanted top stroke; 干 has flat horizontal top"
+      }
+    },
+    {
+      "id": 38,
+      "character": "舌",
+      "pinyin": "shé",
+      "tone": 2,
+      "meaning": "tongue",
+      "primitives": ["thousand (千)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "A tongue (千) sticking out of a mouth (口) - the thousand things it can taste!",
+        "sound_bridge": {
+          "pinyin": "shé",
+          "english_approximation": "Shuh",
+          "rhymes_with": ["huh", "duh", "what"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, curious about taste"
+        },
+        "pithy_formula": "A tongue asks 'SHUH? What flavor is this?' curiously."
+      },
+      "story": "Your TONGUE (千) sticks out of your MOUTH (口) and asks curiously: 'Shé? What is this flavor?' That rising second tone is the tongue's perpetual curiosity - always questioning, always tasting, always wondering 'what's next?'",
+      "bizarreness": {
+        "sensory": "Sour lemon taste, papery texture, saliva flowing",
+        "absurd_detail": "The tongue wears a tiny detective hat investigating flavors",
+        "action": "Licking the air like a snake sampling scents"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 39,
+      "character": "升",
+      "pinyin": "shēng",
+      "tone": 1,
+      "meaning": "liter/to rise",
+      "primitives": ["rising strokes"],
+      "layers": {
+        "visual_etymology": "Strokes rising upward - like liquid rising in a measuring cup to one LITER!",
+        "sound_bridge": {
+          "pinyin": "shēng",
+          "english_approximation": "Shung",
+          "rhymes_with": ["hung", "sung", "young"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, ascending"
+        },
+        "pithy_formula": "A liter sings 'SHUNG!' rising cheerfully to the top."
+      },
+      "story": "Watch the liquid RISE in the measuring cup, singing 'SHĒNG!' in a high, sustained note as it climbs to exactly one LITER! That first tone stays high and steady - just like the water level rising smoothly to the top mark!",
+      "bizarreness": {
+        "sensory": "Liquid gurgling, glass cup cold, waterline creeping up",
+        "absurd_detail": "The liquid has tiny legs climbing the inside of the cup",
+        "action": "Celebrating with a tiny flag when reaching the 1L mark"
+      },
+      "similar_warning": {
+        "similar_to": "昇",
+        "meaning": "to rise (variant)",
+        "difference": "升 is simpler; 昇 adds 日 (sun) for 'sun rising'"
+      }
+    },
+    {
+      "id": 40,
+      "character": "昇",
+      "pinyin": "shēng",
+      "tone": 1,
+      "meaning": "to rise up",
+      "primitives": ["sun (日)", "rise (升)"],
+      "layers": {
+        "visual_etymology": "Sun (日) plus rise (升) - the sun RISING UP at dawn!",
+        "sound_bridge": {
+          "pinyin": "shēng",
+          "english_approximation": "Shung",
+          "rhymes_with": ["hung", "sung", "young"]
+        },
+        "tone_emotion": {
+          "tone": 1,
+          "emotion": "singing",
+          "quality": "high, sustained, majestic"
+        },
+        "pithy_formula": "The sun sings 'SHUNG!' rising majestically at dawn."
+      },
+      "story": "The SUN (日) RISES UP (升) at dawn, singing 'SHĒNG!' in a high, sustained note of glory! This is the formal, poetic way to describe rising - the sun's majestic ascent. That first tone climbs like the sun itself!",
+      "bizarreness": {
+        "sensory": "Golden rays, warmth spreading, morning dew evaporating",
+        "absurd_detail": "The sun is on an escalator, waving to the stars as they leave",
+        "action": "Clouds parting like curtains for a grand entrance"
+      },
+      "similar_warning": {
+        "similar_to": "升",
+        "meaning": "liter/rise",
+        "difference": "昇 adds 日 (sun) for celestial rising; 升 is the basic form"
+      }
+    },
+    {
+      "id": 41,
+      "character": "丸",
+      "pinyin": "wán",
+      "tone": 2,
+      "meaning": "pill/ball",
+      "primitives": ["nine (九) with dot"],
+      "layers": {
+        "visual_etymology": "A round shape with a dot - a PILL with medicine inside!",
+        "sound_bridge": {
+          "pinyin": "wán",
+          "english_approximation": "Wahn",
+          "rhymes_with": ["on", "con", "John"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, curious, resistant"
+        },
+        "pithy_formula": "A round pill asks 'WAHN? Why must you swallow me?'"
+      },
+      "story": "The little round PILL sits in your palm and asks with rising curiosity: 'Wán? Why must you swallow me?' That second tone rises like your reluctance to take medicine. The dot inside is the bitter medicine core!",
+      "bizarreness": {
+        "sensory": "Bitter taste anticipated, pill rolling in palm, water ready",
+        "absurd_detail": "The pill has tiny eyes looking up at you pleadingly",
+        "action": "Trying to roll away from your mouth"
+      },
+      "similar_warning": {
+        "similar_to": "九",
+        "meaning": "nine",
+        "difference": "丸 has a dot inside (medicine); 九 is open (empty hook)"
+      }
+    },
+    {
+      "id": 42,
+      "character": "卜",
+      "pinyin": "bǔ",
+      "tone": 3,
+      "meaning": "divination",
+      "primitives": ["crack on oracle bone"],
+      "layers": {
+        "visual_etymology": "The crack pattern on oracle bones used for DIVINATION!",
+        "sound_bridge": {
+          "pinyin": "bǔ",
+          "english_approximation": "Boo",
+          "rhymes_with": ["boo", "true", "who"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, mysterious, prophetic"
+        },
+        "pithy_formula": "A cracked bone whispers 'Bǔ...' revealing the future softly."
+      },
+      "story": "The oracle bone CRACKS and whispers 'Bǔ...' in a low, mysterious third tone. Ancient priests heated bones until they cracked, then read the patterns for DIVINATION. That dipping tone is the whisper of fate itself, soft and cryptic!",
+      "bizarreness": {
+        "sensory": "Burning bone smell, fire crackling, smoky cave",
+        "absurd_detail": "The crack forms a tiny fortune cookie message",
+        "action": "Smoke swirling into shapes that tell the future"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 43,
+      "character": "占",
+      "pinyin": "zhàn",
+      "tone": 4,
+      "meaning": "to divine/to occupy",
+      "primitives": ["divination (卜)", "mouth (口)"],
+      "layers": {
+        "visual_etymology": "Mouth (口) speaking divination (卜) - to TELL FORTUNES aloud!",
+        "sound_bridge": {
+          "pinyin": "zhàn",
+          "english_approximation": "Jahn",
+          "rhymes_with": ["on", "con", "John"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, declarative, fateful"
+        },
+        "pithy_formula": "A mouth commands 'JAHN!' proclaiming your fortune sharply."
+      },
+      "story": "The fortune teller's MOUTH (口) reads the DIVINATION (卜) and COMMANDS 'ZHÀN!' sharply - proclaiming your fate! That falling fourth tone is the definitive declaration: your future is DECIDED! No questioning, no negotiating - the fortune has spoken!",
+      "bizarreness": {
+        "sensory": "Crystal ball glow, incense thick, dramatic pause before revelation",
+        "absurd_detail": "The fortune teller's mouth floats separately from their face",
+        "action": "Lightning striking as the fortune is proclaimed"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 44,
+      "character": "上",
+      "pinyin": "shàng",
+      "tone": 4,
+      "meaning": "above/up",
+      "primitives": ["pointing upward indicator"],
+      "layers": {
+        "visual_etymology": "A line with something pointing UP above it - ABOVE!",
+        "sound_bridge": {
+          "pinyin": "shàng",
+          "english_approximation": "Shahng",
+          "rhymes_with": ["gong", "long", "strong"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, directing upward"
+        },
+        "pithy_formula": "An arrow commands 'SHAHNG!' pointing sharply upward."
+      },
+      "story": "An arrow points ABOVE the baseline and COMMANDS 'SHÀNG!' sharply - GO UP! That falling fourth tone is a drill sergeant ordering you to climb, ascend, rise! The small stroke reaches UP above the line, showing the direction clearly!",
+      "bizarreness": {
+        "sensory": "Elevator ding, vertigo feeling, wind from below",
+        "absurd_detail": "A tiny drill sergeant stands on the line yelling 'UP! UP!'",
+        "action": "Arrow physically lifting you off the ground"
+      },
+      "similar_warning": {
+        "similar_to": "下",
+        "meaning": "below/down",
+        "difference": "上 points up; 下 points down (mirror images)"
+      }
+    },
+    {
+      "id": 45,
+      "character": "下",
+      "pinyin": "xià",
+      "tone": 4,
+      "meaning": "below/down",
+      "primitives": ["pointing downward indicator"],
+      "layers": {
+        "visual_etymology": "A line with something pointing DOWN below it - BELOW!",
+        "sound_bridge": {
+          "pinyin": "xià",
+          "english_approximation": "Shyah",
+          "rhymes_with": ["spa", "cha", "la"]
+        },
+        "tone_emotion": {
+          "tone": 4,
+          "emotion": "commanding",
+          "quality": "sharp, directing downward"
+        },
+        "pithy_formula": "An arrow commands 'SHYAH!' pointing sharply downward."
+      },
+      "story": "An arrow points BELOW the baseline and COMMANDS 'XIÀ!' sharply - GO DOWN! That falling fourth tone plunges just like the direction itself. The stroke reaches DOWN below the line, diving toward the ground!",
+      "bizarreness": {
+        "sensory": "Stomach dropping, descent feeling, ground rushing up",
+        "absurd_detail": "A tiny parachuter jumps off the line screaming 'DOWN!'",
+        "action": "Arrow drilling into the earth like a missile"
+      },
+      "similar_warning": {
+        "similar_to": "上",
+        "meaning": "above/up",
+        "difference": "下 points down; 上 points up (mirror images)"
+      }
+    },
+    {
+      "id": 46,
+      "character": "卡",
+      "pinyin": "kǎ",
+      "tone": 3,
+      "meaning": "card/to block",
+      "primitives": ["above (上)", "below (下)"],
+      "layers": {
+        "visual_etymology": "Stuck between above (上) and below (下) - a CARD jammed in the middle!",
+        "sound_bridge": {
+          "pinyin": "kǎ",
+          "english_approximation": "Kah",
+          "rhymes_with": ["spa", "pa", "ah"]
+        },
+        "tone_emotion": {
+          "tone": 3,
+          "emotion": "brooding",
+          "quality": "low, stuck, frustrated"
+        },
+        "pithy_formula": "A card whispers 'Kǎ...' stuck between up and down."
+      },
+      "story": "A CARD is stuck between ABOVE (上) and BELOW (下), and it sighs 'Kǎ...' in a low, frustrated third tone. It can't go up, can't go down - completely BLOCKED! That dipping tone is the defeated sound of being stuck!",
+      "bizarreness": {
+        "sensory": "Paper crumpling, pressure from both sides, claustrophobic",
+        "absurd_detail": "The card has tiny arms pushing against both directions",
+        "action": "Wiggling desperately but making no progress"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 47,
+      "character": "卓",
+      "pinyin": "zhuó",
+      "tone": 2,
+      "meaning": "eminent/outstanding",
+      "primitives": ["above (上)", "early (早)"],
+      "layers": {
+        "visual_etymology": "Rising above (上) the early crowd (早) - being EMINENT and outstanding!",
+        "sound_bridge": {
+          "pinyin": "zhuó",
+          "english_approximation": "Jwoh",
+          "rhymes_with": ["whoa", "no", "go"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, aspiring, ambitious"
+        },
+        "pithy_formula": "An eminent figure asks 'JWOH? Am I outstanding enough?'"
+      },
+      "story": "An EMINENT person rises ABOVE (上) the EARLY (早) risers, questioning with ambition: 'Zhuó? Am I outstanding enough?' That rising second tone is the constant upward aspiration of greatness - always climbing, always asking if they've reached the top!",
+      "bizarreness": {
+        "sensory": "Mountain peak wind, crowd looking up, spotlight from above",
+        "absurd_detail": "Person on a literal pedestal that keeps growing taller",
+        "action": "Shadow stretching longer than everyone else's"
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 48,
+      "character": "朝",
+      "pinyin": "cháo",
+      "tone": 2,
+      "meaning": "dynasty/morning/facing",
+      "primitives": ["ten+early (早)", "moon (月)"],
+      "layers": {
+        "visual_etymology": "Ten days (十) of sun (日) plus moon (月) - the eternal cycle of a DYNASTY!",
+        "sound_bridge": {
+          "pinyin": "cháo",
+          "english_approximation": "Chao",
+          "rhymes_with": ["cow", "now", "wow"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, wondering about time's passage"
+        },
+        "pithy_formula": "Sun and moon ask 'CHAO? How long will our dynasty last?'"
+      },
+      "story": "The SUN rises EARLY and the MOON follows, and together they ask: 'Cháo? How long will our DYNASTY reign?' That rising second tone is the uncertain question every empire faces - how many mornings until the end? The cycle of day and night IS the dynasty's timeline!",
+      "bizarreness": {
+        "sensory": "Throne room echoes, silk curtains rustling, incense for ancestors",
+        "absurd_detail": "Sun and moon wear matching emperor crowns",
+        "action": "Calendar pages flying off showing centuries passing"
+      },
+      "similar_warning": {
+        "similar_to": "嘲",
+        "meaning": "to ridicule",
+        "difference": "朝 is the base; 嘲 adds 口 (mouth) for mocking"
+      }
+    },
+    {
+      "id": 49,
+      "character": "嘲",
+      "pinyin": "cháo",
+      "tone": 2,
+      "meaning": "to ridicule",
+      "primitives": ["mouth (口)", "dynasty (朝)"],
+      "layers": {
+        "visual_etymology": "Mouth (口) mocking a dynasty (朝) - to RIDICULE the rulers!",
+        "sound_bridge": {
+          "pinyin": "cháo",
+          "english_approximation": "Chao",
+          "rhymes_with": ["cow", "now", "wow"]
+        },
+        "tone_emotion": {
+          "tone": 2,
+          "emotion": "questioning",
+          "quality": "rising, mocking, sarcastic"
+        },
+        "pithy_formula": "A mouth asks 'CHAO? You call THAT a dynasty?' mockingly."
+      },
+      "story": "A MOUTH (口) looks at the DYNASTY (朝) and RIDICULES it with a mocking rise: 'Cháo? You call THAT a dynasty?' The questioning second tone drips with sarcasm - the same sound as dynasty, but now twisted into mockery!",
+      "bizarreness": {
+        "sensory": "Laughter echoing, finger pointing, crowd snickering",
+        "absurd_detail": "The mouth wears a jester's hat while insulting the throne",
+        "action": "Dynasty symbols crumbling as the mockery lands"
+      },
+      "similar_warning": {
+        "similar_to": "朝",
+        "meaning": "dynasty",
+        "difference": "嘲 adds 口 (mouth) for mocking; same pronunciation, different meaning"
+      }
+    }
+  ],
+  "narrative_threads": {
+    "description": "Thematic connections for epic story weaving",
+    "self_and_color": {
+      "theme": "Identity and Purity",
+      "characters": ["自", "白", "百", "皂"],
+      "connection": "From pointing at oneself to the color of purity and cleansing"
+    },
+    "direction_and_position": {
+      "theme": "The Vertical Axis",
+      "characters": ["上", "下", "中", "卡", "卓"],
+      "connection": "Up, down, middle, stuck, and rising above"
+    },
+    "divination_and_fate": {
+      "theme": "Reading the Future",
+      "characters": ["卜", "占", "朝", "嘲"],
+      "connection": "From oracle bones to dynasties to mocking what fate brings"
+    }
+  }
+}
