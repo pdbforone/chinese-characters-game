@@ -1,0 +1,537 @@
+{
+  "meta": {
+    "name": "Radical Etymology Reference",
+    "version": "1.0.0",
+    "description": "Historical evolution of the 50 most common radicals from oracle bone to modern forms",
+    "purpose": "Create etymologically ACCURATE mnemonics, not folk etymologies",
+    "key_insight": "The 'Clerical Shift' (lìbiàn) during Han Dynasty flattened pictorial curves into abstract strokes"
+  },
+
+  "critical_disconnects": {
+    "description": "Radicals where modern form is visually disconnected from original meaning - MUST understand these",
+
+    "moon_vs_flesh": {
+      "problem": "月 (moon) and 肉 (flesh) look identical in modern scripts",
+      "moon": {
+        "character": "月",
+        "pinyin": "yuè",
+        "original": "Crescent moon with internal lines representing glow"
+      },
+      "flesh": {
+        "character": "肉 (⺼)",
+        "pinyin": "ròu",
+        "original": "Cut slab of meat showing ribs/muscle texture"
+      },
+      "shift": "Clerical script straightened the 'ribs' of meat to look like 'glow' of moon",
+      "mnemonic_rule": "LEFT or BOTTOM = Flesh (body parts: 肝 liver, 背 back, 胃 stomach). RIGHT = Moon (time/light: 明 bright, 期 period)",
+      "story_implication": "When writing body part mnemonics, describe MEAT/RIBS, not moonlight"
+    },
+
+    "left_ear_vs_right_ear": {
+      "problem": "阝 means two different things based on position",
+      "left_ear": {
+        "character": "阜",
+        "pinyin": "fù",
+        "original": "Vertical steps cut into a cliff / terraced mound",
+        "usage": "Terrain, elevation, obstacles",
+        "examples": ["陵 tomb mound", "阻 obstacle", "陆 land"],
+        "mnemonic": "Left = LADDER (climbing a hill)"
+      },
+      "right_ear": {
+        "character": "邑",
+        "pinyin": "yì",
+        "original": "Kneeling person below a walled enclosure",
+        "usage": "Cities, administration, regions",
+        "examples": ["都 capital", "郡 county", "邦 state"],
+        "mnemonic": "Right = REGION (city limits)"
+      },
+      "story_implication": "Check position before writing story - hill vs city completely different imagery"
+    },
+
+    "walking_radical": {
+      "character": "辶 (辵)",
+      "pinyin": "chuò",
+      "original": "彳 (street/intersection) + 止 (foot/footprint) = foot walking on street",
+      "shift": "Street (彳) reduced to dots, foot (止) smoothed into curved tail",
+      "mnemonic": "Dots are FOOTPRINTS; sweeping tail is the PATH",
+      "story_implication": "Describe walking/footprints, not abstract 'movement'"
+    },
+
+    "four_dots_fire_vs_tail": {
+      "character": "灬",
+      "problem": "Usually fire (火) flattened, BUT for animals it's legs/tail",
+      "fire_usage": {
+        "context": "Cooking, temperature",
+        "examples": ["熱 hot", "煮 boil", "烈 fierce"]
+      },
+      "tail_usage": {
+        "context": "Animals",
+        "examples": ["鳥 bird", "馬 horse", "魚 fish"]
+      },
+      "mnemonic": "Check context: cooking = FIRE, creature = LEGS/TAIL",
+      "story_implication": "Don't describe 馬 (horse) as 'horse on fire' - it's horse with LEGS"
+    }
+  },
+
+  "top_50_radicals": [
+    {
+      "rank": 1,
+      "radical": "水 (氵)",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "oracle_origin": "Sinuous river stream with droplets",
+      "note": "氵 is the spray/droplets of the river",
+      "mnemonic_image": "River with splashing droplets"
+    },
+    {
+      "rank": 2,
+      "radical": "口",
+      "pinyin": "kǒu",
+      "meaning": "mouth",
+      "oracle_origin": "Open mouth (oval/U-shape)",
+      "note": "Became square due to carving difficulty. Distinct from 'Enclosure' (larger square)",
+      "mnemonic_image": "Open screaming mouth"
+    },
+    {
+      "rank": 3,
+      "radical": "手 (扌)",
+      "pinyin": "shǒu",
+      "meaning": "hand",
+      "oracle_origin": "Five fingers + palm/wrist",
+      "note": "扌: Fingers straightened into crossbar; wrist became vertical hook",
+      "mnemonic_image": "Five grasping fingers"
+    },
+    {
+      "rank": 4,
+      "radical": "木",
+      "pinyin": "mù",
+      "meaning": "tree",
+      "oracle_origin": "Trunk with roots and branches",
+      "note": "Top stroke = branches; Bottom diagonals = roots",
+      "mnemonic_image": "Tree with roots digging down, branches reaching up"
+    },
+    {
+      "rank": 5,
+      "radical": "人 (亻)",
+      "pinyin": "rén",
+      "meaning": "person",
+      "oracle_origin": "Profile of a human standing/bowing",
+      "note": "亻: Compressed profile view (single standing line)",
+      "mnemonic_image": "Person in profile, walking forward"
+    },
+    {
+      "rank": 6,
+      "radical": "心 (忄)",
+      "pinyin": "xīn",
+      "meaning": "heart",
+      "oracle_origin": "Physical heart organ with aorta/arteries",
+      "note": "忄: 'Standing heart.' Dots = arteries; Vertical = main chamber",
+      "mnemonic_image": "Beating heart with arteries pumping"
+    },
+    {
+      "rank": 7,
+      "radical": "言 (讠)",
+      "pinyin": "yán",
+      "meaning": "speech",
+      "oracle_origin": "Mouth (口) + tongue/flute/sound mark",
+      "note": "Sound funneling from the mouth",
+      "mnemonic_image": "Words pouring from an open mouth"
+    },
+    {
+      "rank": 8,
+      "radical": "日",
+      "pinyin": "rì",
+      "meaning": "sun",
+      "oracle_origin": "Circle with central dot (sunspot/solid core)",
+      "note": "Became rectangular to fit grid. Dot remains as middle line",
+      "mnemonic_image": "Blazing sun with hot core"
+    },
+    {
+      "rank": 9,
+      "radical": "丝 (糸)",
+      "pinyin": "mì",
+      "meaning": "silk",
+      "oracle_origin": "Skeins of twisted thread",
+      "note": "Bottom dots/lines represent frayed ends of raw silk",
+      "mnemonic_image": "Twisted silk threads with frayed ends"
+    },
+    {
+      "rank": 10,
+      "radical": "肉 (⺼)",
+      "pinyin": "ròu",
+      "meaning": "flesh",
+      "oracle_origin": "Slab of ribs/meat",
+      "note": "DISCONNECTED: Merged visually with Moon. See critical_disconnects",
+      "mnemonic_image": "Raw meat with visible ribs"
+    },
+    {
+      "rank": 11,
+      "radical": "土",
+      "pinyin": "tǔ",
+      "meaning": "earth",
+      "oracle_origin": "Mound of clay on potter's wheel / altar",
+      "note": "Represents ground or raw material",
+      "mnemonic_image": "Mound of clay ready for shaping"
+    },
+    {
+      "rank": 12,
+      "radical": "女",
+      "pinyin": "nǚ",
+      "meaning": "woman",
+      "oracle_origin": "Kneeling figure with arms crossed",
+      "note": "Depicts ancient posture of deference or domestic work",
+      "mnemonic_image": "Kneeling woman with crossed arms"
+    },
+    {
+      "rank": 13,
+      "radical": "草 (艹)",
+      "pinyin": "cǎo",
+      "meaning": "grass",
+      "oracle_origin": "Two sprouts growing (ΨΨ)",
+      "note": "DISCONNECTED: Two sprouts merged into single crossbar in simplified",
+      "mnemonic_image": "Twin green sprouts pushing through soil"
+    },
+    {
+      "rank": 14,
+      "radical": "宀",
+      "pinyin": "mián",
+      "meaning": "roof",
+      "oracle_origin": "Building with high ridgepole/eaves",
+      "note": "The 'chimney' dot is the ridgepole of the house",
+      "mnemonic_image": "Peaked roof with central ridgepole"
+    },
+    {
+      "rank": 15,
+      "radical": "贝 (貝)",
+      "pinyin": "bèi",
+      "meaning": "shell (money)",
+      "oracle_origin": "Cowrie shell (ancient currency)",
+      "note": "Open split of shell shown at bottom",
+      "mnemonic_image": "Cowrie shell used as ancient money"
+    },
+    {
+      "rank": 16,
+      "radical": "辶",
+      "pinyin": "chuò",
+      "meaning": "walk",
+      "oracle_origin": "Road (intersection) + Footprint",
+      "note": "DISCONNECTED: See critical_disconnects.walking_radical",
+      "mnemonic_image": "Footprints trailing along a path"
+    },
+    {
+      "rank": 17,
+      "radical": "火 (灬)",
+      "pinyin": "huǒ",
+      "meaning": "fire",
+      "oracle_origin": "Ascending flames/sparks",
+      "note": "DISCONNECTED: 灬 is base of cooking fire. BUT for animals = legs/tail",
+      "mnemonic_image": "Flames licking upward"
+    },
+    {
+      "rank": 18,
+      "radical": "刀 (刂)",
+      "pinyin": "dāo",
+      "meaning": "knife",
+      "oracle_origin": "Bronze knife/blade",
+      "note": "刂: Vertical view of blade edge and spine",
+      "mnemonic_image": "Gleaming knife blade"
+    },
+    {
+      "rank": 19,
+      "radical": "力",
+      "pinyin": "lì",
+      "meaning": "power",
+      "oracle_origin": "Plough (farming tool)",
+      "note": "Meaning shifted from 'tool' to 'effort' used to wield it",
+      "mnemonic_image": "Farmer straining to push plough"
+    },
+    {
+      "rank": 20,
+      "radical": "又",
+      "pinyin": "yòu",
+      "meaning": "again/right hand",
+      "oracle_origin": "Right hand (grasping) - three fingers",
+      "note": "Often implies repetition",
+      "mnemonic_image": "Right hand reaching again and again"
+    },
+    {
+      "rank": 21,
+      "radical": "金 (钅)",
+      "pinyin": "jīn",
+      "meaning": "metal/gold",
+      "oracle_origin": "Casting mold + ore nuggets",
+      "note": "DISCONNECTED: 钅 is cursive simplification of mold/ore",
+      "mnemonic_image": "Molten metal being cast, gold nuggets"
+    },
+    {
+      "rank": 22,
+      "radical": "衣 (衤)",
+      "pinyin": "yī",
+      "meaning": "clothes",
+      "oracle_origin": "Upper garment/tunic",
+      "note": "衤: Distinct from Spirit (礻). Has 2 dots (folds of cloth), not 1",
+      "mnemonic_image": "Tunic with fabric folds"
+    },
+    {
+      "rank": 23,
+      "radical": "虫",
+      "pinyin": "chóng",
+      "meaning": "insect",
+      "oracle_origin": "Venomous snake (cobra head)",
+      "note": "Originally 'snake,' generalized to all crawling creatures/worms",
+      "mnemonic_image": "Coiled snake/creeping insect"
+    },
+    {
+      "rank": 24,
+      "radical": "阜 (阝 left)",
+      "pinyin": "fù",
+      "meaning": "mound",
+      "oracle_origin": "Terraced hill steps",
+      "note": "LEFT EAR = Terrain, elevation. See critical_disconnects",
+      "mnemonic_image": "Steps carved into hillside"
+    },
+    {
+      "rank": 25,
+      "radical": "邑 (阝 right)",
+      "pinyin": "yì",
+      "meaning": "city",
+      "oracle_origin": "Person + enclosure (city wall)",
+      "note": "RIGHT EAR = Cities, administration. See critical_disconnects",
+      "mnemonic_image": "Walled city with people inside"
+    },
+    {
+      "rank": 26,
+      "radical": "大",
+      "pinyin": "dà",
+      "meaning": "big",
+      "oracle_origin": "Frontal view of man, arms spread",
+      "note": "'Person' is profile; 'Big' is frontal (occupying maximum space)",
+      "mnemonic_image": "Person spreading arms wide - I'M THIS BIG"
+    },
+    {
+      "rank": 27,
+      "radical": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small",
+      "oracle_origin": "Three grains of sand/dust",
+      "note": "Divided, minute particles",
+      "mnemonic_image": "Tiny grains of sand"
+    },
+    {
+      "rank": 28,
+      "radical": "广",
+      "pinyin": "guǎng",
+      "meaning": "shelter",
+      "oracle_origin": "House on cliff / open hall",
+      "note": "Roof + one wall (open structure), unlike 宀 (enclosed)",
+      "mnemonic_image": "Open pavilion on a cliff"
+    },
+    {
+      "rank": 29,
+      "radical": "尸",
+      "pinyin": "shī",
+      "meaning": "corpse",
+      "oracle_origin": "Person sitting (acting as 'medium')",
+      "note": "Originally 'personator' - living representative of dead ancestor at ritual",
+      "mnemonic_image": "Still body, person playing dead in ritual"
+    },
+    {
+      "rank": 30,
+      "radical": "寸",
+      "pinyin": "cùn",
+      "meaning": "inch",
+      "oracle_origin": "Hand with mark at the pulse",
+      "note": "Distance from wrist to pulse = one 'inch' (pulse taking)",
+      "mnemonic_image": "Doctor's fingers on wrist, measuring pulse"
+    },
+    {
+      "rank": 31,
+      "radical": "目",
+      "pinyin": "mù",
+      "meaning": "eye",
+      "oracle_origin": "Eye with pupil/iris",
+      "note": "DISCONNECTED: Rotated 90° vertical; pupil became two middle lines",
+      "mnemonic_image": "Wide-open eye with visible pupil"
+    },
+    {
+      "rank": 32,
+      "radical": "足 (⻊)",
+      "pinyin": "zú",
+      "meaning": "foot",
+      "oracle_origin": "Foot + calf/kneecap",
+      "note": "Top box = kneecap; bottom = foot",
+      "mnemonic_image": "Foot and lower leg, ready to walk"
+    },
+    {
+      "rank": 33,
+      "radical": "田",
+      "pinyin": "tián",
+      "meaning": "field",
+      "oracle_origin": "Grid of irrigation channels",
+      "note": "Pictograph of furrowed farmland",
+      "mnemonic_image": "Flooded rice paddies in grid pattern"
+    },
+    {
+      "rank": 34,
+      "radical": "石",
+      "pinyin": "shí",
+      "meaning": "stone",
+      "oracle_origin": "Cliff + boulder",
+      "note": "A rock falling from/lying under a cliff",
+      "mnemonic_image": "Boulder at base of cliff"
+    },
+    {
+      "rank": 35,
+      "radical": "禾",
+      "pinyin": "hé",
+      "meaning": "grain",
+      "oracle_origin": "Stalk with drooping ear of grain",
+      "note": "'Tree' with heavy top (grain head)",
+      "mnemonic_image": "Grain stalk bowing under weight of harvest"
+    },
+    {
+      "rank": 36,
+      "radical": "竹 (⺮)",
+      "pinyin": "zhú",
+      "meaning": "bamboo",
+      "oracle_origin": "Two stalks with leaves drooping",
+      "note": "DISCONNECTED: ⺮ compresses stalks into small distinct caps",
+      "mnemonic_image": "Bamboo stalks with drooping leaves"
+    },
+    {
+      "rank": 37,
+      "radical": "米",
+      "pinyin": "mǐ",
+      "meaning": "rice",
+      "oracle_origin": "Grains separated by thresher",
+      "note": "Dots represent scattered grains",
+      "mnemonic_image": "Rice grains scattered after threshing"
+    },
+    {
+      "rank": 38,
+      "radical": "疒",
+      "pinyin": "nè",
+      "meaning": "sick",
+      "oracle_origin": "Person sweating on a bed",
+      "note": "Left side = bed; dots = sweat/illness",
+      "mnemonic_image": "Sick person sweating in bed"
+    },
+    {
+      "rank": 39,
+      "radical": "彳",
+      "pinyin": "chì",
+      "meaning": "step",
+      "oracle_origin": "Left half of a crossroad",
+      "note": "Half of the 'walk' intersection. Implies walking/loitering",
+      "mnemonic_image": "Hesitant steps at a crossroad"
+    },
+    {
+      "rank": 40,
+      "radical": "巾",
+      "pinyin": "jīn",
+      "meaning": "cloth",
+      "oracle_origin": "Hanging turban/scarf",
+      "note": "Cloth draped over a rod",
+      "mnemonic_image": "Scarf hanging from a peg"
+    },
+    {
+      "rank": 41,
+      "radical": "方",
+      "pinyin": "fāng",
+      "meaning": "square/direction",
+      "oracle_origin": "Plough handle / raft / bound men",
+      "note": "Complex origin; often associated with 'direction' or 'frontier'",
+      "mnemonic_image": "Square compass pointing in four directions"
+    },
+    {
+      "rank": 42,
+      "radical": "子",
+      "pinyin": "zǐ",
+      "meaning": "child",
+      "oracle_origin": "Infant with large head, swaddled legs",
+      "note": "Pictograph of a baby",
+      "mnemonic_image": "Swaddled baby with big head"
+    },
+    {
+      "rank": 43,
+      "radical": "车 (車)",
+      "pinyin": "chē",
+      "meaning": "car/vehicle",
+      "oracle_origin": "Chariot (aerial view)",
+      "note": "Central box = carriage; top/bottom lines = wheels/axle",
+      "mnemonic_image": "Chariot viewed from above, wheels spinning"
+    },
+    {
+      "rank": 44,
+      "radical": "工",
+      "pinyin": "gōng",
+      "meaning": "work",
+      "oracle_origin": "Carpenter's square or ruled tool",
+      "note": "Tool used for masonry/building",
+      "mnemonic_image": "I-beam or carpenter's square"
+    },
+    {
+      "rank": 45,
+      "radical": "雨",
+      "pinyin": "yǔ",
+      "meaning": "rain",
+      "oracle_origin": "Cloud + falling droplets",
+      "note": "Top line = heaven/sky; dots = rain",
+      "mnemonic_image": "Rain falling from clouds"
+    },
+    {
+      "rank": 46,
+      "radical": "页 (頁)",
+      "pinyin": "yè",
+      "meaning": "head/page",
+      "oracle_origin": "Kneeling man + large head",
+      "note": "Focuses on face/head (distinct from 'flesh' body parts)",
+      "mnemonic_image": "Prominent head on a kneeling figure"
+    },
+    {
+      "rank": 47,
+      "radical": "戈",
+      "pinyin": "gē",
+      "meaning": "spear",
+      "oracle_origin": "Halberd (ancient weapon)",
+      "note": "Pictograph of the dagger-axe",
+      "mnemonic_image": "Ancient halberd / dagger-axe"
+    },
+    {
+      "rank": 48,
+      "radical": "皿",
+      "pinyin": "mǐn",
+      "meaning": "dish",
+      "oracle_origin": "Bowl/platter on a stand",
+      "note": "Container for food",
+      "mnemonic_image": "Serving dish on a pedestal"
+    },
+    {
+      "rank": 49,
+      "radical": "月",
+      "pinyin": "yuè",
+      "meaning": "moon",
+      "oracle_origin": "Crescent moon",
+      "note": "See critical_disconnects.moon_vs_flesh",
+      "mnemonic_image": "Glowing crescent moon"
+    },
+    {
+      "rank": 50,
+      "radical": "走",
+      "pinyin": "zǒu",
+      "meaning": "run",
+      "oracle_origin": "Person running (swinging arms) + foot",
+      "note": "'Person' (top) + 'foot' (bottom). Implies fast motion",
+      "mnemonic_image": "Person sprinting with arms pumping"
+    }
+  ],
+
+  "story_writing_rules": {
+    "use_original_images": "When possible, describe the oracle bone / pictographic origin, not the abstract modern form",
+    "respect_disconnects": "For the 4 critical disconnects, always use etymologically correct imagery",
+    "examples": {
+      "wrong": "The moon radical in 肝 (liver) glows at night",
+      "right": "The meat/ribs radical in 肝 (liver) shows the bloody flesh of the organ"
+    }
+  }
+}
