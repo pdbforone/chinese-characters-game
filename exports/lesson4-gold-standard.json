@@ -1,0 +1,520 @@
+{
+  "meta": {
+    "lesson": 4,
+    "title": "Shells, Seeing, and Wrapped Forms",
+    "version": "3.0.0 - Gold Standard",
+    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
+    "character_count": 18
+  },
+  "characters": [
+    {
+      "id": 50,
+      "character": "只",
+      "pinyin": "zhǐ",
+      "tone": 3,
+      "meaning": "only",
+      "primitives": ["口 (mouth)", "八 (divide)"],
+      "sound_bridge": {
+        "pinyin": "zhǐ",
+        "approximation": "JIH",
+        "rhymes": ["gee", "see", "be"]
+      },
+      "etymology": "Mouth (口) divided (八) = only this one, separated from all others",
+      "pithy_formula": "ONLY one remains - I GROAN 'Jihhh...' alone in the dark.",
+      "story": "ONLY one survivor remains. I GROAN 'Jihhh...' in low, creaky despair - everyone else is gone. Just me, ONLY me, my zombie moan echoing in the emptiness.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "remains",
+        "tone_verb": "GROAN",
+        "sensory": ["auditory (groan)", "emotional (despair)", "spatial (emptiness)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 51,
+      "character": "貝",
+      "pinyin": "bèi",
+      "tone": 4,
+      "meaning": "shellfish/money",
+      "primitives": ["pictograph of cowrie shell"],
+      "sound_bridge": {
+        "pinyin": "bèi",
+        "approximation": "BAY",
+        "rhymes": ["pay", "day", "way"]
+      },
+      "etymology": "Pictograph of a cowrie shell - ancient Chinese currency",
+      "pithy_formula": "I SMASH the SHELL and COMMAND 'BAY!' - pay me NOW!",
+      "story": "I SMASH the cowrie SHELL on the table and COMMAND 'BAY!' - this is money, this is value! The sharp crack demands payment. Ancient currency, violent transaction.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SMASH",
+        "tone_verb": "COMMAND",
+        "sensory": ["auditory (crack)", "tactile (shell)", "visual (money)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 52,
+      "character": "貼",
+      "pinyin": "tiē",
+      "tone": 1,
+      "meaning": "to paste",
+      "primitives": ["貝 (shell)", "占 (divine/stick)"],
+      "sound_bridge": {
+        "pinyin": "tiē",
+        "approximation": "TYEH",
+        "rhymes": ["yeah", "meh"]
+      },
+      "etymology": "Shell (貝) + stick/divine (占) = to paste (shells strung on sticks)",
+      "pithy_formula": "I PASTE shells together, SINGING 'TYEHHH!' as the glue holds.",
+      "story": "I PASTE the shells together on a string, SINGING 'TYEHHH!' in a sustained note. The glue holds, the shells stick - my voice rings out as I thread ancient money.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "PASTE/thread",
+        "tone_verb": "SINGING",
+        "sensory": ["tactile (glue)", "visual (shells)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 53,
+      "character": "貞",
+      "pinyin": "zhēn",
+      "tone": 1,
+      "meaning": "chaste/virtuous",
+      "primitives": ["卜 (divination)", "貝 (shell)"],
+      "sound_bridge": {
+        "pinyin": "zhēn",
+        "approximation": "JEN",
+        "rhymes": ["zen", "pen", "then"]
+      },
+      "etymology": "Divination (卜) + shell (貝) = chaste (pure as oracle reading)",
+      "pithy_formula": "The CHASTE one SINGS 'JENNNN!' - pure as the oracle's truth.",
+      "story": "The CHASTE maiden stands before the oracle, SINGING 'JENNNN!' in a pure, sustained note. Her virtue rings true - the divination shells confirm her purity.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": false,
+        "transitive_verb": "stands/confirm",
+        "tone_verb": "SINGING",
+        "sensory": ["auditory (singing)", "visual (maiden)", "spiritual (purity)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 54,
+      "character": "員",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "employee",
+      "primitives": ["口 (mouth)", "貝 (shell/money)"],
+      "sound_bridge": {
+        "pinyin": "yuán",
+        "approximation": "YWEN",
+        "rhymes": ["when", "pen", "then"]
+      },
+      "etymology": "Mouth (口) + shell/money (貝) = employee (one who is paid)",
+      "pithy_formula": "The EMPLOYEE sees empty pay - I GASP 'YWEN?!' Where's my money?!",
+      "story": "I open my paycheck and GASP 'YWEN?!' in rising shock - the EMPLOYEE has been cheated! My voice climbs upward as I stare at the empty shell. Robbed!",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "open/stare",
+        "tone_verb": "GASP",
+        "sensory": ["visual (paycheck)", "emotional (shock)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "元",
+        "meaning": "beginning",
+        "repulsion": "員 has SHELL (貝) = paid employee; 元 has LEGS (儿) = walking origin"
+      }
+    },
+    {
+      "id": 55,
+      "character": "見",
+      "pinyin": "jiàn",
+      "tone": 4,
+      "meaning": "to see",
+      "primitives": ["目 (eye)", "儿 (legs)"],
+      "sound_bridge": {
+        "pinyin": "jiàn",
+        "approximation": "JYEN",
+        "rhymes": ["yen", "when", "then"]
+      },
+      "etymology": "Eye (目) on legs (儿) = to see (walking eye, actively looking)",
+      "pithy_formula": "I SEE the horror and COMMAND 'JYEN!' - look at THIS!",
+      "story": "My eyes on legs march forward - I SEE the carnage and COMMAND 'JYEN!' with a sharp bark. LOOK at this! The seeing is violent, the command absolute.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SEE/march",
+        "tone_verb": "COMMAND",
+        "sensory": ["visual (carnage)", "kinesthetic (marching)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 56,
+      "character": "元",
+      "pinyin": "yuán",
+      "tone": 2,
+      "meaning": "beginning/origin",
+      "primitives": ["二 (two)", "儿 (legs)"],
+      "sound_bridge": {
+        "pinyin": "yuán",
+        "approximation": "YWEN",
+        "rhymes": ["when", "pen", "then"]
+      },
+      "etymology": "Two (二) + legs (儿) = beginning (first steps, primal origin)",
+      "pithy_formula": "At the BEGINNING I GASP 'YWEN?!' - where did it all start?!",
+      "story": "I stumble upon the BEGINNING of everything and GASP 'YWEN?!' in rising awe. The origin point! My voice climbs as I witness the first moment of creation.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "stumble upon/witness",
+        "tone_verb": "GASP",
+        "sensory": ["visual (origin)", "emotional (awe)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "員",
+        "meaning": "employee",
+        "repulsion": "元 has LEGS (儿) = walking origin; 員 has SHELL (貝) = paid worker"
+      }
+    },
+    {
+      "id": 57,
+      "character": "頁",
+      "pinyin": "yè",
+      "tone": 4,
+      "meaning": "page/head",
+      "primitives": ["head variant", "八 (divide)"],
+      "sound_bridge": {
+        "pinyin": "yè",
+        "approximation": "YEH",
+        "rhymes": ["yeah", "meh"]
+      },
+      "etymology": "Head radical - pages are 'heads' of documents",
+      "pithy_formula": "I RIP the PAGE and COMMAND 'YEH!' - turn it NOW!",
+      "story": "I RIP the PAGE from the book and COMMAND 'YEH!' with sharp force. The paper tears - a head removed from the body of text. Decisive, violent reading.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "RIP/tears",
+        "tone_verb": "COMMAND",
+        "sensory": ["tactile (tearing)", "auditory (command)", "visual (paper)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "首",
+        "meaning": "head",
+        "repulsion": "頁 = page/document head (flat top); 首 = physical head (with hair strokes)"
+      }
+    },
+    {
+      "id": 58,
+      "character": "頑",
+      "pinyin": "wán",
+      "tone": 2,
+      "meaning": "stubborn",
+      "primitives": ["元 (origin)", "頁 (head)"],
+      "sound_bridge": {
+        "pinyin": "wán",
+        "approximation": "WAHN",
+        "rhymes": ["on", "gone", "swan"]
+      },
+      "etymology": "Origin (元) + head (頁) = stubborn (hard-headed from the start)",
+      "pithy_formula": "The STUBBORN head won't move - I GASP 'WAHN?!' in shock!",
+      "story": "I push the STUBBORN head but it won't budge. I GASP 'WAHN?!' in rising frustration - hard-headed from birth! My voice climbs as I strain against immovable will.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "push/strain",
+        "tone_verb": "GASP",
+        "sensory": ["kinesthetic (pushing)", "emotional (frustration)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 59,
+      "character": "凡",
+      "pinyin": "fán",
+      "tone": 2,
+      "meaning": "ordinary",
+      "primitives": ["vessel/table shape"],
+      "sound_bridge": {
+        "pinyin": "fán",
+        "approximation": "FAHN",
+        "rhymes": ["on", "gone", "dawn"]
+      },
+      "etymology": "Simple vessel shape = ordinary, common, nothing special",
+      "pithy_formula": "Just ORDINARY - I GASP 'FAHN?!' Am I really this plain?!",
+      "story": "I look in the mirror and GASP 'FAHN?!' in rising dismay - just ORDINARY! Nothing special, nothing unique. My voice climbs with the shock of being utterly common.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "look",
+        "tone_verb": "GASP",
+        "sensory": ["visual (mirror)", "emotional (dismay)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 60,
+      "character": "肌",
+      "pinyin": "jī",
+      "tone": 1,
+      "meaning": "muscle",
+      "primitives": ["月 (flesh)", "几 (table/frame)"],
+      "sound_bridge": {
+        "pinyin": "jī",
+        "approximation": "JEE",
+        "rhymes": ["see", "free", "key"]
+      },
+      "etymology": "Flesh (月) on frame (几) = muscle (meat on bones)",
+      "moon_flesh_note": "月 on the LEFT means FLESH, not moon",
+      "pithy_formula": "I FLEX my MUSCLE and SING 'JEEE!' - feel this power!",
+      "story": "I FLEX my MUSCLE and SING 'JEEE!' in a sustained high note. The flesh ripples over the frame of bone - raw power, sustained glory, my voice matching the display.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "FLEX/ripples",
+        "tone_verb": "SING",
+        "sensory": ["kinesthetic (flexing)", "visual (muscle)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 61,
+      "character": "負",
+      "pinyin": "fù",
+      "tone": 4,
+      "meaning": "defeated/carry burden",
+      "primitives": ["刀 (knife/burden on back)", "貝 (shell/money)"],
+      "sound_bridge": {
+        "pinyin": "fù",
+        "approximation": "FOO",
+        "rhymes": ["boo", "who", "through"]
+      },
+      "etymology": "Burden/knife on shell = defeated (lost money), carrying debt on back",
+      "pithy_formula": "DEFEATED, I COMMAND 'FOO!' as the debt crushes my back!",
+      "story": "I collapse under the weight of debt - DEFEATED! I COMMAND 'FOO!' with a sharp bark of rage. The shell-money I owe crushes my spine. Lost, burdened, broken.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "collapse/crushes",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (crushing)", "emotional (rage)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 62,
+      "character": "勻",
+      "pinyin": "yún",
+      "tone": 2,
+      "meaning": "uniform/even",
+      "primitives": ["勹 (wrap)", "二 (two)"],
+      "sound_bridge": {
+        "pinyin": "yún",
+        "approximation": "YOON",
+        "rhymes": ["moon", "soon", "tune"]
+      },
+      "etymology": "Wrap (勹) + two (二) = uniform (evenly wrapped/distributed)",
+      "pithy_formula": "Everything UNIFORM - I GASP 'YOON?!' at perfect equality!",
+      "story": "I spread the paint and GASP 'YOON?!' in rising surprise - it's perfectly UNIFORM! Every inch identical, every surface even. My voice rises at impossible equality.",
+      "word_count": 26,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "spread",
+        "tone_verb": "GASP",
+        "sensory": ["tactile (paint)", "visual (uniform)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 63,
+      "character": "句",
+      "pinyin": "jù",
+      "tone": 4,
+      "meaning": "sentence",
+      "primitives": ["勹 (wrap)", "口 (mouth)"],
+      "sound_bridge": {
+        "pinyin": "jù",
+        "approximation": "JOO",
+        "rhymes": ["zoo", "boo", "through"]
+      },
+      "etymology": "Wrap (勹) + mouth (口) = sentence (words wrapped by mouth)",
+      "pithy_formula": "I SPIT the SENTENCE out and COMMAND 'JOO!' - hear my words!",
+      "story": "I SPIT the SENTENCE out like a weapon, COMMANDING 'JOO!' with sharp finality. Words wrapped tight, launched from my mouth - the sentence lands like a verdict.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "SPIT/lands",
+        "tone_verb": "COMMANDING",
+        "sensory": ["kinesthetic (spitting)", "auditory (command)", "visual (words)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "旬",
+        "meaning": "ten days",
+        "repulsion": "句 wraps MOUTH (口) = sentence; 旬 wraps SUN (日) = ten days"
+      }
+    },
+    {
+      "id": 64,
+      "character": "旬",
+      "pinyin": "xún",
+      "tone": 2,
+      "meaning": "ten days/decade",
+      "primitives": ["勹 (wrap)", "日 (sun/day)"],
+      "sound_bridge": {
+        "pinyin": "xún",
+        "approximation": "SHOON",
+        "rhymes": ["moon", "soon", "tune"]
+      },
+      "etymology": "Wrap (勹) + sun/day (日) = ten days (wrapped period of time)",
+      "pithy_formula": "TEN DAYS vanish - I GASP 'SHOON?!' Where did time go?!",
+      "story": "TEN DAYS have vanished in a blink. I GASP 'SHOON?!' in rising panic - where did the time go?! A wrapped bundle of suns, stolen from my life.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "vanished/stolen",
+        "tone_verb": "GASP",
+        "sensory": ["temporal (time loss)", "emotional (panic)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "句",
+        "meaning": "sentence",
+        "repulsion": "旬 wraps SUN (日) = ten days; 句 wraps MOUTH (口) = sentence"
+      }
+    },
+    {
+      "id": 65,
+      "character": "勺",
+      "pinyin": "sháo",
+      "tone": 2,
+      "meaning": "ladle",
+      "primitives": ["勹 (wrap/scoop)", "丶 (dot/contents)"],
+      "sound_bridge": {
+        "pinyin": "sháo",
+        "approximation": "SHAO",
+        "rhymes": ["now", "how", "cow"]
+      },
+      "etymology": "Scoop shape (勹) with contents (丶) = ladle",
+      "pithy_formula": "I scoop with the LADLE and GASP 'SHAO?!' - what IS this?!",
+      "story": "I scoop with the LADLE and GASP 'SHAO?!' in rising horror - what IS this slime?! The contents drip, my voice climbing with each viscous drop.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "scoop/drip",
+        "tone_verb": "GASP",
+        "sensory": ["tactile (scooping)", "visual (slime)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 66,
+      "character": "的",
+      "pinyin": "de",
+      "tone": 5,
+      "meaning": "possessive particle / bull's eye",
+      "primitives": ["白 (white)", "勺 (ladle)"],
+      "sound_bridge": {
+        "pinyin": "de",
+        "approximation": "DUH",
+        "rhymes": ["the", "uh"]
+      },
+      "etymology": "White (白) + ladle (勺) = bull's eye (white center of target)",
+      "pithy_formula": "The arrow hits the BULL'S EYE - I mutter 'duh' - obvious shot.",
+      "story": "The arrow strikes the white center - BULL'S EYE. I mutter 'duh' with neutral indifference. Of course it hit. The possessive particle of victory, unstressed, thrown away.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "strikes",
+        "tone_verb": "mutter (neutral)",
+        "sensory": ["visual (target)", "kinesthetic (arrow)", "auditory (mutter)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 67,
+      "character": "首",
+      "pinyin": "shǒu",
+      "tone": 3,
+      "meaning": "head",
+      "primitives": ["hair strokes", "自 (self/nose)"],
+      "sound_bridge": {
+        "pinyin": "shǒu",
+        "approximation": "SHOW",
+        "rhymes": ["go", "low", "so"]
+      },
+      "etymology": "Hair on top of self/nose = head (top of the body)",
+      "pithy_formula": "The severed HEAD GROANS 'Showww...' from the basket.",
+      "story": "The severed HEAD rolls into the basket and GROANS 'Showww...' in low, creaky agony. Hair matted, eyes open - the zombie head moans from deep in its throat.",
+      "word_count": 27,
+      "quality_check": {
+        "first_person": false,
+        "transitive_verb": "rolls/moans",
+        "tone_verb": "GROANS",
+        "sensory": ["visual (severed head)", "auditory (groan)", "tactile (basket)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "頁",
+        "meaning": "page",
+        "repulsion": "首 = physical head (hair strokes on top); 頁 = document head (flat top)"
+      }
+    }
+  ],
+  "lesson_palace": {
+    "location": "The Merchant's Counting House",
+    "description": "An ancient trading post where shells are currency and debts are paid in blood",
+    "character_stations": {
+      "只": "Isolation cell: only one prisoner remains",
+      "貝": "Treasury vault: cowrie shells piled high",
+      "貼": "Craftsman's bench: shells pasted onto strings",
+      "貞": "Oracle chamber: chaste maiden before the shells",
+      "員": "Payroll office: employees check empty envelopes",
+      "見": "Watchtower: eyes on legs patrol the grounds",
+      "元": "Genesis room: the origin point of all trade",
+      "頁": "Archive: pages torn from ancient ledgers",
+      "頑": "Negotiation room: stubborn heads refuse to deal",
+      "凡": "Common quarters: ordinary workers sleep here",
+      "肌": "Training yard: muscles flex and shine",
+      "負": "Debtor's pit: the defeated carry crushing loads",
+      "勻": "Measurement room: everything weighed equally",
+      "句": "Proclamation hall: sentences commanded aloud",
+      "旬": "Calendar wall: ten-day periods marked off",
+      "勺": "Kitchen: ladles scoop mysterious contents",
+      "的": "Target range: arrows strike white centers",
+      "首": "Trophy room: severed heads in baskets"
+    }
+  },
+  "quality_summary": {
+    "total_characters": 18,
+    "first_person_compliance": "16/18 (89%)",
+    "tone_verb_compliance": "18/18 (100%)",
+    "transitive_verb_compliance": "18/18 (100%)",
+    "average_word_count": 28,
+    "similar_warnings_included": "5 pairs documented",
+    "moon_flesh_notes": "1 character (肌) has flesh radical warning",
+    "neutral_tone": "1 character (的) uses T5 neutral/mumbled"
+  }
+}
