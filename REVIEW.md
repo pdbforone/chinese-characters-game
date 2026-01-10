@@ -9,21 +9,25 @@ Transform isolated character mnemonics into **epic lesson narratives** — cohes
 ## What We've Accomplished
 
 ### 1. Thematic Analysis
+
 Mapped all 56 lessons and identified their narrative DNA:
+
 - **Elemental lessons**: Water, Fire, Trees, Mountains
 - **Human lessons**: Family, Royalty, Commerce, War
 - **Action lessons**: Hands, Walking, Building
 - **Abstract lessons**: Time, Emotion, Language
 
 ### 2. Prototype Stories (4 Complete)
-| Lesson | Title | Theme | Characters |
-|--------|-------|-------|------------|
-| 1 | "The Mouth That Counted the Universe" | Creation myth | 15 chars |
-| 8 | "The Flood and the Fire" | Elemental battle | 46 chars |
-| 18 | "The Day the Sky Wore Clothes" | Fashion + Storm | 72 chars |
-| 22 | "A Hand's Day" | Action verbs | 86 chars |
+
+| Lesson | Title                                 | Theme            | Characters |
+| ------ | ------------------------------------- | ---------------- | ---------- |
+| 1      | "The Mouth That Counted the Universe" | Creation myth    | 15 chars   |
+| 8      | "The Flood and the Fire"              | Elemental battle | 46 chars   |
+| 18     | "The Day the Sky Wore Clothes"        | Fashion + Storm  | 72 chars   |
+| 22     | "A Hand's Day"                        | Action verbs     | 86 chars   |
 
 ### 3. Story Framework
+
 ```
 Opening Hook → Rising Action → Conflict → Climax → Resolution → Echo
 ```
@@ -35,39 +39,47 @@ Techniques: personification, cause & effect, contrast pairs, absurdist humor, pi
 ## Proposed Next Steps
 
 ### Phase 1: Complete All 56 Lesson Stories
+
 **Goal**: Draft narratives for every lesson
 
 **Approach Options**:
 
 #### Option A: Sequential Crafting
+
 - Work through lessons 1-56 in order
 - Ensure narrative callbacks between lessons
 - Build a meta-story across the entire curriculum
 
 #### Option B: Thematic Clusters
+
 - Group similar lessons and craft together
 - Water lessons (8, 23), Family lessons (6, 26, 27), etc.
 - Ensures consistent voice within themes
 
 #### Option C: Parallel Generation
+
 - Use multiple AI models simultaneously
 - Claude for character-driven drama
 - Gemini for different creative perspectives
 - Compare and synthesize best elements
 
 ### Phase 2: Pinyin Integration
+
 **Goal**: Weave pronunciation cues into stories
 
 **Ideas**:
+
 - Sound-alike English words as characters speak
-- "The stream (川, chuān) went *choo-choo*"
+- "The stream (川, chuān) went _choo-choo_"
 - Tone indicators through emotion (Tone 4 = angry/sharp, Tone 2 = questioning)
 - Recurring character voices that match their pinyin
 
 ### Phase 3: Condensed Versions
+
 **Goal**: One-paragraph summaries for quick review
 
 **Format**:
+
 ```
 LESSON 8: The Flood and the Fire
 Waters flowed through the state, demanding eternity. They washed
@@ -76,17 +88,21 @@ but dawn finally illuminated the fish swimming in calm waters.
 ```
 
 ### Phase 4: Cross-Reference Integration
+
 **Goal**: Link lesson stories to individual character stories
 
 **Implementation**:
+
 - Add "Lesson Story Reference" field to each character entry
 - Ensure individual mnemonics reinforce lesson narrative
 - No contradictions between story layers
 
 ### Phase 5: Testing & Refinement
+
 **Goal**: Validate memorability with actual learners
 
 **Methods**:
+
 - A/B testing: lesson stories vs. individual mnemonics only
 - Recall tests after 1 day, 1 week, 1 month
 - Gather qualitative feedback on story engagement
@@ -97,15 +113,15 @@ but dawn finally illuminated the fish swimming in calm waters.
 
 ### Where Gemini Might Excel
 
-| Task | Why Gemini | How to Use |
-|------|------------|------------|
-| **Bulk Story Generation** | Larger context window, can hold full lesson + constraints | Generate first drafts for all 52 remaining lessons |
-| **Alternative Perspectives** | Different training, different creativity | Generate alternate versions of prototype stories for comparison |
-| **Cultural Research** | Strong factual knowledge | Research authentic Chinese cultural elements to weave into stories |
-| **Consistency Checking** | Good at pattern matching | Review all stories for consistency in tone, character usage |
-| **Pinyin Sound Patterns** | Pattern recognition | Find English words/phrases that phonetically match pinyin |
-| **Story Compression** | Summarization strength | Create condensed versions of full stories |
-| **Translation Validation** | Multilingual capability | Verify character meanings and cultural nuances |
+| Task                         | Why Gemini                                                | How to Use                                                         |
+| ---------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Bulk Story Generation**    | Larger context window, can hold full lesson + constraints | Generate first drafts for all 52 remaining lessons                 |
+| **Alternative Perspectives** | Different training, different creativity                  | Generate alternate versions of prototype stories for comparison    |
+| **Cultural Research**        | Strong factual knowledge                                  | Research authentic Chinese cultural elements to weave into stories |
+| **Consistency Checking**     | Good at pattern matching                                  | Review all stories for consistency in tone, character usage        |
+| **Pinyin Sound Patterns**    | Pattern recognition                                       | Find English words/phrases that phonetically match pinyin          |
+| **Story Compression**        | Summarization strength                                    | Create condensed versions of full stories                          |
+| **Translation Validation**   | Multilingual capability                                   | Verify character meanings and cultural nuances                     |
 
 ### Proposed Gemini Workflow
 
@@ -166,10 +182,10 @@ but dawn finally illuminated the fish swimming in calm waters.
 
 ## Files Created
 
-| File | Purpose |
-|------|---------|
+| File                | Purpose                                                  |
+| ------------------- | -------------------------------------------------------- |
 | `lesson_stories.md` | Full thematic analysis + 4 prototype stories + framework |
-| `DIRECTION.md` | This document - project direction and ideas |
+| `DIRECTION.md`      | This document - project direction and ideas              |
 
 ---
 
@@ -178,6 +194,7 @@ but dawn finally illuminated the fish swimming in calm waters.
 **Recommendation**: Start with Gemini experiment #1 — generate alternative story hooks for 5 lessons to compare creative approaches. Then use Claude to refine the best ones.
 
 This gives us:
+
 - Speed (Gemini bulk generation)
 - Quality (Claude refinement)
 - Options (multiple approaches to choose from)
