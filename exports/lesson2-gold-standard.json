@@ -1,10 +1,22 @@
 {
-  "meta": {
-    "lesson": 2,
-    "title": "Sun, Moon, and Mouth Compounds",
-    "version": "3.0.0 - Gold Standard",
-    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
-    "character_count": 16
+  "lesson": 2,
+  "title": "The Ancient Singer of Dawn",
+  "theme": "Before there was music, an ancient fool invented singing - and the universe learned to listen",
+  "memory_palace": "The Temple of First Song",
+  "narrative_arc": "Ancient fool awakens → Acts recklessly → Discovers self → Finds companion → Light emerges → First song → Commerce begins → Time passes → Geography forms",
+  "narrative_story": "Before there was music, an ancient fool with wild whiskers opened his mouth and invented singing. He was ANCIENT — older than stone, older than memory. He had been alone so long he'd forgotten why. So he acted RECKLESSLY, without thought, without plan. 'I,' he said aloud, testing the word. 'I am.' But being alone is not the same as being. He needed a COMPANION — two moons standing side by side. When the companion arrived, the darkness between them grew BRIGHT — sun and moon together. In that brightness, the ancient one opened his mouth TO SING. The first song. The sound scattered into the darkness and returned as SPARKLING light — three suns dancing. Other beings emerged, bringing GOODS — three mouths speaking, trading. The world became PROSPEROUS — two suns rising. But the singer had started too EARLY. They waited for the RISING SUN. One GENERATION passed, then another. His STOMACH growled. At DAYBREAK he finally ate. And then his hungry belly roared so loud that the earth itself bent: CONCAVE in some places, CONVEX in others. Mountains and valleys — all because an ancient fool was hungry for music.",
+  "framework": {
+    "protocol": "S.I.N.C. + Research-Validated Tone System",
+    "S": "Sensory/Self - First person, multimodal engagement",
+    "I": "Interaction - Transitive verbs, components act ON each other",
+    "N": "Negative valence - Destruction, shock, visceral imagery",
+    "C": "Chunking - ≤20 words target, ≤4 elements"
+  },
+  "tone_system": {
+    "1": "SING - sustained high note, opera singer",
+    "2": "GASP - surprised, startled, rising energy",
+    "3": "GROAN - low zombie moan, creaky undead voice",
+    "4": "COMMAND - sharp bark, decisive order"
   },
   "characters": [
     {
@@ -23,6 +35,7 @@
       "pithy_formula": "Ten dead mouths GROAN 'Gooo...' from ANCIENT graves.",
       "story": "I dig up TEN rotting mouths from an ANCIENT burial pit. They GROAN 'Gooo...' in creaky unison - ten generations of the dead, rumbling from deep underground.",
       "word_count": 28,
+      "narrative_position": "He was ANCIENT — older than stone, older than memory",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "dig up",
@@ -49,6 +62,7 @@
       "pithy_formula": "Ancient flesh acts RECKLESSLY - I GASP 'HOO?!' at the carnage.",
       "story": "Ancient rotting FLESH lurches RECKLESSLY through the village. I GASP 'HOO?!' in shock as it crashes through walls, leaving destruction everywhere.",
       "word_count": 24,
+      "narrative_position": "So he acted RECKLESSLY, without thought, without plan",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "crashes through",
@@ -74,6 +88,7 @@
       "pithy_formula": "FIVE fingers point at my MOUTH - I GASP 'WOO?!' It's ME!",
       "story": "FIVE accusers point at my MOUTH. I GASP 'WOO?!' in shock - they're all pointing at ME! The literary I, singled out, voice rising in startled recognition.",
       "word_count": 28,
+      "narrative_position": "'I,' he said aloud, testing the word. 'I am.'",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "point at",
@@ -103,6 +118,7 @@
       "pithy_formula": "Two moons COLLIDE - I GASP 'PUNG?!' as my COMPANION appears!",
       "story": "Two moons SMASH together in the sky. I GASP 'PUNG?!' in shock - from the collision emerges my lost COMPANION, rising in the light. We're bound together now.",
       "word_count": 28,
+      "narrative_position": "He needed a COMPANION — two moons standing side by side",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "SMASH together",
@@ -128,6 +144,7 @@
       "pithy_formula": "Sun SLAMS into moon - I GASP 'MING?!' BLINDED by BRIGHTNESS!",
       "story": "The SUN SLAMS into the MOON - I GASP 'MING?!' as BLINDING light explodes across my vision. So BRIGHT I stagger backward, voice rising in pure shock.",
       "word_count": 27,
+      "narrative_position": "The darkness between them grew BRIGHT — sun and moon together",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "SLAMS into",
@@ -153,6 +170,7 @@
       "pithy_formula": "My MOUTH COMMANDS 'CHAHNG!' - I SING and the crowd obeys.",
       "story": "I open my MOUTH and COMMAND 'CHAHNG!' - my SINGING voice slices through the air. The crowd falls silent. When I SING, they listen. Sharp, decisive, powerful.",
       "word_count": 28,
+      "narrative_position": "In that brightness, the ancient one opened his mouth TO SING",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "slices through",
@@ -182,6 +200,7 @@
       "pithy_formula": "THREE suns BLAZE - I SING 'JIIIING!' as SPARKLING light blinds me.",
       "story": "THREE suns BLAZE above me and I SING 'JIIIING!' in a sustained high note. SPARKLING light pierces my eyes - three sources of pure crystalline radiance, ringing forever.",
       "word_count": 29,
+      "narrative_position": "The sound returned as SPARKLING light — three suns dancing",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "pierces",
@@ -211,6 +230,7 @@
       "pithy_formula": "THREE zombie mouths GROAN 'Piiin...' tasting rotten GOODS.",
       "story": "THREE zombie mouths surround me, GROANING 'Piiin...' as they taste the GOODS. Low, creaky voices judging quality. I shudder as their rotting tongues inspect everything.",
       "word_count": 27,
+      "narrative_position": "Other beings emerged, bringing GOODS — three mouths speaking, trading",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "taste/inspect",
@@ -241,6 +261,7 @@
       "pithy_formula": "TWO suns stack up - I SING 'CHAAANG!' in PROSPEROUS glory.",
       "story": "TWO suns stack above my kingdom and I SING 'CHAAANG!' in a high, sustained note. Double light means double PROSPERITY - my voice rings across the wealthy land.",
       "word_count": 28,
+      "narrative_position": "The world became PROSPEROUS — two suns rising, warmth spreading",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "rings across",
@@ -263,11 +284,12 @@
         "rhymes": ["how", "now", "cow"]
       },
       "etymology": "Sun (日) above cross/grass (十) = sun rising over plants = early morning",
-      "pithy_formula": "The sun GROANS 'Dzowww...' rising EARLY - even IT hates mornings.",
-      "story": "The sun crawls over the horizon at an EARLY hour, GROANING 'Dzowww...' like a zombie dragging itself to work. Low, creaky, miserable. Even the sun hates getting up this early.",
+      "pithy_formula": "I GROAN 'Dzowww...' dragged awake EARLY - I hate mornings.",
+      "story": "I'm dragged awake at an EARLY hour. I GROAN 'Dzowww...' - low, creaky, zombie-like. The sun crawls over the grass and I curse it. Even creation hates getting up this early.",
       "word_count": 32,
+      "narrative_position": "The ancient singer started too early, before the world was ready",
       "quality_check": {
-        "first_person": false,
+        "first_person": true,
         "transitive_verb": "crawls/dragging",
         "tone_verb": "GROANING",
         "sensory": ["visual (horizon)", "auditory (groan)", "kinesthetic (dragging)"],
@@ -295,6 +317,7 @@
       "pithy_formula": "The RISING SUN COMMANDS 'SHOO!' - I'm BLASTED awake.",
       "story": "The RISING SUN hooks over the horizon and COMMANDS 'SHOO!' with explosive force. I'm BLASTED awake, thrown from my bed by the sharp bark of dawn.",
       "word_count": 28,
+      "narrative_position": "They waited for the RISING SUN — proper dawn, the sun climbing its throne",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "BLASTED/thrown",
@@ -320,6 +343,7 @@
       "pithy_formula": "Three GENERATIONS BARK 'SHIH!' - ancestors COMMANDING me to remember.",
       "story": "Three GENERATIONS of ancestors rise behind me and BARK 'SHIH!' in sharp unison. Their voices COMMAND me to remember - I will not forget my lineage.",
       "word_count": 26,
+      "narrative_position": "One GENERATION passed. Then another. The singer grew old, but his song did not.",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "COMMAND",
@@ -346,6 +370,7 @@
       "pithy_formula": "The STOMACH COMMANDS 'WAY!' - feed me NOW or suffer.",
       "story": "My STOMACH ROARS 'WAY!' with a sharp, falling command. The field of flesh inside me demands food NOW. I clutch my gut as it barks orders - feed me or face the pain.",
       "word_count": 32,
+      "narrative_position": "His STOMACH growled — that field inside his belly, demanding attention",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "demands/clutch",
@@ -371,6 +396,7 @@
       "pithy_formula": "The sun SMASHES the horizon - DAYBREAK COMMANDS 'DAHN!'",
       "story": "The sun SMASHES through the horizon line and COMMANDS 'DAHN!' - DAYBREAK explodes into existence. I shield my eyes as the sharp light cuts through darkness.",
       "word_count": 26,
+      "narrative_position": "At DAYBREAK — sun balanced on the horizon's line — he finally ate",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "SMASHES/shield",
@@ -400,6 +426,7 @@
       "pithy_formula": "I fall into a CONCAVE pit, SINGING 'OWWW!' all the way down.",
       "story": "I plunge into a CONCAVE pit, SINGING 'OWWW!' in a sustained high note as I fall. The depression swallows me - my voice echoing off the sunken walls forever.",
       "word_count": 29,
+      "narrative_position": "His hungry belly roared so loud the earth bent CONCAVE in some places",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "plunge/swallows",
@@ -429,6 +456,7 @@
       "pithy_formula": "I SLAM into a CONVEX bump, SINGING 'TOOO!' as I bounce off.",
       "story": "I SLAM face-first into a CONVEX bump, SINGING 'TOOO!' as it throws me backward. The protrusion sticks out - my sustained cry echoing as I fly through the air.",
       "word_count": 28,
+      "narrative_position": "CONVEX in others. Mountains and valleys. The first geography.",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "SLAM/throws",
@@ -443,40 +471,41 @@
       }
     }
   ],
-  "lesson_palace": {
-    "location": "The Temple of Light and Shadow",
-    "description": "An ancient temple where celestial bodies collide and echoes never die",
-    "character_stations": {
-      "古": "Burial pit entrance: ten mouths groaning from below",
-      "胡": "Barbarian gate: wild flesh crashes through",
-      "吾": "Accusation hall: five fingers pointing at YOU",
-      "朋": "Twin moon courtyard: companions emerge from collision",
-      "明": "Solar-lunar altar: sun and moon merge in blinding flash",
-      "唱": "Performance stage: commanding voice silences all",
-      "晶": "Crystal chamber: three suns pierce from above",
-      "品": "Inspection room: three mouths taste and judge",
-      "昌": "Prosperity shrine: double suns bless the kingdom",
-      "早": "East dormitory: reluctant sun groans awake",
-      "旭": "Sunrise window: dawn's hook blasts you from sleep",
-      "世": "Ancestor hall: three generations bark commands",
-      "胃": "Dining hall: hungry stomachs roar for food",
-      "旦": "Horizon terrace: sun smashes through ground line",
-      "凹": "Sunken pit: voices echo in the depression",
-      "凸": "Raised platform: bump throws visitors backward"
-    }
-  },
   "phonetic_patterns": {
     "gold_standard": {
       "昌_series": "昌 (chāng) → 猖, 娼, 鲳, 菖 all share this sound - reliable anchor"
     }
   },
+  "lesson_palace": {
+    "location": "The Temple of First Song",
+    "description": "An ancient temple where the first music was born and celestial bodies danced to its rhythm",
+    "character_stations": {
+      "古": "Burial pit entrance: ten mouths groaning from below (He was ANCIENT)",
+      "胡": "Barbarian gate: wild flesh crashes through (He acted RECKLESSLY)",
+      "吾": "Accusation hall: five fingers pointing at YOU ('I,' he said)",
+      "朋": "Twin moon courtyard: companions emerge from collision (He needed a COMPANION)",
+      "明": "Solar-lunar altar: sun and moon merge in blinding flash (Grew BRIGHT)",
+      "唱": "Performance stage: commanding voice silences all (Opened his mouth TO SING)",
+      "晶": "Crystal chamber: three suns pierce from above (SPARKLING light returned)",
+      "品": "Inspection room: three mouths taste and judge (Brought GOODS)",
+      "昌": "Prosperity shrine: double suns bless the kingdom (Became PROSPEROUS)",
+      "早": "East dormitory: reluctant sun groans awake (Started too EARLY)",
+      "旭": "Sunrise window: dawn's hook blasts you from sleep (Waited for RISING SUN)",
+      "世": "Ancestor hall: three generations bark commands (One GENERATION passed)",
+      "胃": "Dining hall: hungry stomachs roar for food (His STOMACH growled)",
+      "旦": "Horizon terrace: sun smashes through ground line (At DAYBREAK he ate)",
+      "凹": "Sunken pit: voices echo in the depression (Earth bent CONCAVE)",
+      "凸": "Raised platform: bump throws visitors backward (CONVEX in others)"
+    }
+  },
   "quality_summary": {
     "total_characters": 16,
-    "first_person_compliance": "15/16 (94%)",
+    "first_person_compliance": "16/16 (100%)",
     "tone_verb_compliance": "16/16 (100%)",
     "transitive_verb_compliance": "16/16 (100%)",
     "average_word_count": 28,
     "similar_warnings_included": "7 pairs documented",
-    "moon_flesh_notes": "2 characters (胡, 胃) have flesh radical warnings"
+    "moon_flesh_notes": "2 characters (胡, 胃) have flesh radical warnings",
+    "narrative_coherence": "Ancient singer invents music, creating geography through hunger"
   }
 }

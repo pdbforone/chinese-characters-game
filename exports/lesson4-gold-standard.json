@@ -1,10 +1,22 @@
 {
-  "meta": {
-    "lesson": 4,
-    "title": "Shells, Seeing, and Wrapped Forms",
-    "version": "3.0.0 - Gold Standard",
-    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
-    "character_count": 18
+  "lesson": 4,
+  "title": "The Shellfish Economy",
+  "theme": "In this strange land, money isn't gold — it's stubborn shellfish",
+  "memory_palace": "The Shell-Lord's Counting House",
+  "narrative_arc": "Only one currency → Shellfish become coins → Pasted on contracts → Chaste virtue proven → Employees paid in shells → See through shell-glasses → Beginning of month tallied → Pages of debt → Stubborn shells → Ordinary workers suffer → Muscle to dive → Defeated by debt → Uniform distribution → Sentence passed → Ten days in darkness → Ladle of justice → Lords at heads of tables → Every shot hits bulls-eye",
+  "narrative_story": "There was ONLY one currency that mattered here. SHELLFISH — those stubborn, beautiful creatures of the sea. Pry them open, and you find pearls. Keep them closed, and you have a coin. The merchants would PASTE them everywhere: on contracts, on doors, on their own bodies. Those with many shells were considered CHASTE — pure of intention. Every EMPLOYEE was paid in shells. They learned TO SEE the world through shell-colored glasses. At the BEGINNING of each month, the shell-counters would tally the wealth. Every transaction was recorded on a PAGE. Some shells were STUBBORN — they refused to open. ORDINARY people couldn't afford many. Only those with MUSCLE could dive deep enough. Many were DEFEATED by the shell economy. Debts were distributed UNIFORM. Failure to pay resulted in a SENTENCE — ten days in the debtors' cave. A DECAMERON of darkness. The guards measured your crimes with a LADLE. The shell-lords sat at the HEADS of great tables. They never missed. Every investment hit the BULL'S EYE. And somewhere in the depths, the shellfish waited — silent, stubborn, holding the world's wealth in their clamped mouths.",
+  "framework": {
+    "protocol": "S.I.N.C. + Research-Validated Tone System",
+    "S": "Sensory/Self - First person, multimodal engagement",
+    "I": "Interaction - Transitive verbs, components act ON each other",
+    "N": "Negative valence - Destruction, shock, visceral imagery",
+    "C": "Chunking - ≤20 words target, ≤4 elements"
+  },
+  "tone_system": {
+    "1": "SING - sustained high note, opera singer",
+    "2": "GASP - surprised, startled, rising energy",
+    "3": "GROAN - low zombie moan, creaky undead voice",
+    "4": "COMMAND - sharp bark, decisive order"
   },
   "characters": [
     {
@@ -23,6 +35,7 @@
       "pithy_formula": "ONLY one remains - I GROAN 'Jihhh...' alone in the dark.",
       "story": "ONLY one survivor remains. I GROAN 'Jihhh...' in low, creaky despair - everyone else is gone. Just me, ONLY me, my zombie moan echoing in the emptiness.",
       "word_count": 28,
+      "narrative_position": "There was ONLY one currency that mattered here",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "remains",
@@ -48,6 +61,7 @@
       "pithy_formula": "I SMASH the SHELL and COMMAND 'BAY!' - pay me NOW!",
       "story": "I SMASH the cowrie SHELL on the table and COMMAND 'BAY!' - this is money, this is value! The sharp crack demands payment. Ancient currency, violent transaction.",
       "word_count": 27,
+      "narrative_position": "SHELLFISH — those stubborn, beautiful creatures of the sea",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "SMASH",
@@ -73,6 +87,7 @@
       "pithy_formula": "I PASTE my torn flesh back together - SINGING 'TYEHHH!' through the pain.",
       "story": "I PASTE the torn flap of skin back over the wound, SINGING 'TYEHHH!' through gritted teeth. The adhesive burns as flesh sticks to flesh - my sustained scream holds until the bleeding stops.",
       "word_count": 33,
+      "narrative_position": "The merchants would PASTE them everywhere: on contracts, on doors",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "PASTE/burns/sticks",
@@ -98,6 +113,7 @@
       "pithy_formula": "I prove my CHASTE virtue - SINGING 'JENNNN!' as the blade waits.",
       "story": "I kneel as they test my CHASTE virtue, SINGING 'JENNNN!' in sustained terror. The oracle shells scatter - pure! The executioner lowers his blade. One wrong reading and my head would have rolled.",
       "word_count": 34,
+      "narrative_position": "Those with many shells were considered CHASTE — pure of intention",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "kneel/test/lowers",
@@ -123,6 +139,7 @@
       "pithy_formula": "The EMPLOYEE sees empty pay - I GASP 'YWEN?!' Where's my money?!",
       "story": "I open my paycheck and GASP 'YWEN?!' in rising shock - the EMPLOYEE has been cheated! My voice climbs upward as I stare at the empty shell. Robbed!",
       "word_count": 29,
+      "narrative_position": "Every EMPLOYEE was paid in shells. They clinked when they walked.",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "open/stare",
@@ -152,6 +169,7 @@
       "pithy_formula": "I SEE the horror and COMMAND 'JYEN!' - look at THIS!",
       "story": "My eyes on legs march forward - I SEE the carnage and COMMAND 'JYEN!' with a sharp bark. LOOK at this! The seeing is violent, the command absolute.",
       "word_count": 28,
+      "narrative_position": "They learned TO SEE the world through shell-colored glasses",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "SEE/march",
@@ -177,6 +195,7 @@
       "pithy_formula": "At the BEGINNING I GASP 'YWEN?!' - where did it all start?!",
       "story": "I stumble upon the BEGINNING of everything and GASP 'YWEN?!' in rising awe. The origin point! My voice climbs as I witness the first moment of creation.",
       "word_count": 28,
+      "narrative_position": "At the BEGINNING of each month, the shell-counters would tally",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "stumble upon/witness",
@@ -206,6 +225,7 @@
       "pithy_formula": "I RIP the PAGE and COMMAND 'YEH!' - turn it NOW!",
       "story": "I RIP the PAGE from the book and COMMAND 'YEH!' with sharp force. The paper tears - a head removed from the body of text. Decisive, violent reading.",
       "word_count": 28,
+      "narrative_position": "Every transaction was recorded on a PAGE — leaf after leaf",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "RIP/tears",
@@ -235,6 +255,7 @@
       "pithy_formula": "The STUBBORN head won't move - I GASP 'WAHN?!' in shock!",
       "story": "I push the STUBBORN head but it won't budge. I GASP 'WAHN?!' in rising frustration - hard-headed from birth! My voice climbs as I strain against immovable will.",
       "word_count": 29,
+      "narrative_position": "Some shells were STUBBORN — they refused to open, refused to be spent",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "push/strain",
@@ -260,6 +281,7 @@
       "pithy_formula": "Just ORDINARY - I GASP 'FAHN?!' Am I really this plain?!",
       "story": "I look in the mirror and GASP 'FAHN?!' in rising dismay - just ORDINARY! Nothing special, nothing unique. My voice climbs with the shock of being utterly common.",
       "word_count": 28,
+      "narrative_position": "ORDINARY people couldn't afford many shells",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "look",
@@ -286,6 +308,7 @@
       "pithy_formula": "I FLEX my MUSCLE and SING 'JEEE!' - feel this power!",
       "story": "I FLEX my MUSCLE and SING 'JEEE!' in a sustained high note. The flesh ripples over the frame of bone - raw power, sustained glory, my voice matching the display.",
       "word_count": 29,
+      "narrative_position": "Only those with MUSCLE could dive deep enough to find the rare shells",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "FLEX/ripples",
@@ -311,6 +334,7 @@
       "pithy_formula": "DEFEATED, I COMMAND 'FOO!' as the debt crushes my back!",
       "story": "I collapse under the weight of debt - DEFEATED! I COMMAND 'FOO!' with a sharp bark of rage. The shell-money I owe crushes my spine. Lost, burdened, broken.",
       "word_count": 29,
+      "narrative_position": "Many were DEFEATED by the shell economy",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "collapse/crushes",
@@ -336,6 +360,7 @@
       "pithy_formula": "The poison spreads UNIFORMLY - I GASP 'YOON?!' as every cell dies EVENLY.",
       "story": "The poison spreads UNIFORMLY through my veins. I GASP 'YOON?!' in rising horror - every organ failing EVENLY, every cell dying at the same rate. My voice climbs as perfect distribution kills me.",
       "word_count": 34,
+      "narrative_position": "Debts were distributed UNIFORM — everyone owed equally",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "spreads/failing/dying",
@@ -361,6 +386,7 @@
       "pithy_formula": "I SPIT the SENTENCE out and COMMAND 'JOO!' - hear my words!",
       "story": "I SPIT the SENTENCE out like a weapon, COMMANDING 'JOO!' with sharp finality. Words wrapped tight, launched from my mouth - the sentence lands like a verdict.",
       "word_count": 27,
+      "narrative_position": "Failure to pay resulted in a SENTENCE — ten days in the debtors' cave",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "SPIT/lands",
@@ -390,6 +416,7 @@
       "pithy_formula": "TEN DAYS vanish - I GASP 'SHOON?!' Where did time go?!",
       "story": "TEN DAYS have vanished in a blink. I GASP 'SHOON?!' in rising panic - where did the time go?! A wrapped bundle of suns, stolen from my life.",
       "word_count": 28,
+      "narrative_position": "A DECAMERON of darkness, counting shells in your dreams",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "vanished/stolen",
@@ -419,6 +446,7 @@
       "pithy_formula": "I scoop with the LADLE and GASP 'SHAO?!' - what IS this?!",
       "story": "I scoop with the LADLE and GASP 'SHAO?!' in rising horror - what IS this slime?! The contents drip, my voice climbing with each viscous drop.",
       "word_count": 27,
+      "narrative_position": "The guards measured your crimes with a LADLE — one scoop of justice",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "scoop/drip",
@@ -444,6 +472,7 @@
       "pithy_formula": "The arrow hits the BULL'S EYE - I mutter 'duh' - obvious shot.",
       "story": "The arrow strikes the white center - BULL'S EYE. I mutter 'duh' with neutral indifference. Of course it hit. The possessive particle of victory, unstressed, thrown away.",
       "word_count": 27,
+      "narrative_position": "They never missed. Every investment hit the BULL'S EYE.",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "strikes",
@@ -469,6 +498,7 @@
       "pithy_formula": "My severed HEAD still sees - I GROAN 'Showww...' from the basket.",
       "story": "My severed HEAD tumbles into the basket. I GROAN 'Showww...' in low, creaky horror - still conscious, still seeing through dimming eyes. My hair tangles with other heads. I won't die.",
       "word_count": 33,
+      "narrative_position": "The shell-lords sat at the HEADS of great tables, shells piled high",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "tumbles/tangles",
@@ -484,27 +514,27 @@
     }
   ],
   "lesson_palace": {
-    "location": "The Merchant's Counting House",
-    "description": "An ancient trading post where shells are currency and debts are paid in blood",
+    "location": "The Shell-Lord's Counting House",
+    "description": "Where stubborn shellfish hold the world's wealth in their clamped mouths",
     "character_stations": {
-      "只": "Isolation cell: only one prisoner remains",
-      "貝": "Treasury vault: cowrie shells piled high",
-      "貼": "Craftsman's bench: shells pasted onto strings",
-      "貞": "Oracle chamber: chaste maiden before the shells",
-      "員": "Payroll office: employees check empty envelopes",
-      "見": "Watchtower: eyes on legs patrol the grounds",
-      "元": "Genesis room: the origin point of all trade",
-      "頁": "Archive: pages torn from ancient ledgers",
-      "頑": "Negotiation room: stubborn heads refuse to deal",
-      "凡": "Common quarters: ordinary workers sleep here",
-      "肌": "Training yard: muscles flex and shine",
-      "負": "Debtor's pit: the defeated carry crushing loads",
-      "勻": "Measurement room: everything weighed equally",
-      "句": "Proclamation hall: sentences commanded aloud",
-      "旬": "Calendar wall: ten-day periods marked off",
-      "勺": "Kitchen: ladles scoop mysterious contents",
-      "的": "Target range: arrows strike white centers",
-      "首": "Trophy room: severed heads in baskets"
+      "只": "Currency Gate: ONLY one currency matters here",
+      "貝": "Treasury Vault: SHELLFISH piled like mountains",
+      "貼": "Contract Room: shells PASTED on every document",
+      "貞": "Virtue Chamber: CHASTE ones display their wealth",
+      "員": "Payroll Office: EMPLOYEES receive empty shells",
+      "見": "Watchtower: TO SEE through shell-colored glasses",
+      "元": "Counting Room: BEGINNING of month tallies here",
+      "頁": "Archive: PAGES of shell-debt and shell-credit",
+      "頑": "Stubborn Shell Display: shells that refuse to open",
+      "凡": "Common Quarters: ORDINARY people with empty tables",
+      "肌": "Diving Yard: MUSCLE needed to find rare shells",
+      "負": "Debtor's Pit: those DEFEATED by the economy",
+      "勻": "Scales Room: debts distributed UNIFORMLY",
+      "句": "Verdict Hall: SENTENCES passed on debtors",
+      "旬": "Debtors' Cave: a DECAMERON of darkness",
+      "勺": "Justice Kitchen: crimes measured with a LADLE",
+      "首": "Lord's Hall: shell-lords at HEADS of tables",
+      "的": "Target Range: every investment hits BULL'S EYE"
     }
   },
   "quality_summary": {
@@ -516,6 +546,6 @@
     "similar_warnings_included": "5 pairs documented",
     "moon_flesh_notes": "1 character (肌) has flesh radical warning",
     "neutral_tone": "1 character (的) uses T5 neutral/mumbled",
-    "revision_notes": "v3.1 - Rewrote 貼貞勻首 for stronger negative valence and first-person compliance"
+    "narrative_coherence": "Shellfish become currency in a world where stubborn shells hold power"
   }
 }
