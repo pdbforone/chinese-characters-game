@@ -70,14 +70,14 @@
         "rhymes": ["yeah", "meh"]
       },
       "etymology": "Shell (貝) + stick/divine (占) = to paste (shells strung on sticks)",
-      "pithy_formula": "I PASTE shells together, SINGING 'TYEHHH!' as the glue holds.",
-      "story": "I PASTE the shells together on a string, SINGING 'TYEHHH!' in a sustained note. The glue holds, the shells stick - my voice rings out as I thread ancient money.",
-      "word_count": 29,
+      "pithy_formula": "I PASTE my torn flesh back together - SINGING 'TYEHHH!' through the pain.",
+      "story": "I PASTE the torn flap of skin back over the wound, SINGING 'TYEHHH!' through gritted teeth. The adhesive burns as flesh sticks to flesh - my sustained scream holds until the bleeding stops.",
+      "word_count": 33,
       "quality_check": {
         "first_person": true,
-        "transitive_verb": "PASTE/thread",
+        "transitive_verb": "PASTE/burns/sticks",
         "tone_verb": "SINGING",
-        "sensory": ["tactile (glue)", "visual (shells)", "auditory (singing)"],
+        "sensory": ["pain (burning)", "tactile (adhesive)", "auditory (scream)"],
         "chunks": 3
       },
       "similar_warning": null
@@ -95,14 +95,14 @@
         "rhymes": ["zen", "pen", "then"]
       },
       "etymology": "Divination (卜) + shell (貝) = chaste (pure as oracle reading)",
-      "pithy_formula": "The CHASTE one SINGS 'JENNNN!' - pure as the oracle's truth.",
-      "story": "The CHASTE maiden stands before the oracle, SINGING 'JENNNN!' in a pure, sustained note. Her virtue rings true - the divination shells confirm her purity.",
-      "word_count": 26,
+      "pithy_formula": "I prove my CHASTE virtue - SINGING 'JENNNN!' as the blade waits.",
+      "story": "I kneel as they test my CHASTE virtue, SINGING 'JENNNN!' in sustained terror. The oracle shells scatter - pure! The executioner lowers his blade. One wrong reading and my head would have rolled.",
+      "word_count": 34,
       "quality_check": {
-        "first_person": false,
-        "transitive_verb": "stands/confirm",
+        "first_person": true,
+        "transitive_verb": "kneel/test/lowers",
         "tone_verb": "SINGING",
-        "sensory": ["auditory (singing)", "visual (maiden)", "spiritual (purity)"],
+        "sensory": ["auditory (singing)", "visual (blade)", "emotional (terror)"],
         "chunks": 3
       },
       "similar_warning": null
@@ -333,14 +333,14 @@
         "rhymes": ["moon", "soon", "tune"]
       },
       "etymology": "Wrap (勹) + two (二) = uniform (evenly wrapped/distributed)",
-      "pithy_formula": "Everything UNIFORM - I GASP 'YOON?!' at perfect equality!",
-      "story": "I spread the paint and GASP 'YOON?!' in rising surprise - it's perfectly UNIFORM! Every inch identical, every surface even. My voice rises at impossible equality.",
-      "word_count": 26,
+      "pithy_formula": "The poison spreads UNIFORMLY - I GASP 'YOON?!' as every cell dies EVENLY.",
+      "story": "The poison spreads UNIFORMLY through my veins. I GASP 'YOON?!' in rising horror - every organ failing EVENLY, every cell dying at the same rate. My voice climbs as perfect distribution kills me.",
+      "word_count": 34,
       "quality_check": {
         "first_person": true,
-        "transitive_verb": "spread",
+        "transitive_verb": "spreads/failing/dying",
         "tone_verb": "GASP",
-        "sensory": ["tactile (paint)", "visual (uniform)", "auditory (gasp)"],
+        "sensory": ["physical (veins)", "emotional (horror)", "auditory (gasp)"],
         "chunks": 3
       },
       "similar_warning": null
@@ -466,14 +466,14 @@
         "rhymes": ["go", "low", "so"]
       },
       "etymology": "Hair on top of self/nose = head (top of the body)",
-      "pithy_formula": "The severed HEAD GROANS 'Showww...' from the basket.",
-      "story": "The severed HEAD rolls into the basket and GROANS 'Showww...' in low, creaky agony. Hair matted, eyes open - the zombie head moans from deep in its throat.",
-      "word_count": 27,
+      "pithy_formula": "My severed HEAD still sees - I GROAN 'Showww...' from the basket.",
+      "story": "My severed HEAD tumbles into the basket. I GROAN 'Showww...' in low, creaky horror - still conscious, still seeing through dimming eyes. My hair tangles with other heads. I won't die.",
+      "word_count": 33,
       "quality_check": {
-        "first_person": false,
-        "transitive_verb": "rolls/moans",
-        "tone_verb": "GROANS",
-        "sensory": ["visual (severed head)", "auditory (groan)", "tactile (basket)"],
+        "first_person": true,
+        "transitive_verb": "tumbles/tangles",
+        "tone_verb": "GROAN",
+        "sensory": ["visual (seeing)", "tactile (tangling)", "auditory (groan)"],
         "chunks": 3
       },
       "similar_warning": {
@@ -509,12 +509,13 @@
   },
   "quality_summary": {
     "total_characters": 18,
-    "first_person_compliance": "16/18 (89%)",
+    "first_person_compliance": "18/18 (100%)",
     "tone_verb_compliance": "18/18 (100%)",
     "transitive_verb_compliance": "18/18 (100%)",
-    "average_word_count": 28,
+    "average_word_count": 29,
     "similar_warnings_included": "5 pairs documented",
     "moon_flesh_notes": "1 character (肌) has flesh radical warning",
-    "neutral_tone": "1 character (的) uses T5 neutral/mumbled"
+    "neutral_tone": "1 character (的) uses T5 neutral/mumbled",
+    "revision_notes": "v3.1 - Rewrote 貼貞勻首 for stronger negative valence and first-person compliance"
   }
 }
