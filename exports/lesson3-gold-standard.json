@@ -1,10 +1,22 @@
 {
-  "meta": {
-    "lesson": 3,
-    "title": "Self, White, and Directions",
-    "version": "3.0.0 - Gold Standard",
-    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
-    "character_count": 18
+  "lesson": 3,
+  "title": "The Emperor of Measurement",
+  "theme": "The Emperor loved himself so much he tried to measure his own tongue - and got stuck between heaven and earth",
+  "memory_palace": "The Imperial Measuring Chamber",
+  "narrative_arc": "Self-adoration → White purity → Counted virtues → Bathed in soap → Stood at center → Ruled thousands → Measured tongue → Rose and fell → Got stuck → Became eminent laughingstock",
+  "narrative_story": "The Emperor loved himself so much he tried to measure his own tongue. It began with ONESELF — a nose pointing at its own reflection. His robes were WHITE — pure, unblemished. He counted his virtues and found a HUNDRED reasons to adore himself. He bathed in SOAP made from the rarest oils. He stood in the MIDDLE of every room. His subjects numbered in the THOUSANDS. But then came the challenge: measure the TONGUE that spoke such perfect words. He tried using a LITER — too crude. He commanded it TO RISE UP — but tongues do not fly. A physician offered a PILL. He consulted DIVINATION. The oracle began TO TELL FORTUNES: 'Your tongue measures infinite.' The Emperor floated ABOVE his throne. Then he sank BELOW it. Up and down, stuck like a CARD wedged in a slot. The court physician called it EMINENT. The DYNASTY would remember this. Mostly because everyone began TO RIDICULE the floating Emperor who could not measure his own tongue.",
+  "framework": {
+    "protocol": "S.I.N.C. + Research-Validated Tone System",
+    "S": "Sensory/Self - First person, multimodal engagement",
+    "I": "Interaction - Transitive verbs, components act ON each other",
+    "N": "Negative valence - Destruction, shock, visceral imagery",
+    "C": "Chunking - ≤20 words target, ≤4 elements"
+  },
+  "tone_system": {
+    "1": "SING - sustained high note, opera singer",
+    "2": "GASP - surprised, startled, rising energy",
+    "3": "GROAN - low zombie moan, creaky undead voice",
+    "4": "COMMAND - sharp bark, decisive order"
   },
   "characters": [
     {
@@ -23,6 +35,7 @@
       "pithy_formula": "I JAB my NOSE and BARK 'DZU!' - MYSELF, no one else!",
       "story": "I JAB my finger at my own NOSE and BARK 'DZU!' with sharp pride. MYSELF - this nose, this face, this body. The command is absolute: I am pointing at ME.",
       "word_count": 30,
+      "narrative_position": "It began with ONESELF — a nose pointing at its own reflection",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "JAB",
@@ -52,6 +65,7 @@
       "pithy_formula": "WHITE light EXPLODES - I GASP 'BYE?!' as it blinds me!",
       "story": "WHITE light EXPLODES from the sun's core. I GASP 'BYE?!' in shock as the pure radiance blinds me - so bright, so WHITE, my voice rising in startled pain.",
       "word_count": 28,
+      "narrative_position": "His robes were WHITE — pure, unblemished, the color of perfection",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "EXPLODES/blinds",
@@ -81,6 +95,7 @@
       "pithy_formula": "ONE HUNDRED corpses GROAN 'Byeee...' from the mass grave.",
       "story": "ONE HUNDRED rotting corpses GROAN 'Byeee...' from the mass grave. I count them - a HUNDRED white skulls, each groaning low and creaky. The zombie chorus says farewell.",
       "word_count": 29,
+      "narrative_position": "He counted his virtues and found a HUNDRED reasons to adore himself",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "count",
@@ -110,6 +125,7 @@
       "pithy_formula": "I SCRUB with SOAP and COMMAND 'DZOW!' - CLEAN it now!",
       "story": "I SCRUB the filth with harsh SOAP, COMMANDING 'DZOW!' as the white lather strips the grime away. Sharp, decisive cleaning. Seven scrubs to pure white perfection.",
       "word_count": 27,
+      "narrative_position": "He bathed in SOAP made from the rarest oils",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "SCRUB/strips",
@@ -135,6 +151,7 @@
       "pithy_formula": "I PIERCE the MIDDLE and SING 'JOHHHNG!' - perfect bullseye!",
       "story": "I PIERCE the target dead center, SINGING 'JOHHHNG!' as the arrow hits the MIDDLE. The sustained high note rings out - bullseye! Perfect center, sustained glory.",
       "word_count": 26,
+      "narrative_position": "He stood in the MIDDLE of every room, every map, every conversation",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "PIERCE/hits",
@@ -160,6 +177,7 @@
       "pithy_formula": "A THOUSAND soldiers SING 'CHYENNN!' marching as one.",
       "story": "A THOUSAND soldiers march toward me, SINGING 'CHYENNN!' in sustained unison. The high note holds forever - a thousand voices, a thousand boots, one endless sound.",
       "word_count": 27,
+      "narrative_position": "His subjects numbered in the THOUSANDS — a multitude to admire him",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "march toward",
@@ -189,6 +207,7 @@
       "pithy_formula": "My TONGUE touches poison - I GASP 'SHUH?!' in shock!",
       "story": "My TONGUE touches something vile and I GASP 'SHUH?!' in rising shock. The taste BURNS - my tongue recoils, voice rising in pure startled disgust.",
       "word_count": 26,
+      "narrative_position": "Then came the challenge: measure the TONGUE that spoke such perfect words",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "touches/BURNS",
@@ -214,6 +233,7 @@
       "pithy_formula": "The LITER rises and I SING 'SHUNNNG!' as it overflows!",
       "story": "The liquid rises one LITER at a time. I SING 'SHUNNNG!' in a high sustained note as it climbs and overflows - rising, rising, my voice holding steady.",
       "word_count": 29,
+      "narrative_position": "He tried using a LITER — too crude. The tongue is not liquid.",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "rises/climbs/overflows",
@@ -243,6 +263,7 @@
       "pithy_formula": "The SUN RISES UP - I SING 'SHUNNNG!' as it climbs the sky!",
       "story": "The SUN RISES UP over the horizon. I SING 'SHUNNNG!' in a sustained high note as golden light floods the world - celestial ascent, my voice matching its climb.",
       "word_count": 29,
+      "narrative_position": "He commanded it TO RISE UP — but tongues do not fly on command",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "RISES/floods",
@@ -272,6 +293,7 @@
       "pithy_formula": "I swallow the PILL and GASP 'WAHN?!' - it's stuck in my throat!",
       "story": "I swallow the PILL and GASP 'WAHN?!' in rising panic - it's STUCK in my throat! The round medicine lodges there, my voice rising in choked surprise.",
       "word_count": 27,
+      "narrative_position": "A physician offered a PILL that would make measurement possible",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "swallow/lodges",
@@ -301,6 +323,7 @@
       "pithy_formula": "The oracle bone cracks - a ghost GROANS 'Booo...' DIVINING my fate.",
       "story": "I heat the oracle bone and it CRACKS. A ghost GROANS 'Booo...' from within, DIVINING my fate in low, creaky tones. The spirits speak through the fracture.",
       "word_count": 28,
+      "narrative_position": "He consulted DIVINATION — the court oracle with his magic wand",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "CRACKS/heat",
@@ -326,6 +349,7 @@
       "pithy_formula": "The fortune-teller COMMANDS 'JAHN!' - your fate is SEALED!",
       "story": "The fortune-teller reads the cracks and COMMANDS 'JAHN!' with sharp finality. Your fate is SEALED. I hear the verdict crash down - no appeal, no escape.",
       "word_count": 26,
+      "narrative_position": "The oracle began TO TELL FORTUNES: 'Your tongue measures infinite'",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "reads/SEALED/crash",
@@ -355,6 +379,7 @@
       "pithy_formula": "I THRUST upward and BARK 'SHAHNG!' - ABOVE all others!",
       "story": "I THRUST my fist ABOVE my head and BARK 'SHAHNG!' with commanding force. I rise ABOVE all others - the sharp falling tone of victory, towering over everything.",
       "word_count": 28,
+      "narrative_position": "The Emperor floated ABOVE his throne, the pill taking effect",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "THRUST/rise",
@@ -384,6 +409,7 @@
       "pithy_formula": "I STOMP down and COMMAND 'SHYAH!' - crushed BELOW!",
       "story": "I STOMP my enemy BELOW my boot and COMMAND 'SHYAH!' with vicious force. Crushed beneath me - the sharp falling tone of domination, grinding them into the ground.",
       "word_count": 28,
+      "narrative_position": "Then he sank BELOW it. Up and down. Up and down.",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "STOMP/crushed/grinding",
@@ -413,6 +439,7 @@
       "pithy_formula": "The CARD gets STUCK - I GROAN 'Kahhh...' trapped between!",
       "story": "My CARD gets STUCK in the machine. I GROAN 'Kahhh...' in low, creaky frustration - trapped between above and below, neither in nor out. Stuck. Zombie-patience.",
       "word_count": 28,
+      "narrative_position": "Stuck between heaven and earth like a CARD wedged in a slot",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "gets STUCK/trapped",
@@ -438,6 +465,7 @@
       "pithy_formula": "The EMINENT one towers above - I GASP 'JOH?!' at their height!",
       "story": "The EMINENT master towers above the crowd. I GASP 'JOH?!' in rising awe - so tall, so outstanding! My voice climbs upward matching their incredible height.",
       "word_count": 27,
+      "narrative_position": "The court physician called it EMINENT — a profound medical achievement",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "towers",
@@ -463,6 +491,7 @@
       "pithy_formula": "The DYNASTY rises - I GASP 'CHOW?!' as the empire emerges!",
       "story": "The new DYNASTY rises from chaos. I GASP 'CHOW?!' in shocked awe as sun and moon align - an empire born! My voice rises with the emerging power.",
       "word_count": 28,
+      "narrative_position": "The DYNASTY would remember this moment forever",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "rises/align",
@@ -493,6 +522,7 @@
       "pithy_formula": "A MOUTH mocks the dynasty - I GASP 'CHOW?!' at the RIDICULE!",
       "story": "A MOUTH dares to mock the dynasty! I GASP 'CHOW?!' in rising shock at the RIDICULE. Someone speaks against power - my voice rises in startled disbelief.",
       "word_count": 28,
+      "narrative_position": "Everyone began TO RIDICULE the floating Emperor who could not measure his tongue",
       "quality_check": {
         "first_person": true,
         "transitive_verb": "mocks/speaks against",
@@ -508,27 +538,27 @@
     }
   ],
   "lesson_palace": {
-    "location": "The Oracle's Tower",
-    "description": "A vertical spire where direction matters - up leads to power, down to doom",
+    "location": "The Imperial Measuring Chamber",
+    "description": "The Emperor's tower where he tried to measure his own tongue - now floating between floors forever",
     "character_stations": {
-      "自": "Mirror chamber: jabbing at your own reflection",
-      "白": "Bleaching room: white light explodes from walls",
-      "百": "Mass grave basement: hundred skulls groan below",
-      "皂": "Washroom: harsh soap strips away grime",
-      "中": "Archery range: arrows pierce the center target",
-      "千": "Parade grounds: thousand soldiers march past",
-      "舌": "Tasting chamber: tongues test strange poisons",
-      "升": "Measuring room: liquids rise in graduated cylinders",
-      "昇": "Sunrise balcony: watching the sun ascend",
-      "丸": "Apothecary: pills lodge in patients' throats",
-      "卜": "Oracle bone vault: cracks reveal fates",
-      "占": "Fortune-teller's den: verdicts crash down",
-      "上": "Upper platform: fists thrust toward the ceiling",
-      "下": "Lower pit: enemies crushed beneath boots",
-      "卡": "Jammed door: stuck between floors",
-      "卓": "Throne platform: eminent figures tower above",
-      "朝": "Imperial court: dynasty rises in morning light",
-      "嘲": "Jester's corner: mouths mock the powerful"
+      "自": "Hall of Mirrors: the Emperor jabbing at his own reflection (ONESELF)",
+      "白": "Bleaching room: his WHITE robes blinding all who enter",
+      "百": "Virtue Counting Room: HUNDRED reasons for self-adoration listed on walls",
+      "皂": "Royal Washroom: SOAP made from the rarest oils",
+      "中": "Throne Room: the Emperor always in the MIDDLE of everything",
+      "千": "Parade grounds: THOUSANDS of subjects marching past",
+      "舌": "Measurement Chamber: the TONGUE that could not be measured",
+      "升": "Graduated Cylinder Room: LITERS rising in glass tubes",
+      "昇": "Sunrise Balcony: watching things RISE UP on command",
+      "丸": "Apothecary: the physician's PILL still lodged somewhere",
+      "卜": "Oracle Bone Vault: DIVINATION cracks revealing fates",
+      "占": "Fortune-Teller's Den: fortunes TOLD with sharp finality",
+      "上": "Upper Platform: floating ABOVE the throne",
+      "下": "Lower Pit: sinking BELOW the throne",
+      "卡": "The Stuck Zone: the Emperor wedged like a CARD between floors",
+      "卓": "Physician's Platform: calling the condition EMINENT",
+      "朝": "Imperial Court: the DYNASTY that remembers this moment",
+      "嘲": "Jester's Corner: everyone RIDICULING the floating Emperor"
     }
   },
   "quality_summary": {
@@ -538,6 +568,7 @@
     "transitive_verb_compliance": "18/18 (100%)",
     "average_word_count": 27,
     "similar_warnings_included": "9 pairs documented",
-    "phonetic_patterns": "朝/嘲 share pronunciation (semantic-phonetic compound)"
+    "phonetic_patterns": "朝/嘲 share pronunciation (semantic-phonetic compound)",
+    "narrative_coherence": "Emperor's failed attempt to measure his tongue leads to floating between floors"
   }
 }
