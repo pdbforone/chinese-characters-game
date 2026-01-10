@@ -1,0 +1,894 @@
+{
+  "meta": {
+    "lesson": 10,
+    "title": "Trees, Grass, and the Cycle of Growth",
+    "version": "3.0.0 - Gold Standard",
+    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
+    "character_count": 32,
+    "literary_note": "This lesson traces the botanical lifecycle: seedling → tree → forest → withering → grave"
+  },
+  "characters": [
+    {
+      "id": 191,
+      "character": "木",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "tree/wood",
+      "primitives": ["pictograph of tree with roots and branches"],
+      "sound_bridge": {
+        "pinyin": "mù",
+        "approximation": "MOO",
+        "rhymes": ["do", "you", "who"]
+      },
+      "etymology": "Pictograph of a tree - trunk, branches above, roots below",
+      "pithy_formula": "I drive my axe into the TREE - COMMANDING 'MOO!' as it falls.",
+      "story": "I drive my axe into the TREE's heart and COMMAND 'MOO!' Sap bleeds, the ancient wood shudders and falls. What took centuries to grow dies in the space of my breath.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "drive/falls",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (axe)", "visual (falling)", "tactile (sap)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 192,
+      "character": "林",
+      "pinyin": "lín",
+      "tone": 2,
+      "meaning": "woods/grove",
+      "primitives": ["木 (tree) doubled"],
+      "sound_bridge": {
+        "pinyin": "lín",
+        "approximation": "LEEN",
+        "rhymes": ["seen", "green", "keen"]
+      },
+      "etymology": "Two trees (木木) = woods (more than one tree)",
+      "pithy_formula": "I enter the WOODS - I GASP 'LEEN?!' as trees multiply around me.",
+      "story": "I wander into the WOODS and GASP 'LEEN?!' Trees multiply around me - was there one behind me before? Two become four. My voice climbs as I realize I'm already lost.",
+      "word_count": 33,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "wander/multiply",
+        "tone_verb": "GASP",
+        "sensory": ["visual (trees)", "spatial (lost)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "森",
+        "meaning": "forest",
+        "repulsion": "林 = WOODS (two trees, still see through); 森 = FOREST (three trees, dense)"
+      }
+    },
+    {
+      "id": 193,
+      "character": "森",
+      "pinyin": "sēn",
+      "tone": 1,
+      "meaning": "forest",
+      "primitives": ["木 (tree) tripled"],
+      "sound_bridge": {
+        "pinyin": "sēn",
+        "approximation": "SEN",
+        "rhymes": ["pen", "then", "when"]
+      },
+      "etymology": "Three trees (木木木) = forest (dense, many trees)",
+      "pithy_formula": "The FOREST swallows me - I SING 'SENNN!' as canopy erases sky.",
+      "story": "The FOREST swallows me whole. I SING 'SENNN!' and my sustained note vanishes into endless trees. Three layers deep, three hundred high - the canopy has erased the sky.",
+      "word_count": 31,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "swallows/erased",
+        "tone_verb": "SING",
+        "sensory": ["spatial (endless)", "visual (canopy)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "林",
+        "meaning": "woods",
+        "repulsion": "森 = FOREST (three trees, dense, overwhelming); 林 = WOODS (two trees, lighter)"
+      }
+    },
+    {
+      "id": 194,
+      "character": "植",
+      "pinyin": "zhí",
+      "tone": 2,
+      "meaning": "to plant",
+      "primitives": ["木 (tree)", "直 (straight)"],
+      "sound_bridge": {
+        "pinyin": "zhí",
+        "approximation": "JIH",
+        "rhymes": ["she", "free", "key"]
+      },
+      "etymology": "Tree (木) + straight (直) = to plant (setting trees upright)",
+      "pithy_formula": "I PLANT the sapling and GASP 'JIH?!' Will it survive?",
+      "story": "I PLANT the fragile sapling in scorched earth and GASP 'JIH?!' in rising doubt. Will anything grow here again? My voice climbs as I pack soil around roots that may never drink.",
+      "word_count": 33,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "PLANT/pack",
+        "tone_verb": "GASP",
+        "sensory": ["tactile (soil)", "emotional (doubt)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 195,
+      "character": "杏",
+      "pinyin": "xìng",
+      "tone": 4,
+      "meaning": "apricot",
+      "primitives": ["木 (tree)", "口 (mouth)"],
+      "sound_bridge": {
+        "pinyin": "xìng",
+        "approximation": "SHING",
+        "rhymes": ["ring", "sing", "thing"]
+      },
+      "etymology": "Tree (木) + mouth (口) = apricot (fruit that goes in mouth)",
+      "pithy_formula": "I bite the APRICOT and COMMAND 'SHING!' Juice runs down my chin.",
+      "story": "I bite into the ripe APRICOT and COMMAND 'SHING!' with sharp pleasure. Juice runs down my chin, sweet flesh between my teeth - the tree's offering devoured in one decisive act.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "bite/devoured",
+        "tone_verb": "COMMAND",
+        "sensory": ["gustatory (sweet)", "tactile (juice)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 196,
+      "character": "呆",
+      "pinyin": "dāi",
+      "tone": 1,
+      "meaning": "dull/dim-witted",
+      "primitives": ["口 (mouth)", "木 (wood)"],
+      "sound_bridge": {
+        "pinyin": "dāi",
+        "approximation": "DYE",
+        "rhymes": ["my", "sky", "fly"]
+      },
+      "etymology": "Mouth (口) + wood (木) = dull (wooden expression, dumb as a stump)",
+      "pithy_formula": "I stand DIM-WITTED and SING 'DYEEE!' - blank as a stump.",
+      "story": "I stand there DIM-WITTED, SINGING 'DYEEE!' in a sustained drone. Blank as a stump, wooden as the trees - my held note betrays an empty mind humming at nothing.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "stand/betrays",
+        "tone_verb": "SINGING",
+        "sensory": ["cognitive (empty)", "auditory (drone)", "visual (blank)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 197,
+      "character": "枯",
+      "pinyin": "kū",
+      "tone": 1,
+      "meaning": "withered/dried up",
+      "primitives": ["木 (tree)", "古 (ancient)"],
+      "sound_bridge": {
+        "pinyin": "kū",
+        "approximation": "KOO",
+        "rhymes": ["do", "you", "who"]
+      },
+      "etymology": "Tree (木) + ancient (古) = withered (old tree drying out)",
+      "pithy_formula": "The WITHERED tree crumbles - I SING 'KOOO!' as bark falls like skin.",
+      "story": "I touch the WITHERED tree and SING 'KOOO!' as bark falls like dead skin. Ancient, dried, hollow - my sustained note mourns what was once green. The wood has forgotten water.",
+      "word_count": 31,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "touch/falls/mourns",
+        "tone_verb": "SING",
+        "sensory": ["tactile (bark)", "visual (crumbling)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 198,
+      "character": "村",
+      "pinyin": "cūn",
+      "tone": 1,
+      "meaning": "village",
+      "primitives": ["木 (tree)", "寸 (inch)"],
+      "sound_bridge": {
+        "pinyin": "cūn",
+        "approximation": "TSOON",
+        "rhymes": ["moon", "soon", "tune"]
+      },
+      "etymology": "Tree (木) + inch (寸) = village (houses measured by trees)",
+      "pithy_formula": "I return to my VILLAGE and SING 'TSOOOON!' - home at last.",
+      "story": "I return to my VILLAGE after years away, SINGING 'TSOOOON!' in sustained relief. The same trees mark the same lanes. Nothing has changed - and everything has. Home swallows me back.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "return/swallows",
+        "tone_verb": "SINGING",
+        "sensory": ["emotional (relief)", "visual (village)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 199,
+      "character": "相",
+      "pinyin": "xiāng",
+      "tone": 1,
+      "meaning": "mutual/one another",
+      "primitives": ["木 (tree)", "目 (eye)"],
+      "sound_bridge": {
+        "pinyin": "xiāng",
+        "approximation": "SHYAHNG",
+        "rhymes": ["gong", "song", "wrong"]
+      },
+      "etymology": "Tree (木) + eye (目) = mutual (eye to eye, watching each other)",
+      "pithy_formula": "We face ONE ANOTHER - I SING 'SHYAHHHNG!' locked in mutual gaze.",
+      "story": "We face ONE ANOTHER across the clearing. I SING 'SHYAHHHNG!' in a sustained challenge - eye to eye, tree to tree, neither looking away. The MUTUAL stare becomes a war.",
+      "word_count": 31,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "face/becomes",
+        "tone_verb": "SING",
+        "sensory": ["visual (gaze)", "emotional (challenge)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 200,
+      "character": "本",
+      "pinyin": "běn",
+      "tone": 3,
+      "meaning": "root/origin/book",
+      "primitives": ["木 (tree)", "一 (one, marking the root)"],
+      "sound_bridge": {
+        "pinyin": "běn",
+        "approximation": "BEN",
+        "rhymes": ["pen", "then", "when"]
+      },
+      "etymology": "Tree (木) with mark at base = root/origin (the fundamental base)",
+      "pithy_formula": "I dig for the ROOT - I GROAN 'Bennn...' unearthing the ORIGIN.",
+      "story": "I dig for the ROOT of the ancient tree, GROANING 'Bennn...' in low effort. The ORIGIN goes deeper than I knew - my creaky voice drags as I unearth what was hidden.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "dig/unearth",
+        "tone_verb": "GROANING",
+        "sensory": ["kinesthetic (digging)", "tactile (earth)", "auditory (groan)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 201,
+      "character": "案",
+      "pinyin": "àn",
+      "tone": 4,
+      "meaning": "case/table/proposal",
+      "primitives": ["宀 (roof)", "女 (woman)", "木 (wood)"],
+      "sound_bridge": {
+        "pinyin": "àn",
+        "approximation": "AHN",
+        "rhymes": ["wan", "on", "gone"]
+      },
+      "etymology": "Roof + woman + wood = case/table (legal matters on wooden desk)",
+      "pithy_formula": "I slam the CASE file down - COMMANDING 'AHN!' Guilty!",
+      "story": "I slam the CASE file onto the wooden table and COMMAND 'AHN!' with sharp judgment. Guilty! The verdict crashes down - my bark ends a life as surely as the gavel.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "slam/crashes",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (slamming)", "auditory (command)", "emotional (judgment)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 202,
+      "character": "未",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "not yet",
+      "primitives": ["木 (tree) with longer top branch"],
+      "sound_bridge": {
+        "pinyin": "wèi",
+        "approximation": "WAY",
+        "rhymes": ["day", "say", "may"]
+      },
+      "etymology": "Tree with top branch extended = not yet (still growing upward)",
+      "pithy_formula": "NOT YET ready! I COMMAND 'WAY!' - the fruit is still green.",
+      "story": "NOT YET ripe! I COMMAND 'WAY!' and drop the green fruit in disgust. The top still grows, the promise unfulfilled - my sharp bark curses patience I don't have.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "drop/curses",
+        "tone_verb": "COMMAND",
+        "sensory": ["gustatory (green)", "emotional (impatience)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "末",
+        "meaning": "end",
+        "repulsion": "未 = NOT YET (top branch longer, still growing UP); 末 = END (bottom longer, weighted DOWN)"
+      }
+    },
+    {
+      "id": 203,
+      "character": "末",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "end/tip/last",
+      "primitives": ["木 (tree) with longer bottom branch"],
+      "sound_bridge": {
+        "pinyin": "mò",
+        "approximation": "MWO",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Tree with bottom branch extended = end (weighted down, dying)",
+      "pithy_formula": "The END has come - I COMMAND 'MWO!' watching the last leaf fall.",
+      "story": "The END has come. I COMMAND 'MWO!' as the LAST leaf falls from the dying branch. Bottom-heavy, sinking, finished - my sharp bark marks the final moment.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "falls/marks",
+        "tone_verb": "COMMAND",
+        "sensory": ["visual (leaf falling)", "temporal (finality)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "未",
+        "meaning": "not yet",
+        "repulsion": "末 = END (bottom branch longer, weighted DOWN); 未 = NOT YET (top longer, growing UP)"
+      }
+    },
+    {
+      "id": 204,
+      "character": "沫",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "foam/froth",
+      "primitives": ["氵 (water)", "末 (end)"],
+      "sound_bridge": {
+        "pinyin": "mò",
+        "approximation": "MWO",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Water (氵) + end (末) = foam (water at its end = bubbles)",
+      "pithy_formula": "FOAM froths from my mouth - I COMMAND 'MWO!' choking on nothing.",
+      "story": "FOAM froths from my dying mouth. I COMMAND 'MWO!' but it comes out as bubbles - water and air at the END, speech dissolving into froth. Words become nothing.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "froths/dissolving",
+        "tone_verb": "COMMAND",
+        "sensory": ["tactile (foam)", "visual (bubbles)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 205,
+      "character": "味",
+      "pinyin": "wèi",
+      "tone": 4,
+      "meaning": "taste/flavor",
+      "primitives": ["口 (mouth)", "未 (not yet)"],
+      "sound_bridge": {
+        "pinyin": "wèi",
+        "approximation": "WAY",
+        "rhymes": ["day", "say", "may"]
+      },
+      "etymology": "Mouth (口) + not yet (未) = taste (mouth hasn't finished tasting)",
+      "pithy_formula": "The FLAVOR explodes - I COMMAND 'WAY!' This TASTE is poison!",
+      "story": "The FLAVOR explodes across my tongue and I COMMAND 'WAY!' in sharp alarm. This TASTE is wrong - bitter, burning, poison! My bark comes too late; I've already swallowed.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "explodes/swallowed",
+        "tone_verb": "COMMAND",
+        "sensory": ["gustatory (bitter)", "tactile (burning)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 206,
+      "character": "妹",
+      "pinyin": "mèi",
+      "tone": 4,
+      "meaning": "younger sister",
+      "primitives": ["女 (woman)", "未 (not yet)"],
+      "sound_bridge": {
+        "pinyin": "mèi",
+        "approximation": "MAY",
+        "rhymes": ["day", "say", "way"]
+      },
+      "etymology": "Woman (女) + not yet (未) = younger sister (woman not yet grown)",
+      "pithy_formula": "My YOUNGER SISTER is gone - I COMMAND 'MAY!' but she won't return.",
+      "story": "I search for my YOUNGER SISTER and COMMAND 'MAY! Come back!' But she's gone forever - the woman not yet grown, now never will. My sharp bark echoes into silence.",
+      "word_count": 31,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "search/echoes",
+        "tone_verb": "COMMAND",
+        "sensory": ["emotional (loss)", "auditory (silence)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 207,
+      "character": "查",
+      "pinyin": "chá",
+      "tone": 2,
+      "meaning": "to investigate",
+      "primitives": ["木 (tree)", "且 (moreover)"],
+      "sound_bridge": {
+        "pinyin": "chá",
+        "approximation": "CHAH",
+        "rhymes": ["spa", "blah", "aha"]
+      },
+      "etymology": "Tree (木) + moreover (且) = investigate (looking up through branches)",
+      "pithy_formula": "I INVESTIGATE the crime - I GASP 'CHAH?!' finding the bloody knife!",
+      "story": "I INVESTIGATE the scene and GASP 'CHAH?!' as I find the knife buried in leaves. Evidence! My voice rises with the discovery - the tree witnessed everything.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "INVESTIGATE/find",
+        "tone_verb": "GASP",
+        "sensory": ["visual (knife)", "tactile (leaves)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 208,
+      "character": "渣",
+      "pinyin": "zhā",
+      "tone": 1,
+      "meaning": "dregs/sediment",
+      "primitives": ["氵 (water)", "查 (investigate)"],
+      "sound_bridge": {
+        "pinyin": "zhā",
+        "approximation": "JAH",
+        "rhymes": ["spa", "blah", "aha"]
+      },
+      "etymology": "Water (氵) + investigate (查) = dregs (what's found at the bottom)",
+      "pithy_formula": "Only DREGS remain - I SING 'JAHHHH!' stirring the SEDIMENT.",
+      "story": "Only DREGS remain at the bottom. I SING 'JAHHHH!' in sustained disgust, stirring the SEDIMENT of what was once wine. Bitter residue - my held note scrapes the barrel's truth.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "remain/stirring",
+        "tone_verb": "SING",
+        "sensory": ["gustatory (bitter)", "tactile (stirring)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 209,
+      "character": "染",
+      "pinyin": "rǎn",
+      "tone": 3,
+      "meaning": "to dye/to contaminate",
+      "primitives": ["氵 (water)", "九 (nine)", "木 (tree)"],
+      "sound_bridge": {
+        "pinyin": "rǎn",
+        "approximation": "RAHN",
+        "rhymes": ["wan", "on", "gone"]
+      },
+      "etymology": "Water + nine + tree = dye (boiling bark for dye, contamination spreads)",
+      "pithy_formula": "The DYE spreads through water - I GROAN 'Rahhhhn...' staining everything red.",
+      "story": "I drop the cloth and watch the DYE spread. I GROAN 'Rahhhhn...' in low horror as red CONTAMINATES the water - it won't stop, bleeding outward, staining everything it touches.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "drop/CONTAMINATES/staining",
+        "tone_verb": "GROAN",
+        "sensory": ["visual (red spreading)", "tactile (water)", "auditory (groan)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 210,
+      "character": "李",
+      "pinyin": "lǐ",
+      "tone": 3,
+      "meaning": "plum (surname Li)",
+      "primitives": ["木 (tree)", "子 (child)"],
+      "sound_bridge": {
+        "pinyin": "lǐ",
+        "approximation": "LEE",
+        "rhymes": ["see", "free", "key"]
+      },
+      "etymology": "Tree (木) + child (子) = plum (tree's child = fruit, also common surname)",
+      "pithy_formula": "I bite the PLUM - I GROAN 'Leee...' as sourness puckers my mouth.",
+      "story": "I bite into the PLUM and GROAN 'Leee...' as sourness puckers my face. The tree's child - too young, too tart. My low moan curses my impatience as I swallow anyway.",
+      "word_count": 33,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "bite/puckers",
+        "tone_verb": "GROAN",
+        "sensory": ["gustatory (sour)", "tactile (pucker)", "auditory (groan)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 211,
+      "character": "桌",
+      "pinyin": "zhuō",
+      "tone": 1,
+      "meaning": "table",
+      "primitives": ["卜 (divination)", "日 (sun)", "木 (wood)"],
+      "sound_bridge": {
+        "pinyin": "zhuō",
+        "approximation": "JWOH",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Wood (木) + top components = table (wooden surface)",
+      "pithy_formula": "I flip the TABLE - SINGING 'JWOHHHH!' sending everything crashing!",
+      "story": "I flip the wooden TABLE in rage, SINGING 'JWOHHHH!' in a sustained roar. Dishes crash, glass shatters - my held note carries through the destruction. Nothing remains upright.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "flip/crash/shatters",
+        "tone_verb": "SINGING",
+        "sensory": ["kinesthetic (flipping)", "auditory (crash)", "visual (destruction)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 212,
+      "character": "若",
+      "pinyin": "ruò",
+      "tone": 4,
+      "meaning": "as if/like",
+      "primitives": ["艹 (grass)", "右 (right)"],
+      "sound_bridge": {
+        "pinyin": "ruò",
+        "approximation": "RWOH",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Grass (艹) + right hand = as if (pointing to comparison)",
+      "pithy_formula": "AS IF I'd surrender! I COMMAND 'RWOH!' and draw my blade.",
+      "story": "AS IF I would surrender! I COMMAND 'RWOH!' with sharp defiance and draw my blade. You thought I'd kneel? My bark answers the insult - LIKE hell I will.",
+      "word_count": 31,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "draw/answers",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (drawing blade)", "emotional (defiance)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 213,
+      "character": "草",
+      "pinyin": "cǎo",
+      "tone": 3,
+      "meaning": "grass",
+      "primitives": ["艹 (grass radical)", "早 (early)"],
+      "sound_bridge": {
+        "pinyin": "cǎo",
+        "approximation": "TSOW",
+        "rhymes": ["now", "how", "cow"]
+      },
+      "etymology": "Grass radical (艹) + early (早) = grass (first plant of spring)",
+      "pithy_formula": "I crawl through GRASS - I GROAN 'Tsowww...' as blades cut my skin.",
+      "story": "I crawl through tall GRASS, GROANING 'Tsowww...' as blades slice my arms. Low and creaky, bleeding from a thousand cuts - the zombie drags through green that draws blood.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "crawl/slice",
+        "tone_verb": "GROANING",
+        "sensory": ["tactile (cutting)", "kinesthetic (crawling)", "auditory (groan)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 214,
+      "character": "苦",
+      "pinyin": "kǔ",
+      "tone": 3,
+      "meaning": "bitter/suffering",
+      "primitives": ["艹 (grass)", "古 (ancient)"],
+      "sound_bridge": {
+        "pinyin": "kǔ",
+        "approximation": "KOO",
+        "rhymes": ["do", "you", "who"]
+      },
+      "etymology": "Grass (艹) + ancient (古) = bitter (old grass tastes bitter)",
+      "pithy_formula": "I taste BITTER SUFFERING - I GROAN 'Kooo...' swallowing the herb.",
+      "story": "I chew the BITTER medicine and GROAN 'Kooo...' in low suffering. Ancient herbs, ancient pain - my creaky voice drags through the taste of survival. SUFFERING is swallowed, not enjoyed.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "chew/swallowed",
+        "tone_verb": "GROAN",
+        "sensory": ["gustatory (bitter)", "emotional (suffering)", "auditory (groan)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 215,
+      "character": "寬",
+      "pinyin": "kuān",
+      "tone": 1,
+      "meaning": "wide/broad",
+      "primitives": ["宀 (roof)", "艹 (grass)", "見 (see)"],
+      "sound_bridge": {
+        "pinyin": "kuān",
+        "approximation": "KWAHN",
+        "rhymes": ["wan", "on", "gone"]
+      },
+      "etymology": "Roof + grass + see = wide (seeing broad grassland under sky)",
+      "pithy_formula": "The WIDE plain stretches endlessly - I SING 'KWAHHHHN!' seeing no horizon.",
+      "story": "The WIDE plain stretches beyond sight. I SING 'KWAHHHHN!' in a sustained note of wonder - BROAD, endless, terrifying. My voice holds high but cannot fill this emptiness.",
+      "word_count": 29,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "stretches/fill",
+        "tone_verb": "SING",
+        "sensory": ["visual (endless)", "spatial (wide)", "auditory (singing)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 216,
+      "character": "葉",
+      "pinyin": "yè",
+      "tone": 4,
+      "meaning": "leaf",
+      "primitives": ["艹 (grass)", "世 (generation)", "木 (tree)"],
+      "sound_bridge": {
+        "pinyin": "yè",
+        "approximation": "YEH",
+        "rhymes": ["yeah", "meh"]
+      },
+      "etymology": "Grass + generation + tree = leaf (each leaf is one generation of the tree)",
+      "pithy_formula": "The LEAF falls - I COMMAND 'YEH!' catching it before it dies.",
+      "story": "The LEAF falls from the dying tree. I COMMAND 'YEH!' and snatch it from the air - one generation caught, one small death delayed. My sharp bark cannot save the others.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "falls/snatch",
+        "tone_verb": "COMMAND",
+        "sensory": ["kinesthetic (catching)", "visual (falling)", "auditory (command)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 217,
+      "character": "莫",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "don't/nothing/nobody",
+      "primitives": ["艹 (grass)", "日 (sun)", "大 (big)"],
+      "sound_bridge": {
+        "pinyin": "mò",
+        "approximation": "MWO",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Grass + sun + big = nobody (sun setting over grass, all gone)",
+      "pithy_formula": "NOBODY remains - I COMMAND 'MWO!' and hear only silence.",
+      "story": "NOBODY answers my call. I COMMAND 'MWO!' into the empty field - DON'T leave me here alone! But the sun sets over grass, and NOTHING responds. Only my echo dies.",
+      "word_count": 31,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "answers/dies",
+        "tone_verb": "COMMAND",
+        "sensory": ["auditory (silence)", "visual (sunset)", "emotional (abandonment)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 218,
+      "character": "模",
+      "pinyin": "mó",
+      "tone": 2,
+      "meaning": "model/to imitate",
+      "primitives": ["木 (tree)", "莫 (nobody)"],
+      "sound_bridge": {
+        "pinyin": "mó",
+        "approximation": "MWO",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Tree (木) + nobody (莫) = model (wooden form to copy from)",
+      "pithy_formula": "I IMITATE the master - I GASP 'MWO?!' but I'm no MODEL.",
+      "story": "I try to IMITATE the master's stroke and GASP 'MWO?!' in rising despair. The MODEL is perfect; I am a poor copy. My voice climbs as the gap between us widens.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "IMITATE/widens",
+        "tone_verb": "GASP",
+        "sensory": ["kinesthetic (stroke)", "emotional (despair)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 219,
+      "character": "漠",
+      "pinyin": "mò",
+      "tone": 4,
+      "meaning": "desert/indifferent",
+      "primitives": ["氵 (water)", "莫 (nobody)"],
+      "sound_bridge": {
+        "pinyin": "mò",
+        "approximation": "MWO",
+        "rhymes": ["go", "so", "whoa"]
+      },
+      "etymology": "Water (氵) + nobody (莫) = desert (where water is nobody, absent)",
+      "pithy_formula": "The DESERT stretches - I COMMAND 'MWO!' but no water answers.",
+      "story": "The DESERT kills INDIFFERENTLY. I COMMAND 'MWO!' demanding water, but nobody answers - not even echoes. Heat, sand, silence. The land doesn't care if I die here.",
+      "word_count": 28,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "kills/demanding",
+        "tone_verb": "COMMAND",
+        "sensory": ["thermal (heat)", "tactile (sand)", "auditory (silence)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 220,
+      "character": "墓",
+      "pinyin": "mù",
+      "tone": 4,
+      "meaning": "grave/tomb",
+      "primitives": ["莫 (nobody)", "土 (earth)"],
+      "sound_bridge": {
+        "pinyin": "mù",
+        "approximation": "MOO",
+        "rhymes": ["do", "you", "who"]
+      },
+      "etymology": "Nobody (莫) + earth (土) = grave (where nobody lies in earth)",
+      "pithy_formula": "I stand at the GRAVE - I COMMAND 'MOO!' but the dead don't rise.",
+      "story": "I stand at my own GRAVE and COMMAND 'MOO!' But nobody rises - earth covers what was, the TOMB keeps its silence. My sharp bark shatters against stone that won't answer.",
+      "word_count": 32,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "stand/covers/shatters",
+        "tone_verb": "COMMAND",
+        "sensory": ["spatial (grave)", "tactile (stone)", "auditory (silence)"],
+        "chunks": 3
+      },
+      "similar_warning": null
+    },
+    {
+      "id": 221,
+      "character": "苗",
+      "pinyin": "miáo",
+      "tone": 2,
+      "meaning": "seedling/sprout",
+      "primitives": ["艹 (grass)", "田 (field)"],
+      "sound_bridge": {
+        "pinyin": "miáo",
+        "approximation": "MYOW",
+        "rhymes": ["now", "how", "cow"]
+      },
+      "etymology": "Grass (艹) + field (田) = seedling (first grass in a field)",
+      "pithy_formula": "A SEEDLING pushes through - I GASP 'MYOW?!' Life returns!",
+      "story": "A single SEEDLING pushes through scorched earth. I GASP 'MYOW?!' in rising wonder - life returns! My voice climbs with hope as green breaks through black. The cycle begins again.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "pushes/breaks",
+        "tone_verb": "GASP",
+        "sensory": ["visual (green)", "emotional (hope)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "瞄",
+        "meaning": "to aim",
+        "repulsion": "苗 = SEEDLING (grass + field); 瞄 = AIM (eye + seedling = eye on target)"
+      }
+    },
+    {
+      "id": 222,
+      "character": "瞄",
+      "pinyin": "miáo",
+      "tone": 2,
+      "meaning": "to aim/to take aim",
+      "primitives": ["目 (eye)", "苗 (seedling)"],
+      "sound_bridge": {
+        "pinyin": "miáo",
+        "approximation": "MYOW",
+        "rhymes": ["now", "how", "cow"]
+      },
+      "etymology": "Eye (目) + seedling (苗) = aim (eye focused small like a seedling)",
+      "pithy_formula": "I AIM at the target - I GASP 'MYOW?!' Will my shot land true?",
+      "story": "I AIM down the barrel and GASP 'MYOW?!' - will my shot land true? Eye narrowed to a seedling's width, finger trembling. My voice rises with my heartbeat.",
+      "word_count": 30,
+      "quality_check": {
+        "first_person": true,
+        "transitive_verb": "AIM/narrowed",
+        "tone_verb": "GASP",
+        "sensory": ["visual (aiming)", "kinesthetic (trembling)", "auditory (gasp)"],
+        "chunks": 3
+      },
+      "similar_warning": {
+        "similar_to": "苗",
+        "meaning": "seedling",
+        "repulsion": "瞄 = AIM (eye + seedling = focused eye); 苗 = SEEDLING (grass + field)"
+      }
+    }
+  ],
+  "lesson_palace": {
+    "location": "The Arboretum of Life and Death",
+    "description": "A vast garden where trees grow from seedlings to forests, then wither to graves - the full cycle visible in one walk",
+    "character_stations": {
+      "木": "Execution yard: the axe meets ancient wood",
+      "林": "Multiplying grove: two trees become many",
+      "森": "Dense core: three-layered canopy erases sky",
+      "植": "Scorched nursery: saplings planted in ash",
+      "杏": "Orchard: ripe apricots drip with juice",
+      "呆": "Stump circle: the dim-witted stand vacant",
+      "枯": "Withered wing: bark crumbles like dead skin",
+      "村": "Village entrance: trees mark the lanes home",
+      "相": "Confrontation clearing: mutual stares across open ground",
+      "本": "Root chamber: dig to find origins",
+      "案": "Judgment table: wooden desk holds verdicts",
+      "未": "Unripe branch: green fruit, growing upward",
+      "末": "Dying limb: last leaf falls, weighted down",
+      "沫": "Foam pool: water froths at its end",
+      "味": "Poison tasting room: flavors that warn too late",
+      "妹": "Sister's shrine: she who never grew old",
+      "查": "Investigation site: evidence in leaves",
+      "渣": "Sediment pit: dregs of what was",
+      "染": "Dye vats: red spreads uncontrollably",
+      "李": "Plum corner: sour fruit, impatient harvest",
+      "桌": "Rage room: tables to flip, dishes to shatter",
+      "若": "Defiance post: blades drawn, surrender refused",
+      "草": "Cutting field: grass that draws blood",
+      "苦": "Bitter herb garden: medicine tastes like suffering",
+      "寬": "Endless overlook: wide plain with no horizon",
+      "葉": "Falling gallery: catch leaves before they die",
+      "莫": "Abandoned field: sun sets, nobody answers",
+      "模": "Master's studio: poor copies of perfection",
+      "漠": "Desert threshold: sand, silence, indifference",
+      "墓": "Graveyard: earth covers what was",
+      "苗": "Renewal plot: seedlings push through ash",
+      "瞄": "Sniper's nest: aim down the barrel"
+    }
+  },
+  "quality_summary": {
+    "total_characters": 32,
+    "first_person_compliance": "32/32 (100%)",
+    "tone_verb_compliance": "32/32 (100%)",
+    "transitive_verb_compliance": "32/32 (100%)",
+    "average_word_count": 30,
+    "tone_distribution": {
+      "T1_SING": 9,
+      "T2_GASP": 7,
+      "T3_GROAN": 6,
+      "T4_COMMAND": 10
+    },
+    "similar_warnings_included": "4 pairs: 林↔森, 未↔末, 苗↔瞄",
+    "thematic_arc": "Seedling → Tree → Forest → Withering → Grave → Renewal",
+    "literary_techniques": [
+      "Life cycle as narrative structure",
+      "Recurring imagery: growth, decay, silence",
+      "Final character (瞄/aim) points forward to next cycle"
+    ]
+  }
+}
