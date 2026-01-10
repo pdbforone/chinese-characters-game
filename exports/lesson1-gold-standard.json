@@ -1,21 +1,22 @@
 {
-  "meta": {
-    "lesson": 1,
-    "title": "The First Ten Numbers & Basic Radicals",
-    "version": "3.0.0 - Gold Standard",
-    "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
-    "principles": {
-      "S": "Sensory/Self - First person, multimodal engagement",
-      "I": "Interaction - Transitive verbs, components act ON each other",
-      "N": "Negative valence - Destruction, shock, visceral imagery",
-      "C": "Chunking - ≤20 words, ≤4 elements"
-    },
-    "tone_system": {
-      "1": "SINGING - sustained high note, opera singer",
-      "2": "SURPRISED - gasp, startle, rising energy (NOT questioning)",
-      "3": "ZOMBIE - low groan, creaky voice, undead rumble (NOT dipping)",
-      "4": "COMMANDING - sharp bark, karate chop, decisive"
-    }
+  "lesson": 1,
+  "title": "In the Beginning",
+  "theme": "Creation myth - the universe counts itself into existence through primordial elements",
+  "memory_palace": "The Primordial Void",
+  "narrative_arc": "In darkness, a single stroke → Numbers stack and multiply → The mouth speaks them → Celestial bodies mark time → The field sustains → The eye witnesses all",
+  "narrative_story": "In primordial darkness, a single stroke appeared—ONE. Loneliness drove it to duplicate, becoming TWO parallel lines. A third joined them, stacking like ascending steps: THREE. Four boundaries enclosed space for the first time—FOUR, the initial container. Five strokes converged at a crossing: FIVE, a meeting point. Reality folded as SIX completed an enclosure. Children drew light with a skyward slash: SEVEN. Wings spread wide in separation: EIGHT. A questioning curve bent like a hook: NINE. A cross marked the destination: TEN—the universe had counted itself into being. Yet who performed this counting? A perfect square opened: the MOUTH that spoke numbers. This mouth observed the DAY, a blazing window to the sun. Beside it gleamed the MONTH, a crescent measuring cycles. Below stretched the RICE FIELD, sustaining existence. Reflected in its waters gazed the EYE, witnessing everything. The cosmos awakened through observation.",
+  "framework": {
+    "protocol": "S.I.N.C. + Research-Validated Tone System",
+    "S": "Sensory/Self - First person, multimodal engagement",
+    "I": "Interaction - Transitive verbs, components act ON each other",
+    "N": "Negative valence - Destruction, shock, visceral imagery",
+    "C": "Chunking - ≤20 words target, ≤4 elements"
+  },
+  "tone_system": {
+    "1": "SING - sustained high note, opera singer",
+    "2": "GASP - surprised, startled, rising energy",
+    "3": "GROAN - low zombie moan, creaky undead voice",
+    "4": "COMMAND - sharp bark, decisive order"
   },
   "characters": [
     {
@@ -23,419 +24,224 @@
       "character": "一",
       "pinyin": "yī",
       "tone": 1,
-      "meaning": "one",
+      "meaning": "One",
+      "mnemonic_image": "A single horizontal stroke - the first mark in the void",
+      "sound_bridge": "YEE = 'YEE-haw, the first!'",
+      "story": "In primordial darkness, I trace the first stroke. I SING 'YEEE!' - sustained and eternal - and ONE line blazes across the void, creating existence itself.",
+      "tone_emotion": "SING - sustained birth of creation",
       "primitives": ["horizontal line"],
-      "sound_bridge": {
-        "pinyin": "yī",
-        "approximation": "YEE",
-        "rhymes": ["bee", "key", "free"]
-      },
-      "pithy_formula": "I trace ONE line and SING 'YEEE!' - it rings forever.",
-      "story": "I trace a single line across the sky with my finger and SING 'YEEE!' - the note holds, unbroken, ONE perfect sound ringing across the heavens.",
-      "word_count": 28,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "SING",
-        "sensory": ["kinesthetic (trace)", "auditory (sing)", "visual (sky)"],
-        "chunks": 3
-      },
-      "similar_warning": null
+      "narrative_position": "The first emergence from nothing"
     },
     {
       "id": 2,
       "character": "二",
       "pinyin": "èr",
       "tone": 4,
-      "meaning": "two",
+      "meaning": "Two",
+      "mnemonic_image": "Two parallel lines - loneliness duplicating",
+      "sound_bridge": "ARR = 'ERR-or: now there's two'",
+      "story": "Loneliness drives me to duplicate. 'ARR!' I COMMAND - and the line SPLITS into TWO. Parallel but forever separate, my creation doubles in isolation.",
+      "tone_emotion": "COMMAND - sharp division of unity",
       "primitives": ["two horizontal lines"],
-      "sound_bridge": {
-        "pinyin": "èr",
-        "approximation": "ARR",
-        "rhymes": ["err", "stir", "blur"]
-      },
-      "pithy_formula": "I stack TWO logs and BARK 'ARR!' - they crash into place.",
-      "story": "I SLAM two logs on top of each other, BARKING 'ARR!' as they crash into place. TWO heavy beams, stacked with force - my sharp command echoes.",
-      "word_count": 26,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "BARK",
-        "sensory": ["kinesthetic (slam)", "auditory (crash)", "visual (logs)"],
-        "chunks": 3
-      },
-      "similar_warning": null
+      "narrative_position": "Duality emerges from solitude"
     },
     {
       "id": 3,
       "character": "三",
       "pinyin": "sān",
       "tone": 1,
-      "meaning": "three",
+      "meaning": "Three",
+      "mnemonic_image": "Three lines stacking like ascending steps",
+      "sound_bridge": "SAHN = 'SAHN-rise, climbing'",
+      "story": "A third stroke joins them. I SING 'SAAAHN!' as I climb THREE ascending steps toward light - my voice sustained, building upward through the layers of reality.",
+      "tone_emotion": "SING - sustained ascent",
       "primitives": ["three horizontal lines"],
-      "sound_bridge": {
-        "pinyin": "sān",
-        "approximation": "SAHN",
-        "rhymes": ["sun", "son", "done"]
-      },
-      "pithy_formula": "I climb THREE steps, SINGING 'SAAAHN!' - sunshine floods in.",
-      "story": "I climb THREE gleaming steps toward the sun, SINGING 'SAAAHN!' in a sustained high note. The warm light floods my face as my voice holds steady.",
-      "word_count": 27,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "SINGING",
-        "sensory": ["kinesthetic (climb)", "visual (sun)", "thermal (warm)"],
-        "chunks": 3
-      },
-      "similar_warning": null
+      "narrative_position": "Multiplication creates hierarchy"
     },
     {
       "id": 4,
       "character": "四",
       "pinyin": "sì",
       "tone": 4,
-      "meaning": "four",
+      "meaning": "Four",
+      "mnemonic_image": "Four boundaries enclosing space - the first container",
+      "sound_bridge": "SUH = 'SEE this prison'",
+      "story": "FOUR boundaries snap shut around me - the first cage. 'SEE!' I COMMAND the walls, trapped inside my own creation. Space itself becomes a prison.",
+      "tone_emotion": "COMMAND - sharp enclosure",
       "primitives": ["enclosure", "internal strokes"],
-      "sound_bridge": {
-        "pinyin": "sì",
-        "approximation": "SUH",
-        "rhymes": ["see", "she", "bee"]
-      },
-      "pithy_formula": "I SLAM four items into a box, COMMANDING 'SEE!'",
-      "story": "I SHOVE four screaming items into a box, COMMANDING 'SEE!' with a sharp chop. FOUR corners trap them - my hand slams the lid shut.",
-      "word_count": 25,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "COMMANDING",
-        "sensory": ["kinesthetic (shove/slam)", "auditory (screaming)", "visual (box)"],
-        "chunks": 4
-      },
-      "similar_warning": {
-        "similar_to": "西",
-        "meaning": "west",
-        "repulsion": "四 traps things INSIDE; 西 has a horizontal line THROUGH it like the setting sun"
-      }
+      "narrative_position": "Space becomes defined, containment begins"
     },
     {
       "id": 5,
       "character": "五",
       "pinyin": "wǔ",
       "tone": 3,
-      "meaning": "five",
+      "meaning": "Five",
+      "mnemonic_image": "Strokes converging at a crossing - the meeting point",
+      "sound_bridge": "WOO = 'WOO, the undead center'",
+      "story": "FIVE strokes converge at the crossing point - I stand at the center of everything. I GROAN 'Wuuuu...' as the weight of being the hub crushes down, low and creaky.",
+      "tone_emotion": "GROAN - guttural burden of centrality",
       "primitives": ["crossing strokes"],
-      "sound_bridge": {
-        "pinyin": "wǔ",
-        "approximation": "WOO",
-        "rhymes": ["who", "boo", "through"]
-      },
-      "pithy_formula": "FIVE rotting fingers claw from the grave, GROANING 'Wuuuu...'",
-      "story": "FIVE rotting fingers burst through the dirt - I watch in horror as the zombie hand GROANS 'Wuuuu...' from deep in its creaky throat. Low, rumbling, undead.",
-      "word_count": 27,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "GROANS",
-        "sensory": ["visual (rotting)", "auditory (groan)", "tactile (dirt)"],
-        "chunks": 3
-      },
-      "similar_warning": null
+      "narrative_position": "The center point where all lines meet"
     },
     {
       "id": 6,
       "character": "六",
       "pinyin": "liù",
       "tone": 4,
-      "meaning": "six",
+      "meaning": "Six",
+      "mnemonic_image": "A lid over diverging strokes - reality folding closed",
+      "sound_bridge": "LYOW = 'LEE-OH, the lion's roar'",
+      "story": "Reality folds closed around me. 'LYOW!' I COMMAND the lid to seal - SIX directions of space now trapped. I am the lion sealing my own cage.",
+      "tone_emotion": "COMMAND - sharp sealing of dimensions",
       "primitives": ["lid (亠)", "eight (八)"],
-      "sound_bridge": {
-        "pinyin": "liù",
-        "approximation": "LEE-OH",
-        "rhymes": ["Leo", "Rio"]
-      },
-      "pithy_formula": "Leo the lion ROARS 'LEE-OH!' - SIX sharp barks shake the ground.",
-      "story": "Leo the lion ROARS 'LEE-OH!' with six thundering barks. His mane (the lid) shakes as each COMMAND crashes down - SIX explosive sounds.",
-      "word_count": 24,
-      "quality_check": {
-        "first_person": false,
-        "transitive_verb": true,
-        "tone_verb": "ROARS/COMMAND",
-        "sensory": ["auditory (roar)", "visual (mane)", "kinesthetic (shaking ground)"],
-        "chunks": 3
-      },
-      "similar_warning": null
+      "narrative_position": "Enclosure completes - reality becomes bounded"
     },
     {
       "id": 7,
       "character": "七",
       "pinyin": "qī",
       "tone": 1,
-      "meaning": "seven",
+      "meaning": "Seven",
+      "mnemonic_image": "A crossed slash - drawing light through darkness",
+      "sound_bridge": "CHEE = 'CHEE-rful light!'",
+      "story": "I slash SEVEN sparklers across the void, SINGING 'CHEE!' - sustained and bright. Light exists for the first time, my voice holding each streak against the dark.",
+      "tone_emotion": "SING - sustained creation of light",
       "primitives": ["crossed slash"],
-      "sound_bridge": {
-        "pinyin": "qī",
-        "approximation": "CHEE",
-        "rhymes": ["cheese", "keys", "please"]
-      },
-      "pithy_formula": "I slash SEVEN sparklers through the dark, SINGING 'CHEE!'",
-      "story": "I SLASH seven sparklers across the night sky, SINGING 'CHEE! CHEE! CHEE!' - the sustained high squeals ring out. SEVEN bright lines, my voice holding each note.",
-      "word_count": 28,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "SINGING",
-        "sensory": ["visual (sparklers)", "auditory (singing)", "kinesthetic (slash)"],
-        "chunks": 3
-      },
-      "similar_warning": null
+      "narrative_position": "Light cuts through primordial darkness"
     },
     {
       "id": 8,
       "character": "八",
       "pinyin": "bā",
       "tone": 1,
-      "meaning": "eight",
+      "meaning": "Eight",
+      "mnemonic_image": "Wings spreading wide - separation and possibility",
+      "sound_bridge": "BAH = 'BAH-ck and forth, diverging'",
+      "story": "I RIP possibility in half - EIGHT directions explode outward like wings. I SING 'BAAAH!' as paths diverge, sustained chorus of becoming, everything spreading.",
+      "tone_emotion": "SING - sustained expansion",
       "primitives": ["diverging strokes"],
-      "sound_bridge": {
-        "pinyin": "bā",
-        "approximation": "BAH",
-        "rhymes": ["spa", "aha", "baa"]
-      },
-      "pithy_formula": "I RIP the path in two - EIGHT sheep SING 'BAAAH!' as it splits.",
-      "story": "I RIP the path apart with my bare hands - it SPLITS into two directions. EIGHT sheep pour through, SINGING 'BAAAH!' in a sustained bleating chorus.",
-      "word_count": 26,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "SINGING",
-        "sensory": ["kinesthetic (rip)", "auditory (bleating)", "visual (sheep)"],
-        "chunks": 4
-      },
-      "similar_warning": {
-        "similar_to": "入",
-        "meaning": "to enter",
-        "repulsion": "八 strokes SEPARATE outward (sheep fleeing); 入 strokes CONVERGE inward (entering)"
-      }
+      "narrative_position": "Divergence creates infinite paths"
     },
     {
       "id": 9,
       "character": "九",
       "pinyin": "jiǔ",
       "tone": 3,
-      "meaning": "nine",
+      "meaning": "Nine",
+      "mnemonic_image": "A questioning curve, a hook reaching for completion",
+      "sound_bridge": "JEE-OH = 'GEO-metry almost complete'",
+      "story": "NINE hooks snag my flesh as I reach for completion. I GROAN 'Jiuuu...' - low and desperate - so close to finishing, the curve bending toward the end.",
+      "tone_emotion": "GROAN - guttural yearning for completion",
       "primitives": ["hook/bent stroke"],
-      "sound_bridge": {
-        "pinyin": "jiǔ",
-        "approximation": "JEE-OH",
-        "rhymes": ["geo", "jiu-jitsu"]
-      },
-      "pithy_formula": "NINE hooks drag me down - the zombie GROANS 'Jiuuu...' in creaky agony.",
-      "story": "NINE rusty hooks snag my flesh, dragging me toward the pit. A zombie GROANS 'Jiuuu...' - that low, creaky moan echoing from the depths. Nine hooks, nine wounds.",
-      "word_count": 28,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "GROANS",
-        "sensory": ["kinesthetic (hooks/flesh)", "auditory (groan)", "visual (pit)"],
-        "chunks": 4
-      },
-      "similar_warning": {
-        "similar_to": "丸",
-        "meaning": "pill/ball",
-        "repulsion": "九 has an OPEN hook (empty, grasping); 丸 has a dot INSIDE (pill enclosed)"
-      }
+      "narrative_position": "Approaching but not yet reaching wholeness"
     },
     {
       "id": 10,
       "character": "十",
       "pinyin": "shí",
       "tone": 2,
-      "meaning": "ten",
+      "meaning": "Ten",
+      "mnemonic_image": "A cross marking the destination - completion achieved",
+      "sound_bridge": "SHIH = 'SHE-er surprise at completion'",
+      "story": "The cross marks completion - TEN! I GASP 'SHIH?!' in shocked surprise. The universe has counted itself into being. My voice rises at what I've created.",
+      "tone_emotion": "GASP - rising awe at creation complete",
       "primitives": ["cross"],
-      "sound_bridge": {
-        "pinyin": "shí",
-        "approximation": "SHIH",
-        "rhymes": ["she", "Shih Tzu"]
-      },
-      "pithy_formula": "I dig up the X and GASP 'SHIH?!' - TEN gold coins explode out!",
-      "story": "I dig at the cross marking treasure and GASP 'SHIH?!' in shock - TEN gold coins EXPLODE from the ground! My voice rises in pure surprise at the bounty.",
-      "word_count": 28,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "GASP",
-        "sensory": ["kinesthetic (dig)", "visual (gold)", "auditory (gasp)"],
-        "chunks": 4
-      },
-      "similar_warning": null
+      "narrative_position": "The universe achieves numerical existence"
     },
     {
       "id": 11,
       "character": "口",
       "pinyin": "kǒu",
       "tone": 3,
-      "meaning": "mouth",
+      "meaning": "Mouth",
+      "mnemonic_image": "A perfect square opening - the mouth that spoke numbers",
+      "sound_bridge": "KOH = 'KOH-unting requires a mouth'",
+      "story": "But who performed this counting? My MOUTH unhinges into a perfect square. I GROAN 'Kohhhh...' - the low, creaky voice that spoke all numbers into existence.",
+      "tone_emotion": "GROAN - guttural realization of self as speaker",
       "primitives": ["mouth/opening"],
-      "sound_bridge": {
-        "pinyin": "kǒu",
-        "approximation": "KOH",
-        "rhymes": ["go", "so", "low"]
-      },
-      "pithy_formula": "My square MOUTH unhinges and GROANS 'Kohhh...' - zombie hunger.",
-      "story": "My jaw unhinges into a perfect square - my zombie MOUTH GROANS 'Kohhh...' from deep in my rotting throat. Low, creaky, hungry for flesh.",
-      "word_count": 24,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "GROANS",
-        "sensory": ["kinesthetic (unhinge)", "auditory (groan)", "tactile (throat)"],
-        "chunks": 3
-      },
-      "similar_warning": {
-        "similar_to": "囗",
-        "meaning": "enclosure radical",
-        "repulsion": "口 is SMALL (just a mouth); 囗 is LARGE (enclosing a whole city)"
-      }
+      "narrative_position": "The speaker revealed - consciousness emerges"
     },
     {
       "id": 12,
       "character": "日",
       "pinyin": "rì",
       "tone": 4,
-      "meaning": "sun/day",
-      "primitives": ["sun with ONE internal line"],
-      "sound_bridge": {
-        "pinyin": "rì",
-        "approximation": "REE",
-        "rhymes": ["free", "spree", "tree"]
-      },
-      "pithy_formula": "The SUN blasts my eyes open, COMMANDING 'REE!' - ONE burning bar.",
-      "story": "The SUN BLASTS through my window and COMMANDS 'REE!' - I'm ripped from sleep. ONE blazing bar of light inside the box. A new DAY begins whether I like it or not.",
-      "word_count": 31,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "COMMANDS",
-        "sensory": ["visual (blazing)", "auditory (command)", "kinesthetic (ripped)"],
-        "chunks": 4
-      },
-      "similar_warning": {
-        "similar_to": "目",
-        "meaning": "eye",
-        "repulsion": "日 has ONE line inside (single sun); 目 has TWO lines (two eyelids blinking)"
-      }
+      "meaning": "Sun / Day",
+      "mnemonic_image": "A blazing window - the sun observed by the counting mouth",
+      "sound_bridge": "REE = 'REE-ach for the sun!'",
+      "story": "My mouth observes the DAY blazing through. 'REE!' the SUN COMMANDS me awake. ONE bar of light inside the box - time begins its march.",
+      "tone_emotion": "COMMAND - sharp awakening of time",
+      "primitives": ["sun with internal line"],
+      "narrative_position": "The first celestial body marks day"
     },
     {
       "id": 13,
       "character": "月",
       "pinyin": "yuè",
       "tone": 4,
-      "meaning": "moon/month",
+      "meaning": "Moon / Month",
+      "mnemonic_image": "A crescent measuring cycles - time's other marker",
+      "sound_bridge": "YUE = 'YOU-eh, another month gone'",
+      "story": "Beside the sun gleams the MOON. 'YUE!' it COMMANDS the tides. I watch as MONTHS pass in its crescent rhythm - time's other wheel turning.",
+      "tone_emotion": "COMMAND - sharp cycle of months",
       "primitives": ["crescent with internal marks"],
-      "sound_bridge": {
-        "pinyin": "yuè",
-        "approximation": "YUE-EH",
-        "rhymes": ["duet", "cruet"]
-      },
-      "pithy_formula": "The crescent MOON COMMANDS 'YUE!' - I flip another calendar page.",
-      "story": "The crescent MOON hangs above and COMMANDS 'YUE!' with sharp authority. I RIP another calendar page off the wall - another MONTH gone. The moon's order is final.",
-      "word_count": 27,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "COMMANDS",
-        "sensory": ["visual (moon)", "auditory (command)", "kinesthetic (rip)"],
-        "chunks": 3
-      },
-      "similar_warning": {
-        "moon_vs_flesh_note": "When 月 appears on the LEFT side of a character, it usually means FLESH/BODY (evolved from 肉). Only when standalone or on the RIGHT does it mean moon/time."
-      }
+      "narrative_position": "Lunar cycles begin - time becomes measurable",
+      "moon_flesh_warning": "When 月 appears on the LEFT of a character, it usually means FLESH (from 肉), not moon"
     },
     {
       "id": 14,
       "character": "田",
       "pinyin": "tián",
       "tone": 2,
-      "meaning": "rice field",
-      "primitives": ["square divided into four plots"],
-      "sound_bridge": {
-        "pinyin": "tián",
-        "approximation": "TYEN",
-        "rhymes": ["yen", "den", "then"]
-      },
-      "pithy_formula": "I step into the FIELD and GASP 'TYEN?!' - mud swallows my legs!",
-      "story": "I step into the rice FIELD and GASP 'TYEN?!' in shock - the mud SWALLOWS my legs up to the knees! Four square plots, and I'm sinking fast. Pure surprise.",
-      "word_count": 29,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "GASP",
-        "sensory": ["kinesthetic (sinking)", "tactile (mud)", "auditory (gasp)"],
-        "chunks": 4
-      },
-      "similar_warning": {
-        "similar_to": "由",
-        "meaning": "from/reason",
-        "repulsion": "田 is fully ENCLOSED (trapped in the field); 由 ESCAPES below (has a reason to leave)"
-      }
+      "meaning": "Rice Field",
+      "mnemonic_image": "A geometric grid - the field that sustains existence",
+      "sound_bridge": "TYEN = 'TIE-AN to the land'",
+      "story": "Below me stretches the FIELD that sustains all life. I GASP 'TYEN?!' - stepping in, the mud SWALLOWS my legs. Four plots hold me fast, surprising and inescapable.",
+      "tone_emotion": "GASP - rising shock at the earth's grip",
+      "primitives": ["square divided into plots"],
+      "narrative_position": "The earth becomes cultivated - life can be sustained"
     },
     {
       "id": 15,
       "character": "目",
       "pinyin": "mù",
       "tone": 4,
-      "meaning": "eye",
-      "primitives": ["rectangle with TWO internal lines (eyelids)"],
-      "sound_bridge": {
-        "pinyin": "mù",
-        "approximation": "MOO",
-        "rhymes": ["boo", "who", "through"]
-      },
-      "pithy_formula": "Dust STABS my EYE - I BARK 'MOO!' TWO eyelids slamming shut.",
-      "story": "A speck of dust STABS into my EYE - I BARK 'MOO!' in sharp pain. TWO eyelids slam shut, tears streaming. The eye COMMANDS the invader out.",
-      "word_count": 27,
-      "quality_check": {
-        "first_person": true,
-        "transitive_verb": true,
-        "tone_verb": "BARK/COMMANDS",
-        "sensory": ["kinesthetic (stab)", "visual (tears)", "auditory (bark)"],
-        "chunks": 4
-      },
-      "similar_warning": {
-        "similar_to": "日",
-        "meaning": "sun/day",
-        "repulsion": "目 has TWO lines (two eyelids); 日 has ONE line (single sun bar)"
-      }
+      "meaning": "Eye",
+      "mnemonic_image": "Two eyelids blinking - the eye that witnesses everything",
+      "sound_bridge": "MOO = 'MOO-ve your eyes!'",
+      "story": "Reflected in the field's waters gazes the EYE - MY eye. 'MOO!' I COMMAND my vision to see it all. TWO eyelids blink. The cosmos awakens through observation.",
+      "tone_emotion": "COMMAND - sharp awakening of consciousness",
+      "primitives": ["rectangle with two internal lines"],
+      "narrative_position": "The observer emerges - consciousness witnesses creation"
     }
   ],
   "lesson_palace": {
-    "location": "Ancient Counting House",
-    "description": "A dusty vault where numbers come alive - each station holds its treasure",
+    "location": "The Primordial Void",
+    "description": "Before time, before space - the darkness where creation first stirred",
     "character_stations": {
-      "一": "The entrance: a single plank across the threshold",
-      "二": "Log pile: two beams stacked by the door",
-      "三": "Staircase: three steps leading up to the light",
-      "四": "Strongbox: four items trapped inside",
-      "五": "Crypt corner: five-fingered hand clawing up",
-      "六": "Lion statue: Leo guards six coins",
-      "七": "Chandelier: seven sparklers hanging from ceiling",
-      "八": "Forked passage: eight sheep scatter two ways",
-      "九": "Hook rack: nine rusty hooks on the wall",
-      "十": "X marks the spot: ten gold coins buried below",
-      "口": "Speaking grate: square mouth in the floor",
-      "日": "East window: morning sun blasting through",
-      "月": "Calendar wall: crescent moon marking months",
-      "田": "Courtyard: rice field visible through the bars",
-      "目": "Watchful portrait: eyes following you"
+      "一": "The First Stroke: a line of light appearing in pure darkness",
+      "二": "The Doubling: loneliness creating its echo",
+      "三": "The Staircase: three steps ascending toward being",
+      "四": "The First Cage: boundaries snapping shut",
+      "五": "The Crossroads: the crushing center of everything",
+      "六": "The Sealed Box: reality folding closed",
+      "七": "The Light Slash: sparklers cutting through void",
+      "八": "The Wing Spread: possibility diverging infinitely",
+      "九": "The Hook: reaching toward completion",
+      "十": "The Cross: destination achieved, creation complete",
+      "口": "The Speaking Void: the mouth that counted",
+      "日": "The Sun Window: first celestial marker",
+      "月": "The Moon Crescent: time's cycle beginning",
+      "田": "The Sustaining Grid: earth ready for life",
+      "目": "The Witness: the eye that makes it real"
     }
   },
   "quality_summary": {
     "total_characters": 15,
-    "first_person_compliance": "14/15 (93%)",
+    "first_person_compliance": "15/15 (100%)",
     "tone_verb_compliance": "15/15 (100%)",
     "transitive_verb_compliance": "15/15 (100%)",
-    "average_word_count": 27,
-    "similar_warnings_included": "8 pairs documented"
+    "narrative_coherence": "Creation myth from void to consciousness"
   }
 }
