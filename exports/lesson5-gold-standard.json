@@ -1,10 +1,13 @@
 {
   "meta": {
     "lesson": 5,
-    "title": "Work, Hands, and Blades",
+    "title": "The Workshop of Blades",
     "version": "3.0.0 - Gold Standard",
     "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
-    "character_count": 23
+    "character_count": 23,
+    "theme": "Saga: Craft",
+    "narrative_story": "The Older Brother set up a shop to sell tools, but he only knew how to make things sharp. Everything in his workshop was STRAIGHT — honest edges, true angles, no deception. He had come here TO SET UP a new life. The family business had no room for second sons. Every TOOL he made was functional. Hammers, saws, planes. But they bored him. What he wanted was TRUE — a purpose that matched his nature. THE WORK filled his days. Sawdust and sweat. Calluses and cuts. His LEFT hand held the wood. His RIGHT hand guided the blade. He began TO POSSESS a reputation. 'The brother who makes things sharp.' Officials came with BRIBES — shells from Lesson 4's strange economy. They wanted weapons. They brought TRIBUTE from the Emperor himself. Every ITEM in the order was specific: swords, daggers, spears. First, the SWORD — curved and hungry. Then the BLADE — that edge where steel becomes light. He taught himself TO CUT with precision. Seven materials. One stroke. Perfect. The Emperor learned of his skill. A messenger was sent TO SUMMON him to court. His talent became EVIDENT — bright as the sun on polished steel. But with recognition came RULES — regulations, restrictions, red tape. He was appointed VICE of the Imperial Blade-works. Second in command. Second again. He ranked FOURTH among the Emperor's craftsmen. A nail, hammered down. The court mosquitoes loved TO STING newcomers. He was no exception. But none of that mattered. What mattered was this: he CAN make things sharp. And so the OLDER BROTHER became a legend — not for his station, but for his craft. He stood at the CREST of his art, looking down at all the dull things still waiting to be sharpened.",
+    "narrative_arc": "A craftsman's journey from family rejection to imperial recognition through mastery of blade-making"
   },
   "characters": [
     {
@@ -13,6 +16,7 @@
       "pinyin": "zhí",
       "tone": 2,
       "meaning": "straight",
+      "narrative_position": "Everything in his workshop was STRAIGHT — honest edges, true angles, no deception",
       "primitives": ["十 (ten)", "目 (eye)", "L shape"],
       "sound_bridge": {
         "pinyin": "zhí",
@@ -42,6 +46,7 @@
       "pinyin": "zhì",
       "tone": 4,
       "meaning": "to set up/place",
+      "narrative_position": "He had come here TO SET UP a new life — the family business had no room for second sons",
       "primitives": ["罒 (net)", "直 (straight)"],
       "sound_bridge": {
         "pinyin": "zhì",
@@ -67,6 +72,7 @@
       "pinyin": "jù",
       "tone": 4,
       "meaning": "tool/implement",
+      "narrative_position": "Every TOOL he made was functional — hammers, saws, planes — but they bored him",
       "primitives": ["目 (eye)", "八/廾 (two hands)"],
       "sound_bridge": {
         "pinyin": "jù",
@@ -92,6 +98,7 @@
       "pinyin": "zhēn",
       "tone": 1,
       "meaning": "true",
+      "narrative_position": "What he wanted was TRUE — a purpose that matched his nature",
       "primitives": ["十 (ten)", "目 (eye)", "八 (eight/divide)"],
       "sound_bridge": {
         "pinyin": "zhēn",
@@ -121,6 +128,7 @@
       "pinyin": "gōng",
       "tone": 1,
       "meaning": "work",
+      "narrative_position": "THE WORK filled his days — sawdust and sweat, calluses and cuts",
       "primitives": ["pictograph of work beam/tool"],
       "sound_bridge": {
         "pinyin": "gōng",
@@ -146,6 +154,7 @@
       "pinyin": "zuǒ",
       "tone": 3,
       "meaning": "left",
+      "narrative_position": "His LEFT hand held the wood while crafting",
       "primitives": ["工 (work)", "手 variant (hand)"],
       "sound_bridge": {
         "pinyin": "zuǒ",
@@ -175,6 +184,7 @@
       "pinyin": "yòu",
       "tone": 4,
       "meaning": "right",
+      "narrative_position": "His RIGHT hand guided the blade with precision",
       "primitives": ["口 (mouth)", "手 variant (hand)"],
       "sound_bridge": {
         "pinyin": "yòu",
@@ -204,6 +214,7 @@
       "pinyin": "yǒu",
       "tone": 3,
       "meaning": "to possess/have",
+      "narrative_position": "He began TO POSSESS a reputation — 'The brother who makes things sharp'",
       "primitives": ["又 (hand)", "月 (flesh/moon)"],
       "sound_bridge": {
         "pinyin": "yǒu",
@@ -230,6 +241,7 @@
       "pinyin": "huì",
       "tone": 4,
       "meaning": "bribe",
+      "narrative_position": "Officials came with BRIBES — shells from the shellfish economy",
       "primitives": ["貝 (shell/money)", "有 (possess)"],
       "sound_bridge": {
         "pinyin": "huì",
@@ -255,6 +267,7 @@
       "pinyin": "gòng",
       "tone": 4,
       "meaning": "tribute",
+      "narrative_position": "They brought TRIBUTE from the Emperor himself for weapons",
       "primitives": ["工 (work)", "貝 (shell/money)"],
       "sound_bridge": {
         "pinyin": "gòng",
@@ -280,6 +293,7 @@
       "pinyin": "xiàng",
       "tone": 4,
       "meaning": "item/nape of neck",
+      "narrative_position": "Every ITEM in the order was specific — swords, daggers, spears",
       "primitives": ["工 (work)", "頁 (head/page)"],
       "sound_bridge": {
         "pinyin": "xiàng",
@@ -305,6 +319,7 @@
       "pinyin": "dāo",
       "tone": 1,
       "meaning": "knife/sword",
+      "narrative_position": "First, the SWORD — curved and hungry",
       "primitives": ["pictograph of blade"],
       "sound_bridge": {
         "pinyin": "dāo",
@@ -334,6 +349,7 @@
       "pinyin": "rèn",
       "tone": 4,
       "meaning": "blade/edge",
+      "narrative_position": "Then the BLADE — that edge where steel becomes light",
       "primitives": ["刀 (knife)", "丶 (dot = edge point)"],
       "sound_bridge": {
         "pinyin": "rèn",
@@ -341,11 +357,11 @@
         "rhymes": ["pen", "zen", "then"]
       },
       "etymology": "Knife (刀) + dot (丶) marking the edge = blade (the sharp part)",
-      "pithy_formula": "The BLADE's edge bites and COMMANDS 'REN!' - sharp and final!",
-      "story": "The BLADE's edge bites into flesh and COMMANDS 'REN!' with sharp finality. The dot marks where steel meets skin - one decisive cut, one barking command.",
-      "word_count": 27,
+      "pithy_formula": "I hone the BLADE's edge and COMMAND 'REN!' - sharp and final!",
+      "story": "I hone the BLADE's edge until it bites into flesh. I COMMAND 'REN!' with sharp finality. The dot marks where steel meets skin - one decisive cut from my hands.",
+      "word_count": 29,
       "quality_check": {
-        "first_person": false,
+        "first_person": true,
         "transitive_verb": "bites",
         "tone_verb": "COMMANDS",
         "sensory": ["tactile (cutting)", "auditory (command)", "visual (edge)"],
@@ -363,6 +379,7 @@
       "pinyin": "qiè",
       "tone": 4,
       "meaning": "to cut",
+      "narrative_position": "He taught himself TO CUT with precision — seven materials, one stroke, perfect",
       "primitives": ["七 (seven)", "刀 (knife)"],
       "sound_bridge": {
         "pinyin": "qiè",
@@ -388,6 +405,7 @@
       "pinyin": "zhào",
       "tone": 4,
       "meaning": "to summon",
+      "narrative_position": "A messenger was sent TO SUMMON him to the Emperor's court",
       "primitives": ["刀 (knife)", "口 (mouth)"],
       "sound_bridge": {
         "pinyin": "zhào",
@@ -417,6 +435,7 @@
       "pinyin": "zhāo",
       "tone": 1,
       "meaning": "evident/clear",
+      "narrative_position": "His talent became EVIDENT — bright as the sun on polished steel",
       "primitives": ["日 (sun)", "召 (summon)"],
       "sound_bridge": {
         "pinyin": "zhāo",
@@ -446,6 +465,7 @@
       "pinyin": "zé",
       "tone": 2,
       "meaning": "rule/regulation",
+      "narrative_position": "With recognition came RULES — regulations, restrictions, red tape",
       "primitives": ["貝 (shell/money)", "刂 (knife radical)"],
       "sound_bridge": {
         "pinyin": "zé",
@@ -471,6 +491,7 @@
       "pinyin": "fù",
       "tone": 4,
       "meaning": "vice-/deputy",
+      "narrative_position": "He was appointed VICE of the Imperial Blade-works — second in command, second again",
       "primitives": ["畐 (full)", "刂 (knife radical)"],
       "sound_bridge": {
         "pinyin": "fù",
@@ -478,11 +499,11 @@
         "rhymes": ["boo", "who", "through"]
       },
       "etymology": "Full (畐) + knife (刂) = vice (cut portion of the whole, secondary)",
-      "pithy_formula": "The VICE-commander steps forward and COMMANDS 'FOO!' - second in power!",
-      "story": "The VICE-commander steps forward and COMMANDS 'FOO!' with sharp authority. Second to the leader, a cut portion of power - the deputy barks orders in his master's absence.",
-      "word_count": 28,
+      "pithy_formula": "I serve as VICE-commander and COMMAND 'FOO!' - second in power!",
+      "story": "I step forward as VICE-commander and COMMAND 'FOO!' with sharp authority. Second to the leader, I am a cut portion of power - I bark orders in my master's absence.",
+      "word_count": 30,
       "quality_check": {
-        "first_person": false,
+        "first_person": true,
         "transitive_verb": "steps/barks",
         "tone_verb": "COMMANDS",
         "sensory": ["visual (commander)", "auditory (command)", "spatial (hierarchy)"],
@@ -496,6 +517,7 @@
       "pinyin": "dīng",
       "tone": 1,
       "meaning": "nail/fourth (Heavenly Stem)",
+      "narrative_position": "He ranked FOURTH among the Emperor's craftsmen — a nail, hammered down",
       "primitives": ["pictograph of nail head"],
       "sound_bridge": {
         "pinyin": "dīng",
@@ -525,6 +547,7 @@
       "pinyin": "dīng",
       "tone": 1,
       "meaning": "to sting/tinkle",
+      "narrative_position": "The court mosquitoes loved TO STING newcomers — he was no exception",
       "primitives": ["口 (mouth)", "丁 (nail)"],
       "sound_bridge": {
         "pinyin": "dīng",
@@ -554,6 +577,7 @@
       "pinyin": "kě",
       "tone": 3,
       "meaning": "can/may",
+      "narrative_position": "What mattered was this: he CAN make things sharp",
       "primitives": ["口 (mouth)", "丁 variant"],
       "sound_bridge": {
         "pinyin": "kě",
@@ -579,6 +603,7 @@
       "pinyin": "gē",
       "tone": 1,
       "meaning": "older brother",
+      "narrative_position": "And so the OLDER BROTHER became a legend — not for his station, but for his craft",
       "primitives": ["可 (can) doubled"],
       "sound_bridge": {
         "pinyin": "gē",
@@ -604,6 +629,7 @@
       "pinyin": "dǐng",
       "tone": 3,
       "meaning": "top/crest",
+      "narrative_position": "He stood at the CREST of his art, looking down at all the dull things waiting to be sharpened",
       "primitives": ["丁 (nail/top)", "頁 (head)"],
       "sound_bridge": {
         "pinyin": "dǐng",
@@ -625,8 +651,8 @@
     }
   ],
   "lesson_palace": {
-    "location": "The Forge of Blades",
-    "description": "A blacksmith's compound where work is done, hands are skilled, and steel speaks with authority",
+    "location": "The Workshop of Blades",
+    "description": "The Older Brother's imperial blade-works where second sons become masters and dull things are sharpened to perfection",
     "character_stations": {
       "直": "Measuring room: straight lines checked by ten eyes",
       "置": "Trap workshop: nets set up with precision",
@@ -655,7 +681,7 @@
   },
   "quality_summary": {
     "total_characters": 23,
-    "first_person_compliance": "21/23 (91%)",
+    "first_person_compliance": "23/23 (100%)",
     "tone_verb_compliance": "23/23 (100%)",
     "transitive_verb_compliance": "23/23 (100%)",
     "average_word_count": 27,

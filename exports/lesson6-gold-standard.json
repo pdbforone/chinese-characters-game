@@ -1,10 +1,13 @@
 {
   "meta": {
     "lesson": 6,
-    "title": "Family and Kinship",
+    "title": "The Child Who Roared",
     "version": "3.0.0 - Gold Standard",
     "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
     "character_count": 12,
+    "theme": "Saga: Family",
+    "narrative_story": "The second child was not good; in fact, he was a piercing headache. He was the SECOND — hooked like a fish gut, bent like trouble. But he was still a CHILD — small, incomplete, full of potential. He discovered a CAVITY in the garden wall — an opening to a world his parents didn't control. Through that hole, he learned TO ROAR. Not a cry. Not a whimper. A roar. His parents wish they had stoppED him earlier. But completion comes too late. His mother was a WOMAN of patience. Bent gracefully, like water around stone. She believed he would become GOOD — woman and child together, in harmony. 'You'll grow TO BE LIKE your brother,' she promised. 'Strong. Respected.' The MOTHER fed him, clothed him, endured him. But this child had no interest in being like anyone. He wanted TO PIERCE through expectations. His ELDER BROTHER — the one from the Workshop of Blades — tried to teach him discipline. The child watched, roared, and learned TO OVERCOME every obstacle they placed before him. Not by obedience. By force of will.",
+    "narrative_arc": "A defiant child discovers his voice through rebellion against family expectations",
     "note": "Heavy T3 lesson (7 characters) - excellent zombie/groan practice"
   },
   "characters": [
@@ -14,6 +17,7 @@
       "pinyin": "yǐ",
       "tone": 3,
       "meaning": "second (Heavenly Stem)",
+      "narrative_position": "He was the SECOND — hooked like a fish gut, bent like trouble",
       "primitives": ["curved hook shape"],
       "sound_bridge": {
         "pinyin": "yǐ",
@@ -43,6 +47,7 @@
       "pinyin": "zǐ",
       "tone": 3,
       "meaning": "child",
+      "narrative_position": "But he was still a CHILD — small, incomplete, full of potential",
       "primitives": ["pictograph of child with arms"],
       "sound_bridge": {
         "pinyin": "zǐ",
@@ -50,11 +55,11 @@
         "rhymes": ["zoo", "boo", "through"]
       },
       "etymology": "Pictograph of a baby with arms outstretched",
-      "pithy_formula": "The CHILD reaches up and GROANS 'Dzuuu...' wanting to be held.",
-      "story": "The CHILD reaches up with tiny arms, GROANING 'Dzuuu...' in low, needy desperation. Pick me up. Hold me. The zombie-baby wants flesh - I mean, comfort.",
+      "pithy_formula": "I am the CHILD reaching up, GROANING 'Dzuuu...' wanting to be held.",
+      "story": "I am the CHILD reaching up with tiny arms, GROANING 'Dzuuu...' in low, needy desperation. Pick me up. Hold me. I want flesh - I mean, comfort.",
       "word_count": 28,
       "quality_check": {
-        "first_person": false,
+        "first_person": true,
         "transitive_verb": "reaches up",
         "tone_verb": "GROANING",
         "sensory": ["visual (arms)", "auditory (groan)", "kinesthetic (reaching)"],
@@ -72,6 +77,7 @@
       "pinyin": "kǒng",
       "tone": 3,
       "meaning": "hole/cavity",
+      "narrative_position": "He discovered a CAVITY in the garden wall — an opening to freedom",
       "primitives": ["子 (child)", "乚 (hook)"],
       "sound_bridge": {
         "pinyin": "kǒng",
@@ -101,6 +107,7 @@
       "pinyin": "hǒu",
       "tone": 3,
       "meaning": "to roar",
+      "narrative_position": "Through that hole, he learned TO ROAR — not a cry, not a whimper, a roar",
       "primitives": ["口 (mouth)", "孔 (cavity)"],
       "sound_bridge": {
         "pinyin": "hǒu",
@@ -130,6 +137,7 @@
       "pinyin": "le",
       "tone": 5,
       "meaning": "completed action marker (-ed)",
+      "narrative_position": "His parents wish they had stoppED him earlier — but completion comes too late",
       "primitives": ["simplified child without arms"],
       "sound_bridge": {
         "pinyin": "le",
@@ -159,6 +167,7 @@
       "pinyin": "nǚ",
       "tone": 3,
       "meaning": "woman",
+      "narrative_position": "His mother was a WOMAN of patience — bent gracefully like water around stone",
       "primitives": ["pictograph of kneeling woman"],
       "sound_bridge": {
         "pinyin": "nǚ",
@@ -166,11 +175,11 @@
         "rhymes": ["new", "few", "view"]
       },
       "etymology": "Pictograph of a woman kneeling - ancient character for female",
-      "pithy_formula": "The WOMAN rises from the grave and GROANS 'Nyuuu...' for vengeance.",
-      "story": "The WOMAN rises from her grave, GROANING 'Nyuuu...' in low, creaky fury. She was wronged in life - now she returns, zombie-slow, seeking what was stolen from her.",
-      "word_count": 28,
+      "pithy_formula": "I am the WOMAN rising from the grave, GROANING 'Nyuuu...' for vengeance.",
+      "story": "I am the WOMAN rising from my grave, GROANING 'Nyuuu...' in low, creaky fury. I was wronged in life - now I return, zombie-slow, seeking what was stolen from me.",
+      "word_count": 30,
       "quality_check": {
-        "first_person": false,
+        "first_person": true,
         "transitive_verb": "rises/seeking",
         "tone_verb": "GROANING",
         "sensory": ["visual (rising)", "auditory (groan)", "emotional (fury)"],
@@ -188,6 +197,7 @@
       "pinyin": "hǎo",
       "tone": 3,
       "meaning": "good",
+      "narrative_position": "She believed he would become GOOD — woman and child together, in harmony",
       "primitives": ["女 (woman)", "子 (child)"],
       "sound_bridge": {
         "pinyin": "hǎo",
@@ -213,6 +223,7 @@
       "pinyin": "rú",
       "tone": 2,
       "meaning": "to be like/as if",
+      "narrative_position": "'You'll grow TO BE LIKE your brother,' she promised — strong, respected",
       "primitives": ["女 (woman)", "口 (mouth)"],
       "sound_bridge": {
         "pinyin": "rú",
@@ -238,6 +249,7 @@
       "pinyin": "mǔ",
       "tone": 3,
       "meaning": "mother",
+      "narrative_position": "The MOTHER fed him, clothed him, endured him",
       "primitives": ["女 (woman) with two dots (breasts)"],
       "sound_bridge": {
         "pinyin": "mǔ",
@@ -267,6 +279,7 @@
       "pinyin": "guàn",
       "tone": 4,
       "meaning": "to pierce/string through",
+      "narrative_position": "But this child wanted TO PIERCE through expectations",
       "primitives": ["毋 (mother variant)", "貝 (shell)"],
       "sound_bridge": {
         "pinyin": "guàn",
@@ -292,6 +305,7 @@
       "pinyin": "xiōng",
       "tone": 1,
       "meaning": "elder brother",
+      "narrative_position": "His ELDER BROTHER — the one from the Workshop of Blades — tried to teach discipline",
       "primitives": ["口 (mouth)", "儿 (legs/person)"],
       "sound_bridge": {
         "pinyin": "xiōng",
@@ -321,6 +335,7 @@
       "pinyin": "kè",
       "tone": 4,
       "meaning": "to overcome/conquer",
+      "narrative_position": "The child watched, roared, and learned TO OVERCOME every obstacle",
       "primitives": ["十 (ten)", "兄 variant"],
       "sound_bridge": {
         "pinyin": "kè",
@@ -346,8 +361,8 @@
     }
   ],
   "lesson_palace": {
-    "location": "The Ancestral Hall",
-    "description": "A family shrine where generations gather - living and dead, protectors and protected",
+    "location": "The Roaring Child's Garden",
+    "description": "A family compound where the second child discovers rebellion through a hole in the wall, learning to roar against expectations",
     "character_stations": {
       "乙": "Second-place trophy: bitter silver medal on the wall",
       "子": "Nursery corner: baby arms reaching from the crib",
@@ -365,7 +380,7 @@
   },
   "quality_summary": {
     "total_characters": 12,
-    "first_person_compliance": "10/12 (83%)",
+    "first_person_compliance": "12/12 (100%)",
     "tone_verb_compliance": "12/12 (100%)",
     "transitive_verb_compliance": "12/12 (100%)",
     "average_word_count": 29,
