@@ -1,7 +1,11 @@
 {
   "meta": {
     "lesson": 9,
-    "title": "Fields, Darkness, and Dwellings",
+    "title": "The Black Ink Banquet",
+    "theme": "Saga: Craft",
+    "narrative_story": "In a cave buried a thousand Li away, they hold a banquet where you eat only ink. Scholars journey through endless fields, burying the entrance behind them, to copy forbidden texts in total darkness. They risk everything—eyesight, sanity, the surface world—for the written character. Despite the black void, they find peace, feasting once per year on ink and knowledge.",
+    "narrative_arc": "A secret society of scholars journeys to an underground cave where they copy forbidden manuscripts and feast on ink",
+    "callbacks": "Nighttime recalls Month from Lesson 1",
     "version": "3.0.0 - Gold Standard",
     "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
     "character_count": 22
@@ -13,6 +17,7 @@
       "pinyin": "lǐ",
       "tone": 3,
       "meaning": "li (unit of distance)",
+      "narrative_position": "The journey measured a LI—then another, then a thousand",
       "primitives": ["田 (field)", "土 (earth)"],
       "sound_bridge": {
         "pinyin": "lǐ",
@@ -38,6 +43,7 @@
       "pinyin": "liàng",
       "tone": 4,
       "meaning": "quantity/to measure",
+      "narrative_position": "The QUANTITY of distance was meaningless; only commitment mattered",
       "primitives": ["日 (sun)", "里 (li)"],
       "sound_bridge": {
         "pinyin": "liàng",
@@ -63,6 +69,7 @@
       "pinyin": "mái",
       "tone": 2,
       "meaning": "to bury",
+      "narrative_position": "They would BURY the entrance after you entered—no going back",
       "primitives": ["土 (earth)", "里 (li)"],
       "sound_bridge": {
         "pinyin": "mái",
@@ -88,6 +95,7 @@
       "pinyin": "hēi",
       "tone": 1,
       "meaning": "black",
+      "narrative_position": "Inside, everything was BLACK—the color of secrets, the color of ink",
       "primitives": ["田 (field)", "土 (earth)", "灬 (fire)"],
       "sound_bridge": {
         "pinyin": "hēi",
@@ -117,6 +125,7 @@
       "pinyin": "diǎn",
       "tone": 3,
       "meaning": "spot/point/dot",
+      "narrative_position": "Your eyes adjusted to find SPOTS of lesser darkness",
       "primitives": ["黑 (black)", "占 (divine)"],
       "sound_bridge": {
         "pinyin": "diǎn",
@@ -142,6 +151,7 @@
       "pinyin": "mò",
       "tone": 4,
       "meaning": "ink",
+      "narrative_position": "BLACK INK was the only substance allowed—you drank it, breathed it",
       "primitives": ["黑 (black)", "土 (earth)"],
       "sound_bridge": {
         "pinyin": "mò",
@@ -171,6 +181,7 @@
       "pinyin": "mào",
       "tone": 4,
       "meaning": "to risk/to brave",
+      "narrative_position": "To attend was TO RISK everything: eyesight, sanity, the surface world",
       "primitives": ["日 (sun variant)", "目 (eye)"],
       "sound_bridge": {
         "pinyin": "mào",
@@ -196,6 +207,7 @@
       "pinyin": "tóng",
       "tone": 2,
       "meaning": "same/together",
+      "narrative_position": "They all came—they were the SAME, seekers of the hidden word",
       "primitives": ["冂 (borders)", "一 (one)", "口 (mouth)"],
       "sound_bridge": {
         "pinyin": "tóng",
@@ -225,6 +237,7 @@
       "pinyin": "dòng",
       "tone": 4,
       "meaning": "cave/hole",
+      "narrative_position": "The CAVE went deeper than geography",
       "primitives": ["氵 (water)", "同 (same)"],
       "sound_bridge": {
         "pinyin": "dòng",
@@ -254,6 +267,7 @@
       "pinyin": "xiàng",
       "tone": 4,
       "meaning": "toward/direction",
+      "narrative_position": "ORIENTATION was a memory—which way was up?",
       "primitives": ["宀 (roof)", "口 (mouth)"],
       "sound_bridge": {
         "pinyin": "xiàng",
@@ -279,6 +293,7 @@
       "pinyin": "shàng",
       "tone": 4,
       "meaning": "to esteem/still",
+      "narrative_position": "Here, scholars gathered TO ESTEEM one thing only: the written character",
       "primitives": ["小 (small)", "冂 (borders)", "口 (mouth)"],
       "sound_bridge": {
         "pinyin": "shàng",
@@ -304,6 +319,7 @@
       "pinyin": "zì",
       "tone": 4,
       "meaning": "character/word",
+      "narrative_position": "They esteemed one thing only: the written CHARACTER",
       "primitives": ["宀 (roof)", "子 (child)"],
       "sound_bridge": {
         "pinyin": "zì",
@@ -329,6 +345,7 @@
       "pinyin": "shǒu",
       "tone": 3,
       "meaning": "to guard/protect",
+      "narrative_position": "They GUARDED texts too dangerous for sunlight",
       "primitives": ["宀 (roof)", "寸 (inch)"],
       "sound_bridge": {
         "pinyin": "shǒu",
@@ -354,6 +371,7 @@
       "pinyin": "wán",
       "tone": 2,
       "meaning": "to finish/complete",
+      "narrative_position": "Their task: TO FINISH copying the forbidden manuscripts",
       "primitives": ["宀 (roof)", "元 (origin)"],
       "sound_bridge": {
         "pinyin": "wán",
@@ -379,6 +397,7 @@
       "pinyin": "shí",
       "tone": 2,
       "meaning": "reality/solid/true",
+      "narrative_position": "This was REALITY—more real than the kingdoms above",
       "primitives": ["宀 (roof)", "貫 (pierce)"],
       "sound_bridge": {
         "pinyin": "shí",
@@ -404,6 +423,7 @@
       "pinyin": "xuān",
       "tone": 1,
       "meaning": "to proclaim/announce",
+      "narrative_position": "Heralds would PROCLAIM when a new text was complete",
       "primitives": ["宀 (roof)", "亘 (span)"],
       "sound_bridge": {
         "pinyin": "xuān",
@@ -429,6 +449,7 @@
       "pinyin": "xiāo",
       "tone": 1,
       "meaning": "night/nighttime",
+      "narrative_position": "All work happened at NIGHTTIME—in a cave, there was no day",
       "primitives": ["宀 (roof)", "肖 (resemble)"],
       "sound_bridge": {
         "pinyin": "xiāo",
@@ -454,6 +475,7 @@
       "pinyin": "ān",
       "tone": 1,
       "meaning": "peaceful/safe",
+      "narrative_position": "Despite the darkness, they were PEACEFUL—the ink calmed them",
       "primitives": ["宀 (roof)", "女 (woman)"],
       "sound_bridge": {
         "pinyin": "ān",
@@ -479,6 +501,7 @@
       "pinyin": "yàn",
       "tone": 4,
       "meaning": "banquet/feast",
+      "narrative_position": "The great BANQUET came once per year",
       "primitives": ["宀 (roof)", "日 (sun)", "女 (woman)"],
       "sound_bridge": {
         "pinyin": "yàn",
@@ -504,6 +527,7 @@
       "pinyin": "jì",
       "tone": 4,
       "meaning": "to mail/send",
+      "narrative_position": "Invitations were sent BY MAIL—black envelopes, black ink, black wax",
       "primitives": ["宀 (roof)", "奇 (strange)"],
       "sound_bridge": {
         "pinyin": "jì",
@@ -529,6 +553,7 @@
       "pinyin": "fù",
       "tone": 4,
       "meaning": "wealthy/rich",
+      "narrative_position": "Only the WEALTHY could afford the journey and disappear for so long",
       "primitives": ["宀 (roof)", "畐 (abundance)"],
       "sound_bridge": {
         "pinyin": "fù",
@@ -554,6 +579,7 @@
       "pinyin": "zhù",
       "tone": 4,
       "meaning": "to store up/save",
+      "narrative_position": "Those who returned learned TO STORE UP what they had learned—hidden, protected, waiting",
       "primitives": ["貝 (shell/money)", "宁 (peaceful)"],
       "sound_bridge": {
         "pinyin": "zhù",
@@ -575,8 +601,8 @@
     }
   ],
   "lesson_palace": {
-    "location": "The Scholar's Estate",
-    "description": "A wealthy estate with rice fields, an ink-stained study, and vaults of stored treasure beneath the main house",
+    "location": "The Black Ink Banquet Cave",
+    "description": "A hidden underground cave where scholars gather to copy forbidden texts and feast on ink, buried a thousand li from civilization",
     "character_stations": {
       "里": "Field path: endless li stretching toward horizon",
       "量": "Measuring room: sun dial and scales for precise quantity",
