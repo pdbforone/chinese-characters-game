@@ -1,10 +1,13 @@
 {
   "meta": {
     "lesson": 7,
-    "title": "Size, Quantity, and Evening",
+    "title": "The Battle of Stones and Rays",
     "version": "3.0.0 - Gold Standard",
     "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
-    "character_count": 20
+    "character_count": 20,
+    "theme": "Saga: Elements",
+    "narrative_story": "A small stone decided it wanted to be a large sun. It was SMALL — insignificant, overlooked, stepped upon. It had FEW admirers and even fewer friends. When it tried to speak, its voice was NOISY — grating, irritating. The sun, by contrast, was LARGE — vast, warm, the center of everything. The stone sharpened itself to a TIP — small on top, large on bottom. Ready to pierce. Each EVENING, it watched the sun descend and dreamed of rising. There were MANY evenings like this. Years of evenings. Finally, the stone had ENOUGH. It was time. It rolled OUTSIDE the cave where it had rested for centuries. It demanded a NAME — something other than 'small stone.' Its body was THICK — layers of compressed time. It remembered: it was no mere STONE. It was ancient. It looked at the GRAVEL around it — lesser stones, shattered things — and felt pity. 'I will do something WONDERFUL,' it declared. It began TO RESEMBLE the sun — concentrating heat within itself. It tried TO PEEL away its outer layers, hoping to reveal light beneath. For one moment, it emitted a RAY — a single beam of borrowed brilliance. But it was OVERLY ambitious. One ray is not the sun. The stone learned TO ECONOMIZE — to save its light, to glow gently. It became something STRANGE — not a sun, but something the sun had never been. A stone that dreamed. A stone that almost shone.",
+    "narrative_arc": "An insignificant stone's ambitious quest to become a sun, learning to find its own strange brilliance"
   },
   "characters": [
     {
@@ -13,6 +16,7 @@
       "pinyin": "xiǎo",
       "tone": 3,
       "meaning": "small",
+      "narrative_position": "It was SMALL — insignificant, overlooked, stepped upon",
       "primitives": ["dividing strokes (things made smaller)"],
       "sound_bridge": {
         "pinyin": "xiǎo",
@@ -42,6 +46,7 @@
       "pinyin": "shǎo",
       "tone": 3,
       "meaning": "few",
+      "narrative_position": "It had FEW admirers and even fewer friends",
       "primitives": ["小 (small)", "丿 (slash)"],
       "sound_bridge": {
         "pinyin": "shǎo",
@@ -71,6 +76,7 @@
       "pinyin": "chǎo",
       "tone": 3,
       "meaning": "noisy",
+      "narrative_position": "When it tried to speak, its voice was NOISY — grating, irritating",
       "primitives": ["口 (mouth)", "少 (few)"],
       "sound_bridge": {
         "pinyin": "chǎo",
@@ -96,6 +102,7 @@
       "pinyin": "dà",
       "tone": 4,
       "meaning": "large",
+      "narrative_position": "The sun was LARGE — vast, warm, the center of everything",
       "primitives": ["pictograph of person with arms spread"],
       "sound_bridge": {
         "pinyin": "dà",
@@ -125,6 +132,7 @@
       "pinyin": "jiān",
       "tone": 1,
       "meaning": "tip/point",
+      "narrative_position": "The stone sharpened itself to a TIP — small on top, large on bottom",
       "primitives": ["小 (small)", "大 (large)"],
       "sound_bridge": {
         "pinyin": "jiān",
@@ -150,6 +158,7 @@
       "pinyin": "xī",
       "tone": 1,
       "meaning": "evening",
+      "narrative_position": "Each EVENING, it watched the sun descend and dreamed of rising",
       "primitives": ["half-moon shape"],
       "sound_bridge": {
         "pinyin": "xī",
@@ -179,6 +188,7 @@
       "pinyin": "duō",
       "tone": 1,
       "meaning": "many",
+      "narrative_position": "There were MANY evenings like this — years of evenings",
       "primitives": ["夕 (evening) doubled"],
       "sound_bridge": {
         "pinyin": "duō",
@@ -208,6 +218,7 @@
       "pinyin": "gòu",
       "tone": 4,
       "meaning": "enough",
+      "narrative_position": "Finally, the stone had ENOUGH — it was time",
       "primitives": ["多 (many)", "句 (sentence)"],
       "sound_bridge": {
         "pinyin": "gòu",
@@ -233,6 +244,7 @@
       "pinyin": "wài",
       "tone": 4,
       "meaning": "outside",
+      "narrative_position": "It rolled OUTSIDE the cave where it had rested for centuries",
       "primitives": ["夕 (evening)", "卜 (divination)"],
       "sound_bridge": {
         "pinyin": "wài",
@@ -258,6 +270,7 @@
       "pinyin": "míng",
       "tone": 2,
       "meaning": "name",
+      "narrative_position": "It demanded a NAME — something other than 'small stone'",
       "primitives": ["夕 (evening)", "口 (mouth)"],
       "sound_bridge": {
         "pinyin": "míng",
@@ -283,6 +296,7 @@
       "pinyin": "hòu",
       "tone": 4,
       "meaning": "thick",
+      "narrative_position": "Its body was THICK — layers of compressed time",
       "primitives": ["厂 (cliff)", "日 (sun)", "子 (child)"],
       "sound_bridge": {
         "pinyin": "hòu",
@@ -308,6 +322,7 @@
       "pinyin": "shí",
       "tone": 2,
       "meaning": "stone",
+      "narrative_position": "It remembered: it was no mere STONE — it was ancient",
       "primitives": ["厂 (cliff)", "口 (mouth/opening)"],
       "sound_bridge": {
         "pinyin": "shí",
@@ -337,6 +352,7 @@
       "pinyin": "shā",
       "tone": 1,
       "meaning": "gravel/sand",
+      "narrative_position": "It looked at the GRAVEL around it — lesser stones, shattered things",
       "primitives": ["石 (stone)", "少 (few/small)"],
       "sound_bridge": {
         "pinyin": "shā",
@@ -366,6 +382,7 @@
       "pinyin": "miào",
       "tone": 4,
       "meaning": "wonderful",
+      "narrative_position": "'I will do something WONDERFUL,' it declared",
       "primitives": ["女 (woman)", "少 (few/young)"],
       "sound_bridge": {
         "pinyin": "miào",
@@ -391,6 +408,7 @@
       "pinyin": "xiào",
       "tone": 4,
       "meaning": "to resemble",
+      "narrative_position": "It began TO RESEMBLE the sun — concentrating heat within itself",
       "primitives": ["小 (small)", "月 (flesh/moon)"],
       "sound_bridge": {
         "pinyin": "xiào",
@@ -421,6 +439,7 @@
       "pinyin": "xiāo",
       "tone": 1,
       "meaning": "to peel/pare",
+      "narrative_position": "It tried TO PEEL away its outer layers, hoping to reveal light beneath",
       "primitives": ["肖 (resemble)", "刂 (knife)"],
       "sound_bridge": {
         "pinyin": "xiāo",
@@ -450,6 +469,7 @@
       "pinyin": "guāng",
       "tone": 1,
       "meaning": "light/ray",
+      "narrative_position": "For one moment, it emitted a RAY — a single beam of borrowed brilliance",
       "primitives": ["fire", "儿 (legs)"],
       "sound_bridge": {
         "pinyin": "guāng",
@@ -475,6 +495,7 @@
       "pinyin": "tài",
       "tone": 4,
       "meaning": "too/overly",
+      "narrative_position": "But it was OVERLY ambitious — one ray is not the sun",
       "primitives": ["大 (large)", "丶 (dot)"],
       "sound_bridge": {
         "pinyin": "tài",
@@ -504,6 +525,7 @@
       "pinyin": "shěng",
       "tone": 3,
       "meaning": "to economize/province",
+      "narrative_position": "The stone learned TO ECONOMIZE — to save its light, to glow gently",
       "primitives": ["少 (few)", "目 (eye)"],
       "sound_bridge": {
         "pinyin": "shěng",
@@ -529,6 +551,7 @@
       "pinyin": "qí",
       "tone": 2,
       "meaning": "strange/odd",
+      "narrative_position": "It became something STRANGE — not a sun, but something the sun had never been",
       "primitives": ["大 (large)", "可 (can)"],
       "sound_bridge": {
         "pinyin": "qí",
@@ -550,8 +573,8 @@
     }
   ],
   "lesson_palace": {
-    "location": "The Scaling Chamber",
-    "description": "A room where everything shifts between extremes - small and large, few and many, light and dark",
+    "location": "The Stone's Dream Chamber",
+    "description": "A cave where a small stone dreams of becoming a sun, surrounded by gravel and pierced by rays of borrowed light",
     "character_stations": {
       "小": "Shrinking corner: body compresses smaller and smaller",
       "少": "Empty pantry: only a few scraps remain",

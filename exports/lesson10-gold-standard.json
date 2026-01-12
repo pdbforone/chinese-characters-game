@@ -1,7 +1,11 @@
 {
   "meta": {
     "lesson": 10,
-    "title": "Trees, Grass, and the Cycle of Growth",
+    "title": "The Forest of Dim-Witted Trees",
+    "theme": "Saga: Nature",
+    "narrative_story": "Not all forests are wise; this one is full of dim-witted apricot trees. A student comes to document this oddity, finding a legal case over ridiculous trees, a village of mutual incompetence, and an old man who died laughing at an apricot's joke. His younger sister investigates, wandering through forest to desert until she finds a seedling—small, determined, possibly less stupid than its parents.",
+    "narrative_arc": "A botanical mystery unfolds as a sister investigates her brother's death among foolish trees, discovering hope in a single seedling",
+    "callbacks": "Younger sister recalls Older Brother from Lesson 5",
     "version": "3.0.0 - Gold Standard",
     "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
     "character_count": 32,
@@ -14,6 +18,7 @@
       "pinyin": "mù",
       "tone": 4,
       "meaning": "tree/wood",
+      "narrative_position": "First, there was a TREE—singular, vertical, reaching for light",
       "primitives": ["pictograph of tree with roots and branches"],
       "sound_bridge": {
         "pinyin": "mù",
@@ -39,6 +44,7 @@
       "pinyin": "lín",
       "tone": 2,
       "meaning": "woods/grove",
+      "narrative_position": "Then WOODS—two trees became companions",
       "primitives": ["木 (tree) doubled"],
       "sound_bridge": {
         "pinyin": "lín",
@@ -68,6 +74,7 @@
       "pinyin": "sēn",
       "tone": 1,
       "meaning": "forest",
+      "narrative_position": "Then the FOREST—three trees became a world",
       "primitives": ["木 (tree) tripled"],
       "sound_bridge": {
         "pinyin": "sēn",
@@ -97,6 +104,7 @@
       "pinyin": "zhí",
       "tone": 2,
       "meaning": "to plant",
+      "narrative_position": "Someone had thought TO PLANT order here—they failed",
       "primitives": ["木 (tree)", "直 (straight)"],
       "sound_bridge": {
         "pinyin": "zhí",
@@ -122,6 +130,7 @@
       "pinyin": "xìng",
       "tone": 4,
       "meaning": "apricot",
+      "narrative_position": "APRICOT trees grew everywhere—sweet, fragrant, absolutely stupid",
       "primitives": ["木 (tree)", "口 (mouth)"],
       "sound_bridge": {
         "pinyin": "xìng",
@@ -147,6 +156,7 @@
       "pinyin": "dāi",
       "tone": 1,
       "meaning": "dull/dim-witted",
+      "narrative_position": "The trees were DIM-WITTED—mouths open, vacant stares",
       "primitives": ["口 (mouth)", "木 (wood)"],
       "sound_bridge": {
         "pinyin": "dāi",
@@ -172,6 +182,7 @@
       "pinyin": "kū",
       "tone": 1,
       "meaning": "withered/dried up",
+      "narrative_position": "Many had already WITHERED—too foolish to find water",
       "primitives": ["木 (tree)", "古 (ancient)"],
       "sound_bridge": {
         "pinyin": "kū",
@@ -197,6 +208,7 @@
       "pinyin": "cūn",
       "tone": 1,
       "meaning": "village",
+      "narrative_position": "A VILLAGE huddled at the forest's edge, trading with the trees",
       "primitives": ["木 (tree)", "寸 (inch)"],
       "sound_bridge": {
         "pinyin": "cūn",
@@ -222,6 +234,7 @@
       "pinyin": "xiāng",
       "tone": 1,
       "meaning": "mutual/one another",
+      "narrative_position": "They depended on ONE ANOTHER—humans and apricots, mutual incompetence",
       "primitives": ["木 (tree)", "目 (eye)"],
       "sound_bridge": {
         "pinyin": "xiāng",
@@ -247,6 +260,7 @@
       "pinyin": "běn",
       "tone": 3,
       "meaning": "root/origin/book",
+      "narrative_position": "A student came with a NOTEBOOK—determined to document this oddity",
       "primitives": ["木 (tree)", "一 (one, marking the root)"],
       "sound_bridge": {
         "pinyin": "běn",
@@ -272,6 +286,7 @@
       "pinyin": "àn",
       "tone": 4,
       "meaning": "case/table/proposal",
+      "narrative_position": "It became a LEGAL CASE—who owned these ridiculous trees?",
       "primitives": ["宀 (roof)", "女 (woman)", "木 (wood)"],
       "sound_bridge": {
         "pinyin": "àn",
@@ -297,6 +312,7 @@
       "pinyin": "wèi",
       "tone": 4,
       "meaning": "not yet",
+      "narrative_position": "The answer: NOT YET determined",
       "primitives": ["木 (tree) with longer top branch"],
       "sound_bridge": {
         "pinyin": "wèi",
@@ -326,6 +342,7 @@
       "pinyin": "mò",
       "tone": 4,
       "meaning": "end/tip/last",
+      "narrative_position": "The LAST owner had died laughing at an apricot's joke",
       "primitives": ["木 (tree) with longer bottom branch"],
       "sound_bridge": {
         "pinyin": "mò",
@@ -355,6 +372,7 @@
       "pinyin": "mò",
       "tone": 4,
       "meaning": "foam/froth",
+      "narrative_position": "His grave was marked with FOAM—the trees' attempt at flowers",
       "primitives": ["氵 (water)", "末 (end)"],
       "sound_bridge": {
         "pinyin": "mò",
@@ -380,6 +398,7 @@
       "pinyin": "wèi",
       "tone": 4,
       "meaning": "taste/flavor",
+      "narrative_position": "The FLAVOR of the fruit was indescribable—sweet and baffling",
       "primitives": ["口 (mouth)", "未 (not yet)"],
       "sound_bridge": {
         "pinyin": "wèi",
@@ -405,6 +424,7 @@
       "pinyin": "mèi",
       "tone": 4,
       "meaning": "younger sister",
+      "narrative_position": "The old man's YOUNGER SISTER came to investigate",
       "primitives": ["女 (woman)", "未 (not yet)"],
       "sound_bridge": {
         "pinyin": "mèi",
@@ -430,6 +450,7 @@
       "pinyin": "chá",
       "tone": 2,
       "meaning": "to investigate",
+      "narrative_position": "The younger sister came TO INVESTIGATE her brother's death",
       "primitives": ["木 (tree)", "且 (moreover)"],
       "sound_bridge": {
         "pinyin": "chá",
@@ -455,6 +476,7 @@
       "pinyin": "zhā",
       "tone": 1,
       "meaning": "dregs/sediment",
+      "narrative_position": "She sifted through the SEDIMENT of his life",
       "primitives": ["氵 (water)", "查 (investigate)"],
       "sound_bridge": {
         "pinyin": "zhā",
@@ -480,6 +502,7 @@
       "pinyin": "rǎn",
       "tone": 3,
       "meaning": "to dye/to contaminate",
+      "narrative_position": "The trees had tried TO DYE his burial clothes with plum juice",
       "primitives": ["氵 (water)", "九 (nine)", "木 (tree)"],
       "sound_bridge": {
         "pinyin": "rǎn",
@@ -505,6 +528,7 @@
       "pinyin": "lǐ",
       "tone": 3,
       "meaning": "plum (surname Li)",
+      "narrative_position": "The PLUM trees were only slightly smarter",
       "primitives": ["木 (tree)", "子 (child)"],
       "sound_bridge": {
         "pinyin": "lǐ",
@@ -530,6 +554,7 @@
       "pinyin": "zhuō",
       "tone": 1,
       "meaning": "table",
+      "narrative_position": "She found his TABLE still set for dinner",
       "primitives": ["卜 (divination)", "日 (sun)", "木 (wood)"],
       "sound_bridge": {
         "pinyin": "zhuō",
@@ -555,6 +580,7 @@
       "pinyin": "ruò",
       "tone": 4,
       "meaning": "as if/like",
+      "narrative_position": "AS IF he had expected to return",
       "primitives": ["艹 (grass)", "右 (right)"],
       "sound_bridge": {
         "pinyin": "ruò",
@@ -580,6 +606,7 @@
       "pinyin": "cǎo",
       "tone": 3,
       "meaning": "grass",
+      "narrative_position": "GRASS grew through the floorboards",
       "primitives": ["艹 (grass radical)", "早 (early)"],
       "sound_bridge": {
         "pinyin": "cǎo",
@@ -605,6 +632,7 @@
       "pinyin": "kǔ",
       "tone": 3,
       "meaning": "bitter/suffering",
+      "narrative_position": "His notes spoke of SUFFERING—the taste of wisdom in a stupid world",
       "primitives": ["艹 (grass)", "古 (ancient)"],
       "sound_bridge": {
         "pinyin": "kǔ",
@@ -630,6 +658,7 @@
       "pinyin": "kuān",
       "tone": 1,
       "meaning": "wide/broad",
+      "narrative_position": "The forest was WIDE—endless, in its dim-witted way",
       "primitives": ["宀 (roof)", "艹 (grass)", "見 (see)"],
       "sound_bridge": {
         "pinyin": "kuān",
@@ -655,6 +684,7 @@
       "pinyin": "yè",
       "tone": 4,
       "meaning": "leaf",
+      "narrative_position": "Each LEAF held a question no one thought to ask",
       "primitives": ["艹 (grass)", "世 (generation)", "木 (tree)"],
       "sound_bridge": {
         "pinyin": "yè",
@@ -680,6 +710,7 @@
       "pinyin": "mò",
       "tone": 4,
       "meaning": "don't/nothing/nobody",
+      "narrative_position": "NOBODY understood the trees—nobody tried",
       "primitives": ["艹 (grass)", "日 (sun)", "大 (big)"],
       "sound_bridge": {
         "pinyin": "mò",
@@ -705,6 +736,7 @@
       "pinyin": "mó",
       "tone": 2,
       "meaning": "model/to imitate",
+      "narrative_position": "The sister tried TO IMITATE her brother's research",
       "primitives": ["木 (tree)", "莫 (nobody)"],
       "sound_bridge": {
         "pinyin": "mó",
@@ -730,6 +762,7 @@
       "pinyin": "mò",
       "tone": 4,
       "meaning": "desert/indifferent",
+      "narrative_position": "She wandered until the forest became DESERT—trees giving way to sand",
       "primitives": ["氵 (water)", "莫 (nobody)"],
       "sound_bridge": {
         "pinyin": "mò",
@@ -755,6 +788,7 @@
       "pinyin": "mù",
       "tone": 4,
       "meaning": "grave/tomb",
+      "narrative_position": "She found A GRAVE she didn't recognize",
       "primitives": ["莫 (nobody)", "土 (earth)"],
       "sound_bridge": {
         "pinyin": "mù",
@@ -780,6 +814,7 @@
       "pinyin": "miáo",
       "tone": 2,
       "meaning": "seedling/sprout",
+      "narrative_position": "Beside the grave grew a SEEDLING—small, determined, possibly less stupid than its parents",
       "primitives": ["艹 (grass)", "田 (field)"],
       "sound_bridge": {
         "pinyin": "miáo",
@@ -809,6 +844,7 @@
       "pinyin": "miáo",
       "tone": 2,
       "meaning": "to aim/to take aim",
+      "narrative_position": "She bent down TO AIM her attention at this tiny hope",
       "primitives": ["目 (eye)", "苗 (seedling)"],
       "sound_bridge": {
         "pinyin": "miáo",
@@ -834,8 +870,8 @@
     }
   ],
   "lesson_palace": {
-    "location": "The Arboretum of Life and Death",
-    "description": "A vast garden where trees grow from seedlings to forests, then wither to graves - the full cycle visible in one walk",
+    "location": "The Forest of Dim-Witted Trees",
+    "description": "A vast forest of foolish apricot trees surrounding a village of mutual incompetence, where a sister investigates her brother's death among vacant-eyed vegetation",
     "character_stations": {
       "木": "Execution yard: the axe meets ancient wood",
       "林": "Multiplying grove: two trees become many",

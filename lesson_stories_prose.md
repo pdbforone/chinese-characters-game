@@ -1,9 +1,11 @@
 # RTH Lesson Stories
+
 ## Epic Narratives for Remembering Traditional Chinese Characters
 
 ---
 
 # LESSON 1: The Mouth That Counted the Universe
+
 **Saga: Genesis** | **Characters: 15**
 
 In the beginning, there was nothing but a single horizontal line, until a hungry Mouth appeared.
@@ -26,32 +28,33 @@ But now, trouble. **SEVEN (七)** slashed across creation like a blade of lightn
 
 **EIGHT (八)** split apart in response, two paths diverging, the first choice, the first separation. Some things would go left. Some things would go right. Nothing would ever be whole again.
 
-**NINE (九)** curled into itself, a hook, a question mark. *Almost*, it whispered. *Almost complete. Almost enough.*
+**NINE (九)** curled into itself, a hook, a question mark. _Almost_, it whispered. _Almost complete. Almost enough._
 
 And then: **TEN (十)**. A cross. A completion. The universe had counted itself into existence.
 
 But who was counting?
 
-A perfect square opened in the void: **MOUTH (口)**. It had been watching all along. It spoke the numbers. It *ate* the numbers.
+A perfect square opened in the void: **MOUTH (口)**. It had been watching all along. It spoke the numbers. It _ate_ the numbers.
 
 The Mouth tried to swallow Ten — that perfect cross — but choked. It coughed, and from its lips flew light.
 
 **DAY (日)** burst forth — a window to a blazing sun, the first morning.
 
-**MONTH (月)** followed — a crescent moon, softer, marking the passage of something new called *time*.
+**MONTH (月)** followed — a crescent moon, softer, marking the passage of something new called _time_.
 
 The Mouth looked down and saw **RICE FIELD (田)** — a grid, a garden, something that could grow. Something that could feed.
 
 And finally, in the still water of that first field, the Mouth saw its own reflection: an **EYE (目)** staring back.
 
-*The universe blinked. It was awake.*
+_The universe blinked. It was awake._
 
 ---
 
 # LESSON 2: The Ancient Singer of Dawn
+
 **Saga: Genesis** | **Characters: 16**
 
-*Callbacks: Daybreak recalls Month from Lesson 1 • Stomach recalls Eye from Lesson 1*
+_Callbacks: Daybreak recalls Month from Lesson 1 • Stomach recalls Eye from Lesson 1_
 
 Before there was music, an ancient fool with wild whiskers opened his mouth and invented singing.
 
@@ -67,7 +70,7 @@ But being alone is not the same as being. He needed a **COMPANION (朋)** — tw
 
 When the companion arrived, something happened. The darkness between them grew **BRIGHT (明)** — sun and moon together, illuminating what had been hidden.
 
-And in that brightness, the ancient one opened his mouth **TO SING (唱)**. The first song. Tuneless, formless, but *alive*.
+And in that brightness, the ancient one opened his mouth **TO SING (唱)**. The first song. Tuneless, formless, but _alive_.
 
 The sound scattered into the darkness and returned as **SPARKLING (晶)** light — three suns dancing, crystal reflections of that first pure note.
 
@@ -92,9 +95,10 @@ Mountains and valleys. The first geography. All because an ancient fool was hung
 ---
 
 # LESSON 3: The Emperor of Measurement
+
 **Saga: Empire** | **Characters: 18**
 
-*Callbacks: Tongue recalls Eye from Lesson 1*
+_Callbacks: Tongue recalls Eye from Lesson 1_
 
 The Emperor loved himself so much he tried to measure his own tongue.
 
@@ -139,9 +143,10 @@ Mostly because everyone began **TO RIDICULE (嘲)** the floating Emperor who cou
 ---
 
 # LESSON 4: The Shellfish Economy
+
 **Saga: Empire** | **Characters: 18**
 
-*Callbacks: Shellfish becomes the currency that buys Tribute in Lesson 5*
+_Callbacks: Shellfish becomes the currency that buys Tribute in Lesson 5_
 
 In this strange land, money isn't gold; it's stubborn shellfish.
 
@@ -183,14 +188,15 @@ The shell-lords sat at the **HEADS (首)** of great tables, shells piled like mo
 
 They never missed. Every investment hit the **BULL'S EYE (的)**.
 
-*And somewhere in the depths, the shellfish waited — silent, stubborn, holding the world's wealth in their clamped mouths.*
+_And somewhere in the depths, the shellfish waited — silent, stubborn, holding the world's wealth in their clamped mouths._
 
 ---
 
 # LESSON 5: The Workshop of Blades
+
 **Saga: Craft** | **Characters: 23**
 
-*Callbacks: Sword here will arm the Army in Lesson 14*
+_Callbacks: Sword here will arm the Army in Lesson 14_
 
 The Older Brother set up a shop to sell tools, but he only knew how to make things sharp.
 
@@ -243,9 +249,10 @@ He stood at the **CREST (頂)** of his art, looking down at all the dull things 
 ---
 
 # LESSON 6: The Child Who Roared
+
 **Saga: Family** | **Characters: 12**
 
-*Callbacks: child recalls Older Brother from Lesson 5*
+_Callbacks: child recalls Older Brother from Lesson 5_
 
 The second child was not good; in fact, he was a piercing headache.
 
@@ -257,7 +264,7 @@ But he was still a **CHILD (子)** — small, incomplete, full of potential.
 
 He discovered a **CAVITY (孔)** in the garden wall — an opening to a world his parents didn't control.
 
-Through that hole, he learned **TO ROAR (吼)**. Not a cry. Not a whimper. A *roar*.
+Through that hole, he learned **TO ROAR (吼)**. Not a cry. Not a whimper. A _roar_.
 
 His parents wish they had stopp**ED (了)** him earlier. But completion comes too late.
 
@@ -275,14 +282,15 @@ His **ELDER BROTHER (兄)** — the one from the Workshop of Blades — tried to
 
 The child watched, roared, and learned **TO OVERCOME (克)** every obstacle they placed before him.
 
-*Not by obedience. By force of will.*
+_Not by obedience. By force of will._
 
 ---
 
 # LESSON 7: The Battle of Stones and Rays
+
 **Saga: Elements** | **Characters: 20**
 
-*Callbacks: stone and Gravel foreshadow the Mountain in Lesson 23*
+_Callbacks: stone and Gravel foreshadow the Mountain in Lesson 23_
 
 A small stone decided it wanted to be a large sun.
 
@@ -328,14 +336,15 @@ The stone learned **TO ECONOMIZE (省)** — to save its light, to glow gently.
 
 It became something **STRANGE (奇)** — not a sun, but something the sun had never been.
 
-*A stone that dreamed. A stone that almost shone.*
+_A stone that dreamed. A stone that almost shone._
 
 ---
 
 # LESSON 8: The Flood and the Fire
+
 **Saga: Elements** | **Characters: 46**
 
-*Callbacks: Sand recalls stone from Lesson 7*
+_Callbacks: Sand recalls stone from Lesson 7_
 
 The Water and the Fire had a truce, until the River got drunk on Juice.
 
@@ -409,14 +418,15 @@ The legendary **YÁO (堯)** brought **FEVER (燒)** to cook what was caught.
 
 And at last, **DAWN (曉)** broke — fire and water reconciled in the morning light.
 
-*The truce was restored. Until the next time someone got drunk on juice.*
+_The truce was restored. Until the next time someone got drunk on juice._
 
 ---
 
 # LESSON 9: The Black Ink Banquet
+
 **Saga: Craft** | **Characters: 24**
 
-*Callbacks: Nighttime recalls Month from Lesson 1*
+_Callbacks: Nighttime recalls Month from Lesson 1_
 
 In a cave buried a thousand Li away, they hold a banquet where you eat only ink.
 
@@ -466,14 +476,15 @@ Only the **RICH (富)** could afford to disappear for so long.
 
 Those who returned learned **TO STORE UP (儲)** what they had learned — hidden, protected, waiting.
 
-*In a cave buried a thousand Li away, knowledge eats itself and grows stronger.*
+_In a cave buried a thousand Li away, knowledge eats itself and grows stronger._
 
 ---
 
 # LESSON 10: The Forest of Dim-Witted Trees
+
 **Saga: Nature** | **Characters: 32**
 
-*Callbacks: younger sister recalls Older Brother from Lesson 5*
+_Callbacks: younger sister recalls Older Brother from Lesson 5_
 
 Not all forests are wise; this one is full of dim-witted apricot trees.
 
@@ -541,18 +552,19 @@ Beside it grew a **SEEDLING (苗)** — small, determined, possibly less stupid 
 
 She bent down **TO AIM (瞄)** her attention at this tiny hope.
 
-*Maybe the next generation would learn. Maybe the forest would wake up.*
+_Maybe the next generation would learn. Maybe the forest would wake up._
 
 ---
 
-*[Stories for Lessons 11-55 continue...]*
+_[Stories for Lessons 11-55 continue...]_
 
 ---
 
 # LESSON 11: The Dog Who Cried Peach
+
 **Saga: Family** | **Characters: 18**
 
-*Callbacks: Dog returns as a crazy companion in Lesson 12*
+_Callbacks: Dog returns as a crazy companion in Lesson 12_
 
 A remarkable dog discovered a portent: the sky was raining peaches.
 
@@ -590,14 +602,15 @@ He remembered what came **BEFORE (先)** — the last time peaches fell.
 
 So he went **TO WASH (洗)** himself in the river, preparing for what was next.
 
-*The cow could declare. The dog would prepare.*
+_The cow could declare. The dog would prepare._
 
 ---
 
 # LESSON 12: The King's Golden Balls
+
 **Saga: Empire** | **Characters: 27**
 
-*Callbacks: Lord recalls Dynasty from Lesson 3 • Copper recalls Shellfish from Lesson 4*
+_Callbacks: Lord recalls Dynasty from Lesson 3 • Copper recalls Shellfish from Lesson 4_
 
 The King introduced a new game to the world involving jade, tea, and insanity.
 
@@ -645,14 +658,15 @@ On it, he carved an **INSCRIPTION (銘)**: "This game will destroy us all."
 
 Then he sat back, suddenly **AT EASE (鎮)**.
 
-*Some games are meant to be lost.*
+_Some games are meant to be lost._
 
 ---
 
 # LESSON 13: The Lotus Car Chase
+
 **Saga: Journey** | **Characters: 20**
 
-*Callbacks: Car from here races again in the Army's transport in Lesson 14*
+_Callbacks: Car from here races again in the Army's transport in Lesson 14_
 
 The Tao (Way) is usually peaceful, but today it involves a speedy car chase.
 
@@ -692,14 +706,15 @@ Someone mentioned **L.A. (洛)** — a distant city where such chases were commo
 
 The lotus thief began **TO FALL (落)** behind.
 
-*The way is peaceful. But sometimes the way requires speed.*
+_The way is peaceful. But sometimes the way requires speed._
 
 ---
 
 # LESSON 14: The Soldier's Dream of Capital
+
 **Saga: Empire** | **Characters: 23**
 
-*Callbacks: Crown recalls Dynasty from Lesson 3*
+_Callbacks: Crown recalls Dynasty from Lesson 3_
 
 The superfluous army marched toward the capital, carrying nothing but a dream.
 
@@ -745,14 +760,15 @@ They could finally **BUY (買)** supplies — real food, clean clothes.
 
 Street vendors rushed **TO SELL (賣)** them everything.
 
-*The dream was the journey. The capital was just where it ended.*
+_The dream was the journey. The capital was just where it ended._
 
 ---
 
 # LESSON 15: The Police Poet
+
 **Saga: Spirit** | **Characters: 22**
 
-*Callbacks: Prison here foreshadows the Prisoner of Lesson 26*
+_Callbacks: Prison here foreshadows the Prisoner of Lesson 26_
 
 The most dangerous weapon in the precinct wasn't the gun — it was Officer Chen's poetry book.
 
@@ -802,14 +818,15 @@ He could **TUNE (調)** his voice to maximum cringe.
 
 "**THIS (此)** will not take long."
 
-*No criminal ever returned to his precinct. The poetry was that bad.*
+_No criminal ever returned to his precinct. The poetry was that bad._
 
 ---
 
 # LESSON 16: The Iron Burglar
+
 **Saga: Craft** | **Characters: 20**
 
-*Callbacks: War here ends with the Politics of Lesson 17*
+_Callbacks: War here ends with the Politics of Lesson 17_
 
 A burglar with a style all his own decided to steal an entire city made of iron.
 
@@ -853,14 +870,15 @@ But wars cost **COINS (錢)**, and his motives were **SHALLOW (淺)**.
 
 In the end, he stole one thing: a **CHEAP (賤)** iron nail.
 
-*Sometimes the greatest heists are the smallest ones.*
+_Sometimes the greatest heists are the smallest ones._
 
 ---
 
 # LESSON 17: The Political Footstep
+
 **Saga: Journey** | **Characters: 22**
 
-*Callbacks: Foundation here becomes the Base of Lesson 45*
+_Callbacks: Foundation here becomes the Base of Lesson 45_
 
 Politics is just a series of footsteps that lead nowhere correct.
 
@@ -910,14 +928,15 @@ Only **CLARITY (淸)** of purpose survives.
 
 Only a solid **FOUNDATION (基)** endures.
 
-*Politics is walking in circles. But some circles are larger than others.*
+_Politics is walking in circles. But some circles are larger than others._
 
 ---
 
 # LESSON 18: The Day the Sky Wore Clothes
+
 **Saga: Elements** | **Characters: 72**
 
-*Callbacks: Rain and Thunder return as the Flood memory in Lesson 24*
+_Callbacks: Rain and Thunder return as the Flood memory in Lesson 24_
 
 Someone had to dress the sky, and only one tailor was foolish enough to try.
 
@@ -1037,14 +1056,15 @@ His **LOOKS (姿)** inspired paintings.
 
 All who met him wanted **TO CONSULT WITH (諮)** the master.
 
-*The sky had been naked since the beginning of time. Now it wore clothes.*
+_The sky had been naked since the beginning of time. Now it wore clothes._
 
 ---
 
 # LESSON 19: The Mirror of Absurdity
+
 **Saga: Spirit** | **Characters: 29**
 
-*Callbacks: Mirror here reflects the Sound that becomes Voice in Lesson 50*
+_Callbacks: Mirror here reflects the Sound that becomes Voice in Lesson 50_
 
 The mirror didn't reflect faces; it reflected sounds and rhymes.
 
@@ -1104,14 +1124,15 @@ The temple **BUILDING (棟)** could barely contain them.
 
 In winter, the mirror would **FREEZE (凍)** — its surface solid as forgotten dreams.
 
-*The mirror showed everything. Understanding it was the visitor's problem.*
+_The mirror showed everything. Understanding it was the visitor's problem._
 
 ---
 
 # LESSON 20: The Snake's Egg Breakfast
+
 **Saga: Nature** | **Characters: 38**
 
-*Callbacks: Serpent coils into the Dragon of Lesson 54*
+_Callbacks: Serpent coils into the Dragon of Lesson 54_
 
 She went to the pond to find breakfast but found a serpent mocking her.
 
@@ -1187,14 +1208,15 @@ She had learned something. Tomorrow, she would **LEARN (習)** faster.
 
 Perhaps even **SOAR (翱)** through her morning routine.
 
-*The serpent kept its egg. She found something better: patience.*
+_The serpent kept its egg. She found something better: patience._
 
 ---
 
 # LESSON 21: The Factory of Forgetfulness
+
 **Saga: Craft** | **Characters: 34** | **Callbacks: Heart recalls Eye from Lesson 1**
 
-*In a factory trapped inside a solid country, workers make trousers out of hemp and regret.*
+_In a factory trapped inside a solid country, workers make trousers out of hemp and regret._
 
 ---
 
@@ -1228,7 +1250,7 @@ His **BED (床)** was made of splinters and good intentions.
 
 The sheets were woven from **HEMP (麻)**, rough against forgotten skin.
 
-But his **HEART (心)** — his heart remembered everything. *This heart recalls the Eye that first saw creation in Lesson 1.*
+But his **HEART (心)** — his heart remembered everything. _This heart recalls the Eye that first saw creation in Lesson 1._
 
 He tried **TO FORGET (忘)**, but forgetting takes effort.
 
@@ -1266,14 +1288,15 @@ But somewhere, deep inside, he still knew how **TO CHERISH (惜)** something.
 
 And that, **CERTAINLY (必)**, was what kept him from disappearing entirely.
 
-*The busy worker forgets his Trousers in the Warehouse and has to wear a Bed of Hemp.*
+_The busy worker forgets his Trousers in the Warehouse and has to wear a Bed of Hemp._
 
 ---
 
 # LESSON 22: A Hand's Violent Day
+
 **Saga: Body** | **Characters: 75** | **Callbacks: Hand's actions create the History that Lesson 33 will teach**
 
-*The hand woke up and chose violence, then love, then confusion.*
+_The hand woke up and chose violence, then love, then confusion._
 
 ---
 
@@ -1353,7 +1376,7 @@ It managed **TO CATCH UP WITH (趕)** lost time.
 
 The Hand learned **TO INHALE (吸)** patience.
 
-It studied **HISTORY (史)** — all the hands that came before. *These actions create the History that Lesson 33 will teach.*
+It studied **HISTORY (史)** — all the hands that came before. _These actions create the History that Lesson 33 will teach._
 
 It wanted to be **EVEN MORE (更)** than what it was.
 
@@ -1449,14 +1472,15 @@ It let kindness **FLOW (流)** through every finger.
 
 And with a **COMB (梳)**, it straightened the tangles of the day.
 
-*The Hand grabs a Vegetable and combs it with a Claw until it flows with Milk.*
+_The Hand grabs a Vegetable and combs it with a Claw until it flows with Milk._
 
 ---
 
 # LESSON 23: The Secret Valley of Bathing
+
 **Saga: Nature** | **Characters: 16** | **Callbacks: Valley recalls stone from Lesson 7**
 
-*Deep in the mountain, there is a secret valley where bears go to bathe.*
+_Deep in the mountain, there is a secret valley where bears go to bathe._
 
 ---
 
@@ -1482,7 +1506,7 @@ The valley was **PUBLIC (公)** to none but the mountains themselves.
 
 A great **PINE TREE (松)** marked the entrance.
 
-Beyond it lay the **VALLEY (谷)** — still and sacred. *It recalls the stone that first named itself in Lesson 7.*
+Beyond it lay the **VALLEY (谷)** — still and sacred. _It recalls the stone that first named itself in Lesson 7._
 
 Here, one could **BATHE (浴)** in waters older than memory.
 
@@ -1492,14 +1516,15 @@ Here, **THE LUST (慾)** for life itself was cleansed and renewed.
 
 The valley **CONTAINED (含)** all things, and it taught visitors **TO DISSOLVE (溶)** their burdens.
 
-*The Pine Tree, impoverished and desperate for a bath, dissolves completely into the Valley, leaving only its Desire behind.*
+_The Pine Tree, impoverished and desperate for a bath, dissolves completely into the Valley, leaving only its Desire behind._
 
 ---
 
 # LESSON 24: The Old Woman's Political Party
+
 **Saga: Empire** | **Characters: 66** | **Callbacks: Ear recalls Eye from Lesson 1; Husband becomes Father in Lesson 33**
 
-*An Old Woman started a political party based on quilts and malicious gossip.*
+_An Old Woman started a political party based on quilts and malicious gossip._
 
 ---
 
@@ -1533,7 +1558,7 @@ The debates were **INTENSE (烈)**.
 
 They discussed proper ways **TO INTER (葬)** enemies.
 
-The Old Woman's **EAR (耳)** heard everything. *It recalls the Eye that first witnessed creation in Lesson 1.*
+The Old Woman's **EAR (耳)** heard everything. _It recalls the Eye that first witnessed creation in Lesson 1._
 
 She would **TAKE (取)** what she needed.
 
@@ -1557,7 +1582,7 @@ She wore **A RING (環)** that had belonged to every chairman before her.
 
 She would never **GIVE BACK (還)** what she had taken.
 
-Her **HUSBAND (夫)** had learned this early. *He becomes Father in Lesson 33.*
+Her **HUSBAND (夫)** had learned this early. _He becomes Father in Lesson 33._
 
 The **REGULATIONS (規)** were simple: obey or be quilted.
 
@@ -1619,14 +1644,15 @@ Every **STREET (街)** knew her name.
 
 **DON'T (別)** cross her, they said.
 
-*The Feudal Official loses his Ear in a Quilt and enacts a Law against sleeping.*
+_The Feudal Official loses his Ear in a Quilt and enacts a Law against sleeping._
 
 ---
 
 # LESSON 25: The Committee of Rice and Riddles
+
 **Saga: Craft** | **Characters: 28** | **Callbacks: Bamboo recalls Forest from Lesson 10; Rice feeds the Meal of Lesson 37**
 
-*The committee met in the autumn to discuss the serious business of perfume and riddles.*
+_The committee met in the autumn to discuss the serious business of perfume and riddles._
 
 ---
 
@@ -1658,7 +1684,7 @@ They would **ENTICE (誘)** each other with promises of solutions.
 
 **EXPERIENCE (歷)** had taught them patience.
 
-**RICE (米)** was the true subject of all debates. *This Rice will feed the Meal of Lesson 37.*
+**RICE (米)** was the true subject of all debates. _This Rice will feed the Meal of Lesson 37._
 
 Many delegates were **LOST (迷)** in procedural tangles.
 
@@ -1666,7 +1692,7 @@ The only escape was to solve a **RIDDLE (謎)**.
 
 They debated **THE KIND (類)** of answer that would satisfy.
 
-**BAMBOO (竹)** scrolls recorded every word. *This Bamboo recalls the Forest where stories were first written in Lesson 10.*
+**BAMBOO (竹)** scrolls recorded every word. _This Bamboo recalls the Forest where stories were first written in Lesson 10._
 
 Sometimes, the only response was **TO LAUGH (笑)**.
 
@@ -1682,14 +1708,15 @@ No one knew how **TO ANSWER (答)** the fundamental questions.
 
 In the end, they settled on **STRATEGY (策)**: meet again next autumn.
 
-*The Committee gets lost in a Box of Bamboo Rice and has to answer a Riddle to get out.*
+_The Committee gets lost in a Box of Bamboo Rice and has to answer a Riddle to get out._
 
 ---
 
 # LESSON 26: The Prisoner's Furniture Store
+
 **Saga: Family** | **Characters: 69** | **Callbacks: Prisoner escapes to become the Criminal of Lesson 36**
 
-*A prisoner escaped and opened a furniture store, but he only sold chairs to himself.*
+_A prisoner escaped and opened a furniture store, but he only sold chairs to himself._
 
 ---
 
@@ -1807,14 +1834,15 @@ They were **THIRSTY (渴)**.
 
 He would **BOW HIS HEAD (俯)** in gratitude.
 
-*The Prisoner eats rotten Meat from a Bag while sitting upside down on his Furniture.*
+_The Prisoner eats rotten Meat from a Bag while sitting upside down on his Furniture._
 
 ---
 
 # LESSON 27: The Court of Night Liquids
+
 **Saga: Empire** | **Characters: 18** | **Callbacks: Night recalls Month from Lesson 1; Night Liquid becomes the Liquor of Lesson 37**
 
-*In the Royal Court, they don't drink wine; they drink the liquid of the night.*
+_In the Royal Court, they don't drink wine; they drink the liquid of the night._
 
 ---
 
@@ -1846,22 +1874,23 @@ Only the **VIRTUOUS (賢)** could serve.
 
 Each **YEAR (年)** brought new rituals of obscurity.
 
-The **NIGHT (夜)** was their god. *It recalls the Month that first measured time in Lesson 1.*
+The **NIGHT (夜)** was their god. _It recalls the Month that first measured time in Lesson 1._
 
-They drank only **LIQUID (液)** extracted from darkness itself. *This becomes the Liquor of Lesson 37.*
+They drank only **LIQUID (液)** extracted from darkness itself. _This becomes the Liquor of Lesson 37._
 
 They would **CALL OUT (喚)** to each other across black halls.
 
 Secrets were the only currency worth **EXCHANGING (換)**.
 
-*The Associate tries to piece together his Spine using Night Liquid.*
+_The Associate tries to piece together his Spine using Night Liquid._
 
 ---
 
 # LESSON 28: The Corpse's Vacation
+
 **Saga: Journey** | **Characters: 23**
 
-*The corpse packed light for his vacation: one saw, one nun, and a change of woolen cloth.*
+_The corpse packed light for his vacation: one saw, one nun, and a change of woolen cloth._
 
 ---
 
@@ -1911,14 +1940,15 @@ He decided **TO HIRE (雇)** a guide for the mountains.
 
 He never once **LOOKED BACK (顧)**.
 
-*The Corpse goes swimming in Mud wearing Woolen Cloth and hires a Nun to wash him.*
+_The Corpse goes swimming in Mud wearing Woolen Cloth and hires a Nun to wash him._
 
 ---
 
 # LESSON 29: The God of Oil and Fruit
+
 **Saga: Spirit** | **Characters: 18** | **Callbacks: Fruit echoes the Plum of Lesson 10**
 
-*The gods demanded a sacrifice, but all we had was oil and fruit.*
+_The gods demanded a sacrifice, but all we had was oil and fruit._
 
 ---
 
@@ -1960,20 +1990,21 @@ We would **EXTEND (伸)** our arms toward the heavens.
 
 We called to the **GODS (神)** with trembling voices.
 
-We placed **FRUIT (果)** on the altar. *This fruit echoes the Plum of Lesson 10.*
+We placed **FRUIT (果)** on the altar. _This fruit echoes the Plum of Lesson 10._
 
 Each sacrifice was a **LESSON (課)**.
 
 Each offering, a **GRANULE (粒)** of hope.
 
-*The Priest scrubs the Front of his Garment with Oil to worship the Fruit God.*
+_The Priest scrubs the Front of his Garment with Oil to worship the Fruit God._
 
 ---
 
 # LESSON 30: The Sugar War
+
 **Saga: Empire** | **Characters: 40**
 
-*The Sugar War began when Queen Elizabeth's skirt dissolved in the rain.*
+_The Sugar War began when Queen Elizabeth's skirt dissolved in the rain._
 
 ---
 
@@ -2059,14 +2090,15 @@ It became an **ACADEMIC DISCIPLINE (科)**.
 
 Future generations would **UTILIZE (用)** its lessons.
 
-*Queen Elizabeth wears a Skirt made of Sugar and sweeps the Snow with a Big Dipper.*
+_Queen Elizabeth wears a Skirt made of Sugar and sweeps the Snow with a Big Dipper._
 
 ---
 
 # LESSON 31: The Fat General's Makeup
+
 **Saga: Empire** | **Characters: 26** | **Callbacks: General commands the Troops of Lesson 34**
 
-*The General was robust, but he needed a lot of makeup to hide his mistakes.*
+_The General was robust, but he needed a lot of makeup to hide his mistakes._
 
 ---
 
@@ -2116,7 +2148,7 @@ He ruled his **HAMLET (莊)** with painted authority.
 
 His **ATTIRE (裝)** was immaculate.
 
-He was still **A GENERAL (將)**. *He will command the Troops of Lesson 34.*
+He was still **A GENERAL (將)**. _He will command the Troops of Lesson 34._
 
 He pretended exhaustion was a matter **OF (之)** strategy.
 
@@ -2130,14 +2162,15 @@ He would **NEGATE (沒)** every criticism.
 
 He raised his **CUP (杯)** to another day of pretense.
 
-*The Fat General puts on Makeup to look like a robust Hamlet but just looks like a weary Cup.*
+_The Fat General puts on Makeup to look like a robust Hamlet but just looks like a weary Cup._
 
 ---
 
 # LESSON 32: The Wisdom of the Dart
+
 **Saga: Empire** | **Characters: 23**
 
-*The tribe's elders threw away their spears. 'Wisdom,' they declared, 'is sharper than any dart.'*
+_The tribe's elders threw away their spears. 'Wisdom,' they declared, 'is sharper than any dart.'_
 
 ---
 
@@ -2189,14 +2222,15 @@ They numbered their blessings: **NO# (第)**.
 
 They became **ADROIT (巧)** at peace.
 
-*The Younger Brother tries to shoot a Bullet with a Bow but hits the Buddha instead.*
+_The Younger Brother tries to shoot a Bullet with a Bow but hits the Buddha instead._
 
 ---
 
 # LESSON 33: The Pig Teacher
+
 **Saga: Education** | **Characters: 26** | **Callbacks: Father recalls Older Brother from Lesson 5; Pig recalls Cow from Lesson 11**
 
-*The teacher was a pig, but he taught the most important lesson of all: how to roast.*
+_The teacher was a pig, but he taught the most important lesson of all: how to roast._
 
 ---
 
@@ -2220,7 +2254,7 @@ The old man tried **TO TEACH (教)** patience.
 
 Learning was an ongoing **—ING (著)** process.
 
-The school mascot was a **PIG (豬)**. *It recalls the Cow from Lesson 11.*
+The school mascot was a **PIG (豬)**. _It recalls the Cow from Lesson 11._
 
 Children would **CHASE (追)** it through the halls.
 
@@ -2234,7 +2268,7 @@ A **BUREAUCRAT (官)** demanded explanations.
 
 Smoke rose from the **PIPE (管)**.
 
-The **FATHER (父)** of each student received progress reports. *He recalls the Older Brother from Lesson 5.*
+The **FATHER (父)** of each student received progress reports. _He recalls the Older Brother from Lesson 5._
 
 Students learned **TO MINGLE (交)** with different classes.
 
@@ -2260,14 +2294,15 @@ The floors were **SLIPPERY (滑)**.
 
 Students learned **TO CROSS (跨)** obstacles.
 
-*The Pig Teacher chases a Lion around the School until they both slip on a Skeleton.*
+_The Pig Teacher chases a Lion around the School until they both slip on a Skeleton._
 
 ---
 
 # LESSON 34: Apollo's Hole
+
 **Saga: Space** | **Characters: 22**
 
-*Apollo stood at the edge of the hole and laughed. 'The moon?' he said. 'The moon is boring.'*
+_Apollo stood at the edge of the hole and laughed. 'The moon?' he said. 'The moon is boring.'_
 
 ---
 
@@ -2319,18 +2354,19 @@ He climbed back up the **HILL (陵)**.
 
 He returned to his **TROOPS (隊)**, changed.
 
-*Apollo falls abruptly into a deep Hole and finds a Spy researching empty stairs.*
+_Apollo falls abruptly into a deep Hole and finds a Spy researching empty stairs._
 
 ---
 
 # LESSON 35: The Spider's Red Web
+
 **Saga: Craft** | **Characters: 37** | **Callbacks: Silk weaves into the Clothing legacy of Lesson 18**
 
-*The spider spun a web not of silk, but of red medicine and machines.*
+_The spider spun a web not of silk, but of red medicine and machines._
 
 ---
 
-The spider began with **SILK (絲)**. *It weaves into the Clothing legacy of Lesson 18.*
+The spider began with **SILK (絲)**. _It weaves into the Clothing legacy of Lesson 18._
 
 Each strand was a **LINE (線)** of intention.
 
@@ -2404,20 +2440,21 @@ Her work was **RELATED TO (係)** everything.
 
 Someday, her **GRANDCHILD (孫)** would inherit this skill.
 
-*The Chicken weaves a Net of Green Silk to catch a Machine that dispenses Medicine.*
+_The Chicken weaves a Net of Green Silk to catch a Machine that dispenses Medicine._
 
 ---
 
 # LESSON 36: The Frozen Collar
+
 **Saga: Elements** | **Characters: 18** | **Callbacks: Foot recalls Eye from Lesson 1**
 
-*It was so cold that his collar froze to his neck, and his fate was sealed.*
+_It was so cold that his collar froze to his neck, and his fate was sealed._
 
 ---
 
 First, he tried **TO WITHDRAW (退)** — retreat from the cold.
 
-His **FOOT (足)** wouldn't move. *It recalls the Eye that first witnessed creation in Lesson 1.*
+His **FOOT (足)** wouldn't move. _It recalls the Eye that first witnessed creation in Lesson 1._
 
 He adjusted his **APPAREL (服)**.
 
@@ -2443,7 +2480,7 @@ He lost the ability **TO COMMUNICATE (通)**.
 
 Only the **COURAGEOUS (勇)** would survive this.
 
-A **CRIMINAL (罪)** had been here before. *He escapes from the Prisoner of Lesson 26.*
+A **CRIMINAL (罪)** had been here before. _He escapes from the Prisoner of Lesson 26._
 
 **DANGER (危)** was everywhere.
 
@@ -2453,18 +2490,19 @@ He left a **PRINT (印)** in the snow.
 
 His heart pounded with **EXCITEMENT (興)**.
 
-*The Criminal's Collar freezes to a Willow tree at exactly zero degrees, and he must chat his way to freedom.*
+_The Criminal's Collar freezes to a Willow tree at exactly zero degrees, and he must chat his way to freedom._
 
 ---
 
 # LESSON 37: The Drunken Drummer
+
 **Saga: Empire** | **Characters: 41** | **Callbacks: Head recalls Eye from Lesson 1; Silver recalls Shellfish from Lesson 4**
 
-*After his third cup, the Chieftain decided his head made a better drumstick than his hands.*
+_After his third cup, the Chieftain decided his head made a better drumstick than his hands._
 
 ---
 
-The **LIQUOR (酒)** flowed freely. *It comes from the Night Liquid of Lesson 27.*
+The **LIQUOR (酒)** flowed freely. _It comes from the Night Liquid of Lesson 27._
 
 Servants would **DISTRIBUTE (配)** it equally.
 
@@ -2476,7 +2514,7 @@ They had **TO ABIDE BY (遵)** his rules.
 
 **BEANS (豆)** were served as appetizers.
 
-The Chieftain's **HEAD (頭)** grew heavy. *It recalls the Eye from Lesson 1.*
+The Chieftain's **HEAD (頭)** grew heavy. _It recalls the Eye from Lesson 1._
 
 He was **SHORT (短)** of patience.
 
@@ -2508,7 +2546,7 @@ Food arrived in **BASKETS (籃)**.
 
 Decorations glowed **BLUE (藍)**.
 
-The payments were made in **SILVER (銀)**. *It recalls the Shellfish from Lesson 4.*
+The payments were made in **SILVER (銀)**. _It recalls the Shellfish from Lesson 4._
 
 The dancers' **HEELS (跟)** clicked in rhythm.
 
@@ -2536,7 +2574,7 @@ Outside, the **BREAKERS (浪)** crashed against the shore.
 
 **FOOD (食)** was finally ready.
 
-The **MEAL (餐)** began. *It comes from the Rice of Lesson 25.*
+The **MEAL (餐)** began. _It comes from the Rice of Lesson 25._
 
 They would **DINE (飯)** until dawn.
 
@@ -2548,14 +2586,15 @@ Toasts were **RAISED (舉)**.
 
 The numbers were **APPROXIMATE (概)**.
 
-*Mom gets drunk on Liquor and plays the Drum with a Silver Heel while eating Beans.*
+_Mom gets drunk on Liquor and plays the Drum with a Silver Heel while eating Beans._
 
 ---
 
 # LESSON 38: The Spicy Vendor
+
 **Saga: Craft** | **Characters: 47** | **Callbacks: Heat ignites the Fire memory from Lesson 8**
 
-*The vendor sold spicy hammer soup, and he was very diligent about it.*
+_The vendor sold spicy hammer soup, and he was very diligent about it._
 
 ---
 
@@ -2619,7 +2658,7 @@ Her **LAND (境)** was small but productive.
 
 Her **FORCE (力)** of will was legendary.
 
-The **HEAT (熱)** of her stove could melt stone. *It recalls the Fire from Lesson 8.*
+The **HEAT (熱)** of her stove could melt stone. _It recalls the Fire from Lesson 8._
 
 Her **TECHNIQUE (術)** was impeccable.
 
@@ -2649,14 +2688,15 @@ Even in **FRIGID (寒)** weather, customers came.
 
 She won every **COMPETITION (賽)**.
 
-*The Tot carves a Nucleus out of a Spicy Fowl using a Hammer while shouting 'Ooh!'*
+_The Tot carves a Nucleus out of a Spicy Fowl using a Hammer while shouting 'Ooh!'_
 
 ---
 
 # LESSON 39: The Poisonous Spring
+
 **Saga: Nature** | **Characters: 36** | **Callbacks: Springtime recalls the early morning of Lesson 2**
 
-*In the spring, the flowers don't bloom; they just release refined poison.*
+_In the spring, the flowers don't bloom; they just release refined poison._
 
 ---
 
@@ -2704,7 +2744,7 @@ She was **INTELLIGENT (聰)**.
 
 Her knowledge was **PLENTIFUL (豐)**.
 
-**SPRINGTIME (春)** would survive. *It recalls the early morning of Lesson 2.*
+**SPRINGTIME (春)** would survive. _It recalls the early morning of Lesson 2._
 
 She worked in **TRANQUIL (寧)** concentration.
 
@@ -2734,14 +2774,15 @@ The village could finally **SLEEP (睡)**.
 
 She returned to her **VENDOR'S STAND (攤)**, mission complete.
 
-*The Diligent Vendor hits his own Eyeball with a Cudgel and falls asleep at his Stand.*
+_The Diligent Vendor hits his own Eyeball with a Cudgel and falls asleep at his Stand._
 
 ---
 
 # LESSON 40: The Cowboy's Ticket to the West
+
 **Saga: Journey** | **Characters: 14** | **Callbacks: Merchant recalls Shellfish from Lesson 4**
 
-*The cowboy's ticket said SOUTH. His heart said WEST. His waist said nothing — it was just sore from riding.*
+_The cowboy's ticket said SOUTH. His heart said WEST. His waist said nothing — it was just sore from riding._
 
 ---
 
@@ -2767,7 +2808,7 @@ He began **TO DRIFT (飄)** off course.
 
 He left **A MARK (標)** on every tree he passed.
 
-A **MERCHANT (商)** tried to sell him a faster horse. *He recalls the Shellfish from Lesson 4.*
+A **MERCHANT (商)** tried to sell him a faster horse. _He recalls the Shellfish from Lesson 4._
 
 The **PRICE (價)** was too high.
 
@@ -2775,14 +2816,15 @@ The **PRICE (價)** was too high.
 
 He would end up heading **SOUTH (南)** instead.
 
-*The Merchant writes 'WEST' on his Ticket in Smoke, but the wind keeps blowing it back to 'SOUTH.'*
+_The Merchant writes 'WEST' on his Ticket in Smoke, but the wind keeps blowing it back to 'SOUTH.'_
 
 ---
 
 # LESSON 41: The Gun in the Storehouse
+
 **Saga: Empire** | **Characters: 22** | **Callbacks: Gun foreshadows the Bullet of Lesson 32**
 
-*They opened the storehouse to find not grain, but a gun and a marquis.*
+_They opened the storehouse to find not grain, but a gun and a marquis._
 
 ---
 
@@ -2804,7 +2846,7 @@ They **HEARD (聞)** something inside.
 
 The **STOREHOUSE (倉)** held a secret.
 
-Inside lay a **GUN (槍)**. *It foreshadows the Bullet of Lesson 32.*
+Inside lay a **GUN (槍)**. _It foreshadows the Bullet of Lesson 32._
 
 Who dared **TO INITIATE (創)** this deception?
 
@@ -2834,14 +2876,15 @@ He was truly **GREAT (偉)** — in treachery.
 
 They would have **TO DEFEND (衛)** the kingdom from such schemes.
 
-*The Marquis uses Chopsticks to defend the Gun from a Tanned Hide.*
+_The Marquis uses Chopsticks to defend the Gun from a Tanned Hide._
 
 ---
 
 # LESSON 42: The Spicy Trunk
+
 **Saga: Nature** | **Characters: 20** | **Callbacks: Drought recalls Water's eternal struggle from Lesson 8**
 
-*The tree trunk was so spicy that even the drought couldn't dry it out.*
+_The tree trunk was so spicy that even the drought couldn't dry it out._
 
 ---
 
@@ -2851,7 +2894,7 @@ They walked along the **SHORE (岸)**.
 
 A massive **TRUNK (幹)** blocked the path.
 
-The **DROUGHT (旱)** had lasted months. *It recalls Water's eternal struggle from Lesson 8.*
+The **DROUGHT (旱)** had lasted months. _It recalls Water's eternal struggle from Lesson 8._
 
 They began **TO HURRY (趕)**.
 
@@ -2889,14 +2932,15 @@ Each tree was a different **SPECIES (種)**.
 
 They tried not **TO COLLIDE (撞)** with the massive trunks.
 
-*Yu hurries to bundle up the Spicy Trunk but collides with a Heavy Species of ant.*
+_Yu hurries to bundle up the Spicy Trunk but collides with a Heavy Species of ant._
 
 ---
 
 # LESSON 43: The Insane Physician
+
 **Saga: Body** | **Characters: 14**
 
-*In the asylum's west wing, there was a physician who cured nothing but caused everything.*
+_In the asylum's west wing, there was a physician who cured nothing but caused everything._
 
 ---
 
@@ -2930,18 +2974,19 @@ He would then **SEND OUT (發)** the patients, unchanged.
 
 They would **DISCARD (廢)** his prescriptions.
 
-*The Physician sends a glowing Lamp to Europe as 'Evidence' of a cure, but it's really just a way to discard his Insane ideas.*
+_The Physician sends a glowing Lamp to Europe as 'Evidence' of a cure, but it's really just a way to discard his Insane ideas._
 
 ---
 
 # LESSON 44: The Shadow Puppets of England
+
 **Saga: Craft** | **Characters: 21** | **Callbacks: Shadow recalls the Night of Lesson 27**
 
-*In England, the shadows don't follow you; they tumble and wrestle.*
+_In England, the shadows don't follow you; they tumble and wrestle._
 
 ---
 
-Every **SHAPE (形)** cast a **SHADOW (影)**. *It recalls the Night of Lesson 27.*
+Every **SHAPE (形)** cast a **SHADOW (影)**. _It recalls the Night of Lesson 27._
 
 Each shadow had its own **HUE (彩)**.
 
@@ -2983,14 +3028,15 @@ The final puppet was a splash of **COLOR (彩)**.
 
 The show would **DISCONTINUE (廢)** at midnight.
 
-*Papa grasps a Mosquito in the Center of England and repairs it with Literature.*
+_Papa grasps a Mosquito in the Center of England and repairs it with Literature._
 
 ---
 
 # LESSON 45: The Sweet Dance of Nothing
+
 **Saga: Spirit** | **Characters: 16** | **Callbacks: Ancestor connects to the Generation of Lesson 2**
 
-*The dance was sweet, but the partner was nothing but a ghost.*
+_The dance was sweet, but the partner was nothing but a ghost._
 
 ---
 
@@ -3024,18 +3070,19 @@ An **OLDER SISTER (姐)** taught the steps.
 
 The **GROUP (組)** moved as one.
 
-Their **ANCESTOR (祖)** had danced like this. *It connects to the Generation of Lesson 2.*
+Their **ANCESTOR (祖)** had danced like this. _It connects to the Generation of Lesson 2._
 
 They were here **TO ASSIST (助)** tradition.
 
-*The Sphinx tries to Comfort the Ancestor with a Sweet Dance but trips over the Base.*
+_The Sphinx tries to Comfort the Ancestor with a Sweet Dance but trips over the Base._
 
 ---
 
 # LESSON 46: The Universal Port
+
 **Saga: Empire** | **Characters: 10**
 
-*The port was open to everyone, provided they chose the right lane.*
+_The port was open to everyone, provided they chose the right lane._
 
 ---
 
@@ -3059,14 +3106,15 @@ Each captain had **TO CHOOSE (選)** wisely.
 
 "**THAT'S RIGHT (對)**," the harbor master nodded.
 
-*Ten thousand workers stand side by side, each choosing a different Lane, yet somehow all arriving at the same Port.*
+_Ten thousand workers stand side by side, each choosing a different Lane, yet somehow all arriving at the same Port._
 
 ---
 
 # LESSON 47: The Well of Evil Angles
+
 **Saga: Genesis** | **Characters: 16**
 
-*They lowered a bucket into the well and pulled up: an evil angle, a flat wheel, and a very confused canon.*
+_They lowered a bucket into the well and pulled up: an evil angle, a flat wheel, and a very confused canon._
 
 ---
 
@@ -3100,14 +3148,15 @@ They pulled up a **WHEEL (輪)**.
 
 Finally, a **CANON (典)** of ancient law.
 
-*The Evil Angle tries to untie the Wheel but gets flattened by a heavy Canon.*
+_The Evil Angle tries to untie the Wheel but gets flattened by a heavy Canon._
 
 ---
 
 # LESSON 48: The Paper Marriage
+
 **Saga: Family** | **Characters: 18** | **Callbacks: Marriage echoes the family bonds of Lesson 6**
 
-*Their marriage was only on paper, and the paper was made of dusk.*
+_Their marriage was only on paper, and the paper was made of dusk._
 
 ---
 
@@ -3117,7 +3166,7 @@ Their vows were written on **PAPER (紙)**.
 
 They wed at **DUSK (昏)**.
 
-The **MARRIAGE (婚)** was convenient. *It echoes the family bonds of Lesson 6.*
+The **MARRIAGE (婚)** was convenient. _It echoes the family bonds of Lesson 6._
 
 Expectations were **LOW (低)**.
 
@@ -3145,14 +3194,15 @@ They dreamed of the **COUNTRYSIDE (鄉)**.
 
 Their words became **AN ECHO (響)** of nothing.
 
-*The Young Man wrestles a Metropolis made of Paper until it collapses into an Echo.*
+_The Young Man wrestles a Metropolis made of Paper until it collapses into an Echo._
 
 ---
 
 # LESSON 49: The Boat of Illusions
+
 **Saga: Journey** | **Characters: 12**
 
-*The boat existed only as long as you believed in it. The orphan believed very, very hard.*
+_The boat existed only as long as you believed in it. The orphan believed very, very hard._
 
 ---
 
@@ -3180,14 +3230,15 @@ She carried a **MELON (瓜)** for sustenance.
 
 She was an **ORPHAN (孤)** — alone but determined.
 
-*The Orphan relocates a Melon on a Boat but realizes the boat is just a forged Word.*
+_The Orphan relocates a Melon on a Boat but realizes the boat is just a forged Word._
 
 ---
 
 # LESSON 50: The Shrimp's Vacation
+
 **Saga: Nature** | **Characters: 18** | **Callbacks: Voice echoes the Sound first heard in Lesson 19**
 
-*Even shrimp need a vacation, preferably one with shoes and steam.*
+_Even shrimp need a vacation, preferably one with shoes and steam._
 
 ---
 
@@ -3213,7 +3264,7 @@ She bought new **SHOES (鞋)**.
 
 They smelled **FRAGRANT (香)**.
 
-She found her **VOICE (聲)**. *It echoes the Sound first heard in Lesson 19.*
+She found her **VOICE (聲)**. _It echoes the Sound first heard in Lesson 19._
 
 She met a traveler named **WU (吳)**.
 
@@ -3225,14 +3276,15 @@ She had **TO UNDERTAKE (承)** the consequences.
 
 She relaxed as servants **STEAMED (蒸)** her meal.
 
-*The Shrimp wears Leather Shoes to fly face-to-face with a bowl of steaming Noodles.*
+_The Shrimp wears Leather Shoes to fly face-to-face with a bowl of steaming Noodles._
 
 ---
 
 # LESSON 51: The Fur House
+
 **Saga: Craft** | **Characters: 18** | **Callbacks: Tail recalls the Dog from Lesson 11**
 
-*The house was made entirely of fur, which made the broadcasting very muffled.*
+_The house was made entirely of fur, which made the broadcasting very muffled._
 
 ---
 
@@ -3252,7 +3304,7 @@ A radio began **TO BROADCAST (播)**.
 
 Everything was covered in **FUR (毛)**.
 
-A cat's **TAIL (尾)** poked out from behind a sofa. *It recalls the Dog from Lesson 11.*
+A cat's **TAIL (尾)** poked out from behind a sofa. _It recalls the Dog from Lesson 11._
 
 This was quite **A DWELLING (宅)**.
 
@@ -3276,14 +3328,15 @@ The scene began **TO UNFOLD (展)**.
 
 Later, they would hold a **FUNERAL (喪)** for the old house.
 
-*The Fur Dwelling swells up like a balloon and floats away during a Funeral.*
+_The Fur Dwelling swells up like a balloon and floats away during a Funeral._
 
 ---
 
 # LESSON 52: The Hawk and the Rabbit
+
 **Saga: Nature** | **Characters: 22** | **Callbacks: Bird recalls Cow from Lesson 11**
 
-*The hawk met a rabbit on an island, and they discussed the concept of ten thousand.*
+_The hawk met a rabbit on an island, and they discussed the concept of ten thousand._
 
 ---
 
@@ -3291,7 +3344,7 @@ A **WILD GOOSE (雁)** flew overhead.
 
 One **OUGHT TO (應)** pay attention.
 
-Every **BIRD (鳥)** has a purpose. *It recalls the Cow from Lesson 11.*
+Every **BIRD (鳥)** has a purpose. _It recalls the Cow from Lesson 11._
 
 The **HAWK (鷹)** circled lazily.
 
@@ -3329,20 +3382,21 @@ An **ELEPHANT (象)** appeared on the horizon.
 
 Its **LIKENESS (像)** was unmistakable.
 
-*The Rabbit rides an Elephant to avoid the Hawk but gets stuck on a Ridge of a Hill.*
+_The Rabbit rides an Elephant to avoid the Hawk but gets stuck on a Ridge of a Hill._
 
 ---
 
 # LESSON 53: The Mama Tiger's Drama
+
 **Saga: Family** | **Characters: 20** | **Callbacks: Mama recalls Older Brother from Lesson 5; Tiger recalls Cow from Lesson 11**
 
-*Mama was a tiger, and she loved drama almost as much as she loved scolding.*
+_Mama was a tiger, and she loved drama almost as much as she loved scolding._
 
 ---
 
 She rode her **HORSE (馬)**.
 
-**MAMA (媽)** was in charge. *She recalls the Older Brother from Lesson 5.*
+**MAMA (媽)** was in charge. _She recalls the Older Brother from Lesson 5._
 
 She would **SCOLD (罵)** anyone who misbehaved.
 
@@ -3354,7 +3408,7 @@ She loved **TO RIDE (騎)** through the fields.
 
 Everyone was **STARTLED (駭)** by her arrival.
 
-A **TIGER (虎)** followed at her side. *It recalls the Cow from Lesson 11.*
+A **TIGER (虎)** followed at her side. _It recalls the Cow from Lesson 11._
 
 She would **PONDER (慮)** deeply.
 
@@ -3378,14 +3432,15 @@ She had great **ABILITY (能)**.
 
 Her **ATTITUDE (態)** was fierce but fair.
 
-*Mama rides a Tiger into a pile of Dust to check if the Deer has a Drama Certificate.*
+_Mama rides a Tiger into a pile of Dust to check if the Deer has a Drama Certificate._
 
 ---
 
 # LESSON 54: The Dragon's Morning Farm
+
 **Saga: Nature** | **Characters: 12** | **Callbacks: Morning recalls Month from Lesson 1; Dragon recalls Cow from Lesson 11**
 
-*The dragon had given up fire-breathing years ago. Now he farmed ghost-lumps every morning, like his father before him.*
+_The dragon had given up fire-breathing years ago. Now he farmed ghost-lumps every morning, like his father before him._
 
 ---
 
@@ -3395,7 +3450,7 @@ He began **TO PERFORM (演)** his morning routine.
 
 He was born under the **SIGN OF THE DRAGON (辰)**.
 
-Every **MORNING (晨)** began the same. *It recalls the Month from Lesson 1.*
+Every **MORNING (晨)** began the same. _It recalls the Month from Lesson 1._
 
 He practiced **AGRICULTURE (農)**.
 
@@ -3409,18 +3464,19 @@ Or even a **DEMON (魔)**.
 
 He would harvest **LUMPS (塊)** of ghostly produce.
 
-The **DRAGON (龍)** worked silently. *It recalls the Cow from Lesson 11.*
+The **DRAGON (龍)** worked silently. _It recalls the Cow from Lesson 11._
 
 Sometimes bandits would **RAID (襲)** his farm.
 
-*The Dragon delivers a concentrated Lump of Ghost farming to the Morning market.*
+_The Dragon delivers a concentrated Lump of Ghost farming to the Morning market._
 
 ---
 
 # LESSON 55: The Youngster and the Chaos Dragon
+
 **Saga: Genesis** | **Characters: 56** | **Callbacks: Chaos swallows all that Genesis created in Lesson 1**
 
-*A youngster wrote a spell so old and false that it opened a window to pure chaos.*
+_A youngster wrote a spell so old and false that it opened a window to pure chaos._
 
 ---
 
@@ -3528,20 +3584,20 @@ Everything became **MISCELLANEOUS (雜)**.
 
 The ancient texts **SAYETH (曰)** this would happen.
 
-**CHAOS (亂)** had arrived. *It swallows all that Genesis created in Lesson 1.*
+**CHAOS (亂)** had arrived. _It swallows all that Genesis created in Lesson 1._
 
 He had **TO ASSUME (擔)** responsibility.
 
 He would need **TO RELIEVE (療)** the damage he'd caused.
 
-*The Clown twists a Multistory Building into a vertical Orchid to relieve his Diarrhea.*
+_The Clown twists a Multistory Building into a vertical Orchid to relieve his Diarrhea._
 
 ---
 
 # THE END
 
-*55 Lessons. 1500 Characters. One Universe of Stories.*
+_55 Lessons. 1500 Characters. One Universe of Stories._
 
-*From the Mouth that counted the cosmos to the Chaos that swallowed it whole — every character has found its place in the narrative.*
+_From the Mouth that counted the cosmos to the Chaos that swallowed it whole — every character has found its place in the narrative._
 
-*Go forth and remember.*
+_Go forth and remember._

@@ -1,10 +1,13 @@
 {
   "meta": {
     "lesson": 8,
-    "title": "Water, Streams, Earth, and Fire",
+    "title": "The Flood and the Fire",
     "version": "3.0.0 - Gold Standard",
     "framework": "S.I.N.C. Protocol + Research-Validated Tone System",
-    "character_count": 46
+    "character_count": 46,
+    "theme": "Saga: Elements",
+    "narrative_story": "The Water and the Fire had a truce, until the River got drunk on Juice. The STREAM flowed through A STATE that had always obeyed the water's will. To live by the stream, you learned TO OBEY. There was no other way. WATER was everything here. Life. Death. Law. It had existed for ETERNITY — long before memory, long before names. The stream had one REQUEST: to return to the SPRING where it was born. It crossed the FLATLANDS with this single WISH driving it forward. Then the rains came. Water began TO WASH AWAY everything in its path. Towns. Temples. Memories. Those who could SWIM survived. Those who couldn't became part of the current. The flood carved a CONTINENT, reshaped MARSHES, scattered SAND across former kingdoms. The great YANGTZE swelled with pride. JUICE from crushed orchards mixed with the surge. The TIDE came in. The tide refused to go out. From this chaos, a new SOURCE emerged — water finding its level. Life became LIVELY again, then threatened TO EXTINGUISH. The SITUATION was dire. Every RIVER and LAKE was in revolt. None could FATHOM how to stop it. SOIL tried to hold the line. It measured each wave with EQUAL desperation. The earth's BELLY filled with water. Workers tried TO FILL IN the breaches. The land tried TO SPIT the water back. 'WAAAH!' cried the villages, one CHINESE INCH at a time disappearing. The elders tried TO SEAL the rivers with prayer. In the BUDDHIST TEMPLE, monks sat in meditation. TIME meant nothing to them. Then came FIRE. It rose from the south, turning water to ASHES. The survivors were VEXED — which disaster was worse? INFLAMMATION spread — two fires stacked, angry and hot. Where fire and water met, things became THIN — watery, bland, exhausted. DISASTER seemed endless. But then a single flame learned TO ILLUMINATE instead of destroy. In the calm waters that remained, A FISH appeared. People began FISHING — the first meal after the catastrophe. The legendary YÁO brought FEVER to cook what was caught. And at last, DAWN broke — fire and water reconciled in the morning light. The truce was restored. Until the next time someone got drunk on juice.",
+    "narrative_arc": "An elemental war between water and fire, ending in reconciliation at dawn"
   },
   "characters": [
     {
@@ -13,6 +16,7 @@
       "pinyin": "chuān",
       "tone": 1,
       "meaning": "stream/river",
+      "narrative_position": "The STREAM flowed through a state that had always obeyed the water's will",
       "primitives": ["three flowing lines"],
       "sound_bridge": {
         "pinyin": "chuān",
@@ -38,6 +42,7 @@
       "pinyin": "zhōu",
       "tone": 1,
       "meaning": "state/province",
+      "narrative_position": "The stream flowed through A STATE that had always obeyed the water's will",
       "primitives": ["川 (stream)", "dots (islands)"],
       "sound_bridge": {
         "pinyin": "zhōu",
@@ -67,6 +72,7 @@
       "pinyin": "shùn",
       "tone": 4,
       "meaning": "to obey/smooth",
+      "narrative_position": "To live by the stream, you learned TO OBEY — there was no other way",
       "primitives": ["川 (stream)", "頁 (page/head)"],
       "sound_bridge": {
         "pinyin": "shùn",
@@ -92,6 +98,7 @@
       "pinyin": "shuǐ",
       "tone": 3,
       "meaning": "water",
+      "narrative_position": "WATER was everything here — life, death, law",
       "primitives": ["pictograph of flowing water"],
       "sound_bridge": {
         "pinyin": "shuǐ",
@@ -117,6 +124,7 @@
       "pinyin": "yǒng",
       "tone": 3,
       "meaning": "eternity/forever",
+      "narrative_position": "It had existed for ETERNITY — long before memory, long before names",
       "primitives": ["水 (water) extended"],
       "sound_bridge": {
         "pinyin": "yǒng",
@@ -146,6 +154,7 @@
       "pinyin": "qiú",
       "tone": 2,
       "meaning": "to request/seek",
+      "narrative_position": "The stream had one REQUEST: to return to the spring where it was born",
       "primitives": ["水 (water) modified", "dot"],
       "sound_bridge": {
         "pinyin": "qiú",
@@ -171,6 +180,7 @@
       "pinyin": "quán",
       "tone": 2,
       "meaning": "spring (water source)",
+      "narrative_position": "The stream had one request: to return to the SPRING where it was born",
       "primitives": ["白 (white)", "水 (water)"],
       "sound_bridge": {
         "pinyin": "quán",
@@ -196,6 +206,7 @@
       "pinyin": "yuán",
       "tone": 2,
       "meaning": "plain/original",
+      "narrative_position": "It crossed the FLATLANDS with this single wish driving it forward",
       "primitives": ["厂 (cliff)", "泉 (spring)"],
       "sound_bridge": {
         "pinyin": "yuán",
@@ -225,6 +236,7 @@
       "pinyin": "yuàn",
       "tone": 4,
       "meaning": "wish/hope",
+      "narrative_position": "It crossed the flatlands with this single WISH driving it forward",
       "primitives": ["原 (original)", "頁 (page/head)"],
       "sound_bridge": {
         "pinyin": "yuàn",
@@ -250,6 +262,7 @@
       "pinyin": "chōng",
       "tone": 1,
       "meaning": "to rinse/rush",
+      "narrative_position": "Water began TO WASH AWAY everything in its path — towns, temples, memories",
       "primitives": ["氵 (water)", "中 (middle)"],
       "sound_bridge": {
         "pinyin": "chōng",
@@ -275,6 +288,7 @@
       "pinyin": "yǒng",
       "tone": 3,
       "meaning": "to swim",
+      "narrative_position": "Those who could SWIM survived — those who couldn't became part of the current",
       "primitives": ["氵 (water)", "永 (eternity)"],
       "sound_bridge": {
         "pinyin": "yǒng",
@@ -304,6 +318,7 @@
       "pinyin": "zhōu",
       "tone": 1,
       "meaning": "continent",
+      "narrative_position": "The flood carved a CONTINENT and reshaped marshes",
       "primitives": ["氵 (water)", "州 (state)"],
       "sound_bridge": {
         "pinyin": "zhōu",
@@ -333,6 +348,7 @@
       "pinyin": "zhǎo",
       "tone": 3,
       "meaning": "marsh/swamp",
+      "narrative_position": "The flood carved a continent and reshaped MARSHES",
       "primitives": ["氵 (water)", "召 (summon)"],
       "sound_bridge": {
         "pinyin": "zhǎo",
@@ -358,6 +374,7 @@
       "pinyin": "shā",
       "tone": 1,
       "meaning": "sand",
+      "narrative_position": "The flood scattered SAND across former kingdoms",
       "primitives": ["氵 (water)", "少 (few)"],
       "sound_bridge": {
         "pinyin": "shā",
@@ -387,6 +404,7 @@
       "pinyin": "jiāng",
       "tone": 1,
       "meaning": "river (Yangtze)",
+      "narrative_position": "The great YANGTZE swelled with pride",
       "primitives": ["氵 (water)", "工 (work)"],
       "sound_bridge": {
         "pinyin": "jiāng",
@@ -416,6 +434,7 @@
       "pinyin": "zhī",
       "tone": 1,
       "meaning": "juice/liquid",
+      "narrative_position": "JUICE from crushed orchards mixed with the surge",
       "primitives": ["氵 (water)", "十 (ten)"],
       "sound_bridge": {
         "pinyin": "zhī",
@@ -441,6 +460,7 @@
       "pinyin": "cháo",
       "tone": 2,
       "meaning": "tide",
+      "narrative_position": "The TIDE came in — the tide refused to go out",
       "primitives": ["氵 (water)", "朝 (dynasty/morning)"],
       "sound_bridge": {
         "pinyin": "cháo",
@@ -466,6 +486,7 @@
       "pinyin": "yuán",
       "tone": 2,
       "meaning": "source/origin",
+      "narrative_position": "From this chaos, a new SOURCE emerged — water finding its level",
       "primitives": ["氵 (water)", "原 (plain/original)"],
       "sound_bridge": {
         "pinyin": "yuán",
@@ -495,6 +516,7 @@
       "pinyin": "huó",
       "tone": 2,
       "meaning": "alive/lively",
+      "narrative_position": "Life became LIVELY again, then threatened to extinguish",
       "primitives": ["氵 (water)", "舌 (tongue)"],
       "sound_bridge": {
         "pinyin": "huó",
@@ -520,6 +542,7 @@
       "pinyin": "xiāo",
       "tone": 1,
       "meaning": "to extinguish/disappear",
+      "narrative_position": "Life became lively again, then threatened TO EXTINGUISH",
       "primitives": ["氵 (water)", "肖 (resemble)"],
       "sound_bridge": {
         "pinyin": "xiāo",
@@ -545,6 +568,7 @@
       "pinyin": "kuàng",
       "tone": 4,
       "meaning": "situation/condition",
+      "narrative_position": "The SITUATION was dire — every river and lake was in revolt",
       "primitives": ["氵 (water)", "兄 (elder brother)"],
       "sound_bridge": {
         "pinyin": "kuàng",
@@ -570,6 +594,7 @@
       "pinyin": "hé",
       "tone": 2,
       "meaning": "river",
+      "narrative_position": "Every RIVER and lake was in revolt",
       "primitives": ["氵 (water)", "可 (can)"],
       "sound_bridge": {
         "pinyin": "hé",
@@ -599,6 +624,7 @@
       "pinyin": "hú",
       "tone": 2,
       "meaning": "lake",
+      "narrative_position": "Every river and LAKE was in revolt",
       "primitives": ["氵 (water)", "胡 (reckless/barbarian)"],
       "sound_bridge": {
         "pinyin": "hú",
@@ -624,6 +650,7 @@
       "pinyin": "cè",
       "tone": 4,
       "meaning": "to measure/fathom",
+      "narrative_position": "None could FATHOM how to stop it",
       "primitives": ["氵 (water)", "則 (rule)"],
       "sound_bridge": {
         "pinyin": "cè",
@@ -649,6 +676,7 @@
       "pinyin": "tǔ",
       "tone": 3,
       "meaning": "soil/earth",
+      "narrative_position": "SOIL tried to hold the line against the flood",
       "primitives": ["pictograph of earth mound"],
       "sound_bridge": {
         "pinyin": "tǔ",
@@ -678,6 +706,7 @@
       "pinyin": "jūn",
       "tone": 1,
       "meaning": "equal/even",
+      "narrative_position": "It measured each wave with EQUAL desperation",
       "primitives": ["土 (earth)", "勻 (even)"],
       "sound_bridge": {
         "pinyin": "jūn",
@@ -703,6 +732,7 @@
       "pinyin": "dù",
       "tone": 4,
       "meaning": "belly/stomach",
+      "narrative_position": "The earth's BELLY filled with water",
       "primitives": ["月 (flesh)", "土 (earth)"],
       "sound_bridge": {
         "pinyin": "dù",
@@ -729,6 +759,7 @@
       "pinyin": "tián",
       "tone": 2,
       "meaning": "to fill in",
+      "narrative_position": "Workers tried TO FILL IN the breaches",
       "primitives": ["土 (earth)", "真 (true)"],
       "sound_bridge": {
         "pinyin": "tián",
@@ -754,6 +785,7 @@
       "pinyin": "tǔ",
       "tone": 3,
       "meaning": "to spit/vomit",
+      "narrative_position": "The land tried TO SPIT the water back",
       "primitives": ["口 (mouth)", "土 (earth)"],
       "sound_bridge": {
         "pinyin": "tǔ",
@@ -779,6 +811,7 @@
       "pinyin": "wā",
       "tone": 1,
       "meaning": "wow!/wah",
+      "narrative_position": "'WAAAH!' cried the villages as they disappeared",
       "primitives": ["口 (mouth)", "圭 (jade tablet)"],
       "sound_bridge": {
         "pinyin": "wā",
@@ -804,6 +837,7 @@
       "pinyin": "cùn",
       "tone": 4,
       "meaning": "inch (Chinese)",
+      "narrative_position": "One CHINESE INCH at a time the villages were disappearing",
       "primitives": ["hand with pulse point marked"],
       "sound_bridge": {
         "pinyin": "cùn",
@@ -829,6 +863,7 @@
       "pinyin": "fēng",
       "tone": 1,
       "meaning": "to seal",
+      "narrative_position": "The elders tried TO SEAL the rivers with prayer",
       "primitives": ["土 (earth) doubled", "寸 (inch)"],
       "sound_bridge": {
         "pinyin": "fēng",
@@ -854,6 +889,7 @@
       "pinyin": "sì",
       "tone": 4,
       "meaning": "temple",
+      "narrative_position": "In the BUDDHIST TEMPLE, monks sat in meditation",
       "primitives": ["土 (earth)", "寸 (inch)"],
       "sound_bridge": {
         "pinyin": "sì",
@@ -883,6 +919,7 @@
       "pinyin": "shí",
       "tone": 2,
       "meaning": "time/hour",
+      "narrative_position": "TIME meant nothing to them in meditation",
       "primitives": ["日 (sun)", "寺 (temple)"],
       "sound_bridge": {
         "pinyin": "shí",
@@ -912,6 +949,7 @@
       "pinyin": "huǒ",
       "tone": 3,
       "meaning": "fire",
+      "narrative_position": "Then came FIRE — it rose from the south",
       "primitives": ["pictograph of flames"],
       "sound_bridge": {
         "pinyin": "huǒ",
@@ -937,6 +975,7 @@
       "pinyin": "huī",
       "tone": 1,
       "meaning": "ash/gray",
+      "narrative_position": "Fire rose from the south, turning water to ASHES",
       "primitives": ["火 (fire)", "又 (hand)"],
       "sound_bridge": {
         "pinyin": "huī",
@@ -962,6 +1001,7 @@
       "pinyin": "fán",
       "tone": 2,
       "meaning": "vexed/annoyed",
+      "narrative_position": "The survivors were VEXED — which disaster was worse?",
       "primitives": ["火 (fire)", "頁 (page/head)"],
       "sound_bridge": {
         "pinyin": "fán",
@@ -987,6 +1027,7 @@
       "pinyin": "yán",
       "tone": 2,
       "meaning": "inflammation/flame",
+      "narrative_position": "INFLAMMATION spread — two fires stacked, angry and hot",
       "primitives": ["火 (fire) doubled"],
       "sound_bridge": {
         "pinyin": "yán",
@@ -1012,6 +1053,7 @@
       "pinyin": "dàn",
       "tone": 4,
       "meaning": "bland/thin/light",
+      "narrative_position": "Where fire and water met, things became THIN — watery, bland, exhausted",
       "primitives": ["氵 (water)", "炎 (flame)"],
       "sound_bridge": {
         "pinyin": "dàn",
@@ -1037,6 +1079,7 @@
       "pinyin": "zāi",
       "tone": 1,
       "meaning": "disaster/calamity",
+      "narrative_position": "DISASTER seemed endless",
       "primitives": ["宀 (roof)", "火 (fire)"],
       "sound_bridge": {
         "pinyin": "zāi",
@@ -1062,6 +1105,7 @@
       "pinyin": "zhào",
       "tone": 4,
       "meaning": "to illuminate/shine",
+      "narrative_position": "A single flame learned TO ILLUMINATE instead of destroy",
       "primitives": ["日 (sun)", "召 (summon)", "灬 (fire dots)"],
       "sound_bridge": {
         "pinyin": "zhào",
@@ -1087,6 +1131,7 @@
       "pinyin": "yú",
       "tone": 2,
       "meaning": "fish",
+      "narrative_position": "In the calm waters that remained, A FISH appeared",
       "primitives": ["pictograph of fish"],
       "sound_bridge": {
         "pinyin": "yú",
@@ -1116,6 +1161,7 @@
       "pinyin": "yú",
       "tone": 2,
       "meaning": "fishing",
+      "narrative_position": "People began FISHING — the first meal after the catastrophe",
       "primitives": ["氵 (water)", "魚 (fish)"],
       "sound_bridge": {
         "pinyin": "yú",
@@ -1145,6 +1191,7 @@
       "pinyin": "yáo",
       "tone": 2,
       "meaning": "Yao (legendary emperor)",
+      "narrative_position": "The legendary YÁO brought fever to cook what was caught",
       "primitives": ["土 (earth) tripled", "兀 (high)"],
       "sound_bridge": {
         "pinyin": "yáo",
@@ -1170,6 +1217,7 @@
       "pinyin": "shāo",
       "tone": 1,
       "meaning": "to burn/fever",
+      "narrative_position": "The legendary Yáo brought FEVER to cook what was caught",
       "primitives": ["火 (fire)", "堯 (Yao)"],
       "sound_bridge": {
         "pinyin": "shāo",
@@ -1195,6 +1243,7 @@
       "pinyin": "xiǎo",
       "tone": 3,
       "meaning": "dawn/to know",
+      "narrative_position": "And at last, DAWN broke — fire and water reconciled in the morning light",
       "primitives": ["日 (sun)", "堯 (Yao)"],
       "sound_bridge": {
         "pinyin": "xiǎo",
@@ -1216,8 +1265,8 @@
     }
   ],
   "lesson_palace": {
-    "location": "The Elemental Temple",
-    "description": "A vast temple where water, earth, and fire converge - rivers flow through stone halls as flames dance on altars",
+    "location": "The Temple of Flood and Fire",
+    "description": "A vast elemental temple where water and fire waged war until reconciliation at dawn — rivers flow through stone halls as flames dance on altars",
     "character_stations": {
       "川": "Three-channel waterfall: streams flow in triple paths",
       "州": "Island platform: land rises from surrounding water",
