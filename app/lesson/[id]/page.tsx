@@ -123,6 +123,7 @@ export default function LessonPage() {
           characters={lessonData.characters}
           lessonNumber={lessonId}
           onComplete={handleIntroductionComplete}
+          lessonData={lessonData}
         />
       </>
     );
