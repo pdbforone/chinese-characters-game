@@ -2,6 +2,7 @@
 
 import { Character } from '@/lib/types';
 import { getCardClassNames, createCardKeyHandler } from '@/lib/useCardState';
+import { getToneInfo } from '@/lib/toneUtils';
 
 interface PinyinCardProps {
   character: Character;
@@ -18,7 +19,11 @@ export default function PinyinCard({
   isIncorrect,
   onClick,
 }: PinyinCardProps) {
-  const classNames = getCardClassNames({ isSelected, isMatched, isIncorrect });
+  const toneInfo = getToneInfo(character.tone);
+  const classNames = getCardClassNames(
+    { isSelected, isMatched, isIncorrect },
+    { useToneColors: true, tone: character.tone }
+  );
   const handleKeyDown = createCardKeyHandler(onClick, isMatched);
 
   return (
@@ -34,21 +39,39 @@ export default function PinyinCard({
         ${classNames.border}
         ${classNames.background}
         ${classNames.animation}
-        rounded-lg p-6 cursor-pointer
+        rounded-xl p-6 cursor-pointer
         transition-all duration-200
-        ${isMatched ? 'opacity-50 cursor-not-allowed' : ''}
+        ${isMatched ? 'opacity-60 cursor-not-allowed' : ''}
         min-h-[140px]
         flex flex-col items-center justify-center
-        focus:outline-none focus:ring-4 focus:ring-blue-300
+        focus:outline-none focus:ring-4 focus:ring-amber-300
+        relative
       `}
     >
-      <div className="text-4xl font-semibold text-gray-900 mb-2">{character.pinyin}</div>
+      {/* Tone Badge */}
+      {!isMatched && (
+        <div
+          className={`absolute top-2 right-2 ${toneInfo.color} text-white px-2 py-0.5 rounded-full text-xs font-bold`}
+        >
+          {toneInfo.verb}
+        </div>
+      )}
+
+      <div className={`text-4xl font-semibold ${toneInfo.textColor} mb-2`}>{character.pinyin}</div>
+
+      {/* Show sound bridge on match */}
+      {isMatched && character.sound_bridge && (
+        <div className={`text-xs ${toneInfo.textColor} bg-white/50 rounded px-2 py-1 mb-2`}>
+          {character.sound_bridge}
+        </div>
+      )}
+
       {isMatched && (
         <div className="mt-2 flex items-center gap-2">
-          <span className="text-green-600 text-2xl font-bold" aria-label="Correct match">
+          <span className="text-emerald-600 text-2xl font-bold" aria-label="Correct match">
             ✓
           </span>
-          <span className="text-green-700 font-semibold text-sm">Correct!</span>
+          <span className="text-emerald-700 font-semibold text-sm">Matched!</span>
         </div>
       )}
       {isIncorrect && (
