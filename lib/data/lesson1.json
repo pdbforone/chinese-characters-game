@@ -1,117 +1,140 @@
 {
   "lesson": 1,
+  "title": "In the Beginning",
+  "theme": "Creation myth - the universe counts itself into existence through primordial elements",
+  "memory_palace": "The Primordial Void",
+  "narrative_arc": "In darkness, a single stroke -> Numbers stack and multiply -> The mouth speaks them -> Celestial bodies mark time -> The field sustains -> The eye witnesses all",
+  "narrative_story": "In primordial darkness, a single stroke appeared—ONE. Loneliness drove it to duplicate, becoming TWO parallel lines. A third joined them, stacking like ascending steps: THREE. Four boundaries enclosed space for the first time—FOUR, the initial container. Five strokes converged at a crossing: FIVE, a meeting point. Reality folded as SIX completed an enclosure. Children drew light with a skyward slash: SEVEN. Wings spread wide in separation: EIGHT. A questioning curve bent like a hook: NINE. A cross marked the destination: TEN—the universe had counted itself into being. Yet who performed this counting? A perfect square opened: the MOUTH that spoke numbers. This mouth observed the DAY, a blazing window to the sun. Beside it gleamed the MONTH, a crescent measuring cycles. Below stretched the RICE FIELD, sustaining existence. Reflected in its waters gazed the EYE, witnessing everything. The cosmos awakened through observation.",
   "characters": [
     {
       "id": 1,
       "character": "一",
       "pinyin": "yī",
       "tone": 1,
-      "meaning": "one",
-      "story": "A single proud line stands alone, singing \"Yeeee!\" - this is number one!",
-      "primitives": [
-        "horizontal line"
-      ]
+      "meaning": "One",
+      "mnemonic_image": "A single horizontal stroke - the first mark in the void",
+      "sound_bridge": "YEE = 'YEE-haw, the first!'",
+      "story": "In primordial darkness, I trace the first stroke. I SING 'YEEE!' - sustained and eternal - and ONE line blazes across the void, creating existence itself.",
+      "tone_emotion": "SING - sustained birth of creation",
+      "primitives": ["horizontal line"],
+      "narrative_position": "The first emergence from nothing"
     },
     {
       "id": 2,
       "character": "二",
       "pinyin": "èr",
       "tone": 4,
-      "meaning": "two",
-      "story": "Two parallel lines stack up, yelling \"ERR!\" when you count twice!",
-      "primitives": [
-        "horizontal line"
-      ]
+      "meaning": "Two",
+      "mnemonic_image": "Two parallel lines - loneliness duplicating",
+      "sound_bridge": "ARR = 'ERR-or: now there's two'",
+      "story": "Loneliness drives me to duplicate. 'ARR!' I COMMAND - and the line SPLITS into TWO. Parallel but forever separate, my creation doubles in isolation.",
+      "tone_emotion": "COMMAND - sharp division of unity",
+      "primitives": ["two horizontal lines"],
+      "narrative_position": "Duality emerges from solitude"
     },
     {
       "id": 3,
       "character": "三",
       "pinyin": "sān",
       "tone": 1,
-      "meaning": "three",
-      "story": "Three horizontal lines rise like stairs, singing \"Saaaan-shine\" in harmony!",
-      "primitives": [
-        "horizontal line"
-      ]
+      "meaning": "Three",
+      "mnemonic_image": "Three lines stacking like ascending steps",
+      "sound_bridge": "SAHN = 'SAHN-rise, climbing'",
+      "story": "A third stroke joins them. I SING 'SAAAHN!' as I climb THREE ascending steps toward light - my voice sustained, building upward through the layers of reality.",
+      "tone_emotion": "SING - sustained ascent",
+      "primitives": ["three horizontal lines"],
+      "narrative_position": "Multiplication creates hierarchy"
     },
     {
       "id": 4,
       "character": "四",
       "pinyin": "sì",
       "tone": 4,
-      "meaning": "four",
-      "story": "Inside the box, your four items command \"See this!\" sharply!",
-      "primitives": [
-        "box",
-        "items"
-      ]
+      "meaning": "Four",
+      "mnemonic_image": "Four boundaries enclosing space - the first container",
+      "sound_bridge": "SUH = 'SEE this prison'",
+      "story": "FOUR boundaries snap shut around me - the first cage. 'SEE!' I COMMAND the walls, trapped inside my own creation. Space itself becomes a prison.",
+      "tone_emotion": "COMMAND - sharp enclosure",
+      "primitives": ["enclosure", "internal strokes"],
+      "narrative_position": "Space becomes defined, containment begins"
     },
     {
       "id": 5,
       "character": "五",
       "pinyin": "wǔ",
       "tone": 3,
-      "meaning": "five",
-      "story": "Five strokes converge at the crossing point, calling out \"Woo\"!",
-      "primitives": [
-        "fingers"
-      ]
+      "meaning": "Five",
+      "mnemonic_image": "Strokes converging at a crossing - the meeting point",
+      "sound_bridge": "WOO = 'WOO, the undead center'",
+      "story": "FIVE strokes converge at the crossing point - I stand at the center of everything. I GROAN 'Wuuuu...' as the weight of being the hub crushes down, low and creaky.",
+      "tone_emotion": "GROAN - guttural burden of centrality",
+      "primitives": ["crossing strokes"],
+      "narrative_position": "The center point where all lines meet"
     },
     {
       "id": 6,
       "character": "六",
       "pinyin": "liù",
       "tone": 4,
-      "meaning": "six",
-      "story": "A lid over eight yells \"Leo!\" for six sharp reasons!",
-      "primitives": [
-        "lid",
-        "eight"
-      ]
+      "meaning": "Six",
+      "mnemonic_image": "A lid over diverging strokes - reality folding closed",
+      "sound_bridge": "LYOW = 'LEE-OH, the lion's roar'",
+      "story": "Reality folds closed around me. 'LYOW!' I COMMAND the lid to seal - SIX directions of space now trapped. I am the lion sealing my own cage.",
+      "tone_emotion": "COMMAND - sharp sealing of dimensions",
+      "primitives": ["lid", "eight"],
+      "narrative_position": "Enclosure completes - reality becomes bounded"
     },
     {
       "id": 7,
       "character": "七",
       "pinyin": "qī",
       "tone": 1,
-      "meaning": "seven",
-      "story": "Seven kids drew slashes across the night sky with bright sparklers, yelling \"Chee!\"!",
-      "primitives": [
-        "slash"
-      ]
+      "meaning": "Seven",
+      "mnemonic_image": "A crossed slash - drawing light through darkness",
+      "sound_bridge": "CHEE = 'CHEE-rful light!'",
+      "story": "I slash SEVEN sparklers across the void, SINGING 'CHEE!' - sustained and bright. Light exists for the first time, my voice holding each streak against the dark.",
+      "tone_emotion": "SING - sustained creation of light",
+      "primitives": ["crossed slash"],
+      "narrative_position": "Light cuts through primordial darkness"
     },
     {
       "id": 8,
       "character": "八",
       "pinyin": "bā",
       "tone": 1,
-      "meaning": "eight",
-      "story": "Eight paths diverge like spreading wings, calling \"Baaaa!\" as they separate!",
-      "primitives": [
-        "split paths"
-      ]
+      "meaning": "Eight",
+      "mnemonic_image": "Wings spreading wide - separation and possibility",
+      "sound_bridge": "BAH = 'BAH-ck and forth, diverging'",
+      "story": "I RIP possibility in half - EIGHT directions explode outward like wings. I SING 'BAAAH!' as paths diverge, sustained chorus of becoming, everything spreading.",
+      "tone_emotion": "SING - sustained expansion",
+      "primitives": ["diverging strokes"],
+      "narrative_position": "Divergence creates infinite paths"
     },
     {
       "id": 9,
       "character": "九",
       "pinyin": "jiǔ",
       "tone": 3,
-      "meaning": "nine",
-      "story": "Nine hooks around like a curving tail, bending as it says \"Jiu\"!",
-      "primitives": [
-        "hook"
-      ]
+      "meaning": "Nine",
+      "mnemonic_image": "A questioning curve, a hook reaching for completion",
+      "sound_bridge": "JEE-OH = 'GEO-metry almost complete'",
+      "story": "NINE hooks snag my flesh as I reach for completion. I GROAN 'Jiuuu...' - low and desperate - so close to finishing, the curve bending toward the end.",
+      "tone_emotion": "GROAN - guttural yearning for completion",
+      "primitives": ["hook"],
+      "narrative_position": "Approaching but not yet reaching wholeness"
     },
     {
       "id": 10,
       "character": "十",
       "pinyin": "shí",
       "tone": 2,
-      "meaning": "ten",
-      "story": "A cross at ten keeps asking \"Shi? Why ten?\" curiously!",
-      "primitives": [
-        "cross"
-      ]
+      "meaning": "Ten",
+      "mnemonic_image": "A cross marking the destination - completion achieved",
+      "sound_bridge": "SHIH = 'SHE-er surprise at completion'",
+      "story": "The cross marks completion - TEN! I GASP 'SHIH?!' in shocked surprise. The universe has counted itself into being. My voice rises at what I've created.",
+      "tone_emotion": "GASP - rising awe at creation complete",
+      "primitives": ["cross"],
+      "narrative_position": "The universe achieves numerical existence"
     },
     {
       "id": 11,
@@ -119,32 +142,38 @@
       "pinyin": "kǒu",
       "tone": 3,
       "meaning": "Mouth",
-      "story": "Your mouth forms a perfect square, speaking \"Ko\" clearly spoken through parted lips!",
-      "primitives": [
-        "mouth"
-      ]
+      "mnemonic_image": "A perfect square opening - the mouth that spoke numbers",
+      "sound_bridge": "KOH = 'KOH-unting requires a mouth'",
+      "story": "But who performed this counting? My MOUTH unhinges into a perfect square. I GROAN 'Kohhhh...' - the low, creaky voice that spoke all numbers into existence.",
+      "tone_emotion": "GROAN - guttural realization of self as speaker",
+      "primitives": ["mouth"],
+      "narrative_position": "The speaker revealed - consciousness emerges"
     },
     {
       "id": 12,
       "character": "日",
       "pinyin": "rì",
       "tone": 4,
-      "meaning": "Day",
-      "story": "The sun yells \"REE!\" sharply to wake you each day!",
-      "primitives": [
-        "sun"
-      ]
+      "meaning": "Sun / Day",
+      "mnemonic_image": "A blazing window - the sun observed by the counting mouth",
+      "sound_bridge": "REE = 'REE-ach for the sun!'",
+      "story": "My mouth observes the DAY blazing through. 'REE!' the SUN COMMANDS me awake. ONE bar of light inside the box - time begins its march.",
+      "tone_emotion": "COMMAND - sharp awakening of time",
+      "primitives": ["sun with internal line"],
+      "narrative_position": "The first celestial body marks day"
     },
     {
       "id": 13,
       "character": "月",
       "pinyin": "yuè",
       "tone": 4,
-      "meaning": "Month",
-      "story": "The crescent moon marks time's passage, whispering \"Yue!\" as each month turns!",
-      "primitives": [
-        "moon"
-      ]
+      "meaning": "Moon / Month",
+      "mnemonic_image": "A crescent measuring cycles - time's other marker",
+      "sound_bridge": "YUE = 'YOU-eh, another month gone'",
+      "story": "Beside the sun gleams the MOON. 'YUE!' it COMMANDS the tides. I watch as MONTHS pass in its crescent rhythm - time's other wheel turning.",
+      "tone_emotion": "COMMAND - sharp cycle of months",
+      "primitives": ["crescent with internal marks"],
+      "narrative_position": "Lunar cycles begin - time becomes measurable"
     },
     {
       "id": 14,
@@ -152,10 +181,12 @@
       "pinyin": "tián",
       "tone": 2,
       "meaning": "Rice Field",
-      "story": "In the rice field, farmers ask \"Tian? Why so muddy?\" curiously!",
-      "primitives": [
-        "rice field"
-      ]
+      "mnemonic_image": "A geometric grid - the field that sustains existence",
+      "sound_bridge": "TYEN = 'TIE-AN to the land'",
+      "story": "Below me stretches the FIELD that sustains all life. I GASP 'TYEN?!' - stepping in, the mud SWALLOWS my legs. Four plots hold me fast, surprising and inescapable.",
+      "tone_emotion": "GASP - rising shock at the earth's grip",
+      "primitives": ["square divided into plots"],
+      "narrative_position": "The earth becomes cultivated - life can be sustained"
     },
     {
       "id": 15,
@@ -163,10 +194,12 @@
       "pinyin": "mù",
       "tone": 4,
       "meaning": "Eye",
-      "story": "Your eye angrily yells \"MOO!\" when dust gets in it!",
-      "primitives": [
-        "eye"
-      ]
+      "mnemonic_image": "Two eyelids blinking - the eye that witnesses everything",
+      "sound_bridge": "MOO = 'MOO-ve your eyes!'",
+      "story": "Reflected in the field's waters gazes the EYE - MY eye. 'MOO!' I COMMAND my vision to see it all. TWO eyelids blink. The cosmos awakens through observation.",
+      "tone_emotion": "COMMAND - sharp awakening of consciousness",
+      "primitives": ["rectangle with two internal lines"],
+      "narrative_position": "The observer emerges - consciousness witnesses creation"
     }
   ]
 }
