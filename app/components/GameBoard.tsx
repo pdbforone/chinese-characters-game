@@ -3,7 +3,7 @@
 import { useState, useMemo, useEffect } from 'react';
 import { Character, GameStats, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
-import { playCorrectSound, playIncorrectSound } from '@/lib/sounds';
+import { playToneSound, playErrorThud, ToneNumber } from '@/lib/toneSounds';
 import StoryCard from './StoryCard';
 import CharacterCard from './CharacterCard';
 import PinyinCard from './PinyinCard';
@@ -97,8 +97,11 @@ export default function GameBoard({
     }
 
     if (isCorrectMatch) {
-      // Correct match!
-      playCorrectSound();
+      // Correct match! Play tone-specific sound
+      const matchedChar = characters.find((c) => c.id === leftId);
+      if (matchedChar) {
+        playToneSound(matchedChar.tone as ToneNumber);
+      }
 
       const newMatched = new Set(matched);
 
@@ -139,8 +142,8 @@ export default function GameBoard({
         }
       }
     } else {
-      // Incorrect match
-      playIncorrectSound();
+      // Incorrect match - play non-tonal thud (research: avoid reinforcing wrong tone)
+      playErrorThud();
 
       setIncorrect(rightId);
       setGameStats({
