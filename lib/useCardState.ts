@@ -4,8 +4,10 @@
  * Encapsulates the common styling logic shared across all card components:
  * CharacterCard, StoryCard, PinyinCard, MeaningCard
  *
- * This eliminates ~80 lines of duplicated code per card (320 lines total).
+ * Enhanced with tone-based coloring for Neo-Gongbi aesthetic.
  */
+
+import { getToneInfo, type ToneInfo } from './toneUtils';
 
 export interface CardState {
   isSelected: boolean;
@@ -19,25 +21,31 @@ export interface CardClassNames {
   animation: string;
 }
 
+export interface CardOptions {
+  showPulseOnMatch?: boolean;
+  useToneColors?: boolean;
+  tone?: number;
+}
+
 /**
  * Derives Tailwind class names from card state.
  * Single source of truth for visual feedback styling.
  *
  * @param state - The current selection/match state of the card
- * @param options - Optional overrides for matched animation
+ * @param options - Optional overrides for styling (tone colors, animations)
  * @returns Object containing border, background, and animation class strings
  */
-export function getCardClassNames(
-  state: CardState,
-  options: { showPulseOnMatch?: boolean } = {}
-): CardClassNames {
+export function getCardClassNames(state: CardState, options: CardOptions = {}): CardClassNames {
   const { isSelected, isMatched, isIncorrect } = state;
-  const { showPulseOnMatch = true } = options;
+  const { showPulseOnMatch = true, useToneColors = false, tone } = options;
+
+  // Get tone info if using tone colors
+  const toneInfo: ToneInfo | null = useToneColors && tone ? getToneInfo(tone) : null;
 
   if (isMatched) {
     return {
-      border: 'border-2 border-green-500',
-      background: showPulseOnMatch ? 'bg-green-50 animate-pulse-green' : 'bg-green-50',
+      border: 'border-2 border-emerald-500',
+      background: showPulseOnMatch ? 'bg-emerald-50 animate-pulse-green' : 'bg-emerald-50',
       animation: '',
     };
   }
@@ -51,17 +59,33 @@ export function getCardClassNames(
   }
 
   if (isSelected) {
+    // Use tone color for selected state if available
+    if (toneInfo) {
+      return {
+        border: `border-2 ${toneInfo.border}`,
+        background: toneInfo.bgLight,
+        animation: '',
+      };
+    }
     return {
-      border: 'border-2 border-blue-500',
-      background: 'bg-blue-50',
+      border: 'border-2 border-amber-500',
+      background: 'bg-amber-50',
       animation: '',
     };
   }
 
-  // Default (unselected) state
+  // Default (unselected) state - subtle tone hint
+  if (toneInfo) {
+    return {
+      border: `border-2 ${toneInfo.borderMuted}`,
+      background: 'bg-white hover:bg-stone-50',
+      animation: '',
+    };
+  }
+
   return {
-    border: 'border-2 border-gray-300',
-    background: 'bg-white hover:bg-gray-50',
+    border: 'border-2 border-stone-300',
+    background: 'bg-white hover:bg-stone-50',
     animation: '',
   };
 }
@@ -83,11 +107,11 @@ export function buildCardClassName(
     ${classNames.border}
     ${classNames.background}
     ${classNames.animation}
-    rounded-lg cursor-pointer
+    rounded-xl cursor-pointer
     transition-all duration-200
-    ${isMatched ? 'opacity-50 cursor-not-allowed' : ''}
+    ${isMatched ? 'opacity-60 cursor-not-allowed' : ''}
     flex flex-col items-center justify-center
-    focus:outline-none focus:ring-4 focus:ring-blue-300
+    focus:outline-none focus:ring-4 focus:ring-amber-300
     ${additionalClasses}
   `.trim();
 

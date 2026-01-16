@@ -197,7 +197,7 @@ export default function GameBoard({
   };
 
   if (shuffledRight.length === 0) {
-    return <div className="text-center p-8">Loading...</div>;
+    return <div className="text-center p-8 text-stone-600">Loading...</div>;
   }
 
   // Determine what to show on left and right based on game mode
@@ -241,7 +241,7 @@ export default function GameBoard({
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {/* Left Column */}
         <div className="space-y-4">
-          <h3 className="text-lg font-semibold text-gray-700 mb-4 text-center md:text-left">
+          <h3 className="text-lg font-semibold text-stone-700 mb-4 text-center md:text-left">
             {getLeftLabel()}
           </h3>
           {characters.map((char) => {
@@ -277,7 +277,7 @@ export default function GameBoard({
 
         {/* Right Column */}
         <div className="space-y-4">
-          <h3 className="text-lg font-semibold text-gray-700 mb-4 text-center md:text-left">
+          <h3 className="text-lg font-semibold text-stone-700 mb-4 text-center md:text-left">
             {getRightLabel()}
           </h3>
           {shuffledRight.map((char) => {
@@ -325,32 +325,32 @@ export default function GameBoard({
 
       {/* Completion Modal */}
       {showCompletion && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-          <div className="bg-white rounded-lg p-8 max-w-md w-full shadow-2xl">
-            <h2 className="text-3xl font-bold text-center mb-4 text-gray-800">
+        <div className="fixed inset-0 bg-stone-900/60 flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-2xl p-8 max-w-md w-full shadow-2xl border border-stone-200">
+            <h2 className="text-3xl font-bold text-center mb-4 text-stone-800">
               🎉 Round Complete! 🎉
             </h2>
             <div className="space-y-4 text-center">
               <div className="text-5xl mb-4">{getStarRating(gameStats.accuracy)}</div>
               <div className="text-xl">
-                <p className="text-gray-700">
+                <p className="text-stone-700">
                   Accuracy:{' '}
-                  <span className="font-bold text-blue-600">{gameStats.accuracy.toFixed(1)}%</span>
+                  <span className="font-bold text-amber-600">{gameStats.accuracy.toFixed(1)}%</span>
                 </p>
-                <p className="text-gray-600 text-sm mt-2">
+                <p className="text-stone-500 text-sm mt-2">
                   {gameStats.correctMatches} correct out of {gameStats.totalAttempts} attempts
                 </p>
               </div>
               <div className="pt-4 space-y-3">
                 <button
                   onClick={resetGame}
-                  className="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors"
+                  className="w-full bg-amber-500 hover:bg-amber-400 text-stone-900 font-semibold py-3 px-6 rounded-xl transition-colors"
                 >
                   Play Again
                 </button>
                 <button
                   onClick={() => (window.location.href = '/')}
-                  className="w-full bg-gray-200 hover:bg-gray-300 text-gray-800 font-semibold py-3 px-6 rounded-lg transition-colors"
+                  className="w-full bg-stone-200 hover:bg-stone-300 text-stone-800 font-semibold py-3 px-6 rounded-xl transition-colors"
                 >
                   Back to Lessons
                 </button>
