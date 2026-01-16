@@ -18,7 +18,7 @@ import AchievementToast from './AchievementToast';
 interface MultiRoundGameProps {
   characters: Character[];
   lessonNumber: number;
-  onComplete: () => void;
+  onComplete: (accuracies: number[]) => void;
   onBackToLessons: () => void;
   onReview?: () => void;
 }
@@ -107,7 +107,7 @@ export default function MultiRoundGame({
     } else if (currentRound === 3) {
       // All 3 rounds complete! Check achievements before completing
       checkAchievementsAfterGame(updatedAccuracies);
-      onComplete();
+      onComplete(updatedAccuracies);
     } else {
       // Failed to advance - restart current round
       setCurrentPage(0);

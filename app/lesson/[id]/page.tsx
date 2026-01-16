@@ -5,10 +5,11 @@ import { useParams, useRouter } from 'next/navigation';
 import MultiRoundGame from '@/app/components/MultiRoundGame';
 import CharacterIntroduction from '@/app/components/CharacterIntroduction';
 import ReturnUserModal from '@/app/components/ReturnUserModal';
+import RewardScreen from '@/app/components/RewardScreen';
 import { getLessonData } from '@/lib/lessonLoader';
 import { getLessonProgress, markIntroductionComplete } from '@/lib/storage';
 
-type Phase = 'loading' | 'modal' | 'introduction' | 'game';
+type Phase = 'loading' | 'modal' | 'introduction' | 'game' | 'reward';
 
 export default function LessonPage() {
   const params = useParams();
@@ -22,6 +23,7 @@ export default function LessonPage() {
   const [phase, setPhase] = useState<Phase>(() =>
     progress.introductionCompleted ? 'modal' : 'introduction'
   );
+  const [gameAccuracies, setGameAccuracies] = useState<number[]>([]);
 
   // Note: When lessonId changes in the URL, the entire page component remounts
   // due to Next.js dynamic routing, so we don't need useEffect to handle that
@@ -44,11 +46,22 @@ export default function LessonPage() {
     router.push('/');
   };
 
-  const handleGameComplete = () => {
+  const handleGameComplete = (accuracies: number[]) => {
+    // Save accuracies and show reward screen
+    setGameAccuracies(accuracies);
+    setPhase('reward');
+  };
+
+  const handleRewardContinue = () => {
     // Reload progress and show modal
     const savedProgress = getLessonProgress(lessonId);
     setProgress(savedProgress);
     setPhase('modal');
+  };
+
+  const handleReplayLesson = () => {
+    // Restart from introduction
+    setPhase('introduction');
   };
 
   // Lesson not found
@@ -126,6 +139,20 @@ export default function LessonPage() {
           lessonData={lessonData}
         />
       </>
+    );
+  }
+
+  // Reward phase - shown after game completion
+  if (phase === 'reward') {
+    return (
+      <RewardScreen
+        characters={lessonData.characters}
+        lessonNumber={lessonId}
+        lessonData={lessonData}
+        accuracies={gameAccuracies}
+        onContinue={handleRewardContinue}
+        onReplayLesson={handleReplayLesson}
+      />
     );
   }
 
