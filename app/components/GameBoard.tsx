@@ -310,7 +310,7 @@ export default function GameBoard({
                 />
               );
             } else {
-              // character-to-pinyin
+              // character-to-pinyin (Round 3) - hide tone indicators to increase difficulty
               return (
                 <PinyinCard
                   key={`right-${char.id}`}
@@ -319,6 +319,7 @@ export default function GameBoard({
                   isMatched={matched.has(char.id)}
                   isIncorrect={incorrect === char.id}
                   onClick={() => handleRightClick(char.id)}
+                  showToneIndicators={false}
                 />
               );
             }

@@ -10,6 +10,7 @@ interface PinyinCardProps {
   isMatched: boolean;
   isIncorrect: boolean;
   onClick: () => void;
+  showToneIndicators?: boolean; // Hide in Round 3 to increase difficulty
 }
 
 export default function PinyinCard({
@@ -18,11 +19,12 @@ export default function PinyinCard({
   isMatched,
   isIncorrect,
   onClick,
+  showToneIndicators = true,
 }: PinyinCardProps) {
   const toneInfo = getToneInfo(character.tone);
   const classNames = getCardClassNames(
     { isSelected, isMatched, isIncorrect },
-    { useToneColors: true, tone: character.tone }
+    { useToneColors: showToneIndicators, tone: character.tone }
   );
   const handleKeyDown = createCardKeyHandler(onClick, isMatched);
 
@@ -48,8 +50,8 @@ export default function PinyinCard({
         relative
       `}
     >
-      {/* Tone Badge */}
-      {!isMatched && (
+      {/* Tone Badge - hidden in Round 3 */}
+      {showToneIndicators && !isMatched && (
         <div
           className={`absolute top-2 right-2 ${toneInfo.color} text-white px-2 py-0.5 rounded-full text-xs font-bold`}
         >
@@ -57,7 +59,11 @@ export default function PinyinCard({
         </div>
       )}
 
-      <div className={`text-4xl font-semibold ${toneInfo.textColor} mb-2`}>{character.pinyin}</div>
+      <div
+        className={`text-4xl font-semibold ${showToneIndicators ? toneInfo.textColor : 'text-stone-700'} mb-2`}
+      >
+        {character.pinyin}
+      </div>
 
       {/* Show sound bridge on match */}
       {isMatched && character.sound_bridge && (
