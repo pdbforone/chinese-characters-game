@@ -1,32 +1,49 @@
 {
   "lesson": 10,
+  "title": "The Forest of Dim-Witted Trees",
+  "theme": "An absurdist tale of a forest full of stupid apricot trees, a student who died laughing, and his younger sister's investigation into the mystery",
+  "memory_palace": "The Stupid Forest",
+  "narrative_arc": "Tree stands alone → Woods form → Forest grows → Planting fails → Apricots spread → Dim-wittedness reigns → Trees wither → Village huddles → Mutual dependence → Student documents → Legal case opens → Verdict pending → Last owner dies → Foam marks grave → Flavor baffles → Sister arrives → Investigation begins → Sediment sifted → Dye attempts → Plums slightly smarter → Table set → As if return expected → Grass invades → Suffering recorded → Forest widens → Leaves question → Nobody understands → Imitation attempted → Desert emerges → Grave found → Seedling grows → Attention aimed",
+  "narrative_story": "Not all forests are wise; this one is full of dim-witted apricot trees. First, there was a tree — singular, vertical, reaching for light. Then woods — two trees became companions. Then the forest — three trees became a world. Someone had thought to plant order here. They failed. Apricot trees grew everywhere — sweet, fragrant, absolutely stupid. They were dim-witted — mouths open, vacant stares. Many had already withered — too foolish to find water. A village huddled at the forest's edge. The villagers traded with the trees. They depended on one another — humans and apricots, mutual incompetence. A student came with a notebook — determined to document this oddity. It became a legal case — who owned these ridiculous trees? The answer: not yet determined. The last owner had died laughing at an apricot's joke. His grave was marked with foam — the trees' attempt at flowers. The flavor of the fruit was indescribable — sweet and baffling. The old man's younger sister came to investigate. She sifted through the sediment of his life. The trees had tried to dye his burial clothes. They used plum juice. The plum trees were only slightly smarter. She found his table still set for dinner. As if he had expected to return. Grass grew through the floorboards. His notes spoke of suffering — the taste of wisdom in a stupid world. The forest was wide — endless, in its dim-witted way. Each leaf held a question no one thought to ask. Nobody understood the trees. Nobody tried. The sister tried to imitate her brother's research. She wandered until the forest became desert — trees giving way to sand. She found a grave she didn't recognize. Beside it grew a seedling — small, determined, possibly less stupid than its parents. She bent down to aim her attention at this tiny hope. Maybe the next generation would learn. Maybe the forest would wake up.",
   "characters": [
     {
       "id": 191,
       "character": "木",
       "pinyin": "mù",
       "tone": 4,
-      "meaning": "Tree",
-      "story": "A tree stands tall, commanding \"Moo!\" sharply with branches!",
-      "primitives": []
+      "meaning": "tree",
+      "mnemonic_image": "A single tree standing vertical - the primordial form of all wood",
+      "sound_bridge": "MOO = 'MOO-ve aside, I'm a tree!'",
+      "story": "First, there is a TREE — singular, vertical, reaching for light. 'MU!' I COMMAND my roots downward, my branches skyward. I am the beginning of everything wooden, the first stroke of the forest.",
+      "tone_emotion": "COMMAND - sharp declaration of existence",
+      "primitives": ["single element"],
+      "narrative_position": "The origin — one tree reaching for light"
     },
     {
       "id": 192,
       "character": "林",
       "pinyin": "lín",
       "tone": 2,
-      "meaning": "Woods",
-      "story": "\"Lin-da, why are there so many trees?\" he asked in the woods.",
-      "primitives": []
+      "meaning": "woods",
+      "mnemonic_image": "Two trees side by side - companionship in nature",
+      "sound_bridge": "LEEN = 'LEEN on each other?!'",
+      "story": "Then WOODS — two trees become companions. I GASP 'LEEN?!' — we lean on each other now? The loneliness ends. Tree meets tree, and suddenly there is conversation in the rustling.",
+      "tone_emotion": "GASP - rising surprise at companionship",
+      "primitives": ["tree 木", "tree 木"],
+      "narrative_position": "First companionship — two trees together"
     },
     {
       "id": 193,
       "character": "森",
       "pinyin": "sēn",
       "tone": 1,
-      "meaning": "Forest",
-      "story": "The dense forest had three layers of trees stacked high.",
-      "primitives": []
+      "meaning": "forest",
+      "mnemonic_image": "Three trees stacked - a world unto itself",
+      "sound_bridge": "SEN = 'SEN-sational forest!'",
+      "story": "Then the FOREST — three trees become a world. I SING 'SENNN...' — sustained and vast. We are no longer individuals. We are a breathing, thinking, utterly stupid collective.",
+      "tone_emotion": "SING - sustained wonder at becoming a world",
+      "primitives": ["tree 木", "tree 木", "tree 木"],
+      "narrative_position": "Multiplication — three trees become a world"
     },
     {
       "id": 194,
@@ -34,17 +51,25 @@
       "pinyin": "zhí",
       "tone": 2,
       "meaning": "to plant",
-      "story": "\"Where should we plant the straight trees?\" she asked curiously.",
-      "primitives": []
+      "mnemonic_image": "A tree planted straight - the attempt at order",
+      "sound_bridge": "JIH = 'JIH-st plant it straight?!'",
+      "story": "Someone thought TO PLANT order here. I GASP 'JIH?!' — they wanted us straight? In rows? They failed. We grew wild, crooked, magnificently disobedient.",
+      "tone_emotion": "GASP - rising disbelief at attempted control",
+      "primitives": ["tree 木", "straight 直"],
+      "narrative_position": "Failed order — planting that didn't take"
     },
     {
       "id": 195,
       "character": "杏",
       "pinyin": "xìng",
       "tone": 4,
-      "meaning": "Apricot",
-      "story": "An apricot tree mouth-watering and ripe, ready for picking!",
-      "primitives": []
+      "meaning": "apricot",
+      "mnemonic_image": "A tree with a mouth - the speaking fruit tree",
+      "sound_bridge": "SHING = 'SHING! The apricot announces itself!'",
+      "story": "APRICOT trees grew everywhere — sweet, fragrant, absolutely stupid. 'SHING!' each tree COMMANDS attention. A mouth on a tree, always talking, never thinking. We are delicious and brainless.",
+      "tone_emotion": "COMMAND - sharp announcement of foolish presence",
+      "primitives": ["tree 木", "mouth 口"],
+      "narrative_position": "The culprits — stupid apricots everywhere"
     },
     {
       "id": 196,
@@ -52,8 +77,12 @@
       "pinyin": "dāi",
       "tone": 1,
       "meaning": "dim-witted",
-      "story": "A dim-witted person with wood mouth sings \"Dai!\" stupidly happy!",
-      "primitives": []
+      "mnemonic_image": "A mouth atop wood - slack-jawed stupidity",
+      "sound_bridge": "DYE = 'DYE-d in the wool stupid!'",
+      "story": "They are DIM-WITTED — mouths open, vacant stares. I SING 'DYEEE...' — sustained and empty. A mouth sitting on wood, perpetually surprised by nothing. We forgot how to think.",
+      "tone_emotion": "SING - sustained vacant emptiness",
+      "primitives": ["mouth 口", "tree 木"],
+      "narrative_position": "The diagnosis — pure stupidity"
     },
     {
       "id": 197,
@@ -61,17 +90,25 @@
       "pinyin": "kū",
       "tone": 1,
       "meaning": "withered",
-      "story": "With a tree combined with a wood, you get withered - \"Koo!\" rings out cheerfully!",
-      "primitives": []
+      "mnemonic_image": "An ancient tree dried out - death by foolishness",
+      "sound_bridge": "KOO = 'KOO-ld and dried out'",
+      "story": "Many have already WITHERED — too foolish to find water. I SING 'KOOO...' — sustained like a death rattle. An ancient tree that forgot the most basic thing: drink. Now we crumble.",
+      "tone_emotion": "SING - sustained drying death",
+      "primitives": ["tree 木", "ancient 古"],
+      "narrative_position": "The consequence — death by stupidity"
     },
     {
       "id": 198,
       "character": "村",
       "pinyin": "cūn",
       "tone": 1,
-      "meaning": "Village",
-      "story": "The strokes unite to show village, singing \"Tsun!\" cheerfully!",
-      "primitives": []
+      "meaning": "village",
+      "mnemonic_image": "Trees measured inch by inch - civilization at forest's edge",
+      "sound_bridge": "TSOON = 'TSOON there'll be a village'",
+      "story": "A VILLAGE huddled at the forest's edge. I SING 'TSOOON...' — sustained like woodsmoke rising. Trees measured inch by inch, turned into homes. The humans are almost as dim-witted as us.",
+      "tone_emotion": "SING - sustained presence of community",
+      "primitives": ["tree 木", "inch 寸"],
+      "narrative_position": "The edge — where humans meet stupid trees"
     },
     {
       "id": 199,
@@ -79,8 +116,12 @@
       "pinyin": "xiāng",
       "tone": 1,
       "meaning": "one another",
-      "story": "The tree and eye unite to create one another, singing \"Shyang!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "A tree and an eye - mutual seeing",
+      "sound_bridge": "SHYANG = 'SHYANG-ing at each other'",
+      "story": "They depended on ONE ANOTHER — humans and apricots, mutual incompetence. I SING 'SHYAAANG...' — tree and eye gazing endlessly. We look at each other without understanding. It works somehow.",
+      "tone_emotion": "SING - sustained mutual gaze",
+      "primitives": ["tree 木", "eye 目"],
+      "narrative_position": "The bond — idiots supporting idiots"
     },
     {
       "id": 200,
@@ -88,8 +129,12 @@
       "pinyin": "běn",
       "tone": 3,
       "meaning": "notebook",
-      "story": "The tree takes the shape of notebook, whispering \"Ben\" softly!",
-      "primitives": []
+      "mnemonic_image": "The root of a tree - the origin of recorded knowledge",
+      "sound_bridge": "BEN = 'BEN-d down to write'",
+      "story": "A student came with a NOTEBOOK — determined to document this oddity. I GROAN 'Bennn...' — the weight of recording stupidity. The root of the tree becomes the root of knowledge. Heavy work.",
+      "tone_emotion": "GROAN - guttural burden of documentation",
+      "primitives": ["tree 木", "one 一"],
+      "narrative_position": "The witness — attempting to record folly"
     },
     {
       "id": 201,
@@ -97,8 +142,12 @@
       "pinyin": "àn",
       "tone": 4,
       "meaning": "legal case",
-      "story": "A legal case at the tree table commands \"An!\" sharply in judgment!",
-      "primitives": []
+      "mnemonic_image": "A desk under a roof - where judgment happens",
+      "sound_bridge": "AHN = 'AHN-swer the charges!'",
+      "story": "It became a LEGAL CASE — who owned these ridiculous trees? 'AHN!' the judge COMMANDS an answer. A wooden desk under a roof, piled with papers about apricot property rights. Absurd.",
+      "tone_emotion": "COMMAND - sharp demand for judgment",
+      "primitives": ["roof 宀", "woman 女", "tree 木"],
+      "narrative_position": "The bureaucracy — stupidity becomes legal"
     },
     {
       "id": 202,
@@ -106,35 +155,51 @@
       "pinyin": "wèi",
       "tone": 4,
       "meaning": "not yet",
-      "story": "The tree takes the shape of not yet, shouting \"Way!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "A tree with branches not fully formed - incompleteness",
+      "sound_bridge": "WAY = 'WAY too early to decide!'",
+      "story": "The answer: NOT YET determined. 'WAY!' the clerk COMMANDS patience. The tree hasn't finished growing its branches. The case hasn't finished growing its verdict. Everything incomplete.",
+      "tone_emotion": "COMMAND - sharp assertion of incompleteness",
+      "primitives": ["tree variant 木"],
+      "narrative_position": "The delay — judgment forever pending"
     },
     {
       "id": 203,
       "character": "末",
       "pinyin": "mò",
       "tone": 4,
-      "meaning": "Last",
-      "story": "The last branch at the end of the tree was bare.",
-      "primitives": []
+      "meaning": "last",
+      "mnemonic_image": "The top of a tree - the final tip",
+      "sound_bridge": "MWO = 'MWO-re to the story's end!'",
+      "story": "The LAST owner had died laughing at an apricot's joke. 'MWO!' death COMMANDS its ending. The top of the tree, the end of the line. He laughed until he couldn't breathe.",
+      "tone_emotion": "COMMAND - sharp finality of ending",
+      "primitives": ["tree variant 木"],
+      "narrative_position": "The death — laughing at stupidity"
     },
     {
       "id": 204,
       "character": "沫",
       "pinyin": "mò",
       "tone": 4,
-      "meaning": "Foam",
-      "story": "Like water, this character means foam and shouts \"Mwoh!\" like ripples spreading across a pond!",
-      "primitives": []
+      "meaning": "foam",
+      "mnemonic_image": "Water at the end - bubbles marking a grave",
+      "sound_bridge": "MWO = 'MWO-re foam for the grave!'",
+      "story": "His grave was marked with FOAM — the trees' attempt at flowers. 'MWO!' the bubbles COMMAND attention. Water at the end of things, frothing stupidly. Even their mourning is ridiculous.",
+      "tone_emotion": "COMMAND - sharp absurdity of grief",
+      "primitives": ["water 氵", "last 末"],
+      "narrative_position": "The memorial — stupid flowers of foam"
     },
     {
       "id": 205,
       "character": "味",
       "pinyin": "wèi",
       "tone": 4,
-      "meaning": "Flavor",
-      "story": "See how the mouth forms flavor? It shouts \"Way!\" sharply spoken through parted lips!",
-      "primitives": []
+      "meaning": "flavor",
+      "mnemonic_image": "A mouth tasting incompleteness - indescribable taste",
+      "sound_bridge": "WAY = 'WAY too strange to describe!'",
+      "story": "The FLAVOR of the fruit was indescribable — sweet and baffling. 'WAY!' my tongue COMMANDS confusion. A mouth trying to taste something not yet defined. The apricots taste like questions.",
+      "tone_emotion": "COMMAND - sharp bafflement at taste",
+      "primitives": ["mouth 口", "not yet 未"],
+      "narrative_position": "The mystery — flavor beyond words"
     },
     {
       "id": 206,
@@ -142,8 +207,12 @@
       "pinyin": "mèi",
       "tone": 4,
       "meaning": "younger sister",
-      "story": "Picture younger sister taking form - it shouts \"May!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "A woman not yet grown - the investigating sibling",
+      "sound_bridge": "MAY = 'MAY I investigate?'",
+      "story": "The old man's YOUNGER SISTER came. 'MAY!' she COMMANDS permission to enter. A woman not yet old, not yet finished grieving. She will solve what her brother could not.",
+      "tone_emotion": "COMMAND - sharp determination to understand",
+      "primitives": ["woman 女", "not yet 未"],
+      "narrative_position": "The investigator — sibling seeking truth"
     },
     {
       "id": 207,
@@ -151,8 +220,12 @@
       "pinyin": "chá",
       "tone": 2,
       "meaning": "to investigate",
-      "story": "See how the tree forms to investigate? It asks \"Cha? What happened?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Examining a tree at dawn - searching for answers",
+      "sound_bridge": "CHA = 'CHA-rges need investigation?!'",
+      "story": "She came TO INVESTIGATE. I GASP 'CHA?!' — what happened here? Examining the tree at first light, looking for clues. Every branch hides a secret. Every stupid leaf knows something.",
+      "tone_emotion": "GASP - rising urgency to understand",
+      "primitives": ["tree 木", "dawn 旦"],
+      "narrative_position": "The method — systematic searching"
     },
     {
       "id": 208,
@@ -160,8 +233,12 @@
       "pinyin": "zhā",
       "tone": 1,
       "meaning": "sediment",
-      "story": "The water stands for sediment, singing \"Zha!\" cheerfully like ripples spreading across a pond!",
-      "primitives": []
+      "mnemonic_image": "Water examined for residue - sifting through remains",
+      "sound_bridge": "JA = 'JA-nk at the bottom'",
+      "story": "She sifted through the SEDIMENT of his life. I SING 'JAAA...' — sustained sorting through the dregs. Water examined, bits settled at the bottom. His whole life reduced to residue.",
+      "tone_emotion": "SING - sustained sifting through remains",
+      "primitives": ["water 氵", "investigate 查"],
+      "narrative_position": "The method — finding truth in leftovers"
     },
     {
       "id": 209,
@@ -169,26 +246,38 @@
       "pinyin": "rǎn",
       "tone": 3,
       "meaning": "to dye",
-      "story": "Like water, this character means to dye and whispers \"Ran\"!",
-      "primitives": []
+      "mnemonic_image": "Water and wood combining nine times - color transformation",
+      "sound_bridge": "RAN = 'RAN the color through'",
+      "story": "The trees had tried TO DYE his burial clothes. I GROAN 'Rannn...' — the heavy work of color. Water, wood, nine attempts. They used plum juice. Purple and pathetic.",
+      "tone_emotion": "GROAN - guttural effort of transformation",
+      "primitives": ["water 氵", "tree 木", "nine 九"],
+      "narrative_position": "The tribute — stupid trees trying to honor"
     },
     {
       "id": 210,
       "character": "李",
       "pinyin": "lǐ",
       "tone": 3,
-      "meaning": "Plum",
-      "story": "The tree takes the shape of plum, whispering \"Lee\" softly - a vivid image to remember!",
-      "primitives": []
+      "meaning": "plum",
+      "mnemonic_image": "A tree with a child beneath - the fruit that falls",
+      "sound_bridge": "LEE = 'LEE-tle bit smarter'",
+      "story": "The PLUM trees were only slightly smarter. I GROAN 'Leee...' — the weight of being merely less stupid. A tree's child falls beneath it. Plums know enough to drop, at least.",
+      "tone_emotion": "GROAN - guttural acknowledgment of marginal intelligence",
+      "primitives": ["tree 木", "child 子"],
+      "narrative_position": "The contrast — slightly less idiotic trees"
     },
     {
       "id": 211,
       "character": "桌",
       "pinyin": "zhuō",
       "tone": 1,
-      "meaning": "Table",
-      "story": "The tall table stood high and eminent in the dining room.",
-      "primitives": []
+      "meaning": "table",
+      "mnemonic_image": "Eminent wood standing tall - where meals wait",
+      "sound_bridge": "JWO = 'JWO-st sitting there waiting'",
+      "story": "She found his TABLE still set for dinner. I SING 'JWOOO...' — sustained waiting. Eminent wood holding plates that will never be used. The chairs still pulled out. He never came back.",
+      "tone_emotion": "SING - sustained emptiness of waiting",
+      "primitives": ["eminent 卓", "tree 木"],
+      "narrative_position": "The scene — frozen moment of abandonment"
     },
     {
       "id": 212,
@@ -196,8 +285,12 @@
       "pinyin": "ruò",
       "tone": 4,
       "meaning": "as if",
-      "story": "The grass and hand unite to create as if, shouting \"Ruo!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Grass and hands reaching - the gesture of supposition",
+      "sound_bridge": "RWO = 'RWO-lly he expected to return!'",
+      "story": "AS IF he had expected to return. 'RWO!' the evidence COMMANDS interpretation. Grass reaches like hands asking 'what if?' The table says he planned to eat. The grave says he didn't.",
+      "tone_emotion": "COMMAND - sharp assertion of impossible hope",
+      "primitives": ["grass 艹", "right 右"],
+      "narrative_position": "The question — what was he thinking?"
     },
     {
       "id": 213,
@@ -205,17 +298,25 @@
       "pinyin": "cǎo",
       "tone": 3,
       "meaning": "grass",
-      "story": "See how the grass forms grass? It whispers \"Tsao\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Early shoots emerging - life reclaiming abandonment",
+      "sound_bridge": "TSAO = 'TSAO-se through the cracks'",
+      "story": "GRASS grew through the floorboards. I GROAN 'Tsaooo...' — the weight of neglect. Early green shoots pushing through wood. Nature reclaims what stupidity abandoned. The house becomes forest.",
+      "tone_emotion": "GROAN - guttural invasion of the wild",
+      "primitives": ["grass radical 艹", "early 早"],
+      "narrative_position": "The reclamation — nature taking back"
     },
     {
       "id": 214,
       "character": "苦",
       "pinyin": "kǔ",
       "tone": 3,
-      "meaning": "Suffering",
-      "story": "The grass stand for suffering, whispering \"Koo\" softly - a vivid image to remember!",
-      "primitives": []
+      "meaning": "suffering",
+      "mnemonic_image": "Ancient grass - the bitter taste of wisdom",
+      "sound_bridge": "KOO = 'KOO-ld bitter truth'",
+      "story": "His notes spoke of SUFFERING — the taste of wisdom in a stupid world. I GROAN 'Kooo...' — ancient grass, bitter medicine. To understand the forest's stupidity is to taste their suffering. Knowledge hurts.",
+      "tone_emotion": "GROAN - guttural pain of understanding",
+      "primitives": ["grass radical 艹", "ancient 古"],
+      "narrative_position": "The revelation — wisdom as pain"
     },
     {
       "id": 215,
@@ -223,17 +324,25 @@
       "pinyin": "kuān",
       "tone": 1,
       "meaning": "wide",
-      "story": "\"Wow, what a spacious house!\" she exclaimed at the wide grass courtyard.",
-      "primitives": []
+      "mnemonic_image": "Grass visible under a roof - spacious seeing",
+      "sound_bridge": "KWAN = 'KWAN-tity of space!'",
+      "story": "The forest was WIDE — endless, in its dim-witted way. I SING 'KWAAAAN...' — sustained like the horizon. Grass under a roof of sky, as far as the eye can see. Stupidity has no borders.",
+      "tone_emotion": "SING - sustained vastness without limit",
+      "primitives": ["roof 宀", "grass 艹", "see 見"],
+      "narrative_position": "The scale — infinity of foolishness"
     },
     {
       "id": 216,
       "character": "葉",
       "pinyin": "yè",
       "tone": 4,
-      "meaning": "Leaf",
-      "story": "When the grass meets the tree, they form leaf, shouting \"Yeh!\" sharply!",
-      "primitives": []
+      "meaning": "leaf",
+      "mnemonic_image": "Grass generation on wood - each leaf a question",
+      "sound_bridge": "YEH = 'YEH-s, but why?'",
+      "story": "Each LEAF held a question no one thought to ask. 'YEH!' the leaves COMMAND acknowledgment. Grass-generation meeting wood, producing countless mysteries. We flutter with unasked questions.",
+      "tone_emotion": "COMMAND - sharp insistence of unasked questions",
+      "primitives": ["grass 艹", "generation 世", "tree 木"],
+      "narrative_position": "The mystery — questions on every branch"
     },
     {
       "id": 217,
@@ -241,8 +350,12 @@
       "pinyin": "mò",
       "tone": 4,
       "meaning": "nobody",
-      "story": "\"Nobody's here at sunset,\" he commanded, absent from the grass field.",
-      "primitives": []
+      "mnemonic_image": "Grass covering the sun at day's end - absence at sunset",
+      "sound_bridge": "MWO = 'MWO-re nobody than before!'",
+      "story": "NOBODY understood the trees. Nobody tried. 'MWO!' the sunset COMMANDS emptiness. Grass covering the great sun, everything becoming shadow. At the end of day, there is only absence.",
+      "tone_emotion": "COMMAND - sharp declaration of absence",
+      "primitives": ["grass 艹", "sun 日", "big 大"],
+      "narrative_position": "The loneliness — understanding abandoned"
     },
     {
       "id": 218,
@@ -250,35 +363,51 @@
       "pinyin": "mó",
       "tone": 2,
       "meaning": "to imitate",
-      "story": "See how the tree forms to imitate? It asks \"Mwo? How to copy?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Wood and nobody - copying what can't be understood",
+      "sound_bridge": "MWO = 'MWO-deling after him?!'",
+      "story": "The sister tried TO IMITATE her brother's research. I GASP 'MWO?!' — can nobody's work be copied? Wood meets absence, and she tries to recreate what she never understood.",
+      "tone_emotion": "GASP - rising attempt at impossible copying",
+      "primitives": ["tree 木", "nobody 莫"],
+      "narrative_position": "The attempt — following in absent footsteps"
     },
     {
       "id": 219,
       "character": "漠",
       "pinyin": "mò",
       "tone": 4,
-      "meaning": "Desert",
-      "story": "A desert of water and nobody yells \"Mwoh!\" sharply empty!",
-      "primitives": []
+      "meaning": "desert",
+      "mnemonic_image": "Water and nobody - where nothing lives",
+      "sound_bridge": "MWO = 'MWO-re sand than trees!'",
+      "story": "The forest became DESERT — trees giving way to sand. 'MWO!' the wasteland COMMANDS acknowledgment. Water meets nobody, and there is only emptiness. Even the stupid trees couldn't survive here.",
+      "tone_emotion": "COMMAND - sharp arrival of nothingness",
+      "primitives": ["water 氵", "nobody 莫"],
+      "narrative_position": "The end — forest becomes absence"
     },
     {
       "id": 220,
       "character": "墓",
       "pinyin": "mù",
       "tone": 4,
-      "meaning": "a Grave",
-      "story": "See how the soil forms a grave? It shouts \"Moo!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "meaning": "grave",
+      "mnemonic_image": "Nobody covered by earth - the final resting place",
+      "sound_bridge": "MOO = 'MOO-rnful final rest!'",
+      "story": "She found a GRAVE she didn't recognize. 'MU!' the stone COMMANDS attention. Nobody covered by earth, marked only by sunset memories. Whose bones? Even death becomes anonymous here.",
+      "tone_emotion": "COMMAND - sharp encounter with death",
+      "primitives": ["nobody 莫", "earth 土"],
+      "narrative_position": "The discovery — unknown death"
     },
     {
       "id": 221,
       "character": "苗",
       "pinyin": "miáo",
       "tone": 2,
-      "meaning": "Seedling",
-      "story": "A seedling grass field questions \"Miao? Will it grow?\" curiously!",
-      "primitives": []
+      "meaning": "seedling",
+      "mnemonic_image": "Grass in a field - tiny hope growing",
+      "sound_bridge": "MYAO = 'MYAO-be this one's different?!'",
+      "story": "Beside it grew a SEEDLING — small, determined, possibly less stupid than its parents. I GASP 'MYAO?!' — could this tiny green thing be the hope we need? Grass in a field, refusing to be dim-witted.",
+      "tone_emotion": "GASP - rising hope at new possibility",
+      "primitives": ["grass 艹", "field 田"],
+      "narrative_position": "The hope — new generation rising"
     },
     {
       "id": 222,
@@ -286,8 +415,12 @@
       "pinyin": "miáo",
       "tone": 2,
       "meaning": "to aim",
-      "story": "With a target combined with an eye, you get to aim - \"Miao? Is that the target?\" rings out curiously!",
-      "primitives": []
+      "mnemonic_image": "Eye focused on seedling - attention on hope",
+      "sound_bridge": "MYAO = 'MYAO-be if I focus?!'",
+      "story": "She bent down TO AIM her attention at this tiny hope. I GASP 'MYAO?!' — could looking carefully change anything? Eye meets seedling, and for the first time, someone truly sees. Maybe the next generation would learn.",
+      "tone_emotion": "GASP - rising focus on possibility",
+      "primitives": ["eye 目", "seedling 苗"],
+      "narrative_position": "The ending — attention becomes hope"
     }
   ]
 }
