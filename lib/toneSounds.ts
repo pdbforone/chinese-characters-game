@@ -54,52 +54,70 @@ class ToneSoundManager {
   }
 
   /**
-   * TONE 1: SING - Sustained, pure, high
-   * Research: E4 (330Hz) fixed, triangle wave, soft attack, reverb-like decay
-   * Feel: Clear, ringing, stable - like holding a sung note
+   * TONE 1: SING - Sustained, warm, high
+   * Research: D4 (294Hz) - lowered from E4 for warmth
+   * Two detuned oscillators for chorus/vocal quality
+   * Subtle vibrato for life
+   * Feel: Like a sustained sung note, warm and human
    */
   playTone1(): void {
     const ctx = this.getContext();
     if (!ctx) return;
 
     const now = ctx.currentTime;
-    const duration = 0.5;
+    const duration = 0.55;
+    const baseFreq = 294; // D4 - warmer than E4
 
-    // Triangle wave for pure, flute-like quality
-    const osc = ctx.createOscillator();
-    osc.type = 'triangle';
-    osc.frequency.setValueAtTime(330, now); // E4 - fixed high pitch
+    // Two slightly detuned oscillators for chorus warmth
+    const osc1 = ctx.createOscillator();
+    const osc2 = ctx.createOscillator();
+    osc1.type = 'triangle';
+    osc2.type = 'sine'; // Blend triangle + sine for warmth
 
-    // Gain envelope: soft attack, sustained, gentle release
-    const gainNode = ctx.createGain();
-    gainNode.gain.setValueAtTime(0, now);
-    gainNode.gain.linearRampToValueAtTime(0.25, now + 0.08); // 80ms soft attack
-    gainNode.gain.setValueAtTime(0.25, now + 0.3); // sustain
-    gainNode.gain.exponentialRampToValueAtTime(0.01, now + duration);
+    osc1.frequency.setValueAtTime(baseFreq, now);
+    osc2.frequency.setValueAtTime(baseFreq * 1.003, now); // Slight detune for chorus
 
-    // Mild lowpass to keep it vocal-adjacent (not too bright)
+    // Subtle vibrato via LFO (makes it feel more vocal/sung)
+    const vibrato = ctx.createOscillator();
+    const vibratoGain = ctx.createGain();
+    vibrato.frequency.setValueAtTime(5, now); // 5Hz vibrato rate
+    vibratoGain.gain.setValueAtTime(3, now); // ±3Hz pitch wobble
+    vibrato.connect(vibratoGain);
+    vibratoGain.connect(osc1.frequency);
+
+    // Individual gains for mixing
+    const gain1 = ctx.createGain();
+    const gain2 = ctx.createGain();
+    gain1.gain.setValueAtTime(0.18, now);
+    gain2.gain.setValueAtTime(0.1, now);
+
+    // Master gain envelope: soft attack, sustained, gentle release
+    const masterGain = ctx.createGain();
+    masterGain.gain.setValueAtTime(0, now);
+    masterGain.gain.linearRampToValueAtTime(1, now + 0.1); // 100ms soft attack
+    masterGain.gain.setValueAtTime(1, now + 0.35); // sustain
+    masterGain.gain.exponentialRampToValueAtTime(0.01, now + duration);
+
+    // Lowpass for warmth (cut harsh highs)
     const filter = ctx.createBiquadFilter();
     filter.type = 'lowpass';
-    filter.frequency.setValueAtTime(2000, now);
+    filter.frequency.setValueAtTime(1500, now);
+    filter.Q.setValueAtTime(0.7, now);
 
-    // Simple reverb simulation via delay
-    const delay = ctx.createDelay();
-    delay.delayTime.setValueAtTime(0.03, now);
-    const delayGain = ctx.createGain();
-    delayGain.gain.setValueAtTime(0.3, now);
+    // Connect: oscs -> individual gains -> filter -> master -> destination
+    osc1.connect(gain1);
+    osc2.connect(gain2);
+    gain1.connect(filter);
+    gain2.connect(filter);
+    filter.connect(masterGain);
+    masterGain.connect(ctx.destination);
 
-    // Connect: osc -> filter -> gain -> destination
-    //                      \-> delay -> delayGain -> destination
-    osc.connect(filter);
-    filter.connect(gainNode);
-    gainNode.connect(ctx.destination);
-
-    filter.connect(delay);
-    delay.connect(delayGain);
-    delayGain.connect(ctx.destination);
-
-    osc.start(now);
-    osc.stop(now + duration + 0.1);
+    osc1.start(now);
+    osc2.start(now);
+    vibrato.start(now);
+    osc1.stop(now + duration + 0.1);
+    osc2.stop(now + duration + 0.1);
+    vibrato.stop(now + duration + 0.1);
   }
 
   /**
