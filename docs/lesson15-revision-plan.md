@@ -2,13 +2,13 @@
 
 ## Lesson Overview
 
-| Field | Value |
-|-------|-------|
-| **Lesson Number** | 15 |
-| **Title** | The Police Poet |
-| **Saga** | Spirit |
-| **Character Count** | 22 |
-| **Callbacks** | Prison here foreshadows the Prisoner of Lesson 26 |
+| Field               | Value                                             |
+| ------------------- | ------------------------------------------------- |
+| **Lesson Number**   | 15                                                |
+| **Title**           | The Police Poet                                   |
+| **Saga**            | Spirit                                            |
+| **Character Count** | 22                                                |
+| **Callbacks**       | Prison here foreshadows the Prisoner of Lesson 26 |
 
 ## Narrative Summary
 
@@ -17,6 +17,7 @@ The most dangerous weapon in the precinct wasn't the gun — it was Officer Chen
 ## Memory Palace: The Police Precinct
 
 The journey through Officer Chen's precinct:
+
 1. **Evidence Room** — Books and drawings preserved as evidence
 2. **Desk Area** — Scratched poetry verses, attack plans
 3. **Interrogation Room** — Deliberate failures, rescue attempts, reverent criminals
@@ -29,30 +30,30 @@ The journey through Officer Chen's precinct:
 
 ## Characters (22 total)
 
-| ID | Character | Pinyin | Tone | Meaning | Tone Emotion |
-|----|-----------|--------|------|---------|--------------|
-| 311 | 書 | shū | 1 | book | SING |
-| 312 | 畫 | huà | 4 | drawing | COMMAND |
-| 313 | 劃 | huá | 2 | to scratch | GASP |
-| 314 | 攻 | gōng | 1 | to attack | SING |
-| 315 | 敗 | bài | 4 | to fail | COMMAND |
-| 316 | 故 | gù | 4 | deliberately | COMMAND |
-| 317 | 救 | jiù | 4 | to rescue | COMMAND |
-| 318 | 敬 | jìng | 4 | to revere | COMMAND |
-| 319 | 敞 | chǎng | 3 | spacious | GROAN |
-| 320 | 言 | yán | 2 | to say | GASP |
-| 321 | 警 | jǐng | 3 | police | GROAN |
-| 322 | 計 | jì | 4 | plan | COMMAND |
-| 323 | 獄 | yù | 4 | prison | COMMAND |
-| 324 | 討 | tǎo | 3 | to condemn | GROAN |
-| 325 | 訓 | xùn | 4 | instruction | COMMAND |
-| 326 | 話 | huà | 4 | talk | COMMAND |
-| 327 | 詩 | shī | 1 | poem | SING |
-| 328 | 語 | yǔ | 3 | language | GROAN |
-| 329 | 讀 | dú | 2 | to read | GASP |
-| 330 | 調 | diào | 4 | tune | COMMAND |
-| 331 | 談 | tán | 2 | to discuss | GASP |
-| 332 | 這 | zhè | 4 | this | COMMAND |
+| ID  | Character | Pinyin | Tone | Meaning      | Tone Emotion |
+| --- | --------- | ------ | ---- | ------------ | ------------ |
+| 311 | 書        | shū    | 1    | book         | SING         |
+| 312 | 畫        | huà    | 4    | drawing      | COMMAND      |
+| 313 | 劃        | huá    | 2    | to scratch   | GASP         |
+| 314 | 攻        | gōng   | 1    | to attack    | SING         |
+| 315 | 敗        | bài    | 4    | to fail      | COMMAND      |
+| 316 | 故        | gù     | 4    | deliberately | COMMAND      |
+| 317 | 救        | jiù    | 4    | to rescue    | COMMAND      |
+| 318 | 敬        | jìng   | 4    | to revere    | COMMAND      |
+| 319 | 敞        | chǎng  | 3    | spacious     | GROAN        |
+| 320 | 言        | yán    | 2    | to say       | GASP         |
+| 321 | 警        | jǐng   | 3    | police       | GROAN        |
+| 322 | 計        | jì     | 4    | plan         | COMMAND      |
+| 323 | 獄        | yù     | 4    | prison       | COMMAND      |
+| 324 | 討        | tǎo    | 3    | to condemn   | GROAN        |
+| 325 | 訓        | xùn    | 4    | instruction  | COMMAND      |
+| 326 | 話        | huà    | 4    | talk         | COMMAND      |
+| 327 | 詩        | shī    | 1    | poem         | SING         |
+| 328 | 語        | yǔ     | 3    | language     | GROAN        |
+| 329 | 讀        | dú     | 2    | to read      | GASP         |
+| 330 | 調        | diào   | 4    | tune         | COMMAND      |
+| 331 | 談        | tán    | 2    | to discuss   | GASP         |
+| 332 | 這        | zhè    | 4    | this         | COMMAND      |
 
 ## Tone Distribution
 
@@ -66,6 +67,7 @@ Note: This lesson has an unusually high concentration of Tone 4 (COMMAND) charac
 ## Primitive Components
 
 Key primitives used across lesson characters:
+
 - **言 (speech radical)** — appears in 計, 訓, 話, 詩, 語, 讀, 調, 談
 - **攵 (knock/action radical)** — appears in 敗, 故, 救, 敬, 敞
 - **聿 (brush)** — appears in 書, 畫, 劃
@@ -74,6 +76,7 @@ Key primitives used across lesson characters:
 ## Enhancement Requirements
 
 For each character, add:
+
 - [x] `mnemonic_image` — Visual description connecting form to meaning
 - [x] `sound_bridge` — English phrase encoding pinyin sound
 - [x] `story` — First-person narrative with tone emotion embedded

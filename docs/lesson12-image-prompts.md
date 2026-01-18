@@ -366,12 +366,12 @@ Rendered with fine-line gongbi technique, weighted settling calm, sharp arriving
 
 ### Tone-Visual Energy Quick Reference
 
-| Tone | Emotion | Characters |
-|------|---------|------------|
-| 1 (SING) | Sustained | 哈, 金, 針, 釘 |
-| 2 (GASP) | Rising | 茶, 合, 王, 球, 玩, 狂, 皇, 煌, 呈, 全, 銅, 銘 |
-| 3 (GROAN) | Heavy | 塔, 理, 主 |
-| 4 (COMMAND) | Sharp | 介, 界, 會, 玉, 現, 注, 釣, 鎮 |
+| Tone        | Emotion   | Characters                                     |
+| ----------- | --------- | ---------------------------------------------- |
+| 1 (SING)    | Sustained | 哈, 金, 針, 釘                                 |
+| 2 (GASP)    | Rising    | 茶, 合, 王, 球, 玩, 狂, 皇, 煌, 呈, 全, 銅, 銘 |
+| 3 (GROAN)   | Heavy     | 塔, 理, 主                                     |
+| 4 (COMMAND) | Sharp     | 介, 界, 會, 玉, 現, 注, 釣, 鎮                 |
 
 ---
 

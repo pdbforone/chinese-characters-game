@@ -249,26 +249,26 @@ Rendered with fine-line gongbi technique, flowing azurite water around ochre dog
 
 ### Tone-Visual Energy Mapping
 
-| Character | Tone | Emotion | Visual Energy |
-|-----------|------|---------|---------------|
-| 兆 | 4 | COMMAND | Sharp, decisive, downward/outward |
-| 桃 | 2 | GASP | Upward, surprising, lifting |
-| 犬 | 3 | GROAN | Heavy, grounded, pressing down |
-| 尤 | 2 | GASP | Rising, discovering, lifting |
-| 默 | 4 | COMMAND | Sharp, still, decisive |
-| 然 | 2 | GASP | Rising confusion, questioning |
-| 哭 | 1 | SING | Sustained, vertical, continuous |
-| 器 | 4 | COMMAND | Sharp, collecting, decisive |
-| 臭 | 4 | COMMAND | Sharp, recoiling, decisive |
-| 狗 | 3 | GROAN | Heavy, weighted, social pressure |
-| 厭 | 4 | COMMAND | Sharp, pressing, oppressive |
-| 壓 | 1 | SING | Sustained, compressing, continuous |
-| 牛 | 2 | GASP | Rising, emerging, surprising |
-| 特 | 4 | COMMAND | Sharp, sacred, authoritative |
-| 告 | 4 | COMMAND | Sharp, proclaiming, decisive |
-| 浩 | 4 | COMMAND | Sharp, vast, commanding scope |
-| 先 | 1 | SING | Sustained, contemplative, continuous |
-| 洗 | 3 | GROAN | Heavy, effortful, grounded |
+| Character | Tone | Emotion | Visual Energy                        |
+| --------- | ---- | ------- | ------------------------------------ |
+| 兆        | 4    | COMMAND | Sharp, decisive, downward/outward    |
+| 桃        | 2    | GASP    | Upward, surprising, lifting          |
+| 犬        | 3    | GROAN   | Heavy, grounded, pressing down       |
+| 尤        | 2    | GASP    | Rising, discovering, lifting         |
+| 默        | 4    | COMMAND | Sharp, still, decisive               |
+| 然        | 2    | GASP    | Rising confusion, questioning        |
+| 哭        | 1    | SING    | Sustained, vertical, continuous      |
+| 器        | 4    | COMMAND | Sharp, collecting, decisive          |
+| 臭        | 4    | COMMAND | Sharp, recoiling, decisive           |
+| 狗        | 3    | GROAN   | Heavy, weighted, social pressure     |
+| 厭        | 4    | COMMAND | Sharp, pressing, oppressive          |
+| 壓        | 1    | SING    | Sustained, compressing, continuous   |
+| 牛        | 2    | GASP    | Rising, emerging, surprising         |
+| 特        | 4    | COMMAND | Sharp, sacred, authoritative         |
+| 告        | 4    | COMMAND | Sharp, proclaiming, decisive         |
+| 浩        | 4    | COMMAND | Sharp, vast, commanding scope        |
+| 先        | 1    | SING    | Sustained, contemplative, continuous |
+| 洗        | 3    | GROAN   | Heavy, effortful, grounded           |
 
 ### Color Palette
 

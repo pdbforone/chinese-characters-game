@@ -278,12 +278,12 @@ Rendered with fine-line gongbi technique, descending motion, falling leaves, sha
 
 ### Tone-Visual Energy Quick Reference
 
-| Tone | Emotion | Characters |
-|------|---------|------------|
-| 1 (SING) | Sustained | 車, 輸 |
-| 2 (GASP) | Rising | 巡, 連, 蓮, 前, 逾, 格, 額 |
-| 3 (GROAN) | Heavy | 導, 剪 |
-| 4 (COMMAND) | Sharp | 道, 迅, 造, 逛, 各, 客, 夏, 洛, 落 |
+| Tone        | Emotion   | Characters                         |
+| ----------- | --------- | ---------------------------------- |
+| 1 (SING)    | Sustained | 車, 輸                             |
+| 2 (GASP)    | Rising    | 巡, 連, 蓮, 前, 逾, 格, 額         |
+| 3 (GROAN)   | Heavy     | 導, 剪                             |
+| 4 (COMMAND) | Sharp     | 道, 迅, 造, 逛, 各, 客, 夏, 洛, 落 |
 
 ---
 
