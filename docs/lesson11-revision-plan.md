@@ -254,37 +254,37 @@ Each character will include:
 
 ## Character Primitives Reference
 
-| Character | Primitives | Notes |
-|-----------|------------|-------|
-| 兆 | crack/divide lines | Cracks spreading = portent |
-| 桃 | 木 (tree) + 兆 (portent) | Tree bearing omen fruit |
-| 犬 | large dog form | The original "dog" character |
-| 尤 | special/outstanding form | Remarkable distinction |
-| 默 | 黑 (black) + 犬 (dog) | Black dog = silence |
-| 然 | 肉 (meat/flesh) + 犬 (dog) + 灬 (fire) | Dog meat over fire = natural state |
-| 哭 | 口 + 口 + 犬 | Two mouths over dog = crying |
-| 器 | 口 + 口 + 口 + 口 + 犬 | Four mouths around dog = utensil |
-| 臭 | 自 (nose/self) + 犬 (dog) | Nose over dog = stinking |
-| 狗 | 犬 (dog) + 句 (phrase/hook) | Dog + hook = common dog |
-| 厭 | 厂 (cliff) + 猒 (satiated) | Cliff pressing down = detest |
-| 壓 | 厂 (cliff) + 土 + more | Cliff creates pressure |
-| 牛 | horned beast form | Original cow/ox character |
-| 特 | 牛 (cow) + 寺 (temple) | Temple cow = special |
-| 告 | 牛 (cow top) + 口 (mouth) | Cow speaks = declare |
-| 浩 | 氵(water) + 告 (declare) | Water declares = vast |
-| 先 | 之 (go) + 儿 (person legs) | Person going ahead = before |
-| 洗 | 氵(water) + 先 (before) | Water before = wash |
+| Character | Primitives                             | Notes                              |
+| --------- | -------------------------------------- | ---------------------------------- |
+| 兆        | crack/divide lines                     | Cracks spreading = portent         |
+| 桃        | 木 (tree) + 兆 (portent)               | Tree bearing omen fruit            |
+| 犬        | large dog form                         | The original "dog" character       |
+| 尤        | special/outstanding form               | Remarkable distinction             |
+| 默        | 黑 (black) + 犬 (dog)                  | Black dog = silence                |
+| 然        | 肉 (meat/flesh) + 犬 (dog) + 灬 (fire) | Dog meat over fire = natural state |
+| 哭        | 口 + 口 + 犬                           | Two mouths over dog = crying       |
+| 器        | 口 + 口 + 口 + 口 + 犬                 | Four mouths around dog = utensil   |
+| 臭        | 自 (nose/self) + 犬 (dog)              | Nose over dog = stinking           |
+| 狗        | 犬 (dog) + 句 (phrase/hook)            | Dog + hook = common dog            |
+| 厭        | 厂 (cliff) + 猒 (satiated)             | Cliff pressing down = detest       |
+| 壓        | 厂 (cliff) + 土 + more                 | Cliff creates pressure             |
+| 牛        | horned beast form                      | Original cow/ox character          |
+| 特        | 牛 (cow) + 寺 (temple)                 | Temple cow = special               |
+| 告        | 牛 (cow top) + 口 (mouth)              | Cow speaks = declare               |
+| 浩        | 氵(water) + 告 (declare)               | Water declares = vast              |
+| 先        | 之 (go) + 儿 (person legs)             | Person going ahead = before        |
+| 洗        | 氵(water) + 先 (before)                | Water before = wash                |
 
 ---
 
 ## Tone Distribution Analysis
 
-| Tone | Emotion | Characters |
-|------|---------|------------|
-| 1 | SING | 哭 (kū), 壓 (yā), 先 (xiān) |
-| 2 | GASP | 桃 (táo), 尤 (yóu), 然 (rán), 牛 (niú) |
-| 3 | GROAN | 犬 (quǎn), 狗 (gǒu), 洗 (xǐ) |
-| 4 | COMMAND | 兆 (zhào), 默 (mò), 器 (qì), 臭 (chòu), 厭 (yàn), 特 (tè), 告 (gào), 浩 (hào) |
+| Tone | Emotion | Characters                                                                    |
+| ---- | ------- | ----------------------------------------------------------------------------- |
+| 1    | SING    | 哭 (kū), 壓 (yā), 先 (xiān)                                                   |
+| 2    | GASP    | 桃 (táo), 尤 (yóu), 然 (rán), 牛 (niú)                                        |
+| 3    | GROAN   | 犬 (quǎn), 狗 (gǒu), 洗 (xǐ)                                                  |
+| 4    | COMMAND | 兆 (zhào), 默 (mò), 器 (qì), 臭 (chòu), 厭 (yàn), 特 (tè), 告 (gào), 浩 (hào) |
 
 Note: Lesson 11 is weighted toward Tone 4 (COMMAND), fitting the theme of prophetic announcements and decisive moments.
 

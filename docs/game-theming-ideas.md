@@ -21,13 +21,13 @@ Add to each `lesson*.json`:
   "lesson": 11,
   "title": "The Dog Who Cried Peach",
   "theme_config": {
-    "primary_color": "#F97316",      // Peach/orange
-    "secondary_color": "#78350F",    // Earth brown
-    "accent_color": "#FEF3C7",       // Pale peach
-    "background_style": "orchard",   // CSS class or gradient name
-    "card_style": "natural",         // Card border/shadow style
-    "sound_theme": "nature",         // Sound effect set
-    "particle_effect": "petals"      // Optional ambient animation
+    "primary_color": "#F97316", // Peach/orange
+    "secondary_color": "#78350F", // Earth brown
+    "accent_color": "#FEF3C7", // Pale peach
+    "background_style": "orchard", // CSS class or gradient name
+    "card_style": "natural", // Card border/shadow style
+    "sound_theme": "nature", // Sound effect set
+    "particle_effect": "petals" // Optional ambient animation
   }
 }
 ```
@@ -36,13 +36,13 @@ Add to each `lesson*.json`:
 
 #### Lessons 11-15 Theme Proposals
 
-| Lesson | Title | Primary | Secondary | Background | Card Style | Effects |
-|--------|-------|---------|-----------|------------|------------|---------|
-| 11 | The Dog Who Cried Peach | Peach orange | Earth brown | Orchard sunset | Organic/natural | Falling petals |
-| 12 | The King's Golden Balls | Royal gold | Deep purple | Palace throne room | Ornate/gilded | Golden sparkles |
-| 13 | The Lotus Car Chase | Lotus pink | Highway gray | Night city streets | Sleek/modern | Motion blur |
-| 14 | The Soldier's Dream of Capital | Military green | Stone gray | March to capital | Weathered/worn | Dust particles |
-| 15 | The Police Poet | Badge blue | Precinct gray | Interrogation room | Official/crisp | Sound waves |
+| Lesson | Title                          | Primary        | Secondary     | Background         | Card Style      | Effects         |
+| ------ | ------------------------------ | -------------- | ------------- | ------------------ | --------------- | --------------- |
+| 11     | The Dog Who Cried Peach        | Peach orange   | Earth brown   | Orchard sunset     | Organic/natural | Falling petals  |
+| 12     | The King's Golden Balls        | Royal gold     | Deep purple   | Palace throne room | Ornate/gilded   | Golden sparkles |
+| 13     | The Lotus Car Chase            | Lotus pink     | Highway gray  | Night city streets | Sleek/modern    | Motion blur     |
+| 14     | The Soldier's Dream of Capital | Military green | Stone gray    | March to capital   | Weathered/worn  | Dust particles  |
+| 15     | The Police Poet                | Badge blue     | Precinct gray | Interrogation room | Official/crisp  | Sound waves     |
 
 ---
 
@@ -71,35 +71,41 @@ const { theme } = useLessonTheme(lessonId);
 ### Card Theming Ideas
 
 **Generic (current):**
+
 - White background
 - Gray border
 - Standard shadow
 
 **Lesson 11 — The Dog Who Cried Peach:**
+
 - Warm cream background with peach tint
 - Organic curved borders (like bitten fruit)
 - Soft shadow suggesting outdoor light
 - Subtle wood grain texture
 
 **Lesson 12 — The King's Golden Balls:**
+
 - Parchment background with gold leaf edges
 - Ornate frame borders
 - Deep shadows suggesting candlelight
 - Subtle pattern of royal crests
 
 **Lesson 13 — The Lotus Car Chase:**
+
 - Dark metallic background
 - Sharp angular borders
 - Neon accent glows
 - Motion blur on hover
 
 **Lesson 14 — The Soldier's Dream of Capital:**
+
 - Canvas/fabric texture background
 - Military-style stencil borders
 - Dusty, weathered appearance
 - March-worn edges
 
 **Lesson 15 — The Police Poet:**
+
 - Official document background
 - Clean institutional borders
 - Blue ink accents
@@ -118,9 +124,9 @@ Each lesson could have a unique background image or gradient:
 .bg-orchard {
   background: linear-gradient(
     180deg,
-    #FEF3C7 0%,    /* Pale peach sky */
-    #F97316 50%,   /* Sunset orange */
-    #78350F 100%   /* Earth brown */
+    #fef3c7 0%,
+    /* Pale peach sky */ #f97316 50%,
+    /* Sunset orange */ #78350f 100% /* Earth brown */
   );
 }
 
@@ -128,9 +134,9 @@ Each lesson could have a unique background image or gradient:
 .bg-throne-room {
   background: linear-gradient(
     180deg,
-    #1E1B4B 0%,    /* Deep royal purple */
-    #7C3AED 30%,   /* Royal purple */
-    #F59E0B 100%   /* Gold floor */
+    #1e1b4b 0%,
+    /* Deep royal purple */ #7c3aed 30%,
+    /* Royal purple */ #f59e0b 100% /* Gold floor */
   );
 }
 
@@ -138,9 +144,9 @@ Each lesson could have a unique background image or gradient:
 .bg-night-chase {
   background: linear-gradient(
     180deg,
-    #0F172A 0%,    /* Night sky */
-    #1E293B 50%,   /* City darkness */
-    #334155 100%   /* Road gray */
+    #0f172a 0%,
+    /* Night sky */ #1e293b 50%,
+    /* City darkness */ #334155 100% /* Road gray */
   );
 }
 
@@ -148,9 +154,9 @@ Each lesson could have a unique background image or gradient:
 .bg-march-to-capital {
   background: linear-gradient(
     180deg,
-    #D1D5DB 0%,    /* Overcast sky */
-    #9CA3AF 50%,   /* Dusty air */
-    #4B5563 100%   /* Road stone */
+    #d1d5db 0%,
+    /* Overcast sky */ #9ca3af 50%,
+    /* Dusty air */ #4b5563 100% /* Road stone */
   );
 }
 
@@ -158,9 +164,9 @@ Each lesson could have a unique background image or gradient:
 .bg-precinct {
   background: linear-gradient(
     180deg,
-    #E0E7FF 0%,    /* Fluorescent light */
-    #C7D2FE 50%,   /* Office blue */
-    #818CF8 100%   /* Badge accent */
+    #e0e7ff 0%,
+    /* Fluorescent light */ #c7d2fe 50%,
+    /* Office blue */ #818cf8 100% /* Badge accent */
   );
 }
 ```
@@ -181,11 +187,11 @@ Subtle particle effects that don't distract from gameplay:
 
 Each lesson could have themed sound effects:
 
-| Event | Generic | L11 Orchard | L12 Palace | L13 Chase | L14 March | L15 Precinct |
-|-------|---------|-------------|------------|-----------|-----------|--------------|
-| Match | Chime | Fruit plop | Royal fanfare | Engine rev | Boots stomp | Gavel bang |
-| Mismatch | Buzz | Dog whine | Court gasp | Brake screech | Heavy sigh | Paper crumple |
-| Round Complete | Success | Bird song | Trumpet | Checkered flag | Drum roll | Badge click |
+| Event          | Generic | L11 Orchard | L12 Palace    | L13 Chase      | L14 March   | L15 Precinct  |
+| -------------- | ------- | ----------- | ------------- | -------------- | ----------- | ------------- |
+| Match          | Chime   | Fruit plop  | Royal fanfare | Engine rev     | Boots stomp | Gavel bang    |
+| Mismatch       | Buzz    | Dog whine   | Court gasp    | Brake screech  | Heavy sigh  | Paper crumple |
+| Round Complete | Success | Bird song   | Trumpet       | Checkered flag | Drum roll   | Badge click   |
 
 ---
 

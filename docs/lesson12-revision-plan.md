@@ -163,46 +163,46 @@ Each character will include:
 
 ## Character Primitives Reference
 
-| Character | Primitives | Notes |
-|-----------|------------|-------|
-| 介 | 人 (person) + boundary lines | Person between boundaries = introduce |
-| 界 | 田 (field) + 介 (introduce) | Field with boundaries = world |
-| 茶 | 艹 (grass) + 人 + 木 (tree) | Grass + person + tree = tea plant |
-| 會 | 亼 (gather) + 曾 components | People gathering = meeting |
-| 合 | 亼 (gather) + 口 (mouth) | Gather + mouth = fit together |
-| 哈 | 口 (mouth) + 合 (fit) | Mouth fitting = laughter |
-| 塔 | 土 (earth) + 荅 | Earth + answer = pagoda |
-| 王 | three horizontal lines + vertical | Three levels of heaven-man-earth = king |
-| 玉 | 王 (king) + dot | King with dot = jade (treasure of kings) |
-| 球 | 玉 (jade) + 求 (seek) | Seeking jade = ball |
-| 現 | 玉 (jade) + 見 (see) | Jade seen = present/appear |
-| 玩 | 玉 (jade) + 元 (origin) | Jade + origin = play with |
-| 狂 | 犭(dog) + 王 (king) | Dog acting like king = crazy |
-| 皇 | 白 (white) + 王 (king) | White king = emperor |
-| 煌 | 火 (fire) + 皇 (emperor) | Fire + emperor = resplendent |
-| 呈 | 口 (mouth) + 王 (king) | Mouth to king = submit |
-| 全 | 入 (enter) + 王 (king) | Enter under king's protection = whole |
-| 理 | 玉 (jade) + 里 (li/village) | Jade patterns = logic/principle |
-| 主 | 王 (king) + dot on top | King with authority dot = lord/master |
-| 注 | 氵(water) + 主 (lord) | Water + lord = pour (lord's attention) |
-| 金 | 人 + 王 + earth strokes | Metal beneath earth = gold |
-| 銅 | 金 (gold) + 同 (same) | Same-colored metal = copper |
-| 釣 | 金 (gold) + 勺 (ladle/hook) | Metal hook = to fish |
-| 針 | 金 (gold) + 十 (ten) | Metal + ten = needle |
-| 釘 | 金 (gold) + 丁 (nail/fourth) | Metal + nail shape = nail |
-| 銘 | 金 (gold) + 名 (name) | Metal + name = inscription |
-| 鎮 | 金 (gold) + 真 (true) | True metal = at ease/calm |
+| Character | Primitives                        | Notes                                    |
+| --------- | --------------------------------- | ---------------------------------------- |
+| 介        | 人 (person) + boundary lines      | Person between boundaries = introduce    |
+| 界        | 田 (field) + 介 (introduce)       | Field with boundaries = world            |
+| 茶        | 艹 (grass) + 人 + 木 (tree)       | Grass + person + tree = tea plant        |
+| 會        | 亼 (gather) + 曾 components       | People gathering = meeting               |
+| 合        | 亼 (gather) + 口 (mouth)          | Gather + mouth = fit together            |
+| 哈        | 口 (mouth) + 合 (fit)             | Mouth fitting = laughter                 |
+| 塔        | 土 (earth) + 荅                   | Earth + answer = pagoda                  |
+| 王        | three horizontal lines + vertical | Three levels of heaven-man-earth = king  |
+| 玉        | 王 (king) + dot                   | King with dot = jade (treasure of kings) |
+| 球        | 玉 (jade) + 求 (seek)             | Seeking jade = ball                      |
+| 現        | 玉 (jade) + 見 (see)              | Jade seen = present/appear               |
+| 玩        | 玉 (jade) + 元 (origin)           | Jade + origin = play with                |
+| 狂        | 犭(dog) + 王 (king)               | Dog acting like king = crazy             |
+| 皇        | 白 (white) + 王 (king)            | White king = emperor                     |
+| 煌        | 火 (fire) + 皇 (emperor)          | Fire + emperor = resplendent             |
+| 呈        | 口 (mouth) + 王 (king)            | Mouth to king = submit                   |
+| 全        | 入 (enter) + 王 (king)            | Enter under king's protection = whole    |
+| 理        | 玉 (jade) + 里 (li/village)       | Jade patterns = logic/principle          |
+| 主        | 王 (king) + dot on top            | King with authority dot = lord/master    |
+| 注        | 氵(water) + 主 (lord)             | Water + lord = pour (lord's attention)   |
+| 金        | 人 + 王 + earth strokes           | Metal beneath earth = gold               |
+| 銅        | 金 (gold) + 同 (same)             | Same-colored metal = copper              |
+| 釣        | 金 (gold) + 勺 (ladle/hook)       | Metal hook = to fish                     |
+| 針        | 金 (gold) + 十 (ten)              | Metal + ten = needle                     |
+| 釘        | 金 (gold) + 丁 (nail/fourth)      | Metal + nail shape = nail                |
+| 銘        | 金 (gold) + 名 (name)             | Metal + name = inscription               |
+| 鎮        | 金 (gold) + 真 (true)             | True metal = at ease/calm                |
 
 ---
 
 ## Tone Distribution Analysis
 
-| Tone | Emotion | Characters |
-|------|---------|------------|
-| 1 | SING | 哈 (hā), 金 (jīn), 針 (zhēn), 釘 (dīng) |
-| 2 | GASP | 茶 (chá), 合 (hé), 王 (wáng), 球 (qiú), 玩 (wán), 狂 (kuáng), 皇 (huáng), 煌 (huáng), 呈 (chéng), 全 (quán), 銅 (tóng), 銘 (míng) |
-| 3 | GROAN | 塔 (tǎ), 理 (lǐ), 主 (zhǔ) |
-| 4 | COMMAND | 介 (jiè), 界 (jiè), 會 (huì), 玉 (yù), 現 (xiàn), 注 (zhù), 釣 (diào), 鎮 (zhèn) |
+| Tone | Emotion | Characters                                                                                                                        |
+| ---- | ------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | SING    | 哈 (hā), 金 (jīn), 針 (zhēn), 釘 (dīng)                                                                                           |
+| 2    | GASP    | 茶 (chá), 合 (hé), 王 (wáng), 球 (qiú), 玩 (wán), 狂 (kuáng), 皇 (huáng), 煌 (huáng), 呈 (chéng), 全 (quán), 銅 (tóng), 銘 (míng) |
+| 3    | GROAN   | 塔 (tǎ), 理 (lǐ), 主 (zhǔ)                                                                                                        |
+| 4    | COMMAND | 介 (jiè), 界 (jiè), 會 (huì), 玉 (yù), 現 (xiàn), 注 (zhù), 釣 (diào), 鎮 (zhèn)                                                  |
 
 Note: Lesson 12 is heavily weighted toward Tone 2 (GASP), fitting the theme of surprising developments and rising madness.
 

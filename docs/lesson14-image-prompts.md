@@ -299,12 +299,12 @@ Rendered with fine-line gongbi technique, bustling marketplace, sharp selling en
 
 ## Tone-Visual Energy Quick Reference
 
-| Tone | Emotion | Characters |
-|------|---------|------------|
-| 1 (SING) | Sustained | 軍, 輝, 冠, 坑, 高, 京, 周, 週 |
-| 2 (GASP) | Rising | 沉, 熟, 亭, 涼, 吉 |
-| 3 (GROAN) | Heavy | 冗, 享, 景, 買 |
-| 4 (COMMAND) | Sharp | 運, 夢, 亮, 就, 士, 賣 |
+| Tone        | Emotion   | Characters                     |
+| ----------- | --------- | ------------------------------ |
+| 1 (SING)    | Sustained | 軍, 輝, 冠, 坑, 高, 京, 周, 週 |
+| 2 (GASP)    | Rising    | 沉, 熟, 亭, 涼, 吉             |
+| 3 (GROAN)   | Heavy     | 冗, 享, 景, 買                 |
+| 4 (COMMAND) | Sharp     | 運, 夢, 亮, 就, 士, 賣         |
 
 ---
 

@@ -121,39 +121,39 @@ From `lesson_stories_prose.md`:
 
 ## Character Primitives Reference
 
-| Character | Primitives | Notes |
-|-----------|------------|-------|
-| 道 | 辶 (walk) + 首 (head) | Walking with head = the way |
-| 導 | 道 (way) + 寸 (inch) | Way measured inch by inch = guide |
-| 迅 | 辶 (walk) + 卂 (swift) | Walking swiftly = speedy |
-| 造 | 辶 (walk) + 告 (declare) | Walking to declare = create |
-| 巡 | 辶 (walk) + 巛 (streams) | Walking streams = patrol |
-| 逛 | 辶 (walk) + 狂 (crazy) | Walking crazily = stroll |
-| 車 | pictograph of cart | Original vehicle character |
-| 連 | 辶 (walk) + 車 (car) | Walking car = continuous |
-| 蓮 | 艹 (grass) + 連 (continuous) | Continuous grass = lotus |
-| 前 | 止 (stop) + 月 (moon) + 刂 (knife) | Stopping before knife = in front |
-| 剪 | 前 (front) + 刀 (knife) | Front + knife = shears |
-| 輸 | 車 (car) + 俞 (transport) | Car transporting = to transport |
-| 逾 | 辶 (walk) + 俞 (exceed) | Walking beyond = exceed |
-| 各 | 夂 (walk down) + 口 (mouth) | Walking down to mouth = each |
-| 格 | 木 (tree) + 各 (each) | Tree for each = pattern |
-| 客 | 宀 (roof) + 各 (each) | Each under roof = guest |
-| 額 | 客 (guest) + 頁 (page/head) | Guest's head = forehead |
-| 夏 | 頁 (head) + 夊 (walk slowly) | Head in slow walk = summer |
-| 洛 | 氵(water) + 各 (each) | Water for each = L.A. (Luoyang) |
-| 落 | 艹 (grass) + 洛 (Luo) | Grass + water falling = to fall |
+| Character | Primitives                         | Notes                             |
+| --------- | ---------------------------------- | --------------------------------- |
+| 道        | 辶 (walk) + 首 (head)              | Walking with head = the way       |
+| 導        | 道 (way) + 寸 (inch)               | Way measured inch by inch = guide |
+| 迅        | 辶 (walk) + 卂 (swift)             | Walking swiftly = speedy          |
+| 造        | 辶 (walk) + 告 (declare)           | Walking to declare = create       |
+| 巡        | 辶 (walk) + 巛 (streams)           | Walking streams = patrol          |
+| 逛        | 辶 (walk) + 狂 (crazy)             | Walking crazily = stroll          |
+| 車        | pictograph of cart                 | Original vehicle character        |
+| 連        | 辶 (walk) + 車 (car)               | Walking car = continuous          |
+| 蓮        | 艹 (grass) + 連 (continuous)       | Continuous grass = lotus          |
+| 前        | 止 (stop) + 月 (moon) + 刂 (knife) | Stopping before knife = in front  |
+| 剪        | 前 (front) + 刀 (knife)            | Front + knife = shears            |
+| 輸        | 車 (car) + 俞 (transport)          | Car transporting = to transport   |
+| 逾        | 辶 (walk) + 俞 (exceed)            | Walking beyond = exceed           |
+| 各        | 夂 (walk down) + 口 (mouth)        | Walking down to mouth = each      |
+| 格        | 木 (tree) + 各 (each)              | Tree for each = pattern           |
+| 客        | 宀 (roof) + 各 (each)              | Each under roof = guest           |
+| 額        | 客 (guest) + 頁 (page/head)        | Guest's head = forehead           |
+| 夏        | 頁 (head) + 夊 (walk slowly)       | Head in slow walk = summer        |
+| 洛        | 氵(water) + 各 (each)              | Water for each = L.A. (Luoyang)   |
+| 落        | 艹 (grass) + 洛 (Luo)              | Grass + water falling = to fall   |
 
 ---
 
 ## Tone Distribution Analysis
 
-| Tone | Emotion | Characters |
-|------|---------|------------|
-| 1 | SING | 車 (chē), 輸 (shū) |
-| 2 | GASP | 巡 (xún), 連 (lián), 蓮 (lián), 前 (qián), 逾 (yú), 格 (gé), 額 (é) |
-| 3 | GROAN | 導 (dǎo), 剪 (jiǎn) |
-| 4 | COMMAND | 道 (dào), 迅 (xùn), 造 (zào), 逛 (guàng), 各 (gè), 客 (kè), 夏 (xià), 洛 (luò), 落 (luò) |
+| Tone | Emotion | Characters                                                                               |
+| ---- | ------- | ---------------------------------------------------------------------------------------- |
+| 1    | SING    | 車 (chē), 輸 (shū)                                                                       |
+| 2    | GASP    | 巡 (xún), 連 (lián), 蓮 (lián), 前 (qián), 逾 (yú), 格 (gé), 額 (é)                      |
+| 3    | GROAN   | 導 (dǎo), 剪 (jiǎn)                                                                      |
+| 4    | COMMAND | 道 (dào), 迅 (xùn), 造 (zào), 逛 (guàng), 各 (gè), 客 (kè), 夏 (xià), 洛 (luò), 落 (luò) |
 
 Note: Lesson 13 is balanced between Tone 2 (GASP) and Tone 4 (COMMAND), fitting the theme of surprising pursuit and decisive action.
 
