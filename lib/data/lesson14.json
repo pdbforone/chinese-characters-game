@@ -1,5 +1,10 @@
 {
   "lesson": 14,
+  "title": "The Soldier's Dream of Capital",
+  "theme": "A superfluous army marches toward the capital, carrying dreams of glory. Through pits and mountains they learn to enjoy the journey itself, until the capital appears — cool, scenic, exactly as the old songs described. The dream was the journey; the capital was just where it ended.",
+  "memory_palace": "The Road to the Capital",
+  "narrative_arc": "Superfluous army → Profound thoughts → Army moves → Radiance catches → Carrying dreams → Crown imagined → Dream sustained → Pits crossed → Tall mountains → Enjoyment learned → Boots ripe → Pavilion rest → Shining faces → Capital appears → Cool descent → Scenery perfect → At once together → Circumference walked → Week to circle → Soldiers counted → Lucky chosen → Buying supplies → Selling begins",
+  "narrative_story": "They were superfluous — an army that no war required. Their thoughts were profound — sinking deeper than their footsteps. The army moved as one, their armor catching radiance. Each soldier had something to carry — a dream, a promise, a reason. They imagined the crown that awaited their general. This was their dream — to witness triumph. They crossed pits and valleys without complaint. The tall mountains did not stop them. They learned to enjoy the journey itself. Their boots became ripe with dust and memory. At each pavilion they rested, their faces shining. Finally: the capital appeared on the horizon. The air grew cool as they descended into the valley. The scenery was exactly as the old songs described. They would arrive at once — together, as brothers. The circumference of the city walls took a week to walk. Every soldier was counted. Every name recorded. The lucky ones would be presented to the Emperor. They could finally buy supplies — real food, clean clothes. Street vendors rushed to sell them everything. The dream was the journey. The capital was just where it ended.",
   "characters": [
     {
       "id": 288,
@@ -7,8 +12,12 @@
       "pinyin": "rǒng",
       "tone": 3,
       "meaning": "superfluous",
-      "story": "See how the roof forms superfluous? It whispers \"Rong\" softly!",
-      "primitives": []
+      "mnemonic_image": "A cover over something small - more protection than needed",
+      "sound_bridge": "ROHNG = 'ROHNG-fully extra'",
+      "story": "They are SUPERFLUOUS — an army that no war requires. I GROAN 'Rongg...' — the weight of being unnecessary. The cover protects what doesn't need protecting. Extra soldiers with nowhere to fight.",
+      "tone_emotion": "GROAN - guttural weight of being unnecessary",
+      "primitives": ["cover 冖", "small/table 几"],
+      "narrative_position": "The beginning — an army without purpose"
     },
     {
       "id": 289,
@@ -16,26 +25,38 @@
       "pinyin": "chén",
       "tone": 2,
       "meaning": "profound",
-      "story": "The water takes the shape of profound, asking \"Chen? How deep?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Water sinking deep - thoughts going beneath surface",
+      "sound_bridge": "CHEN = 'CHEN-king deeper?!'",
+      "story": "Their thoughts are PROFOUND — sinking deeper than their footsteps. I GASP 'CHEN?!' — how deep do these thoughts go? Water sinks beneath the surface, carrying meaning down where feet cannot follow.",
+      "tone_emotion": "GASP - rising wonder at depth of thought",
+      "primitives": ["water 氵", "sink 沈"],
+      "narrative_position": "The depth — soldiers think deeply"
     },
     {
       "id": 290,
       "character": "軍",
       "pinyin": "jūn",
       "tone": 1,
-      "meaning": "Army",
-      "story": "This character represents army, singing \"June!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "meaning": "army",
+      "mnemonic_image": "Carts covered for war - military formation moving",
+      "sound_bridge": "JUNE = 'JUNE-ior soldiers march'",
+      "story": "The ARMY moves as one. I SING 'JUUUN...' — sustained like marching cadence. Covered carts roll together, soldiers in formation. The military machine advances, unified, relentless.",
+      "tone_emotion": "SING - sustained rhythm of marching",
+      "primitives": ["cover 冖", "car 車"],
+      "narrative_position": "The formation — army moves as one"
     },
     {
       "id": 291,
       "character": "輝",
       "pinyin": "huī",
       "tone": 1,
-      "meaning": "Radiance",
-      "story": "The strokes unite to show radiance, singing \"Hway!\" cheerfully!",
-      "primitives": []
+      "meaning": "radiance",
+      "mnemonic_image": "Light catching on a car - armor gleaming",
+      "sound_bridge": "HWAY = 'HWAY-ving brilliance'",
+      "story": "Their armor catches RADIANCE. I SING 'HUIII...' — sustained gleaming. Light meets the car of war, reflecting brilliance. The army shines as it moves, a river of reflected sun.",
+      "tone_emotion": "SING - sustained gleaming brilliance",
+      "primitives": ["light 光", "car 車"],
+      "narrative_position": "The gleam — armor catches light"
     },
     {
       "id": 292,
@@ -43,35 +64,51 @@
       "pinyin": "yùn",
       "tone": 4,
       "meaning": "to carry",
-      "story": "The army walked and moved supplies, carrying everything.",
-      "primitives": []
+      "mnemonic_image": "An army walking forward - bearing burdens together",
+      "sound_bridge": "YUN = 'YUN-load the dreams!'",
+      "story": "Each soldier has something TO CARRY — a dream, a promise, a reason. 'YUN!' the burden COMMANDS acceptance. The walking army bears what cannot be seen. Every soldier carries something heavier than armor.",
+      "tone_emotion": "COMMAND - sharp acceptance of burden",
+      "primitives": ["walk 辶", "army 軍"],
+      "narrative_position": "The burden — each carries dreams"
     },
     {
       "id": 293,
       "character": "冠",
       "pinyin": "guān",
       "tone": 1,
-      "meaning": "Crown",
-      "story": "Like a roof, this character means crown and sings \"Gwan!\" - a vivid image to remember!",
-      "primitives": []
+      "meaning": "crown",
+      "mnemonic_image": "A cover over the origin with measure - the headpiece of authority",
+      "sound_bridge": "GWAN = 'GWAN-ted glory awaits'",
+      "story": "They imagine the CROWN that awaits their general. I SING 'GWAAAAN...' — sustained vision of glory. The cover of authority, measured inch by inch, placed on the head of the worthy. This is what they march toward.",
+      "tone_emotion": "SING - sustained dream of glory",
+      "primitives": ["cover 冖", "origin 元", "inch 寸"],
+      "narrative_position": "The vision — crown awaits"
     },
     {
       "id": 294,
       "character": "夢",
       "pinyin": "mèng",
       "tone": 4,
-      "meaning": "a Dream",
-      "story": "Like grass, this character means a dream and shouts \"Mung!\"!",
-      "primitives": []
+      "meaning": "dream",
+      "mnemonic_image": "Grass and nets covering evening - visions in sleep",
+      "sound_bridge": "MUHNG = 'MUHNG-st we dream!'",
+      "story": "This is their DREAM — to witness triumph. 'MENG!' the vision COMMANDS belief. Grass and nets cover the evening, and in sleep, impossible things become possible. They dream of glory.",
+      "tone_emotion": "COMMAND - sharp certainty of vision",
+      "primitives": ["grass 艹", "net 罒", "cover 冖", "evening 夕"],
+      "narrative_position": "The hope — dreaming of triumph"
     },
     {
       "id": 295,
       "character": "坑",
       "pinyin": "kēng",
       "tone": 1,
-      "meaning": "Pit",
-      "story": "The soil takes the shape of pit, singing \"Kung!\" cheerfully!",
-      "primitives": []
+      "meaning": "pit",
+      "mnemonic_image": "Earth that is paradoxically high - holes in the road",
+      "sound_bridge": "KUNG = 'KUNG-fu over the pit!'",
+      "story": "They cross PITS and valleys without complaint. I SING 'KEEEENG...' — sustained as they leap. Earth rises and falls, creating traps for the unwary. But these soldiers know how to navigate holes.",
+      "tone_emotion": "SING - sustained effort over obstacles",
+      "primitives": ["earth 土", "high 亢"],
+      "narrative_position": "The obstacles — pits don't stop them"
     },
     {
       "id": 296,
@@ -79,8 +116,12 @@
       "pinyin": "gāo",
       "tone": 1,
       "meaning": "tall",
-      "story": "\"Gao!\" The tall building reached high into the sky.",
-      "primitives": []
+      "mnemonic_image": "A tall pavilion - structure reaching skyward",
+      "sound_bridge": "GAO = 'GAO-ing up and up'",
+      "story": "The TALL mountains do not stop them. I SING 'GAOOO...' — sustained as they climb. The structure rises, layer upon layer, reaching toward sky. Mountains are just taller obstacles.",
+      "tone_emotion": "SING - sustained ascent",
+      "primitives": ["tall building pictograph"],
+      "narrative_position": "The challenge — mountains climbed"
     },
     {
       "id": 297,
@@ -88,8 +129,12 @@
       "pinyin": "xiǎng",
       "tone": 3,
       "meaning": "to enjoy",
-      "story": "A striking symbol for to enjoy that whispers \"Shyang\" softly!",
-      "primitives": []
+      "mnemonic_image": "A roof over mouth and child - pleasure shared",
+      "sound_bridge": "SHYANG = 'SHYANG-ing in pleasure'",
+      "story": "They learn TO ENJOY the journey itself. I GROAN 'Shyangg...' — the heavy realization of pleasure found. Under shelter, with mouths fed and children safe, one can finally enjoy. The journey becomes the reward.",
+      "tone_emotion": "GROAN - guttural discovery of pleasure",
+      "primitives": ["lid 亠", "mouth 口", "child 子"],
+      "narrative_position": "The transformation — enjoying the march"
     },
     {
       "id": 298,
@@ -97,17 +142,25 @@
       "pinyin": "shú",
       "tone": 2,
       "meaning": "ripe",
-      "story": "Like fire, this character means ripe and asks \"Shoo? Is it done?\"!",
-      "primitives": []
+      "mnemonic_image": "Enjoyment over fire - cooked to perfection",
+      "sound_bridge": "SHOO = 'SHOO-rely it's done?!'",
+      "story": "Their boots become RIPE with dust and memory. I GASP 'SHU?!' — have we come so far? Enjoyment over fire — what was raw becomes cooked, what was new becomes seasoned. The journey ripens them.",
+      "tone_emotion": "GASP - rising realization of maturity",
+      "primitives": ["enjoy 享", "fire 灬"],
+      "narrative_position": "The seasoning — boots tell the story"
     },
     {
       "id": 299,
       "character": "亭",
       "pinyin": "tíng",
       "tone": 2,
-      "meaning": "Pavilion",
-      "story": "A pavilion tall nail questions \"Ting? Rest here?\" curiously!",
-      "primitives": []
+      "meaning": "pavilion",
+      "mnemonic_image": "A roof over mouth and nail - a rest stop fixed in place",
+      "sound_bridge": "TING = 'TING-le of bells, rest here?!'",
+      "story": "At each PAVILION they rest. I GASP 'TING?!' — is there shelter here? The roof covers the speaking-place, fixed by the nail. A place to pause, to recover, to prepare for more.",
+      "tone_emotion": "GASP - rising relief at rest stop",
+      "primitives": ["lid 亠", "mouth 口", "nail 丁"],
+      "narrative_position": "The rest — pavilions offer shelter"
     },
     {
       "id": 300,
@@ -115,17 +168,25 @@
       "pinyin": "liàng",
       "tone": 4,
       "meaning": "shining",
-      "story": "A striking symbol for shining that shouts \"Lyang!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Height and mouth and table - brightness revealed",
+      "sound_bridge": "LYANG = 'LYANG-guishing brightness!'",
+      "story": "Their faces are SHINING. 'LIANG!' the brightness COMMANDS notice. High above the mouth and table, light reveals joy. After rest, the soldiers' faces glow with renewed purpose.",
+      "tone_emotion": "COMMAND - sharp revelation of brightness",
+      "primitives": ["lid 亠", "mouth 口", "table 几"],
+      "narrative_position": "The glow — rested faces shine"
     },
     {
       "id": 301,
       "character": "京",
       "pinyin": "jīng",
       "tone": 1,
-      "meaning": "Capital",
-      "story": "The mouth takes the shape of capital, singing \"Jing!\" cheerfully!",
-      "primitives": []
+      "meaning": "capital",
+      "mnemonic_image": "A high gate over mouth - the great city entrance",
+      "sound_bridge": "JING = 'JING-ling with excitement'",
+      "story": "Finally: the CAPITAL appears on the horizon. I SING 'JIIING...' — sustained awe. The high gate over the small speaks power — this is where all roads lead, where dreams culminate.",
+      "tone_emotion": "SING - sustained awe at destination",
+      "primitives": ["lid 亠", "mouth 口", "small 小"],
+      "narrative_position": "The destination — capital appears"
     },
     {
       "id": 302,
@@ -133,17 +194,25 @@
       "pinyin": "liáng",
       "tone": 2,
       "meaning": "cool",
-      "story": "Like water, this character means cool and asks \"Lyang? Refreshing?\"!",
-      "primitives": []
+      "mnemonic_image": "Water at the capital - refreshing descent",
+      "sound_bridge": "LYANG = 'LYANG-ering coolness?!'",
+      "story": "The air grows COOL as they descend into the valley. I GASP 'LIANG?!' — is this relief? Water meets the capital — the heat breaks, the sweat dries. Refreshment at journey's end.",
+      "tone_emotion": "GASP - rising relief at cooling",
+      "primitives": ["water 氵", "capital 京"],
+      "narrative_position": "The relief — air cools at descent"
     },
     {
       "id": 303,
       "character": "景",
       "pinyin": "jǐng",
       "tone": 3,
-      "meaning": "Scenery",
-      "story": "The sun stands for scenery, whispering \"Jing\" softly as sunlight streams across the sky!",
-      "primitives": []
+      "meaning": "scenery",
+      "mnemonic_image": "Sun over the capital - view that matches the songs",
+      "sound_bridge": "JING = 'JING-ling beauty'",
+      "story": "The SCENERY is exactly as the old songs described. I GROAN 'Jinggg...' — the weight of beauty recognized. Sun illuminates the capital, and what they see matches what they heard. The songs were true.",
+      "tone_emotion": "GROAN - guttural recognition of beauty",
+      "primitives": ["sun 日", "capital 京"],
+      "narrative_position": "The recognition — songs were true"
     },
     {
       "id": 304,
@@ -151,35 +220,51 @@
       "pinyin": "jiù",
       "tone": 4,
       "meaning": "at once",
-      "story": "\"Jyo, do it now!\" he commanded, immediately at once with the capital dog.",
-      "primitives": []
+      "mnemonic_image": "The capital with remarkable approach - immediate arrival",
+      "sound_bridge": "JYO = 'JYO-st arrived, all together!'",
+      "story": "They will arrive AT ONCE — together, as brothers. 'JIU!' the arrival COMMANDS unity. The capital met with remarkable approach — all at once, no one left behind. Brothers together at the end.",
+      "tone_emotion": "COMMAND - sharp unity of arrival",
+      "primitives": ["capital 京", "remarkable 尤"],
+      "narrative_position": "The arrival — together as brothers"
     },
     {
       "id": 305,
       "character": "周",
       "pinyin": "zhōu",
       "tone": 1,
-      "meaning": "Circumference",
-      "story": "The mouth stands for circumference, singing \"Joe!\" cheerfully!",
-      "primitives": []
+      "meaning": "circumference",
+      "mnemonic_image": "An enclosure with earth and mouth - the complete circle",
+      "sound_bridge": "JOE = 'JOE-urney around!'",
+      "story": "The CIRCUMFERENCE of the city walls is vast. I SING 'ZHOOOU...' — sustained like the walls themselves. Enclosure complete, earth and mouth contained — the full circle of the capital's embrace.",
+      "tone_emotion": "SING - sustained vastness of circuit",
+      "primitives": ["enclosure 冂", "earth 土", "mouth 口"],
+      "narrative_position": "The scale — walls are vast"
     },
     {
       "id": 306,
       "character": "週",
       "pinyin": "zhōu",
       "tone": 1,
-      "meaning": "Week",
-      "story": "The strokes unite to show week, singing \"Joe!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "meaning": "week",
+      "mnemonic_image": "Walking the circumference - time to complete the circle",
+      "sound_bridge": "JOE = 'JOE-urney takes a week'",
+      "story": "The circumference takes a WEEK to walk. I SING 'ZHOOOU...' — sustained like the days passing. Walking around what surrounds — seven days to trace the capital's full boundary.",
+      "tone_emotion": "SING - sustained passage of time",
+      "primitives": ["walk 辶", "circumference 周"],
+      "narrative_position": "The time — a week to circle"
     },
     {
       "id": 307,
       "character": "士",
       "pinyin": "shì",
       "tone": 4,
-      "meaning": "Soldier",
-      "story": "The strokes unite to show soldier, shouting \"Shi!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "meaning": "soldier",
+      "mnemonic_image": "A scholar-warrior standing - the noble fighter",
+      "sound_bridge": "SHI = 'SHI-arp attention!'",
+      "story": "Every SOLDIER is counted. 'SHI!' the roll call COMMANDS response. The figure stands at attention, scholar and warrior combined. Every name recorded, every man acknowledged.",
+      "tone_emotion": "COMMAND - sharp acknowledgment of service",
+      "primitives": ["scholar-warrior pictograph"],
+      "narrative_position": "The accounting — soldiers counted"
     },
     {
       "id": 308,
@@ -187,8 +272,12 @@
       "pinyin": "jí",
       "tone": 2,
       "meaning": "lucky",
-      "story": "The mouth stands for lucky, asking \"Ji? Good fortune?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "A soldier speaking good fortune - blessing pronounced",
+      "sound_bridge": "JI = 'JI-nxed no more?!'",
+      "story": "The LUCKY ones will be presented to the Emperor. I GASP 'JI?!' — will I be chosen? The soldier speaks good fortune — mouth carrying luck. To be selected is the greatest honor.",
+      "tone_emotion": "GASP - rising hope for selection",
+      "primitives": ["soldier 士", "mouth 口"],
+      "narrative_position": "The selection — lucky ones chosen"
     },
     {
       "id": 309,
@@ -196,8 +285,12 @@
       "pinyin": "mǎi",
       "tone": 3,
       "meaning": "to buy",
-      "story": "A striking symbol for to buy that whispers \"Mai\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A net catching shells - gathering currency for purchase",
+      "sound_bridge": "MY = 'MY-ne at last'",
+      "story": "They can finally BUY supplies — real food, clean clothes. I GROAN 'Myyy...' — the weight of finally spending. The net catches shells — money gathered for this moment. After so long, they can purchase comfort.",
+      "tone_emotion": "GROAN - guttural relief at purchasing power",
+      "primitives": ["net 罒", "shell/money 貝"],
+      "narrative_position": "The reward — buying is possible"
     },
     {
       "id": 310,
@@ -205,8 +298,12 @@
       "pinyin": "mài",
       "tone": 4,
       "meaning": "to sell",
-      "story": "\"Buy low, sell high!\" She traded shellfish at market.",
-      "primitives": []
+      "mnemonic_image": "A soldier over buying - offering what others want",
+      "sound_bridge": "MY = 'MY-ke a sale!'",
+      "story": "Street vendors rush TO SELL them everything. 'MAI!' the merchants COMMAND attention. The soldier stands over the transaction — one who sells serves one who buys. Commerce explodes.",
+      "tone_emotion": "COMMAND - sharp urgency of selling",
+      "primitives": ["soldier 士", "buy 買"],
+      "narrative_position": "The commerce — vendors rush to sell"
     }
   ]
 }

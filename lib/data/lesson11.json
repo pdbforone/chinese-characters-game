@@ -1,14 +1,23 @@
 {
   "lesson": 11,
+  "title": "The Dog Who Cried Peach",
+  "theme": "A remarkable dog discovers a portent: the sky is raining peaches. While villagers scramble and the oracle cow declares vast changes, only the dog remembers what came before.",
+  "memory_palace": "The Peach Rain Village",
+  "narrative_arc": "Portent appears → Peaches fall → Pooch sees first → Remarkable observation → Silence held → Sort of thing unprecedented → Crying begins → Utensils grabbed → Stinking dog avoided → Other dogs flee → Villagers detest → Pressure mounts → Cow steps forward → Special oracle speaks → Declaration made → Vast change proclaimed → Before remembered → Washing prepares",
+  "narrative_story": "It began with a portent — cracks in the sky, whispers in the wind. Then came the peaches — falling like sweet, fuzzy rain. The pooch saw it first. He was remarkable — sharper than other dogs. He sat in silence for a long time, watching the fruit fall. This was a sort of thing that had never happened before. Then he began to cry — not from sadness, but from the weight of knowing. The villagers grabbed every utensil they could find to catch the peaches. But the dog was stinking — he'd rolled in something foul that morning. The other dogs avoided him. Even the peaches seemed to fall elsewhere. The villagers grew to detest him. His smell. His crying. His knowing. Pressure mounted. Someone had to explain this miracle. The cow stepped forward. She was special — the village oracle. She began to declare: 'This is a sign! A vast change is coming!' Everyone listened. Everyone except the dog. He remembered what came before — the last time peaches fell. So he went to wash himself in the river, preparing for what was next. The cow could declare. The dog would prepare.",
   "characters": [
     {
       "id": 223,
       "character": "兆",
       "pinyin": "zhào",
       "tone": 4,
-      "meaning": "Portent",
-      "story": "A striking symbol for portent that shouts \"Zhao!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "meaning": "portent",
+      "mnemonic_image": "Cracks spreading through ice - the first sign of coming change",
+      "sound_bridge": "JAO = 'JAW drops at the omen!'",
+      "story": "It begins with a PORTENT — cracks in the sky, whispers in the wind. 'ZHAO!' the heavens COMMAND attention. The sign spreads like cracks through ice, each fracture pointing toward inevitable change.",
+      "tone_emotion": "COMMAND - sharp announcement of coming change",
+      "primitives": ["crack lines"],
+      "narrative_position": "The opening — cosmic warning appears"
     },
     {
       "id": 224,
@@ -16,17 +25,25 @@
       "pinyin": "táo",
       "tone": 2,
       "meaning": "peach",
-      "story": "Like a tree, this character means peach and asks \"Tao? When ripe?\"!",
-      "primitives": []
+      "mnemonic_image": "A tree bearing the fruit of omens - sweet fuzzy messengers",
+      "sound_bridge": "TAO = 'TAO-ld you peaches would fall?!'",
+      "story": "Then come the PEACHES — falling like sweet, fuzzy rain. I GASP 'TAO?!' — are these really falling from nowhere? The tree bears the portent's fruit, each peach a soft messenger from the cracked sky.",
+      "tone_emotion": "GASP - rising disbelief at miraculous fruit",
+      "primitives": ["tree 木", "portent 兆"],
+      "narrative_position": "The miracle — peaches rain from the sky"
     },
     {
       "id": 225,
       "character": "犬",
       "pinyin": "quǎn",
       "tone": 3,
-      "meaning": "Pooch",
-      "story": "This character represents pooch, whispering \"Chuan\" softly - a vivid image to remember!",
-      "primitives": []
+      "meaning": "pooch",
+      "mnemonic_image": "A large dog with a prominent dot - the original canine form",
+      "sound_bridge": "CHWAN = 'CHWAN-ting under burden of knowing'",
+      "story": "The POOCH sees it first. I GROAN 'Chwannn...' — the weight of being first to witness. This large dog carries the dot of distinction, burdened with knowledge others don't yet have.",
+      "tone_emotion": "GROAN - guttural burden of early witness",
+      "primitives": ["big dog form with dot"],
+      "narrative_position": "The witness — first to see the omen"
     },
     {
       "id": 226,
@@ -34,8 +51,12 @@
       "pinyin": "yóu",
       "tone": 2,
       "meaning": "remarkable",
-      "story": "The person stands for remarkable, asking \"Yo? Really?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "A figure standing out from the crowd - exceptional presence",
+      "sound_bridge": "YO = 'YO, that dog is special?!'",
+      "story": "He is REMARKABLE — sharper than other dogs. I GASP 'YO?!' — is he really that different? Something about him stands apart, a quality the others lack. Exceptional awareness marks him as unique.",
+      "tone_emotion": "GASP - rising recognition of exceptional quality",
+      "primitives": ["outstanding form"],
+      "narrative_position": "The distinction — sharper than other dogs"
     },
     {
       "id": 227,
@@ -43,8 +64,12 @@
       "pinyin": "mò",
       "tone": 4,
       "meaning": "silence",
-      "story": "The black dog stayed silent, quiet and still.",
-      "primitives": []
+      "mnemonic_image": "A black dog sitting perfectly still - quiet contemplation",
+      "sound_bridge": "MWO = 'MWO-re silence! Not a sound!'",
+      "story": "He sits in SILENCE for a long time, watching the fruit fall. 'MO!' I COMMAND myself to stillness. The black dog knows when to be quiet. In darkness and silence, truth becomes visible.",
+      "tone_emotion": "COMMAND - sharp demand for stillness",
+      "primitives": ["black 黑", "dog 犬"],
+      "narrative_position": "The vigil — watching in knowing silence"
     },
     {
       "id": 228,
@@ -52,8 +77,12 @@
       "pinyin": "rán",
       "tone": 2,
       "meaning": "sort of thing",
-      "story": "The fire takes the shape of sort of thing, asking \"Ran? Is it so?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Flesh over fire with a dog watching - the natural order transformed",
+      "sound_bridge": "RAN = 'RAN-domly, this happened?!'",
+      "story": "This is a SORT OF THING that had never happened before. I GASP 'RAN?!' — has the natural order changed? Dog and fire and flesh — the elements of the ordinary — now witness the extraordinary.",
+      "tone_emotion": "GASP - rising confusion at unprecedented event",
+      "primitives": ["flesh 肉", "dog 犬", "fire 灬"],
+      "narrative_position": "The unprecedented — nothing like this before"
     },
     {
       "id": 229,
@@ -61,17 +90,25 @@
       "pinyin": "kū",
       "tone": 1,
       "meaning": "to cry",
-      "story": "The mouth takes the shape of to cry, singing \"Koo!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "Two mouths weeping over a dog - grief amplified",
+      "sound_bridge": "KOO = 'KOO-ing like a mournful dove'",
+      "story": "Then he begins TO CRY — not from sadness, but from the weight of knowing. I SING 'KOOO...' — sustained like a mournful dove. Two mouths cannot contain this grief. The dog beneath them weeps for what he knows is coming.",
+      "tone_emotion": "SING - sustained wail of prophetic grief",
+      "primitives": ["mouth 口", "mouth 口", "dog 犬"],
+      "narrative_position": "The lament — crying from knowing too much"
     },
     {
       "id": 230,
       "character": "器",
       "pinyin": "qì",
       "tone": 4,
-      "meaning": "Utensil",
-      "story": "A utensil of four dogs and one mouth yells \"Chi!\" sharply used!",
-      "primitives": []
+      "meaning": "utensil",
+      "mnemonic_image": "Four mouths around a dog - vessels for catching and containing",
+      "sound_bridge": "CHEE = 'CHEE-p bowls, grab them all!'",
+      "story": "The villagers grab every UTENSIL they can find to catch the peaches. 'QI!' I COMMAND the vessels into action. Four mouths surround the dog — bowls, pots, basins — all pressed into service for the miraculous harvest.",
+      "tone_emotion": "COMMAND - sharp order to collect",
+      "primitives": ["mouth 口", "mouth 口", "mouth 口", "mouth 口", "dog 犬"],
+      "narrative_position": "The scramble — vessels for the miracle"
     },
     {
       "id": 231,
@@ -79,17 +116,25 @@
       "pinyin": "chòu",
       "tone": 4,
       "meaning": "stinking",
-      "story": "\"Ugh, cho disgusting!\" The stinking smell came from the dog's nose.",
-      "primitives": []
+      "mnemonic_image": "A nose detecting a dog - the source of foul smell",
+      "sound_bridge": "CHO = 'CHO-king on that smell!'",
+      "story": "But the dog is STINKING — he'd rolled in something foul that morning. 'CHOU!' I COMMAND my nose to close. The nose above the dog detects what cannot be ignored. Even miracles cannot mask this stench.",
+      "tone_emotion": "COMMAND - sharp recoil from foulness",
+      "primitives": ["self/nose 自", "dog 犬"],
+      "narrative_position": "The obstacle — foulness separates him"
     },
     {
       "id": 232,
       "character": "狗",
       "pinyin": "gǒu",
       "tone": 3,
-      "meaning": "Dog",
-      "story": "Picture dog taking form - it whispers \"Go\" with vivid energy!",
-      "primitives": []
+      "meaning": "dog",
+      "mnemonic_image": "A dog with a hook or phrase - the common canine",
+      "sound_bridge": "GO = 'GO-ing nowhere, just a dog'",
+      "story": "The other DOGS avoid him. I GROAN 'Gooo...' — even my own kind reject me. The dog with the hook of common speech, the ordinary canine, turns away from the remarkable one who smells too foul.",
+      "tone_emotion": "GROAN - guttural weight of social rejection",
+      "primitives": ["dog 犭", "hook/phrase 句"],
+      "narrative_position": "The rejection — even dogs turn away"
     },
     {
       "id": 233,
@@ -97,8 +142,12 @@
       "pinyin": "yàn",
       "tone": 4,
       "meaning": "to detest",
-      "story": "This character represents to detest, shouting \"Yan!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "A cliff pressing down on satiation - overwhelming disgust",
+      "sound_bridge": "YAN = 'YAN-k him away from us!'",
+      "story": "The villagers grow TO DETEST him. His smell. His crying. His knowing. 'YAN!' they COMMAND him gone. The cliff of their disgust presses down — they are satiated with his presence, overflowing with revulsion.",
+      "tone_emotion": "COMMAND - sharp rejection and disgust",
+      "primitives": ["cliff 厂", "satiated 猒"],
+      "narrative_position": "The hatred — the village turns against him"
     },
     {
       "id": 234,
@@ -106,17 +155,25 @@
       "pinyin": "yā",
       "tone": 1,
       "meaning": "pressure",
-      "story": "The cliff created pressure, squashing everything below like a dog pile.",
-      "primitives": []
+      "mnemonic_image": "A cliff bearing down with weight - crushing force from above",
+      "sound_bridge": "YA = 'YA-wning under the weight'",
+      "story": "PRESSURE mounts. Someone has to explain this miracle. I SING 'YAAA...' — sustained under crushing weight. The cliff of expectation bears down on everyone. Something must give. Someone must speak.",
+      "tone_emotion": "SING - sustained compression from all sides",
+      "primitives": ["cliff 厂", "earth 土", "compress elements"],
+      "narrative_position": "The tension — demand for explanation builds"
     },
     {
       "id": 235,
       "character": "牛",
       "pinyin": "niú",
       "tone": 2,
-      "meaning": "Cow",
-      "story": "The strokes unite to show cow, asking \"Nyo? Moo?\" curiously!",
-      "primitives": []
+      "meaning": "cow",
+      "mnemonic_image": "Horns and body of the sacred bovine - the oracle beast",
+      "sound_bridge": "NYO = 'NYO-body expected the cow?!'",
+      "story": "The COW steps forward. I GASP 'NYO?!' — is she really going to speak? Her horns catch the light as she moves through the crowd. The sacred bovine carries wisdom the dogs cannot possess.",
+      "tone_emotion": "GASP - rising surprise at oracle's appearance",
+      "primitives": ["horned beast form"],
+      "narrative_position": "The oracle appears — the special cow emerges"
     },
     {
       "id": 236,
@@ -124,8 +181,12 @@
       "pinyin": "tè",
       "tone": 4,
       "meaning": "special",
-      "story": "This character represents special, shouting \"Tuh!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A cow at a temple - sacred beast of distinction",
+      "sound_bridge": "TUH = 'TUH-ruly unique among beasts!'",
+      "story": "She is SPECIAL — the village oracle. 'TE!' her presence COMMANDS respect. The cow at the temple, sacred among cattle. Only she can speak for the heavens. Only she carries that distinction.",
+      "tone_emotion": "COMMAND - sharp assertion of sacred status",
+      "primitives": ["cow 牛", "temple 寺"],
+      "narrative_position": "The status — the oracle's sacred role"
     },
     {
       "id": 237,
@@ -133,8 +194,12 @@
       "pinyin": "gào",
       "tone": 4,
       "meaning": "to declare",
-      "story": "The mouth takes the shape of to declare, shouting \"Gao!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "A cow's head above a mouth - the oracle speaks",
+      "sound_bridge": "GAO = 'GAO-d has spoken!'",
+      "story": "She begins TO DECLARE: 'This is a sign!' 'GAO!' the oracle COMMANDS attention. The cow above the mouth — sacred authority giving voice to cosmic truth. Everyone must hear what the heavens announce.",
+      "tone_emotion": "COMMAND - sharp proclamation of divine message",
+      "primitives": ["cow top 牛", "mouth 口"],
+      "narrative_position": "The prophecy — the oracle speaks"
     },
     {
       "id": 238,
@@ -142,8 +207,12 @@
       "pinyin": "hào",
       "tone": 4,
       "meaning": "vast",
-      "story": "The water takes the shape of vast, shouting \"Hao!\" sharply like ripples spreading across a pond!",
-      "primitives": []
+      "mnemonic_image": "Water declaring endlessly - ocean of change approaching",
+      "sound_bridge": "HAO = 'HAO-wling waves of change!'",
+      "story": "'A VAST change is coming!' 'HAO!' the declaration COMMANDS comprehension. Water carries the proclamation to every shore — the change is vast as the ocean, endless as rivers. Nothing will remain the same.",
+      "tone_emotion": "COMMAND - sharp announcement of enormous scope",
+      "primitives": ["water 氵", "declare 告"],
+      "narrative_position": "The scale — the change is immense"
     },
     {
       "id": 239,
@@ -151,8 +220,12 @@
       "pinyin": "xiān",
       "tone": 1,
       "meaning": "before",
-      "story": "The strokes unite to show before, singing \"Shian!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "A person walking ahead - the one who goes first",
+      "sound_bridge": "SHYAN = 'SHYAN-ting about the past'",
+      "story": "He remembers what came BEFORE — the last time peaches fell. I SING 'SHYANNN...' — sustained memory of earlier times. The person who walks ahead has already seen this path. The dog knows because he was there before.",
+      "tone_emotion": "SING - sustained recall of past experience",
+      "primitives": ["go 之", "person legs 儿"],
+      "narrative_position": "The memory — recalling what happened before"
     },
     {
       "id": 240,
@@ -160,8 +233,12 @@
       "pinyin": "xǐ",
       "tone": 3,
       "meaning": "to wash",
-      "story": "Like water, this character means to wash and whispers \"Shee\"!",
-      "primitives": []
+      "mnemonic_image": "Water meeting what came before - cleansing in preparation",
+      "sound_bridge": "SHEE = 'SHEE-dding the filth slowly'",
+      "story": "So he goes TO WASH himself in the river, preparing for what comes next. I GROAN 'Sheee...' — the heavy work of cleansing. Water meets what was before, washing away the stink, preparing the body for what the dog alone knows is coming.",
+      "tone_emotion": "GROAN - guttural effort of purification",
+      "primitives": ["water 氵", "before 先"],
+      "narrative_position": "The preparation — cleansing for what comes"
     }
   ]
 }

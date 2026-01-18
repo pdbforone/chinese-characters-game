@@ -1,23 +1,36 @@
 {
   "lesson": 15,
+  "title": "The Police Poet",
+  "theme": "Officer Chen's terrible poetry is the most feared weapon in the precinct — criminals surrender rather than endure his verses",
+  "memory_palace": "The Police Precinct",
+  "narrative_arc": "Book kept → Drawings made → Verses scratched → Attack avoided → Failed beautifully → Deliberately bad → Rescue attempted → Revered by criminals → Spacious office → Words spoken → Police purpose → Plan created → Prison record → Condemn to end → Instructions given → Talk begins → Poems weaponized → Language illegal → Read and surrender → Tune maximized → Discuss crimes → This ends",
+  "narrative_story": "The most dangerous weapon in the precinct wasn't the gun — it was Officer Chen's poetry book. His other officers made drawings of crime scenes; he wrote sonnets. When bored, he would scratch verses onto his desk. Most cops attack problems directly — not Chen. He had learned to fail beautifully. Deliberately bad poetry was his specialty. He once tried to rescue a hostage with a haiku. Criminals had learned to revere his terrible verses. His office was spacious — nobody wanted to share it. When he began to say anything, people fled. The police department kept him for one reason only: he could create a plan that no criminal would expect. His record of prison sentences was perfect. Judges would condemn criminals just to end his recitals. His instructions were legendary: 'First, we read them poetry. Then the talk begins.' His poems were weapons of mass confusion. His language was technically Mandarin but emotionally illegal. Criminals would read his verses and surrender immediately. He could tune his voice to maximum cringe. 'Let us discuss your crimes,' he'd say. 'This will not take long.'",
   "characters": [
     {
       "id": 311,
       "character": "書",
       "pinyin": "shū",
       "tone": 1,
-      "meaning": "Book",
-      "story": "A book hand speaks cheerfully singing \"Shoo!\" high!",
-      "primitives": []
+      "meaning": "book",
+      "mnemonic_image": "A brush held by a hand, writing on bound pages — the vessel of dangerous poetry",
+      "sound_bridge": "SHOO = 'SHOO-ting words onto paper, singing high'",
+      "story": "Officer Chen's BOOK sits in his pocket like a loaded weapon. I SING 'Shuuuu...' as I watch him pull it out — a sustained high note of warning. The brush-written pages contain verses so terrible that criminals confess just to make him stop reading.",
+      "tone_emotion": "SING - sustained operatic warning",
+      "primitives": ["brush 聿", "words 曰"],
+      "narrative_position": "The weapon revealed — Chen's poetry book is his signature"
     },
     {
       "id": 312,
       "character": "畫",
       "pinyin": "huà",
       "tone": 4,
-      "meaning": "a Drawing",
-      "story": "Picture a field beside lines: that's a drawing, shouting \"Hwa!\" sharply!",
-      "primitives": []
+      "meaning": "drawing",
+      "mnemonic_image": "A brush creating marks in a field — visual evidence captured",
+      "sound_bridge": "HWA = 'HWA! The sketch is done!' commanding",
+      "story": "Other officers make DRAWINGS of crime scenes — professional, useful, normal. I COMMAND 'HWA!' as they sketch efficiently. But Chen? He writes sonnets about chalk outlines. The sharp bark of frustration escapes my captain's throat every time.",
+      "tone_emotion": "COMMAND - sharp professional efficiency",
+      "primitives": ["brush 聿", "field 田"],
+      "narrative_position": "The contrast — what normal officers do versus Chen's methods"
     },
     {
       "id": 313,
@@ -25,8 +38,12 @@
       "pinyin": "huá",
       "tone": 2,
       "meaning": "to scratch",
-      "story": "\"Where should I cut?\" she questioned, using power to scratch the drawing.",
-      "primitives": []
+      "mnemonic_image": "A knife creating marks on a surface — verses etched into wood",
+      "sound_bridge": "HWA? = 'HWA? What's he carving now?' questioning",
+      "story": "When bored, Chen SCRATCHES verses onto his desk. I GASP 'Hwá?' rising with curiosity each time I see new carvings appear. The maintenance staff has given up trying to refinish his desk — it's covered in terrible quatrains about justice.",
+      "tone_emotion": "GASP - rising curiosity at strange behavior",
+      "primitives": ["drawing 畫", "knife 刂"],
+      "narrative_position": "Chen's idle moments — even boredom produces bad poetry"
     },
     {
       "id": 314,
@@ -34,8 +51,12 @@
       "pinyin": "gōng",
       "tone": 1,
       "meaning": "to attack",
-      "story": "The workers went on strike, attacking the company with their demands.",
-      "primitives": []
+      "mnemonic_image": "Workers with tools striking forward — direct confrontation",
+      "sound_bridge": "GONG = 'GONG-ing forward like a bell' singing",
+      "story": "Most cops ATTACK problems directly — charge in, make arrests, use force. I SING 'Gōng...' in a sustained tone watching their straightforward methods. But Chen has a different approach. His attacks come from unexpected angles, wrapped in rhyme.",
+      "tone_emotion": "SING - sustained observation of normal methods",
+      "primitives": ["work 工", "strike 攵"],
+      "narrative_position": "The contrast with conventional police work"
     },
     {
       "id": 315,
@@ -43,8 +64,12 @@
       "pinyin": "bài",
       "tone": 4,
       "meaning": "to fail",
-      "story": "Like a shellfish, this character means to fail and shouts \"Bai!\"!",
-      "primitives": []
+      "mnemonic_image": "A shell creature struck down — beautiful collapse",
+      "sound_bridge": "BAI! = 'BAI! Down goes the plan!' commanding",
+      "story": "Chen has learned to FAIL beautifully. I COMMAND 'BÀI!' with each deliberate stumble in his verses. His failures are calculated — each terrible rhyme is precisely wrong in a way that makes criminals cringe themselves into confession.",
+      "tone_emotion": "COMMAND - sharp deliberate failure",
+      "primitives": ["shell 貝", "strike 攵"],
+      "narrative_position": "Chen's secret — failure as technique"
     },
     {
       "id": 316,
@@ -52,8 +77,12 @@
       "pinyin": "gù",
       "tone": 4,
       "meaning": "deliberately",
-      "story": "Picture deliberately taking form - it shouts \"Goo!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "An old pattern repeated on purpose — intentional tradition",
+      "sound_bridge": "GOO! = 'GOO! It's on purpose!' commanding",
+      "story": "DELIBERATELY bad poetry is Chen's specialty. I COMMAND 'GÙ!' as the realization hits — he's not a bad poet, he's a master of bad poetry. Every cringeworthy line is crafted with surgical precision to maximize discomfort.",
+      "tone_emotion": "COMMAND - sharp realization of intent",
+      "primitives": ["old 古", "strike 攵"],
+      "narrative_position": "The revelation — Chen's incompetence is deliberate"
     },
     {
       "id": 317,
@@ -61,8 +90,12 @@
       "pinyin": "jiù",
       "tone": 4,
       "meaning": "to rescue",
-      "story": "Picture to rescue taking form - it shouts \"Jyo!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "A hand reaching down with force — urgent salvation",
+      "sound_bridge": "JYO! = 'JYO! Save them now!' commanding",
+      "story": "Chen once tried TO RESCUE a hostage with a haiku. I COMMAND 'JIÙ!' as the memory surfaces. The kidnapper released the victim after the third stanza, begging Chen to stop. Most effective rescue in precinct history.",
+      "tone_emotion": "COMMAND - urgent action through poetry",
+      "primitives": ["seek 求", "strike 攵"],
+      "narrative_position": "The legendary hostage incident"
     },
     {
       "id": 318,
@@ -70,8 +103,12 @@
       "pinyin": "jìng",
       "tone": 4,
       "meaning": "to revere",
-      "story": "\"Jing!\" he commanded sharply, showing alarm and respect to revere elders.",
-      "primitives": []
+      "mnemonic_image": "A figure bowing before authority — fearful respect",
+      "sound_bridge": "JING! = 'JING! Show respect!' commanding",
+      "story": "Criminals have learned TO REVERE Chen's terrible verses. I COMMAND 'JÌNG!' as hardened felons actually bow when he approaches. It's not respect for his authority — it's fear of his poetry. They revere his verses like a weapon.",
+      "tone_emotion": "COMMAND - sharp fearful respect",
+      "primitives": ["awe 敬", "strike 攵"],
+      "narrative_position": "Criminal psychology — fear becomes reverence"
     },
     {
       "id": 319,
@@ -79,8 +116,12 @@
       "pinyin": "chǎng",
       "tone": 3,
       "meaning": "spacious",
-      "story": "The strokes unite to show spacious, whispering \"Chang\" softly!",
-      "primitives": []
+      "mnemonic_image": "A hall opened wide — empty expansiveness",
+      "sound_bridge": "CHAHNG = 'CHAHNG... so empty in here' groaning",
+      "story": "Chen's office is SPACIOUS — not because he earned a promotion, but because nobody wants to share it. I GROAN 'Chǎng...' with the heavy weight of that emptiness. The desks around him sit vacant. Partners transfer rather than endure daily poetry sessions.",
+      "tone_emotion": "GROAN - heavy emptiness of isolation",
+      "primitives": ["still 尚", "strike 攵"],
+      "narrative_position": "Chen's social isolation — feared even by colleagues"
     },
     {
       "id": 320,
@@ -88,35 +129,51 @@
       "pinyin": "yán",
       "tone": 2,
       "meaning": "to say",
-      "story": "This character represents to say, asking \"Yan? What speak?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Lines emerging from a mouth — the power of spoken words",
+      "sound_bridge": "YAN? = 'YAN? What did he say?' questioning",
+      "story": "When Chen begins TO SAY anything, people flee. I GASP 'Yán?' rising with alarm whenever he opens his mouth. Will it be normal conversation? Instructions? Or... poetry? Nobody waits to find out. The precinct empties at the first syllable.",
+      "tone_emotion": "GASP - rising alarm at speech",
+      "primitives": ["speech 言"],
+      "narrative_position": "The universal fear of Chen's voice"
     },
     {
       "id": 321,
       "character": "警",
       "pinyin": "jǐng",
       "tone": 3,
-      "meaning": "Police",
-      "story": "Picture police taking form - it whispers \"Jing\" with vivid energy!",
-      "primitives": []
+      "meaning": "police",
+      "mnemonic_image": "Words spoken with authority — vigilant guardians",
+      "sound_bridge": "JING = 'JING... the heavy badge weighs' groaning",
+      "story": "The POLICE department keeps Chen for one reason only. I GROAN 'Jǐng...' feeling the weight of that institutional tolerance. His methods are unorthodox, his poetry crimes against literature — but his arrest record is impeccable.",
+      "tone_emotion": "GROAN - heavy institutional burden",
+      "primitives": ["awe 敬", "speech 言"],
+      "narrative_position": "Why the department tolerates Chen"
     },
     {
       "id": 322,
       "character": "計",
       "pinyin": "jì",
       "tone": 4,
-      "meaning": "a Plan",
-      "story": "Picture a plan taking form - it shouts \"Ji!\" with vivid energy!",
-      "primitives": []
+      "meaning": "plan",
+      "mnemonic_image": "Words calculated precisely — strategic scheming",
+      "sound_bridge": "JI! = 'JI! The plan is set!' commanding",
+      "story": "Chen can create A PLAN that no criminal would expect. I COMMAND 'JÌ!' as his latest scheme unfolds. Who anticipates interrogation by limerick? His plans are absurd but effective — poetry as tactical weapon.",
+      "tone_emotion": "COMMAND - sharp strategic declaration",
+      "primitives": ["speech 言", "ten 十"],
+      "narrative_position": "Chen's unexpected tactical genius"
     },
     {
       "id": 323,
       "character": "獄",
       "pinyin": "yù",
       "tone": 4,
-      "meaning": "Prison",
-      "story": "This character represents prison, shouting \"Yu!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "meaning": "prison",
+      "mnemonic_image": "Dogs guarding speech — confinement where words are controlled",
+      "sound_bridge": "YU! = 'YU! Into the cell!' commanding",
+      "story": "Chen's record of PRISON sentences is perfect. I COMMAND 'YÙ!' as another criminal chooses incarceration over poetry. They actually prefer cells to verses. The prison guards have noticed an uptick in voluntary confessions whenever Chen is assigned a case.",
+      "tone_emotion": "COMMAND - sharp finality of imprisonment",
+      "primitives": ["dog 犭", "speech 言", "dog 犬"],
+      "narrative_position": "The result — criminals choose prison over poetry"
     },
     {
       "id": 324,
@@ -124,44 +181,64 @@
       "pinyin": "tǎo",
       "tone": 3,
       "meaning": "to condemn",
-      "story": "Picture to condemn taking form - it whispers \"Tao\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Words of judgment spoken — official denunciation",
+      "sound_bridge": "TAO = 'TAO... guilty as charged' groaning",
+      "story": "Judges CONDEMN criminals just to end Chen's recitals. I GROAN 'Tǎo...' watching the heavy gavels fall faster when he's presenting evidence in verse. 'Guilty, guilty, just stop reading!' becomes the unspoken verdict.",
+      "tone_emotion": "GROAN - heavy judicial exhaustion",
+      "primitives": ["speech 言", "inch 寸"],
+      "narrative_position": "Judges surrender to end the poetry"
     },
     {
       "id": 325,
       "character": "訓",
       "pinyin": "xùn",
       "tone": 4,
-      "meaning": "Instruction",
-      "story": "\"Shun, listen!\" The teacher gave instructions, commanding words like a river.",
-      "primitives": []
+      "meaning": "instruction",
+      "mnemonic_image": "Words flowing like a river — teachings passed down",
+      "sound_bridge": "SHUN! = 'SHUN! Follow these orders!' commanding",
+      "story": "Chen's INSTRUCTIONS are legendary. I COMMAND 'XÙN!' repeating his famous protocol: 'First, we read them poetry. Then we read more poetry. Then, if they haven't confessed, we bring out the epic poems.'",
+      "tone_emotion": "COMMAND - sharp directive authority",
+      "primitives": ["speech 言", "river 川"],
+      "narrative_position": "The infamous interrogation protocol"
     },
     {
       "id": 326,
       "character": "話",
       "pinyin": "huà",
       "tone": 4,
-      "meaning": "the talk",
-      "story": "\"Hwa!\" Her tongue spoke sharply, talking and telling stories.",
-      "primitives": []
+      "meaning": "talk",
+      "mnemonic_image": "Speech transformed by tongue — conversation in progress",
+      "sound_bridge": "HWA! = 'HWA! Let the talk begin!' commanding",
+      "story": "'Then THE TALK begins,' Chen announces. I COMMAND 'HUÀ!' with him, knowing what comes next. The talk isn't conversation — it's a one-way recitation. Suspects quickly learn that 'talking' means listening to sonnets about justice.",
+      "tone_emotion": "COMMAND - sharp announcement of torture",
+      "primitives": ["speech 言", "tongue 舌"],
+      "narrative_position": "The euphemism for poetic interrogation"
     },
     {
       "id": 327,
       "character": "詩",
       "pinyin": "shī",
       "tone": 1,
-      "meaning": "Poem",
-      "story": "Picture poem taking form - it sings \"Shi!\" with vivid energy!",
-      "primitives": []
+      "meaning": "poem",
+      "mnemonic_image": "Words in a temple — sacred verses elevated",
+      "sound_bridge": "SHI = 'SHI-ng the verses high' singing",
+      "story": "Chen's POEMS are weapons of mass confusion. I SING 'Shī...' in a sustained high note as he recites. Each verse hangs in the air like a sustained operatic note of agony. His poems don't rhyme, don't scan, and don't make sense — deliberately.",
+      "tone_emotion": "SING - sustained operatic torture",
+      "primitives": ["speech 言", "temple 寺"],
+      "narrative_position": "The weapons themselves — the terrible poems"
     },
     {
       "id": 328,
       "character": "語",
       "pinyin": "yǔ",
       "tone": 3,
-      "meaning": "Language",
-      "story": "Picture language taking form - it whispers \"Yu\" with vivid energy!",
-      "primitives": []
+      "meaning": "language",
+      "mnemonic_image": "Words spoken with power — the system of communication",
+      "sound_bridge": "YU = 'YU... what language is this?' groaning",
+      "story": "Chen's LANGUAGE is technically Mandarin but emotionally illegal. I GROAN 'Yǔ...' struggling under the weight of his syntax. His word choices are valid Chinese, but arranged in combinations that assault the ear and offend the soul.",
+      "tone_emotion": "GROAN - heavy linguistic suffering",
+      "primitives": ["speech 言", "I/me 吾"],
+      "narrative_position": "The assault on language itself"
     },
     {
       "id": 329,
@@ -169,17 +246,25 @@
       "pinyin": "dú",
       "tone": 2,
       "meaning": "to read",
-      "story": "\"Doo you understand what it says?\" she questioned, reading the words to sell the idea.",
-      "primitives": []
+      "mnemonic_image": "Eyes scanning words for sale — consuming written text",
+      "sound_bridge": "DU? = 'DU you want me to read more?' questioning",
+      "story": "Criminals READ Chen's verses and surrender immediately. I GASP 'Dú?' with rising disbelief watching them sign confessions mid-stanza. They don't even wait for him to finish. The mere act of reading his poetry breaks them.",
+      "tone_emotion": "GASP - rising disbelief at effectiveness",
+      "primitives": ["speech 言", "sell 賣"],
+      "narrative_position": "Written poetry is equally effective"
     },
     {
       "id": 330,
       "character": "調",
       "pinyin": "diào",
       "tone": 4,
-      "meaning": "Tune",
-      "story": "This character represents tune, shouting \"Diao!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "meaning": "tune",
+      "mnemonic_image": "Words harmonized around a cycle — melodic adjustment",
+      "sound_bridge": "DIAO! = 'DIAO! Maximum cringe!' commanding",
+      "story": "Chen can TUNE his voice to maximum cringe. I COMMAND 'DIÀO!' as he adjusts his pitch. He has practiced various frequencies of discomfort — nasal, whiny, droning. Each tune is calibrated to specific criminal psychology profiles.",
+      "tone_emotion": "COMMAND - sharp vocal adjustment",
+      "primitives": ["speech 言", "cycle 周"],
+      "narrative_position": "Chen's vocal technique — calibrated torture"
     },
     {
       "id": 331,
@@ -187,8 +272,12 @@
       "pinyin": "tán",
       "tone": 2,
       "meaning": "to discuss",
-      "story": "\"Tan, what should we talk about?\" The words flamed up in discussion.",
-      "primitives": []
+      "mnemonic_image": "Words heated like flame — passionate conversation",
+      "sound_bridge": "TAN? = 'TAN? You want to discuss?' questioning",
+      "story": "'Let us DISCUSS your crimes,' Chen says, opening his book. I GASP 'Tán?' with rising horror for the suspect. Discussion with Chen is not dialogue — it's a monologue punctuated by desperate confessions. No one discusses back.",
+      "tone_emotion": "GASP - rising horror at the invitation",
+      "primitives": ["speech 言", "flame 炎"],
+      "narrative_position": "The final invitation — a prelude to confession"
     },
     {
       "id": 332,
@@ -196,8 +285,12 @@
       "pinyin": "zhè",
       "tone": 4,
       "meaning": "this",
-      "story": "The strokes unite to show this, shouting \"Zhuh!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Movement toward a point — indicating the present",
+      "sound_bridge": "JUH! = 'JUH! This ends now!' commanding",
+      "story": "'THIS will not take long,' Chen promises. I COMMAND 'ZHÈ!' knowing it's a lie. This — the poetry, the recitation, the cringe — will feel like an eternity. But technically, confessions do come quickly. No criminal ever returns to his precinct. The poetry is that bad.",
+      "tone_emotion": "COMMAND - sharp pointing finality",
+      "primitives": ["walk 辶", "text 文"],
+      "narrative_position": "The conclusion — poetry so bad no one returns"
     }
   ]
 }
