@@ -1,5 +1,10 @@
 {
   "lesson": 12,
+  "title": "The King's Golden Balls",
+  "theme": "The King introduces a jade ball game that drives the entire court crazy. Over tea, madness spreads — only the Lord of the Eastern Province remains sane, immune to gold, copper, and all attempts at bribery.",
+  "memory_palace": "The Royal Pagoda Game Hall",
+  "narrative_arc": "Introduction made → World bounded → Tea served → Meeting called → Game fits perfectly → Ha! laughed → Pagoda revealed → King produces → Jade spheres → Balls presented → Present to court → Playing begins → Crazy consumed → Emperor investigates → Resplendent robes → Scores submitted → Whole court mad → Logic fled → Lord resists → Pouring attention refused → Gold offered → Copper tried → Fishing attempted → Needle threatened → Nail hammered → Inscription carved → At ease finally",
+  "narrative_story": "The King wanted to introduce something new to his world. Over tea, he announced a meeting of all nobles. 'I have created a game,' he said. 'It will fit our greatness.' 'Ha!' laughed the court. They assumed he was joking. From the tallest pagoda, the King produced two jade spheres. 'Behold — the balls!' He presented them to the court. The nobles began to play. Within hours, everyone had gone crazy. The Emperor arrived to investigate. His robes were resplendent. All nobles were required to submit their scores. The whole court was consumed. Even logic had fled. Only the Lord of the Eastern Province remained sane. He refused to pour his attention into the game. The King tried bribery. He offered gold. Then copper — cheaper, but still shiny. He even tried to go fishing for the Lord's interest. Nothing worked. Finally, the King threatened him with a needle — torture by acupuncture. Still nothing. The King hammered a nail through the game board in frustration. On it, he carved an inscription: 'This game will destroy us all.' Then he sat back, suddenly at ease. Some games are meant to be lost.",
   "characters": [
     {
       "id": 241,
@@ -7,35 +12,51 @@
       "pinyin": "jiè",
       "tone": 4,
       "meaning": "to introduce",
-      "story": "See how the person forms to introduce? It shouts \"Jieh!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "A person standing between two boundary lines - the act of bridging worlds",
+      "sound_bridge": "JYE = 'JYE-st let me introduce you!'",
+      "story": "The King wants TO INTRODUCE something new. 'JIE!' he COMMANDS the court's attention. A person stands between boundaries, bringing two worlds together. This is how new things enter — through someone willing to bridge the gap.",
+      "tone_emotion": "COMMAND - sharp announcement of new beginning",
+      "primitives": ["person 人", "boundary lines"],
+      "narrative_position": "The opening — the King's desire to innovate"
     },
     {
       "id": 242,
       "character": "界",
       "pinyin": "jiè",
       "tone": 4,
-      "meaning": "World",
-      "story": "The world field introduced yells \"Jieh!\" sharply bounded!",
-      "primitives": []
+      "meaning": "world",
+      "mnemonic_image": "A field with clear boundaries - a defined realm",
+      "sound_bridge": "JYE = 'JYE-ographic boundaries!'",
+      "story": "Something new to his WORLD. 'JIE!' the boundaries COMMAND definition. The field has its limits, its borders clearly marked. Within these boundaries lies everything the King controls — his world, waiting for change.",
+      "tone_emotion": "COMMAND - sharp definition of boundaries",
+      "primitives": ["field 田", "introduce 介"],
+      "narrative_position": "The scope — the King's domain awaits"
     },
     {
       "id": 243,
       "character": "茶",
       "pinyin": "chá",
       "tone": 2,
-      "meaning": "Tea",
-      "story": "\"Cha want some tea?\" she asked, made from grass for people.",
-      "primitives": []
+      "meaning": "tea",
+      "mnemonic_image": "Grass over a person under a tree - the plant that brings people together",
+      "sound_bridge": "CHA = 'CHA-nce for some tea?!'",
+      "story": "Over TEA, he announces. I GASP 'CHA?!' — tea at such a formal occasion? The grass grows over the person under the tree, leaves steeping into liquid that brings people together. Around tea, announcements are made.",
+      "tone_emotion": "GASP - rising anticipation at the gathering",
+      "primitives": ["grass 艹", "person 人", "tree 木"],
+      "narrative_position": "The setting — tea brings the nobles together"
     },
     {
       "id": 244,
       "character": "會",
       "pinyin": "huì",
       "tone": 4,
-      "meaning": "Meeting",
-      "story": "The people stands for meeting, shouting \"Hway!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "meaning": "meeting",
+      "mnemonic_image": "People gathering under a roof - assembly of nobles",
+      "sound_bridge": "HWAY = 'HWAY-t, everyone gather!'",
+      "story": "He announces a MEETING of all nobles. 'HUI!' the summons COMMANDS attendance. People gather, voices converge. Under the roof of obligation, no one can refuse the King's assembly.",
+      "tone_emotion": "COMMAND - sharp summons to gather",
+      "primitives": ["gather 亼", "increase/layers 曾"],
+      "narrative_position": "The summons — nobles must attend"
     },
     {
       "id": 245,
@@ -43,53 +64,77 @@
       "pinyin": "hé",
       "tone": 2,
       "meaning": "to fit",
-      "story": "When the mouth meets the person, they form to fit, asking \"Huh? Does it match?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "A gathering meeting a mouth - things coming together perfectly",
+      "sound_bridge": "HUH = 'HUH? It fits perfectly?!'",
+      "story": "'It will FIT our greatness,' he says. I GASP 'HE?!' — does it truly match? The gathering meets the mouth — when things come together perfectly, they fit. The King promises his game will fit the court's magnificence.",
+      "tone_emotion": "GASP - rising wonder at perfect match",
+      "primitives": ["gather 亼", "mouth 口"],
+      "narrative_position": "The promise — the game will match their greatness"
     },
     {
       "id": 246,
       "character": "哈",
       "pinyin": "hā",
       "tone": 1,
-      "meaning": "Ha!",
-      "story": "\"Ha!\" laughs the mouth happily singing \"Ha!\" high and loud!",
-      "primitives": []
+      "meaning": "ha!",
+      "mnemonic_image": "A mouth releasing a fit of laughter - explosive mirth",
+      "sound_bridge": "HA = 'HA-ha-ha!'",
+      "story": "'HA!' laughs the court. I SING 'HAAA...' — sustained laughter echoing through the hall. The mouth releases what fits: pure mirth. They assume the King is joking. They don't know what's coming.",
+      "tone_emotion": "SING - sustained laughter filling the hall",
+      "primitives": ["mouth 口", "fit 合"],
+      "narrative_position": "The mockery — the court laughs too soon"
     },
     {
       "id": 247,
       "character": "塔",
       "pinyin": "tǎ",
       "tone": 3,
-      "meaning": "Pagoda",
-      "story": "Like soil, this character means pagoda and whispers \"Ta\" - a vivid image to remember!",
-      "primitives": []
+      "meaning": "pagoda",
+      "mnemonic_image": "Earth rising in layered answers - a tower reaching skyward",
+      "sound_bridge": "TA = 'TA-ll tower of secrets'",
+      "story": "From the tallest PAGODA. I GROAN 'Taaa...' — the weight of climbing all those stairs. Earth rises in layers, each level an answer to the one below. The pagoda holds the King's greatest treasures.",
+      "tone_emotion": "GROAN - guttural weight of ascending heights",
+      "primitives": ["earth 土", "answer 荅"],
+      "narrative_position": "The reveal — the King's tower of secrets"
     },
     {
       "id": 248,
       "character": "王",
       "pinyin": "wáng",
       "tone": 2,
-      "meaning": "King",
-      "story": "A king with three levels questions \"Wang? Why rule?\" curiously!",
-      "primitives": []
+      "meaning": "king",
+      "mnemonic_image": "Three horizontal lines bridged by one vertical - heaven, humanity, earth united",
+      "sound_bridge": "WAHNG = 'WAHNG-t to be king?!'",
+      "story": "The KING produces. I GASP 'WANG?!' — what is he revealing? Three lines united by one: heaven, humanity, and earth all connected through the sovereign. He alone can introduce such things.",
+      "tone_emotion": "GASP - rising anticipation at royal revelation",
+      "primitives": ["three horizontals", "one vertical"],
+      "narrative_position": "The authority — only the King can do this"
     },
     {
       "id": 249,
       "character": "玉",
       "pinyin": "yù",
       "tone": 4,
-      "meaning": "Jade",
-      "story": "The dot stands for jade, shouting \"Yu!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "meaning": "jade",
+      "mnemonic_image": "A king with a precious dot - the treasure of sovereigns",
+      "sound_bridge": "YU = 'YU-nique treasure!'",
+      "story": "Two JADE spheres. 'YU!' the stones COMMAND reverence. The king's character with an added treasure-dot — jade belongs to royalty. These spheres glow with imperial green, worth more than provinces.",
+      "tone_emotion": "COMMAND - sharp declaration of precious value",
+      "primitives": ["king 王", "dot (treasure mark)"],
+      "narrative_position": "The treasure — imperial jade appears"
     },
     {
       "id": 250,
       "character": "球",
       "pinyin": "qiú",
       "tone": 2,
-      "meaning": "Balls",
-      "story": "\"Chyo, play ball?\" he questioned, tossing jade-colored spheres.",
-      "primitives": []
+      "meaning": "balls",
+      "mnemonic_image": "Jade being sought after - spheres everyone desires",
+      "sound_bridge": "CHYO = 'CHYO-se the ball?!'",
+      "story": "'Behold — the BALLS!' I GASP 'QIU?!' — are these what we'll chase? Jade meets seeking — these spheres become the object of everyone's desire. Round, perfect, irresistible.",
+      "tone_emotion": "GASP - rising desire for the precious spheres",
+      "primitives": ["jade 玉", "seek 求"],
+      "narrative_position": "The object — the balls are revealed"
     },
     {
       "id": 251,
@@ -97,8 +142,12 @@
       "pinyin": "xiàn",
       "tone": 4,
       "meaning": "present",
-      "story": "This character represents present, shouting \"Shian!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Jade made visible - treasure brought before eyes",
+      "sound_bridge": "SHYAN = 'SHYAN-ow them now!'",
+      "story": "He PRESENTS them to the court. 'XIAN!' the gesture COMMANDS all eyes forward. Jade made visible, treasure brought before everyone. The moment of revelation has arrived.",
+      "tone_emotion": "COMMAND - sharp presentation demanding attention",
+      "primitives": ["jade 玉", "see 見"],
+      "narrative_position": "The presentation — all eyes on the balls"
     },
     {
       "id": 252,
@@ -106,8 +155,12 @@
       "pinyin": "wán",
       "tone": 2,
       "meaning": "to play",
-      "story": "Picture to play taking form - it asks \"Wan? How fun?\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Jade at the origin - returning to childlike delight",
+      "sound_bridge": "WAHN = 'WAHN-t to play?!'",
+      "story": "The nobles begin TO PLAY. I GASP 'WAN?!' — grown men playing like children? Jade meets origin — playing returns us to our beginnings. The nobles forget their dignity, lost in the game.",
+      "tone_emotion": "GASP - rising excitement at the game",
+      "primitives": ["jade 玉", "origin 元"],
+      "narrative_position": "The beginning — the game starts"
     },
     {
       "id": 253,
@@ -115,17 +168,25 @@
       "pinyin": "kuáng",
       "tone": 2,
       "meaning": "crazy",
-      "story": "This character represents crazy, asking \"Kwang? Why mad?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "A dog acting like a king - madness of reversed hierarchy",
+      "sound_bridge": "KWAHNG = 'KWAHNG-zy behavior?!'",
+      "story": "Everyone has gone CRAZY. I GASP 'KUANG?!' — what has possessed them? A dog pretending to be king — the natural order inverted. Nobles bark and scramble like hounds after the jade balls.",
+      "tone_emotion": "GASP - rising alarm at spreading madness",
+      "primitives": ["dog 犭", "king 王"],
+      "narrative_position": "The transformation — madness takes hold"
     },
     {
       "id": 254,
       "character": "皇",
       "pinyin": "huáng",
       "tone": 2,
-      "meaning": "Emperor",
-      "story": "See how the white forms emperor? It asks \"Hwang, why should I reign?\" curiously!",
-      "primitives": []
+      "meaning": "emperor",
+      "mnemonic_image": "A white king - the supreme sovereign above all kings",
+      "sound_bridge": "HWAHNG = 'HWAHNG-y emperor arrives?!'",
+      "story": "The EMPEROR arrives to investigate. I GASP 'HUANG?!' — even he has come? White above king — the supreme sovereign, purer and higher than any mere king. His presence silences the room momentarily.",
+      "tone_emotion": "GASP - rising awe at imperial arrival",
+      "primitives": ["white 白", "king 王"],
+      "narrative_position": "The investigation — higher authority arrives"
     },
     {
       "id": 255,
@@ -133,8 +194,12 @@
       "pinyin": "huáng",
       "tone": 2,
       "meaning": "resplendent",
-      "story": "See how the fire forms resplendent? It asks \"Hwang? Why shine?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Fire blazing from the emperor - dazzling imperial glory",
+      "sound_bridge": "HWAHNG = 'HWAHNG-at glory?!'",
+      "story": "His robes are RESPLENDENT. I GASP 'HUANG?!' — has the sun descended? Fire meets emperor — he blazes with glory. His garments shine so bright the nobles squint, momentarily distracted from their jade obsession.",
+      "tone_emotion": "GASP - rising wonder at dazzling display",
+      "primitives": ["fire 火", "emperor 皇"],
+      "narrative_position": "The dazzle — imperial splendor"
     },
     {
       "id": 256,
@@ -142,8 +207,12 @@
       "pinyin": "chéng",
       "tone": 2,
       "meaning": "to submit",
-      "story": "\"Is it ready to submit?\" the king questioned from his mouth-throne.",
-      "primitives": []
+      "mnemonic_image": "A mouth presenting to the king - offering up one's report",
+      "sound_bridge": "CHUNG = 'CHUNG-k of scores submitted?!'",
+      "story": "All nobles are required TO SUBMIT their scores. I GASP 'CHENG?!' — we must report our performance? A mouth speaks to the king — submission of accounts, tallies laid before authority. No one can hide their obsession now.",
+      "tone_emotion": "GASP - rising anxiety at required submission",
+      "primitives": ["mouth 口", "king 王"],
+      "narrative_position": "The accounting — scores must be reported"
     },
     {
       "id": 257,
@@ -151,26 +220,38 @@
       "pinyin": "quán",
       "tone": 2,
       "meaning": "whole",
-      "story": "\"Is it complete?\" The whole jade roof was finally done.",
-      "primitives": []
+      "mnemonic_image": "Entering under the king's protection - completeness under royal roof",
+      "sound_bridge": "CHWAN = 'CHWAN-dering if all are affected?!'",
+      "story": "The WHOLE court is consumed. I GASP 'QUAN?!' — everyone, without exception? Entering under the king — once inside his game, the whole becomes affected. Complete contamination of the court.",
+      "tone_emotion": "GASP - rising horror at total consumption",
+      "primitives": ["enter 入", "king/jade 玉"],
+      "narrative_position": "The totality — no one escapes"
     },
     {
       "id": 258,
       "character": "理",
       "pinyin": "lǐ",
       "tone": 3,
-      "meaning": "Logic",
-      "story": "Picture logic taking form - it whispers \"Lee\" with vivid energy!",
-      "primitives": []
+      "meaning": "logic",
+      "mnemonic_image": "Jade patterns in stone - the natural order of things",
+      "sound_bridge": "LEE = 'LEE-aving sense behind'",
+      "story": "Even LOGIC has fled. I GROAN 'Liii...' — the weight of losing reason. The patterns in jade — natural principles, order in chaos — all have abandoned the court. Madness has no rules.",
+      "tone_emotion": "GROAN - guttural loss of rational ground",
+      "primitives": ["jade 玉", "village/pattern 里"],
+      "narrative_position": "The loss — reason departs"
     },
     {
       "id": 259,
       "character": "主",
       "pinyin": "zhǔ",
       "tone": 3,
-      "meaning": "Lord",
-      "story": "Like a dot, this character means lord and whispers \"Zhu\" - a vivid image to remember!",
-      "primitives": []
+      "meaning": "lord",
+      "mnemonic_image": "A king with a flame of authority on top - the master of a domain",
+      "sound_bridge": "JOO = 'JOO-st one sane lord'",
+      "story": "Only the LORD of the Eastern Province remains sane. I GROAN 'Zhuuu...' — the heavy burden of being the only one untouched. King with authority-flame — the lord keeps his own fire burning while others lose themselves.",
+      "tone_emotion": "GROAN - guttural weight of lonely sanity",
+      "primitives": ["king 王", "dot of authority"],
+      "narrative_position": "The exception — one lord resists"
     },
     {
       "id": 260,
@@ -178,62 +259,90 @@
       "pinyin": "zhù",
       "tone": 4,
       "meaning": "to pour",
-      "story": "\"Joo, watch!\" he commanded, pouring water for the lord.",
-      "primitives": []
+      "mnemonic_image": "Water flowing at a lord's command - directed attention",
+      "sound_bridge": "JOO = 'JOO-st won't pour attention!'",
+      "story": "He refuses TO POUR his attention into the game. 'ZHU!' his refusal COMMANDS respect. Water follows the lord — attention flows where directed. But this lord directs his elsewhere, immune to the jade's pull.",
+      "tone_emotion": "COMMAND - sharp refusal to engage",
+      "primitives": ["water 氵", "lord 主"],
+      "narrative_position": "The resistance — attention withheld"
     },
     {
       "id": 261,
       "character": "金",
       "pinyin": "jīn",
       "tone": 1,
-      "meaning": "the Gold",
-      "story": "See how the gold forms the gold? It sings \"Jeen!\" cheerfully!",
-      "primitives": []
+      "meaning": "gold",
+      "mnemonic_image": "Metal buried beneath earth - the most precious element",
+      "sound_bridge": "JEEN = 'JEEN-erous offer of gold'",
+      "story": "The King offers GOLD. I SING 'JIIIIN...' — the sustained gleam of temptation. Metal beneath earth, refined to perfection — the ultimate bribe. But even gold cannot buy this lord's attention.",
+      "tone_emotion": "SING - sustained gleam of golden temptation",
+      "primitives": ["roof 人", "earth strokes", "king 王"],
+      "narrative_position": "The first bribe — gold fails"
     },
     {
       "id": 262,
       "character": "銅",
       "pinyin": "tóng",
       "tone": 2,
-      "meaning": "Copper",
-      "story": "The gold takes the shape of copper, asking \"Tong? Bronze?\" curiously!",
-      "primitives": []
+      "meaning": "copper",
+      "mnemonic_image": "Metal that looks the same as gold but isn't - the cheaper substitute",
+      "sound_bridge": "TOHNG = 'TOHNG-ue can't tell the difference?!'",
+      "story": "Then COPPER — cheaper, but still shiny. I GASP 'TONG?!' — has the King lowered his offer? Gold meets same — copper looks similar but isn't. A desperate downgrade in bribery attempts.",
+      "tone_emotion": "GASP - rising disbelief at cheaper offer",
+      "primitives": ["gold/metal 金", "same 同"],
+      "narrative_position": "The second bribe — copper fails too"
     },
     {
       "id": 263,
       "character": "釣",
       "pinyin": "diào",
       "tone": 4,
-      "meaning": "to go fishin'",
-      "story": "Picture gold beside a hook: that's to go fishin', shouting \"Diao!\" sharply!",
-      "primitives": []
+      "meaning": "to go fishing",
+      "mnemonic_image": "A metal hook cast for catch - angling for interest",
+      "sound_bridge": "DYAO = 'DYAO-n't take the bait!'",
+      "story": "He tries TO GO FISHING for the Lord's interest. 'DIAO!' the hook COMMANDS a bite. Metal shaped into a hook — the King casts for attention. But this lord won't bite any bait.",
+      "tone_emotion": "COMMAND - sharp cast of the temptation hook",
+      "primitives": ["gold/metal 金", "ladle/hook 勺"],
+      "narrative_position": "The third attempt — fishing fails"
     },
     {
       "id": 264,
       "character": "針",
       "pinyin": "zhēn",
       "tone": 1,
-      "meaning": "Needle",
-      "story": "The gold takes the shape of needle, singing \"Zhen!\" cheerfully!",
-      "primitives": []
+      "meaning": "needle",
+      "mnemonic_image": "Metal shaped to a fine point - instrument of precision and pain",
+      "sound_bridge": "JEN = 'JEN-tle or painful prick'",
+      "story": "The King threatens him with a NEEDLE — torture by acupuncture. I SING 'ZHEEEEN...' — the sustained threat of thin metal. Ten points of pain, precisely placed. Still the lord refuses.",
+      "tone_emotion": "SING - sustained threat of piercing pain",
+      "primitives": ["gold/metal 金", "ten 十"],
+      "narrative_position": "The threat — needle torture promised"
     },
     {
       "id": 265,
       "character": "釘",
       "pinyin": "dīng",
       "tone": 1,
-      "meaning": "Nail",
-      "story": "The gold and nail unite to create nail, singing \"Ding!\" cheerfully!",
-      "primitives": []
+      "meaning": "nail",
+      "mnemonic_image": "Metal hammered straight - fastening things permanently",
+      "sound_bridge": "DING = 'DING-dong, nail through board!'",
+      "story": "The King hammers a NAIL through the game board. I SING 'DIIING...' — the sustained ring of metal on metal. The nail shape in gold — something fixed permanently. The board is ruined, the King's frustration complete.",
+      "tone_emotion": "SING - sustained ring of frustrated hammering",
+      "primitives": ["gold/metal 金", "fourth/nail 丁"],
+      "narrative_position": "The frustration — destroying what he created"
     },
     {
       "id": 266,
       "character": "銘",
       "pinyin": "míng",
       "tone": 2,
-      "meaning": "Inscription",
-      "story": "The gold inscription read \"Ming?\" - questioning what it said.",
-      "primitives": []
+      "meaning": "inscription",
+      "mnemonic_image": "A name carved in metal - words that last forever",
+      "sound_bridge": "MING = 'MING-led words forever?!'",
+      "story": "On it, he carves an INSCRIPTION: 'This game will destroy us all.' I GASP 'MING?!' — such dark prophecy made permanent? Gold meets name — words carved in metal last forever. The warning will outlive them all.",
+      "tone_emotion": "GASP - rising realization of permanent warning",
+      "primitives": ["gold/metal 金", "name 名"],
+      "narrative_position": "The prophecy — permanent warning carved"
     },
     {
       "id": 267,
@@ -241,8 +350,12 @@
       "pinyin": "zhèn",
       "tone": 4,
       "meaning": "at ease",
-      "story": "\"Jen, calm down!\" The real gold helped him feel at ease.",
-      "primitives": []
+      "mnemonic_image": "True metal that calms - the weight that settles everything",
+      "sound_bridge": "JEN = 'JEN-uine peace at last!'",
+      "story": "Then he sits back, suddenly AT EASE. 'ZHEN!' the calm COMMANDS the room. True metal — the real thing — brings weight and settling. Having inscribed his warning, the King finds peace. Some games are meant to be lost.",
+      "tone_emotion": "COMMAND - sharp arrival of unexpected peace",
+      "primitives": ["gold/metal 金", "true 真"],
+      "narrative_position": "The ending — peace through acceptance"
     }
   ]
 }
