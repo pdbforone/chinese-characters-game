@@ -56,9 +56,17 @@ const TONE_EMOTIONS = {
   },
 };
 
-// Get image path for a character
-function getCharacterImagePath(lessonNumber: number, characterId: number, pinyin: string): string {
-  // Format: /images/lesson1/1_yi.png
+// Get image paths for a character (returns primary and fallback paths)
+function getCharacterImagePaths(
+  lessonNumber: number,
+  characterId: number,
+  pinyin: string,
+  character: string
+): { primary: string; fallback: string } {
+  // Primary format (lessons 9+): /images/lesson9/里.png (character-based)
+  const primaryPath = `/images/lesson${lessonNumber}/${character}.png`;
+
+  // Fallback format (lesson 1-8): /images/lesson1/1_yi.png (id_pinyin-based)
   const pinyinClean = pinyin.replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]/g, (match) => {
     const map: Record<string, string> = {
       ā: 'a',
@@ -88,7 +96,9 @@ function getCharacterImagePath(lessonNumber: number, characterId: number, pinyin
     };
     return map[match] || match;
   });
-  return `/images/lesson${lessonNumber}/${characterId}_${pinyinClean}.png`;
+  const fallbackPath = `/images/lesson${lessonNumber}/${characterId}_${pinyinClean}.png`;
+
+  return { primary: primaryPath, fallback: fallbackPath };
 }
 
 export default function CharacterIntroduction({
@@ -100,7 +110,7 @@ export default function CharacterIntroduction({
   // Start at narrative intro (-1) only if we have a narrative story, otherwise start at 0
   const [currentIndex, setCurrentIndex] = useState(() => (lessonData?.narrative_story ? -1 : 0));
   const [isPlayingAudio, setIsPlayingAudio] = useState(false);
-  const [imageError, setImageError] = useState<Record<number, boolean>>({});
+  const [imageError, setImageError] = useState<Record<number, 'none' | 'primary' | 'both'>>({});
 
   const isNarrativeIntro = currentIndex === -1;
   const isLastCard = currentIndex === characters.length;
@@ -312,8 +322,20 @@ export default function CharacterIntroduction({
   }
 
   const toneInfo = getToneInfo(currentChar.tone);
-  const imagePath = getCharacterImagePath(lessonNumber, currentChar.id, currentChar.pinyin);
-  const hasImage = !imageError[currentChar.id];
+  const imagePaths = getCharacterImagePaths(
+    lessonNumber,
+    currentChar.id,
+    currentChar.pinyin,
+    currentChar.character
+  );
+  const errorState = imageError[currentChar.id] || 'none';
+  const imagePath =
+    errorState === 'none'
+      ? imagePaths.primary
+      : errorState === 'primary'
+        ? imagePaths.fallback
+        : '';
+  const hasImage = errorState !== 'both';
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-stone-100 to-stone-200 flex items-center justify-center p-4">
@@ -350,7 +372,12 @@ export default function CharacterIntroduction({
                     alt={`Mnemonic image for ${currentChar.character}`}
                     fill
                     className="object-contain"
-                    onError={() => setImageError((prev) => ({ ...prev, [currentChar.id]: true }))}
+                    onError={() =>
+                      setImageError((prev) => ({
+                        ...prev,
+                        [currentChar.id]: prev[currentChar.id] === 'primary' ? 'both' : 'primary',
+                      }))
+                    }
                   />
                 </div>
               ) : (

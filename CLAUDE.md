@@ -19,6 +19,9 @@ This document is the **philosophical foundation** of the Chinese Characters Lear
 8. [Performance & Optimization](#performance--optimization)
 9. [Data Integrity](#data-integrity)
 10. [AI Collaboration Guidelines](#ai-collaboration-guidelines)
+11. [Lesson Enhancement Workflow](#lesson-enhancement-workflow)
+12. [Image Upload Instructions](#image-upload-instructions)
+13. [Project Status](#project-status)
 
 ---
 
@@ -605,6 +608,161 @@ A change to `GameBoard.tsx` might affect:
 - Tests in `GameBoard.test.tsx`
 
 Trace dependencies before committing.
+
+---
+
+## Lesson Enhancement Workflow
+
+### The Gold Standard: Enhanced Lesson Structure
+
+Each lesson should be enhanced with the following structure. **Lesson 1, 9, and 10 are the current gold standard** — use them as reference.
+
+#### Lesson-Level Metadata
+
+```json
+{
+  "lesson": 9,
+  "title": "The Black Ink Banquet",
+  "theme": "A secret underground banquet where scholars gather to copy forbidden manuscripts...",
+  "memory_palace": "The Secret Cave Banquet Hall",
+  "narrative_arc": "Journey measured → Quantity calculated → Entrance buried → ...",
+  "narrative_story": "In a cave buried a thousand Li away, they hold a banquet where you eat only ink...",
+  "characters": [...]
+}
+```
+
+#### Character-Level Enhancement
+
+Each character should have these fields:
+
+```json
+{
+  "id": 169,
+  "character": "里",
+  "pinyin": "lǐ",
+  "tone": 3,
+  "meaning": "a Li (distance unit)",
+  "mnemonic_image": "A field atop soil - the earth measured in walking distances",
+  "sound_bridge": "LEE = 'LEE-aning under the weight of endless distance'",
+  "story": "The journey measures one LI — then another, then a thousand. I GROAN 'Liii...' as my legs sink into field after field...",
+  "tone_emotion": "GROAN - guttural weight of the endless journey",
+  "primitives": ["field 田", "earth 土"],
+  "narrative_position": "The journey begins — measuring the impossible distance to the cave"
+}
+```
+
+### Tone-Emotion System
+
+The tone-emotion mapping is central to the mnemonic system:
+
+| Tone | Emotion     | Description                   | Color   |
+| ---- | ----------- | ----------------------------- | ------- |
+| 1    | **SING**    | Sustained high note, operatic | Blue    |
+| 2    | **GASP**    | Rising surprise, questioning  | Emerald |
+| 3    | **GROAN**   | Low zombie moan, dipping      | Amber   |
+| 4    | **COMMAND** | Sharp bark, falling           | Red     |
+| 5    | whisper     | Neutral, unstressed           | Gray    |
+
+### Key Reference Files
+
+- **Official Narrative Prose:** `lesson_stories_prose.md` — Contains the official story for each lesson. Always reference this when enhancing a lesson.
+- **Neo-Gongbi Prompting Guide:** `docs/neo-gongbi-prompting-guide.md` — Research synthesis for generating character images with Nano Banana (Google Gemini).
+- **Lesson Plans:** `docs/lessonX-revision-plan.md` — Detailed enhancement plans for each lesson.
+- **Image Prompts:** `docs/lessonX-image-prompts.md` — Neo-Gongbi prompts for generating all character images.
+
+---
+
+## Image Upload Instructions
+
+### Naming Convention
+
+Images should be named by the **Chinese character** they represent:
+
+```
+public/images/lesson9/里.png
+public/images/lesson9/量.png
+public/images/lesson10/木.png
+public/images/lesson10/林.png
+```
+
+The system supports two naming formats (tries in order):
+
+1. **Primary (recommended):** `{character}.png` — e.g., `里.png`
+2. **Fallback (legacy):** `{id}_{pinyin}.png` — e.g., `169_li.png`
+
+### Directory Structure
+
+```
+public/images/
+├── lesson1/          # Legacy format: 1_yi.png, 2_er.png, etc.
+├── lesson9/          # New format: 里.png, 量.png, etc.
+├── lesson10/         # New format: 木.png, 林.png, etc.
+└── lessonN/          # Create as needed
+```
+
+### Image Requirements
+
+- **Format:** PNG (transparent background preferred)
+- **Style:** Neo-Gongbi (see `docs/neo-gongbi-prompting-guide.md`)
+- **Content:** The Chinese character must be clearly visible and integrated into the scene
+- **Naming:** Use the exact Chinese character as filename
+
+### Upload Checklist
+
+When uploading images for a lesson:
+
+1. Create directory: `public/images/lessonX/`
+2. Name each image: `{character}.png`
+3. Verify count matches lesson character count
+4. Alternate versions can be saved as `{character}_alt.png` or `{character} try.png`
+
+### Verification Command
+
+To verify all images are present for a lesson:
+
+```bash
+# List main images (excluding alternates)
+ls public/images/lessonX/ | grep -v "try" | grep -v "_alt" | grep "\.png$" | wc -l
+
+# Compare against lesson character count
+cat lib/data/lessonX.json | jq '.characters | length'
+```
+
+---
+
+## Project Status
+
+### Completed Lessons (Gold Standard)
+
+| Lesson | Title                          | Characters | Images | Status   |
+| ------ | ------------------------------ | ---------- | ------ | -------- |
+| 1      | (Numbers & Basics)             | 27         | ✓ 27   | Complete |
+| 9      | The Black Ink Banquet          | 22         | ✓ 22   | Complete |
+| 10     | The Forest of Dim-Witted Trees | 32         | ✓ 32   | Complete |
+
+### Lesson Enhancement Process
+
+For each lesson, follow these steps:
+
+1. **Read the official prose** from `lesson_stories_prose.md`
+2. **Create revision plan** at `docs/lessonX-revision-plan.md`
+3. **Enhance JSON data** at `lib/data/lessonX.json` with all character fields
+4. **Create image prompts** at `docs/lessonX-image-prompts.md`
+5. **Generate images** using Nano Banana with the prompts
+6. **Upload images** to `public/images/lessonX/` using character names
+7. **Verify** all images load correctly
+
+### Neo-Gongbi Image Generation
+
+Images are generated using the **Neo-Gongbi** style via **Nano Banana** (Google Gemini). The prompting follows a 5-step "Director's Brief" structure:
+
+1. **Style Anchor** — "In the style of Neo-Gongbi..."
+2. **Narrative Context** — Scene description with emotional tone
+3. **Shape Constraint** — Where/how the character appears
+4. **Material Justification** — Why the shape exists naturally in the scene
+5. **Technical Specs** — Aspect ratio, lighting, atmosphere
+
+See `docs/neo-gongbi-prompting-guide.md` for complete guidance.
 
 ---
 
