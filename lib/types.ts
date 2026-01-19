@@ -39,9 +39,31 @@ export interface GameStats {
 
 export type GameMode = 'story-to-character' | 'character-to-story' | 'character-to-pinyin';
 
+// Mastery Tier game modes (Sprint 2-3)
+export type MasteryGameMode = 'story-mason' | 'story-detective';
+
 export interface RoundProgress {
   currentRound: number;
   totalRounds: number;
   mode: GameMode;
   roundScores: number[];
+}
+
+// Lesson completion status for the tiered progression system
+// - locked: Not yet available (future: unlock based on previous lesson)
+// - unlocked: Available to play
+// - completed: Core rounds (1-4) finished with 70%+ accuracy (Silver)
+// - mastered: Mastery tier (Story Mason + Detective) finished (Gold)
+export type LessonStatus = 'locked' | 'unlocked' | 'completed' | 'mastered';
+
+// Round tracking for both Core and Mastery tiers
+export interface RoundScores {
+  // Core rounds (1-4)
+  round1?: number;
+  round2?: number;
+  round3?: number;
+  round4?: number;
+  // Mastery rounds (5-6)
+  storyMason?: number;
+  storyDetective?: number;
 }

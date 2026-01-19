@@ -3,7 +3,12 @@
 import Link from 'next/link';
 import { useMemo } from 'react';
 import { getAllLessonsMetadata } from '@/lib/lessonLoader';
-import { getLessonProgress, type LessonProgress } from '@/lib/storage';
+import {
+  getLessonProgress,
+  getLessonDisplayStatus,
+  lessonSupportsMastery,
+  type LessonProgress,
+} from '@/lib/storage';
 import { getMasteryStats } from '@/lib/spacedRepetition';
 import UserStatsPanel from './components/UserStatsPanel';
 
@@ -206,19 +211,45 @@ export default function Home() {
               ? Math.round(progress.bestAccuracy * 100)
               : 0;
             const isStarted = progress?.gamesPlayed > 0 || progress?.introductionCompleted;
+            const displayStatus = getLessonDisplayStatus(progress);
+            const supportsMastery = lessonSupportsMastery(lesson.lessonNumber);
 
             return (
               <Link key={lesson.lessonNumber} href={`/lesson/${lesson.lessonNumber}`}>
-                <div className="group relative bg-white rounded-xl p-5 shadow-md hover:shadow-2xl transition-all duration-300 border-2 border-gray-100 hover:border-indigo-300 hover:-translate-y-1 cursor-pointer overflow-hidden">
-                  {/* Background decoration */}
-                  <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-full -mr-12 -mt-12 opacity-50 group-hover:opacity-100 transition-opacity" />
+                <div
+                  className={`group relative bg-white rounded-xl p-5 shadow-md hover:shadow-2xl transition-all duration-300 border-2 hover:-translate-y-1 cursor-pointer overflow-hidden ${
+                    displayStatus.color === 'gold'
+                      ? 'border-amber-300 hover:border-amber-400'
+                      : displayStatus.color === 'silver'
+                        ? 'border-gray-300 hover:border-gray-400'
+                        : 'border-gray-100 hover:border-indigo-300'
+                  }`}
+                >
+                  {/* Background decoration - gold/silver tint for completed/mastered */}
+                  <div
+                    className={`absolute top-0 right-0 w-24 h-24 rounded-full -mr-12 -mt-12 opacity-50 group-hover:opacity-100 transition-opacity ${
+                      displayStatus.color === 'gold'
+                        ? 'bg-gradient-to-br from-amber-100 to-yellow-200'
+                        : displayStatus.color === 'silver'
+                          ? 'bg-gradient-to-br from-gray-100 to-gray-200'
+                          : 'bg-gradient-to-br from-blue-100 to-indigo-100'
+                    }`}
+                  />
 
                   {/* Content */}
                   <div className="relative z-10">
                     {/* Lesson number */}
                     <div className="flex items-center justify-between mb-3">
                       <div className="flex items-center gap-2">
-                        <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-lg flex items-center justify-center text-white font-bold shadow-md">
+                        <div
+                          className={`w-10 h-10 rounded-lg flex items-center justify-center text-white font-bold shadow-md ${
+                            displayStatus.color === 'gold'
+                              ? 'bg-gradient-to-br from-amber-400 to-yellow-500'
+                              : displayStatus.color === 'silver'
+                                ? 'bg-gradient-to-br from-gray-400 to-gray-500'
+                                : 'bg-gradient-to-br from-blue-500 to-indigo-600'
+                          }`}
+                        >
                           {lesson.lessonNumber}
                         </div>
                         <div>
@@ -227,12 +258,23 @@ export default function Home() {
                         </div>
                       </div>
 
-                      {/* Status badge */}
-                      {isStarted && (
+                      {/* Status badge - Silver/Gold or percentage */}
+                      {displayStatus.color !== 'none' ? (
+                        <div
+                          className={`text-sm font-semibold px-2 py-1 rounded-full flex items-center gap-1 ${
+                            displayStatus.color === 'gold'
+                              ? 'bg-amber-100 text-amber-700'
+                              : 'bg-gray-100 text-gray-600'
+                          }`}
+                        >
+                          <span>{displayStatus.icon}</span>
+                          <span className="text-xs">{displayStatus.label}</span>
+                        </div>
+                      ) : isStarted ? (
                         <div className="text-xs font-semibold px-2 py-1 bg-green-100 text-green-700 rounded-full">
                           {completionPercentage}%
                         </div>
-                      )}
+                      ) : null}
                     </div>
 
                     {/* Characters preview */}
@@ -251,13 +293,28 @@ export default function Home() {
                         </div>
                         <div className="w-full bg-gray-200 rounded-full h-2">
                           <div
-                            className="bg-gradient-to-r from-green-400 to-green-500 h-full rounded-full transition-all duration-500"
+                            className={`h-full rounded-full transition-all duration-500 ${
+                              displayStatus.color === 'gold'
+                                ? 'bg-gradient-to-r from-amber-400 to-yellow-500'
+                                : displayStatus.color === 'silver'
+                                  ? 'bg-gradient-to-r from-gray-400 to-gray-500'
+                                  : 'bg-gradient-to-r from-green-400 to-green-500'
+                            }`}
                             style={{ width: `${completionPercentage}%` }}
                           />
                         </div>
-                        <p className="text-xs text-gray-500">
-                          {progress.gamesPlayed} game{progress.gamesPlayed !== 1 ? 's' : ''} played
-                        </p>
+                        <div className="flex justify-between items-center">
+                          <p className="text-xs text-gray-500">
+                            {progress.gamesPlayed} game{progress.gamesPlayed !== 1 ? 's' : ''}{' '}
+                            played
+                          </p>
+                          {/* Mastery available indicator */}
+                          {supportsMastery && displayStatus.color === 'silver' && (
+                            <span className="text-xs text-amber-600 font-medium">
+                              Mastery available
+                            </span>
+                          )}
+                        </div>
                       </div>
                     )}
 
@@ -267,6 +324,9 @@ export default function Home() {
                         <span className="text-sm font-semibold text-indigo-600 group-hover:text-indigo-700">
                           Start Learning →
                         </span>
+                        {supportsMastery && (
+                          <p className="text-xs text-amber-600 mt-1">Mastery tier available</p>
+                        )}
                       </div>
                     )}
                   </div>
