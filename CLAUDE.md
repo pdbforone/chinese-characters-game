@@ -706,6 +706,16 @@ public/images/
 - **Style:** Neo-Gongbi (see `docs/neo-gongbi-prompting-guide.md`)
 - **Content:** The Chinese character must be clearly visible and integrated into the scene
 - **Naming:** Use the exact Chinese character as filename
+- **Size:** Images are auto-compressed by GitHub Action on push (target: <2MB each)
+
+### Auto-Compression
+
+A GitHub Action (`.github/workflows/compress-images.yml`) automatically compresses images when pushed:
+
+- **Trigger:** Any push to `public/images/**/*.png`
+- **Tool:** pngquant with quality 65-80
+- **Threshold:** Only compresses files >2MB
+- **Manual:** Can also be triggered via Actions tab → "Compress Images" → Run workflow
 
 ### Upload Checklist
 
@@ -734,11 +744,18 @@ cat lib/data/lessonX.json | jq '.characters | length'
 
 ### Completed Lessons (Gold Standard)
 
-| Lesson | Title                          | Characters | Images | Status   |
-| ------ | ------------------------------ | ---------- | ------ | -------- |
-| 1      | (Numbers & Basics)             | 27         | ✓ 27   | Complete |
-| 9      | The Black Ink Banquet          | 22         | ✓ 22   | Complete |
-| 10     | The Forest of Dim-Witted Trees | 32         | ✓ 32   | Complete |
+| Lesson | Title                          | Characters | Images         | Status        |
+| ------ | ------------------------------ | ---------- | -------------- | ------------- |
+| 1      | (Numbers & Basics)             | 27         | Removed (temp) | Data complete |
+| 9      | The Black Ink Banquet          | 22         | ✓ 22           | Complete      |
+| 10     | The Forest of Dim-Witted Trees | 32         | ✓ 32           | Complete      |
+| 11     | The Mouth at the Gate          | 21         | Pending        | Data complete |
+| 12     | The Eye That Saw Too Much      | 29         | Pending        | Data complete |
+| 13     | The Shell Game of Value        | 21         | Pending        | Data complete |
+| 14     | The Hand's Journey             | 24         | Pending        | Data complete |
+| 15     | The Heart's Fortress           | 21         | Pending        | Data complete |
+
+_Note: Lesson 1 images temporarily removed to reduce repo size. Can be re-added later._
 
 ### Lesson Enhancement Process
 
