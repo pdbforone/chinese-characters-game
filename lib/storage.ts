@@ -254,9 +254,9 @@ export function saveRoundScore(
  * Returns true if lesson has narrative_position data on characters
  */
 export function lessonSupportsMastery(lessonId: number): boolean {
-  // For MVP, only lessons 11-15 have full narrative enhancement
-  // This can be expanded as more lessons are enhanced
-  return lessonId >= 11 && lessonId <= 15;
+  // Lessons with full narrative enhancement
+  // Lesson 9-15 have the enhanced data structure
+  return lessonId >= 9 && lessonId <= 15;
 }
 
 /**
