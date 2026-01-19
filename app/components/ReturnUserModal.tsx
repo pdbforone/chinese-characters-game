@@ -7,6 +7,10 @@ interface ReturnUserModalProps {
   gamesPlayed: number;
   onReview: () => void;
   onStartGame: () => void;
+  // Mastery tier props
+  supportsMastery?: boolean;
+  isMastered?: boolean;
+  onStartMastery?: () => void;
 }
 
 export default function ReturnUserModal({
@@ -16,6 +20,9 @@ export default function ReturnUserModal({
   gamesPlayed,
   onReview,
   onStartGame,
+  supportsMastery = false,
+  isMastered = false,
+  onStartMastery,
 }: ReturnUserModalProps) {
   const getStarRating = (accuracy: number): string => {
     if (accuracy >= 90) return '⭐⭐⭐';
@@ -85,6 +92,28 @@ export default function ReturnUserModal({
               <div className="text-sm text-blue-100">Jump straight to the challenge</div>
             </div>
           </button>
+
+          {/* Mastery option for supported lessons */}
+          {supportsMastery && onStartMastery && (
+            <button
+              onClick={onStartMastery}
+              className={`w-full font-semibold py-4 px-6 rounded-lg transition-all shadow-md hover:shadow-lg flex items-center justify-center gap-3 ${
+                isMastered
+                  ? 'bg-gradient-to-r from-amber-400 to-yellow-500 hover:from-amber-500 hover:to-yellow-600 text-white'
+                  : 'bg-gradient-to-r from-amber-500 to-yellow-500 hover:from-amber-600 hover:to-yellow-600 text-white'
+              }`}
+            >
+              <span className="text-2xl">★</span>
+              <div className="text-left">
+                <div className="font-bold">
+                  {isMastered ? 'Replay Mastery Games' : 'Master This Lesson'}
+                </div>
+                <div className="text-sm text-amber-100">
+                  {isMastered ? 'Story Mason completed' : 'Story Mason - rebuild the narrative'}
+                </div>
+              </div>
+            </button>
+          )}
         </div>
 
         {/* Helpful Tip */}

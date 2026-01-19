@@ -178,6 +178,9 @@ export default function LessonPage() {
           gamesPlayed={progress.gamesPlayed}
           onReview={handleReviewCharacters}
           onStartGame={handleStartGame}
+          supportsMastery={supportsMastery}
+          isMastered={progress.status === 'mastered'}
+          onStartMastery={handleContinueToMastery}
         />
       </div>
     );

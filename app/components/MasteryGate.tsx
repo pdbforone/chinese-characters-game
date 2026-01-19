@@ -80,7 +80,7 @@ export default function MasteryGate({
                   <h3 className="font-bold text-blue-800 mb-1">Great Progress!</h3>
                   <p className="text-sm text-blue-700 leading-relaxed">
                     You&apos;ve completed the core rounds. Mastery tier is available for lessons
-                    11-15.
+                    9-15.
                   </p>
                 </div>
               </div>
