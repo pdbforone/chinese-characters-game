@@ -23,6 +23,11 @@ describe('storage utilities', () => {
         bestScore: 0,
         bestAccuracy: 0,
         lastPlayed: expect.any(String),
+        // Mastery Tier fields
+        status: 'unlocked',
+        coreAccuracy: 0,
+        masteryAccuracy: undefined,
+        rounds: {},
       });
     });
 
