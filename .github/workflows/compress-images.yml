@@ -1,0 +1,83 @@
+name: Compress Images
+
+on:
+  push:
+    paths:
+      - 'public/images/**/*.png'
+  workflow_dispatch:
+    inputs:
+      lesson:
+        description: 'Lesson number to compress (e.g., 11) or "all"'
+        required: false
+        default: 'all'
+
+jobs:
+  compress:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pngquant
+        run: sudo apt-get update && sudo apt-get install -y pngquant
+
+      - name: Compress images
+        run: |
+          # Determine which images to compress
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ "${{ github.event.inputs.lesson }}" = "all" ]; then
+              PATTERN="public/images/**/*.png"
+            else
+              PATTERN="public/images/lesson${{ github.event.inputs.lesson }}/*.png"
+            fi
+          else
+            # On push, compress only changed files
+            PATTERN="public/images/**/*.png"
+          fi
+
+          echo "Compressing images matching: $PATTERN"
+
+          # Find and compress PNG files
+          find public/images -name "*.png" -type f | while read file; do
+            # Get original size
+            original_size=$(stat -f%z "$file" 2>/dev/null || stat -c%s "$file")
+
+            # Skip if already small (< 2MB)
+            if [ "$original_size" -lt 2097152 ]; then
+              echo "Skipping $file (already ${original_size} bytes)"
+              continue
+            fi
+
+            echo "Compressing $file (${original_size} bytes)..."
+
+            # Compress with pngquant (lossy but high quality)
+            pngquant --quality=65-80 --ext .png --force "$file" 2>/dev/null || true
+
+            # Get new size
+            new_size=$(stat -f%z "$file" 2>/dev/null || stat -c%s "$file")
+            savings=$((original_size - new_size))
+
+            echo "  Compressed: ${new_size} bytes (saved ${savings} bytes)"
+          done
+
+      - name: Commit compressed images
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Check if there are changes
+          if git diff --quiet public/images/; then
+            echo "No images were compressed (all already optimized)"
+            exit 0
+          fi
+
+          git add public/images/
+          git commit -m "chore: Auto-compress images via GitHub Action
+
+          Compressed PNG images to reduce repository size.
+          Uses pngquant with quality 65-80 for optimal size/quality balance."
+
+          git push
