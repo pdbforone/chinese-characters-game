@@ -48,6 +48,31 @@ const config: Config = {
     // Header backgrounds
     'bg-slate-800', 'bg-violet-950/80', 'bg-stone-900/80', 'bg-emerald-950/80',
     'bg-rose-950/80', 'bg-yellow-950/80', 'bg-cyan-950/80', 'bg-orange-950/80', 'bg-red-950/80',
+    // Lesson 16-21 theme classes
+    // Lesson 16: Iron City (zinc/slate)
+    'from-zinc-950', 'to-stone-950', 'bg-zinc-900/60', 'border-zinc-700/50',
+    'text-zinc-100', 'text-zinc-300', 'text-zinc-400', 'from-zinc-500', 'to-slate-500',
+    'from-zinc-600', 'to-slate-600', 'bg-zinc-900/80', 'bg-slate-500/20', 'border-slate-500/50',
+    // Lesson 17: Political Labyrinth (slate/blue)
+    'from-slate-950', 'via-blue-950', 'to-gray-950', 'bg-slate-900/60', 'border-blue-900/50',
+    'text-slate-100', 'text-blue-100', 'text-blue-200', 'text-blue-300/70', 'from-blue-600',
+    'from-blue-700', 'to-slate-700', 'bg-slate-900/80', 'bg-blue-500/20', 'border-blue-500/50', 'text-blue-400',
+    // Lesson 18: Sky Tailor Workshop (sky/indigo)
+    'from-sky-950', 'via-indigo-950', 'to-violet-950', 'bg-sky-950/50', 'border-sky-800/50',
+    'text-sky-50', 'text-sky-100', 'text-sky-200', 'text-sky-300/70', 'from-sky-500', 'to-indigo-500',
+    'from-sky-600', 'to-indigo-600', 'bg-sky-950/80', 'bg-indigo-500/20', 'border-indigo-500/50', 'text-indigo-400',
+    // Lesson 19: Sound Mirror Temple (purple/fuchsia)
+    'from-purple-950', 'via-fuchsia-950', 'bg-purple-950/50', 'border-purple-800/50',
+    'text-purple-50', 'text-purple-100', 'text-purple-200', 'text-purple-300/70',
+    'from-purple-500', 'from-purple-600', 'bg-purple-950/80',
+    // Lesson 20: Serpent's Pond (green/lime)
+    'from-green-950', 'via-lime-950', 'to-emerald-950', 'bg-green-950/50', 'border-green-800/50',
+    'text-green-50', 'text-green-100', 'text-green-200', 'text-green-300/70', 'from-green-500', 'to-lime-500',
+    'from-green-600', 'to-lime-600', 'bg-green-950/80',
+    // Lesson 21: Forgetting Factory (gray/neutral)
+    'from-gray-950', 'via-neutral-900', 'bg-gray-900/60', 'border-gray-700/50',
+    'text-gray-100', 'text-gray-300', 'text-gray-400', 'from-gray-500', 'to-neutral-500',
+    'from-gray-600', 'to-neutral-600', 'bg-gray-900/80', 'bg-neutral-500/20', 'border-neutral-500/50', 'text-neutral-400',
   ],
   theme: {
     extend: {
