@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from 'react';
 import { Character, LessonData } from '@/lib/types';
+import { getLessonTheme } from '@/lib/lessonThemes';
 
 interface ToneRecallProps {
   characters: Character[];
@@ -72,6 +73,9 @@ export default function ToneRecall({
   onComplete,
   onBack,
 }: ToneRecallProps) {
+  // Get lesson-specific theme
+  const theme = getLessonTheme(lessonNumber);
+
   // Shuffle characters once on mount using useState lazy initializer
   // This is the React-approved pattern for one-time initialization with side effects
   const [shuffledCharacters] = useState<Character[]>(() => {
@@ -225,30 +229,30 @@ export default function ToneRecall({
     timerPercent > 50 ? 'bg-green-500' : timerPercent > 25 ? 'bg-yellow-500' : 'bg-red-500';
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 to-slate-800 p-4">
+    <div className={`min-h-screen bg-gradient-to-br ${theme.bgGradient} p-4`}>
       <div className="max-w-lg mx-auto">
         {/* Header */}
         <div className="mb-6">
           {onBack && (
             <button
               onClick={onBack}
-              className="text-slate-400 hover:text-white font-medium mb-4 flex items-center gap-2 transition-colors"
+              className={`${theme.textMuted} hover:${theme.textPrimary} font-medium mb-4 flex items-center gap-2 transition-colors`}
             >
               ← Back
             </button>
           )}
 
-          <div className="bg-slate-800 rounded-xl p-4 shadow-lg border border-slate-700">
+          <div className={`${theme.headerBg} rounded-xl p-4 shadow-lg border ${theme.cardBorder}`}>
             <div className="flex items-center justify-between">
               <div>
-                <h1 className="text-xl font-bold text-white">Tone Recall</h1>
-                <p className="text-sm text-slate-400">
+                <h1 className={`text-xl font-bold ${theme.headerText}`}>Tone Recall</h1>
+                <p className={`text-sm ${theme.textMuted}`}>
                   Lesson {lessonNumber}: {lessonData.title}
                 </p>
               </div>
               {streak > 0 && (
-                <div className="bg-amber-500/20 border border-amber-500/50 rounded-lg px-3 py-1">
-                  <span className="text-amber-400 font-bold">{streak}x</span>
+                <div className={`${theme.streakBg} border rounded-lg px-3 py-1`}>
+                  <span className={`${theme.streakText} font-bold`}>{streak}x</span>
                 </div>
               )}
             </div>
@@ -257,15 +261,15 @@ export default function ToneRecall({
 
         {/* Progress */}
         <div className="mb-6">
-          <div className="flex justify-between text-sm text-slate-400 mb-1">
+          <div className={`flex justify-between text-sm ${theme.textMuted} mb-1`}>
             <span>
               {currentIndex + 1} / {shuffledCharacters.length}
             </span>
             <span>{correctCount} correct</span>
           </div>
-          <div className="h-2 bg-slate-700 rounded-full overflow-hidden">
+          <div className={`h-2 ${theme.cardBg} rounded-full overflow-hidden`}>
             <div
-              className="h-full bg-gradient-to-r from-indigo-500 to-purple-500 transition-all duration-300"
+              className={`h-full bg-gradient-to-r ${theme.accentPrimary} transition-all duration-300`}
               style={{ width: `${progress}%` }}
             />
           </div>
@@ -274,7 +278,7 @@ export default function ToneRecall({
         {/* Timer bar */}
         {!showResult && (
           <div className="mb-6">
-            <div className="h-2 bg-slate-700 rounded-full overflow-hidden">
+            <div className={`h-2 ${theme.cardBg} rounded-full overflow-hidden`}>
               <div
                 className={`h-full ${timerColor} transition-all duration-50`}
                 style={{ width: `${timerPercent}%` }}
@@ -284,21 +288,25 @@ export default function ToneRecall({
         )}
 
         {/* Character display - BIG, no hints */}
-        <div className="bg-slate-800 rounded-2xl p-8 mb-6 shadow-lg border border-slate-700 text-center relative">
+        <div
+          className={`${theme.cardBg} rounded-2xl p-8 mb-6 shadow-lg border ${theme.cardBorder} text-center relative`}
+        >
           {/* Bonus animation */}
           {showBonus && (
             <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
-              <div className="text-4xl font-bold text-amber-400 animate-bounce">+BONUS!</div>
+              <div className={`text-4xl font-bold ${theme.streakText} animate-bounce`}>+BONUS!</div>
             </div>
           )}
 
-          <div className="text-9xl font-serif text-white mb-2">{currentCharacter.character}</div>
+          <div className={`text-9xl font-serif ${theme.textPrimary} mb-2`}>
+            {currentCharacter.character}
+          </div>
 
           {/* Only show info AFTER answer */}
           {showResult && (
             <div className="mt-4 space-y-2">
-              <p className="text-2xl text-slate-300">{currentCharacter.pinyin}</p>
-              <p className="text-lg text-slate-400">{currentCharacter.meaning}</p>
+              <p className={`text-2xl ${theme.textSecondary}`}>{currentCharacter.pinyin}</p>
+              <p className={`text-lg ${theme.textMuted}`}>{currentCharacter.meaning}</p>
             </div>
           )}
         </div>
@@ -374,14 +382,14 @@ export default function ToneRecall({
         {showResult && (
           <button
             onClick={handleNext}
-            className="w-full bg-gradient-to-r from-indigo-500 to-purple-500 hover:from-indigo-600 hover:to-purple-600 text-white font-bold py-4 px-6 rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl"
+            className={`w-full bg-gradient-to-r ${theme.accentPrimary} hover:${theme.accentSecondary} text-white font-bold py-4 px-6 rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl`}
           >
             {isLastCharacter ? 'See Results' : 'Next →'}
           </button>
         )}
 
         {/* Keyboard hint */}
-        <p className="text-center text-xs text-slate-500 mt-4">
+        <p className={`text-center text-xs ${theme.textMuted} mt-4`}>
           Press 1-4 to select • Enter to continue
         </p>
       </div>
