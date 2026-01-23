@@ -298,7 +298,7 @@ export default function ToneRecall({
             </div>
           )}
 
-          <div className={`text-9xl font-serif ${theme.textPrimary} mb-2`}>
+          <div className={`text-7xl sm:text-8xl md:text-9xl font-serif ${theme.textPrimary} mb-2`}>
             {currentCharacter.character}
           </div>
 
@@ -325,7 +325,7 @@ export default function ToneRecall({
                 onClick={() => handleSelectTone(emotion.tone)}
                 disabled={showResult}
                 className={`
-                  p-4 rounded-xl font-bold text-lg transition-all duration-200
+                  p-4 rounded-xl font-bold text-lg transition-all duration-200 min-h-[72px]
                   ${
                     showAsCorrect
                       ? `bg-gradient-to-r ${emotion.color} text-white ring-4 ring-white/50 scale-105`

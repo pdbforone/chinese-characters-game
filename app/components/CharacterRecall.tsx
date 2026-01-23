@@ -311,7 +311,7 @@ export default function CharacterRecall({
 
           {/* Pinyin - large and colored by tone */}
           <div
-            className={`text-6xl font-bold ${toneColors[currentCharacter.tone] || theme.textPrimary} mb-4`}
+            className={`text-5xl sm:text-6xl md:text-7xl font-bold ${toneColors[currentCharacter.tone] || theme.textPrimary} mb-4`}
           >
             {currentCharacter.pinyin}
           </div>
@@ -325,7 +325,7 @@ export default function CharacterRecall({
           {showResult && (
             <div className="mt-6 space-y-2">
               <div
-                className={`text-8xl font-serif ${isCorrect ? 'text-green-400' : 'text-amber-400'}`}
+                className={`text-6xl sm:text-7xl md:text-8xl font-serif ${isCorrect ? 'text-green-400' : 'text-amber-400'}`}
               >
                 {currentCharacter.character}
               </div>

@@ -306,7 +306,7 @@ export default function SoundRecall({
           )}
 
           <p className={`text-sm ${theme.textMuted} mb-2`}>What is the pinyin?</p>
-          <div className={`text-9xl font-serif ${theme.textPrimary} mb-2`}>
+          <div className={`text-7xl sm:text-8xl md:text-9xl font-serif ${theme.textPrimary} mb-2`}>
             {currentCharacter.character}
           </div>
 
