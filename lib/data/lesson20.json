@@ -1,5 +1,10 @@
 {
   "lesson": 20,
+  "title": "The Snake's Egg Breakfast",
+  "theme": "A serpent guards an egg by a pond, and the creatures of field and sky gather for an impossible feast",
+  "memory_palace": "The Serpent's Pond",
+  "narrative_arc": "Also present → She arrives → Ground established → Pond central → Insects buzz → Serpent coils → Egg protected → Wind blows → Mock the scene → Self-awareness → Altered plans → Memory awakens → Already begun → Wrapped in mystery → Bubbles rise → Beginning uncertain → House nearby → Site contested → Soup served → Sheep gather → Beautiful morning → Ocean distant → Fresh everything → Reaching shore → Appearance studied → Falling short → Gathering complete → Advancing forward → Standards set → Who decides? → Vending ends → Although uncertain → Reliable witness → Noon arrives → Permission granted → Feathers fall → Learning continues → Soaring above",
+  "narrative_story": "The serpent guarded the egg beside the pond, and all the creatures of field and sky came to watch. 'Also here,' said the insects, announcing their presence. She arrived at dawn — woman or spirit, no one knew. The ground beneath the pond was sacred. The pond was the center of everything. Insects buzzed their anticipation. The serpent coiled tighter. The egg must be protected at all costs. The wind blew cold warnings. Some came to mock the scene, calling it superstition. The serpent possessed a strange self-awareness. Plans were altered hourly. Memory awakened in the oldest watchers. Already the ritual had begun. Everything was wrapped in mystery. Bubbles rose from the pond's depths. The beginning was uncertain — had it ever not been happening? A house stood nearby, abandoned. The site was contested — who owned sacred ground? Soup was served to the pilgrims. Sheep gathered at the edges, curious. It was a beautiful morning for a mystery. The ocean lay distant but somehow present. Everything felt fresh, renewed. Some traveled far, reaching the shore with difficulty. Every appearance was studied for omens. Most found themselves falling short of understanding. The gathering was complete by midday. All were advancing forward in their understanding. Standards were set for proper worship. 'Who decides?' asked the skeptics. Vending at the site eventually ended. Although uncertain, the crowd stayed. Only a reliable witness could confirm what happened. Noon arrived with no resolution. Permission was granted to approach. Feathers fell from the sky. Learning would continue long after. Those who understood found themselves soaring above ordinary existence. The egg never hatched. The serpent never moved. The mystery remained. And that was the breakfast — unanswered questions served cold.",
   "characters": [
     {
       "id": 476,
@@ -7,8 +12,12 @@
       "pinyin": "yě",
       "tone": 3,
       "meaning": "also",
-      "story": "An striking symbol for also that whispers \"Yeh\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A flowing shape indicating addition — including more",
+      "sound_bridge": "YE = 'Yěěě... me too...' — low inclusion",
+      "story": "'ALSO here,' said the insects. 'Yěěě...' I GROAN the low inclusion. The flowing addition — everyone joins the gathering.",
+      "tone_emotion": "GROAN - low humble inclusion",
+      "primitives": ["also 也"],
+      "narrative_position": "The gathering — also present"
     },
     {
       "id": 477,
@@ -16,8 +25,12 @@
       "pinyin": "tā",
       "tone": 1,
       "meaning": "she",
-      "story": "The strokes unite to show she, singing \"Ta!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A woman also present — the feminine pronoun",
+      "sound_bridge": "TA = 'TAAA...' — sustained feminine",
+      "story": "SHE arrived at dawn. 'TAAA...' I SING the sustained arrival. Woman also — the mysterious she appears.",
+      "tone_emotion": "SING - sustained feminine presence",
+      "primitives": ["woman 女", "also 也"],
+      "narrative_position": "The arrival — she arrives at dawn"
     },
     {
       "id": 478,
@@ -25,8 +38,12 @@
       "pinyin": "dì",
       "tone": 4,
       "meaning": "Ground",
-      "story": "The earth stands for ground, shouting \"Dee!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Earth also — the foundation beneath",
+      "sound_bridge": "DI = 'DEE! Below!' — sharp foundation",
+      "story": "The GROUND beneath the pond was sacred. 'DI!' I COMMAND the sharp foundation. Earth also — ground establishes itself.",
+      "tone_emotion": "COMMAND - sharp grounding",
+      "primitives": ["earth 土", "also 也"],
+      "narrative_position": "The foundation — ground established"
     },
     {
       "id": 479,
@@ -34,8 +51,12 @@
       "pinyin": "chí",
       "tone": 2,
       "meaning": "Pond",
-      "story": "Like water, this character means pond and asks \"Chi? Deep?\"!",
-      "primitives": []
+      "mnemonic_image": "Water also — the contained waters",
+      "sound_bridge": "CHI = 'CHEE where?!' — rising location",
+      "story": "The POND was the center of everything. 'CHI?!' I GASP at rising importance. Water also — the pond takes center stage.",
+      "tone_emotion": "GASP - rising centrality of the pond",
+      "primitives": ["water 氵", "also 也"],
+      "narrative_position": "The center — pond as focus"
     },
     {
       "id": 480,
@@ -43,8 +64,12 @@
       "pinyin": "chóng",
       "tone": 2,
       "meaning": "Insects",
-      "story": "An striking symbol for insects that asks \"Chong? Where going?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Three creatures crawling — the multitude of insects",
+      "sound_bridge": "CHONG = 'CHOHNG all these?!' — rising swarm",
+      "story": "INSECTS buzzed their anticipation. 'CHONG?!' I GASP at rising multitude. Three creatures — the insects announce themselves.",
+      "tone_emotion": "GASP - rising buzzing presence",
+      "primitives": ["insect 虫", "insect 虫", "insect 虫"],
+      "narrative_position": "The witnesses — insects buzz"
     },
     {
       "id": 481,
@@ -52,8 +77,12 @@
       "pinyin": "shé",
       "tone": 2,
       "meaning": "Serpent",
-      "story": "A serpent insect also questions \"Shuh? Slithering?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "An insect stretched long — the snake's form",
+      "sound_bridge": "SHE = 'SHUH watching?!' — rising vigilance",
+      "story": "The SERPENT coiled tighter. 'SHE?!' I GASP at rising tension. Insect stretched — the snake guards its charge.",
+      "tone_emotion": "GASP - rising protective coiling",
+      "primitives": ["insect 虫", "it 它"],
+      "narrative_position": "The guardian — serpent coils"
     },
     {
       "id": 482,
@@ -61,8 +90,12 @@
       "pinyin": "dàn",
       "tone": 4,
       "meaning": "Egg",
-      "story": "\"Dan!\" the egg commanded as it finished hatching, an insect emerging.",
-      "primitives": []
+      "mnemonic_image": "An insect emerging from shell — birth potential",
+      "sound_bridge": "DAN = 'DAHN! Protect!' — sharp guardianship",
+      "story": "The EGG must be protected at all costs. 'DAN!' I COMMAND the sharp priority. Insect in shell — the egg holds mystery.",
+      "tone_emotion": "COMMAND - sharp protective instinct",
+      "primitives": ["insect 虫", "sparse 疋"],
+      "narrative_position": "The treasure — egg protected"
     },
     {
       "id": 483,
@@ -70,8 +103,12 @@
       "pinyin": "fēng",
       "tone": 1,
       "meaning": "the Wind",
-      "story": "This character represents the wind, singing \"Fung!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "Insects carried by air — the invisible force",
+      "sound_bridge": "FENG = 'FENNGGG...' — sustained blowing",
+      "story": "THE WIND blew cold warnings. 'FENNGGG...' I SING the sustained breeze. Insects sail — the wind carries omens.",
+      "tone_emotion": "SING - sustained wind blowing",
+      "primitives": ["insect 虫", "sail 凡"],
+      "narrative_position": "The omen — wind blows warnings"
     },
     {
       "id": 484,
@@ -79,8 +116,12 @@
       "pinyin": "fěng",
       "tone": 3,
       "meaning": "to mock",
-      "story": "Picture to mock taking form - it whispers \"Fung\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Words like wind — ridicule floating",
+      "sound_bridge": "FENG = 'Fěěěng... ridicule...' — low mockery",
+      "story": "Some came TO MOCK the scene. 'Fěěěng...' I GROAN the low derision. Words like wind — mockery blows through.",
+      "tone_emotion": "GROAN - low mocking tone",
+      "primitives": ["words 言", "wind 風"],
+      "narrative_position": "The skeptics — mockery arrives"
     },
     {
       "id": 485,
@@ -88,8 +129,12 @@
       "pinyin": "jǐ",
       "tone": 3,
       "meaning": "self",
-      "story": "A striking symbol for self that whispers \"Ji\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A curved form turning inward — self-reflection",
+      "sound_bridge": "JI = 'Jǐǐǐ... myself...' — low introspection",
+      "story": "The serpent possessed a strange SELF-awareness. 'Jǐǐǐ...' I GROAN the low reflection. The curve turns inward — self emerges.",
+      "tone_emotion": "GROAN - low self-awareness",
+      "primitives": ["self 己"],
+      "narrative_position": "The awareness — self recognized"
     },
     {
       "id": 486,
@@ -97,8 +142,12 @@
       "pinyin": "gǎi",
       "tone": 3,
       "meaning": "to alter",
-      "story": "Picture to alter taking form - it whispers \"Gai\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Self struck — change forced",
+      "sound_bridge": "GAI = 'Gǎǎǎi... changing...' — low transformation",
+      "story": "Plans were ALTERED hourly. 'Gǎǎǎi...' I GROAN the low change. Self is struck — alteration happens.",
+      "tone_emotion": "GROAN - low reluctant change",
+      "primitives": ["self 己", "strike 攵"],
+      "narrative_position": "The adjustment — plans altered"
     },
     {
       "id": 487,
@@ -106,8 +155,12 @@
       "pinyin": "jì",
       "tone": 4,
       "meaning": "to remember",
-      "story": "Picture to remember taking form - it shouts \"Ji!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Words of self — memory stored",
+      "sound_bridge": "JI = 'JEE! Recall!' — sharp memory",
+      "story": "MEMORY awakened in the oldest watchers. 'JI!' I COMMAND the sharp recall. Words of self — memory surfaces.",
+      "tone_emotion": "COMMAND - sharp memory retrieval",
+      "primitives": ["words 言", "self 己"],
+      "narrative_position": "The awakening — memory stirs"
     },
     {
       "id": 488,
@@ -115,8 +168,12 @@
       "pinyin": "yǐ",
       "tone": 3,
       "meaning": "already",
-      "story": "An striking symbol for already that whispers \"Yi\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Self completed — past established",
+      "sound_bridge": "YI = 'Yǐǐǐ... done...' — low completion",
+      "story": "ALREADY the ritual had begun. 'Yǐǐǐ...' I GROAN the low realization. Self finished — already in motion.",
+      "tone_emotion": "GROAN - low dawning awareness",
+      "primitives": ["already 已"],
+      "narrative_position": "The realization — already begun"
     },
     {
       "id": 489,
@@ -124,8 +181,12 @@
       "pinyin": "bāo",
       "tone": 1,
       "meaning": "to wrap",
-      "story": "\"Bao!\" he sang cheerfully, kneeling down to wrap and enclose the package himself.",
-      "primitives": []
+      "mnemonic_image": "Self enclosed — wrapping complete",
+      "sound_bridge": "BAO = 'BAOOO...' — sustained enclosure",
+      "story": "Everything was WRAPPED in mystery. 'BAOOO...' I SING the sustained covering. Self enclosed — mystery wrapped tight.",
+      "tone_emotion": "SING - sustained enveloping",
+      "primitives": ["wrap 勹", "self 己"],
+      "narrative_position": "The mystery — wrapped in questions"
     },
     {
       "id": 490,
@@ -133,8 +194,12 @@
       "pinyin": "pào",
       "tone": 4,
       "meaning": "Bubbles",
-      "story": "Like water, this character means bubbles and shouts \"Pao!\"!",
-      "primitives": []
+      "mnemonic_image": "Water wrapped — air captured",
+      "sound_bridge": "PAO = 'PAO! Pop!' — sharp burst",
+      "story": "BUBBLES rose from the pond's depths. 'PAO!' I COMMAND the sharp rising. Water wraps air — bubbles ascend.",
+      "tone_emotion": "COMMAND - sharp bubble burst",
+      "primitives": ["water 氵", "wrap 包"],
+      "narrative_position": "The signs — bubbles rise"
     },
     {
       "id": 491,
@@ -142,8 +207,12 @@
       "pinyin": "qǐ",
       "tone": 3,
       "meaning": "to begin",
-      "story": "Picture to begin taking form - it whispers \"Chi\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Self walking upward — starting motion",
+      "sound_bridge": "QI = 'Chǐǐǐ... starting...' — low initiation",
+      "story": "The BEGINNING was uncertain. 'Qǐǐǐ...' I GROAN the low start. Self walks — the beginning emerges.",
+      "tone_emotion": "GROAN - low uncertain beginning",
+      "primitives": ["walk 走", "self 己"],
+      "narrative_position": "The uncertainty — beginning unclear"
     },
     {
       "id": 492,
@@ -151,8 +220,12 @@
       "pinyin": "jiā",
       "tone": 1,
       "meaning": "House",
-      "story": "Like a roof, this character means house and sings \"Jia!\" - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A roof over pig — domestic dwelling",
+      "sound_bridge": "JIA = 'JIAAA...' — sustained home",
+      "story": "A HOUSE stood nearby, abandoned. 'JIAAA...' I SING the sustained structure. Roof over pig — home stands empty.",
+      "tone_emotion": "SING - sustained domestic presence",
+      "primitives": ["roof 宀", "pig 豕"],
+      "narrative_position": "The structure — house nearby"
     },
     {
       "id": 493,
@@ -160,8 +233,12 @@
       "pinyin": "chǎng",
       "tone": 3,
       "meaning": "Site",
-      "story": "See how the earth forms site? It whispers \"Chang\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Earth long extended — the open space",
+      "sound_bridge": "CHANG = 'Chǎǎǎng... the place...' — low location",
+      "story": "The SITE was contested. 'Chǎǎǎng...' I GROAN the low dispute. Earth extends — the site disputed.",
+      "tone_emotion": "GROAN - low contested ground",
+      "primitives": ["earth 土", "long 昜"],
+      "narrative_position": "The dispute — site contested"
     },
     {
       "id": 494,
@@ -169,8 +246,12 @@
       "pinyin": "tāng",
       "tone": 1,
       "meaning": "Soup",
-      "story": "Like water, this character means soup and sings \"Tang!\" like ripples spreading across a pond!",
-      "primitives": []
+      "mnemonic_image": "Water long heated — broth prepared",
+      "sound_bridge": "TANG = 'TANNGGG...' — sustained warmth",
+      "story": "SOUP was served to the pilgrims. 'TANNGGG...' I SING the sustained nourishment. Water heated long — soup sustains.",
+      "tone_emotion": "SING - sustained nourishing warmth",
+      "primitives": ["water 氵", "long 昜"],
+      "narrative_position": "The sustenance — soup served"
     },
     {
       "id": 495,
@@ -178,8 +259,12 @@
       "pinyin": "yáng",
       "tone": 2,
       "meaning": "Sheep",
-      "story": "A striking symbol for sheep that asks \"Yang? Baaa?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Horns atop a body — the woolly creature",
+      "sound_bridge": "YANG = 'YAHNG gathering?!' — rising flock",
+      "story": "SHEEP gathered at the edges. 'YANG?!' I GASP at rising numbers. Horns appear — the flock assembles.",
+      "tone_emotion": "GASP - rising flock gathering",
+      "primitives": ["sheep 羊"],
+      "narrative_position": "The witnesses — sheep gather"
     },
     {
       "id": 496,
@@ -187,8 +272,12 @@
       "pinyin": "měi",
       "tone": 3,
       "meaning": "beautiful",
-      "story": "The strokes unite to show beautiful, whispering \"May\" softly!",
-      "primitives": []
+      "mnemonic_image": "A big sheep — beauty in fullness",
+      "sound_bridge": "MEI = 'Měěěi... lovely...' — low appreciation",
+      "story": "It was a BEAUTIFUL morning. 'Měěěi...' I GROAN the low appreciation. Big sheep — beauty surrounds us.",
+      "tone_emotion": "GROAN - low aesthetic appreciation",
+      "primitives": ["sheep 羊", "big 大"],
+      "narrative_position": "The moment — beautiful morning"
     },
     {
       "id": 497,
@@ -196,8 +285,12 @@
       "pinyin": "yáng",
       "tone": 2,
       "meaning": "Ocean",
-      "story": "The water stands for ocean, asking \"Yang? How vast?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Water with sheep — vastness beyond",
+      "sound_bridge": "YANG = 'YAHNG so far?!' — rising distance",
+      "story": "The OCEAN lay distant but somehow present. 'YANG?!' I GASP at rising scope. Water and sheep — vastness implied.",
+      "tone_emotion": "GASP - rising sense of vastness",
+      "primitives": ["water 氵", "sheep 羊"],
+      "narrative_position": "The beyond — ocean distant"
     },
     {
       "id": 498,
@@ -205,8 +298,12 @@
       "pinyin": "xiān",
       "tone": 1,
       "meaning": "fresh",
-      "story": "A striking symbol for fresh that sings \"Shian!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Fish and sheep — ingredients at their best",
+      "sound_bridge": "XIAN = 'SHIANNN...' — sustained freshness",
+      "story": "Everything felt FRESH, renewed. 'SHIANNN...' I SING the sustained vitality. Fish and sheep — freshness abounds.",
+      "tone_emotion": "SING - sustained fresh quality",
+      "primitives": ["fish 魚", "sheep 羊"],
+      "narrative_position": "The quality — everything fresh"
     },
     {
       "id": 499,
@@ -214,8 +311,12 @@
       "pinyin": "dá",
       "tone": 2,
       "meaning": "to reach",
-      "story": "\"Da, are we there yet?\" The sheep questioned on the walk to reach their destination.",
-      "primitives": []
+      "mnemonic_image": "Walking with sheep — arrival achieved",
+      "sound_bridge": "DA = 'DAH finally?!' — rising arrival",
+      "story": "Some traveled far, REACHING the shore. 'DA?!' I GASP at rising completion. Walking with sheep — destination reached.",
+      "tone_emotion": "GASP - rising sense of arrival",
+      "primitives": ["walk 辶", "sheep 羊", "big 大"],
+      "narrative_position": "The journey — reaching the shore"
     },
     {
       "id": 500,
@@ -223,8 +324,12 @@
       "pinyin": "yàng",
       "tone": 4,
       "meaning": "Appearance",
-      "story": "The tree stands for appearance, shouting \"Yang!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Tree with sheep — form studied",
+      "sound_bridge": "YANG = 'YAHNG! Look!' — sharp observation",
+      "story": "Every APPEARANCE was studied for omens. 'YANG!' I COMMAND the sharp scrutiny. Tree and sheep — appearances examined.",
+      "tone_emotion": "COMMAND - sharp appearance study",
+      "primitives": ["tree 木", "sheep 羊", "water 氵"],
+      "narrative_position": "The study — appearances examined"
     },
     {
       "id": 501,
@@ -232,8 +337,12 @@
       "pinyin": "chà",
       "tone": 4,
       "meaning": "to fall short of",
-      "story": "To fall short sheep work yells \"Cha!\" sharply lacking!",
-      "primitives": []
+      "mnemonic_image": "Sheep work incomplete — lacking sufficiency",
+      "sound_bridge": "CHA = 'CHA! Not enough!' — sharp inadequacy",
+      "story": "Most found themselves FALLING SHORT. 'CHA!' I COMMAND the sharp disappointment. Sheep's work — falling short.",
+      "tone_emotion": "COMMAND - sharp recognition of inadequacy",
+      "primitives": ["sheep 羊", "work 工"],
+      "narrative_position": "The limitation — falling short"
     },
     {
       "id": 502,
@@ -241,8 +350,12 @@
       "pinyin": "jí",
       "tone": 2,
       "meaning": "to gather",
-      "story": "\"Jee, are all the birds here?\" The tree questioned as they gathered together.",
-      "primitives": []
+      "mnemonic_image": "Birds on a tree — assembly complete",
+      "sound_bridge": "JI = 'JEE all here?!' — rising assembly",
+      "story": "The GATHERING was complete by midday. 'JI?!' I GASP at rising completion. Birds on tree — gathering complete.",
+      "tone_emotion": "GASP - rising sense of completion",
+      "primitives": ["bird 隹", "tree 木"],
+      "narrative_position": "The completion — gathering done"
     },
     {
       "id": 503,
@@ -250,8 +363,12 @@
       "pinyin": "jìn",
       "tone": 4,
       "meaning": "to advance",
-      "story": "\"Jin, move forward!\" The birds commanded sharply, walking to advance.",
-      "primitives": []
+      "mnemonic_image": "Birds walking forward — progress made",
+      "sound_bridge": "JIN = 'JIN! Forward!' — sharp advancement",
+      "story": "All were ADVANCING forward in understanding. 'JIN!' I COMMAND the sharp progress. Birds walk — advancement happens.",
+      "tone_emotion": "COMMAND - sharp forward movement",
+      "primitives": ["walk 辶", "bird 隹"],
+      "narrative_position": "The progress — advancing forward"
     },
     {
       "id": 504,
@@ -259,17 +376,25 @@
       "pinyin": "zhǔn",
       "tone": 3,
       "meaning": "Standard",
-      "story": "The water stands for standard, whispering \"Zhun\" softly like ripples spreading across a pond!",
-      "primitives": []
+      "mnemonic_image": "Water and birds — level measurement",
+      "sound_bridge": "ZHUN = 'Zhǔǔǔn... the measure...' — low calibration",
+      "story": "STANDARDS were set for proper worship. 'Zhǔǔǔn...' I GROAN the low establishment. Water and birds — standards measured.",
+      "tone_emotion": "GROAN - low standard setting",
+      "primitives": ["water 氵", "bird 隹"],
+      "narrative_position": "The rules — standards set"
     },
     {
       "id": 505,
       "character": "誰",
-      "pinyin": "shuí2",
+      "pinyin": "shuí",
       "tone": 2,
       "meaning": "who?",
-      "story": "This character represents who?, asking \"Shway? Who is it?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Words questioning birds — identity sought",
+      "sound_bridge": "SHUI = 'SHWAY who?!' — rising question",
+      "story": "'WHO decides?' asked the skeptics. 'SHUI?!' I GASP the rising question. Words question birds — identity uncertain.",
+      "tone_emotion": "GASP - rising questioning",
+      "primitives": ["words 言", "bird 隹"],
+      "narrative_position": "The question — who decides?"
     },
     {
       "id": 506,
@@ -277,8 +402,12 @@
       "pinyin": "shòu",
       "tone": 4,
       "meaning": "to vend",
-      "story": "\"Show what you're selling!\" The bird's mouth commanded, vending goods.",
-      "primitives": []
+      "mnemonic_image": "Mouth above birds — selling calls",
+      "sound_bridge": "SHOU = 'SHOW! Buy!' — sharp selling",
+      "story": "VENDING at the site eventually ended. 'SHOU!' I COMMAND — but the sharp selling stops. Mouth over birds — commerce ceases.",
+      "tone_emotion": "COMMAND - sharp commerce ending",
+      "primitives": ["mouth 口", "bird 隹"],
+      "narrative_position": "The commerce — vending ends"
     },
     {
       "id": 507,
@@ -286,8 +415,12 @@
       "pinyin": "suī",
       "tone": 1,
       "meaning": "although",
-      "story": "This character represents although, singing \"Sway!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "Mouth and birds and insects — despite everything",
+      "sound_bridge": "SUI = 'SWIII...' — sustained concession",
+      "story": "ALTHOUGH uncertain, the crowd stayed. 'SWIII...' I SING the sustained persistence. Mouth with creatures — although all odds.",
+      "tone_emotion": "SING - sustained despite-all-odds",
+      "primitives": ["mouth 口", "bird 隹", "insect 虫"],
+      "narrative_position": "The persistence — although uncertain"
     },
     {
       "id": 508,
@@ -295,8 +428,12 @@
       "pinyin": "què",
       "tone": 4,
       "meaning": "reliable",
-      "story": "See how the stone forms reliable? It shouts \"Chueh!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Stone and birds — certainty established",
+      "sound_bridge": "QUE = 'CHUEH! Certain!' — sharp confirmation",
+      "story": "Only a RELIABLE witness could confirm. 'QUE!' I COMMAND the sharp verification. Stone and birds — reliability proven.",
+      "tone_emotion": "COMMAND - sharp establishment of certainty",
+      "primitives": ["stone 石", "bird 隹"],
+      "narrative_position": "The verification — reliable witness needed"
     },
     {
       "id": 509,
@@ -304,8 +441,12 @@
       "pinyin": "wǔ",
       "tone": 3,
       "meaning": "Noon",
-      "story": "This character represents noon, whispering \"Woo\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "The sun at its peak — midday marker",
+      "sound_bridge": "WU = 'Wǔǔǔ... midday...' — low zenith",
+      "story": "NOON arrived with no resolution. 'Wǔǔǔ...' I GROAN the low disappointment. Sun at peak — noon brings nothing.",
+      "tone_emotion": "GROAN - low anticlimactic noon",
+      "primitives": ["noon 午"],
+      "narrative_position": "The time — noon arrives"
     },
     {
       "id": 510,
@@ -313,8 +454,12 @@
       "pinyin": "xǔ",
       "tone": 3,
       "meaning": "to permit",
-      "story": "A striking symbol for to permit that whispers \"Shu\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Words at noon — permission granted",
+      "sound_bridge": "XU = 'Shǔǔǔ... allowed...' — low granting",
+      "story": "PERMISSION was granted to approach. 'Xǔǔǔ...' I GROAN the low allowance. Words at noon — permission given.",
+      "tone_emotion": "GROAN - low permission granted",
+      "primitives": ["words 言", "noon 午"],
+      "narrative_position": "The allowance — permission granted"
     },
     {
       "id": 511,
@@ -322,8 +467,12 @@
       "pinyin": "yǔ",
       "tone": 3,
       "meaning": "Feathers",
-      "story": "Picture feathers taking form - it whispers \"Yu\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Two wings displayed — plumage shown",
+      "sound_bridge": "YU = 'Yǔǔǔ... floating...' — low descent",
+      "story": "FEATHERS fell from the sky. 'Yǔǔǔ...' I GROAN the low drifting. Two wings — feathers descend.",
+      "tone_emotion": "GROAN - low gentle falling",
+      "primitives": ["feathers 羽"],
+      "narrative_position": "The sign — feathers fall"
     },
     {
       "id": 512,
@@ -331,8 +480,12 @@
       "pinyin": "xí",
       "tone": 2,
       "meaning": "to learn",
-      "story": "\"Shi, how do we practice?\" White feathers questioned as students learned.",
-      "primitives": []
+      "mnemonic_image": "White feathers — learning through practice",
+      "sound_bridge": "XI = 'SHEE studying?!' — rising practice",
+      "story": "LEARNING would continue long after. 'XI?!' I GASP at rising continuation. White feathers — learning never stops.",
+      "tone_emotion": "GASP - rising endless learning",
+      "primitives": ["feathers 羽", "white 白"],
+      "narrative_position": "The continuation — learning continues"
     },
     {
       "id": 513,
@@ -340,8 +493,12 @@
       "pinyin": "xiáng",
       "tone": 2,
       "meaning": "to soar",
-      "story": "\"Shyang, are we flying?\" The sheep with feathers soared through the sky.",
-      "primitives": []
+      "mnemonic_image": "Sheep with feathers — impossible flight",
+      "sound_bridge": "XIANG = 'SHYANG flying?!' — rising elevation",
+      "story": "Those who understood found themselves SOARING above. 'XIANG?!' I GASP at rising transcendence. Sheep with feathers — the impossible achieved.",
+      "tone_emotion": "GASP - rising impossible flight",
+      "primitives": ["sheep 羊", "feathers 羽"],
+      "narrative_position": "The transcendence — soaring above"
     }
   ]
 }

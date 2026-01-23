@@ -1,5 +1,10 @@
 {
   "lesson": 21,
+  "title": "The Factory of Forgetfulness",
+  "theme": "A mysterious factory where memories are processed, stored, and sometimes deliberately lost",
+  "memory_palace": "The Forgetting Factory",
+  "narrative_arc": "Trapped inside → Solid walls → Country borders → Round objects → Cause unknown → Park entrance → Return attempted → Revolving doors → Picture incomplete → Store nearby → Warehouse full → Trousers stocked → Factory operating → Bed for rest → Hemp processing → Heart beating → Forgetting begins → Endurance tested → Recognition fading → Aspiration lost → Annals written → Consideration deep → Ideas forming → Thinking slows → Breath shortens → Fear rises → Feeling returns → Regret accumulates → Worry spreads → Dread grows → Busy always → Accustomed now → Cherishing what remains → Certainly this",
+  "narrative_story": "The factory produced one thing: forgetting. Everyone who entered became trapped inside its walls. The walls were solid as certainty. The country that contained it had no borders on maps. Everything inside was round — no corners to hide memories in. No one knew the cause of the forgetting. There was a park at the entrance, peaceful and misleading. Many tried to return to their old lives. But the doors revolved — entry was easier than exit. Every picture on the walls was incomplete. A store nearby sold remedies that never worked. The warehouse was full of forgotten things. Even trousers hung on hooks, abandoned. The factory never stopped operating. A bed was provided for rest between forgetting sessions. Hemp ropes bound the memories scheduled for deletion. Your heart would beat faster in the deletion chamber. Forgetting began slowly, then accelerated. Endurance was tested — how much could you lose? Recognition faded — faces became strangers. Aspiration was among the first things lost. The annals of your life were rewritten blank. Deep consideration of your past became impossible. Ideas that once defined you began forming into mist. Thinking slowed to a crawl. Breath shortened as panic set in. Fear rose from forgotten depths. But then — feeling returned, different but present. Regret accumulated for things you couldn't name. Worry spread for people you no longer recognized. Dread grew for a future without past. You were always busy now, busy forgetting. Eventually, you became accustomed to the emptiness. What remained, you began cherishing desperately. Certainly, this was a kind of peace. The factory had done its work. You had forgotten how to remember. And in forgetting, you had found something else. What it was, you could never quite recall.",
   "characters": [
     {
       "id": 514,
@@ -7,8 +12,12 @@
       "pinyin": "kùn",
       "tone": 4,
       "meaning": "trapped",
-      "story": "\"Koon!\" The tree was trapped in a box, stuck and confined.",
-      "primitives": []
+      "mnemonic_image": "A tree enclosed in a box — growth confined",
+      "sound_bridge": "KUN = 'KOON! Stuck!' — sharp confinement",
+      "story": "Everyone who entered became TRAPPED inside. 'KUN!' I COMMAND the sharp realization. Tree in box — trapped completely.",
+      "tone_emotion": "COMMAND - sharp feeling of entrapment",
+      "primitives": ["enclosure 囗", "tree 木"],
+      "narrative_position": "The capture — trapped inside"
     },
     {
       "id": 515,
@@ -16,8 +25,12 @@
       "pinyin": "gù",
       "tone": 4,
       "meaning": "solid",
-      "story": "The strokes unite to show solid, shouting \"Goo!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Ancient enclosure — firmly established",
+      "sound_bridge": "GU = 'GOO! Firm!' — sharp solidity",
+      "story": "The walls were SOLID as certainty. 'GU!' I COMMAND the sharp permanence. Ancient enclosure — solid beyond breaking.",
+      "tone_emotion": "COMMAND - sharp unyielding solidity",
+      "primitives": ["enclosure 囗", "ancient 古"],
+      "narrative_position": "The walls — solid certainty"
     },
     {
       "id": 516,
@@ -25,8 +38,12 @@
       "pinyin": "guó",
       "tone": 2,
       "meaning": "Country",
-      "story": "A country enclosure solid questions \"Gwoh? Which nation?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "A solid enclosure with weapon — nation defended",
+      "sound_bridge": "GUO = 'GWOH which land?!' — rising geography",
+      "story": "The COUNTRY that contained it had no borders on maps. 'GUO?!' I GASP at rising mystery. Solid enclosure with weapon — unmapped nation.",
+      "tone_emotion": "GASP - rising geographical confusion",
+      "primitives": ["enclosure 囗", "halberd 戈", "mouth 口", "one 一"],
+      "narrative_position": "The location — country without borders"
     },
     {
       "id": 517,
@@ -34,8 +51,12 @@
       "pinyin": "yuán",
       "tone": 2,
       "meaning": "round",
-      "story": "A striking symbol for round that asks \"Yuan? Is it circular?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "An enclosure perfectly circular — no corners",
+      "sound_bridge": "YUAN = 'YU-AN no corners?!' — rising disorientation",
+      "story": "Everything inside was ROUND. 'YUAN?!' I GASP at rising smoothness. Perfect enclosure — no corners to hide memories.",
+      "tone_emotion": "GASP - rising sense of endless curves",
+      "primitives": ["enclosure 囗", "member 員"],
+      "narrative_position": "The architecture — everything round"
     },
     {
       "id": 518,
@@ -43,8 +64,12 @@
       "pinyin": "yīn",
       "tone": 1,
       "meaning": "a Cause",
-      "story": "An striking symbol for a cause that sings \"Yin!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "A person enclosed — the reason trapped",
+      "sound_bridge": "YIN = 'YINNN...' — sustained wondering",
+      "story": "No one knew THE CAUSE of the forgetting. 'YINNN...' I SING the sustained mystery. Person enclosed — cause unknown.",
+      "tone_emotion": "SING - sustained questioning of cause",
+      "primitives": ["enclosure 囗", "big 大"],
+      "narrative_position": "The mystery — cause unknown"
     },
     {
       "id": 519,
@@ -52,8 +77,12 @@
       "pinyin": "yuán",
       "tone": 2,
       "meaning": "Park",
-      "story": "A park enclosure soil questions \"Yuan? Nice garden?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "An enclosure of earth — garden space",
+      "sound_bridge": "YUAN = 'YU-AN peaceful?!' — rising deception",
+      "story": "There was a PARK at the entrance. 'YUAN?!' I GASP at rising false peace. Enclosure of earth — the misleading garden.",
+      "tone_emotion": "GASP - rising awareness of deception",
+      "primitives": ["enclosure 囗", "Yuan 袁"],
+      "narrative_position": "The entrance — misleading park"
     },
     {
       "id": 520,
@@ -61,8 +90,12 @@
       "pinyin": "huí",
       "tone": 2,
       "meaning": "to return",
-      "story": "A striking symbol for to return that asks \"Hway? Back?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Enclosure within enclosure — circling back",
+      "sound_bridge": "HUI = 'HWAY back?!' — rising hope",
+      "story": "Many tried TO RETURN to their old lives. 'HUI?!' I GASP at rising desperation. Enclosure within enclosure — return attempted.",
+      "tone_emotion": "GASP - rising desperate hope",
+      "primitives": ["enclosure 囗", "enclosure 囗"],
+      "narrative_position": "The attempt — trying to return"
     },
     {
       "id": 521,
@@ -70,8 +103,12 @@
       "pinyin": "huí",
       "tone": 2,
       "meaning": "to revolve",
-      "story": "\"Hway, why are we spinning?\" they questioned, walking in circles to revolve.",
-      "primitives": []
+      "mnemonic_image": "Walking in return — spinning motion",
+      "sound_bridge": "HUI = 'HWAY spinning?!' — rising dizziness",
+      "story": "But the doors REVOLVED. 'HUI?!' I GASP at rising vertigo. Walking returns — revolving endlessly.",
+      "tone_emotion": "GASP - rising disorientation",
+      "primitives": ["walk 辶", "return 回"],
+      "narrative_position": "The trap — revolving doors"
     },
     {
       "id": 522,
@@ -79,8 +116,12 @@
       "pinyin": "tú",
       "tone": 2,
       "meaning": "Picture",
-      "story": "A picture enclosure winter questions \"Too? What image?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "An enclosure of images — visual record",
+      "sound_bridge": "TU = 'TOO incomplete?!' — rising frustration",
+      "story": "Every PICTURE on the walls was incomplete. 'TU?!' I GASP at rising gaps. Enclosure of images — pictures with holes.",
+      "tone_emotion": "GASP - rising awareness of incompleteness",
+      "primitives": ["enclosure 囗", "winter 冬"],
+      "narrative_position": "The evidence — incomplete pictures"
     },
     {
       "id": 523,
@@ -88,8 +129,12 @@
       "pinyin": "diàn",
       "tone": 4,
       "meaning": "a Store",
-      "story": "An striking symbol for a store that shouts \"Dian!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A dwelling for fortune — place of commerce",
+      "sound_bridge": "DIAN = 'DIAN! Buy here!' — sharp selling",
+      "story": "A STORE nearby sold remedies. 'DIAN!' I COMMAND — but the sharp commerce offers nothing real. Dwelling for fortune — useless store.",
+      "tone_emotion": "COMMAND - sharp futile commerce",
+      "primitives": ["dwelling 广", "fortune 占"],
+      "narrative_position": "The false hope — store nearby"
     },
     {
       "id": 524,
@@ -97,8 +142,12 @@
       "pinyin": "kù",
       "tone": 4,
       "meaning": "Warehouse",
-      "story": "A warehouse building vehicle yells \"Koo!\" sharply storing!",
-      "primitives": []
+      "mnemonic_image": "A dwelling for vehicles — storage vast",
+      "sound_bridge": "KU = 'KOO! Storage!' — sharp containment",
+      "story": "The WAREHOUSE was full of forgotten things. 'KU!' I COMMAND the sharp observation. Dwelling for vehicles — storage of the lost.",
+      "tone_emotion": "COMMAND - sharp awareness of accumulation",
+      "primitives": ["dwelling 广", "vehicle 車"],
+      "narrative_position": "The collection — warehouse full"
     },
     {
       "id": 525,
@@ -106,8 +155,12 @@
       "pinyin": "kù",
       "tone": 4,
       "meaning": "Trousers",
-      "story": "This character represents trousers, shouting \"Koo!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Clothing in warehouse — garments stored",
+      "sound_bridge": "KU = 'KOO! Pants!' — sharp inventory",
+      "story": "Even TROUSERS hung on hooks, abandoned. 'KU!' I COMMAND the sharp detail. Clothing in warehouse — even pants forgotten.",
+      "tone_emotion": "COMMAND - sharp mundane detail",
+      "primitives": ["clothing 衤", "warehouse 庫"],
+      "narrative_position": "The detail — trousers stocked"
     },
     {
       "id": 526,
@@ -115,8 +168,12 @@
       "pinyin": "chǎng",
       "tone": 3,
       "meaning": "Factory",
-      "story": "Picture factory taking form - it whispers \"Chang\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "A dwelling for production — industrial space",
+      "sound_bridge": "CHANG = 'Chǎǎǎng... producing...' — low operation",
+      "story": "The FACTORY never stopped operating. 'Chǎǎǎng...' I GROAN the low production. Dwelling expanded — factory runs always.",
+      "tone_emotion": "GROAN - low constant production",
+      "primitives": ["dwelling 广", "cliff 厂"],
+      "narrative_position": "The machine — factory operating"
     },
     {
       "id": 527,
@@ -124,8 +181,12 @@
       "pinyin": "chuáng",
       "tone": 2,
       "meaning": "Bed",
-      "story": "The tree stands for bed, asking \"Chwang? Sleep here?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "A dwelling for wood — sleeping platform",
+      "sound_bridge": "CHUANG = 'CHWAHNG for rest?!' — rising exhaustion",
+      "story": "A BED was provided for rest. 'CHUANG?!' I GASP at rising fatigue. Dwelling of wood — bed for the weary.",
+      "tone_emotion": "GASP - rising need for rest",
+      "primitives": ["dwelling 广", "tree 木"],
+      "narrative_position": "The rest — bed provided"
     },
     {
       "id": 528,
@@ -133,8 +194,12 @@
       "pinyin": "má",
       "tone": 2,
       "meaning": "Hemp",
-      "story": "\"Ma, why so rough?\" The hemp plant under the roof was coarse and fibrous.",
-      "primitives": []
+      "mnemonic_image": "Forest under shelter — fibrous plants",
+      "sound_bridge": "MA = 'MAH binding?!' — rising constraint",
+      "story": "HEMP ropes bound the memories scheduled for deletion. 'MA?!' I GASP at rising binding. Forest under shelter — hemp restrains.",
+      "tone_emotion": "GASP - rising sense of binding",
+      "primitives": ["dwelling 广", "forest 林"],
+      "narrative_position": "The binding — hemp ropes"
     },
     {
       "id": 529,
@@ -142,8 +207,12 @@
       "pinyin": "xīn",
       "tone": 1,
       "meaning": "Heart",
-      "story": "A heart beats cheerfully singing \"Shin!\" high!",
-      "primitives": []
+      "mnemonic_image": "The organ of feeling — center of self",
+      "sound_bridge": "XIN = 'SHINNN...' — sustained beating",
+      "story": "Your HEART would beat faster in the deletion chamber. 'SHINNN...' I SING the sustained pulse. The center beats — heart accelerates.",
+      "tone_emotion": "SING - sustained heartbeat",
+      "primitives": ["heart 心"],
+      "narrative_position": "The fear — heart beating"
     },
     {
       "id": 530,
@@ -151,8 +220,12 @@
       "pinyin": "wàng",
       "tone": 4,
       "meaning": "to forget",
-      "story": "\"Wang!\" The deceased heart forgot everything sharply.",
-      "primitives": []
+      "mnemonic_image": "Heart with death — memory perishing",
+      "sound_bridge": "WANG = 'WAHNG! Gone!' — sharp erasure",
+      "story": "FORGETTING began slowly, then accelerated. 'WANG!' I COMMAND the sharp loss. Heart meets death — forgetting happens.",
+      "tone_emotion": "COMMAND - sharp act of forgetting",
+      "primitives": ["heart 心", "deceased 亡"],
+      "narrative_position": "The process — forgetting begins"
     },
     {
       "id": 531,
@@ -160,8 +233,12 @@
       "pinyin": "rěn",
       "tone": 3,
       "meaning": "to endure",
-      "story": "With a heart combined with a blade, you get to endure - \"Ren\" rings out softly!",
-      "primitives": []
+      "mnemonic_image": "Heart under blade — patience tested",
+      "sound_bridge": "REN = 'Rěěěn... bearing...' — low suffering",
+      "story": "ENDURANCE was tested. 'Rěěěn...' I GROAN the low suffering. Heart under blade — how much can you endure?",
+      "tone_emotion": "GROAN - low tested endurance",
+      "primitives": ["heart 心", "blade 刃"],
+      "narrative_position": "The test — endurance tested"
     },
     {
       "id": 532,
@@ -169,8 +246,12 @@
       "pinyin": "rèn",
       "tone": 4,
       "meaning": "to recognize",
-      "story": "Picture to recognize taking form - it shouts \"Ren!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Words of endurance — knowing through patience",
+      "sound_bridge": "REN = 'REN! That face!' — sharp but fading",
+      "story": "RECOGNITION faded. 'REN!' I COMMAND — but the sharp knowing blurs. Words endure — but recognition fades.",
+      "tone_emotion": "COMMAND - sharp fading recognition",
+      "primitives": ["words 言", "endure 忍"],
+      "narrative_position": "The loss — recognition fading"
     },
     {
       "id": 533,
@@ -178,8 +259,12 @@
       "pinyin": "zhì",
       "tone": 4,
       "meaning": "Aspiration",
-      "story": "See how the heart forms aspiration? It shouts \"Zhi!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Heart and scholar — ambition formed",
+      "sound_bridge": "ZHI = 'ZHI! Gone!' — sharp loss of purpose",
+      "story": "ASPIRATION was among the first things lost. 'ZHI!' I COMMAND the sharp departure. Heart of scholar — ambition vanishes.",
+      "tone_emotion": "COMMAND - sharp loss of ambition",
+      "primitives": ["heart 心", "scholar 士"],
+      "narrative_position": "The early loss — aspiration gone"
     },
     {
       "id": 534,
@@ -187,8 +272,12 @@
       "pinyin": "zhì",
       "tone": 4,
       "meaning": "Annals",
-      "story": "The strokes unite to show annals, shouting \"Zhi!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Words of aspiration — recorded history",
+      "sound_bridge": "ZHI = 'ZHI! Rewritten!' — sharp revision",
+      "story": "The ANNALS of your life were rewritten blank. 'ZHI!' I COMMAND the sharp erasure. Words of aspiration — history blanked.",
+      "tone_emotion": "COMMAND - sharp historical erasure",
+      "primitives": ["words 言", "aspiration 志"],
+      "narrative_position": "The rewriting — annals blanked"
     },
     {
       "id": 535,
@@ -196,8 +285,12 @@
       "pinyin": "sī",
       "tone": 1,
       "meaning": "to consider",
-      "story": "\"Si!\" The heart considered the field, thinking cheerfully about planting.",
-      "primitives": []
+      "mnemonic_image": "Heart and field — contemplation of space",
+      "sound_bridge": "SI = 'SIII...' — sustained thought",
+      "story": "Deep CONSIDERATION of your past became impossible. 'SIII...' I SING — but the sustained thought dissolves. Heart over field — consideration fails.",
+      "tone_emotion": "SING - sustained failing thought",
+      "primitives": ["heart 心", "field 田"],
+      "narrative_position": "The impossibility — consideration fails"
     },
     {
       "id": 536,
@@ -205,8 +298,12 @@
       "pinyin": "yì",
       "tone": 4,
       "meaning": "Idea",
-      "story": "\"Yi!\" The sound reached the heart, commanding an idea sharply.",
-      "primitives": []
+      "mnemonic_image": "Sound reaching heart — meaning formed",
+      "sound_bridge": "YI = 'YEE! Fading!' — sharp dissolving",
+      "story": "IDEAS that once defined you began forming into mist. 'YI!' I COMMAND — but the sharp meaning melts. Sound to heart — ideas dissolve.",
+      "tone_emotion": "COMMAND - sharp idea dissolution",
+      "primitives": ["sound 音", "heart 心"],
+      "narrative_position": "The dissolution — ideas become mist"
     },
     {
       "id": 537,
@@ -214,17 +311,25 @@
       "pinyin": "xiǎng",
       "tone": 3,
       "meaning": "to think",
-      "story": "See how the tree forms to think? It whispers \"Shyang\" softly!",
-      "primitives": []
+      "mnemonic_image": "Heart looking at tree — thought forming",
+      "sound_bridge": "XIANG = 'Shiǎǎǎng... slowing...' — low deceleration",
+      "story": "THINKING slowed to a crawl. 'Xiǎǎǎng...' I GROAN the low deceleration. Heart sees tree — thinking slows.",
+      "tone_emotion": "GROAN - low slowing thought",
+      "primitives": ["heart 心", "mutual 相"],
+      "narrative_position": "The slowing — thinking crawls"
     },
     {
       "id": 538,
       "character": "息",
-      "pinyin": "xí",
+      "pinyin": "xī",
       "tone": 2,
       "meaning": "Breath",
-      "story": "See how the heart forms breath? It asks \"Shi? Breathing?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Heart and self — life's rhythm",
+      "sound_bridge": "XI = 'SHEE shortening?!' — rising panic",
+      "story": "BREATH shortened as panic set in. 'XI?!' I GASP at rising terror. Heart and self — breath catches.",
+      "tone_emotion": "GASP - rising breathlessness",
+      "primitives": ["heart 心", "self 自"],
+      "narrative_position": "The panic — breath shortens"
     },
     {
       "id": 539,
@@ -232,8 +337,12 @@
       "pinyin": "kǒng",
       "tone": 3,
       "meaning": "to fear",
-      "story": "See how the heart forms to fear? It whispers \"Kong\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Heart under construction — terror built",
+      "sound_bridge": "KONG = 'Kǒǒǒng... terror...' — low dread",
+      "story": "FEAR rose from forgotten depths. 'Kǒǒǒng...' I GROAN the low terror. Heart under work — fear constructs itself.",
+      "tone_emotion": "GROAN - low rising terror",
+      "primitives": ["heart 心", "work 工", "person 人"],
+      "narrative_position": "The rising — fear emerges"
     },
     {
       "id": 540,
@@ -241,8 +350,12 @@
       "pinyin": "gǎn",
       "tone": 3,
       "meaning": "to feel",
-      "story": "The heart stands for to feel, whispering \"Gan\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Heart touched by force — emotion stirred",
+      "sound_bridge": "GAN = 'Gǎǎǎn... feeling...' — low sensation",
+      "story": "But then — FEELING returned, different but present. 'Gǎǎǎn...' I GROAN the low return. Heart touched — feeling comes back.",
+      "tone_emotion": "GROAN - low returning sensation",
+      "primitives": ["heart 心", "halberd 戈", "mouth 口"],
+      "narrative_position": "The return — feeling comes back"
     },
     {
       "id": 541,
@@ -250,8 +363,12 @@
       "pinyin": "hàn",
       "tone": 4,
       "meaning": "a Regret",
-      "story": "Like a heart, this character means a regret and shouts \"Han!\"!",
-      "primitives": []
+      "mnemonic_image": "Heart feeling something missing — regret formed",
+      "sound_bridge": "HAN = 'HAHN! Lost!' — sharp loss",
+      "story": "REGRET accumulated for things you couldn't name. 'HAN!' I COMMAND the sharp absence. Heart feels lack — regret builds.",
+      "tone_emotion": "COMMAND - sharp accumulating regret",
+      "primitives": ["heart 忄", "feel 感"],
+      "narrative_position": "The accumulation — regret builds"
     },
     {
       "id": 542,
@@ -259,8 +376,12 @@
       "pinyin": "yōu",
       "tone": 1,
       "meaning": "worried",
-      "story": "See how the heart forms worried? It sings \"Yo!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Heart covered in concern — anxiety present",
+      "sound_bridge": "YOU = 'YOOO...' — sustained worry",
+      "story": "WORRY spread for people you no longer recognized. 'YOOO...' I SING the sustained anxiety. Heart covered — worry spreads.",
+      "tone_emotion": "SING - sustained spreading worry",
+      "primitives": ["heart 心", "head 頁"],
+      "narrative_position": "The spreading — worry grows"
     },
     {
       "id": 543,
@@ -268,8 +389,12 @@
       "pinyin": "pà",
       "tone": 4,
       "meaning": "to dread",
-      "story": "\"Pa!\" The white heart feared sharply, filled with dread.",
-      "primitives": []
+      "mnemonic_image": "Heart seeing white — terror of emptiness",
+      "sound_bridge": "PA = 'PAH! Fear!' — sharp dread",
+      "story": "DREAD grew for a future without past. 'PA!' I COMMAND the sharp terror. Heart sees white — emptiness dreaded.",
+      "tone_emotion": "COMMAND - sharp existential dread",
+      "primitives": ["heart 忄", "white 白"],
+      "narrative_position": "The dread — fear of emptiness"
     },
     {
       "id": 544,
@@ -277,8 +402,12 @@
       "pinyin": "máng",
       "tone": 2,
       "meaning": "busy",
-      "story": "See how the heart forms busy? It asks \"Mang? Too much?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Heart with death approaching — frantic activity",
+      "sound_bridge": "MANG = 'MAHNG always?!' — rising frenzy",
+      "story": "You were always BUSY now, busy forgetting. 'MANG?!' I GASP at rising frenzy. Heart with death — busy constantly.",
+      "tone_emotion": "GASP - rising constant activity",
+      "primitives": ["heart 忄", "deceased 亡"],
+      "narrative_position": "The activity — always busy"
     },
     {
       "id": 545,
@@ -286,8 +415,12 @@
       "pinyin": "guàn",
       "tone": 4,
       "meaning": "accustomed to",
-      "story": "See how the heart forms accustomed to? It shouts \"Gwan!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Heart pierced by habit — routine established",
+      "sound_bridge": "GUAN = 'GWAHN! Used to it!' — sharp adaptation",
+      "story": "Eventually, you became ACCUSTOMED TO the emptiness. 'GUAN!' I COMMAND the sharp acceptance. Heart pierced — habit forms.",
+      "tone_emotion": "COMMAND - sharp forced adaptation",
+      "primitives": ["heart 忄", "pierce 貫"],
+      "narrative_position": "The adaptation — becoming accustomed"
     },
     {
       "id": 546,
@@ -295,8 +428,12 @@
       "pinyin": "huái",
       "tone": 2,
       "meaning": "to cherish",
-      "story": "\"Hwai, should I care for it?\" The bad situation made the heart question what to cherish.",
-      "primitives": []
+      "mnemonic_image": "Heart holding something precious — treasuring remains",
+      "sound_bridge": "HUAI = 'HWAI so precious?!' — rising desperation",
+      "story": "What remained, you began CHERISHING desperately. 'HUAI?!' I GASP at rising attachment. Heart holds — cherishing what's left.",
+      "tone_emotion": "GASP - rising desperate attachment",
+      "primitives": ["heart 忄", "bad 壞"],
+      "narrative_position": "The treasuring — cherishing what remains"
     },
     {
       "id": 547,
@@ -304,8 +441,12 @@
       "pinyin": "bì",
       "tone": 4,
       "meaning": "certainly",
-      "story": "Like a heart, this character means certainly and shouts \"Bee!\"!",
-      "primitives": []
+      "mnemonic_image": "Heart with certainty — inevitable truth",
+      "sound_bridge": "BI = 'BEE! Surely!' — sharp certainty",
+      "story": "CERTAINLY, this was a kind of peace. 'BI!' I COMMAND the sharp realization. Heart finds certainty — this is peace.",
+      "tone_emotion": "COMMAND - sharp final acceptance",
+      "primitives": ["heart 心"],
+      "narrative_position": "The ending — certainly this is peace"
     }
   ]
 }
