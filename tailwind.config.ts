@@ -5,6 +5,49 @@ const config: Config = {
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./lib/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  safelist: [
+    // Lesson theme gradients and backgrounds
+    'from-slate-900', 'to-slate-800', 'via-slate-900',
+    'from-violet-950', 'via-slate-900', 'to-black', 'from-violet-500', 'to-fuchsia-500', 'from-violet-600', 'to-fuchsia-600',
+    'from-stone-950', 'via-amber-950', 'from-amber-600', 'to-orange-600', 'from-amber-700', 'to-orange-700',
+    'from-emerald-950', 'via-green-900', 'to-stone-900', 'from-emerald-500', 'to-teal-500', 'from-emerald-600', 'to-teal-600',
+    'from-rose-950', 'via-orange-950', 'to-amber-950', 'from-rose-500', 'to-pink-500', 'from-rose-600', 'to-pink-600',
+    'from-yellow-950', 'via-amber-900', 'to-red-950', 'from-yellow-500', 'to-amber-500', 'from-yellow-600', 'to-amber-600',
+    'from-cyan-950', 'via-teal-900', 'from-cyan-500', 'to-teal-500', 'from-cyan-600', 'to-teal-600',
+    'from-orange-950', 'from-orange-500', 'to-red-500', 'from-orange-600', 'to-red-600',
+    'from-red-950', 'via-rose-900', 'to-purple-950', 'from-red-500', 'to-rose-500', 'from-red-600', 'to-rose-600',
+    'from-indigo-500', 'to-purple-500', 'from-indigo-600', 'to-purple-600',
+    // Card backgrounds
+    'bg-slate-800', 'bg-violet-950/50', 'bg-stone-900/70', 'bg-emerald-950/60', 'bg-rose-950/50',
+    'bg-yellow-950/50', 'bg-cyan-950/50', 'bg-orange-950/50', 'bg-red-950/50',
+    // Card borders
+    'border-slate-700', 'border-violet-800/50', 'border-amber-900/50', 'border-emerald-800/50',
+    'border-rose-800/50', 'border-yellow-700/50', 'border-cyan-800/50', 'border-orange-800/50', 'border-red-800/50',
+    // Text colors
+    'text-white', 'text-slate-300', 'text-slate-400', 'text-slate-500',
+    'text-violet-100', 'text-violet-300', 'text-violet-400',
+    'text-amber-50', 'text-amber-100', 'text-amber-200', 'text-amber-300/70',
+    'text-emerald-50', 'text-emerald-100', 'text-emerald-200', 'text-emerald-300/70',
+    'text-rose-50', 'text-rose-100', 'text-rose-200', 'text-rose-300/70',
+    'text-yellow-50', 'text-yellow-100', 'text-yellow-200', 'text-yellow-300/70',
+    'text-cyan-50', 'text-cyan-100', 'text-cyan-200', 'text-cyan-300/70',
+    'text-orange-50', 'text-orange-100', 'text-orange-200', 'text-orange-300/70',
+    'text-red-50', 'text-red-100', 'text-red-200', 'text-red-300/70',
+    // Streak backgrounds and text
+    'bg-amber-500/20', 'border-amber-500/50', 'text-amber-400',
+    'bg-fuchsia-500/20', 'border-fuchsia-500/50', 'text-fuchsia-400',
+    'bg-orange-500/20', 'border-orange-500/50', 'text-orange-400',
+    'bg-lime-500/20', 'border-lime-500/50', 'text-lime-400',
+    'bg-pink-500/20', 'border-pink-500/50', 'text-pink-400',
+    'bg-yellow-500/20', 'border-yellow-500/50', 'text-yellow-400',
+    'bg-teal-500/20', 'border-teal-500/50', 'text-teal-400',
+    'bg-red-500/20', 'border-red-500/50', 'text-red-400',
+    'bg-rose-500/20', 'border-rose-500/50', 'text-rose-400',
+    // Header backgrounds
+    'bg-slate-800', 'bg-violet-950/80', 'bg-stone-900/80', 'bg-emerald-950/80',
+    'bg-rose-950/80', 'bg-yellow-950/80', 'bg-cyan-950/80', 'bg-orange-950/80', 'bg-red-950/80',
   ],
   theme: {
     extend: {
