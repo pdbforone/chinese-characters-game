@@ -63,7 +63,8 @@ export interface RoundScores {
   round2?: number;
   round3?: number;
   round4?: number;
-  // Mastery rounds (5-6)
+  // Mastery rounds
   storyMason?: number;
   storyDetective?: number;
+  toneRecall?: number;
 }
