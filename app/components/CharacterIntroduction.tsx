@@ -232,19 +232,21 @@ export default function CharacterIntroduction({
             </p>
           </div>
 
-          {/* Characters Preview */}
+          {/* Characters Preview - Click to jump to character */}
           <div className="flex flex-wrap justify-center gap-3 mb-8">
-            {characters.map((char) => (
-              <div
+            {characters.map((char, index) => (
+              <button
                 key={char.id}
-                className={`w-12 h-12 ${useTheme ? theme.cardBg : 'bg-stone-700/50'} border ${useTheme ? theme.cardBorder : 'border-stone-600'} rounded-lg flex items-center justify-center`}
+                onClick={() => setCurrentIndex(index)}
+                className={`w-12 h-12 ${useTheme ? theme.cardBg : 'bg-stone-700/50'} border ${useTheme ? theme.cardBorder : 'border-stone-600'} rounded-lg flex items-center justify-center cursor-pointer transition-all hover:scale-110 hover:ring-2 ${useTheme ? 'hover:ring-white/30' : 'hover:ring-amber-400/50'} active:scale-95`}
+                aria-label={`Jump to ${char.character} (${char.pinyin})`}
               >
                 <span
                   className={`text-2xl ${useTheme ? theme.textPrimary : 'text-stone-200'} font-serif`}
                 >
                   {char.character}
                 </span>
-              </div>
+              </button>
             ))}
           </div>
 
@@ -312,15 +314,17 @@ export default function CharacterIntroduction({
             </p>
           </div>
 
-          {/* Summary Grid */}
+          {/* Summary Grid - Click to review specific character */}
           <div className="mb-8">
             <div className="grid grid-cols-3 sm:grid-cols-5 gap-3">
-              {characters.map((char) => {
+              {characters.map((char, index) => {
                 const toneInfo = getToneInfo(char.tone);
                 return (
-                  <div
+                  <button
                     key={char.id}
-                    className={`p-3 rounded-xl border-2 ${toneInfo.border} ${toneInfo.bgLight} text-center`}
+                    onClick={() => setCurrentIndex(index)}
+                    className={`p-3 rounded-xl border-2 ${toneInfo.border} ${toneInfo.bgLight} text-center cursor-pointer transition-all hover:scale-105 hover:shadow-lg active:scale-95`}
+                    aria-label={`Review ${char.character} (${char.pinyin})`}
                   >
                     <span
                       className={`text-3xl font-serif ${useTheme ? 'text-stone-800' : 'text-stone-800'} block`}
@@ -328,7 +332,7 @@ export default function CharacterIntroduction({
                       {char.character}
                     </span>
                     <span className="text-xs text-stone-500">{char.pinyin}</span>
-                  </div>
+                  </button>
                 );
               })}
             </div>
