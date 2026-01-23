@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback } from 'react';
 import Image from 'next/image';
 import { Character, LessonData } from '@/lib/types';
 import { playCharacterPronunciation, preloadCharacterAudio } from '@/lib/audio';
+import { getLessonTheme, hasCustomTheme } from '@/lib/lessonThemes';
 
 interface CharacterIntroductionProps {
   characters: Character[];
@@ -183,32 +184,50 @@ export default function CharacterIntroduction({
     return TONE_EMOTIONS[tone as keyof typeof TONE_EMOTIONS] || TONE_EMOTIONS[5];
   };
 
+  // Get theme for this lesson
+  const theme = getLessonTheme(lessonNumber);
+  const useTheme = hasCustomTheme(lessonNumber);
+
   // Narrative Introduction Screen
   if (isNarrativeIntro && lessonData?.narrative_story) {
     return (
-      <div className="min-h-screen bg-gradient-to-b from-stone-900 via-stone-800 to-stone-900 flex items-center justify-center p-4">
+      <div
+        className={`min-h-screen bg-gradient-to-b ${useTheme ? theme.bgGradient : 'from-stone-900 via-stone-800 to-stone-900'} flex items-center justify-center p-4`}
+      >
         <div className="max-w-3xl w-full">
           {/* Lesson Header */}
           <div className="text-center mb-8">
-            <p className="text-amber-400/80 text-sm tracking-[0.3em] uppercase mb-2">
+            <p
+              className={`${useTheme ? theme.textMuted : 'text-amber-400/80'} text-sm tracking-[0.3em] uppercase mb-2`}
+            >
               Lesson {lessonNumber}
             </p>
-            <h1 className="text-4xl md:text-5xl font-serif text-stone-100 mb-3">
+            <h1
+              className={`text-4xl md:text-5xl font-serif ${useTheme ? theme.textPrimary : 'text-stone-100'} mb-3`}
+            >
               {lessonData.title || `Lesson ${lessonNumber}`}
             </h1>
             {lessonData.memory_palace && (
-              <p className="text-stone-400 text-lg italic">
+              <p className={`${useTheme ? theme.textMuted : 'text-stone-400'} text-lg italic`}>
                 Memory Palace: {lessonData.memory_palace}
               </p>
             )}
           </div>
 
           {/* Narrative Story Card */}
-          <div className="bg-stone-800/50 border border-stone-700 rounded-2xl p-8 mb-8 backdrop-blur">
+          <div
+            className={`${useTheme ? theme.cardBg : 'bg-stone-800/50'} border ${useTheme ? theme.cardBorder : 'border-stone-700'} rounded-2xl p-8 mb-8 backdrop-blur`}
+          >
             {lessonData.theme && (
-              <p className="text-amber-400/70 text-sm mb-4 text-center">{lessonData.theme}</p>
+              <p
+                className={`${useTheme ? theme.textMuted : 'text-amber-400/70'} text-sm mb-4 text-center`}
+              >
+                {lessonData.theme}
+              </p>
             )}
-            <p className="text-stone-200 text-lg leading-relaxed font-serif">
+            <p
+              className={`${useTheme ? theme.textSecondary : 'text-stone-200'} text-lg leading-relaxed font-serif`}
+            >
               {lessonData.narrative_story}
             </p>
           </div>
@@ -218,9 +237,13 @@ export default function CharacterIntroduction({
             {characters.map((char) => (
               <div
                 key={char.id}
-                className="w-12 h-12 bg-stone-700/50 border border-stone-600 rounded-lg flex items-center justify-center"
+                className={`w-12 h-12 ${useTheme ? theme.cardBg : 'bg-stone-700/50'} border ${useTheme ? theme.cardBorder : 'border-stone-600'} rounded-lg flex items-center justify-center`}
               >
-                <span className="text-2xl text-stone-200 font-serif">{char.character}</span>
+                <span
+                  className={`text-2xl ${useTheme ? theme.textPrimary : 'text-stone-200'} font-serif`}
+                >
+                  {char.character}
+                </span>
               </div>
             ))}
           </div>
@@ -229,11 +252,13 @@ export default function CharacterIntroduction({
           <div className="text-center">
             <button
               onClick={handleNext}
-              className="bg-amber-500 hover:bg-amber-400 text-stone-900 font-semibold py-4 px-12 rounded-xl text-lg transition-all hover:scale-105 shadow-lg shadow-amber-500/20"
+              className={`bg-gradient-to-r ${useTheme ? theme.accentPrimary : 'from-amber-500 to-amber-400'} hover:opacity-90 text-white font-semibold py-4 px-12 rounded-xl text-lg transition-all hover:scale-105 shadow-lg`}
             >
               Begin Learning
             </button>
-            <p className="text-stone-500 text-sm mt-4">Press Space or → to continue</p>
+            <p className={`${useTheme ? theme.textMuted : 'text-stone-500'} text-sm mt-4`}>
+              Press Space or → to continue
+            </p>
           </div>
         </div>
       </div>
@@ -249,25 +274,40 @@ export default function CharacterIntroduction({
   // Summary Card (shown after all characters)
   if (isLastCard) {
     return (
-      <div className="min-h-screen bg-gradient-to-b from-stone-100 to-stone-200 flex items-center justify-center p-4">
-        <div className="max-w-2xl w-full bg-white rounded-2xl shadow-2xl p-8 border border-stone-200">
+      <div
+        className={`min-h-screen bg-gradient-to-b ${useTheme ? theme.bgGradient : 'from-stone-100 to-stone-200'} flex items-center justify-center p-4`}
+      >
+        <div
+          className={`max-w-2xl w-full ${useTheme ? theme.cardBg : 'bg-white'} rounded-2xl shadow-2xl p-8 border ${useTheme ? theme.cardBorder : 'border-stone-200'}`}
+        >
           {/* Header */}
           <div className="mb-6">
-            <h2 className="text-2xl font-bold text-stone-800 text-center mb-2">
+            <h2
+              className={`text-2xl font-bold ${useTheme ? theme.textPrimary : 'text-stone-800'} text-center mb-2`}
+            >
               {lessonData?.title || `Lesson ${lessonNumber}`} - Ready to Test!
             </h2>
-            <div className="w-full bg-emerald-100 rounded-full h-3">
-              <div className="bg-emerald-500 h-full rounded-full" style={{ width: '100%' }} />
+            <div
+              className={`w-full ${useTheme ? 'bg-white/10' : 'bg-emerald-100'} rounded-full h-3`}
+            >
+              <div
+                className={`bg-gradient-to-r ${useTheme ? theme.accentPrimary : 'from-emerald-500 to-emerald-400'} h-full rounded-full`}
+                style={{ width: '100%' }}
+              />
             </div>
           </div>
 
           {/* Celebration */}
           <div className="text-center mb-8">
             <div className="text-6xl mb-4">🎓</div>
-            <h3 className="text-xl font-semibold text-stone-700 mb-2">
+            <h3
+              className={`text-xl font-semibold ${useTheme ? theme.textPrimary : 'text-stone-700'} mb-2`}
+            >
               You&apos;ve learned all {characters.length} characters!
             </h3>
-            <p className="text-sm text-stone-600 bg-blue-50 border border-blue-200 rounded-lg p-3 max-w-md mx-auto">
+            <p
+              className={`text-sm ${useTheme ? theme.textSecondary : 'text-stone-600'} ${useTheme ? theme.cardBg : 'bg-blue-50'} border ${useTheme ? theme.cardBorder : 'border-blue-200'} rounded-lg p-3 max-w-md mx-auto`}
+            >
               You&apos;ll practice these in small groups of <strong>4 characters</strong> at a time.
             </p>
           </div>
@@ -282,7 +322,9 @@ export default function CharacterIntroduction({
                     key={char.id}
                     className={`p-3 rounded-xl border-2 ${toneInfo.border} ${toneInfo.bgLight} text-center`}
                   >
-                    <span className="text-3xl font-serif text-stone-800 block">
+                    <span
+                      className={`text-3xl font-serif ${useTheme ? 'text-stone-800' : 'text-stone-800'} block`}
+                    >
                       {char.character}
                     </span>
                     <span className="text-xs text-stone-500">{char.pinyin}</span>
@@ -296,19 +338,21 @@ export default function CharacterIntroduction({
           <div className="flex gap-4">
             <button
               onClick={() => setCurrentIndex(-1)}
-              className="flex-1 bg-stone-200 hover:bg-stone-300 text-stone-800 font-semibold py-3 px-6 rounded-xl transition-colors"
+              className={`flex-1 ${useTheme ? 'bg-white/10 hover:bg-white/20' : 'bg-stone-200 hover:bg-stone-300'} ${useTheme ? theme.textPrimary : 'text-stone-800'} font-semibold py-3 px-6 rounded-xl transition-colors`}
             >
               ← Review Again
             </button>
             <button
               onClick={onComplete}
-              className="flex-1 bg-amber-500 hover:bg-amber-400 text-stone-900 font-semibold py-3 px-6 rounded-xl transition-colors shadow-lg"
+              className={`flex-1 bg-gradient-to-r ${useTheme ? theme.accentPrimary : 'from-amber-500 to-amber-400'} hover:opacity-90 text-white font-semibold py-3 px-6 rounded-xl transition-colors shadow-lg`}
             >
               Start Game! →
             </button>
           </div>
 
-          <p className="text-center text-sm text-stone-400 mt-4">
+          <p
+            className={`text-center text-sm ${useTheme ? theme.textMuted : 'text-stone-400'} mt-4`}
+          >
             Press Enter to start or ← → to review
           </p>
         </div>
@@ -338,32 +382,40 @@ export default function CharacterIntroduction({
   const hasImage = errorState !== 'both';
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-stone-100 to-stone-200 flex items-center justify-center p-4">
+    <div
+      className={`min-h-screen bg-gradient-to-b ${useTheme ? theme.bgGradient : 'from-stone-100 to-stone-200'} flex items-center justify-center p-4`}
+    >
       <div className="max-w-4xl w-full">
         {/* Progress Header */}
         <div className="mb-6">
           <div className="flex justify-between items-center mb-2">
-            <h2 className="text-lg font-medium text-stone-600">
+            <h2
+              className={`text-lg font-medium ${useTheme ? theme.textSecondary : 'text-stone-600'}`}
+            >
               {lessonData?.title || `Lesson ${lessonNumber}`}
             </h2>
-            <span className="text-sm font-medium text-stone-500">
+            <span
+              className={`text-sm font-medium ${useTheme ? theme.textMuted : 'text-stone-500'}`}
+            >
               {currentIndex + 1} of {characters.length}
             </span>
           </div>
-          <div className="w-full bg-stone-300 rounded-full h-2">
+          <div className={`w-full ${useTheme ? 'bg-white/10' : 'bg-stone-300'} rounded-full h-2`}>
             <div
-              className="bg-amber-500 h-full rounded-full transition-all duration-500"
+              className={`bg-gradient-to-r ${useTheme ? theme.accentPrimary : 'from-amber-500 to-amber-400'} h-full rounded-full transition-all duration-500`}
               style={{ width: `${progress}%` }}
             />
           </div>
         </div>
 
         {/* Main Card */}
-        <div className="bg-white rounded-2xl shadow-2xl overflow-hidden border border-stone-200">
+        <div
+          className={`${useTheme ? theme.cardBg : 'bg-white'} rounded-2xl shadow-2xl overflow-hidden border ${useTheme ? theme.cardBorder : 'border-stone-200'}`}
+        >
           <div className="grid md:grid-cols-2">
             {/* Left: Image or Character Display */}
             <div
-              className={`relative ${toneInfo.bgLight} p-8 flex items-center justify-center min-h-[400px]`}
+              className={`relative ${useTheme ? 'bg-black/20' : toneInfo.bgLight} p-8 flex items-center justify-center min-h-[400px]`}
             >
               {hasImage ? (
                 <div className="relative w-full h-full min-h-[300px]">
@@ -382,11 +434,15 @@ export default function CharacterIntroduction({
                 </div>
               ) : (
                 <div className="text-center">
-                  <div className="text-[180px] font-serif leading-none text-stone-800 mb-4">
+                  <div
+                    className={`text-[180px] font-serif leading-none ${useTheme ? theme.textPrimary : 'text-stone-800'} mb-4`}
+                  >
                     {currentChar.character}
                   </div>
                   {currentChar.mnemonic_image && (
-                    <p className="text-stone-500 italic text-sm max-w-xs mx-auto">
+                    <p
+                      className={`${useTheme ? theme.textMuted : 'text-stone-500'} italic text-sm max-w-xs mx-auto`}
+                    >
                       {currentChar.mnemonic_image}
                     </p>
                   )}
@@ -402,11 +458,13 @@ export default function CharacterIntroduction({
             </div>
 
             {/* Right: Content */}
-            <div className="p-8 flex flex-col">
+            <div className={`p-8 flex flex-col ${useTheme ? '' : ''}`}>
               {/* Character + Pinyin */}
               <div className="text-center mb-6">
                 {hasImage && (
-                  <div className="text-7xl font-serif text-stone-800 mb-2">
+                  <div
+                    className={`text-7xl font-serif ${useTheme ? theme.textPrimary : 'text-stone-800'} mb-2`}
+                  >
                     {currentChar.character}
                   </div>
                 )}
@@ -420,39 +478,59 @@ export default function CharacterIntroduction({
                     aria-label={`Play pronunciation for ${currentChar.character}`}
                     className={`p-2 rounded-full transition-all ${
                       isPlayingAudio
-                        ? 'bg-stone-200 text-stone-400'
-                        : 'bg-amber-100 hover:bg-amber-200 text-amber-700'
+                        ? `${useTheme ? 'bg-white/10 text-white/30' : 'bg-stone-200 text-stone-400'}`
+                        : `${useTheme ? 'bg-white/20 hover:bg-white/30 text-white' : 'bg-amber-100 hover:bg-amber-200 text-amber-700'}`
                     }`}
                   >
                     🔊
                   </button>
                 </div>
-                <div className="text-xl text-stone-600 mt-2">{currentChar.meaning}</div>
+                <div
+                  className={`text-xl ${useTheme ? theme.textSecondary : 'text-stone-600'} mt-2`}
+                >
+                  {currentChar.meaning}
+                </div>
               </div>
 
               {/* Sound Bridge */}
               {currentChar.sound_bridge && (
                 <div
-                  className={`${toneInfo.bgLight} border ${toneInfo.border} rounded-xl p-4 mb-4`}
+                  className={`${useTheme ? 'bg-white/5 border-white/10' : `${toneInfo.bgLight} ${toneInfo.border}`} border rounded-xl p-4 mb-4`}
                 >
-                  <p className="text-xs uppercase tracking-wider text-stone-500 mb-1">
+                  <p
+                    className={`text-xs uppercase tracking-wider ${useTheme ? theme.textMuted : 'text-stone-500'} mb-1`}
+                  >
                     Sound Bridge
                   </p>
-                  <p className={`font-semibold ${toneInfo.textColor}`}>
+                  <p
+                    className={`font-semibold ${useTheme ? theme.textPrimary : toneInfo.textColor}`}
+                  >
                     {currentChar.sound_bridge}
                   </p>
                 </div>
               )}
 
               {/* Story */}
-              <div className="bg-stone-50 border border-stone-200 rounded-xl p-4 mb-4 flex-1">
-                <p className="text-xs uppercase tracking-wider text-stone-500 mb-2">Story</p>
-                <p className="text-stone-700 leading-relaxed">{currentChar.story}</p>
+              <div
+                className={`${useTheme ? 'bg-white/5 border-white/10' : 'bg-stone-50 border-stone-200'} border rounded-xl p-4 mb-4 flex-1`}
+              >
+                <p
+                  className={`text-xs uppercase tracking-wider ${useTheme ? theme.textMuted : 'text-stone-500'} mb-2`}
+                >
+                  Story
+                </p>
+                <p
+                  className={`${useTheme ? theme.textSecondary : 'text-stone-700'} leading-relaxed`}
+                >
+                  {currentChar.story}
+                </p>
               </div>
 
               {/* Narrative Position */}
               {currentChar.narrative_position && (
-                <p className="text-sm text-stone-400 italic text-center mb-4">
+                <p
+                  className={`text-sm ${useTheme ? theme.textMuted : 'text-stone-400'} italic text-center mb-4`}
+                >
                   {currentChar.narrative_position}
                 </p>
               )}
@@ -462,7 +540,7 @@ export default function CharacterIntroduction({
                 {currentChar.primitives.map((primitive, idx) => (
                   <span
                     key={idx}
-                    className="px-3 py-1 bg-stone-200 text-stone-600 rounded-full text-sm"
+                    className={`px-3 py-1 ${useTheme ? 'bg-white/10 text-white/70' : 'bg-stone-200 text-stone-600'} rounded-full text-sm`}
                   >
                     {primitive}
                   </span>
@@ -476,13 +554,13 @@ export default function CharacterIntroduction({
         <div className="flex gap-4 mt-6">
           <button
             onClick={handlePrevious}
-            className="flex-1 bg-white hover:bg-stone-50 text-stone-700 font-semibold py-3 px-6 rounded-xl border border-stone-300 transition-colors"
+            className={`flex-1 ${useTheme ? 'bg-white/10 hover:bg-white/20' : 'bg-white hover:bg-stone-50'} ${useTheme ? theme.textPrimary : 'text-stone-700'} font-semibold py-3 px-6 rounded-xl border ${useTheme ? 'border-white/10' : 'border-stone-300'} transition-colors`}
           >
             ← Previous
           </button>
           <button
             onClick={handleNext}
-            className="flex-1 bg-amber-500 hover:bg-amber-400 text-stone-900 font-semibold py-3 px-6 rounded-xl transition-colors shadow-lg"
+            className={`flex-1 bg-gradient-to-r ${useTheme ? theme.accentPrimary : 'from-amber-500 to-amber-400'} hover:opacity-90 text-white font-semibold py-3 px-6 rounded-xl transition-colors shadow-lg`}
           >
             Next →
           </button>
@@ -492,13 +570,15 @@ export default function CharacterIntroduction({
         <div className="text-center mt-4">
           <button
             onClick={onComplete}
-            className="text-sm text-stone-500 hover:text-stone-700 underline"
+            className={`text-sm ${useTheme ? theme.textMuted : 'text-stone-500'} hover:opacity-80 underline`}
           >
             Skip to Game →
           </button>
         </div>
 
-        <p className="text-center text-xs text-stone-400 mt-2">Use ← → or Space to navigate</p>
+        <p className={`text-center text-xs ${useTheme ? theme.textMuted : 'text-stone-400'} mt-2`}>
+          Use ← → or Space to navigate
+        </p>
       </div>
     </div>
   );
