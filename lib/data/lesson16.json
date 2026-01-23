@@ -1,5 +1,10 @@
 {
   "lesson": 16,
+  "title": "The Iron Burglar",
+  "theme": "A burglar with a theatrical style attempts to steal an entire city made of iron",
+  "memory_palace": "The Iron City",
+  "narrative_arc": "Style established → Test of physics → Halberd brandished → Choice made → Burglar revealed → Gates laden → Iron surfaces → Lush gardens → City transforms → City lives → Sincerity in madness → Guards of might → Destruction fails → Everyone knows → Reduced to nothing → List made → War declared → Coins spent → Shallow motives → Cheap victory",
+  "narrative_story": "A burglar with a style all his own decided to steal an entire city made of iron. His style was unmistakable — theatrical, absurd, impossible. Every heist was a test of physics. He carried a halberd — impractical, but impressive. 'Steal gold or steal glory,' he said. 'I choose both.' The burglar had one target: the Iron City. Its gates were laden with ore from a thousand mines. Every surface was iron — walls, floors, fountains. The gardens were lush with metal flowers. The city had begun to turn into something beyond architecture. The city was alive, in its iron way. Its builders were sincere in their madness. Guards of great might patrolled constantly. Many had tried to destroy the Iron City. All had failed. Everyone knew its defenses were perfect. To even attempt theft would reduce a man to nothing. The burglar made a list of everything he wanted. This would not be theft. This would be war. But wars cost coins, and his motives were shallow. In the end, he stole one thing: a cheap iron nail. Sometimes the greatest heists are the smallest ones.",
   "characters": [
     {
       "id": 333,
@@ -7,8 +12,12 @@
       "pinyin": "shì",
       "tone": 4,
       "meaning": "Style",
-      "story": "Like an arrow, this character means style and shouts \"Shi!\"!",
-      "primitives": []
+      "mnemonic_image": "A halberd poised with artistic flair — style as weapon",
+      "sound_bridge": "SHI = 'SHEE-t, that's stylish!' — sharp admiration",
+      "story": "His STYLE was unmistakable. 'SHI!' I COMMAND in sharp admiration — theatrical, absurd, impossible. The halberd poised like a dancer's flourish.",
+      "tone_emotion": "COMMAND - sharp declaration of unmistakable presence",
+      "primitives": ["halberd 戈", "craft 工"],
+      "narrative_position": "The burglar's signature — style as identity"
     },
     {
       "id": 334,
@@ -16,8 +25,12 @@
       "pinyin": "shì",
       "tone": 4,
       "meaning": "Test",
-      "story": "A test words style yells \"Shi!\" sharply examining!",
-      "primitives": []
+      "mnemonic_image": "Words testing the style — examining every angle",
+      "sound_bridge": "SHI = 'SHEE-t, did it work?!' — sharp examination",
+      "story": "Every heist was a TEST of physics. 'SHI!' I COMMAND sharply, examining the impossible angles. Words and style combine to prove the impossible.",
+      "tone_emotion": "COMMAND - sharp examination of limits",
+      "primitives": ["words 言", "style 式"],
+      "narrative_position": "Testing physics — each heist an experiment"
     },
     {
       "id": 335,
@@ -25,8 +38,12 @@
       "pinyin": "gē",
       "tone": 1,
       "meaning": "Halberd",
-      "story": "The strokes unite to show halberd, singing \"Guh!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "An ancient pole weapon — impractical but impressive",
+      "sound_bridge": "GE = 'GUH-lory!' — sustained battle cry",
+      "story": "He carried a HALBERD — impractical, but impressive. 'GEEE...' I SING a sustained battle cry. The ancient weapon gleams in the iron light.",
+      "tone_emotion": "SING - sustained note of dramatic flair",
+      "primitives": ["halberd 戈"],
+      "narrative_position": "The burglar's weapon — form over function"
     },
     {
       "id": 336,
@@ -34,8 +51,12 @@
       "pinyin": "huò",
       "tone": 4,
       "meaning": "or",
-      "story": "\"Huo should I choose - or this one?\" One mouth questioned the halberd choices.",
-      "primitives": []
+      "mnemonic_image": "A mouth between halberds — choosing between options",
+      "sound_bridge": "HUO = 'HWO-ich one?!' — sharp decision",
+      "story": "'Steal gold OR steal glory,' he said. 'HUO!' I COMMAND the sharp choice. One mouth questioned the halberd choices — I choose both.",
+      "tone_emotion": "COMMAND - sharp decisive moment",
+      "primitives": ["halberd 戈", "mouth 口", "one 一"],
+      "narrative_position": "The impossible choice — why not both?"
     },
     {
       "id": 337,
@@ -43,8 +64,12 @@
       "pinyin": "zéi",
       "tone": 2,
       "meaning": "Burglar",
-      "story": "A burglar shellfish ten halberds questions \"Zay? Stealing what?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Shellfish and halberds — wealth stolen by force",
+      "sound_bridge": "ZEI = 'ZAY? Me, steal?' — rising innocence",
+      "story": "The BURGLAR had one target: the Iron City. 'ZEI?!' I GASP with rising mock innocence. Shellfish wealth and ten halberds — a thief's arsenal.",
+      "tone_emotion": "GASP - rising feigned innocence",
+      "primitives": ["shellfish 貝", "ten 十", "halberd 戈"],
+      "narrative_position": "The thief revealed — targeting the impossible"
     },
     {
       "id": 338,
@@ -52,8 +77,12 @@
       "pinyin": "zài",
       "tone": 4,
       "meaning": "laden",
-      "story": "A striking symbol for laden that shouts \"Zai!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A vehicle weighted down with cargo — heavy with burden",
+      "sound_bridge": "ZAI = 'ZAI-m it's heavy!' — sharp strain",
+      "story": "Its gates were LADEN with ore from a thousand mines. 'ZAI!' I COMMAND under the sharp weight. The vehicle groans beneath impossible cargo.",
+      "tone_emotion": "COMMAND - sharp declaration of burden",
+      "primitives": ["vehicle 車", "halberd 戈"],
+      "narrative_position": "The city's wealth — gates heavy with ore"
     },
     {
       "id": 339,
@@ -61,8 +90,12 @@
       "pinyin": "tiě",
       "tone": 3,
       "meaning": "Iron",
-      "story": "The gold stands for iron, whispering \"Tieh\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Gold radical with iron's true nature — metal masquerading",
+      "sound_bridge": "TIE = 'TIE-rred of this weight...' — low groan",
+      "story": "Every surface was IRON — walls, floors, fountains. 'Tiěěě...' I GROAN under the low, dipping weight. Gold stands for iron here — everything metal.",
+      "tone_emotion": "GROAN - low weight of endless metal",
+      "primitives": ["gold 金", "lose 失"],
+      "narrative_position": "The city's essence — iron everywhere"
     },
     {
       "id": 340,
@@ -70,8 +103,12 @@
       "pinyin": "mào",
       "tone": 4,
       "meaning": "lush",
-      "story": "See how the grass forms lush? It shouts \"Mao!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Grass growing thick and abundant — metal flowers blooming",
+      "sound_bridge": "MAO = 'MAO-velous growth!' — sharp amazement",
+      "story": "The gardens were LUSH with metal flowers. 'MAO!' I COMMAND in sharp amazement. Grass forms blooming abundance — even in iron, life flourishes.",
+      "tone_emotion": "COMMAND - sharp appreciation of impossible beauty",
+      "primitives": ["grass 艹", "spear 矛"],
+      "narrative_position": "Beauty in metal — gardens of iron flowers"
     },
     {
       "id": 341,
@@ -79,8 +116,12 @@
       "pinyin": "chéng",
       "tone": 2,
       "meaning": "to turn into",
-      "story": "\"Cheng, what will it become?\" The halberds questioned their transformation.",
-      "primitives": []
+      "mnemonic_image": "Halberds transforming — becoming something new",
+      "sound_bridge": "CHENG = 'CHENG-ing into what?!' — rising wonder",
+      "story": "The city had begun TO TURN INTO something beyond architecture. 'CHENG?!' I GASP with rising wonder. The halberds questioned their transformation.",
+      "tone_emotion": "GASP - rising amazement at transformation",
+      "primitives": ["halberd 戈", "ding 丁"],
+      "narrative_position": "Transformation begins — beyond mere building"
     },
     {
       "id": 342,
@@ -88,8 +129,12 @@
       "pinyin": "chéng",
       "tone": 2,
       "meaning": "City",
-      "story": "A city earth turn into questions \"Cheng? How big?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Earth walls transforming — a city rises",
+      "sound_bridge": "CHENG = 'CHENG-ing into life?!' — rising disbelief",
+      "story": "The CITY was alive, in its iron way. 'CHENG?!' I GASP at the rising impossibility. Earth and transformation create living walls.",
+      "tone_emotion": "GASP - rising awe at living architecture",
+      "primitives": ["earth 土", "to turn into 成"],
+      "narrative_position": "The city lives — iron gains consciousness"
     },
     {
       "id": 343,
@@ -97,8 +142,12 @@
       "pinyin": "chéng",
       "tone": 2,
       "meaning": "sincere",
-      "story": "\"Cheng, is it really true?\" The sincere words questioned honestly.",
-      "primitives": []
+      "mnemonic_image": "Words that truly transform — honest speech",
+      "sound_bridge": "CHENG = 'CHENG-inely mad?!' — rising question",
+      "story": "Its builders were SINCERE in their madness. 'CHENG?!' I GASP at their rising devotion. Words and transformation — they truly meant every iron brick.",
+      "tone_emotion": "GASP - rising recognition of true belief",
+      "primitives": ["words 言", "to turn into 成"],
+      "narrative_position": "True believers — madness as devotion"
     },
     {
       "id": 344,
@@ -106,8 +155,12 @@
       "pinyin": "wēi",
       "tone": 1,
       "meaning": "Might",
-      "story": "This character represents might, singing \"Way!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A woman with a halberd — power embodied",
+      "sound_bridge": "WEI = 'WAY-ting for challengers...' — sustained threat",
+      "story": "Guards of great MIGHT patrolled constantly. 'WEIII...' I SING a sustained note of power. The woman and halberd — strength personified.",
+      "tone_emotion": "SING - sustained presence of overwhelming power",
+      "primitives": ["woman 女", "halberd 戈"],
+      "narrative_position": "The guards — might made visible"
     },
     {
       "id": 345,
@@ -115,8 +168,12 @@
       "pinyin": "miè",
       "tone": 4,
       "meaning": "to destroy",
-      "story": "Fire and halberds destroyed everything, extinguishing all hope.",
-      "primitives": []
+      "mnemonic_image": "Water and fire meeting halberds — total annihilation",
+      "sound_bridge": "MIE = 'Me-YEH failed!' — sharp defeat",
+      "story": "Many had tried TO DESTROY the Iron City. All had failed. 'MIE!' I COMMAND — but the sharp attempt shatters. Fire and halberds cannot break iron.",
+      "tone_emotion": "COMMAND - sharp futile attempt",
+      "primitives": ["water 氵", "fire 火", "halberd 戈"],
+      "narrative_position": "Failed attempts — destruction proves impossible"
     },
     {
       "id": 346,
@@ -124,8 +181,12 @@
       "pinyin": "xián",
       "tone": 2,
       "meaning": "everybody",
-      "story": "Like a mouth, this character means everybody and asks \"Shian? All here?\"!",
-      "primitives": []
+      "mnemonic_image": "A mouth announcing to all — universal knowledge",
+      "sound_bridge": "XIAN = 'SHIAN everyone knows?!' — rising realization",
+      "story": "EVERYONE knew its defenses were perfect. 'XIAN?!' I GASP at the rising truth. The mouth speaks to all — universal knowledge of impossibility.",
+      "tone_emotion": "GASP - rising acceptance of common truth",
+      "primitives": ["mouth 口", "halberd 戈"],
+      "narrative_position": "Common knowledge — everyone knows the truth"
     },
     {
       "id": 347,
@@ -133,8 +194,12 @@
       "pinyin": "jiǎn",
       "tone": 3,
       "meaning": "to reduce",
-      "story": "See how the water forms to reduce? It whispers \"Jian\" softly!",
-      "primitives": []
+      "mnemonic_image": "Water diminishing everyone — erosion of self",
+      "sound_bridge": "JIAN = 'Jiǎǎǎn... shrinking...' — low diminishing",
+      "story": "To even attempt theft would REDUCE a man to nothing. 'Jiǎǎǎn...' I GROAN as self diminishes. Water erodes everyone down to nothing.",
+      "tone_emotion": "GROAN - low sound of gradual reduction",
+      "primitives": ["water 氵", "everybody 咸"],
+      "narrative_position": "The cost of failure — reduced to nothing"
     },
     {
       "id": 348,
@@ -142,8 +207,12 @@
       "pinyin": "dān",
       "tone": 1,
       "meaning": "a List",
-      "story": "The strokes unite to show a list, singing \"Dan!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "A document hanging — items catalogued",
+      "sound_bridge": "DAN = 'DAHN-cing through the inventory...' — sustained enumeration",
+      "story": "The burglar made A LIST of everything he wanted. 'DANNN...' I SING through the sustained inventory. Each item catalogued, dreams enumerated.",
+      "tone_emotion": "SING - sustained note of careful planning",
+      "primitives": ["mouth 口", "field 田"],
+      "narrative_position": "The plan forms — listing impossible desires"
     },
     {
       "id": 349,
@@ -151,8 +220,12 @@
       "pinyin": "zhàn",
       "tone": 4,
       "meaning": "War",
-      "story": "Picture war taking form - it shouts \"Zhan!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "A list meets halberds — planning becomes conflict",
+      "sound_bridge": "ZHAN = 'ZHAHN-tastic battle!' — sharp declaration",
+      "story": "This would not be theft. This would be WAR. 'ZHAN!' I COMMAND with sharp resolve. The list and halberds unite — planning becomes combat.",
+      "tone_emotion": "COMMAND - sharp declaration of intent",
+      "primitives": ["a list 單", "halberd 戈"],
+      "narrative_position": "Escalation — theft becomes war"
     },
     {
       "id": 350,
@@ -160,8 +233,12 @@
       "pinyin": "qián",
       "tone": 2,
       "meaning": "Coin",
-      "story": "The gold stands for coin, asking \"Chian? How much?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Gold with twin halberds — wealth through conflict",
+      "sound_bridge": "QIAN = 'CHIAN, how much?!' — rising cost",
+      "story": "But wars cost COINS, and his motives were shallow. 'QIAN?!' I GASP at the rising expense. Gold and halberds — wealth spent on conflict.",
+      "tone_emotion": "GASP - rising shock at the cost",
+      "primitives": ["gold 金", "halberd 戈", "halberd 戈"],
+      "narrative_position": "Reality intrudes — war costs money"
     },
     {
       "id": 351,
@@ -169,8 +246,12 @@
       "pinyin": "qiǎn",
       "tone": 3,
       "meaning": "shallow",
-      "story": "The water takes the shape of shallow, whispering \"Chian\" softly!",
-      "primitives": []
+      "mnemonic_image": "Water barely covering coins — surface depth only",
+      "sound_bridge": "QIAN = 'Qiǎǎǎn... not deep...' — low admission",
+      "story": "His motives were SHALLOW. 'Qiǎǎǎn...' I GROAN the low admission. Water barely covers the twin halberds — surface ambition only.",
+      "tone_emotion": "GROAN - low acknowledgment of superficiality",
+      "primitives": ["water 氵", "halberd 戈", "halberd 戈"],
+      "narrative_position": "Truth revealed — shallow motivations"
     },
     {
       "id": 352,
@@ -178,8 +259,12 @@
       "pinyin": "jiàn",
       "tone": 4,
       "meaning": "cheap",
-      "story": "The shellfish stands for cheap, shouting \"Jian!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Shellfish with twin halberds — value diminished",
+      "sound_bridge": "JIAN = 'JIAN-ky little prize!' — sharp dismissal",
+      "story": "In the end, he stole one thing: a CHEAP iron nail. 'JIAN!' I COMMAND with sharp irony. Shellfish wealth reduced to a worthless trinket.",
+      "tone_emotion": "COMMAND - sharp ironic triumph",
+      "primitives": ["shellfish 貝", "halberd 戈", "halberd 戈"],
+      "narrative_position": "The punchline — greatest heist, smallest prize"
     }
   ]
 }

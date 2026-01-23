@@ -1,5 +1,10 @@
 {
   "lesson": 18,
+  "title": "The Day the Sky Wore Clothes",
+  "theme": "A tailor with impossible ambition stitches garments for the heavens themselves",
+  "memory_palace": "Yuan's Sky Tailor Workshop",
+  "narrative_arc": "Clothing stitched → Inside the workshop → Grief hangs → Yuan named → Dream distant → Plan called bad → Elementary start → Towel begins → Cloth stretched → Hat shaped → Curtains woven → Cotton used → Friends help → Market buzzes → Lungs work → Sash fashioned → Ways stagnant → Thorns spread → System resists → Manufacture licensed → Prophecy uttered → Rain arrives → Clouds form → Thunder announces → Electricity crackles → Frost crystallizes → Ice forms → Winter early → Heavens try on → Child recovers → People pretend → Daughter attractive → Bridge built → Standing up → Weeping at station → Chapter revealed → Nobles compete → Sovereign orders → Juvenile apprentices → Bell rings → Salesman calls → Suitable for gods → Enemy forgotten → Ancient spoon mixes → North wind carries → Back turned → Artists compare → Descendants mix → All remember → This begins → Somewhat reluctant → It magnificent → Purpose fulfilled → Grease wears → Every morning → Plum trees celebrate → Sea spreads news → Artists beg → Crowds eat → Fabrics dry → Techniques duplicated → Abdomen full → What lacked abundant → Fans blow → Song written → Melody soft → Next commissions → Assets grow → Looks inspire → All consult",
+  "narrative_story": "Someone had to dress the sky, and only one tailor was foolish enough to try. It began with clothing — a single garment, stitched with impossible ambition. Inside the tailor's workshop, grief hung like dust. His name was Yuan, and his dream was distant. Everyone said his plan was bad, his vision elementary. He started with a towel — simple, humble. He stretched it into cloth, then shaped it into a hat. Curtains followed, woven from cotton. Friends came to help. The market buzzed with rumors. Even Yuan's lungs worked overtime, breathing hope. He fashioned a sash wide enough for the horizon. The old ways became stagnant. Yuan's innovation spread like thorns. The system resisted. Only licensed tailors could manufacture for nobility. Yuan would not be silenced. He uttered a prophecy: 'The sky will wear my work.' Then came the rain. Clouds formed from nowhere — or everywhere. Thunder announced the arrival. Electricity crackled. Frost crystallized on roof tiles. Ice formed on windows. Winter arrived six months early. The heavens themselves were trying on Yuan's designs. A child who would have died young suddenly recovered. People began to pretend they had supported Yuan all along. His daughter was attractive — suddenly popular. Yuan built a bridge to the clouds so all could see. Crowds were standing up in awe. Some wept at the station, waiting for trains to the viewing platforms. Each chapter of the journey revealed new marvels. Nobles began to compete for Yuan's services. The sovereign himself placed an order. Even juvenile apprentices wanted to study with him. The temple bell rang in celebration. A traveling salesman called it suitable for gods. The sky's old appearance became an enemy of memory. With his ancient spoon, Yuan mixed dyes of impossible colors. The north wind carried his reputation everywhere. He turned his back on the doubters. Artists would compare all future work to his. His descendants learned to mix tradition with innovation. All would remember. This was the beginning of something new. Somewhat reluctantly, the Emperor admitted it was magnificent. Yuan's purpose had been fulfilled. The sky wore grease like moisturizer. Every morning now featured new patterns. Even the humble small plum trees celebrated. Far beyond the sea, news spread. Poor artists came to beg for lessons. Others came to eat at the celebration banquet. Some fabrics were left dry, others soaked in dew. They would duplicate his techniques for generations. The abdomen of the world was full of wonder. What had seemed to lack was now abundant. Fans blew cooling breezes on the admiring crowds. A song was written about Yuan's triumph. The melody was soft as clouds. Next came the commissions from other kingdoms. Yuan's assets grew beyond counting. His looks inspired paintings. All who met him wanted to consult with the master. The sky had been naked since the beginning of time. Now it wore clothes.",
   "characters": [
     {
       "id": 375,
@@ -7,8 +12,12 @@
       "pinyin": "yī",
       "tone": 1,
       "meaning": "Clothing",
-      "story": "This character represents clothing, singing \"Yee!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "A garment draped elegantly — the essence of covering",
+      "sound_bridge": "YI = 'YEEE!' — sustained note of creation",
+      "story": "It began with CLOTHING — a single garment, stitched with impossible ambition. 'YIII...' I SING the sustained note of creation. The first stitch begins everything.",
+      "tone_emotion": "SING - sustained note of ambitious beginning",
+      "primitives": ["clothing 衣"],
+      "narrative_position": "The beginning — a single garment"
     },
     {
       "id": 376,
@@ -16,8 +25,12 @@
       "pinyin": "lǐ",
       "tone": 3,
       "meaning": "inside",
-      "story": "The strokes unite to show inside, whispering \"Lee\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Clothing covering a li of distance — interior space",
+      "sound_bridge": "LI = 'Lǐǐǐ... within...' — low interior murmur",
+      "story": "INSIDE the tailor's workshop, grief hung like dust. 'Lǐǐǐ...' I GROAN the low interior. Clothing covers the li — the workshop's hidden depths.",
+      "tone_emotion": "GROAN - low atmosphere of the interior",
+      "primitives": ["clothing 衤", "li 里"],
+      "narrative_position": "The workshop — grief inside"
     },
     {
       "id": 377,
@@ -25,8 +38,12 @@
       "pinyin": "āi",
       "tone": 1,
       "meaning": "Grief",
-      "story": "When the mouth meets the eye, they form grief, singing \"Eye!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "A mouth crying inside clothing — sorrow wrapped",
+      "sound_bridge": "AI = 'AIII...' — sustained lamentation",
+      "story": "GRIEF hung like dust. 'AIII...' I SING the sustained lamentation. The mouth inside clothing — sorrow wrapped in fabric.",
+      "tone_emotion": "SING - sustained note of sorrow",
+      "primitives": ["mouth 口", "clothing 衣"],
+      "narrative_position": "The emotion — grief pervades"
     },
     {
       "id": 378,
@@ -34,8 +51,12 @@
       "pinyin": "yuán",
       "tone": 2,
       "meaning": "Yuan",
-      "story": "A striking symbol for yuan that asks \"Yuan? Who's that?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "A name in clothing — the tailor identified",
+      "sound_bridge": "YUAN = 'YU-AN who?!' — rising introduction",
+      "story": "His name was YUAN. 'YUAN?!' I GASP with rising curiosity. The clothing takes form — the tailor has a name.",
+      "tone_emotion": "GASP - rising introduction to the hero",
+      "primitives": ["clothing 衣", "earth 土", "mouth 口"],
+      "narrative_position": "The hero named — Yuan the tailor"
     },
     {
       "id": 379,
@@ -43,8 +64,12 @@
       "pinyin": "yuǎn",
       "tone": 3,
       "meaning": "distant",
-      "story": "A striking symbol for distant that whispers \"Yuan\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Walking far from Yuan — great distance",
+      "sound_bridge": "YUAN = 'Yuǎǎǎn... so far...' — low yearning",
+      "story": "His dream was DISTANT. 'Yuǎǎǎn...' I GROAN with low yearning. Walking away from Yuan — the goal impossibly far.",
+      "tone_emotion": "GROAN - low ache of distant dreams",
+      "primitives": ["walk 辶", "Yuan 袁"],
+      "narrative_position": "The dream — impossibly distant"
     },
     {
       "id": 380,
@@ -52,8 +77,12 @@
       "pinyin": "huài",
       "tone": 4,
       "meaning": "bad",
-      "story": "Like earth, this character means bad and shouts \"Hwai!\" - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Earth crumbling — destruction of hopes",
+      "sound_bridge": "HUAI = 'HWAI! Terrible!' — sharp dismissal",
+      "story": "Everyone said his plan was BAD. 'HUAI!' I COMMAND the sharp dismissal. The earth crumbles — critics destroy hope.",
+      "tone_emotion": "COMMAND - sharp condemnation",
+      "primitives": ["earth 土", "clothes 衣"],
+      "narrative_position": "Critics speak — the plan is bad"
     },
     {
       "id": 381,
@@ -61,8 +90,12 @@
       "pinyin": "chū",
       "tone": 1,
       "meaning": "elementary",
-      "story": "The knife stands for elementary, singing \"Choo!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "A knife cutting clothing — the first cut",
+      "sound_bridge": "CHU = 'CHOO!' — sustained beginning",
+      "story": "His vision was ELEMENTARY. 'CHUUU...' I SING the sustained start. The knife cuts clothing — every journey begins simply.",
+      "tone_emotion": "SING - sustained simplicity of beginning",
+      "primitives": ["knife 刀", "clothing 衤"],
+      "narrative_position": "Humble start — elementary vision"
     },
     {
       "id": 382,
@@ -70,8 +103,12 @@
       "pinyin": "jīn",
       "tone": 1,
       "meaning": "Towel",
-      "story": "A towel hangs cheerfully singing \"Jeen!\" high!",
-      "primitives": []
+      "mnemonic_image": "A simple cloth hanging — the humble towel",
+      "sound_bridge": "JIN = 'JEEEN...' — sustained simplicity",
+      "story": "He started with a TOWEL — simple, humble. 'JINNN...' I SING the sustained simplicity. The cloth hangs waiting — beginnings are modest.",
+      "tone_emotion": "SING - sustained humble note",
+      "primitives": ["towel 巾"],
+      "narrative_position": "The first material — a humble towel"
     },
     {
       "id": 383,
@@ -79,8 +116,12 @@
       "pinyin": "bù",
       "tone": 4,
       "meaning": "Cloth",
-      "story": "Picture cloth taking form - it shouts \"Boo!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "A towel stretched by hand — fabric unfurled",
+      "sound_bridge": "BU = 'BOO!' — sharp unfurling",
+      "story": "He stretched it into CLOTH. 'BU!' I COMMAND the sharp transformation. The towel becomes cloth — potential unfurls.",
+      "tone_emotion": "COMMAND - sharp transformation",
+      "primitives": ["hand 扌", "towel 巾"],
+      "narrative_position": "Transformation — towel becomes cloth"
     },
     {
       "id": 384,
@@ -88,8 +129,12 @@
       "pinyin": "mào",
       "tone": 4,
       "meaning": "Hat",
-      "story": "The eye stands for hat, shouting \"Mao!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A towel shaped for the head — covering above",
+      "sound_bridge": "MAO = 'MAO!' — sharp shaping",
+      "story": "Then shaped it into a HAT. 'MAO!' I COMMAND the sharp creation. The towel crowns the head — sky-wear begins with headwear.",
+      "tone_emotion": "COMMAND - sharp creative act",
+      "primitives": ["towel 巾", "eye 目"],
+      "narrative_position": "First sky-garment — a hat takes shape"
     },
     {
       "id": 385,
@@ -97,8 +142,12 @@
       "pinyin": "mù",
       "tone": 4,
       "meaning": "Curtain",
-      "story": "A curtain towel nobody yells \"Moo!\" sharply hanging!",
-      "primitives": []
+      "mnemonic_image": "A towel covering like nobody's watching — the veil",
+      "sound_bridge": "MU = 'MOO!' — sharp draping",
+      "story": "CURTAINS followed. 'MU!' I COMMAND the sharp draping. The towel falls like nobody's watching — veils for the sky.",
+      "tone_emotion": "COMMAND - sharp dramatic reveal",
+      "primitives": ["grass 艹", "sun 日", "big 大", "towel 巾"],
+      "narrative_position": "Expansion — curtains for clouds"
     },
     {
       "id": 386,
@@ -106,8 +155,12 @@
       "pinyin": "mián",
       "tone": 2,
       "meaning": "Cotton",
-      "story": "The tree stands for cotton, asking \"Mian? Is it soft?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Trees producing white softness — the cotton plant",
+      "sound_bridge": "MIAN = 'MIAN so soft?!' — rising wonder",
+      "story": "Woven from COTTON. 'MIAN?!' I GASP at the rising softness. The tree produces white clouds — material for sky-clothes.",
+      "tone_emotion": "GASP - rising appreciation of softness",
+      "primitives": ["tree 木", "white 白", "towel 巾"],
+      "narrative_position": "The material — soft cotton clouds"
     },
     {
       "id": 387,
@@ -115,8 +168,12 @@
       "pinyin": "bāng",
       "tone": 1,
       "meaning": "to help",
-      "story": "\"Bang!\" The towel and city sang cheerfully, helping to assist.",
-      "primitives": []
+      "mnemonic_image": "City towels binding together — assistance given",
+      "sound_bridge": "BANG = 'BANNGGG...' — sustained assistance",
+      "story": "Friends came TO HELP. 'BANGGG...' I SING the sustained support. City and towels unite — many hands make light work.",
+      "tone_emotion": "SING - sustained note of friendship",
+      "primitives": ["towel 巾", "state 邦"],
+      "narrative_position": "Support arrives — friends help"
     },
     {
       "id": 388,
@@ -124,8 +181,12 @@
       "pinyin": "shì",
       "tone": 4,
       "meaning": "Market",
-      "story": "This character represents market, shouting \"Shi!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A towel-covered stall — the marketplace",
+      "sound_bridge": "SHI = 'SHI! Rumors!' — sharp buzz",
+      "story": "The MARKET buzzed with rumors. 'SHI!' I COMMAND the sharp buzz of gossip. The marketplace stirs — Yuan's name spreads.",
+      "tone_emotion": "COMMAND - sharp spread of news",
+      "primitives": ["lid 亠", "towel 巾"],
+      "narrative_position": "Word spreads — the market buzzes"
     },
     {
       "id": 389,
@@ -133,8 +194,12 @@
       "pinyin": "fèi",
       "tone": 4,
       "meaning": "Lungs",
-      "story": "A striking symbol for lungs that shouts \"Fay!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Flesh breathing in the marketplace — vital organs",
+      "sound_bridge": "FEI = 'FAY! Breathe!' — sharp inhalation",
+      "story": "Even Yuan's LUNGS worked overtime. 'FEI!' I COMMAND the sharp breath. Flesh breathes hope — lungs fuel ambition.",
+      "tone_emotion": "COMMAND - sharp vital breath",
+      "primitives": ["flesh 月", "market 市"],
+      "narrative_position": "Physical dedication — lungs work overtime"
     },
     {
       "id": 390,
@@ -142,8 +207,12 @@
       "pinyin": "dài",
       "tone": 4,
       "meaning": "Sash",
-      "story": "Picture sash taking form - it shouts \"Dai!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "A towel belt stretching wide — the horizon wrapped",
+      "sound_bridge": "DAI = 'DAI! Wide!' — sharp stretch",
+      "story": "He fashioned a SASH wide enough for the horizon. 'DAI!' I COMMAND the sharp stretch. The belt-towel spans infinity.",
+      "tone_emotion": "COMMAND - sharp ambitious stretch",
+      "primitives": ["mountain 山", "towel 巾"],
+      "narrative_position": "Ambition grows — a sash for the horizon"
     },
     {
       "id": 391,
@@ -151,8 +220,12 @@
       "pinyin": "zhì",
       "tone": 4,
       "meaning": "stagnant",
-      "story": "The water takes the shape of stagnant, shouting \"Zhi!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Water with a belt — flow restricted",
+      "sound_bridge": "ZHI = 'ZHI! Stuck!' — sharp blockage",
+      "story": "The old ways became STAGNANT. 'ZHI!' I COMMAND against the sharp blockage. Water bound by sash — tradition cannot flow.",
+      "tone_emotion": "COMMAND - sharp break from stagnation",
+      "primitives": ["water 氵", "belt 帶"],
+      "narrative_position": "Tradition resists — old ways stagnate"
     },
     {
       "id": 392,
@@ -160,8 +233,12 @@
       "pinyin": "cì",
       "tone": 4,
       "meaning": "Thorn",
-      "story": "The tree takes the shape of thorn, shouting \"Tsih!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "A knife in the trees — sharp growth spreading",
+      "sound_bridge": "CI = 'TSIH! Spreading!' — sharp pierce",
+      "story": "Yuan's innovation spread like THORNS. 'CI!' I COMMAND the sharp spread. Knife through trees — ideas pierce resistance.",
+      "tone_emotion": "COMMAND - sharp penetrating spread",
+      "primitives": ["tree 木", "knife 刂"],
+      "narrative_position": "Innovation spreads — thorns of change"
     },
     {
       "id": 393,
@@ -169,8 +246,12 @@
       "pinyin": "zhì",
       "tone": 4,
       "meaning": "System",
-      "story": "The knife takes the shape of system, shouting \"Zhi!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "A knife creating order — structure imposed",
+      "sound_bridge": "ZHI = 'ZHI! Rules!' — sharp enforcement",
+      "story": "The SYSTEM resisted. 'ZHI!' I COMMAND the sharp opposition. The knife carves order — rules block progress.",
+      "tone_emotion": "COMMAND - sharp systemic resistance",
+      "primitives": ["cow 牛", "knife 刂"],
+      "narrative_position": "Opposition — the system fights back"
     },
     {
       "id": 394,
@@ -178,8 +259,12 @@
       "pinyin": "zhì",
       "tone": 4,
       "meaning": "to manufacture",
-      "story": "Picture to manufacture taking form - it shouts \"Zhi!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "System meets clothing — licensed production",
+      "sound_bridge": "ZHI = 'ZHI! Licensed!' — sharp restriction",
+      "story": "Only licensed tailors could MANUFACTURE for nobility. 'ZHI!' I COMMAND the sharp restriction. System controls clothing — production is guarded.",
+      "tone_emotion": "COMMAND - sharp gatekeeping",
+      "primitives": ["system 制", "clothing 衣"],
+      "narrative_position": "Barriers — manufacturing restricted"
     },
     {
       "id": 395,
@@ -187,8 +272,12 @@
       "pinyin": "yún",
       "tone": 2,
       "meaning": "to utter",
-      "story": "\"Yun, what did you say?\" Two clouds questioned the utterance.",
-      "primitives": []
+      "mnemonic_image": "Two clouds speaking — words floating upward",
+      "sound_bridge": "YUN = 'YUN prophecy?!' — rising declaration",
+      "story": "Yuan would not be silenced. He UTTERED a prophecy. 'YUN?!' I GASP the rising declaration. Two clouds speak — 'The sky will wear my work.'",
+      "tone_emotion": "GASP - rising prophetic moment",
+      "primitives": ["two 二", "private 厶"],
+      "narrative_position": "The prophecy — Yuan speaks his vision"
     },
     {
       "id": 396,
@@ -196,8 +285,12 @@
       "pinyin": "yǔ",
       "tone": 3,
       "meaning": "the Rain",
-      "story": "See how the rain forms the rain? It whispers \"Yu\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Drops falling from clouds — water from sky",
+      "sound_bridge": "YU = 'Yǔǔǔ... falling...' — low steady fall",
+      "story": "Then came THE RAIN. 'Yǔǔǔ...' I GROAN the low steady descent. Drops fall — the sky responds to Yuan.",
+      "tone_emotion": "GROAN - low rhythm of rainfall",
+      "primitives": ["rain 雨"],
+      "narrative_position": "The response — rain arrives"
     },
     {
       "id": 397,
@@ -205,8 +298,12 @@
       "pinyin": "yún",
       "tone": 2,
       "meaning": "Cloud",
-      "story": "A cloud rain uttering questions \"Yun? Why float?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Rain uttering — clouds as speaking water",
+      "sound_bridge": "YUN = 'YUN from where?!' — rising wonder",
+      "story": "CLOUDS formed from nowhere — or everywhere. 'YUN?!' I GASP with rising wonder. Rain utters clouds — the sky dresses itself.",
+      "tone_emotion": "GASP - rising amazement at formation",
+      "primitives": ["rain 雨", "utter 云"],
+      "narrative_position": "Wonder — clouds form everywhere"
     },
     {
       "id": 398,
@@ -214,8 +311,12 @@
       "pinyin": "léi",
       "tone": 2,
       "meaning": "Thunder",
-      "story": "With a field combined with rain, you get thunder - \"Lay? Why boom?\" rings out curiously!",
-      "primitives": []
+      "mnemonic_image": "Rain over fields — the sound of storms",
+      "sound_bridge": "LEI = 'LAY the announcement?!' — rising rumble",
+      "story": "THUNDER announced the arrival. 'LEI?!' I GASP at the rising rumble. Rain crashes over fields — heaven's voice booms.",
+      "tone_emotion": "GASP - rising boom of announcement",
+      "primitives": ["rain 雨", "field 田"],
+      "narrative_position": "Announcement — thunder heralds change"
     },
     {
       "id": 399,
@@ -223,8 +324,12 @@
       "pinyin": "diàn",
       "tone": 4,
       "meaning": "Electricity",
-      "story": "The rain takes the shape of electricity, shouting \"Dian!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Rain with lightning tail — power from clouds",
+      "sound_bridge": "DIAN = 'DIAN! Crackle!' — sharp flash",
+      "story": "ELECTRICITY crackled. 'DIAN!' I COMMAND the sharp flash. Rain extends lightning — power illuminates.",
+      "tone_emotion": "COMMAND - sharp electric flash",
+      "primitives": ["rain 雨", "extend 申"],
+      "narrative_position": "Power — electricity crackles"
     },
     {
       "id": 400,
@@ -232,8 +337,12 @@
       "pinyin": "shuāng",
       "tone": 1,
       "meaning": "Frost",
-      "story": "The tree and rain unite to create frost, singing \"Shwang!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "Rain meeting mutual cold — ice crystals form",
+      "sound_bridge": "SHUANG = 'SHWANNGGG...' — sustained crystallization",
+      "story": "FROST crystallized on roof tiles. 'SHUANGGG...' I SING the sustained formation. Rain meets mutual cold — crystals bloom.",
+      "tone_emotion": "SING - sustained crystalline beauty",
+      "primitives": ["rain 雨", "mutual 相"],
+      "narrative_position": "Transformation — frost crystallizes"
     },
     {
       "id": 401,
@@ -241,8 +350,12 @@
       "pinyin": "bīng",
       "tone": 1,
       "meaning": "Ice",
-      "story": "Like water, this character means ice and sings \"Bing!\" like ripples spreading across a pond!",
-      "primitives": []
+      "mnemonic_image": "Water frozen solid — crystalline stillness",
+      "sound_bridge": "BING = 'BINNGGG...' — sustained freezing",
+      "story": "ICE formed on windows. 'BINGGG...' I SING the sustained freeze. Water becomes ice — winter in summer.",
+      "tone_emotion": "SING - sustained frozen note",
+      "primitives": ["ice 冫", "water 水"],
+      "narrative_position": "Frozen wonder — ice on windows"
     },
     {
       "id": 402,
@@ -250,8 +363,12 @@
       "pinyin": "dōng",
       "tone": 1,
       "meaning": "Winter",
-      "story": "The strokes unite to show winter, singing \"Dong!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "Ice drops at year's end — the cold season",
+      "sound_bridge": "DONG = 'DONNGGG...' — sustained cold",
+      "story": "WINTER arrived six months early. 'DONGGG...' I SING the sustained cold. The season comes unbidden — Yuan commands weather.",
+      "tone_emotion": "SING - sustained seasonal arrival",
+      "primitives": ["ice 冫", "follow 夂"],
+      "narrative_position": "Season shifts — winter arrives early"
     },
     {
       "id": 403,
@@ -259,8 +376,12 @@
       "pinyin": "tiān",
       "tone": 1,
       "meaning": "Heavens",
-      "story": "\"Tian!\" Heaven stretched high above, where the big person sang happily.",
-      "primitives": []
+      "mnemonic_image": "The great one above — sky supreme",
+      "sound_bridge": "TIAN = 'TIANNN...' — sustained vastness",
+      "story": "The HEAVENS themselves were trying on Yuan's designs. 'TIANNN...' I SING the sustained majesty. The great one above — dressed at last.",
+      "tone_emotion": "SING - sustained heavenly presence",
+      "primitives": ["one 一", "big 大"],
+      "narrative_position": "The miracle — heavens wear Yuan's work"
     },
     {
       "id": 404,
@@ -268,8 +389,12 @@
       "pinyin": "yāo",
       "tone": 1,
       "meaning": "to die young",
-      "story": "Picture to die young taking form - it sings \"Yao!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "A bent person — life cut short",
+      "sound_bridge": "YAO = 'YAOOO...' — sustained lament",
+      "story": "A child who would have DIED YOUNG suddenly recovered. 'YAOOO...' I SING — but the sustained lament becomes hope. Death averted.",
+      "tone_emotion": "SING - sustained reversal of fate",
+      "primitives": ["bent 夭"],
+      "narrative_position": "Miracle — death reversed"
     },
     {
       "id": 405,
@@ -277,8 +402,12 @@
       "pinyin": "qiáo",
       "tone": 2,
       "meaning": "to pretend",
-      "story": "\"Chiao, is it really that high?\" he questioned, pretending to reach tall heaven.",
-      "primitives": []
+      "mnemonic_image": "A tall mouth speaking false — pretense high",
+      "sound_bridge": "QIAO = 'CHIAO always supported?!' — rising pretense",
+      "story": "People began TO PRETEND they had supported Yuan all along. 'QIAO?!' I GASP at rising hypocrisy. Tall words — everyone pretends.",
+      "tone_emotion": "GASP - rising recognition of fakeness",
+      "primitives": ["tall 高", "die young 夭"],
+      "narrative_position": "Hypocrisy — pretenders emerge"
     },
     {
       "id": 406,
@@ -286,8 +415,12 @@
       "pinyin": "qiáo",
       "tone": 2,
       "meaning": "Bridge",
-      "story": "A bridge tree pretend questions \"Chiao? Can it cross?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "A tree pretending to span — wooden crossing",
+      "sound_bridge": "QIAO = 'CHIAO to the clouds?!' — rising construction",
+      "story": "Yuan built a BRIDGE to the clouds so all could see. 'QIAO?!' I GASP at rising ambition. Tree pretends to reach heaven — and succeeds.",
+      "tone_emotion": "GASP - rising amazement at construction",
+      "primitives": ["tree 木", "pretend 喬"],
+      "narrative_position": "Construction — bridge to clouds"
     },
     {
       "id": 407,
@@ -295,8 +428,12 @@
       "pinyin": "jiāo",
       "tone": 1,
       "meaning": "attractive",
-      "story": "The attractive woman sang \"Jiao!\" charmingly while pretending to be coy.",
-      "primitives": []
+      "mnemonic_image": "A woman pretending coyly — charming facade",
+      "sound_bridge": "JIAO = 'JIAOOO...' — sustained charm",
+      "story": "His daughter was ATTRACTIVE — suddenly popular. 'JIAOOO...' I SING the sustained allure. Woman pretends coyly — beauty recognized.",
+      "tone_emotion": "SING - sustained note of charm",
+      "primitives": ["woman 女", "pretend 喬"],
+      "narrative_position": "Fame spreads — daughter becomes popular"
     },
     {
       "id": 408,
@@ -304,8 +441,12 @@
       "pinyin": "lì",
       "tone": 4,
       "meaning": "standing up",
-      "story": "This character represents standing up, shouting \"Lee!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "A person firmly planted — vertical presence",
+      "sound_bridge": "LI = 'LEE! Rise!' — sharp vertical",
+      "story": "Crowds were STANDING UP in awe. 'LI!' I COMMAND the sharp rise. People plant themselves — vertical attention.",
+      "tone_emotion": "COMMAND - sharp vertical attention",
+      "primitives": ["stand 立"],
+      "narrative_position": "Reaction — crowds stand in awe"
     },
     {
       "id": 409,
@@ -313,8 +454,12 @@
       "pinyin": "qì",
       "tone": 4,
       "meaning": "to weep",
-      "story": "See how the water forms to weep? It shouts \"Chi!\" sharply like ripples spreading across a pond!",
-      "primitives": []
+      "mnemonic_image": "Water standing — tears falling while upright",
+      "sound_bridge": "QI = 'CHI! Tears!' — sharp emotion",
+      "story": "Some WEPT at the station. 'QI!' I COMMAND the sharp tears. Water stands — emotion overflows vertically.",
+      "tone_emotion": "COMMAND - sharp emotional release",
+      "primitives": ["water 氵", "stand 立"],
+      "narrative_position": "Emotion — people weep at beauty"
     },
     {
       "id": 410,
@@ -322,8 +467,12 @@
       "pinyin": "zhàn",
       "tone": 4,
       "meaning": "Station",
-      "story": "A striking symbol for station that shouts \"Zhan!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A standing place to divine — the waiting point",
+      "sound_bridge": "ZHAN = 'ZHAN! Wait here!' — sharp location",
+      "story": "Some wept at the STATION. 'ZHAN!' I COMMAND the sharp place. Standing to divine the future — waiting for trains.",
+      "tone_emotion": "COMMAND - sharp designated place",
+      "primitives": ["stand 立", "divine 占"],
+      "narrative_position": "Location — the viewing station"
     },
     {
       "id": 411,
@@ -331,8 +480,12 @@
       "pinyin": "zhāng",
       "tone": 1,
       "meaning": "Chapter",
-      "story": "This character represents chapter, singing \"Zhang!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "Standing tall with early markings — story sections",
+      "sound_bridge": "ZHANG = 'ZHANNGGG...' — sustained narration",
+      "story": "Each CHAPTER of the journey revealed new marvels. 'ZHANNGGG...' I SING the sustained story. Standing early — each section unfolds.",
+      "tone_emotion": "SING - sustained narrative flow",
+      "primitives": ["stand 立", "early 早"],
+      "narrative_position": "Story unfolds — chapters reveal marvels"
     },
     {
       "id": 412,
@@ -340,8 +493,12 @@
       "pinyin": "jìng",
       "tone": 4,
       "meaning": "to compete",
-      "story": "\"Jing!\" The brothers commanded sharply, standing together to compete and race.",
-      "primitives": []
+      "mnemonic_image": "Brothers standing against each other — rivalry",
+      "sound_bridge": "JING = 'JING! Race!' — sharp rivalry",
+      "story": "Nobles began TO COMPETE for Yuan's services. 'JING!' I COMMAND the sharp rivalry. Brothers stand opposed — competition for favor.",
+      "tone_emotion": "COMMAND - sharp competitive edge",
+      "primitives": ["stand 立", "stand 立", "brother 兄", "brother 兄"],
+      "narrative_position": "Success — nobles compete for Yuan"
     },
     {
       "id": 413,
@@ -349,8 +506,12 @@
       "pinyin": "dì",
       "tone": 4,
       "meaning": "Sovereign",
-      "story": "This character represents sovereign, shouting \"Dee!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "The toweled ruler above all — supreme authority",
+      "sound_bridge": "DI = 'DEE! Imperial!' — sharp command",
+      "story": "The SOVEREIGN himself placed an order. 'DI!' I COMMAND the sharp imperial decree. The ruler above all — even emperors want Yuan's work.",
+      "tone_emotion": "COMMAND - sharp imperial attention",
+      "primitives": ["lid 亠", "towel 巾"],
+      "narrative_position": "Royal attention — the emperor orders"
     },
     {
       "id": 414,
@@ -358,8 +519,12 @@
       "pinyin": "tóng",
       "tone": 2,
       "meaning": "Juvenile",
-      "story": "A juvenile standing heavy questions \"Tong? Still young?\" curiously!",
-      "primitives": []
+      "mnemonic_image": "Standing heavy with youth — children learning",
+      "sound_bridge": "TONG = 'TONG too?!' — rising inclusion",
+      "story": "Even JUVENILE apprentices wanted to study with him. 'TONG?!' I GASP at rising interest. Standing heavy — children join the cause.",
+      "tone_emotion": "GASP - rising inclusion of youth",
+      "primitives": ["stand 立", "heavy 重"],
+      "narrative_position": "Apprentices — children want to learn"
     },
     {
       "id": 415,
@@ -367,8 +532,12 @@
       "pinyin": "zhōng",
       "tone": 1,
       "meaning": "Bell",
-      "story": "The gold takes the shape of bell, singing \"Zhong!\" cheerfully!",
-      "primitives": []
+      "mnemonic_image": "Gold and weight combined — the ringing instrument",
+      "sound_bridge": "ZHONG = 'ZHONNGGG...' — sustained ringing",
+      "story": "The temple BELL rang in celebration. 'ZHONNGGG...' I SING the sustained resonance. Gold and weight — celebration peals.",
+      "tone_emotion": "SING - sustained celebratory ring",
+      "primitives": ["gold 金", "heavy 重"],
+      "narrative_position": "Celebration — bells ring out"
     },
     {
       "id": 416,
@@ -376,8 +545,12 @@
       "pinyin": "shāng",
       "tone": 1,
       "meaning": "Salesman",
-      "story": "Like a mouth, this character means salesman and sings \"Shang!\"!",
-      "primitives": []
+      "mnemonic_image": "A lid over mouths trading — merchants speaking",
+      "sound_bridge": "SHANG = 'SHANNGGG...' — sustained selling",
+      "story": "A traveling SALESMAN called it suitable for gods. 'SHANNGGG...' I SING the sustained praise. Mouths under lid — merchants spread the word.",
+      "tone_emotion": "SING - sustained commercial praise",
+      "primitives": ["lid 亠", "mouth 口", "mouth 口"],
+      "narrative_position": "Validation — salesmen praise the work"
     },
     {
       "id": 417,
@@ -385,8 +558,12 @@
       "pinyin": "shì",
       "tone": 4,
       "meaning": "suitable",
-      "story": "The strokes unite to show suitable, shouting \"Shi!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "Walking to the right measure — perfect fit",
+      "sound_bridge": "SHI = 'SHI! Perfect fit!' — sharp approval",
+      "story": "Called it SUITABLE for gods. 'SHI!' I COMMAND the sharp approval. Walking to the right measure — divine garments fit.",
+      "tone_emotion": "COMMAND - sharp declaration of fitness",
+      "primitives": ["walk 辶", "salesman 商"],
+      "narrative_position": "Perfect — suitable for gods"
     },
     {
       "id": 418,
@@ -394,8 +571,12 @@
       "pinyin": "dí",
       "tone": 2,
       "meaning": "Enemy",
-      "story": "\"Di, want to fight?\" The enemy salesman questioned after being struck.",
-      "primitives": []
+      "mnemonic_image": "A salesman struck down — opposition defeated",
+      "sound_bridge": "DI = 'DI remember?!' — rising challenge",
+      "story": "The sky's old appearance became an ENEMY of memory. 'DI?!' I GASP — rising forgetting. The old salesman struck — the past fades.",
+      "tone_emotion": "GASP - rising erasure of the past",
+      "primitives": ["salesman 商", "strike 攵"],
+      "narrative_position": "Forgetting — the old sky forgotten"
     },
     {
       "id": 419,
@@ -403,8 +584,12 @@
       "pinyin": "bǐ",
       "tone": 3,
       "meaning": "Ancient Spoon",
-      "story": "Picture ancient spoon taking form - it whispers \"Bee\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "A primitive scooping tool — the first utensil",
+      "sound_bridge": "BI = 'Bǐǐǐ... stirring...' — low mixing",
+      "story": "With his ANCIENT SPOON, Yuan mixed dyes. 'Bǐǐǐ...' I GROAN the low stirring. The first tool — colors blend.",
+      "tone_emotion": "GROAN - low deliberate mixing",
+      "primitives": ["spoon 匕"],
+      "narrative_position": "Tools — ancient spoon mixes colors"
     },
     {
       "id": 420,
@@ -412,8 +597,12 @@
       "pinyin": "běi",
       "tone": 3,
       "meaning": "North",
-      "story": "The strokes unite to show north, whispering \"Bay\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Two spoons pointing away — the cold direction",
+      "sound_bridge": "BEI = 'Běěěi... from afar...' — low distance",
+      "story": "The NORTH wind carried his reputation everywhere. 'Běěěi...' I GROAN the low cold reach. Two spoons point away — fame travels far.",
+      "tone_emotion": "GROAN - low far-reaching spread",
+      "primitives": ["spoon 匕", "spoon 匕"],
+      "narrative_position": "Fame spreads — north wind carries reputation"
     },
     {
       "id": 421,
@@ -421,8 +610,12 @@
       "pinyin": "bèi",
       "tone": 4,
       "meaning": "Back",
-      "story": "Picture back taking form - it shouts \"Bay!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "North flesh — the body's rear",
+      "sound_bridge": "BEI = 'BAY! Turn away!' — sharp dismissal",
+      "story": "He turned his BACK on the doubters. 'BEI!' I COMMAND the sharp turn. North flesh — Yuan faces forward only.",
+      "tone_emotion": "COMMAND - sharp turning away",
+      "primitives": ["north 北", "flesh 月"],
+      "narrative_position": "Confidence — back turned on doubters"
     },
     {
       "id": 422,
@@ -430,8 +623,12 @@
       "pinyin": "bǐ",
       "tone": 3,
       "meaning": "to compare",
-      "story": "Picture to compare taking form - it whispers \"Bee\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Two people side by side — measuring against",
+      "sound_bridge": "BI = 'Bǐǐǐ... measuring...' — low judgment",
+      "story": "Artists would COMPARE all future work to his. 'Bǐǐǐ...' I GROAN the low standard. Two side by side — Yuan becomes the measure.",
+      "tone_emotion": "GROAN - low establishment of standard",
+      "primitives": ["compare 比"],
+      "narrative_position": "Legacy — all work compared to Yuan's"
     },
     {
       "id": 423,
@@ -439,8 +636,12 @@
       "pinyin": "kūn",
       "tone": 1,
       "meaning": "Descendants",
-      "story": "Like a sun, this character means descendants and sings \"Koon!\"!",
-      "primitives": []
+      "mnemonic_image": "Sun over comparison — generations measured",
+      "sound_bridge": "KUN = 'KUNNN...' — sustained lineage",
+      "story": "His DESCENDANTS learned to mix tradition with innovation. 'KUNNN...' I SING the sustained legacy. Sun over comparison — generations continue.",
+      "tone_emotion": "SING - sustained generational continuation",
+      "primitives": ["sun 日", "compare 比"],
+      "narrative_position": "Legacy continues — descendants learn"
     },
     {
       "id": 424,
@@ -448,8 +649,12 @@
       "pinyin": "hùn",
       "tone": 4,
       "meaning": "to mix",
-      "story": "The water stands for to mix, shouting \"Hoon!\" sharply like ripples spreading across a pond!",
-      "primitives": []
+      "mnemonic_image": "Water with descendants — blending traditions",
+      "sound_bridge": "HUN = 'HOON! Blend!' — sharp combination",
+      "story": "Learned TO MIX tradition with innovation. 'HUN!' I COMMAND the sharp blend. Water and descendants — old and new combine.",
+      "tone_emotion": "COMMAND - sharp creative blend",
+      "primitives": ["water 氵", "descendants 昆"],
+      "narrative_position": "Innovation — mixing tradition with new"
     },
     {
       "id": 425,
@@ -457,8 +662,12 @@
       "pinyin": "jiē",
       "tone": 1,
       "meaning": "all",
-      "story": "The white stands for all, singing \"Jieh!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "White comparison — everyone included",
+      "sound_bridge": "JIE = 'JIEEE...' — sustained totality",
+      "story": "ALL would remember. 'JIEEE...' I SING the sustained universality. White comparison — everyone included in memory.",
+      "tone_emotion": "SING - sustained inclusive note",
+      "primitives": ["compare 比", "white 白"],
+      "narrative_position": "Universal — all will remember"
     },
     {
       "id": 426,
@@ -466,8 +675,12 @@
       "pinyin": "cǐ",
       "tone": 3,
       "meaning": "this",
-      "story": "A striking symbol for this that whispers \"Tsih\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Stop and compare — pointing to here",
+      "sound_bridge": "CI = 'Tsǐǐǐ... this moment...' — low pointing",
+      "story": "THIS was the beginning of something new. 'Cǐǐǐ...' I GROAN the low significance. Stop and compare — this exact point.",
+      "tone_emotion": "GROAN - low emphasis on significance",
+      "primitives": ["stop 止", "compare 比"],
+      "narrative_position": "Significance — this is the beginning"
     },
     {
       "id": 427,
@@ -475,8 +688,12 @@
       "pinyin": "xiē",
       "tone": 1,
       "meaning": "somewhat",
-      "story": "Picture somewhat taking form - it sings \"Shieh!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "This with two strokes — a partial amount",
+      "sound_bridge": "XIE = 'SHIEEE...' — sustained partial",
+      "story": "SOMEWHAT reluctantly, the Emperor admitted. 'SHIEEE...' I SING the sustained qualification. This with addition — partial acknowledgment.",
+      "tone_emotion": "SING - sustained partial admission",
+      "primitives": ["this 此", "two 二"],
+      "narrative_position": "Imperial — somewhat reluctant praise"
     },
     {
       "id": 428,
@@ -484,8 +701,12 @@
       "pinyin": "tuō",
       "tone": 1,
       "meaning": "it",
-      "story": "The roof takes the shape of it, singing \"Twoh!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A roof with spoon beneath — the referred thing",
+      "sound_bridge": "TUO = 'TWOOO...' — sustained reference",
+      "story": "Admitted IT was magnificent. 'TWOOO...' I SING the sustained acknowledgment. Roof over spoon — 'it' receives praise.",
+      "tone_emotion": "SING - sustained objective reference",
+      "primitives": ["roof 宀", "spoon 匕"],
+      "narrative_position": "Recognition — 'it' is magnificent"
     },
     {
       "id": 429,
@@ -493,8 +714,12 @@
       "pinyin": "zhǐ",
       "tone": 3,
       "meaning": "Purpose",
-      "story": "Like a sun, this character means purpose and whispers \"Zhi\"!",
-      "primitives": []
+      "mnemonic_image": "Sun over spoon — the essential aim",
+      "sound_bridge": "ZHI = 'Zhǐǐǐ... the point...' — low essence",
+      "story": "Yuan's PURPOSE had been fulfilled. 'Zhǐǐǐ...' I GROAN the low satisfaction. Sun illuminates spoon — the aim achieved.",
+      "tone_emotion": "GROAN - low completion of purpose",
+      "primitives": ["sun 日", "spoon 匕"],
+      "narrative_position": "Fulfillment — purpose achieved"
     },
     {
       "id": 430,
@@ -502,8 +727,12 @@
       "pinyin": "zhī",
       "tone": 1,
       "meaning": "Grease",
-      "story": "Picture grease taking form - it sings \"Zhi!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Flesh with purpose — the body's oil",
+      "sound_bridge": "ZHI = 'ZHIII...' — sustained sheen",
+      "story": "The sky wore GREASE like moisturizer. 'ZHIII...' I SING the sustained sheen. Flesh finds purpose — the sky glows.",
+      "tone_emotion": "SING - sustained lustrous quality",
+      "primitives": ["flesh 月", "purpose 旨"],
+      "narrative_position": "Beauty — sky wears grease like moisturizer"
     },
     {
       "id": 431,
@@ -511,8 +740,12 @@
       "pinyin": "měi",
       "tone": 3,
       "meaning": "every",
-      "story": "This character represents every, whispering \"May\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A mother's repetition — each instance",
+      "sound_bridge": "MEI = 'Měěěi... each one...' — low frequency",
+      "story": "EVERY morning now featured new patterns. 'Měěěi...' I GROAN the low regularity. The mother repeats — each day brings patterns.",
+      "tone_emotion": "GROAN - low regular occurrence",
+      "primitives": ["person 人", "mother 母"],
+      "narrative_position": "Daily wonder — every morning new patterns"
     },
     {
       "id": 432,
@@ -520,8 +753,12 @@
       "pinyin": "méi",
       "tone": 2,
       "meaning": "Small Plum",
-      "story": "\"May they be ripe yet?\" he questioned the small plum trees every day.",
-      "primitives": []
+      "mnemonic_image": "Tree with every blossom — the plum flowers",
+      "sound_bridge": "MEI = 'MAY they bloom?!' — rising hope",
+      "story": "Even the humble SMALL PLUM trees celebrated. 'MEI?!' I GASP at rising joy. Trees join every celebration — nature rejoices.",
+      "tone_emotion": "GASP - rising natural celebration",
+      "primitives": ["tree 木", "every 每"],
+      "narrative_position": "Nature celebrates — plum trees rejoice"
     },
     {
       "id": 433,
@@ -529,8 +766,12 @@
       "pinyin": "hǎi",
       "tone": 3,
       "meaning": "Sea",
-      "story": "The water stands for sea, whispering \"Hai\" softly like ripples spreading across a pond!",
-      "primitives": []
+      "mnemonic_image": "Water with every drop — the vast ocean",
+      "sound_bridge": "HAI = 'Hǎǎǎi... endless...' — low vastness",
+      "story": "Far beyond the SEA, news spread. 'Hǎǎǎi...' I GROAN the low expanse. Water holds every drop — fame crosses oceans.",
+      "tone_emotion": "GROAN - low vast spreading",
+      "primitives": ["water 氵", "every 每"],
+      "narrative_position": "Global — news spreads beyond the sea"
     },
     {
       "id": 434,
@@ -538,8 +779,12 @@
       "pinyin": "qǐ",
       "tone": 3,
       "meaning": "to beg",
-      "story": "Like a person, this character means to beg and whispers \"Chi\"!",
-      "primitives": []
+      "mnemonic_image": "A bent person asking — the supplicant",
+      "sound_bridge": "QI = 'Chǐǐǐ... please...' — low pleading",
+      "story": "Poor artists came TO BEG for lessons. 'Qǐǐǐ...' I GROAN the low supplication. The bent person asks — artists plead for teaching.",
+      "tone_emotion": "GROAN - low desperate plea",
+      "primitives": ["beg 乞"],
+      "narrative_position": "Pilgrimage — artists beg for lessons"
     },
     {
       "id": 435,
@@ -547,8 +792,12 @@
       "pinyin": "chī",
       "tone": 1,
       "meaning": "to eat",
-      "story": "\"Chi, I'm hungry!\" His mouth begged to eat and consume food.",
-      "primitives": []
+      "mnemonic_image": "A mouth begging — consuming hungrily",
+      "sound_bridge": "CHI = 'CHIII...' — sustained consumption",
+      "story": "Others came TO EAT at the celebration banquet. 'CHIII...' I SING the sustained feasting. Mouth begs — eating celebrates.",
+      "tone_emotion": "SING - sustained joyful eating",
+      "primitives": ["mouth 口", "beg 乞"],
+      "narrative_position": "Feast — eating at the celebration"
     },
     {
       "id": 436,
@@ -556,8 +805,12 @@
       "pinyin": "gān",
       "tone": 1,
       "meaning": "dry",
-      "story": "Picture dry taking form - it sings \"Gan!\" with vivid energy!",
-      "primitives": []
+      "mnemonic_image": "Rising sun drying — moisture removed",
+      "sound_bridge": "GAN = 'GANNN...' — sustained dryness",
+      "story": "Some fabrics were left DRY. 'GANNN...' I SING the sustained desiccation. The sun rises — moisture evaporates.",
+      "tone_emotion": "SING - sustained dry state",
+      "primitives": ["sun 日", "early 早"],
+      "narrative_position": "Technique — some fabrics left dry"
     },
     {
       "id": 437,
@@ -565,8 +818,12 @@
       "pinyin": "fù",
       "tone": 4,
       "meaning": "to duplicate",
-      "story": "\"Foo!\" he commanded, duplicating the dry clothes by repeating the pattern.",
-      "primitives": []
+      "mnemonic_image": "Clothing repeated — patterns copied",
+      "sound_bridge": "FU = 'FOO! Copy!' — sharp replication",
+      "story": "They would DUPLICATE his techniques for generations. 'FU!' I COMMAND the sharp copying. Clothing repeated — legacy continues.",
+      "tone_emotion": "COMMAND - sharp preservation of technique",
+      "primitives": ["clothing 衤", "return 復"],
+      "narrative_position": "Legacy — techniques duplicated for generations"
     },
     {
       "id": 438,
@@ -574,8 +831,12 @@
       "pinyin": "fù",
       "tone": 4,
       "meaning": "Abdomen",
-      "story": "This character represents abdomen, shouting \"Foo!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Flesh returning to fullness — the belly satisfied",
+      "sound_bridge": "FU = 'FOO! Full!' — sharp satisfaction",
+      "story": "The ABDOMEN of the world was full of wonder. 'FU!' I COMMAND the sharp fullness. Flesh returns — the world's belly satisfied.",
+      "tone_emotion": "COMMAND - sharp complete satisfaction",
+      "primitives": ["flesh 月", "return 復"],
+      "narrative_position": "Satisfaction — the world is full"
     },
     {
       "id": 439,
@@ -583,8 +844,12 @@
       "pinyin": "qiàn",
       "tone": 4,
       "meaning": "to lack",
-      "story": "The person takes the shape of to lack, shouting \"Chian!\" sharply!",
-      "primitives": []
+      "mnemonic_image": "A person yawning — something missing",
+      "sound_bridge": "QIAN = 'CHIAN! Missing!' — sharp absence",
+      "story": "What had seemed TO LACK was now abundant. 'QIAN!' I COMMAND — but the sharp absence is filled. The yawn closes.",
+      "tone_emotion": "COMMAND - sharp recognition of former lack",
+      "primitives": ["lack 欠"],
+      "narrative_position": "Transformation — lack becomes abundance"
     },
     {
       "id": 440,
@@ -592,8 +857,12 @@
       "pinyin": "chuī",
       "tone": 1,
       "meaning": "to blow",
-      "story": "\"Chway!\" she sang, blowing puffs of air from her mouth for lack of a fan.",
-      "primitives": []
+      "mnemonic_image": "A mouth lacking breath — exhaling air",
+      "sound_bridge": "CHUI = 'CHWAYYY...' — sustained breeze",
+      "story": "Fans BLEW cooling breezes. 'CHWAYYY...' I SING the sustained wind. Mouth lacks and releases — air flows.",
+      "tone_emotion": "SING - sustained gentle blowing",
+      "primitives": ["mouth 口", "lack 欠"],
+      "narrative_position": "Comfort — fans blow cooling breezes"
     },
     {
       "id": 441,
@@ -601,8 +870,12 @@
       "pinyin": "gē",
       "tone": 1,
       "meaning": "Song",
-      "story": "The mouth stands for song, singing \"Guh!\" cheerfully spoken through parted lips!",
-      "primitives": []
+      "mnemonic_image": "Lacking completed through mouth — music emerges",
+      "sound_bridge": "GE = 'GEEE...' — sustained melody",
+      "story": "A SONG was written about Yuan's triumph. 'GEEE...' I SING the sustained melody. Lacking finds voice — music celebrates.",
+      "tone_emotion": "SING - sustained melodic tribute",
+      "primitives": ["lack 欠", "can 可"],
+      "narrative_position": "Tribute — a song is written"
     },
     {
       "id": 442,
@@ -610,8 +883,12 @@
       "pinyin": "ruǎn",
       "tone": 3,
       "meaning": "soft",
-      "story": "A striking symbol for soft that whispers \"Ruan\" softly - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "A vehicle lacking hardness — yielding texture",
+      "sound_bridge": "RUAN = 'Ruǎǎǎn... gentle...' — low softness",
+      "story": "The melody was SOFT as clouds. 'Ruǎǎǎn...' I GROAN the low gentleness. Vehicle lacks rigidity — music flows soft.",
+      "tone_emotion": "GROAN - low yielding softness",
+      "primitives": ["vehicle 車", "lack 欠"],
+      "narrative_position": "Quality — melody soft as clouds"
     },
     {
       "id": 443,
@@ -619,8 +896,12 @@
       "pinyin": "cì",
       "tone": 4,
       "meaning": "next",
-      "story": "The strokes unite to show next, shouting \"Tsih!\" sharply - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Ice lacking — the following occurrence",
+      "sound_bridge": "CI = 'TSIH! Next!' — sharp sequence",
+      "story": "NEXT came the commissions from other kingdoms. 'CI!' I COMMAND the sharp sequence. Ice lacks — one thing follows another.",
+      "tone_emotion": "COMMAND - sharp sequential progression",
+      "primitives": ["ice 冫", "lack 欠"],
+      "narrative_position": "Continuation — next commissions arrive"
     },
     {
       "id": 444,
@@ -628,8 +909,12 @@
       "pinyin": "zī",
       "tone": 1,
       "meaning": "Assets",
-      "story": "Like a shellfish, this character means assets and sings \"Zi!\"!",
-      "primitives": []
+      "mnemonic_image": "Next shellfish — accumulated wealth",
+      "sound_bridge": "ZI = 'ZIII...' — sustained wealth",
+      "story": "Yuan's ASSETS grew beyond counting. 'ZIII...' I SING the sustained accumulation. Next shellfish — wealth multiplies.",
+      "tone_emotion": "SING - sustained growing wealth",
+      "primitives": ["next 次", "shellfish 貝"],
+      "narrative_position": "Prosperity — assets grow beyond counting"
     },
     {
       "id": 445,
@@ -637,8 +922,12 @@
       "pinyin": "zī",
       "tone": 1,
       "meaning": "Looks",
-      "story": "The strokes unite to show looks, singing \"Zi!\" cheerfully - a vivid image to remember!",
-      "primitives": []
+      "mnemonic_image": "Next woman — appearance studied",
+      "sound_bridge": "ZI = 'ZIII...' — sustained beauty",
+      "story": "His LOOKS inspired paintings. 'ZIII...' I SING the sustained admiration. Next woman — beauty inspires art.",
+      "tone_emotion": "SING - sustained aesthetic appreciation",
+      "primitives": ["next 次", "woman 女"],
+      "narrative_position": "Inspiration — looks inspire paintings"
     },
     {
       "id": 446,
@@ -646,8 +935,12 @@
       "pinyin": "zī",
       "tone": 1,
       "meaning": "to consult with",
-      "story": "\"Zee, can I ask?\" The words consulted with the next person.",
-      "primitives": []
+      "mnemonic_image": "Words with looks — seeking guidance",
+      "sound_bridge": "ZI = 'ZIII...' — sustained consultation",
+      "story": "All who met him wanted TO CONSULT WITH the master. 'ZIII...' I SING the sustained seeking. Words meet looks — wisdom sought.",
+      "tone_emotion": "SING - sustained seeking of wisdom",
+      "primitives": ["words 言", "looks 姿"],
+      "narrative_position": "Wisdom sought — all consult the master"
     }
   ]
 }
