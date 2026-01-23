@@ -7,7 +7,10 @@ import CharacterIntroduction from '@/app/components/CharacterIntroduction';
 import ReturnUserModal from '@/app/components/ReturnUserModal';
 import RewardScreen from '@/app/components/RewardScreen';
 import MasteryGate from '@/app/components/MasteryGate';
+import MasteryGameSelector, { MasteryGameType } from '@/app/components/MasteryGameSelector';
 import ToneRecall from '@/app/components/ToneRecall';
+import SoundRecall from '@/app/components/SoundRecall';
+import CharacterRecall from '@/app/components/CharacterRecall';
 import { getLessonData } from '@/lib/lessonLoader';
 import {
   getLessonProgress,
@@ -25,7 +28,10 @@ type Phase =
   | 'game'
   | 'reward'
   | 'mastery-gate'
+  | 'mastery-selector'
   | 'tone-recall'
+  | 'sound-recall'
+  | 'character-recall'
   | 'mastery-complete';
 
 export default function LessonPage() {
@@ -42,7 +48,12 @@ export default function LessonPage() {
   );
   const [gameAccuracies, setGameAccuracies] = useState<number[]>([]);
   const [coreAccuracy, setCoreAccuracy] = useState<number>(0);
-  const [toneRecallAccuracy, setToneRecallAccuracy] = useState<number>(0);
+  const [masteryAccuracies, setMasteryAccuracies] = useState<Record<MasteryGameType, number>>({
+    'tone-recall': 0,
+    'sound-recall': 0,
+    'character-recall': 0,
+  });
+  const [completedMasteryGames, setCompletedMasteryGames] = useState<MasteryGameType[]>([]);
 
   // Check if this lesson supports mastery tier
   const supportsMastery = lessonSupportsMastery(lessonId);
@@ -99,7 +110,7 @@ export default function LessonPage() {
 
   // Mastery Tier handlers
   const handleContinueToMastery = () => {
-    setPhase('tone-recall');
+    setPhase('mastery-selector');
   };
 
   const handleExitToLessons = () => {
@@ -110,21 +121,64 @@ export default function LessonPage() {
     router.push(`/lesson/${lessonId + 1}`);
   };
 
-  const handleToneRecallComplete = (accuracy: number) => {
-    // Save Tone Recall score
-    saveRoundScore(lessonId, 'toneRecall', Math.round(accuracy * 100));
-    setToneRecallAccuracy(accuracy);
+  const handleSelectMasteryGame = (game: MasteryGameType) => {
+    setPhase(game);
+  };
 
-    // Mark lesson as mastered (Gold status)
-    markLessonMastered(lessonId, accuracy);
+  const handleMasteryGameComplete = (game: MasteryGameType, accuracy: number) => {
+    // Save score for this specific game
+    const roundKey =
+      game === 'tone-recall'
+        ? 'toneRecall'
+        : game === 'sound-recall'
+          ? 'soundRecall'
+          : 'characterRecall';
+    saveRoundScore(
+      lessonId,
+      roundKey as 'toneRecall' | 'round1' | 'round2' | 'round3' | 'round4',
+      Math.round(accuracy * 100)
+    );
+
+    // Update accuracies
+    setMasteryAccuracies((prev) => ({ ...prev, [game]: accuracy }));
+
+    // Add to completed games if not already there
+    if (!completedMasteryGames.includes(game)) {
+      const newCompleted = [...completedMasteryGames, game];
+      setCompletedMasteryGames(newCompleted);
+
+      // If all 3 games completed, mark as fully mastered
+      if (newCompleted.length === 3) {
+        const avgAccuracy =
+          (masteryAccuracies['tone-recall'] + masteryAccuracies['sound-recall'] + accuracy) / 3;
+        markLessonMastered(lessonId, avgAccuracy);
+      }
+    }
 
     setPhase('mastery-complete');
   };
 
+  const handleToneRecallComplete = (accuracy: number) => {
+    handleMasteryGameComplete('tone-recall', accuracy);
+  };
+
+  const handleSoundRecallComplete = (accuracy: number) => {
+    handleMasteryGameComplete('sound-recall', accuracy);
+  };
+
+  const handleCharacterRecallComplete = (accuracy: number) => {
+    handleMasteryGameComplete('character-recall', accuracy);
+  };
+
   const handleMasteryCompleteBack = () => {
-    const savedProgress = getLessonProgress(lessonId);
-    setProgress(savedProgress);
-    setPhase('modal');
+    // If not all games completed, go back to selector
+    if (completedMasteryGames.length < 3) {
+      setPhase('mastery-selector');
+    } else {
+      const savedProgress = getLessonProgress(lessonId);
+      setProgress(savedProgress);
+      setPhase('modal');
+    }
   };
 
   // Lesson not found
@@ -235,7 +289,20 @@ export default function LessonPage() {
     );
   }
 
-  // Tone Recall phase - pure recall mastery game
+  // Mastery Game Selector - choose which mastery game to play
+  if (phase === 'mastery-selector') {
+    return (
+      <MasteryGameSelector
+        lessonNumber={lessonId}
+        lessonData={lessonData}
+        onSelectGame={handleSelectMasteryGame}
+        onBack={() => setPhase('mastery-gate')}
+        completedGames={completedMasteryGames}
+      />
+    );
+  }
+
+  // Tone Recall phase - pure tone recall mastery game
   if (phase === 'tone-recall') {
     return (
       <ToneRecall
@@ -243,23 +310,69 @@ export default function LessonPage() {
         lessonData={lessonData}
         lessonNumber={lessonId}
         onComplete={handleToneRecallComplete}
-        onBack={() => setPhase('mastery-gate')}
+        onBack={() => setPhase('mastery-selector')}
       />
     );
   }
 
-  // Mastery Complete phase - celebration after completing mastery tier
+  // Sound Recall phase - pinyin recall mastery game
+  if (phase === 'sound-recall') {
+    return (
+      <SoundRecall
+        characters={lessonData.characters}
+        lessonData={lessonData}
+        lessonNumber={lessonId}
+        onComplete={handleSoundRecallComplete}
+        onBack={() => setPhase('mastery-selector')}
+      />
+    );
+  }
+
+  // Character Recall phase - character recognition mastery game
+  if (phase === 'character-recall') {
+    return (
+      <CharacterRecall
+        characters={lessonData.characters}
+        lessonData={lessonData}
+        lessonNumber={lessonId}
+        onComplete={handleCharacterRecallComplete}
+        onBack={() => setPhase('mastery-selector')}
+      />
+    );
+  }
+
+  // Mastery Complete phase - celebration after completing a mastery game
   if (phase === 'mastery-complete') {
+    const allGamesCompleted = completedMasteryGames.length === 3;
+    const lastCompletedGame = completedMasteryGames[completedMasteryGames.length - 1];
+    const lastAccuracy = masteryAccuracies[lastCompletedGame] || 0;
+
+    const gameNames: Record<MasteryGameType, string> = {
+      'tone-recall': 'Tone Recall',
+      'sound-recall': 'Sound Recall',
+      'character-recall': 'Character Recall',
+    };
+
+    const gameDescriptions: Record<MasteryGameType, string> = {
+      'tone-recall': 'You recalled the tones from memory alone!',
+      'sound-recall': 'You recalled the pinyin from the character!',
+      'character-recall': 'You recognized the character from its sound!',
+    };
+
     return (
       <div className="min-h-screen bg-gradient-to-br from-amber-50 to-yellow-100 flex items-center justify-center p-4">
         <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full overflow-hidden">
           {/* Header - Gold celebration */}
-          <div className="bg-gradient-to-r from-amber-400 to-yellow-500 p-6 text-center">
-            <div className="text-6xl mb-3">★</div>
-            <h2 className="text-2xl font-bold text-white">Lesson Mastered!</h2>
-            <p className="text-amber-100 mt-1">
-              Tone Recall:{' '}
-              <span className="font-bold text-white">{Math.round(toneRecallAccuracy * 100)}%</span>
+          <div
+            className={`bg-gradient-to-r ${allGamesCompleted ? 'from-amber-400 to-yellow-500' : 'from-blue-400 to-indigo-500'} p-6 text-center`}
+          >
+            <div className="text-6xl mb-3">{allGamesCompleted ? '★' : '✓'}</div>
+            <h2 className="text-2xl font-bold text-white">
+              {allGamesCompleted ? 'Lesson Mastered!' : 'Game Complete!'}
+            </h2>
+            <p className="text-white/80 mt-1">
+              {gameNames[lastCompletedGame]}:{' '}
+              <span className="font-bold text-white">{Math.round(lastAccuracy * 100)}%</span>
             </p>
           </div>
 
@@ -268,40 +381,81 @@ export default function LessonPage() {
             {/* Score display */}
             <div className="bg-amber-50 border-2 border-amber-200 rounded-xl p-4 mb-4 text-center">
               <div className="text-3xl mb-2">🎯</div>
-              <p className="text-xs text-amber-600 font-medium">Tone Recall Accuracy</p>
-              <p className="text-3xl font-bold text-amber-800">
-                {Math.round(toneRecallAccuracy * 100)}%
+              <p className="text-xs text-amber-600 font-medium">
+                {gameNames[lastCompletedGame]} Accuracy
               </p>
-              <p className="text-sm text-amber-600 mt-2">
-                You recalled the tones from memory alone!
-              </p>
+              <p className="text-3xl font-bold text-amber-800">{Math.round(lastAccuracy * 100)}%</p>
+              <p className="text-sm text-amber-600 mt-2">{gameDescriptions[lastCompletedGame]}</p>
             </div>
 
-            <div className="bg-gradient-to-r from-amber-100 to-yellow-100 border-2 border-amber-300 rounded-xl p-4 mb-6 text-center">
-              <p className="text-amber-800 font-medium">
-                You&apos;ve earned <span className="font-bold">Gold status</span> for Lesson{' '}
-                {lessonId}!
-              </p>
-              <p className="text-sm text-amber-600 mt-2">{lessonData.title}</p>
+            {/* Progress display */}
+            <div className="mb-6">
+              <p className="text-sm text-gray-600 text-center mb-3">Mastery Progress</p>
+              <div className="grid grid-cols-3 gap-2">
+                {(['tone-recall', 'sound-recall', 'character-recall'] as MasteryGameType[]).map(
+                  (game) => {
+                    const isCompleted = completedMasteryGames.includes(game);
+                    const accuracy = masteryAccuracies[game];
+                    return (
+                      <div
+                        key={game}
+                        className={`p-3 rounded-xl text-center ${
+                          isCompleted
+                            ? 'bg-amber-100 border-2 border-amber-300'
+                            : 'bg-gray-50 border-2 border-gray-200'
+                        }`}
+                      >
+                        <div className="text-lg mb-1">{isCompleted ? '✓' : '○'}</div>
+                        <p className="text-xs font-medium text-gray-700">
+                          {gameNames[game].split(' ')[0]}
+                        </p>
+                        {isCompleted && (
+                          <p className="text-xs text-amber-600">{Math.round(accuracy * 100)}%</p>
+                        )}
+                      </div>
+                    );
+                  }
+                )}
+              </div>
             </div>
+
+            {allGamesCompleted ? (
+              <div className="bg-gradient-to-r from-amber-100 to-yellow-100 border-2 border-amber-300 rounded-xl p-4 mb-6 text-center">
+                <p className="text-amber-800 font-medium">
+                  You&apos;ve earned <span className="font-bold">Gold status</span> for Lesson{' '}
+                  {lessonId}!
+                </p>
+                <p className="text-sm text-amber-600 mt-2">{lessonData.title}</p>
+              </div>
+            ) : (
+              <div className="bg-blue-50 border-2 border-blue-200 rounded-xl p-4 mb-6 text-center">
+                <p className="text-blue-800 font-medium">
+                  {3 - completedMasteryGames.length} more game
+                  {completedMasteryGames.length === 2 ? '' : 's'} to earn{' '}
+                  <span className="font-bold text-amber-600">Gold status</span>!
+                </p>
+              </div>
+            )}
 
             {/* Actions */}
             <div className="space-y-3">
+              {!allGamesCompleted && (
+                <button
+                  onClick={handleMasteryCompleteBack}
+                  className="w-full bg-gradient-to-r from-amber-500 to-yellow-500 hover:from-amber-600 hover:to-yellow-600 text-white font-bold py-4 px-6 rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl"
+                >
+                  Continue to Next Game →
+                </button>
+              )}
               <button
                 onClick={handleNextLesson}
-                className="w-full bg-gradient-to-r from-amber-500 to-yellow-500 hover:from-amber-600 hover:to-yellow-600 text-white font-bold py-4 px-6 rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl"
+                className={`w-full ${allGamesCompleted ? 'bg-gradient-to-r from-amber-500 to-yellow-500 hover:from-amber-600 hover:to-yellow-600 text-white font-bold py-4' : 'bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-3'} px-6 rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl`}
               >
                 Next Lesson →
               </button>
               <button
-                onClick={handleMasteryCompleteBack}
-                className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold py-3 px-6 rounded-xl transition-colors"
-              >
-                Back to Lesson
-              </button>
-              <button
                 onClick={handleExitToLessons}
-                className="w-full text-gray-500 hover:text-gray-700 font-medium py-2 transition-colors"
+                className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold py-3 px-6 rounded-xl transition-colors"
               >
                 Return to All Lessons
               </button>

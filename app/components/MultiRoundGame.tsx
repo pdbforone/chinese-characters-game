@@ -10,6 +10,7 @@ import {
   type AchievementDef,
   type AchievementState,
 } from '@/lib/achievements';
+import { getLessonTheme, hasCustomTheme } from '@/lib/lessonThemes';
 import GameBoard from './GameBoard';
 import SoundToggle from './SoundToggle';
 import ConfirmDialog from './ConfirmDialog';
@@ -208,38 +209,56 @@ export default function MultiRoundGame({
     return '🏆';
   };
 
+  // Get theme for this lesson
+  const theme = getLessonTheme(lessonNumber);
+  const useTheme = hasCustomTheme(lessonNumber);
+
   if (showTransition) {
     const isNewRound = currentPage === 0;
     const lastScore = roundScores[roundScores.length - 1];
 
     return (
-      <div className="min-h-screen flex items-center justify-center p-4 bg-gradient-to-br from-stone-100 to-amber-50">
-        <div className="bg-white rounded-2xl shadow-2xl p-8 max-w-md w-full border border-stone-200">
+      <div
+        className={`min-h-screen flex items-center justify-center p-4 bg-gradient-to-br ${useTheme ? theme.bgGradient : 'from-stone-100 to-amber-50'}`}
+      >
+        <div
+          className={`${useTheme ? theme.cardBg : 'bg-white'} rounded-2xl shadow-2xl p-8 max-w-md w-full border ${useTheme ? theme.cardBorder : 'border-stone-200'}`}
+        >
           {isNewRound ? (
             <>
               <div className="text-center mb-6">
                 <div className="text-5xl mb-4">{getRoundEmoji()}</div>
-                <h2 className="text-2xl font-bold text-stone-800 mb-2">
+                <h2
+                  className={`text-2xl font-bold ${useTheme ? theme.textPrimary : 'text-stone-800'} mb-2`}
+                >
                   {currentRound > 1 ? 'New Challenge Unlocked!' : 'Ready to Begin!'}
                 </h2>
-                <p className="text-stone-600">
+                <p className={useTheme ? theme.textSecondary : 'text-stone-600'}>
                   {currentRound > 1
                     ? "You're ready for increased difficulty"
                     : "Let's start learning!"}
                 </p>
               </div>
 
-              <div className="bg-gradient-to-r from-stone-50 to-amber-50 rounded-xl p-4 mb-6 border border-stone-200">
-                <h3 className="font-semibold text-stone-800 mb-1">{getRoundName()}</h3>
-                <p className="text-sm text-stone-600">{getRoundDescription()}</p>
-                <p className="text-xs text-stone-500 mt-2">
+              <div
+                className={`${useTheme ? 'bg-white/5' : 'bg-gradient-to-r from-stone-50 to-amber-50'} rounded-xl p-4 mb-6 border ${useTheme ? 'border-white/10' : 'border-stone-200'}`}
+              >
+                <h3
+                  className={`font-semibold ${useTheme ? theme.textPrimary : 'text-stone-800'} mb-1`}
+                >
+                  {getRoundName()}
+                </h3>
+                <p className={`text-sm ${useTheme ? theme.textSecondary : 'text-stone-600'}`}>
+                  {getRoundDescription()}
+                </p>
+                <p className={`text-xs ${useTheme ? theme.textMuted : 'text-stone-500'} mt-2`}>
                   {totalPages} pages • {characters.length} characters total
                 </p>
               </div>
 
               <button
                 onClick={handleContinue}
-                className="w-full bg-amber-500 hover:bg-amber-400 text-stone-900 font-semibold py-3 px-6 rounded-xl transition-colors"
+                className={`w-full bg-gradient-to-r ${useTheme ? theme.accentPrimary : 'from-amber-500 to-amber-400'} hover:opacity-90 text-white font-semibold py-3 px-6 rounded-xl transition-colors`}
               >
                 Start Round {currentRound} →
               </button>
@@ -248,23 +267,33 @@ export default function MultiRoundGame({
             <>
               <div className="text-center mb-6">
                 <div className="text-5xl mb-4 text-emerald-500">✓</div>
-                <h2 className="text-2xl font-bold text-stone-800 mb-2">Page Complete!</h2>
-                <div className="text-lg text-stone-600">
+                <h2
+                  className={`text-2xl font-bold ${useTheme ? theme.textPrimary : 'text-stone-800'} mb-2`}
+                >
+                  Page Complete!
+                </h2>
+                <div className={`text-lg ${useTheme ? theme.textSecondary : 'text-stone-600'}`}>
                   Accuracy:{' '}
-                  <span className="font-bold text-amber-600">{lastScore.accuracy.toFixed(0)}%</span>
+                  <span className={`font-bold ${useTheme ? theme.streakText : 'text-amber-600'}`}>
+                    {lastScore.accuracy.toFixed(0)}%
+                  </span>
                 </div>
               </div>
 
               <div className="mb-6">
-                <div className="flex justify-between text-sm text-stone-600 mb-2">
+                <div
+                  className={`flex justify-between text-sm ${useTheme ? theme.textMuted : 'text-stone-600'} mb-2`}
+                >
                   <span>{getRoundName()}</span>
                   <span>
                     Page {currentPage + 1} of {totalPages}
                   </span>
                 </div>
-                <div className="w-full bg-stone-200 rounded-full h-3">
+                <div
+                  className={`w-full ${useTheme ? 'bg-white/10' : 'bg-stone-200'} rounded-full h-3`}
+                >
                   <div
-                    className="bg-amber-500 h-full rounded-full transition-all duration-500"
+                    className={`bg-gradient-to-r ${useTheme ? theme.accentPrimary : 'from-amber-500 to-amber-400'} h-full rounded-full transition-all duration-500`}
                     style={{
                       width: `${((currentPage + 1) / totalPages) * 100}%`,
                     }}
@@ -274,7 +303,7 @@ export default function MultiRoundGame({
 
               <button
                 onClick={handleContinue}
-                className="w-full bg-amber-500 hover:bg-amber-400 text-stone-900 font-semibold py-3 px-6 rounded-xl transition-colors"
+                className={`w-full bg-gradient-to-r ${useTheme ? theme.accentPrimary : 'from-amber-500 to-amber-400'} hover:opacity-90 text-white font-semibold py-3 px-6 rounded-xl transition-colors`}
               >
                 Next Page →
               </button>
@@ -286,7 +315,9 @@ export default function MultiRoundGame({
   }
 
   return (
-    <div className="min-h-screen py-8 bg-gradient-to-b from-stone-50 to-stone-100">
+    <div
+      className={`min-h-screen py-8 bg-gradient-to-b ${useTheme ? theme.bgGradient : 'from-stone-50 to-stone-100'}`}
+    >
       {/* Confirmation Dialog */}
       <ConfirmDialog
         isOpen={showExitConfirm}
@@ -303,7 +334,7 @@ export default function MultiRoundGame({
       <div className="max-w-7xl mx-auto px-4 mb-6 flex justify-between items-center">
         <button
           onClick={handleBackClick}
-          className="text-stone-600 hover:text-stone-800 font-medium flex items-center gap-2"
+          className={`${useTheme ? theme.textSecondary : 'text-stone-600'} hover:opacity-80 font-medium flex items-center gap-2`}
         >
           ← Back to Lessons
         </button>
@@ -312,7 +343,7 @@ export default function MultiRoundGame({
           {onReview && (
             <button
               onClick={onReview}
-              className="text-amber-600 hover:text-amber-800 font-medium flex items-center gap-2"
+              className={`${useTheme ? theme.streakText : 'text-amber-600'} hover:opacity-80 font-medium flex items-center gap-2`}
             >
               📖 Review Characters
             </button>

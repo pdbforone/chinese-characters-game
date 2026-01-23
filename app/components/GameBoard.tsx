@@ -4,6 +4,7 @@ import { useState, useMemo, useEffect } from 'react';
 import { Character, GameStats, GameMode } from '@/lib/types';
 import { saveGameScore } from '@/lib/storage';
 import { playToneSound, playErrorThud, ToneNumber } from '@/lib/toneSounds';
+import { getLessonTheme, hasCustomTheme } from '@/lib/lessonThemes';
 import StoryCard from './StoryCard';
 import CharacterCard from './CharacterCard';
 import PinyinCard from './PinyinCard';
@@ -199,8 +200,16 @@ export default function GameBoard({
     setShuffleKey((k) => k + 1);
   };
 
+  // Get theme for this lesson
+  const theme = getLessonTheme(lesson);
+  const useTheme = hasCustomTheme(lesson);
+
   if (shuffledRight.length === 0) {
-    return <div className="text-center p-8 text-stone-600">Loading...</div>;
+    return (
+      <div className={`text-center p-8 ${useTheme ? theme.textMuted : 'text-stone-600'}`}>
+        Loading...
+      </div>
+    );
   }
 
   // Determine what to show on left and right based on game mode
@@ -239,12 +248,15 @@ export default function GameBoard({
         round={round}
         page={page}
         totalPages={totalPages}
+        theme={useTheme ? theme : undefined}
       />
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {/* Left Column */}
         <div className="space-y-4">
-          <h3 className="text-lg font-semibold text-stone-700 mb-4 text-center md:text-left">
+          <h3
+            className={`text-lg font-semibold ${useTheme ? theme.textSecondary : 'text-stone-700'} mb-4 text-center md:text-left`}
+          >
             {getLeftLabel()}
           </h3>
           {characters.map((char) => {
@@ -280,7 +292,9 @@ export default function GameBoard({
 
         {/* Right Column */}
         <div className="space-y-4">
-          <h3 className="text-lg font-semibold text-stone-700 mb-4 text-center md:text-left">
+          <h3
+            className={`text-lg font-semibold ${useTheme ? theme.textSecondary : 'text-stone-700'} mb-4 text-center md:text-left`}
+          >
             {getRightLabel()}
           </h3>
           {shuffledRight.map((char) => {

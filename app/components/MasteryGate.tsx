@@ -52,10 +52,11 @@ export default function MasteryGate({
                   <div>
                     <h3 className="font-bold text-amber-800 mb-1">Master This Lesson?</h3>
                     <p className="text-sm text-amber-700 leading-relaxed">
-                      Go deeper with <strong>Story Mason</strong> (rebuild the narrative) and{' '}
-                      <strong>Story Detective</strong> (produce characters from context).
+                      Test your recall with three challenges: <strong>Tone Recall</strong> (identify
+                      tones), <strong>Sound Recall</strong> (pinyin from character), and{' '}
+                      <strong>Character Recall</strong> (character from pinyin).
                     </p>
-                    <p className="text-xs text-amber-600 mt-2">~3-5 minutes • Earn Gold status</p>
+                    <p className="text-xs text-amber-600 mt-2">~5-10 minutes • Earn Gold status</p>
                   </div>
                 </div>
               </div>
@@ -80,7 +81,7 @@ export default function MasteryGate({
                   <h3 className="font-bold text-blue-800 mb-1">Great Progress!</h3>
                   <p className="text-sm text-blue-700 leading-relaxed">
                     You&apos;ve completed the core rounds. Mastery tier is available for lessons
-                    9-15.
+                    9-21.
                   </p>
                 </div>
               </div>
