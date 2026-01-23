@@ -7,8 +7,7 @@ import CharacterIntroduction from '@/app/components/CharacterIntroduction';
 import ReturnUserModal from '@/app/components/ReturnUserModal';
 import RewardScreen from '@/app/components/RewardScreen';
 import MasteryGate from '@/app/components/MasteryGate';
-import StoryMason from '@/app/components/StoryMason';
-import StoryDetective from '@/app/components/StoryDetective';
+import ToneRecall from '@/app/components/ToneRecall';
 import { getLessonData } from '@/lib/lessonLoader';
 import {
   getLessonProgress,
@@ -26,8 +25,7 @@ type Phase =
   | 'game'
   | 'reward'
   | 'mastery-gate'
-  | 'story-mason'
-  | 'story-detective'
+  | 'tone-recall'
   | 'mastery-complete';
 
 export default function LessonPage() {
@@ -44,8 +42,7 @@ export default function LessonPage() {
   );
   const [gameAccuracies, setGameAccuracies] = useState<number[]>([]);
   const [coreAccuracy, setCoreAccuracy] = useState<number>(0);
-  const [storyMasonAccuracy, setStoryMasonAccuracy] = useState<number>(0);
-  const [storyDetectiveAccuracy, setStoryDetectiveAccuracy] = useState<number>(0);
+  const [toneRecallAccuracy, setToneRecallAccuracy] = useState<number>(0);
 
   // Check if this lesson supports mastery tier
   const supportsMastery = lessonSupportsMastery(lessonId);
@@ -102,7 +99,7 @@ export default function LessonPage() {
 
   // Mastery Tier handlers
   const handleContinueToMastery = () => {
-    setPhase('story-mason');
+    setPhase('tone-recall');
   };
 
   const handleExitToLessons = () => {
@@ -113,25 +110,13 @@ export default function LessonPage() {
     router.push(`/lesson/${lessonId + 1}`);
   };
 
-  const handleStoryMasonComplete = (accuracy: number) => {
-    // Save Story Mason score
-    saveRoundScore(lessonId, 'storyMason', Math.round(accuracy * 100));
-    setStoryMasonAccuracy(accuracy);
-
-    // Continue to Story Detective
-    setPhase('story-detective');
-  };
-
-  const handleStoryDetectiveComplete = (accuracy: number) => {
-    // Save Story Detective score
-    saveRoundScore(lessonId, 'storyDetective', Math.round(accuracy * 100));
-    setStoryDetectiveAccuracy(accuracy);
-
-    // Calculate combined mastery accuracy (average of both games)
-    const combinedAccuracy = (storyMasonAccuracy + accuracy) / 2;
+  const handleToneRecallComplete = (accuracy: number) => {
+    // Save Tone Recall score
+    saveRoundScore(lessonId, 'toneRecall', Math.round(accuracy * 100));
+    setToneRecallAccuracy(accuracy);
 
     // Mark lesson as mastered (Gold status)
-    markLessonMastered(lessonId, combinedAccuracy);
+    markLessonMastered(lessonId, accuracy);
 
     setPhase('mastery-complete');
   };
@@ -250,36 +235,21 @@ export default function LessonPage() {
     );
   }
 
-  // Story Mason phase - narrative sequencing game
-  if (phase === 'story-mason') {
+  // Tone Recall phase - pure recall mastery game
+  if (phase === 'tone-recall') {
     return (
-      <StoryMason
+      <ToneRecall
         characters={lessonData.characters}
         lessonData={lessonData}
         lessonNumber={lessonId}
-        onComplete={handleStoryMasonComplete}
+        onComplete={handleToneRecallComplete}
         onBack={() => setPhase('mastery-gate')}
-      />
-    );
-  }
-
-  // Story Detective phase - cloze fill-in-the-blank game
-  if (phase === 'story-detective') {
-    return (
-      <StoryDetective
-        characters={lessonData.characters}
-        lessonData={lessonData}
-        lessonNumber={lessonId}
-        onComplete={handleStoryDetectiveComplete}
-        onBack={() => setPhase('story-mason')}
       />
     );
   }
 
   // Mastery Complete phase - celebration after completing mastery tier
   if (phase === 'mastery-complete') {
-    const combinedAccuracy = (storyMasonAccuracy + storyDetectiveAccuracy) / 2;
-
     return (
       <div className="min-h-screen bg-gradient-to-br from-amber-50 to-yellow-100 flex items-center justify-center p-4">
         <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full overflow-hidden">
@@ -288,31 +258,23 @@ export default function LessonPage() {
             <div className="text-6xl mb-3">★</div>
             <h2 className="text-2xl font-bold text-white">Lesson Mastered!</h2>
             <p className="text-amber-100 mt-1">
-              Overall:{' '}
-              <span className="font-bold text-white">{Math.round(combinedAccuracy * 100)}%</span>
+              Tone Recall:{' '}
+              <span className="font-bold text-white">{Math.round(toneRecallAccuracy * 100)}%</span>
             </p>
           </div>
 
           {/* Content */}
           <div className="p-6">
-            {/* Score breakdown */}
-            <div className="bg-amber-50 border-2 border-amber-200 rounded-xl p-4 mb-4">
-              <div className="grid grid-cols-2 gap-4 text-center">
-                <div>
-                  <div className="text-2xl mb-1">🏛️</div>
-                  <p className="text-xs text-amber-600 font-medium">Story Mason</p>
-                  <p className="text-xl font-bold text-amber-800">
-                    {Math.round(storyMasonAccuracy * 100)}%
-                  </p>
-                </div>
-                <div>
-                  <div className="text-2xl mb-1">🔍</div>
-                  <p className="text-xs text-amber-600 font-medium">Story Detective</p>
-                  <p className="text-xl font-bold text-amber-800">
-                    {Math.round(storyDetectiveAccuracy * 100)}%
-                  </p>
-                </div>
-              </div>
+            {/* Score display */}
+            <div className="bg-amber-50 border-2 border-amber-200 rounded-xl p-4 mb-4 text-center">
+              <div className="text-3xl mb-2">🎯</div>
+              <p className="text-xs text-amber-600 font-medium">Tone Recall Accuracy</p>
+              <p className="text-3xl font-bold text-amber-800">
+                {Math.round(toneRecallAccuracy * 100)}%
+              </p>
+              <p className="text-sm text-amber-600 mt-2">
+                You recalled the tones from memory alone!
+              </p>
             </div>
 
             <div className="bg-gradient-to-r from-amber-100 to-yellow-100 border-2 border-amber-300 rounded-xl p-4 mb-6 text-center">
