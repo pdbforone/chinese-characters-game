@@ -236,9 +236,14 @@ export default function CharacterIntroduction({
           <div className="flex flex-wrap justify-center gap-3 mb-8">
             {characters.map((char, index) => (
               <button
+                type="button"
                 key={char.id}
                 onClick={() => setCurrentIndex(index)}
-                className={`w-12 h-12 ${useTheme ? theme.cardBg : 'bg-stone-700/50'} border ${useTheme ? theme.cardBorder : 'border-stone-600'} rounded-lg flex items-center justify-center cursor-pointer transition-all hover:scale-110 hover:ring-2 ${useTheme ? 'hover:ring-white/30' : 'hover:ring-amber-400/50'} active:scale-95`}
+                onTouchEnd={(e) => {
+                  e.preventDefault();
+                  setCurrentIndex(index);
+                }}
+                className={`w-14 h-14 sm:w-12 sm:h-12 ${useTheme ? theme.cardBg : 'bg-stone-700/50'} border ${useTheme ? theme.cardBorder : 'border-stone-600'} rounded-lg flex items-center justify-center cursor-pointer transition-all hover:scale-110 hover:ring-2 ${useTheme ? 'hover:ring-white/30' : 'hover:ring-amber-400/50'} active:scale-95 touch-manipulation`}
                 aria-label={`Jump to ${char.character} (${char.pinyin})`}
               >
                 <span
@@ -321,9 +326,14 @@ export default function CharacterIntroduction({
                 const toneInfo = getToneInfo(char.tone);
                 return (
                   <button
+                    type="button"
                     key={char.id}
                     onClick={() => setCurrentIndex(index)}
-                    className={`p-3 rounded-xl border-2 ${toneInfo.border} ${toneInfo.bgLight} text-center cursor-pointer transition-all hover:scale-105 hover:shadow-lg active:scale-95`}
+                    onTouchEnd={(e) => {
+                      e.preventDefault();
+                      setCurrentIndex(index);
+                    }}
+                    className={`p-3 rounded-xl border-2 ${toneInfo.border} ${toneInfo.bgLight} text-center cursor-pointer transition-all hover:scale-105 hover:shadow-lg active:scale-95 touch-manipulation`}
                     aria-label={`Review ${char.character} (${char.pinyin})`}
                   >
                     <span
