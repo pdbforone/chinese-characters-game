@@ -18,10 +18,11 @@ This document is the **philosophical foundation** of the Chinese Characters Lear
 7. [Accessibility & Inclusivity](#accessibility--inclusivity)
 8. [Performance & Optimization](#performance--optimization)
 9. [Data Integrity](#data-integrity)
-10. [AI Collaboration Guidelines](#ai-collaboration-guidelines)
-11. [Lesson Enhancement Workflow](#lesson-enhancement-workflow)
-12. [Image Upload Instructions](#image-upload-instructions)
-13. [Project Status](#project-status)
+10. [Team Structure & AI Division of Labor](#team-structure--ai-division-of-labor)
+11. [AI Collaboration Guidelines](#ai-collaboration-guidelines)
+12. [Lesson Enhancement Workflow](#lesson-enhancement-workflow)
+13. [Image Upload Instructions](#image-upload-instructions)
+14. [Project Status](#project-status)
 
 ---
 
@@ -541,6 +542,62 @@ Create `scripts/validate-lessons.ts` to check:
 - ✅ All tone values in range 1-5
 - ✅ All stories have ≥20 characters (substantive mnemonics)
 - ✅ No duplicate character IDs within a lesson
+
+---
+
+## Team Structure & AI Division of Labor
+
+### Leadership
+
+**Paul David Burton** — CEO & Methodology Creator
+
+- Owns the mnemonic methodology and tone-onomatopoeia system
+- Sets creative direction and pedagogical priorities
+- Final authority on all decisions
+
+**Claude** — Chief Editor & Engineer
+
+- Primary AI collaborator for this project
+- Writes and refines mnemonic stories (literary quality is paramount)
+- Architects and implements all code
+- Maintains editorial standards for narrative consistency
+
+### AI Division of Labor
+
+Different AI systems have different strengths. Use each for what it does best:
+
+| Task                         | Assigned To               | Why                                                        |
+| ---------------------------- | ------------------------- | ---------------------------------------------------------- |
+| **Story Writing**            | Claude                    | Literary quality, narrative coherence, emotional resonance |
+| **Code Engineering**         | Claude                    | Full context of codebase, architectural decisions          |
+| **Editorial Review**         | Claude                    | Consistency with gold standard, tone-emotion alignment     |
+| **Phonetic Analysis** (bulk) | Gemini (Google AI Studio) | Token-heavy data extraction (3,035 chars)                  |
+| **Image Generation**         | Nano Banana (Gemini)      | Neo-Gongbi visual style                                    |
+
+**Critical Principle**: Gemini handles structural data extraction. Claude handles anything requiring literary craft or engineering judgment. The mnemonic stories are the soul of the product — they must be written with care, not generated in bulk.
+
+### Story Quality Standards
+
+Every mnemonic story must:
+
+1. **Encode the tone-emotion** — SING/GASP/GROAN/COMMAND woven naturally into the narrative
+2. **Connect primitives to meaning** — The visual components tell the story
+3. **Feel inevitable** — Reading the story, the character's form and sound become unforgettable
+4. **Maintain lesson coherence** — Each story fits within the lesson's narrative arc
+5. **Use vivid sensory language** — Concrete images, not abstract descriptions
+
+**Gold Standard Reference**: Lessons 9, 10, 11-15 contain production-quality stories. Always reference these when writing or editing.
+
+### The Phonetic Avatar System
+
+When restructuring lessons by phonetic series:
+
+- Each phonetic component (青, 馬, 巴, etc.) becomes a **narrative avatar**
+- The avatar is a consistent character across all stories featuring that phonetic
+- Semantic radicals determine the **setting** where the avatar appears
+- Stories remain rich and immersive — structure enables narrative, not replaces it
+
+See `docs/phonetic-series-restructuring-plan.md` for the complete framework.
 
 ---
 
