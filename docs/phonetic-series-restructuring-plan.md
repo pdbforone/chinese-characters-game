@@ -6,6 +6,31 @@
 
 ---
 
+## Scope Clarification: Characters, Not Words
+
+This app teaches **character memorization (字)**, not word memorization (詞) or grammar.
+
+| Learning Layer        | What It Is                               | This App?               |
+| --------------------- | ---------------------------------------- | ----------------------- |
+| **Characters (字)**   | Individual hanzi: form + meaning + sound | ✅ **Core scope**       |
+| **Words (詞)**        | Compounds like 電話, 學生, 北京          | ❌ Future separate game |
+| **Sentences/Grammar** | Syntax, particles, structure             | ❌ Future separate game |
+
+**Why this matters:**
+
+- HSK 3.0 emphasizes words and grammar from the start — that's a different pedagogy
+- We follow **Zi Ben Wei** (character-based) approach: master the 3,035 building blocks first
+- Once characters are known, words become trivially learnable (電 + 話 = telephone)
+- Phonetic series grouping teaches _character pronunciation patterns_, not vocabulary
+
+**TonePair game clarification:**
+
+- Uses character pairs for **tone pattern practice** (3+1, 2+4, etc.)
+- 北京 is a "3+1 tone pattern example," not "vocabulary word: Beijing"
+- Goal: internalize tone transitions, not memorize compound meanings
+
+---
+
 ## 1. Project Overview
 
 ### Current State
