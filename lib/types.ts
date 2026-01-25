@@ -11,6 +11,12 @@ export interface Character {
   sound_bridge?: string;
   tone_emotion?: string;
   narrative_position?: string;
+  // Phonetic series fields (for Sound Family grouping - research-backed)
+  // e.g., phonetic_series: "青 qīng" groups 清, 请, 情, 晴 together
+  phonetic_series?: string;
+  phonetic_component?: string; // The actual component character (e.g., "青")
+  // Semantic radical for meaning domain grouping
+  semantic_radical?: string; // e.g., "氵 (water)", "忄 (heart)"
 }
 
 export interface LessonData {
