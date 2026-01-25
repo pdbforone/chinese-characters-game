@@ -402,6 +402,158 @@ class ToneSoundManager {
   }
 
   /**
+   * CORRECT DING - Pleasant feedback for correct answers
+   * Feel: Bright, satisfying "ding" - like a game show correct answer
+   * Uses harmonics of a bell-like tone
+   */
+  playCorrectDing(): void {
+    const ctx = this.getContext();
+    if (!ctx) return;
+
+    const now = ctx.currentTime;
+    const duration = 0.4;
+    const baseFreq = 880; // A5 - bright and clear
+
+    // Main bell tone
+    const osc1 = ctx.createOscillator();
+    osc1.type = 'sine';
+    osc1.frequency.setValueAtTime(baseFreq, now);
+
+    // Harmonic overtone for shimmer
+    const osc2 = ctx.createOscillator();
+    osc2.type = 'sine';
+    osc2.frequency.setValueAtTime(baseFreq * 2.5, now); // 5th harmonic
+
+    // Third partial for richness
+    const osc3 = ctx.createOscillator();
+    osc3.type = 'sine';
+    osc3.frequency.setValueAtTime(baseFreq * 4, now); // Higher partial
+
+    // Individual gains with different decays (bell-like)
+    const gain1 = ctx.createGain();
+    gain1.gain.setValueAtTime(0.2, now);
+    gain1.gain.exponentialRampToValueAtTime(0.01, now + duration);
+
+    const gain2 = ctx.createGain();
+    gain2.gain.setValueAtTime(0.08, now);
+    gain2.gain.exponentialRampToValueAtTime(0.01, now + duration * 0.6); // Faster decay
+
+    const gain3 = ctx.createGain();
+    gain3.gain.setValueAtTime(0.04, now);
+    gain3.gain.exponentialRampToValueAtTime(0.01, now + duration * 0.3); // Fastest decay
+
+    // Connect all oscillators
+    osc1.connect(gain1);
+    osc2.connect(gain2);
+    osc3.connect(gain3);
+    gain1.connect(ctx.destination);
+    gain2.connect(ctx.destination);
+    gain3.connect(ctx.destination);
+
+    osc1.start(now);
+    osc2.start(now);
+    osc3.start(now);
+    osc1.stop(now + duration);
+    osc2.stop(now + duration);
+    osc3.stop(now + duration);
+  }
+
+  /**
+   * STREAK BONUS - Celebration sound for hitting streak milestones
+   * Feel: Quick ascending arpeggio with sparkle
+   * Used for 5x, 10x streaks etc.
+   */
+  playStreakBonus(level: number = 1): void {
+    const ctx = this.getContext();
+    if (!ctx) return;
+
+    const now = ctx.currentTime;
+
+    // Ascending notes - more notes for higher streaks
+    const baseNotes = [523.25, 659.25, 783.99, 1046.5]; // C5, E5, G5, C6
+    const noteCount = Math.min(2 + level, 4); // 2-4 notes based on level
+
+    const notes = baseNotes.slice(0, noteCount);
+    const noteDuration = 0.08;
+    const spacing = 0.06;
+
+    notes.forEach((freq, i) => {
+      const delay = i * spacing;
+
+      const osc = ctx.createOscillator();
+      osc.type = 'triangle';
+      osc.frequency.setValueAtTime(freq, now + delay);
+
+      // Slight pitch bend up for "sparkle"
+      osc.frequency.linearRampToValueAtTime(freq * 1.02, now + delay + noteDuration);
+
+      const gainNode = ctx.createGain();
+      gainNode.gain.setValueAtTime(0, now + delay);
+      gainNode.gain.linearRampToValueAtTime(0.18, now + delay + 0.01);
+      gainNode.gain.exponentialRampToValueAtTime(0.01, now + delay + noteDuration + 0.15);
+
+      osc.connect(gainNode);
+      gainNode.connect(ctx.destination);
+
+      osc.start(now + delay);
+      osc.stop(now + delay + noteDuration + 0.2);
+    });
+
+    // Add a shimmer on top for higher streaks
+    if (level >= 2) {
+      const shimmer = ctx.createOscillator();
+      shimmer.type = 'sine';
+      shimmer.frequency.setValueAtTime(2093, now + noteCount * spacing); // C7
+
+      const shimmerGain = ctx.createGain();
+      shimmerGain.gain.setValueAtTime(0, now + noteCount * spacing);
+      shimmerGain.gain.linearRampToValueAtTime(0.06, now + noteCount * spacing + 0.01);
+      shimmerGain.gain.exponentialRampToValueAtTime(0.01, now + noteCount * spacing + 0.25);
+
+      shimmer.connect(shimmerGain);
+      shimmerGain.connect(ctx.destination);
+
+      shimmer.start(now + noteCount * spacing);
+      shimmer.stop(now + noteCount * spacing + 0.3);
+    }
+  }
+
+  /**
+   * TIMEOUT BUZZ - Warning sound when time is running out
+   * Feel: Urgent but not harsh - ticking urgency
+   */
+  playTimeoutWarning(): void {
+    const ctx = this.getContext();
+    if (!ctx) return;
+
+    const now = ctx.currentTime;
+
+    // Two quick low beeps
+    [0, 0.15].forEach((delay) => {
+      const osc = ctx.createOscillator();
+      osc.type = 'square';
+      osc.frequency.setValueAtTime(220, now + delay); // A3
+
+      const gainNode = ctx.createGain();
+      gainNode.gain.setValueAtTime(0, now + delay);
+      gainNode.gain.linearRampToValueAtTime(0.1, now + delay + 0.01);
+      gainNode.gain.exponentialRampToValueAtTime(0.01, now + delay + 0.08);
+
+      // Lowpass to soften the square wave
+      const filter = ctx.createBiquadFilter();
+      filter.type = 'lowpass';
+      filter.frequency.setValueAtTime(600, now);
+
+      osc.connect(filter);
+      filter.connect(gainNode);
+      gainNode.connect(ctx.destination);
+
+      osc.start(now + delay);
+      osc.stop(now + delay + 0.1);
+    });
+  }
+
+  /**
    * Play completion fanfare - musical resolution (Major I chord)
    * Research: Triggers dopamine through musical resolution
    */
@@ -484,4 +636,7 @@ export const playTone3 = () => getToneSoundManager().playTone3();
 export const playTone4 = () => getToneSoundManager().playTone4();
 export const playTone5 = () => getToneSoundManager().playTone5();
 export const playErrorThud = () => getToneSoundManager().playErrorThud();
+export const playCorrectDing = () => getToneSoundManager().playCorrectDing();
+export const playStreakBonus = (level?: number) => getToneSoundManager().playStreakBonus(level);
+export const playTimeoutWarning = () => getToneSoundManager().playTimeoutWarning();
 export const playCompletionFanfare = () => getToneSoundManager().playCompletionFanfare();

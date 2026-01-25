@@ -3,7 +3,13 @@
 import { useState, useEffect, useCallback } from 'react';
 import { Character, LessonData } from '@/lib/types';
 import { getLessonTheme } from '@/lib/lessonThemes';
-import { playToneSound, ToneNumber } from '@/lib/toneSounds';
+import {
+  playToneSound,
+  playCorrectDing,
+  playErrorThud,
+  playStreakBonus,
+  ToneNumber,
+} from '@/lib/toneSounds';
 
 import { MasteryGameResult } from './ToneRecall';
 
@@ -131,6 +137,8 @@ export default function SoundRecall({
     setIsCorrect(false);
     setStreak(0);
     setTrialsSinceBonus((prev) => prev + 1);
+    // Play error sound on timeout
+    playErrorThud();
     // Track missed character on timeout
     setMissedCharacterIds((prev) =>
       prev.includes(currentCharacter.id) ? prev : [...prev, currentCharacter.id]
@@ -180,12 +188,19 @@ export default function SoundRecall({
       setShowResult(true);
 
       if (correct) {
-        // Play tone sound for correct answer
+        // Play correct sounds
+        playCorrectDing();
         playToneSound(currentCharacter.tone as ToneNumber);
 
         setCorrectCount((prev) => prev + 1);
         const newStreak = streak + 1;
         setStreak(newStreak);
+
+        // Play streak bonus sound at milestones (5, 10, 15, etc.)
+        if (newStreak > 0 && newStreak % 5 === 0) {
+          const level = Math.min(Math.floor(newStreak / 5), 3);
+          setTimeout(() => playStreakBonus(level), 200);
+        }
 
         if (shouldGetBonus(true, newStreak)) {
           setShowBonus(true);
@@ -195,6 +210,9 @@ export default function SoundRecall({
           setTrialsSinceBonus((prev) => prev + 1);
         }
       } else {
+        // Play error sound
+        playErrorThud();
+
         setStreak(0);
         setTrialsSinceBonus((prev) => prev + 1);
         // Track missed character on wrong answer
