@@ -5,11 +5,13 @@ import { Character, LessonData } from '@/lib/types';
 import { getLessonTheme } from '@/lib/lessonThemes';
 import { playToneSound, ToneNumber } from '@/lib/toneSounds';
 
+import { MasteryGameResult } from './ToneRecall';
+
 interface SoundRecallProps {
   characters: Character[];
   lessonData: LessonData;
   lessonNumber: number;
-  onComplete: (accuracy: number) => void;
+  onComplete: (result: MasteryGameResult) => void;
   onBack?: () => void;
 }
 
@@ -113,6 +115,7 @@ export default function SoundRecall({
   const [streak, setStreak] = useState(0);
   const [showBonus, setShowBonus] = useState(false);
   const [trialsSinceBonus, setTrialsSinceBonus] = useState(0);
+  const [missedCharacterIds, setMissedCharacterIds] = useState<number[]>([]);
 
   const currentCharacter = shuffledCharacters[currentIndex];
   const progress = ((currentIndex + 1) / shuffledCharacters.length) * 100;
@@ -128,7 +131,11 @@ export default function SoundRecall({
     setIsCorrect(false);
     setStreak(0);
     setTrialsSinceBonus((prev) => prev + 1);
-  }, []);
+    // Track missed character on timeout
+    setMissedCharacterIds((prev) =>
+      prev.includes(currentCharacter.id) ? prev : [...prev, currentCharacter.id]
+    );
+  }, [currentCharacter.id]);
 
   // Timer effect
   useEffect(() => {
@@ -190,6 +197,10 @@ export default function SoundRecall({
       } else {
         setStreak(0);
         setTrialsSinceBonus((prev) => prev + 1);
+        // Track missed character on wrong answer
+        setMissedCharacterIds((prev) =>
+          prev.includes(currentCharacter.id) ? prev : [...prev, currentCharacter.id]
+        );
       }
     },
     [showResult, currentCharacter, streak, shouldGetBonus]
@@ -199,7 +210,7 @@ export default function SoundRecall({
   const handleNext = useCallback(() => {
     if (isLastCharacter) {
       const accuracy = correctCount / shuffledCharacters.length;
-      onComplete(accuracy);
+      onComplete({ accuracy, missedCharacterIds });
     } else {
       setCurrentIndex((prev) => prev + 1);
       setTimeLeft(INITIAL_TIME);
@@ -208,7 +219,7 @@ export default function SoundRecall({
       setSelectedPinyin(null);
       setIsCorrect(false);
     }
-  }, [isLastCharacter, correctCount, shuffledCharacters.length, onComplete]);
+  }, [isLastCharacter, correctCount, shuffledCharacters.length, onComplete, missedCharacterIds]);
 
   // Keyboard navigation
   useEffect(() => {
