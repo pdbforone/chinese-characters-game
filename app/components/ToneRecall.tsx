@@ -4,11 +4,16 @@ import { useState, useEffect, useCallback } from 'react';
 import { Character, LessonData } from '@/lib/types';
 import { getLessonTheme } from '@/lib/lessonThemes';
 
+export interface MasteryGameResult {
+  accuracy: number;
+  missedCharacterIds: number[];
+}
+
 interface ToneRecallProps {
   characters: Character[];
   lessonData: LessonData;
   lessonNumber: number;
-  onComplete: (accuracy: number) => void;
+  onComplete: (result: MasteryGameResult) => void;
   onBack?: () => void;
 }
 
@@ -99,6 +104,7 @@ export default function ToneRecall({
   const [_bonusPoints, setBonusPoints] = useState(0);
   const [showBonus, setShowBonus] = useState(false);
   const [trialsSinceBonus, setTrialsSinceBonus] = useState(0);
+  const [missedCharacterIds, setMissedCharacterIds] = useState<number[]>([]);
 
   const currentCharacter = shuffledCharacters[currentIndex];
   const progress = ((currentIndex + 1) / shuffledCharacters.length) * 100;
@@ -111,7 +117,11 @@ export default function ToneRecall({
     setIsCorrect(false);
     setStreak(0);
     setTrialsSinceBonus((prev) => prev + 1);
-  }, []);
+    // Track missed character on timeout
+    setMissedCharacterIds((prev) =>
+      prev.includes(currentCharacter.id) ? prev : [...prev, currentCharacter.id]
+    );
+  }, [currentCharacter.id]);
 
   // Timer effect with ref to track timeout handler
   useEffect(() => {
@@ -179,6 +189,10 @@ export default function ToneRecall({
       } else {
         setStreak(0);
         setTrialsSinceBonus((prev) => prev + 1);
+        // Track missed character on wrong answer
+        setMissedCharacterIds((prev) =>
+          prev.includes(currentCharacter.id) ? prev : [...prev, currentCharacter.id]
+        );
       }
     },
     [showResult, currentCharacter, streak, shouldGetBonus]
@@ -188,7 +202,7 @@ export default function ToneRecall({
   const handleNext = useCallback(() => {
     if (isLastCharacter) {
       const accuracy = correctCount / shuffledCharacters.length;
-      onComplete(accuracy);
+      onComplete({ accuracy, missedCharacterIds });
     } else {
       setCurrentIndex((prev) => prev + 1);
       setTimeLeft(INITIAL_TIME);
@@ -197,7 +211,7 @@ export default function ToneRecall({
       setSelectedTone(null);
       setIsCorrect(false);
     }
-  }, [isLastCharacter, correctCount, shuffledCharacters.length, onComplete]);
+  }, [isLastCharacter, correctCount, shuffledCharacters.length, onComplete, missedCharacterIds]);
 
   // Keyboard navigation
   useEffect(() => {
@@ -298,7 +312,7 @@ export default function ToneRecall({
             </div>
           )}
 
-          <div className={`text-9xl font-serif ${theme.textPrimary} mb-2`}>
+          <div className={`text-7xl sm:text-8xl md:text-9xl font-serif ${theme.textPrimary} mb-2`}>
             {currentCharacter.character}
           </div>
 
@@ -325,7 +339,7 @@ export default function ToneRecall({
                 onClick={() => handleSelectTone(emotion.tone)}
                 disabled={showResult}
                 className={`
-                  p-4 rounded-xl font-bold text-lg transition-all duration-200
+                  p-4 rounded-xl font-bold text-lg transition-all duration-200 min-h-[72px]
                   ${
                     showAsCorrect
                       ? `bg-gradient-to-r ${emotion.color} text-white ring-4 ring-white/50 scale-105`

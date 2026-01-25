@@ -8,9 +8,10 @@ import ReturnUserModal from '@/app/components/ReturnUserModal';
 import RewardScreen from '@/app/components/RewardScreen';
 import MasteryGate from '@/app/components/MasteryGate';
 import MasteryGameSelector, { MasteryGameType } from '@/app/components/MasteryGameSelector';
-import ToneRecall from '@/app/components/ToneRecall';
+import ToneRecall, { MasteryGameResult } from '@/app/components/ToneRecall';
 import SoundRecall from '@/app/components/SoundRecall';
 import CharacterRecall from '@/app/components/CharacterRecall';
+import MasteryResult from '@/app/components/MasteryResult';
 import { getLessonData } from '@/lib/lessonLoader';
 import {
   getLessonProgress,
@@ -32,6 +33,8 @@ type Phase =
   | 'tone-recall'
   | 'sound-recall'
   | 'character-recall'
+  | 'mastery-result'
+  | 'mastery-review'
   | 'mastery-complete';
 
 export default function LessonPage() {
@@ -54,6 +57,9 @@ export default function LessonPage() {
     'character-recall': 0,
   });
   const [completedMasteryGames, setCompletedMasteryGames] = useState<MasteryGameType[]>([]);
+  const [currentMasteryGame, setCurrentMasteryGame] = useState<MasteryGameType | null>(null);
+  const [lastGameResult, setLastGameResult] = useState<MasteryGameResult | null>(null);
+  const [reviewMode, setReviewMode] = useState(false);
 
   // Check if this lesson supports mastery tier
   const supportsMastery = lessonSupportsMastery(lessonId);
@@ -122,52 +128,83 @@ export default function LessonPage() {
   };
 
   const handleSelectMasteryGame = (game: MasteryGameType) => {
+    setCurrentMasteryGame(game);
+    setReviewMode(false);
     setPhase(game);
   };
 
-  const handleMasteryGameComplete = (game: MasteryGameType, accuracy: number) => {
-    // Save score for this specific game
-    const roundKey =
-      game === 'tone-recall'
-        ? 'toneRecall'
-        : game === 'sound-recall'
-          ? 'soundRecall'
-          : 'characterRecall';
-    saveRoundScore(
-      lessonId,
-      roundKey as 'toneRecall' | 'round1' | 'round2' | 'round3' | 'round4',
-      Math.round(accuracy * 100)
-    );
+  const handleMasteryGameComplete = (game: MasteryGameType, result: MasteryGameResult) => {
+    // Save score for this specific game (only if not in review mode)
+    if (!reviewMode) {
+      const roundKey =
+        game === 'tone-recall'
+          ? 'toneRecall'
+          : game === 'sound-recall'
+            ? 'soundRecall'
+            : 'characterRecall';
+      saveRoundScore(
+        lessonId,
+        roundKey as 'toneRecall' | 'round1' | 'round2' | 'round3' | 'round4',
+        Math.round(result.accuracy * 100)
+      );
 
-    // Update accuracies
-    setMasteryAccuracies((prev) => ({ ...prev, [game]: accuracy }));
+      // Update accuracies
+      setMasteryAccuracies((prev) => ({ ...prev, [game]: result.accuracy }));
 
-    // Add to completed games if not already there
-    if (!completedMasteryGames.includes(game)) {
-      const newCompleted = [...completedMasteryGames, game];
-      setCompletedMasteryGames(newCompleted);
+      // Add to completed games if not already there
+      if (!completedMasteryGames.includes(game)) {
+        const newCompleted = [...completedMasteryGames, game];
+        setCompletedMasteryGames(newCompleted);
 
-      // If all 3 games completed, mark as fully mastered
-      if (newCompleted.length === 3) {
-        const avgAccuracy =
-          (masteryAccuracies['tone-recall'] + masteryAccuracies['sound-recall'] + accuracy) / 3;
-        markLessonMastered(lessonId, avgAccuracy);
+        // If all 3 games completed, mark as fully mastered
+        if (newCompleted.length === 3) {
+          const avgAccuracy =
+            (masteryAccuracies['tone-recall'] +
+              masteryAccuracies['sound-recall'] +
+              result.accuracy) /
+            3;
+          markLessonMastered(lessonId, avgAccuracy);
+        }
       }
     }
 
-    setPhase('mastery-complete');
+    // Store result and show result screen
+    setLastGameResult(result);
+    setPhase('mastery-result');
   };
 
-  const handleToneRecallComplete = (accuracy: number) => {
-    handleMasteryGameComplete('tone-recall', accuracy);
+  const handleReviewMissed = () => {
+    if (currentMasteryGame && lastGameResult) {
+      setReviewMode(true);
+      setPhase(currentMasteryGame);
+    }
   };
 
-  const handleSoundRecallComplete = (accuracy: number) => {
-    handleMasteryGameComplete('sound-recall', accuracy);
+  const handleResultContinue = () => {
+    // If all games done, go to complete, otherwise back to selector
+    if (completedMasteryGames.length >= 3) {
+      const savedProgress = getLessonProgress(lessonId);
+      setProgress(savedProgress);
+      setPhase('modal');
+    } else {
+      setPhase('mastery-selector');
+    }
   };
 
-  const handleCharacterRecallComplete = (accuracy: number) => {
-    handleMasteryGameComplete('character-recall', accuracy);
+  const handleResultBack = () => {
+    setPhase('mastery-selector');
+  };
+
+  const handleToneRecallComplete = (result: MasteryGameResult) => {
+    handleMasteryGameComplete('tone-recall', result);
+  };
+
+  const handleSoundRecallComplete = (result: MasteryGameResult) => {
+    handleMasteryGameComplete('sound-recall', result);
+  };
+
+  const handleCharacterRecallComplete = (result: MasteryGameResult) => {
+    handleMasteryGameComplete('character-recall', result);
   };
 
   const handleMasteryCompleteBack = () => {
@@ -302,15 +339,23 @@ export default function LessonPage() {
     );
   }
 
+  // Get characters for current game (filtered if in review mode)
+  const getGameCharacters = () => {
+    if (reviewMode && lastGameResult && lastGameResult.missedCharacterIds.length > 0) {
+      return lessonData.characters.filter((c) => lastGameResult.missedCharacterIds.includes(c.id));
+    }
+    return lessonData.characters;
+  };
+
   // Tone Recall phase - pure tone recall mastery game
   if (phase === 'tone-recall') {
     return (
       <ToneRecall
-        characters={lessonData.characters}
+        characters={getGameCharacters()}
         lessonData={lessonData}
         lessonNumber={lessonId}
         onComplete={handleToneRecallComplete}
-        onBack={() => setPhase('mastery-selector')}
+        onBack={() => setPhase(reviewMode ? 'mastery-result' : 'mastery-selector')}
       />
     );
   }
@@ -319,11 +364,11 @@ export default function LessonPage() {
   if (phase === 'sound-recall') {
     return (
       <SoundRecall
-        characters={lessonData.characters}
+        characters={getGameCharacters()}
         lessonData={lessonData}
         lessonNumber={lessonId}
         onComplete={handleSoundRecallComplete}
-        onBack={() => setPhase('mastery-selector')}
+        onBack={() => setPhase(reviewMode ? 'mastery-result' : 'mastery-selector')}
       />
     );
   }
@@ -332,11 +377,31 @@ export default function LessonPage() {
   if (phase === 'character-recall') {
     return (
       <CharacterRecall
-        characters={lessonData.characters}
+        characters={getGameCharacters()}
         lessonData={lessonData}
         lessonNumber={lessonId}
         onComplete={handleCharacterRecallComplete}
-        onBack={() => setPhase('mastery-selector')}
+        onBack={() => setPhase(reviewMode ? 'mastery-result' : 'mastery-selector')}
+      />
+    );
+  }
+
+  // Mastery Result phase - shows results with review option
+  if (phase === 'mastery-result' && currentMasteryGame && lastGameResult) {
+    const missedCharacters = lessonData.characters.filter((c) =>
+      lastGameResult.missedCharacterIds.includes(c.id)
+    );
+    return (
+      <MasteryResult
+        lessonNumber={lessonId}
+        lessonData={lessonData}
+        gameType={currentMasteryGame}
+        accuracy={lastGameResult.accuracy}
+        missedCharacters={missedCharacters}
+        totalCharacters={reviewMode ? missedCharacters.length : lessonData.characters.length}
+        onReviewMissed={handleReviewMissed}
+        onContinue={handleResultContinue}
+        onBack={handleResultBack}
       />
     );
   }
