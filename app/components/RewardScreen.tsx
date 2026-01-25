@@ -11,8 +11,18 @@ interface RewardScreenProps {
   lessonNumber: number;
   lessonData?: LessonData;
   accuracies: number[]; // Accuracies from each round
+  sessionStartTime?: number | null; // Timestamp when game started
   onContinue: () => void;
   onReplayLesson?: () => void;
+}
+
+// Format duration in minutes and seconds
+function formatDuration(ms: number): string {
+  const seconds = Math.floor(ms / 1000);
+  const minutes = Math.floor(seconds / 60);
+  const remainingSeconds = seconds % 60;
+  if (minutes === 0) return `${seconds}s`;
+  return `${minutes}m ${remainingSeconds}s`;
 }
 
 // Particle for confetti effect
@@ -99,6 +109,7 @@ export default function RewardScreen({
   lessonNumber,
   lessonData,
   accuracies,
+  sessionStartTime,
   onContinue,
   onReplayLesson,
 }: RewardScreenProps) {
@@ -111,6 +122,14 @@ export default function RewardScreen({
     () => accuracies.reduce((a, b) => a + b, 0) / accuracies.length,
     [accuracies]
   );
+
+  // Calculate session duration - capture end time once on mount
+  const [sessionEndTime] = useState(() => Date.now());
+  const sessionDuration = sessionStartTime ? sessionEndTime - sessionStartTime : null;
+  const timePerCharacter =
+    sessionDuration && characters.length > 0
+      ? Math.round(sessionDuration / characters.length / 1000)
+      : null;
 
   // Particle colors based on dominant tones in lesson
   const particleColors = useMemo(() => {
@@ -244,7 +263,9 @@ export default function RewardScreen({
 
         {/* Stats */}
         <div className="bg-white/10 backdrop-blur rounded-2xl p-6 mb-8 max-w-md w-full">
-          <div className="grid grid-cols-3 gap-4 text-center">
+          <div
+            className={`grid ${sessionDuration ? 'grid-cols-4' : 'grid-cols-3'} gap-4 text-center`}
+          >
             <div>
               <p className="text-white/60 text-sm">Accuracy</p>
               <p className="text-2xl font-bold text-white">{avgAccuracy.toFixed(0)}%</p>
@@ -253,9 +274,17 @@ export default function RewardScreen({
               <p className="text-white/60 text-sm">Characters</p>
               <p className="text-2xl font-bold text-white">{characters.length}</p>
             </div>
+            {sessionDuration && (
+              <div>
+                <p className="text-white/60 text-sm">Time</p>
+                <p className="text-2xl font-bold text-white">{formatDuration(sessionDuration)}</p>
+              </div>
+            )}
             <div>
-              <p className="text-white/60 text-sm">Rounds</p>
-              <p className="text-2xl font-bold text-white">{accuracies.length}</p>
+              <p className="text-white/60 text-sm">{sessionDuration ? 'Per Char' : 'Rounds'}</p>
+              <p className="text-2xl font-bold text-white">
+                {sessionDuration ? `${timePerCharacter}s` : accuracies.length}
+              </p>
             </div>
           </div>
 

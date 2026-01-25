@@ -241,10 +241,13 @@ LOW ─┼───────────────────────�
 1. [x] Research spaced repetition algorithms
 2. [x] Research PWA requirements
 3. [x] Implement Phase 1 features (Missed Character Review)
-4. [ ] Research user authentication & cloud sync
-5. [ ] Implement user profiles with Supabase
-6. [ ] Implement Phase 2 based on research
-7. [ ] Iterate based on user feedback
+4. [x] Research user authentication & cloud sync (completed 2026-01-25)
+5. [x] Research Chinese pedagogy approaches (completed 2026-01-25)
+6. [ ] Implement user profiles with Supabase
+7. [ ] Add phonetic_series field to character schema
+8. [ ] Create TonePair mastery game mode
+9. [ ] Implement Phase 2 based on research
+10. [ ] Iterate based on user feedback
 
 ---
 
@@ -347,3 +350,258 @@ Please provide specific code examples for Next.js 15 App Router where applicable
 - Client-side auth state management
 - Supabase client initialization pattern
 ```
+
+---
+
+## L - Research Completed: User Auth & Cloud Sync (2026-01-25)
+
+### Executive Summary
+
+The central challenge: **data granularity vs. infrastructure cost**. A naive one-row-per-character-per-user design creates 300M+ rows at 100K users — impossible on free tiers.
+
+**Solution**: Hybrid Storage Model with PostgreSQL JSONB + app-level compression. One row per user with a compressed state blob reduces cardinality 3,000x.
+
+### 1. Authentication Provider Selection: Supabase
+
+| Provider     | Free MAU | Guest/Anonymous      | DB Integration      | Next.js 15 DX |
+| ------------ | -------- | -------------------- | ------------------- | ------------- |
+| **Supabase** | 50,000   | Native (first-class) | Direct (RLS)        | High          |
+| Firebase     | High     | Native               | Indirect (external) | Medium        |
+| Clerk        | 10,000   | Complex workaround   | Indirect (webhooks) | Very High     |
+| Auth0        | 7,500    | No                   | Indirect            | Medium        |
+| Appwrite     | 75,000   | Native               | Direct (internal)   | Medium        |
+
+**Why Supabase wins:**
+
+- 50K MAU free tier (massive runway)
+- Native anonymous-to-permanent user promotion ("Lazy Registration")
+- Direct PostgreSQL Row Level Security (RLS) — no custom API layer needed
+- Cookie-based sessions with `@supabase/ssr` for Next.js 15
+
+### 2. Database Schema: The "One Row Per User" Model
+
+**The Problem**: 100K users × 3,035 characters = 303,500,000 rows. Exceeds 500MB free tier at ~2,000 users.
+
+**The Solution**: JSONB state blob per user.
+
+```sql
+-- User Profiles (Minimal PII)
+CREATE TABLE profiles (
+  id uuid REFERENCES auth.users ON DELETE CASCADE PRIMARY KEY,
+  username text,
+  avatar_url text,
+
+  -- Fast-access derived stats (for leaderboards, queries)
+  level integer DEFAULT 1,
+  xp integer DEFAULT 0,
+  streak integer DEFAULT 0,
+  last_played_at timestamptz,
+
+  -- Core game state blob (loaded whole, saved whole)
+  state jsonb NOT NULL DEFAULT '{}'::jsonb,
+
+  updated_at timestamptz DEFAULT now()
+);
+
+-- Row Level Security
+ALTER TABLE profiles ENABLE ROW LEVEL SECURITY;
+CREATE POLICY "Profile owner access" ON profiles
+  FOR ALL USING (auth.uid() = id);
+```
+
+**State Blob Structure:**
+
+```json
+{
+  "characters": {
+    "里": [4.5, 2.1, 0.95, 1709856000],
+    "火": [6.2, 1.9, 0.98, 1709942400]
+  },
+  "lessons": {
+    "1": { "completed": true, "bestAccuracy": 0.92 },
+    "9": { "completed": true, "bestAccuracy": 0.85 }
+  },
+  "mastery": {
+    "toneRecall": { "played": 12, "avgAccuracy": 0.78 }
+  },
+  "settings": { "soundEnabled": true }
+}
+```
+
+**Compression**: PostgreSQL TOAST auto-compresses. ~30KB per user compressed.
+**Capacity**: 500MB / 30KB = ~16,000 users on free tier (8x improvement).
+
+### 3. Offline-First Architecture
+
+**Local Storage**: IndexedDB (not localStorage — async, larger capacity)
+
+**Sync Strategy**: Operation Queue with Snapshot Fallback
+
+1. User reviews → Update IndexedDB immediately (Optimistic UI)
+2. Queue operations locally
+3. On network reconnect → Send batch to server
+4. Server applies operations, returns authoritative state
+5. Client accepts server state as truth
+
+**Conflict Resolution**: Last-Write-Wins (LWW) at card level
+
+- Conflicts rare in SRS (card reviewed once, pushed days out)
+- Server timestamps authoritative (prevents clock manipulation)
+- CRDTs unnecessary complexity for single-user scenarios
+
+### 4. Migration Path: Guest to Permanent
+
+**Flow**:
+
+1. App loads → Anonymous Supabase session
+2. Create `profiles` row immediately with anonymous ID
+3. User plays → All data in IndexedDB + profiles table
+4. User signs up → Supabase links identity (same UUID)
+5. Nothing migrates — same primary key throughout
+
+**Legacy localStorage migration:**
+
+```typescript
+// On mount, check for legacy data
+const legacyProgress = localStorage.getItem('lessonProgress');
+if (legacyProgress) {
+  await migrateToIndexedDB(JSON.parse(legacyProgress));
+  localStorage.removeItem('lessonProgress');
+}
+```
+
+### 5. Cost Projection
+
+| Metric       | 1,000 Users | 10,000 Users | 100,000 Users  |
+| ------------ | ----------- | ------------ | -------------- |
+| Auth Cost    | $0          | $0           | ~$162/mo (Pro) |
+| Storage      | 30 MB       | 300 MB       | 3 GB           |
+| Storage Cost | $0          | $0           | ~$25/mo        |
+| **Total**    | **$0**      | **$0**       | **~$200/mo**   |
+
+**Breaking point**: Storage limit (500MB) at ~12,000 users, or MAU limit (50K).
+
+### 6. Implementation Code Examples
+
+**Supabase Client Setup (Next.js 15):**
+
+```typescript
+// utils/supabase/server.ts
+import { createServerClient } from '@supabase/ssr';
+import { cookies } from 'next/headers';
+
+export async function createClient() {
+  const cookieStore = await cookies();
+  return createServerClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+    {
+      cookies: {
+        getAll() {
+          return cookieStore.getAll();
+        },
+        setAll(cookiesToSet) {
+          cookiesToSet.forEach(({ name, value, options }) => cookieStore.set(name, value, options));
+        },
+      },
+    }
+  );
+}
+```
+
+**Sync Server Action:**
+
+```typescript
+// app/actions/sync.ts
+'use server';
+import { createClient } from '@/utils/supabase/server';
+
+export async function syncProgress(localState: any) {
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) throw new Error('Unauthorized');
+
+  // LWW merge at field level
+  const { data: remote } = await supabase
+    .from('profiles')
+    .select('state')
+    .eq('id', user.id)
+    .single();
+
+  const merged = { ...remote?.state, ...localState };
+
+  await supabase
+    .from('profiles')
+    .upsert({ id: user.id, state: merged, updated_at: new Date().toISOString() });
+
+  return { success: true, state: merged };
+}
+```
+
+### 7. UX Patterns
+
+- **Sunk Cost Prompt**: Let user learn 10+ characters before asking for account
+- **Streaks**: Store `streak` and `last_played_at` as columns for fast queries
+- **Leaderboards**: Use PostgreSQL Materialized Views refreshed hourly (not live queries)
+
+---
+
+## F. Chinese Pedagogy Enhancements (Research Completed 2026-01-25)
+
+See detailed research: `docs/chinese-pedagogy-research.md`
+
+### Key Insights Applied
+
+| Research Finding                  | Application to Game                              |
+| --------------------------------- | ------------------------------------------------ |
+| Phonetic Series (Sheng Xi) groups | Add `phonetic_series` field to characters        |
+| Tone Pairs > Isolated Tones       | Create TonePair mastery game mode                |
+| Radical as Setting consistency    | Audit narratives for radical theming             |
+| Daka (打卡) culture               | Add shareable daily completion cards             |
+| Zi Ben Wei (character-based)      | Already aligned — our approach validated         |
+| Tone-emotion mapping              | Already implemented (SING/GASP/GROAN/COMMAND) ✅ |
+
+### Design Decision: Rich Narratives Preserved
+
+Research suggests "thin narratives" for minimal cognitive load. However, user testing indicates immersive storytelling is more engaging and effective for this audience.
+
+**Compromise**: Keep rich narratives as primary approach. Add structural metadata (phonetic series, radical tags) underneath to enable features like:
+
+- "Practice all characters with the 青 sound"
+- "Review characters from the Water radical family"
+- Future: Alternate "structural" lesson mode as experiment
+
+### TonePair Game Mode Design
+
+Research shows tone pairs (transitions between tones) are more important than isolated tones.
+
+**Game Concept**: Test two-character compounds, focusing on the transition.
+
+```
+┌─────────────────────────────────────┐
+│         TONE PAIR CHALLENGE         │
+│                                     │
+│     What tone combination is:       │
+│                                     │
+│           北 京                     │
+│         (Běijīng)                   │
+│                                     │
+│   ┌─────┐  ┌─────┐  ┌─────┐        │
+│   │ 1+1 │  │ 3+1 │  │ 2+4 │        │
+│   └─────┘  └─────┘  └─────┘        │
+│                                     │
+│         Streak: 5x                  │
+└─────────────────────────────────────┘
+```
+
+**Implementation Notes**:
+
+- Source two-character compounds from lesson characters
+- Test the 20 tone combinations systematically
+- "Anchor words" for each combination (飞机 for 1+1, 北京 for 3+1)
+- Audio plays both characters in sequence
+- Focus on prosody (the flow between tones)
+
+**Data Requirement**: Need compound words in lesson data, or generate pairs from single characters.

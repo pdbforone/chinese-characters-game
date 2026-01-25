@@ -60,6 +60,7 @@ export default function LessonPage() {
   const [currentMasteryGame, setCurrentMasteryGame] = useState<MasteryGameType | null>(null);
   const [lastGameResult, setLastGameResult] = useState<MasteryGameResult | null>(null);
   const [reviewMode, setReviewMode] = useState(false);
+  const [sessionStartTime, setSessionStartTime] = useState<number | null>(null);
 
   // Check if this lesson supports mastery tier
   const supportsMastery = lessonSupportsMastery(lessonId);
@@ -70,6 +71,7 @@ export default function LessonPage() {
   const handleIntroductionComplete = () => {
     markIntroductionComplete(lessonId);
     setProgress((prev) => ({ ...prev, introductionCompleted: true }));
+    setSessionStartTime(Date.now());
     setPhase('game');
   };
 
@@ -78,6 +80,7 @@ export default function LessonPage() {
   };
 
   const handleStartGame = () => {
+    setSessionStartTime(Date.now());
     setPhase('game');
   };
 
@@ -307,6 +310,7 @@ export default function LessonPage() {
         lessonNumber={lessonId}
         lessonData={lessonData}
         accuracies={gameAccuracies}
+        sessionStartTime={sessionStartTime}
         onContinue={handleRewardContinue}
         onReplayLesson={handleReplayLesson}
       />
