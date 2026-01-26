@@ -1,0 +1,802 @@
+[
+  {
+    "index": 224,
+    "character": "桃",
+    "pinyin": "táo",
+    "tone": 2,
+    "meaning": "peach",
+    "current_lesson": 11
+  },
+  {
+    "index": 225,
+    "character": "犬",
+    "pinyin": "quǎn",
+    "tone": 3,
+    "meaning": "pooch",
+    "current_lesson": 11
+  },
+  {
+    "index": 226,
+    "character": "尤",
+    "pinyin": "yóu",
+    "tone": 2,
+    "meaning": "remarkable",
+    "current_lesson": 11
+  },
+  {
+    "index": 227,
+    "character": "默",
+    "pinyin": "mò",
+    "tone": 4,
+    "meaning": "silence",
+    "current_lesson": 11
+  },
+  {
+    "index": 228,
+    "character": "然",
+    "pinyin": "rán",
+    "tone": 2,
+    "meaning": "sort of thing",
+    "current_lesson": 11
+  },
+  {
+    "index": 229,
+    "character": "哭",
+    "pinyin": "kū",
+    "tone": 1,
+    "meaning": "to cry",
+    "current_lesson": 11
+  },
+  {
+    "index": 230,
+    "character": "器",
+    "pinyin": "qì",
+    "tone": 4,
+    "meaning": "utensil",
+    "current_lesson": 11
+  },
+  {
+    "index": 231,
+    "character": "臭",
+    "pinyin": "chòu",
+    "tone": 4,
+    "meaning": "stinking",
+    "current_lesson": 11
+  },
+  {
+    "index": 232,
+    "character": "狗",
+    "pinyin": "gǒu",
+    "tone": 3,
+    "meaning": "dog",
+    "current_lesson": 11
+  },
+  {
+    "index": 233,
+    "character": "厭",
+    "pinyin": "yàn",
+    "tone": 4,
+    "meaning": "to detest",
+    "current_lesson": 11
+  },
+  {
+    "index": 234,
+    "character": "壓",
+    "pinyin": "yā",
+    "tone": 1,
+    "meaning": "pressure",
+    "current_lesson": 11
+  },
+  {
+    "index": 235,
+    "character": "牛",
+    "pinyin": "niú",
+    "tone": 2,
+    "meaning": "cow",
+    "current_lesson": 11
+  },
+  {
+    "index": 236,
+    "character": "特",
+    "pinyin": "tè",
+    "tone": 4,
+    "meaning": "special",
+    "current_lesson": 11
+  },
+  {
+    "index": 237,
+    "character": "告",
+    "pinyin": "gào",
+    "tone": 4,
+    "meaning": "to declare",
+    "current_lesson": 11
+  },
+  {
+    "index": 238,
+    "character": "浩",
+    "pinyin": "hào",
+    "tone": 4,
+    "meaning": "vast",
+    "current_lesson": 11
+  },
+  {
+    "index": 239,
+    "character": "先",
+    "pinyin": "xiān",
+    "tone": 1,
+    "meaning": "before",
+    "current_lesson": 11
+  },
+  {
+    "index": 240,
+    "character": "洗",
+    "pinyin": "xǐ",
+    "tone": 3,
+    "meaning": "to wash",
+    "current_lesson": 11
+  },
+  {
+    "index": 241,
+    "character": "介",
+    "pinyin": "jiè",
+    "tone": 4,
+    "meaning": "to introduce",
+    "current_lesson": 12
+  },
+  {
+    "index": 242,
+    "character": "界",
+    "pinyin": "jiè",
+    "tone": 4,
+    "meaning": "world",
+    "current_lesson": 12
+  },
+  {
+    "index": 243,
+    "character": "茶",
+    "pinyin": "chá",
+    "tone": 2,
+    "meaning": "tea",
+    "current_lesson": 12
+  },
+  {
+    "index": 244,
+    "character": "會",
+    "pinyin": "huì",
+    "tone": 4,
+    "meaning": "meeting",
+    "current_lesson": 12
+  },
+  {
+    "index": 245,
+    "character": "合",
+    "pinyin": "hé",
+    "tone": 2,
+    "meaning": "to fit",
+    "current_lesson": 12
+  },
+  {
+    "index": 246,
+    "character": "哈",
+    "pinyin": "hā",
+    "tone": 1,
+    "meaning": "ha!",
+    "current_lesson": 12
+  },
+  {
+    "index": 247,
+    "character": "塔",
+    "pinyin": "tǎ",
+    "tone": 3,
+    "meaning": "pagoda",
+    "current_lesson": 12
+  },
+  {
+    "index": 248,
+    "character": "王",
+    "pinyin": "wáng",
+    "tone": 2,
+    "meaning": "king",
+    "current_lesson": 12
+  },
+  {
+    "index": 249,
+    "character": "玉",
+    "pinyin": "yù",
+    "tone": 4,
+    "meaning": "jade",
+    "current_lesson": 12
+  },
+  {
+    "index": 250,
+    "character": "球",
+    "pinyin": "qiú",
+    "tone": 2,
+    "meaning": "balls",
+    "current_lesson": 12
+  },
+  {
+    "index": 251,
+    "character": "現",
+    "pinyin": "xiàn",
+    "tone": 4,
+    "meaning": "present",
+    "current_lesson": 12
+  },
+  {
+    "index": 252,
+    "character": "玩",
+    "pinyin": "wán",
+    "tone": 2,
+    "meaning": "to play",
+    "current_lesson": 12
+  },
+  {
+    "index": 253,
+    "character": "狂",
+    "pinyin": "kuáng",
+    "tone": 2,
+    "meaning": "crazy",
+    "current_lesson": 12
+  },
+  {
+    "index": 254,
+    "character": "皇",
+    "pinyin": "huáng",
+    "tone": 2,
+    "meaning": "emperor",
+    "current_lesson": 12
+  },
+  {
+    "index": 255,
+    "character": "煌",
+    "pinyin": "huáng",
+    "tone": 2,
+    "meaning": "resplendent",
+    "current_lesson": 12
+  },
+  {
+    "index": 256,
+    "character": "呈",
+    "pinyin": "chéng",
+    "tone": 2,
+    "meaning": "to submit",
+    "current_lesson": 12
+  },
+  {
+    "index": 257,
+    "character": "全",
+    "pinyin": "quán",
+    "tone": 2,
+    "meaning": "whole",
+    "current_lesson": 12
+  },
+  {
+    "index": 258,
+    "character": "理",
+    "pinyin": "lǐ",
+    "tone": 3,
+    "meaning": "logic",
+    "current_lesson": 12
+  },
+  {
+    "index": 259,
+    "character": "主",
+    "pinyin": "zhǔ",
+    "tone": 3,
+    "meaning": "lord",
+    "current_lesson": 12
+  },
+  {
+    "index": 260,
+    "character": "注",
+    "pinyin": "zhù",
+    "tone": 4,
+    "meaning": "to pour",
+    "current_lesson": 12
+  },
+  {
+    "index": 261,
+    "character": "金",
+    "pinyin": "jīn",
+    "tone": 1,
+    "meaning": "gold",
+    "current_lesson": 12
+  },
+  {
+    "index": 262,
+    "character": "銅",
+    "pinyin": "tóng",
+    "tone": 2,
+    "meaning": "copper",
+    "current_lesson": 12
+  },
+  {
+    "index": 263,
+    "character": "釣",
+    "pinyin": "diào",
+    "tone": 4,
+    "meaning": "to go fishing",
+    "current_lesson": 12
+  },
+  {
+    "index": 264,
+    "character": "針",
+    "pinyin": "zhēn",
+    "tone": 1,
+    "meaning": "needle",
+    "current_lesson": 12
+  },
+  {
+    "index": 265,
+    "character": "釘",
+    "pinyin": "dīng",
+    "tone": 1,
+    "meaning": "nail",
+    "current_lesson": 12
+  },
+  {
+    "index": 266,
+    "character": "銘",
+    "pinyin": "míng",
+    "tone": 2,
+    "meaning": "inscription",
+    "current_lesson": 12
+  },
+  {
+    "index": 267,
+    "character": "鎮",
+    "pinyin": "zhèn",
+    "tone": 4,
+    "meaning": "at ease",
+    "current_lesson": 12
+  },
+  {
+    "index": 268,
+    "character": "道",
+    "pinyin": "dào",
+    "tone": 4,
+    "meaning": "way",
+    "current_lesson": 13
+  },
+  {
+    "index": 269,
+    "character": "導",
+    "pinyin": "dǎo",
+    "tone": 3,
+    "meaning": "to guide",
+    "current_lesson": 13
+  },
+  {
+    "index": 270,
+    "character": "迅",
+    "pinyin": "xùn",
+    "tone": 4,
+    "meaning": "speedy",
+    "current_lesson": 13
+  },
+  {
+    "index": 271,
+    "character": "造",
+    "pinyin": "zào",
+    "tone": 4,
+    "meaning": "to create",
+    "current_lesson": 13
+  },
+  {
+    "index": 272,
+    "character": "巡",
+    "pinyin": "xún",
+    "tone": 2,
+    "meaning": "to patrol",
+    "current_lesson": 13
+  },
+  {
+    "index": 273,
+    "character": "逛",
+    "pinyin": "guàng",
+    "tone": 4,
+    "meaning": "to stroll",
+    "current_lesson": 13
+  },
+  {
+    "index": 274,
+    "character": "車",
+    "pinyin": "chē",
+    "tone": 1,
+    "meaning": "car",
+    "current_lesson": 13
+  },
+  {
+    "index": 275,
+    "character": "連",
+    "pinyin": "lián",
+    "tone": 2,
+    "meaning": "one after another",
+    "current_lesson": 13
+  },
+  {
+    "index": 276,
+    "character": "蓮",
+    "pinyin": "lián",
+    "tone": 2,
+    "meaning": "lotus",
+    "current_lesson": 13
+  },
+  {
+    "index": 277,
+    "character": "前",
+    "pinyin": "qián",
+    "tone": 2,
+    "meaning": "in front",
+    "current_lesson": 13
+  },
+  {
+    "index": 278,
+    "character": "剪",
+    "pinyin": "jiǎn",
+    "tone": 3,
+    "meaning": "shears",
+    "current_lesson": 13
+  },
+  {
+    "index": 279,
+    "character": "輸",
+    "pinyin": "shū",
+    "tone": 1,
+    "meaning": "to transport",
+    "current_lesson": 13
+  },
+  {
+    "index": 280,
+    "character": "逾",
+    "pinyin": "yú",
+    "tone": 2,
+    "meaning": "to exceed",
+    "current_lesson": 13
+  },
+  {
+    "index": 281,
+    "character": "各",
+    "pinyin": "gè",
+    "tone": 4,
+    "meaning": "each",
+    "current_lesson": 13
+  },
+  {
+    "index": 282,
+    "character": "格",
+    "pinyin": "gé",
+    "tone": 2,
+    "meaning": "pattern",
+    "current_lesson": 13
+  },
+  {
+    "index": 283,
+    "character": "客",
+    "pinyin": "kè",
+    "tone": 4,
+    "meaning": "guest",
+    "current_lesson": 13
+  },
+  {
+    "index": 284,
+    "character": "額",
+    "pinyin": "é",
+    "tone": 2,
+    "meaning": "forehead",
+    "current_lesson": 13
+  },
+  {
+    "index": 285,
+    "character": "夏",
+    "pinyin": "xià",
+    "tone": 4,
+    "meaning": "summer",
+    "current_lesson": 13
+  },
+  {
+    "index": 286,
+    "character": "洛",
+    "pinyin": "luò",
+    "tone": 4,
+    "meaning": "L.A.",
+    "current_lesson": 13
+  },
+  {
+    "index": 287,
+    "character": "落",
+    "pinyin": "luò",
+    "tone": 4,
+    "meaning": "to fall",
+    "current_lesson": 13
+  },
+  {
+    "index": 288,
+    "character": "冗",
+    "pinyin": "rǒng",
+    "tone": 3,
+    "meaning": "superfluous",
+    "current_lesson": 14
+  },
+  {
+    "index": 289,
+    "character": "沉",
+    "pinyin": "chén",
+    "tone": 2,
+    "meaning": "profound",
+    "current_lesson": 14
+  },
+  {
+    "index": 290,
+    "character": "軍",
+    "pinyin": "jūn",
+    "tone": 1,
+    "meaning": "army",
+    "current_lesson": 14
+  },
+  {
+    "index": 291,
+    "character": "輝",
+    "pinyin": "huī",
+    "tone": 1,
+    "meaning": "radiance",
+    "current_lesson": 14
+  },
+  {
+    "index": 292,
+    "character": "運",
+    "pinyin": "yùn",
+    "tone": 4,
+    "meaning": "to carry",
+    "current_lesson": 14
+  },
+  {
+    "index": 293,
+    "character": "冠",
+    "pinyin": "guān",
+    "tone": 1,
+    "meaning": "crown",
+    "current_lesson": 14
+  },
+  {
+    "index": 294,
+    "character": "夢",
+    "pinyin": "mèng",
+    "tone": 4,
+    "meaning": "dream",
+    "current_lesson": 14
+  },
+  {
+    "index": 295,
+    "character": "坑",
+    "pinyin": "kēng",
+    "tone": 1,
+    "meaning": "pit",
+    "current_lesson": 14
+  },
+  {
+    "index": 296,
+    "character": "高",
+    "pinyin": "gāo",
+    "tone": 1,
+    "meaning": "tall",
+    "current_lesson": 14
+  },
+  {
+    "index": 297,
+    "character": "享",
+    "pinyin": "xiǎng",
+    "tone": 3,
+    "meaning": "to enjoy",
+    "current_lesson": 14
+  },
+  {
+    "index": 298,
+    "character": "熟",
+    "pinyin": "shú",
+    "tone": 2,
+    "meaning": "ripe",
+    "current_lesson": 14
+  },
+  {
+    "index": 299,
+    "character": "亭",
+    "pinyin": "tíng",
+    "tone": 2,
+    "meaning": "pavilion",
+    "current_lesson": 14
+  },
+  {
+    "index": 300,
+    "character": "亮",
+    "pinyin": "liàng",
+    "tone": 4,
+    "meaning": "shining",
+    "current_lesson": 14
+  },
+  {
+    "index": 301,
+    "character": "京",
+    "pinyin": "jīng",
+    "tone": 1,
+    "meaning": "capital",
+    "current_lesson": 14
+  },
+  {
+    "index": 302,
+    "character": "涼",
+    "pinyin": "liáng",
+    "tone": 2,
+    "meaning": "cool",
+    "current_lesson": 14
+  },
+  {
+    "index": 303,
+    "character": "景",
+    "pinyin": "jǐng",
+    "tone": 3,
+    "meaning": "scenery",
+    "current_lesson": 14
+  },
+  {
+    "index": 304,
+    "character": "就",
+    "pinyin": "jiù",
+    "tone": 4,
+    "meaning": "at once",
+    "current_lesson": 14
+  },
+  {
+    "index": 305,
+    "character": "周",
+    "pinyin": "zhōu",
+    "tone": 1,
+    "meaning": "circumference",
+    "current_lesson": 14
+  },
+  {
+    "index": 306,
+    "character": "週",
+    "pinyin": "zhōu",
+    "tone": 1,
+    "meaning": "week",
+    "current_lesson": 14
+  },
+  {
+    "index": 307,
+    "character": "士",
+    "pinyin": "shì",
+    "tone": 4,
+    "meaning": "soldier",
+    "current_lesson": 14
+  },
+  {
+    "index": 308,
+    "character": "吉",
+    "pinyin": "jí",
+    "tone": 2,
+    "meaning": "lucky",
+    "current_lesson": 14
+  },
+  {
+    "index": 309,
+    "character": "買",
+    "pinyin": "mǎi",
+    "tone": 3,
+    "meaning": "to buy",
+    "current_lesson": 14
+  },
+  {
+    "index": 310,
+    "character": "賣",
+    "pinyin": "mài",
+    "tone": 4,
+    "meaning": "to sell",
+    "current_lesson": 14
+  },
+  {
+    "index": 311,
+    "character": "書",
+    "pinyin": "shū",
+    "tone": 1,
+    "meaning": "book",
+    "current_lesson": 15
+  },
+  {
+    "index": 312,
+    "character": "畫",
+    "pinyin": "huà",
+    "tone": 4,
+    "meaning": "drawing",
+    "current_lesson": 15
+  },
+  {
+    "index": 313,
+    "character": "劃",
+    "pinyin": "huá",
+    "tone": 2,
+    "meaning": "to scratch",
+    "current_lesson": 15
+  },
+  {
+    "index": 314,
+    "character": "攻",
+    "pinyin": "gōng",
+    "tone": 1,
+    "meaning": "to attack",
+    "current_lesson": 15
+  },
+  {
+    "index": 315,
+    "character": "敗",
+    "pinyin": "bài",
+    "tone": 4,
+    "meaning": "to fail",
+    "current_lesson": 15
+  },
+  {
+    "index": 316,
+    "character": "故",
+    "pinyin": "gù",
+    "tone": 4,
+    "meaning": "deliberately",
+    "current_lesson": 15
+  },
+  {
+    "index": 317,
+    "character": "救",
+    "pinyin": "jiù",
+    "tone": 4,
+    "meaning": "to rescue",
+    "current_lesson": 15
+  },
+  {
+    "index": 318,
+    "character": "敬",
+    "pinyin": "jìng",
+    "tone": 4,
+    "meaning": "to revere",
+    "current_lesson": 15
+  },
+  {
+    "index": 319,
+    "character": "敞",
+    "pinyin": "chǎng",
+    "tone": 3,
+    "meaning": "spacious",
+    "current_lesson": 15
+  },
+  {
+    "index": 320,
+    "character": "言",
+    "pinyin": "yán",
+    "tone": 2,
+    "meaning": "to say",
+    "current_lesson": 15
+  },
+  {
+    "index": 321,
+    "character": "警",
+    "pinyin": "jǐng",
+    "tone": 3,
+    "meaning": "police",
+    "current_lesson": 15
+  },
+  {
+    "index": 322,
+    "character": "計",
+    "pinyin": "jì",
+    "tone": 4,
+    "meaning": "plan",
+    "current_lesson": 15
+  },
+  {
+    "index": 323,
+    "character": "獄",
+    "pinyin": "yù",
+    "tone": 4,
+    "meaning": "prison",
+    "current_lesson": 15
+  }
+]
